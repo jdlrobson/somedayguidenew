@@ -1,0 +1,538 @@
+{
+	"note": "<p>I was in the airport here once but it doesn&#39;t count.</p>\n",
+	"snippets": [],
+	"places": {
+		"Doha": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22,
+					"low": 13.5,
+					"precipitation": 13.2
+				},
+				{
+					"heading": "Feb",
+					"high": 23.4,
+					"low": 14.4,
+					"precipitation": 17.1
+				},
+				{
+					"heading": "Mar",
+					"high": 27.3,
+					"low": 17.3,
+					"precipitation": 16.1
+				},
+				{
+					"heading": "Apr",
+					"high": 32.5,
+					"low": 21.4,
+					"precipitation": 8.7
+				},
+				{
+					"heading": "May",
+					"high": 38.8,
+					"low": 26.1,
+					"precipitation": 3.6
+				},
+				{
+					"heading": "Jun",
+					"high": 41.6,
+					"low": 28.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 41.9,
+					"low": 30.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 40.9,
+					"low": 30,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 38.9,
+					"low": 27.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 35.4,
+					"low": 24.6,
+					"precipitation": 1.1
+				},
+				{
+					"heading": "Nov",
+					"high": 29.6,
+					"low": 20.4,
+					"precipitation": 3.3
+				},
+				{
+					"heading": "Dec",
+					"high": 24.4,
+					"low": 15.6,
+					"precipitation": 12.1
+				}
+			]
+		},
+		"Al Khor": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20.5,
+					"low": 12,
+					"precipitation": 11
+				},
+				{
+					"heading": "Feb",
+					"high": 22.5,
+					"low": 13.5,
+					"precipitation": 1.5
+				},
+				{
+					"heading": "Mar",
+					"high": 27,
+					"low": 16,
+					"precipitation": 2
+				},
+				{
+					"heading": "Apr",
+					"high": 32.5,
+					"low": 21,
+					"precipitation": 6.5
+				},
+				{
+					"heading": "May",
+					"high": 39,
+					"low": 25,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 41.5,
+					"low": 26.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 42,
+					"low": 28.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 40.5,
+					"low": 27.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 39,
+					"low": 26,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 35,
+					"low": 23.5,
+					"precipitation": 0.25
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 20,
+					"precipitation": 13.5
+				},
+				{
+					"heading": "Dec",
+					"high": 23,
+					"low": 14,
+					"precipitation": 22
+				}
+			]
+		},
+		"Al Shamal": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22,
+					"low": 13,
+					"precipitation": 13
+				},
+				{
+					"heading": "Feb",
+					"high": 24,
+					"low": 14,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 28,
+					"low": 17,
+					"precipitation": 2
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 22,
+					"precipitation": 5.5
+				},
+				{
+					"heading": "May",
+					"high": 39,
+					"low": 27,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 42,
+					"low": 30,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 43,
+					"low": 31,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 43,
+					"low": 32,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 40,
+					"low": 29,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 35,
+					"low": 26,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 18,
+					"precipitation": 15
+				},
+				{
+					"heading": "Dec",
+					"high": 25,
+					"low": 14,
+					"precipitation": 23
+				}
+			]
+		},
+		"Al Shahaniyah": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.5,
+					"low": 15,
+					"precipitation": 10
+				},
+				{
+					"heading": "Feb",
+					"high": 25,
+					"low": 16.5,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 20,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Apr",
+					"high": 36,
+					"low": 25,
+					"precipitation": 6
+				},
+				{
+					"heading": "May",
+					"high": 42,
+					"low": 30,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 44,
+					"low": 32.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 45,
+					"low": 34,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 44.5,
+					"low": 33.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 41.5,
+					"low": 32,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 37,
+					"low": 26.5,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 23.5,
+					"precipitation": 13
+				},
+				{
+					"heading": "Dec",
+					"high": 23.5,
+					"low": 17,
+					"precipitation": 19.5
+				}
+			]
+		},
+		"Al Wakrah": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22,
+					"low": 13,
+					"precipitation": 12.7
+				},
+				{
+					"heading": "Feb",
+					"high": 23,
+					"low": 14,
+					"precipitation": 17.8
+				},
+				{
+					"heading": "Mar",
+					"high": 27,
+					"low": 17,
+					"precipitation": 15.2
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 21,
+					"precipitation": 7.6
+				},
+				{
+					"heading": "May",
+					"high": 38,
+					"low": 25,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Jun",
+					"high": 41,
+					"low": 28,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 42,
+					"low": 29,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 41,
+					"low": 29,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 39,
+					"low": 27,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 35,
+					"low": 23,
+					"precipitation": 0
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 20,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Dec",
+					"high": 24,
+					"low": 15,
+					"precipitation": 12.7
+				}
+			]
+		},
+		"Dukhan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.5,
+					"low": 15,
+					"precipitation": 10
+				},
+				{
+					"heading": "Feb",
+					"high": 25,
+					"low": 16.5,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 20,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Apr",
+					"high": 36,
+					"low": 25,
+					"precipitation": 6
+				},
+				{
+					"heading": "May",
+					"high": 42,
+					"low": 30,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 44,
+					"low": 32.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 45,
+					"low": 34,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 44.5,
+					"low": 33.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 41.5,
+					"low": 32,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 37,
+					"low": 26.5,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 23.5,
+					"precipitation": 13
+				},
+				{
+					"heading": "Dec",
+					"high": 23.5,
+					"low": 17,
+					"precipitation": 19.5
+				}
+			]
+		},
+		"Mesaieed": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20,
+					"low": 11,
+					"precipitation": 10
+				},
+				{
+					"heading": "Feb",
+					"high": 22,
+					"low": 12,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 25,
+					"low": 15,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 18,
+					"precipitation": 6
+				},
+				{
+					"heading": "May",
+					"high": 36,
+					"low": 23,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 38,
+					"low": 25,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 38,
+					"low": 26,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 37,
+					"low": 27,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 34,
+					"low": 24,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 21,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 17,
+					"precipitation": 13.5
+				},
+				{
+					"heading": "Dec",
+					"high": 20,
+					"low": 11,
+					"precipitation": 24
+				}
+			]
+		}
+	}
+}

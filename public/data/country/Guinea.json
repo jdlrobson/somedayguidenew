@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Conakry": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.2,
+					"low": 19,
+					"precipitation": 1
+				},
+				{
+					"heading": "Feb",
+					"high": 33.1,
+					"low": 20.2,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 33.4,
+					"low": 21.2,
+					"precipitation": 3
+				},
+				{
+					"heading": "Apr",
+					"high": 33.6,
+					"low": 22,
+					"precipitation": 22
+				},
+				{
+					"heading": "May",
+					"high": 33.2,
+					"low": 20.7,
+					"precipitation": 137
+				},
+				{
+					"heading": "Jun",
+					"high": 31.8,
+					"low": 20.2,
+					"precipitation": 396
+				},
+				{
+					"heading": "Jul",
+					"high": 30.2,
+					"low": 20.4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 29.9,
+					"low": 20.8,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 30.6,
+					"low": 20.7,
+					"precipitation": 617
+				},
+				{
+					"heading": "Oct",
+					"high": 30.9,
+					"low": 20.4,
+					"precipitation": 295
+				},
+				{
+					"heading": "Nov",
+					"high": 32,
+					"low": 21,
+					"precipitation": 70
+				},
+				{
+					"heading": "Dec",
+					"high": 32.2,
+					"low": 20.1,
+					"precipitation": 8
+				}
+			]
+		},
+		"Kankan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 36.5,
+					"low": 10.8,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": 38.1,
+					"low": 13.3,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 38.9,
+					"low": 17,
+					"precipitation": 24
+				},
+				{
+					"heading": "Apr",
+					"high": 38.8,
+					"low": 20.2,
+					"precipitation": 67
+				},
+				{
+					"heading": "May",
+					"high": 37.1,
+					"low": 19.6,
+					"precipitation": 134
+				},
+				{
+					"heading": "Jun",
+					"high": 33.2,
+					"low": 18.8,
+					"precipitation": 204
+				},
+				{
+					"heading": "Jul",
+					"high": 32.2,
+					"low": 18.9,
+					"precipitation": 262
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 18.8,
+					"precipitation": 322
+				},
+				{
+					"heading": "Sep",
+					"high": 32.7,
+					"low": 18.9,
+					"precipitation": 304
+				},
+				{
+					"heading": "Oct",
+					"high": 33.9,
+					"low": 19,
+					"precipitation": 131
+				},
+				{
+					"heading": "Nov",
+					"high": 34.7,
+					"low": 13.9,
+					"precipitation": 20
+				},
+				{
+					"heading": "Dec",
+					"high": 35.2,
+					"low": 11,
+					"precipitation": 1.2
+				}
+			]
+		}
+	}
+}

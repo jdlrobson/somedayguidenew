@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Guatemala City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.3,
+					"low": 13.2,
+					"precipitation": 2.8
+				},
+				{
+					"heading": "Feb",
+					"high": 25.8,
+					"low": 13.6,
+					"precipitation": 5.4
+				},
+				{
+					"heading": "Mar",
+					"high": 26.8,
+					"low": 14.6,
+					"precipitation": 6
+				},
+				{
+					"heading": "Apr",
+					"high": 27.8,
+					"low": 16,
+					"precipitation": 31
+				},
+				{
+					"heading": "May",
+					"high": 27.1,
+					"low": 16.8,
+					"precipitation": 128.9
+				},
+				{
+					"heading": "Jun",
+					"high": 25.8,
+					"low": 16.8,
+					"precipitation": 271.8
+				},
+				{
+					"heading": "Jul",
+					"high": 25.4,
+					"low": 16.3,
+					"precipitation": 202.6
+				},
+				{
+					"heading": "Aug",
+					"high": 25.5,
+					"low": 16.5,
+					"precipitation": 202.7
+				},
+				{
+					"heading": "Sep",
+					"high": 25.1,
+					"low": 16.4,
+					"precipitation": 236.6
+				},
+				{
+					"heading": "Oct",
+					"high": 24.7,
+					"low": 16,
+					"precipitation": 131.6
+				},
+				{
+					"heading": "Nov",
+					"high": 24.2,
+					"low": 14.7,
+					"precipitation": 48.8
+				},
+				{
+					"heading": "Dec",
+					"high": 23.9,
+					"low": 13.7,
+					"precipitation": 6.6
+				}
+			]
+		},
+		"Antigua Guatemala": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.5,
+					"low": 10.8,
+					"precipitation": 1
+				},
+				{
+					"heading": "Feb",
+					"high": 23.4,
+					"low": 11.1,
+					"precipitation": 3
+				},
+				{
+					"heading": "Mar",
+					"high": 24.7,
+					"low": 11.9,
+					"precipitation": 4
+				},
+				{
+					"heading": "Apr",
+					"high": 25,
+					"low": 13.3,
+					"precipitation": 25
+				},
+				{
+					"heading": "May",
+					"high": 24.7,
+					"low": 14.3,
+					"precipitation": 118
+				},
+				{
+					"heading": "Jun",
+					"high": 23.6,
+					"low": 15.3,
+					"precipitation": 231
+				},
+				{
+					"heading": "Jul",
+					"high": 23.5,
+					"low": 14.6,
+					"precipitation": 170
+				},
+				{
+					"heading": "Aug",
+					"high": 23.8,
+					"low": 14.3,
+					"precipitation": 141
+				},
+				{
+					"heading": "Sep",
+					"high": 23.1,
+					"low": 14.4,
+					"precipitation": 220
+				},
+				{
+					"heading": "Oct",
+					"high": 22.7,
+					"low": 13.9,
+					"precipitation": 131
+				},
+				{
+					"heading": "Nov",
+					"high": 22.8,
+					"low": 12.7,
+					"precipitation": 16
+				},
+				{
+					"heading": "Dec",
+					"high": 22.3,
+					"low": 11.3,
+					"precipitation": 5
+				}
+			]
+		},
+		"Panajachel": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.6,
+					"low": 12.3,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": 25.6,
+					"low": 12,
+					"precipitation": 15
+				},
+				{
+					"heading": "Mar",
+					"high": 26.6,
+					"low": 12.9,
+					"precipitation": 15
+				},
+				{
+					"heading": "Apr",
+					"high": 26.1,
+					"low": 13.6,
+					"precipitation": 48
+				},
+				{
+					"heading": "May",
+					"high": 25.9,
+					"low": 14.3,
+					"precipitation": 137
+				},
+				{
+					"heading": "Jun",
+					"high": 23.7,
+					"low": 14.6,
+					"precipitation": 355
+				},
+				{
+					"heading": "Jul",
+					"high": 24.8,
+					"low": 14.4,
+					"precipitation": 174
+				},
+				{
+					"heading": "Aug",
+					"high": 24.9,
+					"low": 14.1,
+					"precipitation": 185
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 14,
+					"precipitation": 328
+				},
+				{
+					"heading": "Oct",
+					"high": 24.6,
+					"low": 14,
+					"precipitation": 182
+				},
+				{
+					"heading": "Nov",
+					"high": 25.2,
+					"low": 13,
+					"precipitation": 38
+				},
+				{
+					"heading": "Dec",
+					"high": 25.4,
+					"low": 12.1,
+					"precipitation": 11
+				}
+			]
+		},
+		"Quetzaltenango": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22,
+					"low": 2.3,
+					"precipitation": 1.8
+				},
+				{
+					"heading": "Feb",
+					"high": 23.5,
+					"low": 2.9,
+					"precipitation": 5.5
+				},
+				{
+					"heading": "Mar",
+					"high": 25.5,
+					"low": 3.9,
+					"precipitation": 14.4
+				},
+				{
+					"heading": "Apr",
+					"high": 23.8,
+					"low": 6.3,
+					"precipitation": 41.2
+				},
+				{
+					"heading": "May",
+					"high": 23.1,
+					"low": 8.8,
+					"precipitation": 131.6
+				},
+				{
+					"heading": "Jun",
+					"high": 21.9,
+					"low": 9.3,
+					"precipitation": 147.8
+				},
+				{
+					"heading": "Jul",
+					"high": 21.9,
+					"low": 8.2,
+					"precipitation": 98.7
+				},
+				{
+					"heading": "Aug",
+					"high": 22.1,
+					"low": 8.5,
+					"precipitation": 107
+				},
+				{
+					"heading": "Sep",
+					"high": 20.9,
+					"low": 9,
+					"precipitation": 134.7
+				},
+				{
+					"heading": "Oct",
+					"high": 21.7,
+					"low": 8.4,
+					"precipitation": 93.6
+				},
+				{
+					"heading": "Nov",
+					"high": 21.3,
+					"low": 6,
+					"precipitation": 18.7
+				},
+				{
+					"heading": "Dec",
+					"high": 22.1,
+					"low": 2.8,
+					"precipitation": 7.1
+				}
+			]
+		},
+		"Tikal": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 99,
+					"high": 22,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 93,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 60,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 38,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 237,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 296,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 224,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 276,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 309,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 311,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 157,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 153,
+					"high": 22,
+					"low": 18
+				}
+			]
+		}
+	}
+}

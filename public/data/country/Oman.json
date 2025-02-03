@@ -1,0 +1,538 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Muscat": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.5,
+					"low": 17.3,
+					"precipitation": 12.8
+				},
+				{
+					"heading": "Feb",
+					"high": 26.1,
+					"low": 17.6,
+					"precipitation": 24.5
+				},
+				{
+					"heading": "Mar",
+					"high": 29.8,
+					"low": 20.7,
+					"precipitation": 15.9
+				},
+				{
+					"heading": "Apr",
+					"high": 34.7,
+					"low": 24.7,
+					"precipitation": 17.1
+				},
+				{
+					"heading": "May",
+					"high": 39.5,
+					"low": 29.1,
+					"precipitation": 7
+				},
+				{
+					"heading": "Jun",
+					"high": 40.4,
+					"low": 30.6,
+					"precipitation": 0.9
+				},
+				{
+					"heading": "Jul",
+					"high": 38.6,
+					"low": 30.4,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Aug",
+					"high": 36.2,
+					"low": 28.4,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Sep",
+					"high": 36.3,
+					"low": 27.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 35,
+					"low": 24.9,
+					"precipitation": 1
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 20.9,
+					"precipitation": 6.8
+				},
+				{
+					"heading": "Dec",
+					"high": 27.1,
+					"low": 18.9,
+					"precipitation": 13.3
+				}
+			]
+		},
+		"Bahla": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.2,
+					"low": 12.5,
+					"precipitation": 6
+				},
+				{
+					"heading": "Feb",
+					"high": 22.9,
+					"low": 13.7,
+					"precipitation": 31
+				},
+				{
+					"heading": "Mar",
+					"high": 26.2,
+					"low": 16.7,
+					"precipitation": 21
+				},
+				{
+					"heading": "Apr",
+					"high": 31.2,
+					"low": 20.4,
+					"precipitation": 13
+				},
+				{
+					"heading": "May",
+					"high": 35.3,
+					"low": 24.2,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jun",
+					"high": 36.8,
+					"low": 26,
+					"precipitation": 3
+				},
+				{
+					"heading": "Jul",
+					"high": 35.2,
+					"low": 25.8,
+					"precipitation": 5
+				},
+				{
+					"heading": "Aug",
+					"high": 33.7,
+					"low": 24.7,
+					"precipitation": 8
+				},
+				{
+					"heading": "Sep",
+					"high": 32.8,
+					"low": 23.1,
+					"precipitation": 3
+				},
+				{
+					"heading": "Oct",
+					"high": 30.7,
+					"low": 20,
+					"precipitation": 0
+				},
+				{
+					"heading": "Nov",
+					"high": 26.6,
+					"low": 15.9,
+					"precipitation": 4
+				},
+				{
+					"heading": "Dec",
+					"high": 22.3,
+					"low": 13.8,
+					"precipitation": 6
+				}
+			]
+		},
+		"Nizwa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.2,
+					"low": 12.3,
+					"precipitation": 0.7
+				},
+				{
+					"heading": "Feb",
+					"high": 29.6,
+					"low": 14,
+					"precipitation": 5.7
+				},
+				{
+					"heading": "Mar",
+					"high": 32.5,
+					"low": 17.1,
+					"precipitation": 9.4
+				},
+				{
+					"heading": "Apr",
+					"high": 37.8,
+					"low": 21.9,
+					"precipitation": 15.2
+				},
+				{
+					"heading": "May",
+					"high": 42,
+					"low": 26,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Jun",
+					"high": 43.5,
+					"low": 28.4,
+					"precipitation": 10.9
+				},
+				{
+					"heading": "Jul",
+					"high": 42.7,
+					"low": 28,
+					"precipitation": 6.6
+				},
+				{
+					"heading": "Aug",
+					"high": 41.6,
+					"low": 26.9,
+					"precipitation": 8
+				},
+				{
+					"heading": "Sep",
+					"high": 39.7,
+					"low": 25,
+					"precipitation": 3.5
+				},
+				{
+					"heading": "Oct",
+					"high": 36.6,
+					"low": 20.9,
+					"precipitation": 5.9
+				},
+				{
+					"heading": "Nov",
+					"high": 31.6,
+					"low": 17.8,
+					"precipitation": 1.7
+				},
+				{
+					"heading": "Dec",
+					"high": 27.8,
+					"low": 14.1,
+					"precipitation": 3.8
+				}
+			]
+		},
+		"Salalah": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 2.2,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 7,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 6.3,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 20,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 17,
+					"high": 32,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11,
+					"high": 32,
+					"low": 27
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 25,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 25,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 4.1,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 4.1,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 9.6,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1.1,
+					"high": 28,
+					"low": 19
+				}
+			]
+		},
+		"Sohar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.2,
+					"low": 12.4,
+					"precipitation": 4.7
+				},
+				{
+					"heading": "Feb",
+					"high": 25.3,
+					"low": 13.3,
+					"precipitation": 56.2
+				},
+				{
+					"heading": "Mar",
+					"high": 27.5,
+					"low": 16.1,
+					"precipitation": 17
+				},
+				{
+					"heading": "Apr",
+					"high": 31.9,
+					"low": 19.6,
+					"precipitation": 7.8
+				},
+				{
+					"heading": "May",
+					"high": 36.3,
+					"low": 23.7,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Jun",
+					"high": 36.9,
+					"low": 26.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 36.2,
+					"low": 28.2,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Aug",
+					"high": 34.7,
+					"low": 27.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 34.1,
+					"low": 24.7,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 20.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Nov",
+					"high": 29.5,
+					"low": 16.8,
+					"precipitation": 3.8
+				},
+				{
+					"heading": "Dec",
+					"high": 26.1,
+					"low": 14.4,
+					"precipitation": 15.9
+				}
+			]
+		},
+		"Sur": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 11,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 9.8,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 17,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 7.7,
+					"high": 37,
+					"low": 26
+				},
+				{
+					"heading": "May",
+					"precipitation": 1.7,
+					"high": 41,
+					"low": 30
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 13,
+					"high": 42,
+					"low": 31
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3.2,
+					"high": 41,
+					"low": 30
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 2.5,
+					"high": 39,
+					"low": 28
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 38,
+					"low": 27
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 1.7,
+					"high": 36,
+					"low": 25
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 3.3,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 11,
+					"high": 28,
+					"low": 19
+				}
+			]
+		},
+		"Masirah Island": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 7.5,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 16,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 13,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 10,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 1.5,
+					"high": 35,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 21,
+					"high": 35,
+					"low": 26
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 12,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 9.9,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0.4,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1.2,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 6.9,
+					"high": 27,
+					"low": 20
+				}
+			]
+		}
+	}
+}

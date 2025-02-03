@@ -1,0 +1,1391 @@
+{
+	"note": "<p>Cancun is a cheap city to fly into, however if you are adventurous and on a budget consider the 6 hour bus ride down to <strong>Chetumal</strong> for an adventure in <strong>Belize</strong>.  Once in Belize in <strong>Corozal Town</strong>, consider a trip to <strong>Orange Walk Town</strong> if you like bird watching.To get to <strong>Orange Walk Town</strong> take a cab to the &#39;&#39;New market&#39;&#39; where the buses that come to Belize Park and there get on a bus to Orange Walk Town. If it’s about 4 PM get a taxi (you should not pay more than 80.00 Mexican pesos) to the Mexican Border and there wait for a bus to Orange Walk Town. You can also get to <strong>Flores (Guatemala)</strong> from here.</p>\n",
+	"snippets": [
+		{
+			"text": "For those of you staying in the **Cancún** area, **Puerto Morelos** is a quiet beach town if you don't like noise. If you do like noise head to **Playa del Carmen**.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Puerto Morelos",
+			"url": "https://en.wikipedia.org/wiki/Puerto_Morelos"
+		},
+		{
+			"text": "If you want to do more than transit here, visit around March consider the **Carnaval Chetumal**.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Carnaval Chetumal",
+			"url": "https://cookjmex.blogspot.com/2018/09/southern-yucatan-peninsula-part-1.html"
+		}
+	],
+	"places": {
+		"Mexico City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 8,
+					"high": 21,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 6,
+					"high": 23,
+					"low": 7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 10,
+					"high": 26,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 23,
+					"high": 27,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 57,
+					"high": 26,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 135,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 161,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 153,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 128,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 54,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 13,
+					"high": 22,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 7,
+					"high": 21,
+					"low": 7
+				}
+			]
+		},
+		"Acapulco": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.4,
+					"low": 23.3,
+					"precipitation": 14.8
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 23.5,
+					"precipitation": 5.8
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 23.5,
+					"precipitation": 2.2
+				},
+				{
+					"heading": "Apr",
+					"high": 30.8,
+					"low": 24,
+					"precipitation": 3.2
+				},
+				{
+					"heading": "May",
+					"high": 31.6,
+					"low": 25.1,
+					"precipitation": 26.1
+				},
+				{
+					"heading": "Jun",
+					"high": 31.9,
+					"low": 25.2,
+					"precipitation": 263.3
+				},
+				{
+					"heading": "Jul",
+					"high": 32.3,
+					"low": 25.1,
+					"precipitation": 246.9
+				},
+				{
+					"heading": "Aug",
+					"high": 32.2,
+					"low": 25.1,
+					"precipitation": 295.2
+				},
+				{
+					"heading": "Sep",
+					"high": 31.6,
+					"low": 24.7,
+					"precipitation": 309.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 25.1,
+					"precipitation": 138.8
+				},
+				{
+					"heading": "Nov",
+					"high": 31.4,
+					"low": 24.8,
+					"precipitation": 20.1
+				},
+				{
+					"heading": "Dec",
+					"high": 30.9,
+					"low": 24.1,
+					"precipitation": 10.8
+				}
+			]
+		},
+		"Cancún": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 105,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 44,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 41,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 87,
+					"high": 34,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 138,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 78,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 88,
+					"high": 35,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 182,
+					"high": 34,
+					"low": 24
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 272,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 130,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 86,
+					"high": 29,
+					"low": 21
+				}
+			]
+		},
+		"Guadalajara": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.7,
+					"low": 9.5,
+					"precipitation": 15.6
+				},
+				{
+					"heading": "Feb",
+					"high": 26.5,
+					"low": 10.3,
+					"precipitation": 6.6
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 12.3,
+					"precipitation": 4.7
+				},
+				{
+					"heading": "Apr",
+					"high": 31.2,
+					"low": 14.3,
+					"precipitation": 6.2
+				},
+				{
+					"heading": "May",
+					"high": 32.5,
+					"low": 16.4,
+					"precipitation": 24.9
+				},
+				{
+					"heading": "Jun",
+					"high": 30.5,
+					"low": 17.3,
+					"precipitation": 191.2
+				},
+				{
+					"heading": "Jul",
+					"high": 27.5,
+					"low": 16.5,
+					"precipitation": 272.5
+				},
+				{
+					"heading": "Aug",
+					"high": 27.3,
+					"low": 16.4,
+					"precipitation": 226.1
+				},
+				{
+					"heading": "Sep",
+					"high": 27.1,
+					"low": 16.5,
+					"precipitation": 169.5
+				},
+				{
+					"heading": "Oct",
+					"high": 27.1,
+					"low": 14.9,
+					"precipitation": 61.4
+				},
+				{
+					"heading": "Nov",
+					"high": 26.4,
+					"low": 12.1,
+					"precipitation": 13.7
+				},
+				{
+					"heading": "Dec",
+					"high": 24.7,
+					"low": 10.3,
+					"precipitation": 10
+				}
+			]
+		},
+		"Mazatlan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.1,
+					"low": 11.7,
+					"precipitation": 10.2
+				},
+				{
+					"heading": "Feb",
+					"high": 26.7,
+					"low": 12.1,
+					"precipitation": 8.3
+				},
+				{
+					"heading": "Mar",
+					"high": 28.7,
+					"low": 13.3,
+					"precipitation": 4.2
+				},
+				{
+					"heading": "Apr",
+					"high": 31.5,
+					"low": 15.5,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "May",
+					"high": 33.2,
+					"low": 18.4,
+					"precipitation": 8
+				},
+				{
+					"heading": "Jun",
+					"high": 35.1,
+					"low": 23.1,
+					"precipitation": 35
+				},
+				{
+					"heading": "Jul",
+					"high": 36.6,
+					"low": 25.4,
+					"precipitation": 192.8
+				},
+				{
+					"heading": "Aug",
+					"high": 35.5,
+					"low": 25.2,
+					"precipitation": 256.7
+				},
+				{
+					"heading": "Sep",
+					"high": 34.7,
+					"low": 24.7,
+					"precipitation": 202.4
+				},
+				{
+					"heading": "Oct",
+					"high": 31.3,
+					"low": 21.6,
+					"precipitation": 80
+				},
+				{
+					"heading": "Nov",
+					"high": 29.7,
+					"low": 16.1,
+					"precipitation": 25.3
+				},
+				{
+					"heading": "Dec",
+					"high": 26.5,
+					"low": 12.6,
+					"precipitation": 20
+				}
+			]
+		},
+		"Monterrey": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20.7,
+					"low": 8.2,
+					"precipitation": 16.6
+				},
+				{
+					"heading": "Feb",
+					"high": 23.2,
+					"low": 10,
+					"precipitation": 16.5
+				},
+				{
+					"heading": "Mar",
+					"high": 26.9,
+					"low": 13.2,
+					"precipitation": 19.9
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 16.7,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "May",
+					"high": 32.2,
+					"low": 20.2,
+					"precipitation": 52.3
+				},
+				{
+					"heading": "Jun",
+					"high": 33.8,
+					"low": 22,
+					"precipitation": 68.4
+				},
+				{
+					"heading": "Jul",
+					"high": 34.8,
+					"low": 22.3,
+					"precipitation": 43
+				},
+				{
+					"heading": "Aug",
+					"high": 34.5,
+					"low": 22.5,
+					"precipitation": 81.6
+				},
+				{
+					"heading": "Sep",
+					"high": 31.5,
+					"low": 20.9,
+					"precipitation": 150.6
+				},
+				{
+					"heading": "Oct",
+					"high": 27.6,
+					"low": 17.2,
+					"precipitation": 75.1
+				},
+				{
+					"heading": "Nov",
+					"high": 24.1,
+					"low": 12.7,
+					"precipitation": 23
+				},
+				{
+					"heading": "Dec",
+					"high": 21.2,
+					"low": 9.1,
+					"precipitation": 14.1
+				}
+			]
+		},
+		"San Luis Potosi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20.6,
+					"low": 5.5,
+					"precipitation": 13.6
+				},
+				{
+					"heading": "Feb",
+					"high": 22.5,
+					"low": 6.8,
+					"precipitation": 7.9
+				},
+				{
+					"heading": "Mar",
+					"high": 25.4,
+					"low": 9.3,
+					"precipitation": 6.4
+				},
+				{
+					"heading": "Apr",
+					"high": 27.7,
+					"low": 11.9,
+					"precipitation": 19.6
+				},
+				{
+					"heading": "May",
+					"high": 28.4,
+					"low": 13.7,
+					"precipitation": 38.2
+				},
+				{
+					"heading": "Jun",
+					"high": 26.7,
+					"low": 14.1,
+					"precipitation": 64.3
+				},
+				{
+					"heading": "Jul",
+					"high": 24.8,
+					"low": 13.4,
+					"precipitation": 66.6
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 13.4,
+					"precipitation": 58.6
+				},
+				{
+					"heading": "Sep",
+					"high": 23.8,
+					"low": 12.9,
+					"precipitation": 65.2
+				},
+				{
+					"heading": "Oct",
+					"high": 23.2,
+					"low": 10.8,
+					"precipitation": 30.7
+				},
+				{
+					"heading": "Nov",
+					"high": 22.4,
+					"low": 8.2,
+					"precipitation": 11.2
+				},
+				{
+					"heading": "Dec",
+					"high": 20.7,
+					"low": 6.4,
+					"precipitation": 9.8
+				}
+			]
+		},
+		"Taxco": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.1,
+					"low": 16.3,
+					"precipitation": 13.9
+				},
+				{
+					"heading": "Feb",
+					"high": 26.2,
+					"low": 16.7,
+					"precipitation": 9.2
+				},
+				{
+					"heading": "Mar",
+					"high": 28.3,
+					"low": 17.6,
+					"precipitation": 9.7
+				},
+				{
+					"heading": "Apr",
+					"high": 28.7,
+					"low": 18.1,
+					"precipitation": 29.4
+				},
+				{
+					"heading": "May",
+					"high": 27.7,
+					"low": 17.8,
+					"precipitation": 84.2
+				},
+				{
+					"heading": "Jun",
+					"high": 27.2,
+					"low": 17.6,
+					"precipitation": 240.7
+				},
+				{
+					"heading": "Jul",
+					"high": 26.4,
+					"low": 17.8,
+					"precipitation": 184.8
+				},
+				{
+					"heading": "Aug",
+					"high": 26.5,
+					"low": 17.7,
+					"precipitation": 226
+				},
+				{
+					"heading": "Sep",
+					"high": 25.7,
+					"low": 17.4,
+					"precipitation": 251.6
+				},
+				{
+					"heading": "Oct",
+					"high": 26.4,
+					"low": 17.4,
+					"precipitation": 85.9
+				},
+				{
+					"heading": "Nov",
+					"high": 25.9,
+					"low": 16.6,
+					"precipitation": 13
+				},
+				{
+					"heading": "Dec",
+					"high": 25,
+					"low": 16.1,
+					"precipitation": 10.5
+				}
+			]
+		},
+		"Tijuana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 44,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 37,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 43,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 18,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 4.4,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0.7,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0.7,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0.9,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 5,
+					"high": 28,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 7.8,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 34,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 37,
+					"high": 21,
+					"low": 7
+				}
+			]
+		},
+		"Puerto Peñasco": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 19.1,
+					"low": 9.3,
+					"precipitation": 5.9
+				},
+				{
+					"heading": "Feb",
+					"high": 20.3,
+					"low": 10.5,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "Mar",
+					"high": 23.2,
+					"low": 12.3,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Apr",
+					"high": 26.1,
+					"low": 14.9,
+					"precipitation": 2.9
+				},
+				{
+					"heading": "May",
+					"high": 29.3,
+					"low": 18.5,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Jun",
+					"high": 32.5,
+					"low": 22.2,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Jul",
+					"high": 34.9,
+					"low": 27.2,
+					"precipitation": 3.8
+				},
+				{
+					"heading": "Aug",
+					"high": 35.7,
+					"low": 27.6,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "Sep",
+					"high": 35,
+					"low": 25.4,
+					"precipitation": 8.3
+				},
+				{
+					"heading": "Oct",
+					"high": 30.3,
+					"low": 19.2,
+					"precipitation": 7.8
+				},
+				{
+					"heading": "Nov",
+					"high": 24.5,
+					"low": 13.3,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Dec",
+					"high": 18.8,
+					"low": 9.8,
+					"precipitation": 15
+				}
+			]
+		},
+		"Tulum": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.3,
+					"low": 17.8,
+					"precipitation": 60.7
+				},
+				{
+					"heading": "Feb",
+					"high": 29.8,
+					"low": 18.2,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 19.8,
+					"precipitation": 31.2
+				},
+				{
+					"heading": "Apr",
+					"high": 31.4,
+					"low": 21.1,
+					"precipitation": 38.8
+				},
+				{
+					"heading": "May",
+					"high": 32.2,
+					"low": 21.8,
+					"precipitation": 103.6
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 22.5,
+					"precipitation": 156.5
+				},
+				{
+					"heading": "Jul",
+					"high": 32.3,
+					"low": 21.7,
+					"precipitation": 102
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 21.7,
+					"precipitation": 101.7
+				},
+				{
+					"heading": "Sep",
+					"high": 31.8,
+					"low": 21.4,
+					"precipitation": 167.2
+				},
+				{
+					"heading": "Oct",
+					"high": 31.2,
+					"low": 20.6,
+					"precipitation": 178.1
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 19.4,
+					"precipitation": 83.7
+				},
+				{
+					"heading": "Dec",
+					"high": 29.4,
+					"low": 18.2,
+					"precipitation": 65
+				}
+			]
+		},
+		"Guanajuato": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 16,
+					"high": 22,
+					"low": 7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 12,
+					"high": 24,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 8.8,
+					"high": 27,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 8.1,
+					"high": 29,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 42,
+					"high": 31,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 137,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 180,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 149,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 123,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 36,
+					"high": 26,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 10,
+					"high": 24,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 8,
+					"high": 23,
+					"low": 8
+				}
+			]
+		},
+		"Chetumal": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.5,
+					"low": 18.3,
+					"precipitation": 64.4
+				},
+				{
+					"heading": "Feb",
+					"high": 29.5,
+					"low": 19.2,
+					"precipitation": 35.9
+				},
+				{
+					"heading": "Mar",
+					"high": 30.7,
+					"low": 21.5,
+					"precipitation": 26.4
+				},
+				{
+					"heading": "Apr",
+					"high": 32.1,
+					"low": 23.7,
+					"precipitation": 36.4
+				},
+				{
+					"heading": "May",
+					"high": 32.7,
+					"low": 24.6,
+					"precipitation": 128
+				},
+				{
+					"heading": "Jun",
+					"high": 32.3,
+					"low": 25,
+					"precipitation": 192.7
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 24.5,
+					"precipitation": 146.1
+				},
+				{
+					"heading": "Aug",
+					"high": 32.8,
+					"low": 24.3,
+					"precipitation": 143.7
+				},
+				{
+					"heading": "Sep",
+					"high": 32.5,
+					"low": 24,
+					"precipitation": 206.8
+				},
+				{
+					"heading": "Oct",
+					"high": 31.5,
+					"low": 22.4,
+					"precipitation": 169
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 20.4,
+					"precipitation": 92.8
+				},
+				{
+					"heading": "Dec",
+					"high": 28.8,
+					"low": 18.9,
+					"precipitation": 65.4
+				}
+			]
+		},
+		"Puerto Morelos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.2,
+					"low": 18.4,
+					"precipitation": 78.6
+				},
+				{
+					"heading": "Feb",
+					"high": 28.6,
+					"low": 18.2,
+					"precipitation": 45.2
+				},
+				{
+					"heading": "Mar",
+					"high": 29.7,
+					"low": 20,
+					"precipitation": 42.3
+				},
+				{
+					"heading": "Apr",
+					"high": 31.2,
+					"low": 22.2,
+					"precipitation": 54
+				},
+				{
+					"heading": "May",
+					"high": 32.3,
+					"low": 23.3,
+					"precipitation": 102
+				},
+				{
+					"heading": "Jun",
+					"high": 32.4,
+					"low": 23.7,
+					"precipitation": 138.3
+				},
+				{
+					"heading": "Jul",
+					"high": 33,
+					"low": 23.8,
+					"precipitation": 90.3
+				},
+				{
+					"heading": "Aug",
+					"high": 33.3,
+					"low": 23.3,
+					"precipitation": 126.7
+				},
+				{
+					"heading": "Sep",
+					"high": 32.3,
+					"low": 23.3,
+					"precipitation": 187.1
+				},
+				{
+					"heading": "Oct",
+					"high": 31.2,
+					"low": 21.9,
+					"precipitation": 184
+				},
+				{
+					"heading": "Nov",
+					"high": 29.7,
+					"low": 20.4,
+					"precipitation": 98.8
+				},
+				{
+					"heading": "Dec",
+					"high": 28.4,
+					"low": 19,
+					"precipitation": 74.7
+				}
+			]
+		},
+		"Valladolid (Mexico)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.8,
+					"low": 17.1,
+					"precipitation": 39
+				},
+				{
+					"heading": "Feb",
+					"high": 31.3,
+					"low": 17.5,
+					"precipitation": 56.8
+				},
+				{
+					"heading": "Mar",
+					"high": 33,
+					"low": 18.5,
+					"precipitation": 59.1
+				},
+				{
+					"heading": "Apr",
+					"high": 35.2,
+					"low": 20.6,
+					"precipitation": 33.8
+				},
+				{
+					"heading": "May",
+					"high": 36.2,
+					"low": 22.1,
+					"precipitation": 74.6
+				},
+				{
+					"heading": "Jun",
+					"high": 34.5,
+					"low": 23.1,
+					"precipitation": 172
+				},
+				{
+					"heading": "Jul",
+					"high": 34.6,
+					"low": 22.2,
+					"precipitation": 141.9
+				},
+				{
+					"heading": "Aug",
+					"high": 34.6,
+					"low": 22.2,
+					"precipitation": 141.5
+				},
+				{
+					"heading": "Sep",
+					"high": 33.9,
+					"low": 22.2,
+					"precipitation": 176.8
+				},
+				{
+					"heading": "Oct",
+					"high": 32.4,
+					"low": 21.2,
+					"precipitation": 145.9
+				},
+				{
+					"heading": "Nov",
+					"high": 31.1,
+					"low": 18.9,
+					"precipitation": 46.4
+				},
+				{
+					"heading": "Dec",
+					"high": 29.9,
+					"low": 17.6,
+					"precipitation": 53.5
+				}
+			]
+		},
+		"Playa del Carmen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.8,
+					"low": 17.9,
+					"precipitation": 61.2
+				},
+				{
+					"heading": "Feb",
+					"high": 28.5,
+					"low": 18.3,
+					"precipitation": 50.5
+				},
+				{
+					"heading": "Mar",
+					"high": 29.6,
+					"low": 19,
+					"precipitation": 28.1
+				},
+				{
+					"heading": "Apr",
+					"high": 30.8,
+					"low": 21.3,
+					"precipitation": 51.2
+				},
+				{
+					"heading": "May",
+					"high": 31.7,
+					"low": 22.9,
+					"precipitation": 78.1
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 23.7,
+					"precipitation": 153
+				},
+				{
+					"heading": "Jul",
+					"high": 32.5,
+					"low": 23.5,
+					"precipitation": 126.3
+				},
+				{
+					"heading": "Aug",
+					"high": 32.9,
+					"low": 23.2,
+					"precipitation": 126.3
+				},
+				{
+					"heading": "Sep",
+					"high": 32.6,
+					"low": 23.1,
+					"precipitation": 168.8
+				},
+				{
+					"heading": "Oct",
+					"high": 30.8,
+					"low": 21.7,
+					"precipitation": 284.3
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 19.4,
+					"precipitation": 130.3
+				},
+				{
+					"heading": "Dec",
+					"high": 28.6,
+					"low": 18.2,
+					"precipitation": 73.1
+				}
+			]
+		},
+		"Cozumel": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.6,
+					"low": 19.4,
+					"precipitation": 81.4
+				},
+				{
+					"heading": "Feb",
+					"high": 29.1,
+					"low": 19.4,
+					"precipitation": 60
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 20.7,
+					"precipitation": 32.2
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 21.8,
+					"precipitation": 44.8
+				},
+				{
+					"heading": "May",
+					"high": 32.7,
+					"low": 22.9,
+					"precipitation": 110.6
+				},
+				{
+					"heading": "Jun",
+					"high": 32.4,
+					"low": 23.8,
+					"precipitation": 191.7
+				},
+				{
+					"heading": "Jul",
+					"high": 32.6,
+					"low": 23.5,
+					"precipitation": 115.5
+				},
+				{
+					"heading": "Aug",
+					"high": 33,
+					"low": 23.5,
+					"precipitation": 141.7
+				},
+				{
+					"heading": "Sep",
+					"high": 31.9,
+					"low": 23.6,
+					"precipitation": 240.2
+				},
+				{
+					"heading": "Oct",
+					"high": 30.7,
+					"low": 23.1,
+					"precipitation": 242.5
+				},
+				{
+					"heading": "Nov",
+					"high": 29.7,
+					"low": 21.7,
+					"precipitation": 122.5
+				},
+				{
+					"heading": "Dec",
+					"high": 28.6,
+					"low": 20.3,
+					"precipitation": 106.8
+				}
+			]
+		},
+		"Merida (Mexico)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 17.2,
+					"precipitation": 38.4
+				},
+				{
+					"heading": "Feb",
+					"high": 31.5,
+					"low": 17.3,
+					"precipitation": 32.2
+				},
+				{
+					"heading": "Mar",
+					"high": 34,
+					"low": 18.6,
+					"precipitation": 22.5
+				},
+				{
+					"heading": "Apr",
+					"high": 35.6,
+					"low": 20.2,
+					"precipitation": 24.4
+				},
+				{
+					"heading": "May",
+					"high": 36.3,
+					"low": 21.7,
+					"precipitation": 69.4
+				},
+				{
+					"heading": "Jun",
+					"high": 35.3,
+					"low": 21.6,
+					"precipitation": 138.3
+				},
+				{
+					"heading": "Jul",
+					"high": 35,
+					"low": 21.4,
+					"precipitation": 158.7
+				},
+				{
+					"heading": "Aug",
+					"high": 34.9,
+					"low": 21.3,
+					"precipitation": 140.7
+				},
+				{
+					"heading": "Sep",
+					"high": 34.2,
+					"low": 21.6,
+					"precipitation": 183.1
+				},
+				{
+					"heading": "Oct",
+					"high": 32.7,
+					"low": 20.8,
+					"precipitation": 127.9
+				},
+				{
+					"heading": "Nov",
+					"high": 31.5,
+					"low": 19.3,
+					"precipitation": 56.2
+				},
+				{
+					"heading": "Dec",
+					"high": 30.6,
+					"low": 17.5,
+					"precipitation": 45.1
+				}
+			]
+		}
+	}
+}

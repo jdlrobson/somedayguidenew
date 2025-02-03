@@ -1,0 +1,707 @@
+{
+	"note": "<p>If you like hot sauce, here is the home of Marie Sharp&#39;s hot sauce.By the bus stop grab some of Belize&#39;s best salbutes so plan for lunch!If you like hot sauce, here is the home of Marie Sharp&#39;s hot sauce.By the bus stop grab some of Belize&#39;s best salbutes so plan for lunch!</p>\n",
+	"snippets": [
+		{
+			"text": "To get to **Tobacco Caye** via Riverside Cafe here (US$15) show up at 9am for the 45 minute ride. **Hopkins**, a tiny fishing village off the beaten track is also nearby.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Tobacco Caye",
+			"url": "-"
+		},
+		{
+			"text": "Best cave experience I ever had.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "ATM Cave",
+			"url": "https://belizing.com/ATM-Cave-Belize/"
+		}
+	],
+	"places": {
+		"Belmopan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 129,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 55,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 50,
+					"high": 31,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 41,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 107,
+					"high": 34,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 250,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 280,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 223,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 250,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 223,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 193,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 143,
+					"high": 28,
+					"low": 19
+				}
+			]
+		},
+		"Belize City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.9,
+					"low": 20.2,
+					"precipitation": 152.6
+				},
+				{
+					"heading": "Feb",
+					"high": 28.8,
+					"low": 21.1,
+					"precipitation": 73.7
+				},
+				{
+					"heading": "Mar",
+					"high": 29.8,
+					"low": 22,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 23.6,
+					"precipitation": 57.2
+				},
+				{
+					"heading": "May",
+					"high": 31.8,
+					"low": 24.8,
+					"precipitation": 136.9
+				},
+				{
+					"heading": "Jun",
+					"high": 31.7,
+					"low": 25.4,
+					"precipitation": 229
+				},
+				{
+					"heading": "Jul",
+					"high": 31.4,
+					"low": 24.9,
+					"precipitation": 210.1
+				},
+				{
+					"heading": "Aug",
+					"high": 31.6,
+					"low": 24.9,
+					"precipitation": 194.4
+				},
+				{
+					"heading": "Sep",
+					"high": 31.5,
+					"low": 24.5,
+					"precipitation": 249.4
+				},
+				{
+					"heading": "Oct",
+					"high": 30.6,
+					"low": 23.5,
+					"precipitation": 281.9
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 21.8,
+					"precipitation": 113.9
+				},
+				{
+					"heading": "Dec",
+					"high": 28.3,
+					"low": 20.7,
+					"precipitation": 144.7
+				}
+			]
+		},
+		"Corozal Town": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.3,
+					"low": 17.3,
+					"precipitation": 58.5
+				},
+				{
+					"heading": "Feb",
+					"high": 30.3,
+					"low": 18.7,
+					"precipitation": 31.9
+				},
+				{
+					"heading": "Mar",
+					"high": 31.6,
+					"low": 19.1,
+					"precipitation": 32.1
+				},
+				{
+					"heading": "Apr",
+					"high": 32.8,
+					"low": 20.7,
+					"precipitation": 45.7
+				},
+				{
+					"heading": "May",
+					"high": 33.1,
+					"low": 23,
+					"precipitation": 107.5
+				},
+				{
+					"heading": "Jun",
+					"high": 32.8,
+					"low": 23.8,
+					"precipitation": 216.8
+				},
+				{
+					"heading": "Jul",
+					"high": 32.6,
+					"low": 23.4,
+					"precipitation": 140.4
+				},
+				{
+					"heading": "Aug",
+					"high": 32.7,
+					"low": 23.2,
+					"precipitation": 172.6
+				},
+				{
+					"heading": "Sep",
+					"high": 33,
+					"low": 22.7,
+					"precipitation": 195.7
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 21.6,
+					"precipitation": 193.7
+				},
+				{
+					"heading": "Nov",
+					"high": 29.9,
+					"low": 19.5,
+					"precipitation": 95.5
+				},
+				{
+					"heading": "Dec",
+					"high": 28.7,
+					"low": 18.2,
+					"precipitation": 64.8
+				}
+			]
+		},
+		"Dangriga": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 233,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 180,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 99,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 285,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 403,
+					"high": 26,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 305,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 302,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 355,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 404,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 383,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 265,
+					"high": 25,
+					"low": 22
+				}
+			]
+		},
+		"Orange Walk Town": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.9,
+					"low": 17.9,
+					"precipitation": 68.3
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 18,
+					"precipitation": 32.3
+				},
+				{
+					"heading": "Mar",
+					"high": 31.7,
+					"low": 18.8,
+					"precipitation": 26.1
+				},
+				{
+					"heading": "Apr",
+					"high": 33.2,
+					"low": 20.7,
+					"precipitation": 36.1
+				},
+				{
+					"heading": "May",
+					"high": 33.2,
+					"low": 23.8,
+					"precipitation": 204.5
+				},
+				{
+					"heading": "Jun",
+					"high": 33.2,
+					"low": 23.8,
+					"precipitation": 204.5
+				},
+				{
+					"heading": "Jul",
+					"high": 32.9,
+					"low": 23.2,
+					"precipitation": 178.3
+				},
+				{
+					"heading": "Aug",
+					"high": 33.3,
+					"low": 23.2,
+					"precipitation": 203.7
+				},
+				{
+					"heading": "Sep",
+					"high": 33.3,
+					"low": 23.2,
+					"precipitation": 174.2
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 22.1,
+					"precipitation": 187.8
+				},
+				{
+					"heading": "Nov",
+					"high": 30.3,
+					"low": 20.1,
+					"precipitation": 105.3
+				},
+				{
+					"heading": "Dec",
+					"high": 29.5,
+					"low": 18.5,
+					"precipitation": 69.4
+				}
+			]
+		},
+		"Punta Gorda (Belize)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.3,
+					"low": 18.9,
+					"precipitation": 136.2
+				},
+				{
+					"heading": "Feb",
+					"high": 29.1,
+					"low": 19.3,
+					"precipitation": 99.6
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 19.9,
+					"precipitation": 64.5
+				},
+				{
+					"heading": "Apr",
+					"high": 31.9,
+					"low": 21.4,
+					"precipitation": 95.9
+				},
+				{
+					"heading": "May",
+					"high": 32.5,
+					"low": 22.7,
+					"precipitation": 210.1
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 23.4,
+					"precipitation": 508.1
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 23.1,
+					"precipitation": 754.1
+				},
+				{
+					"heading": "Aug",
+					"high": 31.8,
+					"low": 22.9,
+					"precipitation": 702
+				},
+				{
+					"heading": "Sep",
+					"high": 32.1,
+					"low": 23,
+					"precipitation": 557.7
+				},
+				{
+					"heading": "Oct",
+					"high": 31.2,
+					"low": 22.5,
+					"precipitation": 339.6
+				},
+				{
+					"heading": "Nov",
+					"high": 29.9,
+					"low": 20.9,
+					"precipitation": 251.8
+				},
+				{
+					"heading": "Dec",
+					"high": 28.6,
+					"low": 19.8,
+					"precipitation": 186.8
+				}
+			]
+		},
+		"San Ignacio (Belize)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 129,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 104,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 64,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 44,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 243,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 284,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 203,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 241,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 252,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 303,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 191,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 190,
+					"high": 24,
+					"low": 17
+				}
+			]
+		},
+		"Tobacco Caye": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 22,
+					"high": 24,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 46,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 38,
+					"high": 27,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 110,
+					"high": 28,
+					"low": 25
+				},
+				{
+					"heading": "May",
+					"precipitation": 294,
+					"high": 27,
+					"low": 25
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 282,
+					"high": 28,
+					"low": 25
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 224,
+					"high": 28,
+					"low": 27
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 223,
+					"high": 28,
+					"low": 26
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 192,
+					"high": 28,
+					"low": 27
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 216,
+					"high": 27,
+					"low": 25
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 58,
+					"high": 26,
+					"low": 24
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 9,
+					"high": 26,
+					"low": 24
+				}
+			]
+		},
+		"Stann Creek": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 233,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 180,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 99,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 285,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 403,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 305,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 302,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 355,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 404,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 383,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 265,
+					"high": 23,
+					"low": 19
+				}
+			]
+		}
+	}
+}

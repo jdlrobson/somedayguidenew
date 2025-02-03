@@ -1,0 +1,590 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Dublin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.1,
+					"low": 2.4,
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Feb",
+					"high": 8.3,
+					"low": 2.3,
+					"precipitation": 48.8
+				},
+				{
+					"heading": "Mar",
+					"high": 10.2,
+					"low": 3.4,
+					"precipitation": 52.7
+				},
+				{
+					"heading": "Apr",
+					"high": 12.1,
+					"low": 4.6,
+					"precipitation": 54.1
+				},
+				{
+					"heading": "May",
+					"high": 14.8,
+					"low": 6.9,
+					"precipitation": 59.5
+				},
+				{
+					"heading": "Jun",
+					"high": 17.6,
+					"low": 9.6,
+					"precipitation": 66.7
+				},
+				{
+					"heading": "Jul",
+					"high": 19.5,
+					"low": 11.7,
+					"precipitation": 56.2
+				},
+				{
+					"heading": "Aug",
+					"high": 19.2,
+					"low": 11.5,
+					"precipitation": 73.3
+				},
+				{
+					"heading": "Sep",
+					"high": 17,
+					"low": 9.8,
+					"precipitation": 59.5
+				},
+				{
+					"heading": "Oct",
+					"high": 13.6,
+					"low": 7.3,
+					"precipitation": 79
+				},
+				{
+					"heading": "Nov",
+					"high": 10.3,
+					"low": 4.5,
+					"precipitation": 72.9
+				},
+				{
+					"heading": "Dec",
+					"high": 8.3,
+					"low": 2.8,
+					"precipitation": 72.7
+				}
+			]
+		},
+		"Cork": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.2,
+					"low": 3,
+					"precipitation": 131.4
+				},
+				{
+					"heading": "Feb",
+					"high": 8.3,
+					"low": 3.1,
+					"precipitation": 97.8
+				},
+				{
+					"heading": "Mar",
+					"high": 9.9,
+					"low": 4,
+					"precipitation": 97.6
+				},
+				{
+					"heading": "Apr",
+					"high": 11.8,
+					"low": 4.9,
+					"precipitation": 76.5
+				},
+				{
+					"heading": "May",
+					"high": 14.4,
+					"low": 7.4,
+					"precipitation": 82.3
+				},
+				{
+					"heading": "Jun",
+					"high": 17,
+					"low": 10,
+					"precipitation": 80.9
+				},
+				{
+					"heading": "Jul",
+					"high": 18.7,
+					"low": 11.8,
+					"precipitation": 78.8
+				},
+				{
+					"heading": "Aug",
+					"high": 18.5,
+					"low": 11.8,
+					"precipitation": 96.8
+				},
+				{
+					"heading": "Sep",
+					"high": 16.5,
+					"low": 10.2,
+					"precipitation": 94.6
+				},
+				{
+					"heading": "Oct",
+					"high": 13.2,
+					"low": 7.7,
+					"precipitation": 138.2
+				},
+				{
+					"heading": "Nov",
+					"high": 10.3,
+					"low": 5.2,
+					"precipitation": 120
+				},
+				{
+					"heading": "Dec",
+					"high": 8.5,
+					"low": 3.7,
+					"precipitation": 133.1
+				}
+			]
+		},
+		"Galway": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.7,
+					"low": 3.5,
+					"precipitation": 114.1
+				},
+				{
+					"heading": "Feb",
+					"high": 9.1,
+					"low": 3.8,
+					"precipitation": 94.4
+				},
+				{
+					"heading": "Mar",
+					"high": 10.8,
+					"low": 4.9,
+					"precipitation": 92
+				},
+				{
+					"heading": "Apr",
+					"high": 13,
+					"low": 5.8,
+					"precipitation": 60.5
+				},
+				{
+					"heading": "May",
+					"high": 15.8,
+					"low": 8,
+					"precipitation": 68.5
+				},
+				{
+					"heading": "Jun",
+					"high": 17.8,
+					"low": 10.6,
+					"precipitation": 80.6
+				},
+				{
+					"heading": "Jul",
+					"high": 19.5,
+					"low": 12.9,
+					"precipitation": 69.3
+				},
+				{
+					"heading": "Aug",
+					"high": 19.1,
+					"low": 12.5,
+					"precipitation": 108.9
+				},
+				{
+					"heading": "Sep",
+					"high": 17.3,
+					"low": 10.4,
+					"precipitation": 93.2
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 7.9,
+					"precipitation": 130.2
+				},
+				{
+					"heading": "Nov",
+					"high": 11,
+					"low": 5.1,
+					"precipitation": 123.8
+				},
+				{
+					"heading": "Dec",
+					"high": 9,
+					"low": 3.6,
+					"precipitation": 120.9
+				}
+			]
+		},
+		"Kilkenny": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.2,
+					"low": 1.6,
+					"precipitation": 78.3
+				},
+				{
+					"heading": "Feb",
+					"high": 8.6,
+					"low": 1.9,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "Mar",
+					"high": 10.6,
+					"low": 3.2,
+					"precipitation": 67.9
+				},
+				{
+					"heading": "Apr",
+					"high": 12.9,
+					"low": 4.2,
+					"precipitation": 56.4
+				},
+				{
+					"heading": "May",
+					"high": 15.7,
+					"low": 6.5,
+					"precipitation": 60.4
+				},
+				{
+					"heading": "Jun",
+					"high": 18.2,
+					"low": 9.3,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jul",
+					"high": 20.3,
+					"low": 11.3,
+					"precipitation": 54.6
+				},
+				{
+					"heading": "Aug",
+					"high": 20.2,
+					"low": 11,
+					"precipitation": 77.8
+				},
+				{
+					"heading": "Sep",
+					"high": 17.8,
+					"low": 9.1,
+					"precipitation": 69
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 6.5,
+					"precipitation": 95.3
+				},
+				{
+					"heading": "Nov",
+					"high": 10.8,
+					"low": 3.7,
+					"precipitation": 80.2
+				},
+				{
+					"heading": "Dec",
+					"high": 8.8,
+					"low": 2.4,
+					"precipitation": 90.4
+				}
+			]
+		},
+		"Letterkenny": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8,
+					"low": 4,
+					"precipitation": 117.4
+				},
+				{
+					"heading": "Feb",
+					"high": 8,
+					"low": 3,
+					"precipitation": 84.8
+				},
+				{
+					"heading": "Mar",
+					"high": 10,
+					"low": 4,
+					"precipitation": 85.9
+				},
+				{
+					"heading": "Apr",
+					"high": 12,
+					"low": 6,
+					"precipitation": 63.1
+				},
+				{
+					"heading": "May",
+					"high": 14,
+					"low": 8,
+					"precipitation": 56.9
+				},
+				{
+					"heading": "Jun",
+					"high": 16,
+					"low": 10,
+					"precipitation": 69.1
+				},
+				{
+					"heading": "Jul",
+					"high": 17,
+					"low": 12,
+					"precipitation": 76.8
+				},
+				{
+					"heading": "Aug",
+					"high": 18,
+					"low": 12,
+					"precipitation": 93.2
+				},
+				{
+					"heading": "Sep",
+					"high": 16,
+					"low": 11,
+					"precipitation": 91.8
+				},
+				{
+					"heading": "Oct",
+					"high": 13,
+					"low": 9,
+					"precipitation": 118.4
+				},
+				{
+					"heading": "Nov",
+					"high": 10,
+					"low": 6,
+					"precipitation": 104.5
+				},
+				{
+					"heading": "Dec",
+					"high": 8,
+					"low": 4,
+					"precipitation": 114.2
+				}
+			]
+		},
+		"Limerick": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.8,
+					"low": 3.2,
+					"precipitation": 102.3
+				},
+				{
+					"heading": "Feb",
+					"high": 9.2,
+					"low": 3.2,
+					"precipitation": 76.2
+				},
+				{
+					"heading": "Mar",
+					"high": 11.1,
+					"low": 4.5,
+					"precipitation": 78.7
+				},
+				{
+					"heading": "Apr",
+					"high": 13.3,
+					"low": 5.7,
+					"precipitation": 59.2
+				},
+				{
+					"heading": "May",
+					"high": 16,
+					"low": 8.2,
+					"precipitation": 64.8
+				},
+				{
+					"heading": "Jun",
+					"high": 18.5,
+					"low": 11,
+					"precipitation": 69.8
+				},
+				{
+					"heading": "Jul",
+					"high": 19.8,
+					"low": 13,
+					"precipitation": 65.9
+				},
+				{
+					"heading": "Aug",
+					"high": 19.6,
+					"low": 12.7,
+					"precipitation": 82
+				},
+				{
+					"heading": "Sep",
+					"high": 17.7,
+					"low": 10.8,
+					"precipitation": 75.6
+				},
+				{
+					"heading": "Oct",
+					"high": 14.3,
+					"low": 8.2,
+					"precipitation": 104.9
+				},
+				{
+					"heading": "Nov",
+					"high": 11.1,
+					"low": 5.5,
+					"precipitation": 94.1
+				},
+				{
+					"heading": "Dec",
+					"high": 9,
+					"low": 3.6,
+					"precipitation": 104
+				}
+			]
+		},
+		"Sligo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 130.8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 91.6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 108.9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 77.9
+				},
+				{
+					"heading": "May",
+					"precipitation": 81.4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 82.2
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 93
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 101.5
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 104.4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 134.3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 128.4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 125.7
+				}
+			]
+		},
+		"Waterford": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.4,
+					"low": 3,
+					"precipitation": 88.4
+				},
+				{
+					"heading": "Feb",
+					"high": 9,
+					"low": 3,
+					"precipitation": 70.8
+				},
+				{
+					"heading": "Mar",
+					"high": 10.9,
+					"low": 4.2,
+					"precipitation": 69.1
+				},
+				{
+					"heading": "Apr",
+					"high": 12.9,
+					"low": 5.3,
+					"precipitation": 59.1
+				},
+				{
+					"heading": "May",
+					"high": 16,
+					"low": 7.8,
+					"precipitation": 55.7
+				},
+				{
+					"heading": "Jun",
+					"high": 18.2,
+					"low": 10.5,
+					"precipitation": 54.9
+				},
+				{
+					"heading": "Jul",
+					"high": 20.1,
+					"low": 12.3,
+					"precipitation": 49.9
+				},
+				{
+					"heading": "Aug",
+					"high": 20,
+					"low": 12.1,
+					"precipitation": 71.6
+				},
+				{
+					"heading": "Sep",
+					"high": 17.8,
+					"low": 10.2,
+					"precipitation": 75
+				},
+				{
+					"heading": "Oct",
+					"high": 14.4,
+					"low": 7.9,
+					"precipitation": 109.3
+				},
+				{
+					"heading": "Nov",
+					"high": 11.3,
+					"low": 5.1,
+					"precipitation": 100.9
+				},
+				{
+					"heading": "Dec",
+					"high": 9.4,
+					"low": 3.8,
+					"precipitation": 100.8
+				}
+			]
+		}
+	}
+}

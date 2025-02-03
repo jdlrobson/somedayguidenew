@@ -1,0 +1,1018 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"text": "Got 6 months free?",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "London to Sydney overland",
+			"url": "https://madventure.co.uk/london-to-sydney-overlandtour/"
+		},
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg/560px-Cradle_Mountain_Behind_Dove_Lake.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Cradle mountain",
+			"url": "https://en.wikipedia.org/wiki/Cradle_Mountain"
+		},
+		{
+			"text": "-",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Aboriginal_rock_art_-Ubirr_Art_Site%2C_Kakadu_National_Park%2C_Northern_Territory%2C_Australia-9June2012_%281%29.jpg/1600px-Aboriginal_rock_art_-Ubirr_Art_Site%2C_Kakadu_National_Park%2C_Northern_Territory%2C_Australia-9June2012_%281%29.jpg?20121013200537",
+			"type": "url",
+			"embed": false,
+			"title": "Nanguluwurr",
+			"url": "https://kakadu.gov.au/things-do/activities/rock-art/nanguluwurr/"
+		}
+	],
+	"places": {
+		"Canberra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 60,
+					"high": 29,
+					"low": 14
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 51,
+					"high": 28,
+					"low": 14
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 56,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 49,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 48,
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 38,
+					"high": 12,
+					"low": 1
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 52,
+					"high": 12,
+					"low": 0
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 47,
+					"high": 14,
+					"low": 1
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 65,
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 62,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 59,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 46,
+					"high": 27,
+					"low": 12
+				}
+			]
+		},
+		"Adelaide": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 19,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 14,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 27,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 40,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 60,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 79,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 75,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 69,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 59,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 43,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 31,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 29,
+					"high": 27,
+					"low": 16
+				}
+			]
+		},
+		"Brisbane": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.1,
+					"low": 21.4,
+					"precipitation": 127
+				},
+				{
+					"heading": "Feb",
+					"high": 29.1,
+					"low": 21.2,
+					"precipitation": 121
+				},
+				{
+					"heading": "Mar",
+					"high": 28,
+					"low": 19.8,
+					"precipitation": 112
+				},
+				{
+					"heading": "Apr",
+					"high": 26,
+					"low": 16.5,
+					"precipitation": 73
+				},
+				{
+					"heading": "May",
+					"high": 23.6,
+					"low": 13,
+					"precipitation": 98
+				},
+				{
+					"heading": "Jun",
+					"high": 21.3,
+					"low": 10.8,
+					"precipitation": 68
+				},
+				{
+					"heading": "Jul",
+					"high": 20.9,
+					"low": 9.2,
+					"precipitation": 28
+				},
+				{
+					"heading": "Aug",
+					"high": 22,
+					"low": 9.7,
+					"precipitation": 38
+				},
+				{
+					"heading": "Sep",
+					"high": 24.2,
+					"low": 12.9,
+					"precipitation": 34
+				},
+				{
+					"heading": "Oct",
+					"high": 25.4,
+					"low": 15.8,
+					"precipitation": 74
+				},
+				{
+					"heading": "Nov",
+					"high": 26.9,
+					"low": 18.3,
+					"precipitation": 94
+				},
+				{
+					"heading": "Dec",
+					"high": 28.2,
+					"low": 20.1,
+					"precipitation": 120
+				}
+			]
+		},
+		"Cairns": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 23.9,
+					"precipitation": 378.7
+				},
+				{
+					"heading": "Feb",
+					"high": 31.3,
+					"low": 24,
+					"precipitation": 448
+				},
+				{
+					"heading": "Mar",
+					"high": 30.7,
+					"low": 23.1,
+					"precipitation": 378
+				},
+				{
+					"heading": "Apr",
+					"high": 29.4,
+					"low": 21.9,
+					"precipitation": 215.3
+				},
+				{
+					"heading": "May",
+					"high": 27.9,
+					"low": 20.2,
+					"precipitation": 89
+				},
+				{
+					"heading": "Jun",
+					"high": 26.3,
+					"low": 18.2,
+					"precipitation": 40.8
+				},
+				{
+					"heading": "Jul",
+					"high": 25.9,
+					"low": 17.1,
+					"precipitation": 30.9
+				},
+				{
+					"heading": "Aug",
+					"high": 26.7,
+					"low": 17.5,
+					"precipitation": 28.9
+				},
+				{
+					"heading": "Sep",
+					"high": 28.4,
+					"low": 18.8,
+					"precipitation": 34.8
+				},
+				{
+					"heading": "Oct",
+					"high": 29.8,
+					"low": 20.9,
+					"precipitation": 48.2
+				},
+				{
+					"heading": "Nov",
+					"high": 30.8,
+					"low": 22.5,
+					"precipitation": 111.7
+				},
+				{
+					"heading": "Dec",
+					"high": 31.6,
+					"low": 23.7,
+					"precipitation": 177.9
+				}
+			]
+		},
+		"Darwin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.4,
+					"low": 25.2,
+					"precipitation": 393.2
+				},
+				{
+					"heading": "Feb",
+					"high": 32.2,
+					"low": 25,
+					"precipitation": 329.7
+				},
+				{
+					"heading": "Mar",
+					"high": 32.7,
+					"low": 24.9,
+					"precipitation": 257
+				},
+				{
+					"heading": "Apr",
+					"high": 33.5,
+					"low": 24.4,
+					"precipitation": 102.6
+				},
+				{
+					"heading": "May",
+					"high": 32.6,
+					"low": 22.6,
+					"precipitation": 14.3
+				},
+				{
+					"heading": "Jun",
+					"high": 31.2,
+					"low": 20.8,
+					"precipitation": 3
+				},
+				{
+					"heading": "Jul",
+					"high": 30.6,
+					"low": 19.7,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 20.9,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "Sep",
+					"high": 33,
+					"low": 23.3,
+					"precipitation": 12.8
+				},
+				{
+					"heading": "Oct",
+					"high": 34.1,
+					"low": 25.1,
+					"precipitation": 51.6
+				},
+				{
+					"heading": "Nov",
+					"high": 34.2,
+					"low": 25.5,
+					"precipitation": 124
+				},
+				{
+					"heading": "Dec",
+					"high": 33.6,
+					"low": 25.6,
+					"precipitation": 241.8
+				}
+			]
+		},
+		"Hobart": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 47,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 40,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 45,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 51,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 47,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 54,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 52,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 54,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 54,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 61,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 54,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 57,
+					"high": 20,
+					"low": 11
+				}
+			]
+		},
+		"Melbourne": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 48,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 48,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 50,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 57,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 56,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 49,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 48,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 50,
+					"high": 15,
+					"low": 7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 58,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 66,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 60,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 60,
+					"high": 24,
+					"low": 13
+				}
+			]
+		},
+		"Perth": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.2,
+					"low": 18.1,
+					"precipitation": 20.2
+				},
+				{
+					"heading": "Feb",
+					"high": 31.6,
+					"low": 18.3,
+					"precipitation": 13.1
+				},
+				{
+					"heading": "Mar",
+					"high": 29.6,
+					"low": 16.7,
+					"precipitation": 19.7
+				},
+				{
+					"heading": "Apr",
+					"high": 25.9,
+					"low": 13.8,
+					"precipitation": 35.7
+				},
+				{
+					"heading": "May",
+					"high": 22.3,
+					"low": 10.5,
+					"precipitation": 89.4
+				},
+				{
+					"heading": "Jun",
+					"high": 19.4,
+					"low": 8.5,
+					"precipitation": 124.5
+				},
+				{
+					"heading": "Jul",
+					"high": 18.4,
+					"low": 7.8,
+					"precipitation": 145.9
+				},
+				{
+					"heading": "Aug",
+					"high": 19,
+					"low": 8.3,
+					"precipitation": 126
+				},
+				{
+					"heading": "Sep",
+					"high": 20.3,
+					"low": 9.5,
+					"precipitation": 84.8
+				},
+				{
+					"heading": "Oct",
+					"high": 23.4,
+					"low": 11.6,
+					"precipitation": 38.8
+				},
+				{
+					"heading": "Nov",
+					"high": 26.7,
+					"low": 14.3,
+					"precipitation": 21.8
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 16.3,
+					"precipitation": 10.9
+				}
+			]
+		},
+		"Sydney": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 93,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 103,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 100,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 86,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 66,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 81,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 45,
+					"high": 17,
+					"low": 5
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 51,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 44,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 59,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 78,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 68,
+					"high": 27,
+					"low": 17
+				}
+			]
+		},
+		"Katherine": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.6,
+					"low": 24.2,
+					"precipitation": 264.4
+				},
+				{
+					"heading": "Feb",
+					"high": 33.9,
+					"low": 23.9,
+					"precipitation": 235.4
+				},
+				{
+					"heading": "Mar",
+					"high": 34.2,
+					"low": 23.1,
+					"precipitation": 202.2
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 20.8,
+					"precipitation": 43.5
+				},
+				{
+					"heading": "May",
+					"high": 32.1,
+					"low": 16.8,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jun",
+					"high": 30.1,
+					"low": 13.8,
+					"precipitation": 0.4
+				},
+				{
+					"heading": "Jul",
+					"high": 30.4,
+					"low": 13,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 32.3,
+					"low": 14.6,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "Sep",
+					"high": 35.8,
+					"low": 20.1,
+					"precipitation": 6.4
+				},
+				{
+					"heading": "Oct",
+					"high": 37.7,
+					"low": 23.7,
+					"precipitation": 30.2
+				},
+				{
+					"heading": "Nov",
+					"high": 37.7,
+					"low": 24.6,
+					"precipitation": 89.3
+				},
+				{
+					"heading": "Dec",
+					"high": 35.9,
+					"low": 24.5,
+					"precipitation": 223.9
+				}
+			]
+		},
+		"Uluru-Kata Tjuta National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 44,
+					"high": 46,
+					"low": 25
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 55,
+					"high": 43,
+					"low": 26
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 23,
+					"high": 40,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 43,
+					"high": 34,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 27,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 9,
+					"high": 20,
+					"low": 6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 4,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 3,
+					"high": 26,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 5,
+					"high": 34,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 5,
+					"high": 39,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 32,
+					"high": 40,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": 43,
+					"low": 22
+				}
+			]
+		},
+		"Watarrka National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 64,
+					"high": 46,
+					"low": 25
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 97,
+					"high": 43,
+					"low": 24
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 26,
+					"high": 39,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 41,
+					"high": 34,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 44,
+					"high": 26,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 9,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 7,
+					"high": 21,
+					"low": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 26,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 4,
+					"high": 34,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 6,
+					"high": 38,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 50,
+					"high": 38,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 48,
+					"high": 43,
+					"low": 21
+				}
+			]
+		},
+		"Kuranda": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 314,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 356,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 445,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 188,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 161,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 60,
+					"high": 20,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 65,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 24,
+					"high": 21,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 23,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 27,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 73,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 64,
+					"high": 26,
+					"low": 19
+				}
+			]
+		}
+	}
+}

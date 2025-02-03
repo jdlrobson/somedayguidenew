@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Grand Comore": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 378,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 256,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 358,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 236,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "May",
+					"precipitation": 105,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 34,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 26,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 18,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 38,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 88,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 75,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 199,
+					"high": 25,
+					"low": 19
+				}
+			]
+		},
+		"Anjouan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 200,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 229,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 205,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 202,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 50,
+					"high": 22,
+					"low": 18
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 9,
+					"high": 21,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 20,
+					"high": 21,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 58,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 40,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 147,
+					"high": 24,
+					"low": 19
+				}
+			]
+		},
+		"Moroni (Comoros)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.4,
+					"low": 23.4,
+					"precipitation": 364
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 23.3,
+					"precipitation": 293
+				},
+				{
+					"heading": "Mar",
+					"high": 30.8,
+					"low": 23,
+					"precipitation": 279
+				},
+				{
+					"heading": "Apr",
+					"high": 30.4,
+					"low": 22.6,
+					"precipitation": 316
+				},
+				{
+					"heading": "May",
+					"high": 29.5,
+					"low": 21.2,
+					"precipitation": 256
+				},
+				{
+					"heading": "Jun",
+					"high": 28.4,
+					"low": 19.6,
+					"precipitation": 266
+				},
+				{
+					"heading": "Jul",
+					"high": 27.7,
+					"low": 18.8,
+					"precipitation": 244
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 18.4,
+					"precipitation": 150
+				},
+				{
+					"heading": "Sep",
+					"high": 28.1,
+					"low": 19,
+					"precipitation": 108
+				},
+				{
+					"heading": "Oct",
+					"high": 29.1,
+					"low": 20.3,
+					"precipitation": 97
+				},
+				{
+					"heading": "Nov",
+					"high": 30.3,
+					"low": 21.6,
+					"precipitation": 108
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 22.6,
+					"precipitation": 219
+				}
+			]
+		}
+	}
+}

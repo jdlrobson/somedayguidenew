@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Luxembourg (city)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.1,
+					"low": -1.6,
+					"precipitation": 76.6
+				},
+				{
+					"heading": "Feb",
+					"high": 4.7,
+					"low": -1.3,
+					"precipitation": 62.5
+				},
+				{
+					"heading": "Mar",
+					"high": 9.1,
+					"low": 1.6,
+					"precipitation": 69.1
+				},
+				{
+					"heading": "Apr",
+					"high": 13.3,
+					"low": 4.4,
+					"precipitation": 58.2
+				},
+				{
+					"heading": "May",
+					"high": 17.8,
+					"low": 8.4,
+					"precipitation": 78.5
+				},
+				{
+					"heading": "Jun",
+					"high": 20.7,
+					"low": 11.1,
+					"precipitation": 79.9
+				},
+				{
+					"heading": "Jul",
+					"high": 23.2,
+					"low": 13.3,
+					"precipitation": 71
+				},
+				{
+					"heading": "Aug",
+					"high": 22.8,
+					"low": 13,
+					"precipitation": 75.4
+				},
+				{
+					"heading": "Sep",
+					"high": 18.4,
+					"low": 10,
+					"precipitation": 76.3
+				},
+				{
+					"heading": "Oct",
+					"high": 13.1,
+					"low": 6.3,
+					"precipitation": 86.8
+				},
+				{
+					"heading": "Nov",
+					"high": 7.3,
+					"low": 2.2,
+					"precipitation": 76
+				},
+				{
+					"heading": "Dec",
+					"high": 3.9,
+					"low": -0.5,
+					"precipitation": 86.7
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,614 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Sri Jayawardenapura Kotte": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.6,
+					"low": 22.3,
+					"precipitation": 85
+				},
+				{
+					"heading": "Feb",
+					"high": 31.2,
+					"low": 22.7,
+					"precipitation": 63
+				},
+				{
+					"heading": "Mar",
+					"high": 31.7,
+					"low": 23.7,
+					"precipitation": 112
+				},
+				{
+					"heading": "Apr",
+					"high": 31.8,
+					"low": 24.6,
+					"precipitation": 252
+				},
+				{
+					"heading": "May",
+					"high": 31.1,
+					"low": 25.5,
+					"precipitation": 335
+				},
+				{
+					"heading": "Jun",
+					"high": 30.4,
+					"low": 25.5,
+					"precipitation": 195
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 25.1,
+					"precipitation": 130
+				},
+				{
+					"heading": "Aug",
+					"high": 30,
+					"low": 25.2,
+					"precipitation": 95
+				},
+				{
+					"heading": "Sep",
+					"high": 30.3,
+					"low": 24.8,
+					"precipitation": 165
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 24,
+					"precipitation": 358
+				},
+				{
+					"heading": "Nov",
+					"high": 30.2,
+					"low": 23.2,
+					"precipitation": 309
+				},
+				{
+					"heading": "Dec",
+					"high": 30.4,
+					"low": 22.8,
+					"precipitation": 153
+				}
+			]
+		},
+		"Batticaloa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.8,
+					"low": 23.2,
+					"precipitation": 210.3
+				},
+				{
+					"heading": "Feb",
+					"high": 28.6,
+					"low": 23.6,
+					"precipitation": 128.4
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 24.3,
+					"precipitation": 89
+				},
+				{
+					"heading": "Apr",
+					"high": 31.6,
+					"low": 25.3,
+					"precipitation": 55
+				},
+				{
+					"heading": "May",
+					"high": 33,
+					"low": 25.7,
+					"precipitation": 39.3
+				},
+				{
+					"heading": "Jun",
+					"high": 34,
+					"low": 25.6,
+					"precipitation": 23.9
+				},
+				{
+					"heading": "Jul",
+					"high": 33.4,
+					"low": 25.3,
+					"precipitation": 41.4
+				},
+				{
+					"heading": "Aug",
+					"high": 33.1,
+					"low": 25.1,
+					"precipitation": 48.5
+				},
+				{
+					"heading": "Sep",
+					"high": 32.2,
+					"low": 24.8,
+					"precipitation": 67
+				},
+				{
+					"heading": "Oct",
+					"high": 30.9,
+					"low": 24.3,
+					"precipitation": 180
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 23.8,
+					"precipitation": 349.6
+				},
+				{
+					"heading": "Dec",
+					"high": 28.1,
+					"low": 23.5,
+					"precipitation": 418.5
+				}
+			]
+		},
+		"Colombo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 58,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 73,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 128,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 246,
+					"high": 32,
+					"low": 25
+				},
+				{
+					"heading": "May",
+					"precipitation": 392,
+					"high": 31,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 185,
+					"high": 30,
+					"low": 26
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 122,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 120,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 245,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 365,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 414,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 175,
+					"high": 30,
+					"low": 23
+				}
+			]
+		},
+		"Galle": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 22.8,
+					"precipitation": 85.1
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 23,
+					"precipitation": 70.5
+				},
+				{
+					"heading": "Mar",
+					"high": 29.9,
+					"low": 23.9,
+					"precipitation": 111.3
+				},
+				{
+					"heading": "Apr",
+					"high": 30.6,
+					"low": 24.8,
+					"precipitation": 206.8
+				},
+				{
+					"heading": "May",
+					"high": 30.6,
+					"low": 25.5,
+					"precipitation": 290.4
+				},
+				{
+					"heading": "Jun",
+					"high": 29.8,
+					"low": 25.2,
+					"precipitation": 188.2
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 24.8,
+					"precipitation": 163.2
+				},
+				{
+					"heading": "Aug",
+					"high": 28.6,
+					"low": 24.7,
+					"precipitation": 185.9
+				},
+				{
+					"heading": "Sep",
+					"high": 28.4,
+					"low": 24.7,
+					"precipitation": 255.8
+				},
+				{
+					"heading": "Oct",
+					"high": 28.5,
+					"low": 24.1,
+					"precipitation": 322.7
+				},
+				{
+					"heading": "Nov",
+					"high": 28.7,
+					"low": 23.5,
+					"precipitation": 321
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 23.1,
+					"precipitation": 176.9
+				}
+			]
+		},
+		"Jaffna": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.5,
+					"low": 23,
+					"precipitation": 69.6
+				},
+				{
+					"heading": "Feb",
+					"high": 29.9,
+					"low": 22.6,
+					"precipitation": 37.2
+				},
+				{
+					"heading": "Mar",
+					"high": 31.8,
+					"low": 23.4,
+					"precipitation": 19.1
+				},
+				{
+					"heading": "Apr",
+					"high": 33.4,
+					"low": 25.6,
+					"precipitation": 43.4
+				},
+				{
+					"heading": "May",
+					"high": 33.3,
+					"low": 26.9,
+					"precipitation": 46.3
+				},
+				{
+					"heading": "Jun",
+					"high": 32.7,
+					"low": 26.9,
+					"precipitation": 23.2
+				},
+				{
+					"heading": "Jul",
+					"high": 32.6,
+					"low": 26.2,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 25.9,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "Sep",
+					"high": 32.1,
+					"low": 25.7,
+					"precipitation": 75.4
+				},
+				{
+					"heading": "Oct",
+					"high": 30.8,
+					"low": 24.7,
+					"precipitation": 249.8
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 23.9,
+					"precipitation": 356.1
+				},
+				{
+					"heading": "Dec",
+					"high": 28.3,
+					"low": 23.6,
+					"precipitation": 294.5
+				}
+			]
+		},
+		"Kandy": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27,
+					"low": 18,
+					"precipitation": 79
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 18,
+					"precipitation": 74
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 18,
+					"precipitation": 71
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 20,
+					"precipitation": 188
+				},
+				{
+					"heading": "May",
+					"high": 29,
+					"low": 20,
+					"precipitation": 144
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 20,
+					"precipitation": 132
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 20,
+					"precipitation": 128
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 19,
+					"precipitation": 113
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 19,
+					"precipitation": 155
+				},
+				{
+					"heading": "Oct",
+					"high": 28,
+					"low": 19,
+					"precipitation": 264
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 19,
+					"precipitation": 296
+				},
+				{
+					"heading": "Dec",
+					"high": 27,
+					"low": 18,
+					"precipitation": 196
+				}
+			]
+		},
+		"Negombo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 22,
+					"precipitation": 89
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 22,
+					"precipitation": 69
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 23,
+					"precipitation": 147
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 24,
+					"precipitation": 231
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 26,
+					"precipitation": 371
+				},
+				{
+					"heading": "Jun",
+					"high": 29,
+					"low": 25,
+					"precipitation": 224
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 135
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 109
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 160
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 24,
+					"precipitation": 348
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 23,
+					"precipitation": 315
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 22,
+					"precipitation": 147
+				}
+			]
+		},
+		"Nuwara Eliya": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20,
+					"low": 9.4,
+					"precipitation": 100.6
+				},
+				{
+					"heading": "Feb",
+					"high": 21.2,
+					"low": 9.4,
+					"precipitation": 77.7
+				},
+				{
+					"heading": "Mar",
+					"high": 22.5,
+					"low": 10.2,
+					"precipitation": 71.5
+				},
+				{
+					"heading": "Apr",
+					"high": 22.8,
+					"low": 11.4,
+					"precipitation": 158.4
+				},
+				{
+					"heading": "May",
+					"high": 21.3,
+					"low": 12.8,
+					"precipitation": 175.9
+				},
+				{
+					"heading": "Jun",
+					"high": 18.9,
+					"low": 13.3,
+					"precipitation": 171.9
+				},
+				{
+					"heading": "Jul",
+					"high": 18.5,
+					"low": 12.8,
+					"precipitation": 164.9
+				},
+				{
+					"heading": "Aug",
+					"high": 18.7,
+					"low": 12.7,
+					"precipitation": 161
+				},
+				{
+					"heading": "Sep",
+					"high": 19.2,
+					"low": 12.3,
+					"precipitation": 178.8
+				},
+				{
+					"heading": "Oct",
+					"high": 19.8,
+					"low": 11.9,
+					"precipitation": 226.8
+				},
+				{
+					"heading": "Nov",
+					"high": 19.8,
+					"low": 11.5,
+					"precipitation": 221.7
+				},
+				{
+					"heading": "Dec",
+					"high": 19.4,
+					"low": 11,
+					"precipitation": 196
+				}
+			]
+		}
+	}
+}

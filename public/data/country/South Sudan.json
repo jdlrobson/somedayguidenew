@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Juba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 36.8,
+					"low": 20.1,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Feb",
+					"high": 37.9,
+					"low": 21.7,
+					"precipitation": 11
+				},
+				{
+					"heading": "Mar",
+					"high": 37.7,
+					"low": 23.6,
+					"precipitation": 36.7
+				},
+				{
+					"heading": "Apr",
+					"high": 35.4,
+					"low": 23.4,
+					"precipitation": 111.5
+				},
+				{
+					"heading": "May",
+					"high": 33.5,
+					"low": 22.6,
+					"precipitation": 129.9
+				},
+				{
+					"heading": "Jun",
+					"high": 32.4,
+					"low": 21.9,
+					"precipitation": 117.8
+				},
+				{
+					"heading": "Jul",
+					"high": 31.1,
+					"low": 21.1,
+					"precipitation": 144.7
+				},
+				{
+					"heading": "Aug",
+					"high": 31.6,
+					"low": 21,
+					"precipitation": 127.5
+				},
+				{
+					"heading": "Sep",
+					"high": 33.1,
+					"low": 21.1,
+					"precipitation": 103.7
+				},
+				{
+					"heading": "Oct",
+					"high": 34,
+					"low": 21.3,
+					"precipitation": 114.5
+				},
+				{
+					"heading": "Nov",
+					"high": 34.7,
+					"low": 20.9,
+					"precipitation": 43.1
+				},
+				{
+					"heading": "Dec",
+					"high": 35.9,
+					"low": 20,
+					"precipitation": 8.2
+				}
+			]
+		}
+	}
+}

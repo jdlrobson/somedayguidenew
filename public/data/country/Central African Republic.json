@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bangui": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 20,
+					"high": 33,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 39,
+					"high": 34,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 116,
+					"high": 34,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 142,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 167,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 134,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 174,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 240,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 185,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 190,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 89,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 24,
+					"high": 32,
+					"low": 19
+				}
+			]
+		},
+		"Bangassou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34,
+					"low": 18,
+					"precipitation": 23
+				},
+				{
+					"heading": "Feb",
+					"high": 35,
+					"low": 19,
+					"precipitation": 43
+				},
+				{
+					"heading": "Mar",
+					"high": 34,
+					"low": 20,
+					"precipitation": 120
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 21,
+					"precipitation": 140
+				},
+				{
+					"heading": "May",
+					"high": 33,
+					"low": 21,
+					"precipitation": 230
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 21,
+					"precipitation": 180
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 20,
+					"precipitation": 180
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 19,
+					"precipitation": 210
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 19,
+					"precipitation": 190
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 20,
+					"precipitation": 260
+				},
+				{
+					"heading": "Nov",
+					"high": 33,
+					"low": 19,
+					"precipitation": 97
+				},
+				{
+					"heading": "Dec",
+					"high": 33,
+					"low": 18,
+					"precipitation": 38
+				}
+			]
+		}
+	}
+}

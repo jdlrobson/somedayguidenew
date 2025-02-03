@@ -1,0 +1,145 @@
+{
+	"note": "<p>In a creeky house on stilts the bats flew in to feed on what was left of our papaya.</p>\n",
+	"snippets": [
+		{
+			"text": "In Grenada – like the cliche of every tropical paradise – time goes slow. Grenada is beach and jungle and having had enough of lazing on the beach watching time pass slowly Linzy and I decided to head for the latter. Grand Etang National Park was our destination, however, without a car to get to",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/12/79506443_2849400088416905_2649053117640249340_n.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Making up for lost time on the Grenada buses to the Grand Etang National Park waterfall",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/12/17/making-up-for-lost-time-on-the-grenada-buses-to-the-grand-etang-national-park-waterfall/"
+		},
+		{
+			"text": "We stayed at Grenada Love Shack on Morne Rouge Bay (also known as the Blanco Beach Club – BBC). We saw more birds around our neighbourhood than the Grand Etang National Park. Mr and Mrs Lesser Antillean Bullfinch were the first to welcome us. The Antillean Crested Hummingbird darted too quickly, but as our gaze",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/12/img_20191201_062303233.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The (little known) bird sanctuary of Morne Rouge – Part [I]",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/11/30/the-little-known-bird-sanctuary-of-morne-rouge-part-i/"
+		},
+		{
+			"text": "The walk to the supermarket (Real Value IGA) is about thirty minutes away from the Grenada Love Shack but often became a much longer affair as we check out the birds along the Morne Rouge stretch of road. Thanks to iNaturalist, we started to learn more about the various species of herons. The Green Heron,",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/12/img_20191129_163106734.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The (little known) bird sanctuary of Morne Rouge – Part [II]",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/12/01/the-little-known-bird-sanctuary-of-morne-rouge-part-ii/"
+		},
+		{
+			"text": "On our first evening at the Grenada Love Shack, we heard sharp repetitive “Qui (kee)” calls. The calls became relatively louder, but we were dead tired to investigate. We soon drifted into sleep. The following day, we were occupied by the birds in the neighbourhood until the “Qui Qui Qui” ensemble surfaced in the evening.",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/01/img_20191201_193454352b.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The bubble-blowing creatures of Grenada [I]",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/12/02/the-bubble-blowing-creatures-of-grenada-i/"
+		},
+		{
+			"text": "The birds in Morne Rouge and frogs outside the house kept us pretty occupied, day and night. We did check out St George's town, Great Anse Beach and even made our way to Etang National Park and Seven Sisters Waterfalls but our neighbourhood was the most eventful. A week went by pretty quickly with warm",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/01/dscn7891.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The bubble-blowing creatures of Grenada [II]",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/12/03/the-bubble-blowing-creatures-of-grenada-ii/"
+		}
+	],
+	"places": {
+		"Grenada (island)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.3,
+					"low": 23.8,
+					"precipitation": 47.75
+				},
+				{
+					"heading": "Feb",
+					"high": 28.8,
+					"low": 23.8,
+					"precipitation": 44.45
+				},
+				{
+					"heading": "Mar",
+					"high": 29.4,
+					"low": 24.4,
+					"precipitation": 24.38
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 25.5,
+					"precipitation": 16.26
+				},
+				{
+					"heading": "May",
+					"high": 30,
+					"low": 26.6,
+					"precipitation": 55.37
+				},
+				{
+					"heading": "Jun",
+					"high": 29.4,
+					"low": 25.5,
+					"precipitation": 143.76
+				},
+				{
+					"heading": "Jul",
+					"high": 28.8,
+					"low": 25.5,
+					"precipitation": 228.34
+				},
+				{
+					"heading": "Aug",
+					"high": 29.4,
+					"low": 25.5,
+					"precipitation": 293.12
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 25.5,
+					"precipitation": 273.3
+				},
+				{
+					"heading": "Oct",
+					"high": 29.4,
+					"low": 25.5,
+					"precipitation": 181.86
+				},
+				{
+					"heading": "Nov",
+					"high": 28.8,
+					"low": 25,
+					"precipitation": 87.38
+				},
+				{
+					"heading": "Dec",
+					"high": 28.8,
+					"low": 24.4,
+					"precipitation": 54.61
+				}
+			]
+		},
+		"Carriacou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				}
+			]
+		}
+	}
+}

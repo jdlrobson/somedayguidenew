@@ -1,0 +1,564 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BxubbAPjMgv",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxxgMhpAcYK",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxvLg1AgbHA",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxtpduvgCrG",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxvQMyYjr8H",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Budapest": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 39,
+					"high": 3,
+					"low": 0
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 37,
+					"high": 6,
+					"low": 2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 38,
+					"high": 11,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 16,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 65,
+					"high": 22,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 70,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 50,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 50,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 43,
+					"high": 22,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 47,
+					"high": 15,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 60,
+					"high": 8,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 50,
+					"high": 4,
+					"low": 2
+				}
+			]
+		},
+		"Debrecen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.7,
+					"low": -5.7,
+					"precipitation": 32.5
+				},
+				{
+					"heading": "Feb",
+					"high": 3.5,
+					"low": -4,
+					"precipitation": 31.6
+				},
+				{
+					"heading": "Mar",
+					"high": 10,
+					"low": 0,
+					"precipitation": 31.6
+				},
+				{
+					"heading": "Apr",
+					"high": 16.3,
+					"low": 4.7,
+					"precipitation": 44.9
+				},
+				{
+					"heading": "May",
+					"high": 22,
+					"low": 9.7,
+					"precipitation": 59.4
+				},
+				{
+					"heading": "Jun",
+					"high": 25.1,
+					"low": 12.9,
+					"precipitation": 72.9
+				},
+				{
+					"heading": "Jul",
+					"high": 27.1,
+					"low": 14.3,
+					"precipitation": 60.5
+				},
+				{
+					"heading": "Aug",
+					"high": 26.6,
+					"low": 13.7,
+					"precipitation": 58.5
+				},
+				{
+					"heading": "Sep",
+					"high": 22.3,
+					"low": 9.9,
+					"precipitation": 42
+				},
+				{
+					"heading": "Oct",
+					"high": 16.1,
+					"low": 5.1,
+					"precipitation": 43.2
+				},
+				{
+					"heading": "Nov",
+					"high": 8.3,
+					"low": 1,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Dec",
+					"high": 2.9,
+					"low": -2.9,
+					"precipitation": 43.1
+				}
+			]
+		},
+		"Győr": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.6,
+					"low": -3.3,
+					"precipitation": 32
+				},
+				{
+					"heading": "Feb",
+					"high": 5.3,
+					"low": -1.9,
+					"precipitation": 33
+				},
+				{
+					"heading": "Mar",
+					"high": 10.7,
+					"low": 1.6,
+					"precipitation": 28
+				},
+				{
+					"heading": "Apr",
+					"high": 16,
+					"low": 5.4,
+					"precipitation": 38
+				},
+				{
+					"heading": "May",
+					"high": 21.5,
+					"low": 10.1,
+					"precipitation": 55
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 13.1,
+					"precipitation": 64
+				},
+				{
+					"heading": "Jul",
+					"high": 26.6,
+					"low": 14.7,
+					"precipitation": 53
+				},
+				{
+					"heading": "Aug",
+					"high": 26.3,
+					"low": 14.4,
+					"precipitation": 65
+				},
+				{
+					"heading": "Sep",
+					"high": 21.5,
+					"low": 10.8,
+					"precipitation": 38
+				},
+				{
+					"heading": "Oct",
+					"high": 15.6,
+					"low": 6,
+					"precipitation": 35
+				},
+				{
+					"heading": "Nov",
+					"high": 8,
+					"low": 1.6,
+					"precipitation": 53
+				},
+				{
+					"heading": "Dec",
+					"high": 3.9,
+					"low": -1.4,
+					"precipitation": 38
+				}
+			]
+		},
+		"Miskolc": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -3,
+					"low": -10.3,
+					"precipitation": 27
+				},
+				{
+					"heading": "Feb",
+					"high": 2.7,
+					"low": -4.9,
+					"precipitation": 28
+				},
+				{
+					"heading": "Mar",
+					"high": 10.1,
+					"low": -0.6,
+					"precipitation": 32
+				},
+				{
+					"heading": "Apr",
+					"high": 16.7,
+					"low": 4.3,
+					"precipitation": 40
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 9,
+					"precipitation": 65
+				},
+				{
+					"heading": "Jun",
+					"high": 24.5,
+					"low": 12.3,
+					"precipitation": 83
+				},
+				{
+					"heading": "Jul",
+					"high": 26.5,
+					"low": 13.6,
+					"precipitation": 60
+				},
+				{
+					"heading": "Aug",
+					"high": 25.9,
+					"low": 13,
+					"precipitation": 65
+				},
+				{
+					"heading": "Sep",
+					"high": 22,
+					"low": 9.5,
+					"precipitation": 41
+				},
+				{
+					"heading": "Oct",
+					"high": 15.8,
+					"low": 4.5,
+					"precipitation": 34
+				},
+				{
+					"heading": "Nov",
+					"high": 7.4,
+					"low": 0.4,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": -1.9,
+					"low": -6.7,
+					"precipitation": 36
+				}
+			]
+		},
+		"Nyíregyháza": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 65,
+					"high": 0,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 60,
+					"high": 3,
+					"low": -7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 73,
+					"high": 10,
+					"low": -4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 53,
+					"high": 22,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 82,
+					"high": 27,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 86,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 74,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 39,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 54,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 63,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 49,
+					"high": 7,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 50,
+					"high": -1,
+					"low": -8
+				}
+			]
+		},
+		"Pécs": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.6,
+					"low": -4,
+					"precipitation": 39
+				},
+				{
+					"heading": "Feb",
+					"high": 4.8,
+					"low": -1.7,
+					"precipitation": 32
+				},
+				{
+					"heading": "Mar",
+					"high": 10.3,
+					"low": 1.6,
+					"precipitation": 38
+				},
+				{
+					"heading": "Apr",
+					"high": 16,
+					"low": 6,
+					"precipitation": 55
+				},
+				{
+					"heading": "May",
+					"high": 20.9,
+					"low": 10.5,
+					"precipitation": 63
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 13.6,
+					"precipitation": 84
+				},
+				{
+					"heading": "Jul",
+					"high": 26.3,
+					"low": 15,
+					"precipitation": 61
+				},
+				{
+					"heading": "Aug",
+					"high": 25.9,
+					"low": 14.7,
+					"precipitation": 63
+				},
+				{
+					"heading": "Sep",
+					"high": 22.3,
+					"low": 11.7,
+					"precipitation": 47
+				},
+				{
+					"heading": "Oct",
+					"high": 16.6,
+					"low": 7,
+					"precipitation": 37
+				},
+				{
+					"heading": "Nov",
+					"high": 8.8,
+					"low": 2.2,
+					"precipitation": 56
+				},
+				{
+					"heading": "Dec",
+					"high": 3.4,
+					"low": -1.7,
+					"precipitation": 44
+				}
+			]
+		},
+		"Szeged": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.8,
+					"low": -3.8,
+					"precipitation": 24
+				},
+				{
+					"heading": "Feb",
+					"high": 5.7,
+					"low": -2.6,
+					"precipitation": 23
+				},
+				{
+					"heading": "Mar",
+					"high": 11.6,
+					"low": 0.5,
+					"precipitation": 25
+				},
+				{
+					"heading": "Apr",
+					"high": 16.9,
+					"low": 5.2,
+					"precipitation": 40
+				},
+				{
+					"heading": "May",
+					"high": 22.4,
+					"low": 10.3,
+					"precipitation": 51
+				},
+				{
+					"heading": "Jun",
+					"high": 25.5,
+					"low": 13,
+					"precipitation": 68
+				},
+				{
+					"heading": "Jul",
+					"high": 27.7,
+					"low": 14.3,
+					"precipitation": 53
+				},
+				{
+					"heading": "Aug",
+					"high": 27.6,
+					"low": 14,
+					"precipitation": 56
+				},
+				{
+					"heading": "Sep",
+					"high": 23.3,
+					"low": 10.3,
+					"precipitation": 37
+				},
+				{
+					"heading": "Oct",
+					"high": 17.2,
+					"low": 5.6,
+					"precipitation": 35
+				},
+				{
+					"heading": "Nov",
+					"high": 8.9,
+					"low": 1.2,
+					"precipitation": 38
+				},
+				{
+					"heading": "Dec",
+					"high": 4.1,
+					"low": -2,
+					"precipitation": 39
+				}
+			]
+		}
+	}
+}

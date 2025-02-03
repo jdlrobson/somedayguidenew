@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bissau": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.1,
+					"low": 17.8,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Feb",
+					"high": 32.8,
+					"low": 18.3,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Mar",
+					"high": 33.9,
+					"low": 19.4,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Apr",
+					"high": 33.3,
+					"low": 20.6,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "May",
+					"high": 32.8,
+					"low": 22.2,
+					"precipitation": 17.3
+				},
+				{
+					"heading": "Jun",
+					"high": 31.1,
+					"low": 22.8,
+					"precipitation": 174.8
+				},
+				{
+					"heading": "Jul",
+					"high": 29.4,
+					"low": 22.8,
+					"precipitation": 472.5
+				},
+				{
+					"heading": "Aug",
+					"high": 30,
+					"low": 22.8,
+					"precipitation": 682.5
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 22.8,
+					"precipitation": 434.9
+				},
+				{
+					"heading": "Oct",
+					"high": 31.1,
+					"low": 22.8,
+					"precipitation": 194.8
+				},
+				{
+					"heading": "Nov",
+					"high": 31.7,
+					"low": 22.2,
+					"precipitation": 41.4
+				},
+				{
+					"heading": "Dec",
+					"high": 30.6,
+					"low": 18.9,
+					"precipitation": 2
+				}
+			]
+		}
+	}
+}

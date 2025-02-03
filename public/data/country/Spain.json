@@ -1,0 +1,1372 @@
+{
+	"note": "<p>Grab a boat to the whistling island of Tenerife...One new year I flew into Zaragosa simply because it was cheap and there were trains for not too much to go to <strong>Barcelona</strong>. It turned out to be quite a nice little city. So if you are on a budget, and want to go to Barcelona, consider stopping off at this interesting little city.</p>\n",
+	"snippets": [
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roque_Agando%2C_Parque_nacional_de_Garajonay%2C_La_Gomera%2C_Espa%C3%B1a%2C_2012-12-14%2C_DD_01.jpg/1600px-Roque_Agando%2C_Parque_nacional_de_Garajonay%2C_La_Gomera%2C_Espa%C3%B1a%2C_2012-12-14%2C_DD_01.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Whistled language of the island of La Gomera",
+			"url": "https://youtu.be/PgEmSb0cKBg"
+		},
+		{
+			"src": "https://www.instagram.com/p/Bi2WEKalDue",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bi2LTRlFrtq",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Biu12cZlrxt",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bi3yDp5Faru",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Madrid": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.4,
+					"low": 1.6,
+					"precipitation": 34
+				},
+				{
+					"heading": "Feb",
+					"high": 12.5,
+					"low": 2.7,
+					"precipitation": 35
+				},
+				{
+					"heading": "Mar",
+					"high": 16.5,
+					"low": 5.1,
+					"precipitation": 25
+				},
+				{
+					"heading": "Apr",
+					"high": 18.3,
+					"low": 6.8,
+					"precipitation": 43
+				},
+				{
+					"heading": "May",
+					"high": 22.6,
+					"low": 10.4,
+					"precipitation": 50
+				},
+				{
+					"heading": "Jun",
+					"high": 28.9,
+					"low": 15.4,
+					"precipitation": 25
+				},
+				{
+					"heading": "Jul",
+					"high": 32.8,
+					"low": 18.3,
+					"precipitation": 12
+				},
+				{
+					"heading": "Aug",
+					"high": 32.2,
+					"low": 18.1,
+					"precipitation": 11
+				},
+				{
+					"heading": "Sep",
+					"high": 27.3,
+					"low": 14.6,
+					"precipitation": 24
+				},
+				{
+					"heading": "Oct",
+					"high": 20.4,
+					"low": 9.9,
+					"precipitation": 60
+				},
+				{
+					"heading": "Nov",
+					"high": 14.3,
+					"low": 5.4,
+					"precipitation": 57
+				},
+				{
+					"heading": "Dec",
+					"high": 10.7,
+					"low": 2.7,
+					"precipitation": 53
+				}
+			]
+		},
+		"Barcelona": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 44,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 31,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 33,
+					"high": 17,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 48,
+					"high": 19,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 47,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 33,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 25,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 41,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 82,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 97,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 45,
+					"high": 18,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 47,
+					"high": 15,
+					"low": 10
+				}
+			]
+		},
+		"Bilbao": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13.4,
+					"low": 5.1,
+					"precipitation": 120
+				},
+				{
+					"heading": "Feb",
+					"high": 14.3,
+					"low": 5.1,
+					"precipitation": 86
+				},
+				{
+					"heading": "Mar",
+					"high": 16.5,
+					"low": 6.4,
+					"precipitation": 90
+				},
+				{
+					"heading": "Apr",
+					"high": 17.6,
+					"low": 7.6,
+					"precipitation": 107
+				},
+				{
+					"heading": "May",
+					"high": 20.8,
+					"low": 10.6,
+					"precipitation": 78
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 13.4,
+					"precipitation": 60
+				},
+				{
+					"heading": "Jul",
+					"high": 25.4,
+					"low": 15.4,
+					"precipitation": 51
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 15.7,
+					"precipitation": 77
+				},
+				{
+					"heading": "Sep",
+					"high": 24.6,
+					"low": 13.8,
+					"precipitation": 73
+				},
+				{
+					"heading": "Oct",
+					"high": 21.4,
+					"low": 11.4,
+					"precipitation": 111
+				},
+				{
+					"heading": "Nov",
+					"high": 16.6,
+					"low": 8.2,
+					"precipitation": 147
+				},
+				{
+					"heading": "Dec",
+					"high": 13.9,
+					"low": 5.9,
+					"precipitation": 122
+				}
+			]
+		},
+		"Málaga": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 69,
+					"high": 17,
+					"low": 7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 60,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 52,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 44,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 20,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 6,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 6,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 20,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 57,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 101,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 100,
+					"high": 18,
+					"low": 9
+				}
+			]
+		},
+		"Córdoba (city, Spain)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.9,
+					"low": 3.6,
+					"precipitation": 66
+				},
+				{
+					"heading": "Feb",
+					"high": 17.4,
+					"low": 4.9,
+					"precipitation": 55
+				},
+				{
+					"heading": "Mar",
+					"high": 21.3,
+					"low": 7.4,
+					"precipitation": 49
+				},
+				{
+					"heading": "Apr",
+					"high": 22.8,
+					"low": 9.3,
+					"precipitation": 55
+				},
+				{
+					"heading": "May",
+					"high": 27.4,
+					"low": 12.6,
+					"precipitation": 40
+				},
+				{
+					"heading": "Jun",
+					"high": 32.8,
+					"low": 16.5,
+					"precipitation": 13
+				},
+				{
+					"heading": "Jul",
+					"high": 36.9,
+					"low": 19,
+					"precipitation": 2
+				},
+				{
+					"heading": "Aug",
+					"high": 36.5,
+					"low": 19.4,
+					"precipitation": 5
+				},
+				{
+					"heading": "Sep",
+					"high": 31.6,
+					"low": 16.9,
+					"precipitation": 35
+				},
+				{
+					"heading": "Oct",
+					"high": 25.1,
+					"low": 13,
+					"precipitation": 86
+				},
+				{
+					"heading": "Nov",
+					"high": 19.1,
+					"low": 7.8,
+					"precipitation": 80
+				},
+				{
+					"heading": "Dec",
+					"high": 15.3,
+					"low": 5.5,
+					"precipitation": 111
+				}
+			]
+		},
+		"Granada": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 44,
+					"high": 12,
+					"low": 1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 36,
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 37,
+					"high": 17,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 40,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 30,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 16,
+					"high": 29,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3,
+					"high": 34,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 3,
+					"high": 33,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 17,
+					"high": 28,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 40,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 46,
+					"high": 16,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 49,
+					"high": 13,
+					"low": 3
+				}
+			]
+		},
+		"Seville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.2,
+					"low": 5.7,
+					"precipitation": 66
+				},
+				{
+					"heading": "Feb",
+					"high": 18.1,
+					"low": 7,
+					"precipitation": 50
+				},
+				{
+					"heading": "Mar",
+					"high": 21.9,
+					"low": 9.2,
+					"precipitation": 36
+				},
+				{
+					"heading": "Apr",
+					"high": 23.4,
+					"low": 11.1,
+					"precipitation": 54
+				},
+				{
+					"heading": "May",
+					"high": 27.2,
+					"low": 14.2,
+					"precipitation": 31
+				},
+				{
+					"heading": "Jun",
+					"high": 32.2,
+					"low": 18,
+					"precipitation": 10
+				},
+				{
+					"heading": "Jul",
+					"high": 36,
+					"low": 20.3,
+					"precipitation": 2
+				},
+				{
+					"heading": "Aug",
+					"high": 35.5,
+					"low": 20.4,
+					"precipitation": 5
+				},
+				{
+					"heading": "Sep",
+					"high": 31.7,
+					"low": 18.2,
+					"precipitation": 27
+				},
+				{
+					"heading": "Oct",
+					"high": 26,
+					"low": 14.4,
+					"precipitation": 68
+				},
+				{
+					"heading": "Nov",
+					"high": 20.2,
+					"low": 10,
+					"precipitation": 91
+				},
+				{
+					"heading": "Dec",
+					"high": 16.6,
+					"low": 7.3,
+					"precipitation": 99
+				}
+			]
+		},
+		"Valencia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.4,
+					"low": 7.1,
+					"precipitation": 37
+				},
+				{
+					"heading": "Feb",
+					"high": 17.1,
+					"low": 7.8,
+					"precipitation": 36
+				},
+				{
+					"heading": "Mar",
+					"high": 19.3,
+					"low": 9.7,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 20.8,
+					"low": 11.5,
+					"precipitation": 38
+				},
+				{
+					"heading": "May",
+					"high": 23.4,
+					"low": 14.6,
+					"precipitation": 39
+				},
+				{
+					"heading": "Jun",
+					"high": 27.1,
+					"low": 18.6,
+					"precipitation": 22
+				},
+				{
+					"heading": "Jul",
+					"high": 29.7,
+					"low": 21.5,
+					"precipitation": 8
+				},
+				{
+					"heading": "Aug",
+					"high": 30.2,
+					"low": 21.9,
+					"precipitation": 20
+				},
+				{
+					"heading": "Sep",
+					"high": 27.9,
+					"low": 19.1,
+					"precipitation": 70
+				},
+				{
+					"heading": "Oct",
+					"high": 24.3,
+					"low": 15.2,
+					"precipitation": 77
+				},
+				{
+					"heading": "Nov",
+					"high": 19.8,
+					"low": 10.8,
+					"precipitation": 47
+				},
+				{
+					"heading": "Dec",
+					"high": 17,
+					"low": 8.1,
+					"precipitation": 48
+				}
+			]
+		},
+		"Zaragoza": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.5,
+					"low": 2.7,
+					"precipitation": 21
+				},
+				{
+					"heading": "Feb",
+					"high": 13.1,
+					"low": 3.3,
+					"precipitation": 21.5
+				},
+				{
+					"heading": "Mar",
+					"high": 17.3,
+					"low": 5.8,
+					"precipitation": 19.1
+				},
+				{
+					"heading": "Apr",
+					"high": 19.6,
+					"low": 7.9,
+					"precipitation": 39.3
+				},
+				{
+					"heading": "May",
+					"high": 24.1,
+					"low": 11.8,
+					"precipitation": 43.7
+				},
+				{
+					"heading": "Jun",
+					"high": 29.3,
+					"low": 15.8,
+					"precipitation": 26.4
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 18.3,
+					"precipitation": 17.3
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 18.3,
+					"precipitation": 16.6
+				},
+				{
+					"heading": "Sep",
+					"high": 27.1,
+					"low": 15.2,
+					"precipitation": 29.5
+				},
+				{
+					"heading": "Oct",
+					"high": 21.4,
+					"low": 11,
+					"precipitation": 36.4
+				},
+				{
+					"heading": "Nov",
+					"high": 14.8,
+					"low": 6.3,
+					"precipitation": 29.8
+				},
+				{
+					"heading": "Dec",
+					"high": 10.8,
+					"low": 3.2,
+					"precipitation": 21.4
+				}
+			]
+		},
+		"Galicia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 19,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 10.8,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 1,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Jun",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Jul",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Gran Canaria": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 25,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 24,
+					"high": 21,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 13,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 6,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 9,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 16,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 22,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 31,
+					"high": 22,
+					"low": 17
+				}
+			]
+		},
+		"Ibiza": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.7,
+					"low": 8.1,
+					"precipitation": 37
+				},
+				{
+					"heading": "Feb",
+					"high": 15.9,
+					"low": 8.3,
+					"precipitation": 36
+				},
+				{
+					"heading": "Mar",
+					"high": 17.7,
+					"low": 9.6,
+					"precipitation": 27
+				},
+				{
+					"heading": "Apr",
+					"high": 19.7,
+					"low": 11.4,
+					"precipitation": 31
+				},
+				{
+					"heading": "May",
+					"high": 22.7,
+					"low": 14.6,
+					"precipitation": 27
+				},
+				{
+					"heading": "Jun",
+					"high": 26.8,
+					"low": 18.4,
+					"precipitation": 11
+				},
+				{
+					"heading": "Jul",
+					"high": 29.7,
+					"low": 21.4,
+					"precipitation": 5
+				},
+				{
+					"heading": "Aug",
+					"high": 30.3,
+					"low": 22.2,
+					"precipitation": 18
+				},
+				{
+					"heading": "Sep",
+					"high": 27.7,
+					"low": 19.9,
+					"precipitation": 57
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 16.5,
+					"precipitation": 58
+				},
+				{
+					"heading": "Nov",
+					"high": 19.6,
+					"low": 12.3,
+					"precipitation": 53
+				},
+				{
+					"heading": "Dec",
+					"high": 16.7,
+					"low": 9.5,
+					"precipitation": 52
+				}
+			]
+		},
+		"Mallorca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 43,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 37,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 28,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 39,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 36,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 22,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 52,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 59,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 48,
+					"high": 17,
+					"low": 10
+				}
+			]
+		},
+		"Sierra Nevada (Spain)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.3,
+					"low": -6.1,
+					"precipitation": 86.7
+				},
+				{
+					"heading": "Feb",
+					"high": -0.9,
+					"low": -7.9,
+					"precipitation": 91.2
+				},
+				{
+					"heading": "Mar",
+					"high": 0.6,
+					"low": -7.5,
+					"precipitation": 78.8
+				},
+				{
+					"heading": "Apr",
+					"high": 3.2,
+					"low": -4.3,
+					"precipitation": 53.8
+				},
+				{
+					"heading": "May",
+					"high": 4.6,
+					"low": -2.9,
+					"precipitation": 53.6
+				},
+				{
+					"heading": "Jun",
+					"high": 14.9,
+					"low": 5.6,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "Jul",
+					"high": 21.6,
+					"low": 11.9,
+					"precipitation": 6.1
+				},
+				{
+					"heading": "Aug",
+					"high": 19.8,
+					"low": 10.6,
+					"precipitation": 11.7
+				},
+				{
+					"heading": "Sep",
+					"high": 14.2,
+					"low": 5.7,
+					"precipitation": 33.7
+				},
+				{
+					"heading": "Oct",
+					"high": 10.4,
+					"low": 2.2,
+					"precipitation": 69
+				},
+				{
+					"heading": "Nov",
+					"high": 3.5,
+					"low": -3.3,
+					"precipitation": 85.2
+				},
+				{
+					"heading": "Dec",
+					"high": 2.6,
+					"low": -4,
+					"precipitation": 93.1
+				}
+			]
+		},
+		"Tenerife": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 86,
+					"high": 19,
+					"low": 14
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 75,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 64,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 43,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "May",
+					"precipitation": 22,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 12,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 7,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 7,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 17,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 53,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 90,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 88,
+					"high": 20,
+					"low": 15
+				}
+			]
+		},
+		"Cádiz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16,
+					"low": 9.4,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 16.8,
+					"low": 10.7,
+					"precipitation": 58.5
+				},
+				{
+					"heading": "Mar",
+					"high": 18.8,
+					"low": 12.3,
+					"precipitation": 34.7
+				},
+				{
+					"heading": "Apr",
+					"high": 19.9,
+					"low": 13.7,
+					"precipitation": 45.2
+				},
+				{
+					"heading": "May",
+					"high": 22.1,
+					"low": 16.2,
+					"precipitation": 26.9
+				},
+				{
+					"heading": "Jun",
+					"high": 25.3,
+					"low": 19.5,
+					"precipitation": 6.7
+				},
+				{
+					"heading": "Jul",
+					"high": 27.7,
+					"low": 21.4,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Aug",
+					"high": 27.9,
+					"low": 22,
+					"precipitation": 1.7
+				},
+				{
+					"heading": "Sep",
+					"high": 26.3,
+					"low": 20.3,
+					"precipitation": 23.8
+				},
+				{
+					"heading": "Oct",
+					"high": 23.4,
+					"low": 17.3,
+					"precipitation": 67.3
+				},
+				{
+					"heading": "Nov",
+					"high": 19.6,
+					"low": 13.4,
+					"precipitation": 97.7
+				},
+				{
+					"heading": "Dec",
+					"high": 16.9,
+					"low": 10.9,
+					"precipitation": 92.3
+				}
+			]
+		},
+		"Girona": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13.1,
+					"low": 1.1,
+					"precipitation": 62
+				},
+				{
+					"heading": "Feb",
+					"high": 14.1,
+					"low": 1.7,
+					"precipitation": 51
+				},
+				{
+					"heading": "Mar",
+					"high": 16.7,
+					"low": 4.1,
+					"precipitation": 50
+				},
+				{
+					"heading": "Apr",
+					"high": 18.8,
+					"low": 6.2,
+					"precipitation": 67
+				},
+				{
+					"heading": "May",
+					"high": 22.4,
+					"low": 10.1,
+					"precipitation": 71
+				},
+				{
+					"heading": "Jun",
+					"high": 26.6,
+					"low": 14.3,
+					"precipitation": 60
+				},
+				{
+					"heading": "Jul",
+					"high": 30.1,
+					"low": 17.1,
+					"precipitation": 32
+				},
+				{
+					"heading": "Aug",
+					"high": 29.8,
+					"low": 17,
+					"precipitation": 46
+				},
+				{
+					"heading": "Sep",
+					"high": 26.1,
+					"low": 14.1,
+					"precipitation": 70
+				},
+				{
+					"heading": "Oct",
+					"high": 21.8,
+					"low": 10.5,
+					"precipitation": 88
+				},
+				{
+					"heading": "Nov",
+					"high": 16.6,
+					"low": 5.4,
+					"precipitation": 70
+				},
+				{
+					"heading": "Dec",
+					"high": 13.6,
+					"low": 2,
+					"precipitation": 56
+				}
+			]
+		},
+		"Valladolid (Spain)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.2,
+					"low": 0.2,
+					"precipitation": 40
+				},
+				{
+					"heading": "Feb",
+					"high": 11.2,
+					"low": 0.7,
+					"precipitation": 27
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 2.8,
+					"precipitation": 22
+				},
+				{
+					"heading": "Apr",
+					"high": 16.9,
+					"low": 4.6,
+					"precipitation": 46
+				},
+				{
+					"heading": "May",
+					"high": 21,
+					"low": 7.9,
+					"precipitation": 49
+				},
+				{
+					"heading": "Jun",
+					"high": 27,
+					"low": 11.6,
+					"precipitation": 29
+				},
+				{
+					"heading": "Jul",
+					"high": 30.7,
+					"low": 14,
+					"precipitation": 13
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 14.1,
+					"precipitation": 16
+				},
+				{
+					"heading": "Sep",
+					"high": 25.6,
+					"low": 11.3,
+					"precipitation": 31
+				},
+				{
+					"heading": "Oct",
+					"high": 18.9,
+					"low": 7.6,
+					"precipitation": 55
+				},
+				{
+					"heading": "Nov",
+					"high": 12.4,
+					"low": 3.5,
+					"precipitation": 52
+				},
+				{
+					"heading": "Dec",
+					"high": 8.6,
+					"low": 1.3,
+					"precipitation": 53
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,1134 @@
+{
+	"note": "<p>Salep is the secret ingredient to turkish ice cream.</p>\n",
+	"snippets": [],
+	"places": {
+		"Ankara": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.1,
+					"low": -3.3,
+					"precipitation": 39.5
+				},
+				{
+					"heading": "Feb",
+					"high": 6.3,
+					"low": -2.4,
+					"precipitation": 35
+				},
+				{
+					"heading": "Mar",
+					"high": 11.4,
+					"low": 0.5,
+					"precipitation": 38.6
+				},
+				{
+					"heading": "Apr",
+					"high": 17.3,
+					"low": 5.2,
+					"precipitation": 42.3
+				},
+				{
+					"heading": "May",
+					"high": 22.3,
+					"low": 9.6,
+					"precipitation": 51.2
+				},
+				{
+					"heading": "Jun",
+					"high": 26.6,
+					"low": 12.8,
+					"precipitation": 34.2
+				},
+				{
+					"heading": "Jul",
+					"high": 30.2,
+					"low": 15.7,
+					"precipitation": 13.7
+				},
+				{
+					"heading": "Aug",
+					"high": 30.3,
+					"low": 15.9,
+					"precipitation": 11.5
+				},
+				{
+					"heading": "Sep",
+					"high": 25.9,
+					"low": 11.7,
+					"precipitation": 17.8
+				},
+				{
+					"heading": "Oct",
+					"high": 19.8,
+					"low": 7,
+					"precipitation": 27.6
+				},
+				{
+					"heading": "Nov",
+					"high": 12.9,
+					"low": 2.4,
+					"precipitation": 31.7
+				},
+				{
+					"heading": "Dec",
+					"high": 6.4,
+					"low": -0.8,
+					"precipitation": 43.9
+				}
+			]
+		},
+		"Antalya": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 227,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 139,
+					"high": 15,
+					"low": 7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 100,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 61,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 32,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 9,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 5,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 16,
+					"high": 31,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 86,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 172,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 269,
+					"high": 17,
+					"low": 8
+				}
+			]
+		},
+		"Bodrum": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18.5,
+					"low": 15.2,
+					"precipitation": 134.1
+				},
+				{
+					"heading": "Feb",
+					"high": 17,
+					"low": 14.9,
+					"precipitation": 107.9
+				},
+				{
+					"heading": "Mar",
+					"high": 16.6,
+					"low": 15.2,
+					"precipitation": 74
+				},
+				{
+					"heading": "Apr",
+					"high": 18.2,
+					"low": 15.3,
+					"precipitation": 39.1
+				},
+				{
+					"heading": "May",
+					"high": 21,
+					"low": 17.6,
+					"precipitation": 18.4
+				},
+				{
+					"heading": "Jun",
+					"high": 24.5,
+					"low": 21,
+					"precipitation": 7.5
+				},
+				{
+					"heading": "Jul",
+					"high": 26.8,
+					"low": 23.1,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Aug",
+					"high": 27.4,
+					"low": 24.5,
+					"precipitation": 8.5
+				},
+				{
+					"heading": "Sep",
+					"high": 26.8,
+					"low": 23.7,
+					"precipitation": 20.8
+				},
+				{
+					"heading": "Oct",
+					"high": 25.3,
+					"low": 20,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Nov",
+					"high": 22,
+					"low": 17.2,
+					"precipitation": 97.7
+				},
+				{
+					"heading": "Dec",
+					"high": 19.8,
+					"low": 15.7,
+					"precipitation": 156.2
+				}
+			]
+		},
+		"Edirne": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.4,
+					"low": -0.6,
+					"precipitation": 66.7
+				},
+				{
+					"heading": "Feb",
+					"high": 9.1,
+					"low": 0.3,
+					"precipitation": 52
+				},
+				{
+					"heading": "Mar",
+					"high": 13.2,
+					"low": 2.8,
+					"precipitation": 51.6
+				},
+				{
+					"heading": "Apr",
+					"high": 19.1,
+					"low": 7,
+					"precipitation": 47.2
+				},
+				{
+					"heading": "May",
+					"high": 24.6,
+					"low": 11.6,
+					"precipitation": 53.3
+				},
+				{
+					"heading": "Jun",
+					"high": 29.1,
+					"low": 15.3,
+					"precipitation": 46.5
+				},
+				{
+					"heading": "Jul",
+					"high": 31.7,
+					"low": 17.2,
+					"precipitation": 32.3
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 17.1,
+					"precipitation": 22.4
+				},
+				{
+					"heading": "Sep",
+					"high": 27.2,
+					"low": 13.3,
+					"precipitation": 37.2
+				},
+				{
+					"heading": "Oct",
+					"high": 20.5,
+					"low": 9.1,
+					"precipitation": 57.7
+				},
+				{
+					"heading": "Nov",
+					"high": 13.9,
+					"low": 5,
+					"precipitation": 68.1
+				},
+				{
+					"heading": "Dec",
+					"high": 8.3,
+					"low": 1.2,
+					"precipitation": 70
+				}
+			]
+		},
+		"Istanbul": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 98,
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 80,
+					"high": 8,
+					"low": 2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 70,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 36,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 34,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 39,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 48,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 61,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 97,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 111,
+					"high": 13,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 124,
+					"high": 10,
+					"low": 5
+				}
+			]
+		},
+		"Izmir": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 12.4,
+					"low": 5.7,
+					"precipitation": 132.7
+				},
+				{
+					"heading": "Feb",
+					"high": 13.6,
+					"low": 6.2,
+					"precipitation": 102.2
+				},
+				{
+					"heading": "Mar",
+					"high": 16.2,
+					"low": 7.6,
+					"precipitation": 76.1
+				},
+				{
+					"heading": "Apr",
+					"high": 20.9,
+					"low": 11.1,
+					"precipitation": 45.4
+				},
+				{
+					"heading": "May",
+					"high": 26.1,
+					"low": 15.4,
+					"precipitation": 31.1
+				},
+				{
+					"heading": "Jun",
+					"high": 30.7,
+					"low": 19.8,
+					"precipitation": 9.9
+				},
+				{
+					"heading": "Jul",
+					"high": 33.2,
+					"low": 22.4,
+					"precipitation": 1.7
+				},
+				{
+					"heading": "Aug",
+					"high": 32.9,
+					"low": 22.3,
+					"precipitation": 2.9
+				},
+				{
+					"heading": "Sep",
+					"high": 29.1,
+					"low": 18.6,
+					"precipitation": 13.6
+				},
+				{
+					"heading": "Oct",
+					"high": 23.9,
+					"low": 14.5,
+					"precipitation": 43.8
+				},
+				{
+					"heading": "Nov",
+					"high": 18.5,
+					"low": 10.7,
+					"precipitation": 92.9
+				},
+				{
+					"heading": "Dec",
+					"high": 14,
+					"low": 7.5,
+					"precipitation": 143.1
+				}
+			]
+		},
+		"Konya": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.6,
+					"low": -4.2,
+					"precipitation": 37.4
+				},
+				{
+					"heading": "Feb",
+					"high": 6.8,
+					"low": -3.3,
+					"precipitation": 28.7
+				},
+				{
+					"heading": "Mar",
+					"high": 11.7,
+					"low": -0.2,
+					"precipitation": 28.9
+				},
+				{
+					"heading": "Apr",
+					"high": 17.5,
+					"low": 4.3,
+					"precipitation": 32.2
+				},
+				{
+					"heading": "May",
+					"high": 22.2,
+					"low": 8.5,
+					"precipitation": 43.5
+				},
+				{
+					"heading": "Jun",
+					"high": 26.6,
+					"low": 12.5,
+					"precipitation": 24.7
+				},
+				{
+					"heading": "Jul",
+					"high": 30.1,
+					"low": 15.7,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 15.5,
+					"precipitation": 4.9
+				},
+				{
+					"heading": "Sep",
+					"high": 25.9,
+					"low": 10.9,
+					"precipitation": 12.4
+				},
+				{
+					"heading": "Oct",
+					"high": 19.8,
+					"low": 5.7,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "Nov",
+					"high": 13,
+					"low": 0.7,
+					"precipitation": 32.1
+				},
+				{
+					"heading": "Dec",
+					"high": 6.5,
+					"low": -2.3,
+					"precipitation": 41.6
+				}
+			]
+		},
+		"Trabzon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 73,
+					"high": 11,
+					"low": 5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 60,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 59,
+					"high": 12,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 59,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 52,
+					"high": 19,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 51,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 35,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 43,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 76,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 114,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 95,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 82,
+					"high": 13,
+					"low": 7
+				}
+			]
+		},
+		"Urfa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10,
+					"low": 2.3,
+					"precipitation": 86.5
+				},
+				{
+					"heading": "Feb",
+					"high": 11.8,
+					"low": 2.9,
+					"precipitation": 71.2
+				},
+				{
+					"heading": "Mar",
+					"high": 16.5,
+					"low": 6.2,
+					"precipitation": 64.3
+				},
+				{
+					"heading": "Apr",
+					"high": 22.2,
+					"low": 10.5,
+					"precipitation": 48
+				},
+				{
+					"heading": "May",
+					"high": 28.6,
+					"low": 15.6,
+					"precipitation": 28.3
+				},
+				{
+					"heading": "Jun",
+					"high": 34.6,
+					"low": 20.8,
+					"precipitation": 3.4
+				},
+				{
+					"heading": "Jul",
+					"high": 38.7,
+					"low": 24.4,
+					"precipitation": 0.7
+				},
+				{
+					"heading": "Aug",
+					"high": 38.2,
+					"low": 24,
+					"precipitation": 0.9
+				},
+				{
+					"heading": "Sep",
+					"high": 33.8,
+					"low": 20.1,
+					"precipitation": 2.9
+				},
+				{
+					"heading": "Oct",
+					"high": 26.9,
+					"low": 14.8,
+					"precipitation": 27.4
+				},
+				{
+					"heading": "Nov",
+					"high": 18.5,
+					"low": 8.4,
+					"precipitation": 46.6
+				},
+				{
+					"heading": "Dec",
+					"high": 12,
+					"low": 4.1,
+					"precipitation": 78.8
+				}
+			]
+		},
+		"Gallipoli": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": 8,
+					"low": 3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": 9,
+					"low": 4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 11,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 14,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": 11,
+					"low": 6
+				}
+			]
+		},
+		"Ölüdeniz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Feb",
+					"high": 17,
+					"low": 7
+				},
+				{
+					"heading": "Mar",
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"high": 21,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"high": 34,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"high": 34,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"high": 18,
+					"low": 10
+				}
+			]
+		},
+		"Uludağ": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 124,
+					"high": -3,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 105,
+					"high": -2,
+					"low": -9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 111,
+					"high": 4,
+					"low": -5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 95,
+					"high": 9,
+					"low": -2
+				},
+				{
+					"heading": "May",
+					"precipitation": 87,
+					"high": 18,
+					"low": 3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 66,
+					"high": 24,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 29,
+					"high": 26,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 31,
+					"high": 28,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 61,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 91,
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 79,
+					"high": 7,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 160,
+					"high": -1,
+					"low": -7
+				}
+			]
+		},
+		"Bursa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 9.4,
+					"low": 1.6,
+					"precipitation": 89.3
+				},
+				{
+					"heading": "Feb",
+					"high": 10.4,
+					"low": 2.1,
+					"precipitation": 76.1
+				},
+				{
+					"heading": "Mar",
+					"high": 13.7,
+					"low": 3.5,
+					"precipitation": 69.6
+				},
+				{
+					"heading": "Apr",
+					"high": 18.9,
+					"low": 7.1,
+					"precipitation": 62.9
+				},
+				{
+					"heading": "May",
+					"high": 23.8,
+					"low": 11.3,
+					"precipitation": 49.6
+				},
+				{
+					"heading": "Jun",
+					"high": 28.3,
+					"low": 14.8,
+					"precipitation": 33.8
+				},
+				{
+					"heading": "Jul",
+					"high": 30.8,
+					"low": 17.1,
+					"precipitation": 21.6
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 17.1,
+					"precipitation": 16.5
+				},
+				{
+					"heading": "Sep",
+					"high": 27.2,
+					"low": 13.6,
+					"precipitation": 41.7
+				},
+				{
+					"heading": "Oct",
+					"high": 21.9,
+					"low": 10.1,
+					"precipitation": 66.8
+				},
+				{
+					"heading": "Nov",
+					"high": 16.5,
+					"low": 6.3,
+					"precipitation": 78
+				},
+				{
+					"heading": "Dec",
+					"high": 11.5,
+					"low": 3.4,
+					"precipitation": 101
+				}
+			]
+		},
+		"Dalyan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 255,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 167,
+					"high": 11,
+					"low": 7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 85,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 76,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 42,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 18,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 5,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 2,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 10,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 115,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 153,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 289,
+					"high": 14,
+					"low": 11
+				}
+			]
+		},
+		"Marmaris": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.1,
+					"low": 7,
+					"precipitation": 230.7
+				},
+				{
+					"heading": "Feb",
+					"high": 15.3,
+					"low": 7,
+					"precipitation": 170
+				},
+				{
+					"heading": "Mar",
+					"high": 17.6,
+					"low": 8.6,
+					"precipitation": 120.8
+				},
+				{
+					"heading": "Apr",
+					"high": 20.9,
+					"low": 11.5,
+					"precipitation": 61.1
+				},
+				{
+					"heading": "May",
+					"high": 25.9,
+					"low": 15.6,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "Jun",
+					"high": 31.4,
+					"low": 20.1,
+					"precipitation": 15.3
+				},
+				{
+					"heading": "Jul",
+					"high": 34.5,
+					"low": 23.1,
+					"precipitation": 23.4
+				},
+				{
+					"heading": "Aug",
+					"high": 34.3,
+					"low": 23.2,
+					"precipitation": 7.9
+				},
+				{
+					"heading": "Sep",
+					"high": 30.8,
+					"low": 20,
+					"precipitation": 24.5
+				},
+				{
+					"heading": "Oct",
+					"high": 25.9,
+					"low": 15.8,
+					"precipitation": 80.9
+				},
+				{
+					"heading": "Nov",
+					"high": 20.4,
+					"low": 11.4,
+					"precipitation": 180.4
+				},
+				{
+					"heading": "Dec",
+					"high": 16.4,
+					"low": 8.5,
+					"precipitation": 289.9
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Antananarivo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.6,
+					"low": 17.3,
+					"precipitation": 340
+				},
+				{
+					"heading": "Feb",
+					"high": 26.5,
+					"low": 17.3,
+					"precipitation": 290
+				},
+				{
+					"heading": "Mar",
+					"high": 26.5,
+					"low": 17,
+					"precipitation": 191
+				},
+				{
+					"heading": "Apr",
+					"high": 25.5,
+					"low": 15.4,
+					"precipitation": 55
+				},
+				{
+					"heading": "May",
+					"high": 23.7,
+					"low": 13.2,
+					"precipitation": 19
+				},
+				{
+					"heading": "Jun",
+					"high": 21.2,
+					"low": 10.9,
+					"precipitation": 4
+				},
+				{
+					"heading": "Jul",
+					"high": 20.6,
+					"low": 9.9,
+					"precipitation": 8
+				},
+				{
+					"heading": "Aug",
+					"high": 21.7,
+					"low": 10.3,
+					"precipitation": 6
+				},
+				{
+					"heading": "Sep",
+					"high": 24.2,
+					"low": 11.4,
+					"precipitation": 10
+				},
+				{
+					"heading": "Oct",
+					"high": 26,
+					"low": 13.6,
+					"precipitation": 68
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 15.2,
+					"precipitation": 135
+				},
+				{
+					"heading": "Dec",
+					"high": 27.2,
+					"low": 16.7,
+					"precipitation": 311
+				}
+			]
+		},
+		"Antsirabe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.9,
+					"low": 14.4,
+					"precipitation": 298
+				},
+				{
+					"heading": "Feb",
+					"high": 25,
+					"low": 14.4,
+					"precipitation": 243
+				},
+				{
+					"heading": "Mar",
+					"high": 24.4,
+					"low": 13.9,
+					"precipitation": 191
+				},
+				{
+					"heading": "Apr",
+					"high": 23.8,
+					"low": 11.7,
+					"precipitation": 90
+				},
+				{
+					"heading": "May",
+					"high": 21.8,
+					"low": 8.8,
+					"precipitation": 31
+				},
+				{
+					"heading": "Jun",
+					"high": 19.7,
+					"low": 6.6,
+					"precipitation": 13
+				},
+				{
+					"heading": "Jul",
+					"high": 19.3,
+					"low": 6.2,
+					"precipitation": 12
+				},
+				{
+					"heading": "Aug",
+					"high": 20.4,
+					"low": 6.3,
+					"precipitation": 11
+				},
+				{
+					"heading": "Sep",
+					"high": 23.3,
+					"low": 7.9,
+					"precipitation": 28
+				},
+				{
+					"heading": "Oct",
+					"high": 25.5,
+					"low": 10,
+					"precipitation": 68
+				},
+				{
+					"heading": "Nov",
+					"high": 26.1,
+					"low": 12.3,
+					"precipitation": 147
+				},
+				{
+					"heading": "Dec",
+					"high": 25.1,
+					"low": 13.9,
+					"precipitation": 249
+				}
+			]
+		},
+		"Nosy Be": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.1,
+					"low": 22.6,
+					"precipitation": 518.5
+				},
+				{
+					"heading": "Feb",
+					"high": 31.1,
+					"low": 22.8,
+					"precipitation": 435.9
+				},
+				{
+					"heading": "Mar",
+					"high": 31.8,
+					"low": 22.8,
+					"precipitation": 294.7
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 22.4,
+					"precipitation": 156.5
+				},
+				{
+					"heading": "May",
+					"high": 31.2,
+					"low": 20.9,
+					"precipitation": 61.1
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 19,
+					"precipitation": 44.3
+				},
+				{
+					"heading": "Jul",
+					"high": 29.6,
+					"low": 18,
+					"precipitation": 37.4
+				},
+				{
+					"heading": "Aug",
+					"high": 29.9,
+					"low": 17.8,
+					"precipitation": 36.2
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 19.1,
+					"precipitation": 39.3
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 20.8,
+					"precipitation": 84.6
+				},
+				{
+					"heading": "Nov",
+					"high": 32,
+					"low": 22,
+					"precipitation": 148.1
+				},
+				{
+					"heading": "Dec",
+					"high": 31.5,
+					"low": 22.5,
+					"precipitation": 371.6
+				}
+			]
+		}
+	}
+}

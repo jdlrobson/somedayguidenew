@@ -1,0 +1,799 @@
+{
+	"note": "<p>We loved Yogyakarta. It&#39;s your jumping off point for <strong>Gereja Ayam</strong> and <strong>Borobudur</strong>.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/-dcI7Ks2Bt/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwZpQDBj3gF",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-V7-b2s2Af/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwYNeL8DBQO",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "Jon and I were married in Las Vegas – at the drive-through of Little White Chapel (yes, the one that had a replica of Elvis Presley's pink Cadillac). It was just the two of us and the Lyft driver who drove us to the chapel. Most people assume we didn't want a proper wedding but",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/11/img_0576.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Where in the world to get married?",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/11/27/where-in-the-world-to-get-married/"
+		},
+		{
+			"src": "https://www.instagram.com/p/-V7hnTs2P1/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwWiYPCj-N7",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwehA4nnOzz",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwegDJ9HWVW",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bwdq8u6H19o",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-OlOS1M2An/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwbTIHDnyf6",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-eDOOUM2EK/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-eC4s3M2Dx/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-jY3Nds2Mo/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-kdr3Xs2Hs/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-qZOves2ES/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/-XiLvaM2Hf",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwfrwR8D0bV",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bwejto1DGVj",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bwa1FlbjbDO",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Jakarta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 402,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 284,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 219,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 131,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 113,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 90,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 58,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 61,
+					"high": 33,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 64,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 101,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 128,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 204,
+					"high": 31,
+					"low": 23
+				}
+			]
+		},
+		"Bandung": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.2,
+					"low": 19.4,
+					"precipitation": 240
+				},
+				{
+					"heading": "Feb",
+					"high": 26.7,
+					"low": 19.4,
+					"precipitation": 255
+				},
+				{
+					"heading": "Mar",
+					"high": 27.2,
+					"low": 19.4,
+					"precipitation": 239
+				},
+				{
+					"heading": "Apr",
+					"high": 27.8,
+					"low": 19.4,
+					"precipitation": 143
+				},
+				{
+					"heading": "May",
+					"high": 27.8,
+					"low": 18.9,
+					"precipitation": 116.1
+				},
+				{
+					"heading": "Jun",
+					"high": 27.8,
+					"low": 17.8,
+					"precipitation": 102.1
+				},
+				{
+					"heading": "Jul",
+					"high": 27.8,
+					"low": 17.2,
+					"precipitation": 69.1
+				},
+				{
+					"heading": "Aug",
+					"high": 28.3,
+					"low": 17.2,
+					"precipitation": 56.9
+				},
+				{
+					"heading": "Sep",
+					"high": 28.9,
+					"low": 17.8,
+					"precipitation": 50
+				},
+				{
+					"heading": "Oct",
+					"high": 28.9,
+					"low": 18.3,
+					"precipitation": 151.1
+				},
+				{
+					"heading": "Nov",
+					"high": 27.8,
+					"low": 18.9,
+					"precipitation": 200.9
+				},
+				{
+					"heading": "Dec",
+					"high": 27.2,
+					"low": 19.4,
+					"precipitation": 215.1
+				}
+			]
+		},
+		"Banjarmasin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 25,
+					"precipitation": 350
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 25,
+					"precipitation": 300
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 24,
+					"precipitation": 310
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 26,
+					"precipitation": 210
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 26,
+					"precipitation": 200
+				},
+				{
+					"heading": "Jun",
+					"high": 31,
+					"low": 25,
+					"precipitation": 120
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 24,
+					"precipitation": 120
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 24,
+					"precipitation": 110
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 24,
+					"precipitation": 130
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 25,
+					"precipitation": 120
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 25,
+					"precipitation": 230
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 24,
+					"precipitation": 290
+				}
+			]
+		},
+		"Makassar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.7,
+					"low": 23.2,
+					"precipitation": 734
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 22.7,
+					"precipitation": 533
+				},
+				{
+					"heading": "Mar",
+					"high": 31.3,
+					"low": 23.3,
+					"precipitation": 391
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 23.6,
+					"precipitation": 235
+				},
+				{
+					"heading": "May",
+					"high": 32.1,
+					"low": 23.4,
+					"precipitation": 127
+				},
+				{
+					"heading": "Jun",
+					"high": 32.5,
+					"low": 22.9,
+					"precipitation": 66
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 21.7,
+					"precipitation": 48
+				},
+				{
+					"heading": "Aug",
+					"high": 34.3,
+					"low": 20.1,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 34.8,
+					"low": 21.2,
+					"precipitation": 83
+				},
+				{
+					"heading": "Oct",
+					"high": 34.6,
+					"low": 21.7,
+					"precipitation": 83
+				},
+				{
+					"heading": "Nov",
+					"high": 33.5,
+					"low": 22.7,
+					"precipitation": 273
+				},
+				{
+					"heading": "Dec",
+					"high": 31.3,
+					"low": 23,
+					"precipitation": 549
+				}
+			]
+		},
+		"Medan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 22.2,
+					"precipitation": 92
+				},
+				{
+					"heading": "Feb",
+					"high": 32,
+					"low": 22.6,
+					"precipitation": 115
+				},
+				{
+					"heading": "Mar",
+					"high": 32.7,
+					"low": 23.2,
+					"precipitation": 97
+				},
+				{
+					"heading": "Apr",
+					"high": 32.9,
+					"low": 23.5,
+					"precipitation": 157
+				},
+				{
+					"heading": "May",
+					"high": 33.4,
+					"low": 23.3,
+					"precipitation": 178
+				},
+				{
+					"heading": "Jun",
+					"high": 33.3,
+					"low": 23.6,
+					"precipitation": 141
+				},
+				{
+					"heading": "Jul",
+					"high": 32.9,
+					"low": 23.5,
+					"precipitation": 167
+				},
+				{
+					"heading": "Aug",
+					"high": 33.3,
+					"low": 22.8,
+					"precipitation": 185
+				},
+				{
+					"heading": "Sep",
+					"high": 31.9,
+					"low": 22.2,
+					"precipitation": 263
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 22.6,
+					"precipitation": 387
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 23,
+					"precipitation": 253
+				},
+				{
+					"heading": "Dec",
+					"high": 30.9,
+					"low": 22.5,
+					"precipitation": 228
+				}
+			]
+		},
+		"Surabaya": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.8,
+					"low": 24.1,
+					"precipitation": 327
+				},
+				{
+					"heading": "Feb",
+					"high": 31.5,
+					"low": 24.2,
+					"precipitation": 275
+				},
+				{
+					"heading": "Mar",
+					"high": 31.6,
+					"low": 24,
+					"precipitation": 283
+				},
+				{
+					"heading": "Apr",
+					"high": 31.4,
+					"low": 24.8,
+					"precipitation": 181
+				},
+				{
+					"heading": "May",
+					"high": 31.6,
+					"low": 24.1,
+					"precipitation": 159
+				},
+				{
+					"heading": "Jun",
+					"high": 31.2,
+					"low": 23.5,
+					"precipitation": 101
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 23,
+					"precipitation": 22
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 22.5,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 32.7,
+					"low": 22.9,
+					"precipitation": 17
+				},
+				{
+					"heading": "Oct",
+					"high": 33.4,
+					"low": 23.7,
+					"precipitation": 47
+				},
+				{
+					"heading": "Nov",
+					"high": 33.1,
+					"low": 24.1,
+					"precipitation": 105
+				},
+				{
+					"heading": "Dec",
+					"high": 31.9,
+					"low": 23.8,
+					"precipitation": 219
+				}
+			]
+		},
+		"Yogyakarta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.8,
+					"low": 22.9,
+					"precipitation": 392
+				},
+				{
+					"heading": "Feb",
+					"high": 30.2,
+					"low": 22.8,
+					"precipitation": 299
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 22.9,
+					"precipitation": 363
+				},
+				{
+					"heading": "Apr",
+					"high": 31.3,
+					"low": 23,
+					"precipitation": 149
+				},
+				{
+					"heading": "May",
+					"high": 31.1,
+					"low": 22.7,
+					"precipitation": 141
+				},
+				{
+					"heading": "Jun",
+					"high": 31,
+					"low": 21.5,
+					"precipitation": 68
+				},
+				{
+					"heading": "Jul",
+					"high": 30.3,
+					"low": 20.6,
+					"precipitation": 29
+				},
+				{
+					"heading": "Aug",
+					"high": 30.7,
+					"low": 20.6,
+					"precipitation": 16
+				},
+				{
+					"heading": "Sep",
+					"high": 31.1,
+					"low": 21.7,
+					"precipitation": 49
+				},
+				{
+					"heading": "Oct",
+					"high": 31.4,
+					"low": 22.7,
+					"precipitation": 136
+				},
+				{
+					"heading": "Nov",
+					"high": 30.7,
+					"low": 23,
+					"precipitation": 237
+				},
+				{
+					"heading": "Dec",
+					"high": 30.1,
+					"low": 22.8,
+					"precipitation": 278
+				}
+			]
+		},
+		"Bromo-Tengger-Semeru National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.5,
+					"low": 9.2,
+					"precipitation": 297
+				},
+				{
+					"heading": "Feb",
+					"high": 16.7,
+					"low": 9.1,
+					"precipitation": 337
+				},
+				{
+					"heading": "Mar",
+					"high": 16.9,
+					"low": 9.6,
+					"precipitation": 350
+				},
+				{
+					"heading": "Apr",
+					"high": 16.7,
+					"low": 9,
+					"precipitation": 184
+				},
+				{
+					"heading": "May",
+					"high": 16.7,
+					"low": 8.6,
+					"precipitation": 105
+				},
+				{
+					"heading": "Jun",
+					"high": 16.1,
+					"low": 7.8,
+					"precipitation": 64
+				},
+				{
+					"heading": "Jul",
+					"high": 15.6,
+					"low": 6.7,
+					"precipitation": 37
+				},
+				{
+					"heading": "Aug",
+					"high": 15.8,
+					"low": 6.8,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 16.3,
+					"low": 7.2,
+					"precipitation": 19
+				},
+				{
+					"heading": "Oct",
+					"high": 16.9,
+					"low": 8.3,
+					"precipitation": 69
+				},
+				{
+					"heading": "Nov",
+					"high": 16.7,
+					"low": 9.5,
+					"precipitation": 141
+				},
+				{
+					"heading": "Dec",
+					"high": 16.6,
+					"low": 9.2,
+					"precipitation": 315
+				}
+			]
+		},
+		"Bunaken": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 434,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 331,
+					"high": 22,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 226,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 249,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 230,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 141,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 185,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 122,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 63,
+					"high": 35,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 148,
+					"high": 34,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 251,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 302,
+					"high": 26,
+					"low": 22
+				}
+			]
+		}
+	}
+}

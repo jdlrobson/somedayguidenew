@@ -1,0 +1,1269 @@
+{
+	"note": "<p>Head to the riverfront for a good sunset and the call for prayer at the Masjid India Kuching.Some places are just not right for you. This was one of them, however my Dad enjoyed it. I recommend taking the fast boat to the remote Thai island of <strong>Ko Lipe</strong> instead.Take a walk down Jonker street and try the food. We had some incredible Tandorri a little out of town at the Pak Putra Restaurant.</p>\n",
+	"snippets": [
+		{
+			"src": "https://farm4.static.flickr.com/3475/3308170197_537208b487.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Kuching is a real life Pokemon adventure",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2009/02/20/kuching-is-a-real-life-pokemon-adventure/"
+		},
+		{
+			"text": "I visited Penang in Chinese New Year (CNY). Chinese New Year is the festival that gathers relatives together, dead and alive. A family portrait is usually a typical ritual of such events. In the temples the longest incense sticks I've ever seen in my life burned. In the temples everything that could be burnt was",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/p2120247.jpg?h=200&crop=1",
+			"type": "url",
+			"embed": false,
+			"title": "How to drive a Rickshaw in Penang",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1029"
+		},
+		{
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/10/p2120247.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "How to drive a Rickshaw in Penang",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/11/11/how-to-drive-a-rickshaw-in-penang-2/"
+		},
+		{
+			"src": "https://www.instagram.com/p/BlnIH1WAc_p/?utm_source=ig_embed&amp;utm_campaign=loading",
+			"type": "instagram",
+			"embed": true,
+			"title": "Eat durian"
+		},
+		{
+			"src": "https://www.instagram.com/p/BOq3bjGj7yu",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BOo7wRdBlKv",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "Kuching has possibly the most cat statues per square mile of any place on Earth. In fact, a trip to Kuching could easily be spent trying to catch them all as if they were Pokemon and you were trying to fill your Pokedex. Kuching means cat in Malay. As a result the city has the",
+			"src": "?h=200&crop=1",
+			"type": "url",
+			"embed": false,
+			"title": "Kuching is a real life Pokemon adventure",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=702"
+		}
+	],
+	"places": {
+		"Kuala Lumpur": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 170,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 165,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 241,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 259,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 204,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 125,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 127,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 155,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 193,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 253,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 288,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 246,
+					"high": 32,
+					"low": 23
+				}
+			]
+		},
+		"George Town (Malaysia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 70,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 90,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 140,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 230,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 240,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 170,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 190,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 240,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 350,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 390,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 240,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 110,
+					"high": 31,
+					"low": 24
+				}
+			]
+		},
+		"Malacca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.4,
+					"low": 22.5,
+					"precipitation": 73.3
+				},
+				{
+					"heading": "Feb",
+					"high": 32.6,
+					"low": 22.9,
+					"precipitation": 90.9
+				},
+				{
+					"heading": "Mar",
+					"high": 32.6,
+					"low": 23.1,
+					"precipitation": 144.1
+				},
+				{
+					"heading": "Apr",
+					"high": 32.4,
+					"low": 23.4,
+					"precipitation": 197.5
+				},
+				{
+					"heading": "May",
+					"high": 31.8,
+					"low": 23.4,
+					"precipitation": 172
+				},
+				{
+					"heading": "Jun",
+					"high": 31.4,
+					"low": 23,
+					"precipitation": 165.8
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 22.7,
+					"precipitation": 164.2
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 22.7,
+					"precipitation": 164.1
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 22.7,
+					"precipitation": 210.2
+				},
+				{
+					"heading": "Oct",
+					"high": 31.3,
+					"low": 22.9,
+					"precipitation": 212.9
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 22.9,
+					"precipitation": 231.5
+				},
+				{
+					"heading": "Dec",
+					"high": 30.9,
+					"low": 22.6,
+					"precipitation": 123.8
+				}
+			]
+		},
+		"Ipoh": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 132,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 150,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 170,
+					"high": 34,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 260,
+					"high": 34,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 210,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 150,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 150,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 160,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 220,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 300,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 280,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 250,
+					"high": 32,
+					"low": 23
+				}
+			]
+		},
+		"Johor Bahru": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 21.9,
+					"precipitation": 162.6
+				},
+				{
+					"heading": "Feb",
+					"high": 32,
+					"low": 22,
+					"precipitation": 139.8
+				},
+				{
+					"heading": "Mar",
+					"high": 32.5,
+					"low": 22.4,
+					"precipitation": 203.4
+				},
+				{
+					"heading": "Apr",
+					"high": 32.8,
+					"low": 22.9,
+					"precipitation": 232.8
+				},
+				{
+					"heading": "May",
+					"high": 32.5,
+					"low": 23.1,
+					"precipitation": 215.3
+				},
+				{
+					"heading": "Jun",
+					"high": 32.1,
+					"low": 22.9,
+					"precipitation": 148.1
+				},
+				{
+					"heading": "Jul",
+					"high": 31.5,
+					"low": 22.4,
+					"precipitation": 177
+				},
+				{
+					"heading": "Aug",
+					"high": 31.5,
+					"low": 22.4,
+					"precipitation": 185.9
+				},
+				{
+					"heading": "Sep",
+					"high": 31.5,
+					"low": 22.4,
+					"precipitation": 190.8
+				},
+				{
+					"heading": "Oct",
+					"high": 31.8,
+					"low": 22.6,
+					"precipitation": 217.7
+				},
+				{
+					"heading": "Nov",
+					"high": 31.3,
+					"low": 22.7,
+					"precipitation": 237.6
+				},
+				{
+					"heading": "Dec",
+					"high": 30.6,
+					"low": 22.4,
+					"precipitation": 244.5
+				}
+			]
+		},
+		"Kuantan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.2,
+					"low": 21.5,
+					"precipitation": 295.5
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 21.7,
+					"precipitation": 142
+				},
+				{
+					"heading": "Mar",
+					"high": 31.4,
+					"low": 22.1,
+					"precipitation": 178
+				},
+				{
+					"heading": "Apr",
+					"high": 32.4,
+					"low": 22.8,
+					"precipitation": 163.6
+				},
+				{
+					"heading": "May",
+					"high": 32.8,
+					"low": 23.2,
+					"precipitation": 202.5
+				},
+				{
+					"heading": "Jun",
+					"high": 32.5,
+					"low": 22.9,
+					"precipitation": 159.8
+				},
+				{
+					"heading": "Jul",
+					"high": 32.2,
+					"low": 22.5,
+					"precipitation": 172.7
+				},
+				{
+					"heading": "Aug",
+					"high": 32.3,
+					"low": 22.5,
+					"precipitation": 173.8
+				},
+				{
+					"heading": "Sep",
+					"high": 32.1,
+					"low": 22.5,
+					"precipitation": 233.3
+				},
+				{
+					"heading": "Oct",
+					"high": 31.8,
+					"low": 22.6,
+					"precipitation": 271.5
+				},
+				{
+					"heading": "Nov",
+					"high": 30.3,
+					"low": 22.4,
+					"precipitation": 343.9
+				},
+				{
+					"heading": "Dec",
+					"high": 28.9,
+					"low": 22.1,
+					"precipitation": 563.9
+				}
+			]
+		},
+		"Kota Kinabalu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.4,
+					"low": 22.9,
+					"precipitation": 104.8
+				},
+				{
+					"heading": "Feb",
+					"high": 30.7,
+					"low": 23,
+					"precipitation": 73.4
+				},
+				{
+					"heading": "Mar",
+					"high": 31.5,
+					"low": 23.4,
+					"precipitation": 50.5
+				},
+				{
+					"heading": "Apr",
+					"high": 32.2,
+					"low": 24.1,
+					"precipitation": 114.2
+				},
+				{
+					"heading": "May",
+					"high": 32.1,
+					"low": 24.3,
+					"precipitation": 216.2
+				},
+				{
+					"heading": "Jun",
+					"high": 31.8,
+					"low": 24,
+					"precipitation": 279.4
+				},
+				{
+					"heading": "Jul",
+					"high": 31.5,
+					"low": 23.7,
+					"precipitation": 262.7
+				},
+				{
+					"heading": "Aug",
+					"high": 31.6,
+					"low": 23.7,
+					"precipitation": 270.3
+				},
+				{
+					"heading": "Sep",
+					"high": 31.4,
+					"low": 23.7,
+					"precipitation": 285.2
+				},
+				{
+					"heading": "Oct",
+					"high": 31.2,
+					"low": 23.6,
+					"precipitation": 345.8
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 23.5,
+					"precipitation": 302.4
+				},
+				{
+					"heading": "Dec",
+					"high": 30.9,
+					"low": 23.3,
+					"precipitation": 242.3
+				}
+			]
+		},
+		"Kuching": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.8,
+					"low": 22.9,
+					"precipitation": 684.1
+				},
+				{
+					"heading": "Feb",
+					"high": 30.2,
+					"low": 23,
+					"precipitation": 473.3
+				},
+				{
+					"heading": "Mar",
+					"high": 31.3,
+					"low": 23.2,
+					"precipitation": 338.6
+				},
+				{
+					"heading": "Apr",
+					"high": 32.3,
+					"low": 23.4,
+					"precipitation": 272.9
+				},
+				{
+					"heading": "May",
+					"high": 32.7,
+					"low": 23.6,
+					"precipitation": 241.8
+				},
+				{
+					"heading": "Jun",
+					"high": 32.7,
+					"low": 23.3,
+					"precipitation": 220.3
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 23,
+					"precipitation": 185.6
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 23,
+					"precipitation": 229.6
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 22.9,
+					"precipitation": 262.3
+				},
+				{
+					"heading": "Oct",
+					"high": 31.9,
+					"low": 22.9,
+					"precipitation": 338.6
+				},
+				{
+					"heading": "Nov",
+					"high": 31.6,
+					"low": 22.9,
+					"precipitation": 371.5
+				},
+				{
+					"heading": "Dec",
+					"high": 30.6,
+					"low": 22.9,
+					"precipitation": 498.1
+				}
+			]
+		},
+		"Miri": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.9,
+					"low": 23.1,
+					"precipitation": 240.5
+				},
+				{
+					"heading": "Feb",
+					"high": 30.2,
+					"low": 23.2,
+					"precipitation": 160.5
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 23.5,
+					"precipitation": 134.4
+				},
+				{
+					"heading": "Apr",
+					"high": 31.3,
+					"low": 23.8,
+					"precipitation": 177.9
+				},
+				{
+					"heading": "May",
+					"high": 31.6,
+					"low": 23.9,
+					"precipitation": 193.7
+				},
+				{
+					"heading": "Jun",
+					"high": 31.5,
+					"low": 23.6,
+					"precipitation": 204.9
+				},
+				{
+					"heading": "Jul",
+					"high": 31.2,
+					"low": 23.3,
+					"precipitation": 179.4
+				},
+				{
+					"heading": "Aug",
+					"high": 31.3,
+					"low": 23.4,
+					"precipitation": 210.9
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 23.4,
+					"precipitation": 249.5
+				},
+				{
+					"heading": "Oct",
+					"high": 30.7,
+					"low": 23.4,
+					"precipitation": 317.2
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 23.3,
+					"precipitation": 295.5
+				},
+				{
+					"heading": "Dec",
+					"high": 30.3,
+					"low": 23.3,
+					"precipitation": 349.2
+				}
+			]
+		},
+		"Cameron Highlands": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 21.4,
+					"low": 14.6,
+					"precipitation": 109.5
+				},
+				{
+					"heading": "Feb",
+					"high": 22.4,
+					"low": 14.7,
+					"precipitation": 115.1
+				},
+				{
+					"heading": "Mar",
+					"high": 23,
+					"low": 15.2,
+					"precipitation": 198.4
+				},
+				{
+					"heading": "Apr",
+					"high": 23.4,
+					"low": 15.8,
+					"precipitation": 275.7
+				},
+				{
+					"heading": "May",
+					"high": 23.2,
+					"low": 16.1,
+					"precipitation": 268.8
+				},
+				{
+					"heading": "Jun",
+					"high": 22.8,
+					"low": 15.6,
+					"precipitation": 145.1
+				},
+				{
+					"heading": "Jul",
+					"high": 22.4,
+					"low": 15.3,
+					"precipitation": 162.1
+				},
+				{
+					"heading": "Aug",
+					"high": 22,
+					"low": 15.3,
+					"precipitation": 180.2
+				},
+				{
+					"heading": "Sep",
+					"high": 22,
+					"low": 15.3,
+					"precipitation": 244.8
+				},
+				{
+					"heading": "Oct",
+					"high": 21.8,
+					"low": 15.3,
+					"precipitation": 334.7
+				},
+				{
+					"heading": "Nov",
+					"high": 21.7,
+					"low": 15.3,
+					"precipitation": 300.6
+				},
+				{
+					"heading": "Dec",
+					"high": 21.1,
+					"low": 14.9,
+					"precipitation": 203.1
+				}
+			]
+		},
+		"Perhentian Islands": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 318,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 169,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 147,
+					"high": 24,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 116,
+					"high": 24,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 189,
+					"high": 25,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 182,
+					"high": 26,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 173,
+					"high": 24,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 228,
+					"high": 25,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 256,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 340,
+					"high": 24,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 586,
+					"high": 22,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 911,
+					"high": 23,
+					"low": 20
+				}
+			]
+		},
+		"Langkawi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.9,
+					"low": 24.4,
+					"precipitation": 23.9
+				},
+				{
+					"heading": "Feb",
+					"high": 33.2,
+					"low": 24.4,
+					"precipitation": 32.7
+				},
+				{
+					"heading": "Mar",
+					"high": 33,
+					"low": 24.7,
+					"precipitation": 104.8
+				},
+				{
+					"heading": "Apr",
+					"high": 32.3,
+					"low": 25,
+					"precipitation": 196.6
+				},
+				{
+					"heading": "May",
+					"high": 31.7,
+					"low": 25.2,
+					"precipitation": 206.9
+				},
+				{
+					"heading": "Jun",
+					"high": 31.5,
+					"low": 24.9,
+					"precipitation": 249.9
+				},
+				{
+					"heading": "Jul",
+					"high": 31.1,
+					"low": 24.6,
+					"precipitation": 265.5
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 24.7,
+					"precipitation": 319.2
+				},
+				{
+					"heading": "Sep",
+					"high": 30.6,
+					"low": 24.4,
+					"precipitation": 340.6
+				},
+				{
+					"heading": "Oct",
+					"high": 30.7,
+					"low": 24.3,
+					"precipitation": 372.5
+				},
+				{
+					"heading": "Nov",
+					"high": 31.3,
+					"low": 24.5,
+					"precipitation": 193
+				},
+				{
+					"heading": "Dec",
+					"high": 31.6,
+					"low": 24.4,
+					"precipitation": 57.5
+				}
+			]
+		},
+		"Redang": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.7,
+					"low": 23.7,
+					"precipitation": 124.6
+				},
+				{
+					"heading": "Feb",
+					"high": 30.5,
+					"low": 23.3,
+					"precipitation": 73.5
+				},
+				{
+					"heading": "Mar",
+					"high": 31.5,
+					"low": 23.7,
+					"precipitation": 162.5
+				},
+				{
+					"heading": "Apr",
+					"high": 32.7,
+					"low": 24.1,
+					"precipitation": 87
+				},
+				{
+					"heading": "May",
+					"high": 33.1,
+					"low": 24.3,
+					"precipitation": 104
+				},
+				{
+					"heading": "Jun",
+					"high": 32.7,
+					"low": 24,
+					"precipitation": 116.5
+				},
+				{
+					"heading": "Jul",
+					"high": 32.3,
+					"low": 23.7,
+					"precipitation": 105.1
+				},
+				{
+					"heading": "Aug",
+					"high": 32.2,
+					"low": 23.6,
+					"precipitation": 137.5
+				},
+				{
+					"heading": "Sep",
+					"high": 31.9,
+					"low": 23.6,
+					"precipitation": 188.2
+				},
+				{
+					"heading": "Oct",
+					"high": 31.5,
+					"low": 23.7,
+					"precipitation": 224.3
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 23.7,
+					"precipitation": 732
+				},
+				{
+					"heading": "Dec",
+					"high": 29.3,
+					"low": 23.8,
+					"precipitation": 534.8
+				}
+			]
+		},
+		"Tioman": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.4,
+					"low": 23.7,
+					"precipitation": 332.1
+				},
+				{
+					"heading": "Feb",
+					"high": 29.3,
+					"low": 23.8,
+					"precipitation": 141.1
+				},
+				{
+					"heading": "Mar",
+					"high": 30.5,
+					"low": 23.4,
+					"precipitation": 140.7
+				},
+				{
+					"heading": "Apr",
+					"high": 31.7,
+					"low": 23.1,
+					"precipitation": 121.5
+				},
+				{
+					"heading": "May",
+					"high": 32.1,
+					"low": 23.2,
+					"precipitation": 140
+				},
+				{
+					"heading": "Jun",
+					"high": 31.5,
+					"low": 23,
+					"precipitation": 144.8
+				},
+				{
+					"heading": "Jul",
+					"high": 31.1,
+					"low": 22.6,
+					"precipitation": 164.5
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 22.6,
+					"precipitation": 176.4
+				},
+				{
+					"heading": "Sep",
+					"high": 31.1,
+					"low": 22.5,
+					"precipitation": 169.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.2,
+					"low": 22.7,
+					"precipitation": 201.4
+				},
+				{
+					"heading": "Nov",
+					"high": 29.8,
+					"low": 22.9,
+					"precipitation": 361.3
+				},
+				{
+					"heading": "Dec",
+					"high": 28.5,
+					"low": 23.3,
+					"precipitation": 625
+				}
+			]
+		},
+		"Penang": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 23.2,
+					"precipitation": 68.7
+				},
+				{
+					"heading": "Feb",
+					"high": 32.2,
+					"low": 23.5,
+					"precipitation": 71.7
+				},
+				{
+					"heading": "Mar",
+					"high": 32.2,
+					"low": 23.7,
+					"precipitation": 146.4
+				},
+				{
+					"heading": "Apr",
+					"high": 31.9,
+					"low": 24.1,
+					"precipitation": 220.5
+				},
+				{
+					"heading": "May",
+					"high": 31.6,
+					"low": 24.2,
+					"precipitation": 203.4
+				},
+				{
+					"heading": "Jun",
+					"high": 31.4,
+					"low": 23.8,
+					"precipitation": 178
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 23.4,
+					"precipitation": 192.1
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 23.4,
+					"precipitation": 242.4
+				},
+				{
+					"heading": "Sep",
+					"high": 30.4,
+					"low": 23.2,
+					"precipitation": 356.1
+				},
+				{
+					"heading": "Oct",
+					"high": 30.4,
+					"low": 23.3,
+					"precipitation": 383
+				},
+				{
+					"heading": "Nov",
+					"high": 30.7,
+					"low": 23.3,
+					"precipitation": 231.8
+				},
+				{
+					"heading": "Dec",
+					"high": 31.1,
+					"low": 23.4,
+					"precipitation": 113.5
+				}
+			]
+		},
+		"Kota Tinggi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 192,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 240,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 215,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 306,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 291,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 145,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 197,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 226,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 207,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 206,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 335,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 370,
+					"high": 24,
+					"low": 20
+				}
+			]
+		}
+	}
+}

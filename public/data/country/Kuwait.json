@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Kuwait City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 19.5,
+					"low": 8.5,
+					"precipitation": 30.2
+				},
+				{
+					"heading": "Feb",
+					"high": 21.8,
+					"low": 10,
+					"precipitation": 10.5
+				},
+				{
+					"heading": "Mar",
+					"high": 26.9,
+					"low": 14,
+					"precipitation": 18.2
+				},
+				{
+					"heading": "Apr",
+					"high": 33.9,
+					"low": 19.5,
+					"precipitation": 11.5
+				},
+				{
+					"heading": "May",
+					"high": 40.9,
+					"low": 25.4,
+					"precipitation": 0.4
+				},
+				{
+					"heading": "Jun",
+					"high": 45.5,
+					"low": 28.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 46.7,
+					"low": 30.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 46.9,
+					"low": 29.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 43.7,
+					"low": 26.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 36.6,
+					"low": 21.5,
+					"precipitation": 1.4
+				},
+				{
+					"heading": "Nov",
+					"high": 27.8,
+					"low": 14.5,
+					"precipitation": 18.5
+				},
+				{
+					"heading": "Dec",
+					"high": 21.9,
+					"low": 9.9,
+					"precipitation": 25.5
+				}
+			]
+		}
+	}
+}

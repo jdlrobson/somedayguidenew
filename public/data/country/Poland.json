@@ -1,0 +1,690 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Warsaw": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 21,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 25,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 24,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 33,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 44,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 62,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 73,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 63,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 42,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 37,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 38,
+					"high": 6,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Gdańsk": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.4,
+					"low": -3.4,
+					"precipitation": 24.6
+				},
+				{
+					"heading": "Feb",
+					"high": 2.1,
+					"low": -3,
+					"precipitation": 17.9
+				},
+				{
+					"heading": "Mar",
+					"high": 5.5,
+					"low": -0.5,
+					"precipitation": 22.4
+				},
+				{
+					"heading": "Apr",
+					"high": 10.1,
+					"low": 2.7,
+					"precipitation": 29.5
+				},
+				{
+					"heading": "May",
+					"high": 15.6,
+					"low": 7.4,
+					"precipitation": 48.9
+				},
+				{
+					"heading": "Jun",
+					"high": 19,
+					"low": 11,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Jul",
+					"high": 21,
+					"low": 13.3,
+					"precipitation": 66.7
+				},
+				{
+					"heading": "Aug",
+					"high": 21.3,
+					"low": 13.1,
+					"precipitation": 55.8
+				},
+				{
+					"heading": "Sep",
+					"high": 16.9,
+					"low": 9.7,
+					"precipitation": 54.9
+				},
+				{
+					"heading": "Oct",
+					"high": 12,
+					"low": 5.8,
+					"precipitation": 47.4
+				},
+				{
+					"heading": "Nov",
+					"high": 6,
+					"low": 1.5,
+					"precipitation": 42
+				},
+				{
+					"heading": "Dec",
+					"high": 2.9,
+					"low": -1.6,
+					"precipitation": 33.7
+				}
+			]
+		},
+		"Katowice": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1,
+					"low": -4,
+					"precipitation": 30.4
+				},
+				{
+					"heading": "Feb",
+					"high": 3,
+					"low": -4,
+					"precipitation": 29.2
+				},
+				{
+					"heading": "Mar",
+					"high": 7,
+					"low": -1,
+					"precipitation": 32.4
+				},
+				{
+					"heading": "Apr",
+					"high": 13,
+					"low": 3,
+					"precipitation": 36.8
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 8,
+					"precipitation": 52.9
+				},
+				{
+					"heading": "Jun",
+					"high": 21,
+					"low": 11,
+					"precipitation": 59.5
+				},
+				{
+					"heading": "Jul",
+					"high": 23,
+					"low": 13,
+					"precipitation": 73.7
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 12,
+					"precipitation": 51.1
+				},
+				{
+					"heading": "Sep",
+					"high": 18,
+					"low": 9,
+					"precipitation": 44.9
+				},
+				{
+					"heading": "Oct",
+					"high": 13,
+					"low": 5,
+					"precipitation": 35.2
+				},
+				{
+					"heading": "Nov",
+					"high": 6,
+					"low": 0,
+					"precipitation": 37.6
+				},
+				{
+					"heading": "Dec",
+					"high": 2,
+					"low": -3,
+					"precipitation": 32.8
+				}
+			]
+		},
+		"Kraków": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 39,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 33,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 39,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 82,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 90,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 85,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 74,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 61,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 41,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 41,
+					"high": 7,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 38,
+					"high": 2,
+					"low": null
+				}
+			]
+		},
+		"Lublin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.7,
+					"low": -5.9,
+					"precipitation": 22.7
+				},
+				{
+					"heading": "Feb",
+					"high": 0.4,
+					"low": -5.7,
+					"precipitation": 25.9
+				},
+				{
+					"heading": "Mar",
+					"high": 5.7,
+					"low": -2,
+					"precipitation": 27.3
+				},
+				{
+					"heading": "Apr",
+					"high": 12.7,
+					"low": 3,
+					"precipitation": 42.4
+				},
+				{
+					"heading": "May",
+					"high": 18.4,
+					"low": 7.7,
+					"precipitation": 51.1
+				},
+				{
+					"heading": "Jun",
+					"high": 21.4,
+					"low": 10.7,
+					"precipitation": 66.6
+				},
+				{
+					"heading": "Jul",
+					"high": 23.3,
+					"low": 12.5,
+					"precipitation": 71.5
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 12,
+					"precipitation": 64
+				},
+				{
+					"heading": "Sep",
+					"high": 18.1,
+					"low": 8.2,
+					"precipitation": 55.5
+				},
+				{
+					"heading": "Oct",
+					"high": 12.3,
+					"low": 4,
+					"precipitation": 40.6
+				},
+				{
+					"heading": "Nov",
+					"high": 5.4,
+					"low": 0,
+					"precipitation": 36.7
+				},
+				{
+					"heading": "Dec",
+					"high": 0.8,
+					"low": -3.9,
+					"precipitation": 33.6
+				}
+			]
+		},
+		"Łódź": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.5,
+					"low": -3.6,
+					"precipitation": 40.7
+				},
+				{
+					"heading": "Feb",
+					"high": 2,
+					"low": -3.3,
+					"precipitation": 36.3
+				},
+				{
+					"heading": "Mar",
+					"high": 6.8,
+					"low": -0.5,
+					"precipitation": 39.7
+				},
+				{
+					"heading": "Apr",
+					"high": 13.4,
+					"low": 4,
+					"precipitation": 33.5
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 8.8,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Jun",
+					"high": 21.5,
+					"low": 11.6,
+					"precipitation": 65.2
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 13.8,
+					"precipitation": 90
+				},
+				{
+					"heading": "Aug",
+					"high": 23.7,
+					"low": 13.3,
+					"precipitation": 56.5
+				},
+				{
+					"heading": "Sep",
+					"high": 18.3,
+					"low": 9.3,
+					"precipitation": 42.1
+				},
+				{
+					"heading": "Oct",
+					"high": 12.6,
+					"low": 5.2,
+					"precipitation": 37.6
+				},
+				{
+					"heading": "Nov",
+					"high": 5.9,
+					"low": 1.2,
+					"precipitation": 40.8
+				},
+				{
+					"heading": "Dec",
+					"high": 1.8,
+					"low": -1.9,
+					"precipitation": 35.9
+				}
+			]
+		},
+		"Poznań": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 33,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 27,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 38,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 31,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 50,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 57,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 76,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 61,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 42,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 34,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 35,
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 40,
+					"high": 3,
+					"low": null
+				}
+			]
+		},
+		"Szczecin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.6,
+					"low": -2.5,
+					"precipitation": 36
+				},
+				{
+					"heading": "Feb",
+					"high": 3.9,
+					"low": -1.9,
+					"precipitation": 27
+				},
+				{
+					"heading": "Mar",
+					"high": 8.1,
+					"low": 0.4,
+					"precipitation": 32
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 3.7,
+					"precipitation": 38
+				},
+				{
+					"heading": "May",
+					"high": 19.1,
+					"low": 8.1,
+					"precipitation": 52
+				},
+				{
+					"heading": "Jun",
+					"high": 21.4,
+					"low": 11.2,
+					"precipitation": 57
+				},
+				{
+					"heading": "Jul",
+					"high": 24.1,
+					"low": 13.6,
+					"precipitation": 61
+				},
+				{
+					"heading": "Aug",
+					"high": 23.5,
+					"low": 13.2,
+					"precipitation": 55
+				},
+				{
+					"heading": "Sep",
+					"high": 18.7,
+					"low": 9.7,
+					"precipitation": 44
+				},
+				{
+					"heading": "Oct",
+					"high": 13.4,
+					"low": 5.8,
+					"precipitation": 38
+				},
+				{
+					"heading": "Nov",
+					"high": 7,
+					"low": 2,
+					"precipitation": 46
+				},
+				{
+					"heading": "Dec",
+					"high": 3.3,
+					"low": -1.2,
+					"precipitation": 41
+				}
+			]
+		},
+		"Wrocław": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.3,
+					"low": -5.3,
+					"precipitation": 28
+				},
+				{
+					"heading": "Feb",
+					"high": 3.2,
+					"low": -4,
+					"precipitation": 26
+				},
+				{
+					"heading": "Mar",
+					"high": 7.9,
+					"low": -0.9,
+					"precipitation": 26
+				},
+				{
+					"heading": "Apr",
+					"high": 13.6,
+					"low": 2.8,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 18.8,
+					"low": 7.1,
+					"precipitation": 64
+				},
+				{
+					"heading": "Jun",
+					"high": 22,
+					"low": 10.7,
+					"precipitation": 80
+				},
+				{
+					"heading": "Jul",
+					"high": 23.4,
+					"low": 12,
+					"precipitation": 84
+				},
+				{
+					"heading": "Aug",
+					"high": 23.2,
+					"low": 11.6,
+					"precipitation": 78
+				},
+				{
+					"heading": "Sep",
+					"high": 19.3,
+					"low": 8.7,
+					"precipitation": 48
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 4.6,
+					"precipitation": 40
+				},
+				{
+					"heading": "Nov",
+					"high": 7.4,
+					"low": 0.6,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": 3,
+					"low": -3.1,
+					"precipitation": 34
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,1045 @@
+{
+	"note": "<p>The train ride to <strong>Cusco</strong> should not be missed. February is carnival time.When I was here I stayed in the [<a href=\"https://www.tripadvisor.com/Hotel_Review-g294316-d1925218-Reviews-Cirque_Hostel-Lima_Lima_Region.html\">https://www.tripadvisor.com/Hotel_Review-g294316-d1925218-Reviews-Cirque_Hostel-Lima_Lima_Region.html</a> Cirque Hostel]</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/kQGw6FM2Hc",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ku2CtTM2Ak",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/knse5pM2GV/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/knvR6Cs2KD",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/knsgXHM2GZ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/knsfwIM2GX",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/kNHXIMs2PZ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/k0hdbKs2KP",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/k3A4gnM2DQ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/jXkTwYs2Ao",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Lima": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0.1,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0.1,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 4.1,
+					"high": 33,
+					"low": 25
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 0.1,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0.2,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0.9,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0.8,
+					"high": 22,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0.6,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0.2,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0.3,
+					"high": 29,
+					"low": 18
+				}
+			]
+		},
+		"Arequipa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 21.8,
+					"low": 8.5,
+					"precipitation": 27.5
+				},
+				{
+					"heading": "Feb",
+					"high": 21.4,
+					"low": 8.7,
+					"precipitation": 39.9
+				},
+				{
+					"heading": "Mar",
+					"high": 24.2,
+					"low": 8.3,
+					"precipitation": 20.6
+				},
+				{
+					"heading": "Apr",
+					"high": 24.7,
+					"low": 7.1,
+					"precipitation": 0.6
+				},
+				{
+					"heading": "May",
+					"high": 22.3,
+					"low": 6.2,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Jun",
+					"high": 21.7,
+					"low": 5.4,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Jul",
+					"high": 21.7,
+					"low": 5.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 22.2,
+					"low": 5.4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 22.7,
+					"low": 6.2,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Oct",
+					"high": 22.8,
+					"low": 6.4,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Nov",
+					"high": 22.7,
+					"low": 6.6,
+					"precipitation": 1
+				},
+				{
+					"heading": "Dec",
+					"high": 22.5,
+					"low": 7.6,
+					"precipitation": 4.7
+				}
+			]
+		},
+		"Cajamarca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 21.5,
+					"low": 6.9,
+					"precipitation": 83.9
+				},
+				{
+					"heading": "Feb",
+					"high": 21.1,
+					"low": 6.7,
+					"precipitation": 96.4
+				},
+				{
+					"heading": "Mar",
+					"high": 20.9,
+					"low": 6.9,
+					"precipitation": 110.3
+				},
+				{
+					"heading": "Apr",
+					"high": 21.3,
+					"low": 6.2,
+					"precipitation": 80.3
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 4.5,
+					"precipitation": 34.6
+				},
+				{
+					"heading": "Jun",
+					"high": 21.4,
+					"low": 3.4,
+					"precipitation": 7
+				},
+				{
+					"heading": "Jul",
+					"high": 21.4,
+					"low": 3.1,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Aug",
+					"high": 21.8,
+					"low": 3.6,
+					"precipitation": 11.3
+				},
+				{
+					"heading": "Sep",
+					"high": 21.7,
+					"low": 5,
+					"precipitation": 32.8
+				},
+				{
+					"heading": "Oct",
+					"high": 21.6,
+					"low": 6.2,
+					"precipitation": 81.9
+				},
+				{
+					"heading": "Nov",
+					"high": 21.9,
+					"low": 5.7,
+					"precipitation": 73.2
+				},
+				{
+					"heading": "Dec",
+					"high": 22,
+					"low": 5.9,
+					"precipitation": 72.6
+				}
+			]
+		},
+		"Cuzco": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 145,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 134,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 107,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 43,
+					"high": 20,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 8.7,
+					"high": 20,
+					"low": 3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1.5,
+					"high": 19,
+					"low": 1
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 4,
+					"high": 19,
+					"low": 0
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 8.6,
+					"high": 20,
+					"low": 2
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 22,
+					"high": 20,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 39,
+					"high": 21,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 72,
+					"high": 21,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 123,
+					"high": 21,
+					"low": 7
+				}
+			]
+		},
+		"Iquitos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 279,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 227,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 279,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 310,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 274,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 190,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 182,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 165,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 189,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 242,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 260,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 282,
+					"high": 32,
+					"low": 23
+				}
+			]
+		},
+		"Puno": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.5,
+					"low": 5.6,
+					"precipitation": 173.7
+				},
+				{
+					"heading": "Feb",
+					"high": 15.3,
+					"low": 5.4,
+					"precipitation": 149.2
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 5.2,
+					"precipitation": 131.3
+				},
+				{
+					"heading": "Apr",
+					"high": 15.3,
+					"low": 3.7,
+					"precipitation": 58.9
+				},
+				{
+					"heading": "May",
+					"high": 14.9,
+					"low": 0.8,
+					"precipitation": 8.8
+				},
+				{
+					"heading": "Jun",
+					"high": 14,
+					"low": -0.9,
+					"precipitation": 5.7
+				},
+				{
+					"heading": "Jul",
+					"high": 14.1,
+					"low": -1.3,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Aug",
+					"high": 14.9,
+					"low": 0,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Sep",
+					"high": 15.9,
+					"low": 1.7,
+					"precipitation": 23.5
+				},
+				{
+					"heading": "Oct",
+					"high": 16.5,
+					"low": 3.4,
+					"precipitation": 53
+				},
+				{
+					"heading": "Nov",
+					"high": 16.8,
+					"low": 4.3,
+					"precipitation": 54.4
+				},
+				{
+					"heading": "Dec",
+					"high": 16.6,
+					"low": 5.3,
+					"precipitation": 87.2
+				}
+			]
+		},
+		"Trujillo (Peru)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25,
+					"low": 16.9,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Feb",
+					"high": 26,
+					"low": 17.8,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Mar",
+					"high": 26,
+					"low": 18,
+					"precipitation": 1.8
+				},
+				{
+					"heading": "Apr",
+					"high": 24.5,
+					"low": 16.8,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "May",
+					"high": 23.2,
+					"low": 15.7,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Jun",
+					"high": 22,
+					"low": 15,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 21.1,
+					"low": 14.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 20.4,
+					"low": 14.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 20.4,
+					"low": 14,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 20.9,
+					"low": 14.1,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Nov",
+					"high": 22.1,
+					"low": 14.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 23.5,
+					"low": 14.7,
+					"precipitation": 0.1
+				}
+			]
+		},
+		"Lake Titicaca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.7,
+					"low": 3.6,
+					"precipitation": 133.3
+				},
+				{
+					"heading": "Feb",
+					"high": 16.7,
+					"low": 3.5,
+					"precipitation": 108.7
+				},
+				{
+					"heading": "Mar",
+					"high": 16.5,
+					"low": 3.2,
+					"precipitation": 98.5
+				},
+				{
+					"heading": "Apr",
+					"high": 16.8,
+					"low": 0.6,
+					"precipitation": 43.3
+				},
+				{
+					"heading": "May",
+					"high": 16.6,
+					"low": -3.8,
+					"precipitation": 9.9
+				},
+				{
+					"heading": "Jun",
+					"high": 16,
+					"low": -7,
+					"precipitation": 3.1
+				},
+				{
+					"heading": "Jul",
+					"high": 16,
+					"low": -7.5,
+					"precipitation": 2.4
+				},
+				{
+					"heading": "Aug",
+					"high": 17,
+					"low": -5.4,
+					"precipitation": 5.8
+				},
+				{
+					"heading": "Sep",
+					"high": 17.6,
+					"low": -1.4,
+					"precipitation": 22.1
+				},
+				{
+					"heading": "Oct",
+					"high": 18.6,
+					"low": 0.3,
+					"precipitation": 41.1
+				},
+				{
+					"heading": "Nov",
+					"high": 18.8,
+					"low": 1.5,
+					"precipitation": 55.3
+				},
+				{
+					"heading": "Dec",
+					"high": 17.7,
+					"low": 3,
+					"precipitation": 85.9
+				}
+			]
+		},
+		"Machu Picchu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 155,
+					"high": 16,
+					"low": 1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 145,
+					"high": 16,
+					"low": 2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 133,
+					"high": 16,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 16,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 16,
+					"low": null
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 16,
+					"low": null
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 4,
+					"high": 15,
+					"low": null
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 8,
+					"high": 16,
+					"low": null
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 26,
+					"high": 17,
+					"low": null
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 48,
+					"high": 18,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 73,
+					"high": 18,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 116,
+					"high": 16,
+					"low": 1
+				}
+			]
+		},
+		"Manú National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 507,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 531,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 390,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 236,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 156,
+					"high": 22,
+					"low": 18
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 87,
+					"high": 21,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 71,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 151,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 158,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 264,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 262,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 288,
+					"high": 24,
+					"low": 19
+				}
+			]
+		},
+		"Nazca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.8,
+					"low": 17.5,
+					"precipitation": 0.7
+				},
+				{
+					"heading": "Feb",
+					"high": 32.4,
+					"low": 18.1,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Mar",
+					"high": 32.6,
+					"low": 17.2,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Apr",
+					"high": 31.6,
+					"low": 15.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "May",
+					"high": 29.9,
+					"low": 11.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jun",
+					"high": 27.6,
+					"low": 8.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 7.2,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Aug",
+					"high": 28.2,
+					"low": 7.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 29.7,
+					"low": 9.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 31.1,
+					"low": 11.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Nov",
+					"high": 31.5,
+					"low": 13.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 31.8,
+					"low": 15.9,
+					"precipitation": 0.1
+				}
+			]
+		},
+		"Tarapoto": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.9,
+					"low": 20,
+					"precipitation": 97.7
+				},
+				{
+					"heading": "Feb",
+					"high": 32.5,
+					"low": 19.8,
+					"precipitation": 119.5
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 19.9,
+					"precipitation": 137
+				},
+				{
+					"heading": "Apr",
+					"high": 31.8,
+					"low": 19.8,
+					"precipitation": 135.3
+				},
+				{
+					"heading": "May",
+					"high": 31.8,
+					"low": 19.3,
+					"precipitation": 100.9
+				},
+				{
+					"heading": "Jun",
+					"high": 31.6,
+					"low": 18.5,
+					"precipitation": 68.8
+				},
+				{
+					"heading": "Jul",
+					"high": 31.6,
+					"low": 17.9,
+					"precipitation": 58.8
+				},
+				{
+					"heading": "Aug",
+					"high": 32.9,
+					"low": 18.3,
+					"precipitation": 64.5
+				},
+				{
+					"heading": "Sep",
+					"high": 32.6,
+					"low": 19.1,
+					"precipitation": 78.8
+				},
+				{
+					"heading": "Oct",
+					"high": 32.7,
+					"low": 19.4,
+					"precipitation": 117.8
+				},
+				{
+					"heading": "Nov",
+					"high": 32.9,
+					"low": 19.6,
+					"precipitation": 96.2
+				},
+				{
+					"heading": "Dec",
+					"high": 33.1,
+					"low": 20,
+					"precipitation": 86.8
+				}
+			]
+		},
+		"Pucallpa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.3,
+					"low": 22.4,
+					"precipitation": 147
+				},
+				{
+					"heading": "Feb",
+					"high": 30.7,
+					"low": 22.3,
+					"precipitation": 165
+				},
+				{
+					"heading": "Mar",
+					"high": 30.7,
+					"low": 22.3,
+					"precipitation": 191
+				},
+				{
+					"heading": "Apr",
+					"high": 30.9,
+					"low": 22.1,
+					"precipitation": 163
+				},
+				{
+					"heading": "May",
+					"high": 30.4,
+					"low": 21.5,
+					"precipitation": 104
+				},
+				{
+					"heading": "Jun",
+					"high": 30.3,
+					"low": 20.5,
+					"precipitation": 66
+				},
+				{
+					"heading": "Jul",
+					"high": 30.4,
+					"low": 19.8,
+					"precipitation": 51
+				},
+				{
+					"heading": "Aug",
+					"high": 31.8,
+					"low": 20.4,
+					"precipitation": 56
+				},
+				{
+					"heading": "Sep",
+					"high": 32.3,
+					"low": 21.1,
+					"precipitation": 91
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 21.8,
+					"precipitation": 168
+				},
+				{
+					"heading": "Nov",
+					"high": 31.5,
+					"low": 22.2,
+					"precipitation": 185
+				},
+				{
+					"heading": "Dec",
+					"high": 31.6,
+					"low": 22.4,
+					"precipitation": 180
+				}
+			]
+		}
+	}
+}

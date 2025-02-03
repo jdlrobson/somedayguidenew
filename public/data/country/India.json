@@ -1,0 +1,1836 @@
+{
+	"note": "<p>I dream of riding the trains in India again someday.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BsPMJJ5gFZl",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Delhi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 19,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 20,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 15,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 21,
+					"high": 36,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 25,
+					"high": 39,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 70,
+					"high": 39,
+					"low": 28
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 237,
+					"high": 35,
+					"low": 27
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 235,
+					"high": 34,
+					"low": 26
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 113,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 17,
+					"high": 33,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 9,
+					"high": 28,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 9,
+					"high": 23,
+					"low": 9
+				}
+			]
+		},
+		"Bangalore": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.9,
+					"low": 15.8,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Feb",
+					"high": 30.7,
+					"low": 17.5,
+					"precipitation": 5.4
+				},
+				{
+					"heading": "Mar",
+					"high": 33.1,
+					"low": 20,
+					"precipitation": 18.5
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 22,
+					"precipitation": 41.5
+				},
+				{
+					"heading": "May",
+					"high": 33.3,
+					"low": 21.7,
+					"precipitation": 107.4
+				},
+				{
+					"heading": "Jun",
+					"high": 29.6,
+					"low": 20.4,
+					"precipitation": 106.5
+				},
+				{
+					"heading": "Jul",
+					"high": 28.3,
+					"low": 19.9,
+					"precipitation": 112.9
+				},
+				{
+					"heading": "Aug",
+					"high": 27.8,
+					"low": 19.8,
+					"precipitation": 147
+				},
+				{
+					"heading": "Sep",
+					"high": 28.6,
+					"low": 19.8,
+					"precipitation": 212.8
+				},
+				{
+					"heading": "Oct",
+					"high": 28.2,
+					"low": 19.6,
+					"precipitation": 168.3
+				},
+				{
+					"heading": "Nov",
+					"high": 27.2,
+					"low": 18,
+					"precipitation": 48.9
+				},
+				{
+					"heading": "Dec",
+					"high": 26.5,
+					"low": 16.2,
+					"precipitation": 15.7
+				}
+			]
+		},
+		"Chennai": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.3,
+					"low": 21.2,
+					"precipitation": 25.9
+				},
+				{
+					"heading": "Feb",
+					"high": 30.9,
+					"low": 22.2,
+					"precipitation": 3.4
+				},
+				{
+					"heading": "Mar",
+					"high": 32.9,
+					"low": 24.2,
+					"precipitation": 3.5
+				},
+				{
+					"heading": "Apr",
+					"high": 34.5,
+					"low": 26.6,
+					"precipitation": 14.4
+				},
+				{
+					"heading": "May",
+					"high": 37.1,
+					"low": 28,
+					"precipitation": 34.2
+				},
+				{
+					"heading": "Jun",
+					"high": 37,
+					"low": 27.5,
+					"precipitation": 55.8
+				},
+				{
+					"heading": "Jul",
+					"high": 35.3,
+					"low": 26.4,
+					"precipitation": 103.8
+				},
+				{
+					"heading": "Aug",
+					"high": 34.7,
+					"low": 25.9,
+					"precipitation": 126.8
+				},
+				{
+					"heading": "Sep",
+					"high": 34.2,
+					"low": 25.6,
+					"precipitation": 147.7
+				},
+				{
+					"heading": "Oct",
+					"high": 32.1,
+					"low": 24.6,
+					"precipitation": 315.6
+				},
+				{
+					"heading": "Nov",
+					"high": 29.9,
+					"low": 23.1,
+					"precipitation": 374.4
+				},
+				{
+					"heading": "Dec",
+					"high": 28.9,
+					"low": 21.9,
+					"precipitation": 177.4
+				}
+			]
+		},
+		"Hyderabad": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.8,
+					"low": 15.2,
+					"precipitation": 13.2
+				},
+				{
+					"heading": "Feb",
+					"high": 31.9,
+					"low": 17.6,
+					"precipitation": 7.9
+				},
+				{
+					"heading": "Mar",
+					"high": 35.4,
+					"low": 20.8,
+					"precipitation": 15.3
+				},
+				{
+					"heading": "Apr",
+					"high": 37.9,
+					"low": 24.3,
+					"precipitation": 20.2
+				},
+				{
+					"heading": "May",
+					"high": 39,
+					"low": 26.2,
+					"precipitation": 35.7
+				},
+				{
+					"heading": "Jun",
+					"high": 34.5,
+					"low": 24,
+					"precipitation": 103.8
+				},
+				{
+					"heading": "Jul",
+					"high": 30.8,
+					"low": 22.6,
+					"precipitation": 169.9
+				},
+				{
+					"heading": "Aug",
+					"high": 29.8,
+					"low": 22.1,
+					"precipitation": 178.7
+				},
+				{
+					"heading": "Sep",
+					"high": 30.5,
+					"low": 22,
+					"precipitation": 158.3
+				},
+				{
+					"heading": "Oct",
+					"high": 30.6,
+					"low": 20.3,
+					"precipitation": 97.2
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 16.9,
+					"precipitation": 22.4
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 14.5,
+					"precipitation": 5.9
+				}
+			]
+		},
+		"Jaipur": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 7,
+					"high": 22,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 11,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 3.1,
+					"high": 31,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 4.9,
+					"high": 37,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 18,
+					"high": 40,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 63,
+					"high": 39,
+					"low": 27
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 223,
+					"high": 34,
+					"low": 26
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 206,
+					"high": 32,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 66,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 25,
+					"high": 34,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 3.9,
+					"high": 29,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 4.2,
+					"high": 24,
+					"low": 9
+				}
+			]
+		},
+		"Kochi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.7,
+					"low": 22.6,
+					"precipitation": 23.3
+				},
+				{
+					"heading": "Feb",
+					"high": 31.9,
+					"low": 24,
+					"precipitation": 25.9
+				},
+				{
+					"heading": "Mar",
+					"high": 32.5,
+					"low": 25.3,
+					"precipitation": 30.8
+				},
+				{
+					"heading": "Apr",
+					"high": 32.9,
+					"low": 25.9,
+					"precipitation": 94.8
+				},
+				{
+					"heading": "May",
+					"high": 32.3,
+					"low": 25.7,
+					"precipitation": 282.8
+				},
+				{
+					"heading": "Jun",
+					"high": 30.1,
+					"low": 24.1,
+					"precipitation": 705.8
+				},
+				{
+					"heading": "Jul",
+					"high": 29.3,
+					"low": 23.7,
+					"precipitation": 593.6
+				},
+				{
+					"heading": "Aug",
+					"high": 29.3,
+					"low": 23.9,
+					"precipitation": 403.1
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 24.2,
+					"precipitation": 279.6
+				},
+				{
+					"heading": "Oct",
+					"high": 30.6,
+					"low": 24.1,
+					"precipitation": 320.3
+				},
+				{
+					"heading": "Nov",
+					"high": 31.2,
+					"low": 24,
+					"precipitation": 174.9
+				},
+				{
+					"heading": "Dec",
+					"high": 31.8,
+					"low": 23.1,
+					"precipitation": 43.2
+				}
+			]
+		},
+		"Mumbai": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1,
+					"high": 31,
+					"low": 16
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 2,
+					"high": 31,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 1,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 33,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 574,
+					"high": 32,
+					"low": 26
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 868,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 553,
+					"high": 29,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 306,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 63,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 15,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 56,
+					"high": 32,
+					"low": 18
+				}
+			]
+		},
+		"Varanasi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 23,
+					"low": 9.2,
+					"precipitation": 19
+				},
+				{
+					"heading": "Feb",
+					"high": 26.2,
+					"low": 11.6,
+					"precipitation": 18.2
+				},
+				{
+					"heading": "Mar",
+					"high": 32.6,
+					"low": 16.2,
+					"precipitation": 8.3
+				},
+				{
+					"heading": "Apr",
+					"high": 38.5,
+					"low": 21.9,
+					"precipitation": 6.1
+				},
+				{
+					"heading": "May",
+					"high": 40.3,
+					"low": 25.5,
+					"precipitation": 10.3
+				},
+				{
+					"heading": "Jun",
+					"high": 38.4,
+					"low": 27.2,
+					"precipitation": 107.3
+				},
+				{
+					"heading": "Jul",
+					"high": 33.7,
+					"low": 25.7,
+					"precipitation": 309.3
+				},
+				{
+					"heading": "Aug",
+					"high": 32.9,
+					"low": 25.4,
+					"precipitation": 288.4
+				},
+				{
+					"heading": "Sep",
+					"high": 32.8,
+					"low": 24.4,
+					"precipitation": 244.9
+				},
+				{
+					"heading": "Oct",
+					"high": 32.7,
+					"low": 20.6,
+					"precipitation": 32.3
+				},
+				{
+					"heading": "Nov",
+					"high": 29.4,
+					"low": 14.4,
+					"precipitation": 9.3
+				},
+				{
+					"heading": "Dec",
+					"high": 24.7,
+					"low": 10.1,
+					"precipitation": 4.8
+				}
+			]
+		},
+		"Amritsar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 24,
+					"high": 19,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 33,
+					"high": 22,
+					"low": 6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 48,
+					"high": 27,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 29,
+					"high": 34,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 25,
+					"high": 39,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 62,
+					"high": 39,
+					"low": 25
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 231,
+					"high": 35,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 187,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 79,
+					"high": 35,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 18,
+					"high": 32,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 6,
+					"high": 27,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 18,
+					"high": 21,
+					"low": 4
+				}
+			]
+		},
+		"Madurai": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 20.6,
+					"precipitation": 8.5
+				},
+				{
+					"heading": "Feb",
+					"high": 33.3,
+					"low": 21.5,
+					"precipitation": 11
+				},
+				{
+					"heading": "Mar",
+					"high": 36,
+					"low": 23.4,
+					"precipitation": 18.3
+				},
+				{
+					"heading": "Apr",
+					"high": 37.2,
+					"low": 25.6,
+					"precipitation": 60.1
+				},
+				{
+					"heading": "May",
+					"high": 37.9,
+					"low": 26.3,
+					"precipitation": 80.6
+				},
+				{
+					"heading": "Jun",
+					"high": 37.2,
+					"low": 26.2,
+					"precipitation": 34.3
+				},
+				{
+					"heading": "Jul",
+					"high": 36.5,
+					"low": 25.9,
+					"precipitation": 56.9
+				},
+				{
+					"heading": "Aug",
+					"high": 36.2,
+					"low": 25.5,
+					"precipitation": 93.9
+				},
+				{
+					"heading": "Sep",
+					"high": 35.1,
+					"low": 24.6,
+					"precipitation": 121.5
+				},
+				{
+					"heading": "Oct",
+					"high": 33.1,
+					"low": 23.7,
+					"precipitation": 185.8
+				},
+				{
+					"heading": "Nov",
+					"high": 30.6,
+					"low": 22.7,
+					"precipitation": 147.2
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 21.3,
+					"precipitation": 51.3
+				}
+			]
+		},
+		"Agra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.3,
+					"low": 8,
+					"precipitation": 13.2
+				},
+				{
+					"heading": "Feb",
+					"high": 25.2,
+					"low": 10.4,
+					"precipitation": 17.6
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 15.9,
+					"precipitation": 9.3
+				},
+				{
+					"heading": "Apr",
+					"high": 38.5,
+					"low": 22.3,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "May",
+					"high": 41.6,
+					"low": 26.4,
+					"precipitation": 11.3
+				},
+				{
+					"heading": "Jun",
+					"high": 40.7,
+					"low": 28.5,
+					"precipitation": 55.7
+				},
+				{
+					"heading": "Jul",
+					"high": 35.2,
+					"low": 26.8,
+					"precipitation": 203.3
+				},
+				{
+					"heading": "Aug",
+					"high": 33.7,
+					"low": 25.8,
+					"precipitation": 243.2
+				},
+				{
+					"heading": "Sep",
+					"high": 34.4,
+					"low": 24.4,
+					"precipitation": 129.7
+				},
+				{
+					"heading": "Oct",
+					"high": 34.3,
+					"low": 19.9,
+					"precipitation": 24.8
+				},
+				{
+					"heading": "Nov",
+					"high": 29.7,
+					"low": 13.7,
+					"precipitation": 4.3
+				},
+				{
+					"heading": "Dec",
+					"high": 24,
+					"low": 9.1,
+					"precipitation": 6.1
+				}
+			]
+		},
+		"Aurangabad": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.7,
+					"low": 9,
+					"precipitation": 11.3
+				},
+				{
+					"heading": "Feb",
+					"high": 31.1,
+					"low": 12,
+					"precipitation": 2.7
+				},
+				{
+					"heading": "Mar",
+					"high": 35,
+					"low": 15,
+					"precipitation": 5.6
+				},
+				{
+					"heading": "Apr",
+					"high": 37.4,
+					"low": 19.4,
+					"precipitation": 3.9
+				},
+				{
+					"heading": "May",
+					"high": 38,
+					"low": 22.8,
+					"precipitation": 26.2
+				},
+				{
+					"heading": "Jun",
+					"high": 34,
+					"low": 22.1,
+					"precipitation": 132.2
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 21.2,
+					"precipitation": 157.9
+				},
+				{
+					"heading": "Aug",
+					"high": 27.9,
+					"low": 20.3,
+					"precipitation": 152.7
+				},
+				{
+					"heading": "Sep",
+					"high": 30.2,
+					"low": 20,
+					"precipitation": 146
+				},
+				{
+					"heading": "Oct",
+					"high": 31.3,
+					"low": 17,
+					"precipitation": 62.1
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 12,
+					"precipitation": 26.8
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 9,
+					"precipitation": 12
+				}
+			]
+		},
+		"Paithan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 3,
+					"high": 30,
+					"low": 14
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 3,
+					"high": 36,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 39,
+					"high": 41,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 11,
+					"high": 44,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 14,
+					"high": 43,
+					"low": 27
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 148,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 276,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 183,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 139,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 85,
+					"high": 32,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 21,
+					"high": 32,
+					"low": 16
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 7,
+					"high": 30,
+					"low": 14
+				}
+			]
+		},
+		"Goa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 19.6,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Feb",
+					"high": 31.5,
+					"low": 20.5,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 23.2,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 25.6,
+					"precipitation": 11.8
+				},
+				{
+					"heading": "May",
+					"high": 33,
+					"low": 26.3,
+					"precipitation": 112.7
+				},
+				{
+					"heading": "Jun",
+					"high": 30.3,
+					"low": 24.7,
+					"precipitation": 868.2
+				},
+				{
+					"heading": "Jul",
+					"high": 28.9,
+					"low": 24.1,
+					"precipitation": 994.8
+				},
+				{
+					"heading": "Aug",
+					"high": 28.8,
+					"low": 24,
+					"precipitation": 512.7
+				},
+				{
+					"heading": "Sep",
+					"high": 29.5,
+					"low": 23.8,
+					"precipitation": 251.9
+				},
+				{
+					"heading": "Oct",
+					"high": 31.6,
+					"low": 23.8,
+					"precipitation": 124.8
+				},
+				{
+					"heading": "Nov",
+					"high": 32.8,
+					"low": 22.3,
+					"precipitation": 30.9
+				},
+				{
+					"heading": "Dec",
+					"high": 32.4,
+					"low": 20.6,
+					"precipitation": 16.7
+				}
+			]
+		},
+		"Panaji": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32,
+					"low": 19.9,
+					"precipitation": 1
+				},
+				{
+					"heading": "Feb",
+					"high": 31.7,
+					"low": 20.7,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Mar",
+					"high": 32.2,
+					"low": 23.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Apr",
+					"high": 33.1,
+					"low": 25.5,
+					"precipitation": 4.3
+				},
+				{
+					"heading": "May",
+					"high": 33.4,
+					"low": 26.5,
+					"precipitation": 81
+				},
+				{
+					"heading": "Jun",
+					"high": 30.3,
+					"low": 24.8,
+					"precipitation": 892.3
+				},
+				{
+					"heading": "Jul",
+					"high": 29.1,
+					"low": 24.3,
+					"precipitation": 907.4
+				},
+				{
+					"heading": "Aug",
+					"high": 28.7,
+					"low": 24,
+					"precipitation": 596.6
+				},
+				{
+					"heading": "Sep",
+					"high": 29.8,
+					"low": 24,
+					"precipitation": 260.3
+				},
+				{
+					"heading": "Oct",
+					"high": 31.8,
+					"low": 23.9,
+					"precipitation": 145.8
+				},
+				{
+					"heading": "Nov",
+					"high": 32.9,
+					"low": 22.2,
+					"precipitation": 26.7
+				},
+				{
+					"heading": "Dec",
+					"high": 32.7,
+					"low": 21,
+					"precipitation": 2.5
+				}
+			]
+		},
+		"Margao": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.9,
+					"low": 19.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 31.7,
+					"low": 20.6,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Mar",
+					"high": 32.1,
+					"low": 23.2,
+					"precipitation": 0.6
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 25.5,
+					"precipitation": 7.2
+				},
+				{
+					"heading": "May",
+					"high": 33.3,
+					"low": 26.4,
+					"precipitation": 97.1
+				},
+				{
+					"heading": "Jun",
+					"high": 30.4,
+					"low": 24.7,
+					"precipitation": 861.5
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 24.3,
+					"precipitation": 899.8
+				},
+				{
+					"heading": "Aug",
+					"high": 28.8,
+					"low": 24,
+					"precipitation": 591.6
+				},
+				{
+					"heading": "Sep",
+					"high": 29.7,
+					"low": 23.9,
+					"precipitation": 256.3
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 23.8,
+					"precipitation": 116.5
+				},
+				{
+					"heading": "Nov",
+					"high": 32.9,
+					"low": 22.2,
+					"precipitation": 33.9
+				},
+				{
+					"heading": "Dec",
+					"high": 32.6,
+					"low": 20.9,
+					"precipitation": 16.2
+				}
+			]
+		},
+		"Gokarna": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.8,
+					"low": 20.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 31.4,
+					"low": 20.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 32.3,
+					"low": 23,
+					"precipitation": 1
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 25.4,
+					"precipitation": 11
+				},
+				{
+					"heading": "May",
+					"high": 29.5,
+					"low": 26.1,
+					"precipitation": 184
+				},
+				{
+					"heading": "Jun",
+					"high": 29.8,
+					"low": 24.3,
+					"precipitation": 980
+				},
+				{
+					"heading": "Jul",
+					"high": 28.7,
+					"low": 23.8,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 28.6,
+					"low": 23.8,
+					"precipitation": 665
+				},
+				{
+					"heading": "Sep",
+					"high": 29.1,
+					"low": 23.4,
+					"precipitation": 366
+				},
+				{
+					"heading": "Oct",
+					"high": 30.9,
+					"low": 23.4,
+					"precipitation": 157
+				},
+				{
+					"heading": "Nov",
+					"high": 32.3,
+					"low": 22.1,
+					"precipitation": 49
+				},
+				{
+					"heading": "Dec",
+					"high": 32.3,
+					"low": 20.9,
+					"precipitation": 9
+				}
+			]
+		},
+		"Ratnagiri": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32,
+					"low": 19,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Feb",
+					"high": 32,
+					"low": 19,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 22,
+					"precipitation": 3.3
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 25,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "May",
+					"high": 33,
+					"low": 26,
+					"precipitation": 68.6
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 801.6
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 872.2
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 24,
+					"precipitation": 650.8
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 24,
+					"precipitation": 368
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 23,
+					"precipitation": 128.4
+				},
+				{
+					"heading": "Nov",
+					"high": 34,
+					"low": 22,
+					"precipitation": 32.4
+				},
+				{
+					"heading": "Dec",
+					"high": 33,
+					"low": 20,
+					"precipitation": 6
+				}
+			]
+		},
+		"Kalimpong": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 9,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 29,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 32,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 147,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 269,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 503,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 569,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 518,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 415,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 109,
+					"high": 22,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 2,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 5,
+					"high": 17,
+					"low": 10
+				}
+			]
+		},
+		"Kurseong": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 12,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 25,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 24,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 130,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "May",
+					"precipitation": 329,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 713,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 844,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 697,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 542,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 151,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 4,
+					"high": 20,
+					"low": 13
+				}
+			]
+		},
+		"Sikkim": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 30.9,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 79.1,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 116,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 289.2,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 552.6,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 603.1,
+					"high": 22,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 649.6,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 574,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 487.7,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 181.1,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 40,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 22.7,
+					"high": 14,
+					"low": 5
+				}
+			]
+		},
+		"Siliguri": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 23,
+					"low": 3,
+					"precipitation": 8
+				},
+				{
+					"heading": "Feb",
+					"high": 25,
+					"low": 10,
+					"precipitation": 18
+				},
+				{
+					"heading": "Mar",
+					"high": 28,
+					"low": 12,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 21,
+					"precipitation": 94
+				},
+				{
+					"heading": "May",
+					"high": 33,
+					"low": 24,
+					"precipitation": 300
+				},
+				{
+					"heading": "Jun",
+					"high": 35,
+					"low": 25,
+					"precipitation": 658
+				},
+				{
+					"heading": "Jul",
+					"high": 34,
+					"low": 26,
+					"precipitation": 818
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 25,
+					"precipitation": 643
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 23,
+					"precipitation": 538
+				},
+				{
+					"heading": "Oct",
+					"high": 26,
+					"low": 16,
+					"precipitation": 142
+				},
+				{
+					"heading": "Nov",
+					"high": 24,
+					"low": 10,
+					"precipitation": 13
+				},
+				{
+					"heading": "Dec",
+					"high": 23,
+					"low": 4,
+					"precipitation": 5
+				}
+			]
+		},
+		"Tirupati": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26,
+					"low": 9.8,
+					"precipitation": 25.6
+				},
+				{
+					"heading": "Feb",
+					"high": 28.1,
+					"low": 11.9,
+					"precipitation": 2.2
+				},
+				{
+					"heading": "Mar",
+					"high": 30.8,
+					"low": 15.8,
+					"precipitation": 5.3
+				},
+				{
+					"heading": "Apr",
+					"high": 32.2,
+					"low": 19.2,
+					"precipitation": 44.9
+				},
+				{
+					"heading": "May",
+					"high": 35.2,
+					"low": 22,
+					"precipitation": 59.6
+				},
+				{
+					"heading": "Jun",
+					"high": 31.9,
+					"low": 25.3,
+					"precipitation": 64.1
+				},
+				{
+					"heading": "Jul",
+					"high": 29.9,
+					"low": 23.1,
+					"precipitation": 140.5
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 24.7,
+					"precipitation": 159.5
+				},
+				{
+					"heading": "Sep",
+					"high": 27.9,
+					"low": 20.2,
+					"precipitation": 177.1
+				},
+				{
+					"heading": "Oct",
+					"high": 26.8,
+					"low": 18.7,
+					"precipitation": 294.3
+				},
+				{
+					"heading": "Nov",
+					"high": 25.2,
+					"low": 15.8,
+					"precipitation": 407.5
+				},
+				{
+					"heading": "Dec",
+					"high": 27,
+					"low": 12.9,
+					"precipitation": 159.1
+				}
+			]
+		},
+		"Tiruchirapalli": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.4,
+					"low": 20.3,
+					"precipitation": 18
+				},
+				{
+					"heading": "Feb",
+					"high": 32.6,
+					"low": 21.3,
+					"precipitation": 6.2
+				},
+				{
+					"heading": "Mar",
+					"high": 35.4,
+					"low": 23.2,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "Apr",
+					"high": 37.5,
+					"low": 26.1,
+					"precipitation": 31.4
+				},
+				{
+					"heading": "May",
+					"high": 38.1,
+					"low": 26.5,
+					"precipitation": 61.4
+				},
+				{
+					"heading": "Jun",
+					"high": 38,
+					"low": 26.8,
+					"precipitation": 28.7
+				},
+				{
+					"heading": "Jul",
+					"high": 36.4,
+					"low": 26.1,
+					"precipitation": 68.3
+				},
+				{
+					"heading": "Aug",
+					"high": 35.8,
+					"low": 25.7,
+					"precipitation": 70.1
+				},
+				{
+					"heading": "Sep",
+					"high": 34.7,
+					"low": 24.8,
+					"precipitation": 142.4
+				},
+				{
+					"heading": "Oct",
+					"high": 32.5,
+					"low": 24.1,
+					"precipitation": 186.1
+				},
+				{
+					"heading": "Nov",
+					"high": 30.4,
+					"low": 22.8,
+					"precipitation": 150.5
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 21.2,
+					"precipitation": 90.2
+				}
+			]
+		}
+	}
+}

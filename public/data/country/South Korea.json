@@ -1,0 +1,1222 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Seoul": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 21,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 25,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 47,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 65,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 106,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 133,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 395,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 364,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 169,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 52,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 22,
+					"high": 4,
+					"low": null
+				}
+			]
+		},
+		"Busan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 34,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 81,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 133,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 157,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 207,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 317,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 255,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 158,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 58,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 46,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 23,
+					"high": 11,
+					"low": 2
+				}
+			]
+		},
+		"Chuncheon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 10,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 22,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 6.8,
+					"high": 14,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 26,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 67,
+					"high": 26,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 64,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 117,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 170,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 89,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 60,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 29,
+					"high": 13,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 17,
+					"high": 0,
+					"low": null
+				}
+			]
+		},
+		"Daegu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 20,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 28,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 47,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 62,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 80,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 142,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 224,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 236,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 143,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 34,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 30,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 15,
+					"high": 8,
+					"low": 0
+				}
+			]
+		},
+		"Daejeon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 6.5,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 8.5,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 67,
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 59,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 50,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 144,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 177,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 241,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 118,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 169,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 41,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 37,
+					"high": 3,
+					"low": null
+				}
+			]
+		},
+		"Gwangju": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 13,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 8.6,
+					"high": 10,
+					"low": 0
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 102,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 63,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 57,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 72,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 239,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 370,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 117,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 105,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 96,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 48,
+					"high": 6,
+					"low": null
+				}
+			]
+		},
+		"Gyeongju": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 34,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 45,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 64,
+					"high": 12,
+					"low": 2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 83,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 72,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 129,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 195,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 173,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 155,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 63,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 52,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 26,
+					"high": 9,
+					"low": null
+				}
+			]
+		},
+		"Incheon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 7.9,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 17,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 8.5,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 44,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 74,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 63,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 227,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 122,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 94,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 60,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 46,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 24,
+					"high": 4,
+					"low": null
+				}
+			]
+		},
+		"Jeonju": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 6.6,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 2.2,
+					"high": 9,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 96,
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 80,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 40,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 89,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 223,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 356,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 88,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 101,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 75,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 51,
+					"high": 5,
+					"low": null
+				}
+			]
+		},
+		"Andong": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1.1,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 6.1,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 81,
+					"high": 14,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 60,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 23,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 50,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 69,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 349,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 122,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 141,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 50,
+					"high": 13,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 9.8,
+					"high": 3,
+					"low": null
+				}
+			]
+		},
+		"Ansan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 22,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 24,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 48,
+					"high": 9,
+					"low": 2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 61,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 98,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 129,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 351,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 300,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 154,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 53,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 50,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 22,
+					"high": 4,
+					"low": null
+				}
+			]
+		},
+		"Yeosu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 11,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 20,
+					"high": 9,
+					"low": 2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 127,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 64,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 110,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 128,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 161,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 662,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 87,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 132,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 62,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 13,
+					"high": 7,
+					"low": 0
+				}
+			]
+		},
+		"Ulleungdo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.3,
+					"low": -0.8,
+					"precipitation": 116.2
+				},
+				{
+					"heading": "Feb",
+					"high": 5.3,
+					"low": -0.2,
+					"precipitation": 78.1
+				},
+				{
+					"heading": "Mar",
+					"high": 9.1,
+					"low": 2.5,
+					"precipitation": 72.2
+				},
+				{
+					"heading": "Apr",
+					"high": 15.1,
+					"low": 7.7,
+					"precipitation": 81.3
+				},
+				{
+					"heading": "May",
+					"high": 19.3,
+					"low": 12.1,
+					"precipitation": 105.1
+				},
+				{
+					"heading": "Jun",
+					"high": 22.2,
+					"low": 16,
+					"precipitation": 115.3
+				},
+				{
+					"heading": "Jul",
+					"high": 25.2,
+					"low": 20,
+					"precipitation": 170.2
+				},
+				{
+					"heading": "Aug",
+					"high": 26.7,
+					"low": 21.4,
+					"precipitation": 167.9
+				},
+				{
+					"heading": "Sep",
+					"high": 23.1,
+					"low": 17.4,
+					"precipitation": 170.7
+				},
+				{
+					"heading": "Oct",
+					"high": 18.8,
+					"low": 12.6,
+					"precipitation": 83.9
+				},
+				{
+					"heading": "Nov",
+					"high": 13.1,
+					"low": 7.1,
+					"precipitation": 105.5
+				},
+				{
+					"heading": "Dec",
+					"high": 7.5,
+					"low": 2,
+					"precipitation": 117.1
+				}
+			]
+		},
+		"Pyeongchang": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -2.5,
+					"low": -12.6,
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Feb",
+					"high": -0.4,
+					"low": -10.5,
+					"precipitation": 53.6
+				},
+				{
+					"heading": "Mar",
+					"high": 4.4,
+					"low": -5.2,
+					"precipitation": 75.6
+				},
+				{
+					"heading": "Apr",
+					"high": 12.9,
+					"low": 1.2,
+					"precipitation": 89.5
+				},
+				{
+					"heading": "May",
+					"high": 17.6,
+					"low": 6.3,
+					"precipitation": 122.3
+				},
+				{
+					"heading": "Jun",
+					"high": 20.5,
+					"low": 11.2,
+					"precipitation": 201
+				},
+				{
+					"heading": "Jul",
+					"high": 22.8,
+					"low": 16,
+					"precipitation": 326.7
+				},
+				{
+					"heading": "Aug",
+					"high": 22.8,
+					"low": 16.1,
+					"precipitation": 420.9
+				},
+				{
+					"heading": "Sep",
+					"high": 18.6,
+					"low": 10,
+					"precipitation": 307.3
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 3.1,
+					"precipitation": 124.9
+				},
+				{
+					"heading": "Nov",
+					"high": 7,
+					"low": -2.8,
+					"precipitation": 76.9
+				},
+				{
+					"heading": "Dec",
+					"high": 0.5,
+					"low": -9.1,
+					"precipitation": 36.8
+				}
+			]
+		},
+		"South Jeolla": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 13,
+					"high": 9,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 18,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 137,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 67,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 140,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 142,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 218,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 482,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 109,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 101,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 70,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 9.9,
+					"high": 7,
+					"low": null
+				}
+			]
+		},
+		"Daebudo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 28,
+					"high": 2,
+					"low": -5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 42,
+					"high": 4,
+					"low": -5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 48,
+					"high": 12,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 116,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 88,
+					"high": 27,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 111,
+					"high": 28,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 391,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 328,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 213,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 76,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 74,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 56,
+					"high": 4,
+					"low": -3
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,411 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BZWwk44g2YG",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZG5NLWglUD",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZCdbAIg0ic",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZCdYB8gcki",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZAXLE7A2KS",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZABPkHAg3H",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BY_0xjaA6Yi",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BY-2aOsAg9A",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BY8WLZbgU4s",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BY7OVWXgtUQ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZbl8nPgZtB",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZSGJJ2gRsc",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZKNzV_A475",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZRilVjALAK",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZQ7QgeAdie",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZNBlHVAIry",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZL2xTnArU3",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZJRXmNg0Dn",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZIFLKEAquE",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BZHgdAbA95n",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Panama City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 29,
+					"high": 33,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 10,
+					"high": 34,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 13,
+					"high": 35,
+					"low": 18
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 65,
+					"high": 35,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 225,
+					"high": 35,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 235,
+					"high": 34,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 169,
+					"high": 34,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 220,
+					"high": 34,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 254,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 331,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 252,
+					"high": 33,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 105,
+					"high": 33,
+					"low": 19
+				}
+			]
+		},
+		"Boquete": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 31,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 27,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 51,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 180,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 312,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 302,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 305,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 303,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 447,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 449,
+					"high": 19,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 224,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 86,
+					"high": 19,
+					"low": 14
+				}
+			]
+		},
+		"Colon (Panama)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 24,
+					"precipitation": 110
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 24,
+					"precipitation": 51
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 24,
+					"precipitation": 36
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 25,
+					"precipitation": 94
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 24,
+					"precipitation": 270
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 24,
+					"precipitation": 370
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 24,
+					"precipitation": 420
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 24,
+					"precipitation": 420
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 24,
+					"precipitation": 290
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 23,
+					"precipitation": 470
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 23,
+					"precipitation": 620
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 24,
+					"precipitation": 320
+				}
+			]
+		},
+		"David (Panama)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.5,
+					"low": 18.8,
+					"precipitation": 33.3
+				},
+				{
+					"heading": "Feb",
+					"high": 35.6,
+					"low": 19.3,
+					"precipitation": 19.3
+				},
+				{
+					"heading": "Mar",
+					"high": 36.3,
+					"low": 19.9,
+					"precipitation": 35.5
+				},
+				{
+					"heading": "Apr",
+					"high": 36.3,
+					"low": 21.1,
+					"precipitation": 102.5
+				},
+				{
+					"heading": "May",
+					"high": 33.8,
+					"low": 21.6,
+					"precipitation": 297
+				},
+				{
+					"heading": "Jun",
+					"high": 32.5,
+					"low": 21.5,
+					"precipitation": 322.6
+				},
+				{
+					"heading": "Jul",
+					"high": 32.7,
+					"low": 21.2,
+					"precipitation": 289.8
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 20.9,
+					"precipitation": 340.3
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 21.1,
+					"precipitation": 406.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 21.1,
+					"precipitation": 400.5
+				},
+				{
+					"heading": "Nov",
+					"high": 31.9,
+					"low": 20.7,
+					"precipitation": 295.4
+				},
+				{
+					"heading": "Dec",
+					"high": 33.1,
+					"low": 19.3,
+					"precipitation": 77.4
+				}
+			]
+		}
+	}
+}

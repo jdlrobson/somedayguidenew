@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Tegucigalpa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.7,
+					"low": 14.3,
+					"precipitation": 5.3
+				},
+				{
+					"heading": "Feb",
+					"high": 27.4,
+					"low": 14.5,
+					"precipitation": 4.7
+				},
+				{
+					"heading": "Mar",
+					"high": 29.5,
+					"low": 15.5,
+					"precipitation": 9.9
+				},
+				{
+					"heading": "Apr",
+					"high": 30.2,
+					"low": 17.1,
+					"precipitation": 42.9
+				},
+				{
+					"heading": "May",
+					"high": 30.2,
+					"low": 18.2,
+					"precipitation": 143.5
+				},
+				{
+					"heading": "Jun",
+					"high": 28.6,
+					"low": 18.2,
+					"precipitation": 158.7
+				},
+				{
+					"heading": "Jul",
+					"high": 27.8,
+					"low": 18,
+					"precipitation": 82.3
+				},
+				{
+					"heading": "Aug",
+					"high": 28.5,
+					"low": 18,
+					"precipitation": 88.5
+				},
+				{
+					"heading": "Sep",
+					"high": 28.5,
+					"low": 17.9,
+					"precipitation": 177.2
+				},
+				{
+					"heading": "Oct",
+					"high": 27.3,
+					"low": 17.6,
+					"precipitation": 108.9
+				},
+				{
+					"heading": "Nov",
+					"high": 26,
+					"low": 16.3,
+					"precipitation": 39.9
+				},
+				{
+					"heading": "Dec",
+					"high": 25.4,
+					"low": 15,
+					"precipitation": 9.9
+				}
+			]
+		},
+		"La Ceiba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27,
+					"low": 18.4,
+					"precipitation": 305.2
+				},
+				{
+					"heading": "Feb",
+					"high": 27.6,
+					"low": 18.4,
+					"precipitation": 330
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 19.5,
+					"precipitation": 225.2
+				},
+				{
+					"heading": "Apr",
+					"high": 30.1,
+					"low": 20.7,
+					"precipitation": 120.5
+				},
+				{
+					"heading": "May",
+					"high": 31.3,
+					"low": 22.2,
+					"precipitation": 76.9
+				},
+				{
+					"heading": "Jun",
+					"high": 31.3,
+					"low": 22.6,
+					"precipitation": 154.6
+				},
+				{
+					"heading": "Jul",
+					"high": 30.8,
+					"low": 21.8,
+					"precipitation": 174.9
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 21.8,
+					"precipitation": 197.3
+				},
+				{
+					"heading": "Sep",
+					"high": 30.6,
+					"low": 22,
+					"precipitation": 203.3
+				},
+				{
+					"heading": "Oct",
+					"high": 29.5,
+					"low": 21.2,
+					"precipitation": 423.8
+				},
+				{
+					"heading": "Nov",
+					"high": 28.2,
+					"low": 20.2,
+					"precipitation": 539.6
+				},
+				{
+					"heading": "Dec",
+					"high": 27.3,
+					"low": 19.1,
+					"precipitation": 478.9
+				}
+			]
+		},
+		"Gracias": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 30,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 36,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 53,
+					"high": 29,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 59,
+					"high": 31,
+					"low": 17
+				},
+				{
+					"heading": "May",
+					"precipitation": 243,
+					"high": 30,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 224,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 157,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 311,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 279,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 236,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 88,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 50,
+					"high": 22,
+					"low": 13
+				}
+			]
+		},
+		"San Pedro Sula": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.2,
+					"low": 19.8,
+					"precipitation": 72
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 20,
+					"precipitation": 59.6
+				},
+				{
+					"heading": "Mar",
+					"high": 33,
+					"low": 21.4,
+					"precipitation": 32
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 22.5,
+					"precipitation": 32.1
+				},
+				{
+					"heading": "May",
+					"high": 35.2,
+					"low": 23.8,
+					"precipitation": 62.9
+				},
+				{
+					"heading": "Jun",
+					"high": 34.3,
+					"low": 23.8,
+					"precipitation": 142.4
+				},
+				{
+					"heading": "Jul",
+					"high": 33.3,
+					"low": 23.2,
+					"precipitation": 110.2
+				},
+				{
+					"heading": "Aug",
+					"high": 33.4,
+					"low": 23.3,
+					"precipitation": 105.7
+				},
+				{
+					"heading": "Sep",
+					"high": 33.5,
+					"low": 23.3,
+					"precipitation": 151.7
+				},
+				{
+					"heading": "Oct",
+					"high": 31.6,
+					"low": 22.5,
+					"precipitation": 147.8
+				},
+				{
+					"heading": "Nov",
+					"high": 30.2,
+					"low": 21.4,
+					"precipitation": 135.3
+				},
+				{
+					"heading": "Dec",
+					"high": 29.2,
+					"low": 20.4,
+					"precipitation": 121.7
+				}
+			]
+		},
+		"Lake Yojoa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 49,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 29,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 48,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 57,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "May",
+					"precipitation": 229,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 206,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 164,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 258,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 289,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 255,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 105,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 39,
+					"high": 21,
+					"low": 12
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,181 @@
+{
+	"note": "<p>Singapore is Linzy&#39;s home and at the current time, we&#39;re visiting this city every year! It&#39;s a misunderstood city, often because of brief encounters for logistic reasons on route to places like Australia, however the food is incredible (and cheap if you look in the right place!) and nature exists in Jon&#39;s favorite place <strong>Pulau Ubin</strong>. It has it all and is the perfect introduction to Asia for the westerner.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BwtHLMJDh-0",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BlcDP0CF2dC",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BRLMBk7gD64",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chicken_thief_and_clothes_stealer%2C_Haw_Par_Villa_%2814791511634%29.jpg/2560px-Chicken_thief_and_clothes_stealer%2C_Haw_Par_Villa_%2814791511634%29.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Haw Par Villa",
+			"url": "https://en.wikipedia.org/wiki/Haw_Par_Villa"
+		},
+		{
+			"src": "https://www.instagram.com/p/C5YVm_bSojP/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://miro.medium.com/v2/resize:fit:400/format:webp/1*5GEerRjJtuylQ4nvaIc7-g.jpeg",
+			"type": "url",
+			"embed": false,
+			"title": "Ask iNaturalist what Sang Nila Utama saw at the southern tip of Malaya",
+			"url": "https://linzybearswings.medium.com/ask-inaturalist-what-sang-nila-utama-saw-at-the-southern-tip-of-malaya-f4f11bb9a3fc"
+		},
+		{
+			"text": "When I was seven, my family moved from downtown Singapore up north. Back in those days, Yishun was not just the countryside, but a jungle of sorts. My father wanted his children to grow up with nature and wildlife. My brother and I grew up spotting monitor lizards cross the roads and once brought an",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/03/dscn6070-1.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The (little known) wildlife of Singapore – Part [I]",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2020/03/11/the-little-known-wildlife-of-singapore-part-i/"
+		},
+		{
+			"text": "Before setting up birdfeeders on our roof and learning about backyard birds, I would have identified most of them as “little birds”. But today, there are so many feathered friends that I can recognise in San Francisco. Heading back to Singapore with the insightful iNaturalist mobile app marks a new chapter in my life. In",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/03/dscn6169.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The (little known) wildlife of Singapore – Part [II]",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2020/03/12/the-little-known-wildlife-of-singapore-part-ii-2/"
+		},
+		{
+			"text": "“Uncle” is an affectionate term that we use in Singapore to address any adult man (age between forties to seventies), even strangers. Uncle Bangpao is my father's friend of more than thirty years. He lives around the eastern side of Singapore and does his morning walks at Pasir Ris Park. He once sent a photo",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/03/dscn6960.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "No uncle(s), no owls in Singapore",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2020/02/09/no-uncles-no-owls-in-singapore/"
+		},
+		{
+			"src": "https://www.instagram.com/p/BwmaYw5n-59/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BGiie1Us2ME/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BGbvrNeM2Kb/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwiYvzZnKDW",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BwLZjiIHT5Z",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BluQj51lrYx",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Blh4XXnlhwr",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Blh3v4gFjSR",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Singapore": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.4,
+					"low": 23.9,
+					"precipitation": 234.6
+				},
+				{
+					"heading": "Feb",
+					"high": 31.7,
+					"low": 24.3,
+					"precipitation": 112.8
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 24.6,
+					"precipitation": 170.3
+				},
+				{
+					"heading": "Apr",
+					"high": 32.3,
+					"low": 25,
+					"precipitation": 154.8
+				},
+				{
+					"heading": "May",
+					"high": 32.2,
+					"low": 25.4,
+					"precipitation": 171.2
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 25.4,
+					"precipitation": 130.7
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 25,
+					"precipitation": 154.4
+				},
+				{
+					"heading": "Aug",
+					"high": 31.4,
+					"low": 25,
+					"precipitation": 148.9
+				},
+				{
+					"heading": "Sep",
+					"high": 31.4,
+					"low": 24.8,
+					"precipitation": 156.5
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 24.7,
+					"precipitation": 154.6
+				},
+				{
+					"heading": "Nov",
+					"high": 31.1,
+					"low": 24.3,
+					"precipitation": 258.5
+				},
+				{
+					"heading": "Dec",
+					"high": 30.2,
+					"low": 24,
+					"precipitation": 318.6
+				}
+			]
+		}
+	}
+}

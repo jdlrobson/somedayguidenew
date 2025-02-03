@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Port-Vila": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.3,
+					"low": 22.5,
+					"precipitation": 316.1
+				},
+				{
+					"heading": "Feb",
+					"high": 31.2,
+					"low": 23,
+					"precipitation": 273.7
+				},
+				{
+					"heading": "Mar",
+					"high": 30.8,
+					"low": 22.6,
+					"precipitation": 320.9
+				},
+				{
+					"heading": "Apr",
+					"high": 29.9,
+					"low": 22,
+					"precipitation": 255.2
+				},
+				{
+					"heading": "May",
+					"high": 28.8,
+					"low": 20.2,
+					"precipitation": 210.3
+				},
+				{
+					"heading": "Jun",
+					"high": 27.4,
+					"low": 19.8,
+					"precipitation": 180
+				},
+				{
+					"heading": "Jul",
+					"high": 26.4,
+					"low": 18.2,
+					"precipitation": 94.4
+				},
+				{
+					"heading": "Aug",
+					"high": 27,
+					"low": 18,
+					"precipitation": 87.4
+				},
+				{
+					"heading": "Sep",
+					"high": 27.7,
+					"low": 18.4,
+					"precipitation": 87.3
+				},
+				{
+					"heading": "Oct",
+					"high": 28.5,
+					"low": 19.6,
+					"precipitation": 134.1
+				},
+				{
+					"heading": "Nov",
+					"high": 29.2,
+					"low": 20.7,
+					"precipitation": 192.3
+				},
+				{
+					"heading": "Dec",
+					"high": 30.7,
+					"low": 21.7,
+					"precipitation": 187.2
+				}
+			]
+		},
+		"Luganville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 24,
+					"precipitation": 330
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 24,
+					"precipitation": 340
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 24,
+					"precipitation": 340
+				},
+				{
+					"heading": "Apr",
+					"high": 28,
+					"low": 24,
+					"precipitation": 310
+				},
+				{
+					"heading": "May",
+					"high": 27,
+					"low": 23,
+					"precipitation": 210
+				},
+				{
+					"heading": "Jun",
+					"high": 27,
+					"low": 23,
+					"precipitation": 200
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 22,
+					"precipitation": 160
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 22,
+					"precipitation": 130
+				},
+				{
+					"heading": "Sep",
+					"high": 27,
+					"low": 22,
+					"precipitation": 160
+				},
+				{
+					"heading": "Oct",
+					"high": 27,
+					"low": 23,
+					"precipitation": 190
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 23,
+					"precipitation": 220
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 23,
+					"precipitation": 270
+				}
+			]
+		},
+		"Espiritu Santo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 435,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 362,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 406,
+					"high": 22,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 233,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 151,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 129,
+					"high": 20,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 109,
+					"high": 22,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 44,
+					"high": 22,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 141,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 180,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 196,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 130,
+					"high": 25,
+					"low": 20
+				}
+			]
+		}
+	}
+}

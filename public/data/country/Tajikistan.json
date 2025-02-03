@@ -1,0 +1,210 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Dushanbe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.9,
+					"low": -2,
+					"precipitation": 66.3
+				},
+				{
+					"heading": "Feb",
+					"high": 10.2,
+					"low": -0.2,
+					"precipitation": 75.4
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 4.2,
+					"precipitation": 107.5
+				},
+				{
+					"heading": "Apr",
+					"high": 22.1,
+					"low": 9.3,
+					"precipitation": 105
+				},
+				{
+					"heading": "May",
+					"high": 27,
+					"low": 13,
+					"precipitation": 66
+				},
+				{
+					"heading": "Jun",
+					"high": 33.1,
+					"low": 16.5,
+					"precipitation": 5.5
+				},
+				{
+					"heading": "Jul",
+					"high": 35.8,
+					"low": 17.9,
+					"precipitation": 3.2
+				},
+				{
+					"heading": "Aug",
+					"high": 34.3,
+					"low": 15.9,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Sep",
+					"high": 30.7,
+					"low": 11.1,
+					"precipitation": 3.1
+				},
+				{
+					"heading": "Oct",
+					"high": 24.2,
+					"low": 6.7,
+					"precipitation": 30.6
+				},
+				{
+					"heading": "Nov",
+					"high": 17.1,
+					"low": 3.5,
+					"precipitation": 44.7
+				},
+				{
+					"heading": "Dec",
+					"high": 10.8,
+					"low": 0.8,
+					"precipitation": 59.8
+				}
+			]
+		},
+		"Khujand": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.5,
+					"low": -3.2,
+					"precipitation": 15.1
+				},
+				{
+					"heading": "Feb",
+					"high": 6.2,
+					"low": -1.8,
+					"precipitation": 15.4
+				},
+				{
+					"heading": "Mar",
+					"high": 13.8,
+					"low": 4.2,
+					"precipitation": 24.9
+				},
+				{
+					"heading": "Apr",
+					"high": 21.9,
+					"low": 10.7,
+					"precipitation": 26.8
+				},
+				{
+					"heading": "May",
+					"high": 28.6,
+					"low": 15.5,
+					"precipitation": 20.1
+				},
+				{
+					"heading": "Jun",
+					"high": 34.2,
+					"low": 19.6,
+					"precipitation": 8.6
+				},
+				{
+					"heading": "Jul",
+					"high": 35.5,
+					"low": 21.2,
+					"precipitation": 3.9
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 18.8,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Sep",
+					"high": 28.8,
+					"low": 13.6,
+					"precipitation": 3.2
+				},
+				{
+					"heading": "Oct",
+					"high": 20.6,
+					"low": 8.1,
+					"precipitation": 14.9
+				},
+				{
+					"heading": "Nov",
+					"high": 12.3,
+					"low": 3.4,
+					"precipitation": 15.7
+				},
+				{
+					"heading": "Dec",
+					"high": 5.6,
+					"low": -0.5,
+					"precipitation": 17.3
+				}
+			]
+		},
+		"Panjakent": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 53
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 53.2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 85
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 94
+				},
+				{
+					"heading": "May",
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11.1
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 2.6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 4.6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 31.8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 33.9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 48.7
+				}
+			]
+		}
+	}
+}

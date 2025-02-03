@@ -1,0 +1,713 @@
+{
+	"note": "<p>Some day I&#39;ll visit. Apparently this is a good jumping off point for <strong>Dornod</strong>, a grassland area with lots of gazelles. you can travel here by jeep or by bus. <strong>The Mongolian Natural History Museum</strong> has dinosaur fossils.Adventurous types can drive here from <strong>Ulaanbaatar,</strong>. The Flaming Cliffs is on route where hundreds of dinosaur fossils were discovered in the 1920s. The area is known as Bayanzag by locals. Some day I&#39;ll visit.</p>\n",
+	"snippets": [
+		{
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Gazelles in Ulaanbaatar",
+			"url": "https://www.youtube.com/watch?v=6iODjVySKW4"
+		},
+		{
+			"src": "https://en.wikipedia.org/wiki/Dornod_Province",
+			"type": "url",
+			"embed": false
+		},
+		{
+			"src": "https://en.wikipedia.org/wiki/Mongolian_Natural_History_Museum",
+			"type": "url",
+			"embed": false
+		},
+		{
+			"src": "https://en.wikipedia.org/wiki/Flaming_Cliffs",
+			"type": "url",
+			"embed": false
+		}
+	],
+	"places": {
+		"Ulaanbaatar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1.1,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 1.7,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 2.7,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 8.3,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 17,
+					"low": 3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 42,
+					"high": 22,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 58,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 52,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 26,
+					"high": 16,
+					"low": 2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 6.4,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 3.2,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 2.5,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Erdenet": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -11.1,
+					"low": -24.6,
+					"precipitation": 3
+				},
+				{
+					"heading": "Feb",
+					"high": -7.5,
+					"low": -22.8,
+					"precipitation": 3
+				},
+				{
+					"heading": "Mar",
+					"high": 0.2,
+					"low": -15.9,
+					"precipitation": 7
+				},
+				{
+					"heading": "Apr",
+					"high": 9.2,
+					"low": -6.3,
+					"precipitation": 13
+				},
+				{
+					"heading": "May",
+					"high": 16.9,
+					"low": -0.1,
+					"precipitation": 22
+				},
+				{
+					"heading": "Jun",
+					"high": 21.9,
+					"low": 6.4,
+					"precipitation": 67
+				},
+				{
+					"heading": "Jul",
+					"high": 22,
+					"low": 9.1,
+					"precipitation": 96
+				},
+				{
+					"heading": "Aug",
+					"high": 20.5,
+					"low": 7.2,
+					"precipitation": 74
+				},
+				{
+					"heading": "Sep",
+					"high": 15.8,
+					"low": 0.7,
+					"precipitation": 42
+				},
+				{
+					"heading": "Oct",
+					"high": 7.2,
+					"low": -7.8,
+					"precipitation": 12
+				},
+				{
+					"heading": "Nov",
+					"high": -1.9,
+					"low": -16,
+					"precipitation": 8
+				},
+				{
+					"heading": "Dec",
+					"high": -9,
+					"low": -21.9,
+					"precipitation": 4
+				}
+			]
+		},
+		"Hovd": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1.4,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0.9,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 2.3,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 5.9,
+					"high": 11,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 9.5,
+					"high": 19,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 27,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 35,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 23,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 11,
+					"high": 18,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 4.6,
+					"high": 9,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1.8,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1.6,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Mörön": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1.3,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 1,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0.8,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 7,
+					"high": 10,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 15,
+					"high": 18,
+					"low": 1
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 43,
+					"high": 23,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 60,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 54,
+					"high": 22,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 18,
+					"high": 17,
+					"low": 0
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 5.3,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1.9,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1.4,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Ölgii": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0.6,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0.5,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 1.3,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 4.5,
+					"high": 9,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 11,
+					"high": 16,
+					"low": 3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 25,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 34,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 20,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 13,
+					"high": 16,
+					"low": 3
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 3,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0.7,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Tsetserleg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1.9,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 2.7,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 5.8,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 16,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 33,
+					"high": 16,
+					"low": 2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 64,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 75,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 67,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 27,
+					"high": 15,
+					"low": 2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 13,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 5.8,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 2.6,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Ulan Ude": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 5,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 3,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 3,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 6,
+					"high": 10,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 18,
+					"high": 19,
+					"low": 4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 43,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 65,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 68,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 28,
+					"high": 17,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 7,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 10,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 9,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Zamyn-Üüd": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -11,
+					"low": -24.7,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Feb",
+					"high": -6,
+					"low": -21.8,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Mar",
+					"high": 4.8,
+					"low": -11.9,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "Apr",
+					"high": 14.4,
+					"low": -2,
+					"precipitation": 3.8
+				},
+				{
+					"heading": "May",
+					"high": 23,
+					"low": 6.8,
+					"precipitation": 7.1
+				},
+				{
+					"heading": "Jun",
+					"high": 27.8,
+					"low": 12.4,
+					"precipitation": 14.9
+				},
+				{
+					"heading": "Jul",
+					"high": 29.8,
+					"low": 16.2,
+					"precipitation": 28.5
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 14.3,
+					"precipitation": 29.1
+				},
+				{
+					"heading": "Sep",
+					"high": 21.4,
+					"low": 6.7,
+					"precipitation": 14
+				},
+				{
+					"heading": "Oct",
+					"high": 13,
+					"low": -2.3,
+					"precipitation": 5.8
+				},
+				{
+					"heading": "Nov",
+					"high": 1.4,
+					"low": -12.7,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Dec",
+					"high": -8.6,
+					"low": -21.8,
+					"precipitation": 1.1
+				}
+			]
+		},
+		"Dalanzadgad": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1.4,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 1.1,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 3.3,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 5.3,
+					"high": 14,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 12,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 18,
+					"high": 26,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 33,
+					"high": 28,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 32,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 13,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 4.4,
+					"high": 12,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 2,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1,
+					"high": null,
+					"low": null
+				}
+			]
+		}
+	}
+}

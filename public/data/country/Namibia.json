@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Windhoek": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 91,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 87,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 70,
+					"high": 28,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 32,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 6.2,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1.2,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0.4,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0.8,
+					"high": 24,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 3.8,
+					"high": 28,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 11,
+					"high": 30,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 26,
+					"high": 30,
+					"low": 16
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": 32,
+					"low": 17
+				}
+			]
+		},
+		"Keetmanshoop": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.8,
+					"low": 19,
+					"precipitation": 24
+				},
+				{
+					"heading": "Feb",
+					"high": 34,
+					"low": 19.3,
+					"precipitation": 42
+				},
+				{
+					"heading": "Mar",
+					"high": 32.2,
+					"low": 17.8,
+					"precipitation": 36
+				},
+				{
+					"heading": "Apr",
+					"high": 28.8,
+					"low": 14.4,
+					"precipitation": 15
+				},
+				{
+					"heading": "May",
+					"high": 25,
+					"low": 10.4,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jun",
+					"high": 21.7,
+					"low": 7,
+					"precipitation": 2
+				},
+				{
+					"heading": "Jul",
+					"high": 21.3,
+					"low": 6.4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 23.5,
+					"low": 7.5,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 27.2,
+					"low": 10.7,
+					"precipitation": 3
+				},
+				{
+					"heading": "Oct",
+					"high": 30.1,
+					"low": 13.7,
+					"precipitation": 6
+				},
+				{
+					"heading": "Nov",
+					"high": 32.4,
+					"low": 15.7,
+					"precipitation": 11
+				},
+				{
+					"heading": "Dec",
+					"high": 34.5,
+					"low": 17.6,
+					"precipitation": 13
+				}
+			]
+		},
+		"Lüderitz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 21.4,
+					"low": 14,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 21.3,
+					"low": 14.3,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 21.1,
+					"low": 13.8,
+					"precipitation": 2
+				},
+				{
+					"heading": "Apr",
+					"high": 19.9,
+					"low": 12.6,
+					"precipitation": 2
+				},
+				{
+					"heading": "May",
+					"high": 19.2,
+					"low": 11.7,
+					"precipitation": 3
+				},
+				{
+					"heading": "Jun",
+					"high": 19,
+					"low": 11.2,
+					"precipitation": 3
+				},
+				{
+					"heading": "Jul",
+					"high": 17.9,
+					"low": 10.4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 17.2,
+					"low": 10.2,
+					"precipitation": 2
+				},
+				{
+					"heading": "Sep",
+					"high": 17.3,
+					"low": 10.5,
+					"precipitation": 1
+				},
+				{
+					"heading": "Oct",
+					"high": 18,
+					"low": 11.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Nov",
+					"high": 19.2,
+					"low": 12.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 20.5,
+					"low": 13.5,
+					"precipitation": 0
+				}
+			]
+		},
+		"Swakopmund": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 2,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 3,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 6,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 2,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 21,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 1,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1,
+					"high": 22,
+					"low": 15
+				}
+			]
+		},
+		"Etosha National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.3,
+					"low": 18.4,
+					"precipitation": 129.5
+				},
+				{
+					"heading": "Feb",
+					"high": 33.5,
+					"low": 19.5,
+					"precipitation": 74.9
+				},
+				{
+					"heading": "Mar",
+					"high": 31.7,
+					"low": 18,
+					"precipitation": 78.2
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 16.5,
+					"precipitation": 28.8
+				},
+				{
+					"heading": "May",
+					"high": 29.5,
+					"low": 13.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jun",
+					"high": 27.4,
+					"low": 10.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 27.2,
+					"low": 9.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 12.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 35,
+					"low": 15.8,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Oct",
+					"high": 37.2,
+					"low": 18,
+					"precipitation": 2.1
+				},
+				{
+					"heading": "Nov",
+					"high": 35.5,
+					"low": 18.3,
+					"precipitation": 25.2
+				},
+				{
+					"heading": "Dec",
+					"high": 34.4,
+					"low": 18.8,
+					"precipitation": 79
+				}
+			]
+		},
+		"Sossusvlei": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 33.2,
+					"low": 17.2,
+					"precipitation": 14.9
+				},
+				{
+					"heading": "Feb",
+					"high": 34.5,
+					"low": 19.1,
+					"precipitation": 16.1
+				},
+				{
+					"heading": "Mar",
+					"high": 34.2,
+					"low": 20.2,
+					"precipitation": 39.6
+				},
+				{
+					"heading": "Apr",
+					"high": 31.4,
+					"low": 15.3,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "May",
+					"high": 29.1,
+					"low": 12.3,
+					"precipitation": 13.2
+				},
+				{
+					"heading": "Jun",
+					"high": 25.7,
+					"low": 7.9,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Jul",
+					"high": 25.3,
+					"low": 8.4,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Aug",
+					"high": 28.1,
+					"low": 8.6,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Sep",
+					"high": 30.7,
+					"low": 12,
+					"precipitation": 2.6
+				},
+				{
+					"heading": "Oct",
+					"high": 32.9,
+					"low": 13.6,
+					"precipitation": 1.4
+				},
+				{
+					"heading": "Nov",
+					"high": 33.5,
+					"low": 15.5,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Dec",
+					"high": 34.1,
+					"low": 15.8,
+					"precipitation": 4.1
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Libreville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.5,
+					"low": 24.1,
+					"precipitation": 250.3
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 24,
+					"precipitation": 243.1
+				},
+				{
+					"heading": "Mar",
+					"high": 30.2,
+					"low": 23.9,
+					"precipitation": 363.2
+				},
+				{
+					"heading": "Apr",
+					"high": 30.1,
+					"low": 23.1,
+					"precipitation": 339
+				},
+				{
+					"heading": "May",
+					"high": 29.4,
+					"low": 24,
+					"precipitation": 247.3
+				},
+				{
+					"heading": "Jun",
+					"high": 27.6,
+					"low": 23.2,
+					"precipitation": 54.1
+				},
+				{
+					"heading": "Jul",
+					"high": 26.4,
+					"low": 22.1,
+					"precipitation": 6.6
+				},
+				{
+					"heading": "Aug",
+					"high": 26.8,
+					"low": 21.8,
+					"precipitation": 13.7
+				},
+				{
+					"heading": "Sep",
+					"high": 27.5,
+					"low": 23.2,
+					"precipitation": 104
+				},
+				{
+					"heading": "Oct",
+					"high": 28,
+					"low": 23.4,
+					"precipitation": 427.2
+				},
+				{
+					"heading": "Nov",
+					"high": 28.4,
+					"low": 23.4,
+					"precipitation": 490
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 23.4,
+					"precipitation": 303.2
+				}
+			]
+		}
+	}
+}

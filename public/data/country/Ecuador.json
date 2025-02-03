@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Quito": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 65,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 104,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 123,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 150,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 98,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 41,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 22,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 28,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 60,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 119,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 88,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 76,
+					"high": 19,
+					"low": 10
+				}
+			]
+		},
+		"Baños": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 99,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 111,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 137,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 154,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 159,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 207,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 173,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 149,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 135,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 105,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 80,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 88,
+					"high": 23,
+					"low": 13
+				}
+			]
+		},
+		"Cuenca (Ecuador)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.4,
+					"low": 10.9,
+					"precipitation": 67
+				},
+				{
+					"heading": "Feb",
+					"high": 22.4,
+					"low": 11.1,
+					"precipitation": 85
+				},
+				{
+					"heading": "Mar",
+					"high": 21.9,
+					"low": 11.2,
+					"precipitation": 107
+				},
+				{
+					"heading": "Apr",
+					"high": 21.7,
+					"low": 10.9,
+					"precipitation": 109
+				},
+				{
+					"heading": "May",
+					"high": 21.4,
+					"low": 10.6,
+					"precipitation": 77
+				},
+				{
+					"heading": "Jun",
+					"high": 20.4,
+					"low": 9.8,
+					"precipitation": 68
+				},
+				{
+					"heading": "Jul",
+					"high": 19.9,
+					"low": 9.4,
+					"precipitation": 53
+				},
+				{
+					"heading": "Aug",
+					"high": 20.4,
+					"low": 9.1,
+					"precipitation": 47
+				},
+				{
+					"heading": "Sep",
+					"high": 21.3,
+					"low": 9.5,
+					"precipitation": 56
+				},
+				{
+					"heading": "Oct",
+					"high": 22.3,
+					"low": 10.1,
+					"precipitation": 73
+				},
+				{
+					"heading": "Nov",
+					"high": 23.1,
+					"low": 10.2,
+					"precipitation": 69
+				},
+				{
+					"heading": "Dec",
+					"high": 23.1,
+					"low": 10.6,
+					"precipitation": 67
+				}
+			]
+		},
+		"Guayaquil": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.2,
+					"low": 23,
+					"precipitation": 200.7
+				},
+				{
+					"heading": "Feb",
+					"high": 31.2,
+					"low": 23.4,
+					"precipitation": 332
+				},
+				{
+					"heading": "Mar",
+					"high": 32.2,
+					"low": 23.7,
+					"precipitation": 315.7
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 23.5,
+					"precipitation": 207.7
+				},
+				{
+					"heading": "May",
+					"high": 31.2,
+					"low": 22.6,
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Jun",
+					"high": 29.8,
+					"low": 21.5,
+					"precipitation": 34
+				},
+				{
+					"heading": "Jul",
+					"high": 29.1,
+					"low": 20.8,
+					"precipitation": 15.6
+				},
+				{
+					"heading": "Aug",
+					"high": 29.7,
+					"low": 20.7,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Sep",
+					"high": 30.5,
+					"low": 20.5,
+					"precipitation": 1.5
+				},
+				{
+					"heading": "Oct",
+					"high": 30.2,
+					"low": 20.9,
+					"precipitation": 5.6
+				},
+				{
+					"heading": "Nov",
+					"high": 31.1,
+					"low": 21.3,
+					"precipitation": 29.1
+				},
+				{
+					"heading": "Dec",
+					"high": 31.8,
+					"low": 22.4,
+					"precipitation": 68
+				}
+			]
+		},
+		"Esmeraldas": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 24,
+					"precipitation": 89
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 24,
+					"precipitation": 89
+				},
+				{
+					"heading": "Mar",
+					"high": 28,
+					"low": 24,
+					"precipitation": 140
+				},
+				{
+					"heading": "Apr",
+					"high": 28,
+					"low": 24,
+					"precipitation": 74
+				},
+				{
+					"heading": "May",
+					"high": 28,
+					"low": 24,
+					"precipitation": 53
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 24,
+					"precipitation": 33
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 23,
+					"precipitation": 20
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 23,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 23,
+					"precipitation": 15
+				},
+				{
+					"heading": "Oct",
+					"high": 28,
+					"low": 24,
+					"precipitation": 10
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 24,
+					"precipitation": 10
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 24,
+					"precipitation": 23
+				}
+			]
+		},
+		"Salinas (Ecuador)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 23.1,
+					"precipitation": 16
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 23.9,
+					"precipitation": 41
+				},
+				{
+					"heading": "Mar",
+					"high": 29.4,
+					"low": 23.7,
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"high": 28.6,
+					"low": 22.9,
+					"precipitation": 16
+				},
+				{
+					"heading": "May",
+					"high": 27,
+					"low": 22.3,
+					"precipitation": 2
+				},
+				{
+					"heading": "Jun",
+					"high": 25.4,
+					"low": 21.4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 24.3,
+					"low": 20.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 24.1,
+					"low": 19.9,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 20,
+					"precipitation": 1
+				},
+				{
+					"heading": "Oct",
+					"high": 24.3,
+					"low": 20.5,
+					"precipitation": 1
+				},
+				{
+					"heading": "Nov",
+					"high": 24.9,
+					"low": 21.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 26.5,
+					"low": 21.8,
+					"precipitation": 1
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,701 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/reel/DFMpYRVxqaQ/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/DELxnoOu-_E",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Buenos Aires": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 119,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 118,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 134,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 97,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 74,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 63,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 66,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 70,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 73,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 119,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 109,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 105,
+					"high": 28,
+					"low": 18
+				}
+			]
+		},
+		"Córdoba (city, Argentina)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 122,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 100,
+					"high": 30,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 110,
+					"high": 28,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 52,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 19,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 13,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 9.7,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 34,
+					"high": 23,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 66,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 97,
+					"high": 28,
+					"low": 15
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 137,
+					"high": 30,
+					"low": 17
+				}
+			]
+		},
+		"Rosario": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 105,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 116,
+					"high": 30,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 165,
+					"high": 27,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 80,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 47,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 37,
+					"high": 17,
+					"low": 5
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 37,
+					"high": 16,
+					"low": 5
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 37,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 62,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 92,
+					"high": 24,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 98,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 120,
+					"high": 30,
+					"low": 16
+				}
+			]
+		},
+		"Mendoza": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 36,
+					"high": 32,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 34,
+					"high": 31,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 27,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 13,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 5.9,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 4.1,
+					"high": 16,
+					"low": 2
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6.7,
+					"high": 15,
+					"low": 2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 3.3,
+					"high": 19,
+					"low": 4
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 7.8,
+					"high": 21,
+					"low": 6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 11,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 16,
+					"high": 29,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 24,
+					"high": 32,
+					"low": 17
+				}
+			]
+		},
+		"La Plata": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 97,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 103,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 118,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 74,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 74,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 55,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 58,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 74,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 111,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 93,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 85,
+					"high": 27,
+					"low": 16
+				}
+			]
+		},
+		"Salta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 182,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 163,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 118,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 37,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 8.6,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 2.6,
+					"high": 19,
+					"low": 4
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3.5,
+					"high": 20,
+					"low": 3
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 4.2,
+					"high": 22,
+					"low": 5
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 6.6,
+					"high": 24,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 26,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 65,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 138,
+					"high": 28,
+					"low": 16
+				}
+			]
+		},
+		"San Juan (city, Argentina)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.9,
+					"low": 19.5,
+					"precipitation": 15.7
+				},
+				{
+					"heading": "Feb",
+					"high": 33.4,
+					"low": 18.2,
+					"precipitation": 18.9
+				},
+				{
+					"heading": "Mar",
+					"high": 30.3,
+					"low": 16.2,
+					"precipitation": 11.2
+				},
+				{
+					"heading": "Apr",
+					"high": 25.2,
+					"low": 10.7,
+					"precipitation": 4.4
+				},
+				{
+					"heading": "May",
+					"high": 20.5,
+					"low": 5.8,
+					"precipitation": 4.4
+				},
+				{
+					"heading": "Jun",
+					"high": 16.9,
+					"low": 1.5,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "Jul",
+					"high": 16.5,
+					"low": 0.7,
+					"precipitation": 3.5
+				},
+				{
+					"heading": "Aug",
+					"high": 19.9,
+					"low": 2.9,
+					"precipitation": 3.2
+				},
+				{
+					"heading": "Sep",
+					"high": 23.2,
+					"low": 6.5,
+					"precipitation": 5.6
+				},
+				{
+					"heading": "Oct",
+					"high": 28.1,
+					"low": 11.4,
+					"precipitation": 3.6
+				},
+				{
+					"heading": "Nov",
+					"high": 31.6,
+					"low": 14.8,
+					"precipitation": 7
+				},
+				{
+					"heading": "Dec",
+					"high": 34.2,
+					"low": 18,
+					"precipitation": 11.6
+				}
+			]
+		},
+		"San Carlos de Bariloche": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 22,
+					"high": 22,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 22,
+					"high": 22,
+					"low": 6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 29,
+					"high": 19,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 54,
+					"high": 15,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 134,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 141,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 129,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 116,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 58,
+					"high": 11,
+					"low": null
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 39,
+					"high": 14,
+					"low": 1
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 25,
+					"high": 17,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 32,
+					"high": 20,
+					"low": 5
+				}
+			]
+		},
+		"El Calafate": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 13,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 7.8,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 14,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 25,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 31,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 21,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 26,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 21,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 16,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 12,
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 9.1,
+					"high": 16,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 14,
+					"high": 18,
+					"low": 7
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,918 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Wellington": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 78,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 77,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 86,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 98,
+					"high": 17,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 120,
+					"high": 14,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 131,
+					"high": 12,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 136,
+					"high": 11,
+					"low": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 124,
+					"high": 12,
+					"low": 6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 100,
+					"high": 13,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 111,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 88,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 94,
+					"high": 19,
+					"low": 12
+				}
+			]
+		},
+		"Auckland": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 73,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 66,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 87,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 99,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 113,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 126,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 145,
+					"high": 15,
+					"low": 7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 118,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 105,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 100,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 86,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 93,
+					"high": 22,
+					"low": 14
+				}
+			]
+		},
+		"Christchurch": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 44,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 44,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 53,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 53,
+					"high": 17,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 63,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 58,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 62,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 58,
+					"high": 12,
+					"low": 2
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 42,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 48,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 48,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 50,
+					"high": 21,
+					"low": 11
+				}
+			]
+		},
+		"Dunedin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18.9,
+					"low": 11.6,
+					"precipitation": 72.9
+				},
+				{
+					"heading": "Feb",
+					"high": 18.6,
+					"low": 11.5,
+					"precipitation": 67.8
+				},
+				{
+					"heading": "Mar",
+					"high": 17.3,
+					"low": 10.2,
+					"precipitation": 64
+				},
+				{
+					"heading": "Apr",
+					"high": 15.3,
+					"low": 8.2,
+					"precipitation": 50.9
+				},
+				{
+					"heading": "May",
+					"high": 12.7,
+					"low": 5.9,
+					"precipitation": 64.7
+				},
+				{
+					"heading": "Jun",
+					"high": 10.6,
+					"low": 4,
+					"precipitation": 57.9
+				},
+				{
+					"heading": "Jul",
+					"high": 10,
+					"low": 3.1,
+					"precipitation": 57.1
+				},
+				{
+					"heading": "Aug",
+					"high": 11.2,
+					"low": 4.2,
+					"precipitation": 55.7
+				},
+				{
+					"heading": "Sep",
+					"high": 13.2,
+					"low": 5.9,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Oct",
+					"high": 14.7,
+					"low": 7.2,
+					"precipitation": 61.7
+				},
+				{
+					"heading": "Nov",
+					"high": 16.1,
+					"low": 8.6,
+					"precipitation": 56.4
+				},
+				{
+					"heading": "Dec",
+					"high": 17.3,
+					"low": 10.4,
+					"precipitation": 80.2
+				}
+			]
+		},
+		"Hamilton (New Zealand)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 23.9,
+					"low": 12.9,
+					"precipitation": 76.3
+				},
+				{
+					"heading": "Feb",
+					"high": 24.3,
+					"low": 13.2,
+					"precipitation": 68.7
+				},
+				{
+					"heading": "Mar",
+					"high": 22.7,
+					"low": 11.4,
+					"precipitation": 79.4
+				},
+				{
+					"heading": "Apr",
+					"high": 19.9,
+					"low": 9.1,
+					"precipitation": 80.3
+				},
+				{
+					"heading": "May",
+					"high": 16.9,
+					"low": 6.9,
+					"precipitation": 99.7
+				},
+				{
+					"heading": "Jun",
+					"high": 14.3,
+					"low": 4.7,
+					"precipitation": 113.2
+				},
+				{
+					"heading": "Jul",
+					"high": 13.8,
+					"low": 4,
+					"precipitation": 118.2
+				},
+				{
+					"heading": "Aug",
+					"high": 14.7,
+					"low": 4.9,
+					"precipitation": 103.4
+				},
+				{
+					"heading": "Sep",
+					"high": 16.5,
+					"low": 6.7,
+					"precipitation": 91.5
+				},
+				{
+					"heading": "Oct",
+					"high": 17.9,
+					"low": 8.4,
+					"precipitation": 91.9
+				},
+				{
+					"heading": "Nov",
+					"high": 19.8,
+					"low": 9.9,
+					"precipitation": 85
+				},
+				{
+					"heading": "Dec",
+					"high": 21.9,
+					"low": 11.9,
+					"precipitation": 100.7
+				}
+			]
+		},
+		"Napier": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.5,
+					"low": 14.6,
+					"precipitation": 46.8
+				},
+				{
+					"heading": "Feb",
+					"high": 24.2,
+					"low": 14.6,
+					"precipitation": 54.3
+				},
+				{
+					"heading": "Mar",
+					"high": 22.7,
+					"low": 12.7,
+					"precipitation": 66.8
+				},
+				{
+					"heading": "Apr",
+					"high": 19.9,
+					"low": 10.3,
+					"precipitation": 67.9
+				},
+				{
+					"heading": "May",
+					"high": 17.4,
+					"low": 8.5,
+					"precipitation": 74.8
+				},
+				{
+					"heading": "Jun",
+					"high": 15,
+					"low": 6.8,
+					"precipitation": 82.1
+				},
+				{
+					"heading": "Jul",
+					"high": 14.1,
+					"low": 5.6,
+					"precipitation": 108.3
+				},
+				{
+					"heading": "Aug",
+					"high": 15.1,
+					"low": 6.4,
+					"precipitation": 60.1
+				},
+				{
+					"heading": "Sep",
+					"high": 17.3,
+					"low": 8.1,
+					"precipitation": 57.9
+				},
+				{
+					"heading": "Oct",
+					"high": 19.2,
+					"low": 9.6,
+					"precipitation": 59.9
+				},
+				{
+					"heading": "Nov",
+					"high": 20.9,
+					"low": 10.9,
+					"precipitation": 52.4
+				},
+				{
+					"heading": "Dec",
+					"high": 23.2,
+					"low": 13,
+					"precipitation": 53.5
+				}
+			]
+		},
+		"Nelson (New Zealand)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.4,
+					"low": 13.2,
+					"precipitation": 76.5
+				},
+				{
+					"heading": "Feb",
+					"high": 22.6,
+					"low": 13.3,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Mar",
+					"high": 21,
+					"low": 11.3,
+					"precipitation": 70.8
+				},
+				{
+					"heading": "Apr",
+					"high": 18.1,
+					"low": 8.3,
+					"precipitation": 80.9
+				},
+				{
+					"heading": "May",
+					"high": 15.6,
+					"low": 5.5,
+					"precipitation": 82
+				},
+				{
+					"heading": "Jun",
+					"high": 13.1,
+					"low": 2.7,
+					"precipitation": 92.7
+				},
+				{
+					"heading": "Jul",
+					"high": 12.5,
+					"low": 1.9,
+					"precipitation": 77.6
+				},
+				{
+					"heading": "Aug",
+					"high": 13.4,
+					"low": 3.4,
+					"precipitation": 81.9
+				},
+				{
+					"heading": "Sep",
+					"high": 15,
+					"low": 5.7,
+					"precipitation": 85.1
+				},
+				{
+					"heading": "Oct",
+					"high": 16.9,
+					"low": 7.8,
+					"precipitation": 87.2
+				},
+				{
+					"heading": "Nov",
+					"high": 18.9,
+					"low": 9.8,
+					"precipitation": 78.3
+				},
+				{
+					"heading": "Dec",
+					"high": 20.7,
+					"low": 12,
+					"precipitation": 83.6
+				}
+			]
+		},
+		"Queenstown (New Zealand)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 65,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 53,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 56,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 68,
+					"high": 12,
+					"low": 2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 72,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 50,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 10,
+					"low": 0
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 62,
+					"high": 13,
+					"low": 2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 66,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 64,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 75,
+					"high": 20,
+					"low": 8
+				}
+			]
+		},
+		"Rotorua": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.8,
+					"low": 12.6,
+					"precipitation": 92.7
+				},
+				{
+					"heading": "Feb",
+					"high": 22.9,
+					"low": 13,
+					"precipitation": 93.9
+				},
+				{
+					"heading": "Mar",
+					"high": 20.9,
+					"low": 11.1,
+					"precipitation": 99.2
+				},
+				{
+					"heading": "Apr",
+					"high": 18,
+					"low": 8.5,
+					"precipitation": 107.2
+				},
+				{
+					"heading": "May",
+					"high": 15.1,
+					"low": 6.3,
+					"precipitation": 116.9
+				},
+				{
+					"heading": "Jun",
+					"high": 12.6,
+					"low": 4.3,
+					"precipitation": 136.1
+				},
+				{
+					"heading": "Jul",
+					"high": 12,
+					"low": 3.5,
+					"precipitation": 134.5
+				},
+				{
+					"heading": "Aug",
+					"high": 12.8,
+					"low": 4.1,
+					"precipitation": 131.4
+				},
+				{
+					"heading": "Sep",
+					"high": 14.6,
+					"low": 5.8,
+					"precipitation": 109.3
+				},
+				{
+					"heading": "Oct",
+					"high": 16.4,
+					"low": 7.6,
+					"precipitation": 112.3
+				},
+				{
+					"heading": "Nov",
+					"high": 18.6,
+					"low": 9.2,
+					"precipitation": 93.8
+				},
+				{
+					"heading": "Dec",
+					"high": 20.8,
+					"low": 11.5,
+					"precipitation": 114.2
+				}
+			]
+		},
+		"Aoraki Mount Cook National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20.5,
+					"low": 9,
+					"precipitation": 457.5
+				},
+				{
+					"heading": "Feb",
+					"high": 20.7,
+					"low": 8.8,
+					"precipitation": 278.4
+				},
+				{
+					"heading": "Mar",
+					"high": 17.9,
+					"low": 6.8,
+					"precipitation": 417.9
+				},
+				{
+					"heading": "Apr",
+					"high": 14.5,
+					"low": 4,
+					"precipitation": 363
+				},
+				{
+					"heading": "May",
+					"high": 11,
+					"low": 1.5,
+					"precipitation": 357.1
+				},
+				{
+					"heading": "Jun",
+					"high": 7.6,
+					"low": -1,
+					"precipitation": 314.5
+				},
+				{
+					"heading": "Jul",
+					"high": 6.5,
+					"low": -2.2,
+					"precipitation": 305.2
+				},
+				{
+					"heading": "Aug",
+					"high": 8.6,
+					"low": -0.8,
+					"precipitation": 313.4
+				},
+				{
+					"heading": "Sep",
+					"high": 11.9,
+					"low": 1.5,
+					"precipitation": 297.4
+				},
+				{
+					"heading": "Oct",
+					"high": 14.2,
+					"low": 3.6,
+					"precipitation": 478.9
+				},
+				{
+					"heading": "Nov",
+					"high": 16.5,
+					"low": 5.4,
+					"precipitation": 414.2
+				},
+				{
+					"heading": "Dec",
+					"high": 18.2,
+					"low": 7.3,
+					"precipitation": 487.2
+				}
+			]
+		},
+		"Milford Sound": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 635,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 500,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 600,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 550,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 565,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 425,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 395,
+					"high": 9,
+					"low": 2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 430,
+					"high": 11,
+					"low": 2
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 540,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 630,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 565,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 595,
+					"high": 18,
+					"low": 10
+				}
+			]
+		},
+		"Taupo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 77,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 68,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 66,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 68,
+					"high": 17,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 75,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 93,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 96,
+					"high": 11,
+					"low": 2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 87,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 82,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 86,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 68,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 94,
+					"high": 21,
+					"low": 10
+				}
+			]
+		}
+	}
+}

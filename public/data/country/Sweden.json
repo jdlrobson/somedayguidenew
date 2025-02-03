@@ -1,0 +1,690 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Stockholm": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 39,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 27,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 26,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 30,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 30,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 45,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 72,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 55,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 50,
+					"high": 10,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 5,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 46,
+					"high": 1,
+					"low": null
+				}
+			]
+		},
+		"Gothenburg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -3,
+					"precipitation": 84.2
+				},
+				{
+					"heading": "Feb",
+					"high": 2.2,
+					"low": -3.2,
+					"precipitation": 57.1
+				},
+				{
+					"heading": "Mar",
+					"high": 5.2,
+					"low": -1.4,
+					"precipitation": 58.5
+				},
+				{
+					"heading": "Apr",
+					"high": 10.6,
+					"low": 2,
+					"precipitation": 48.6
+				},
+				{
+					"heading": "May",
+					"high": 16,
+					"low": 6.4,
+					"precipitation": 54
+				},
+				{
+					"heading": "Jun",
+					"high": 18.6,
+					"low": 10.1,
+					"precipitation": 73.1
+				},
+				{
+					"heading": "Jul",
+					"high": 21.1,
+					"low": 12.6,
+					"precipitation": 75.2
+				},
+				{
+					"heading": "Aug",
+					"high": 20.4,
+					"low": 12.3,
+					"precipitation": 83.7
+				},
+				{
+					"heading": "Sep",
+					"high": 16.4,
+					"low": 8.8,
+					"precipitation": 73.2
+				},
+				{
+					"heading": "Oct",
+					"high": 11.5,
+					"low": 5.1,
+					"precipitation": 95.9
+				},
+				{
+					"heading": "Nov",
+					"high": 6.4,
+					"low": 1.2,
+					"precipitation": 84.8
+				},
+				{
+					"heading": "Dec",
+					"high": 3.2,
+					"low": -2,
+					"precipitation": 86.5
+				}
+			]
+		},
+		"Linköping": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.5,
+					"low": -4.9,
+					"precipitation": 35.4
+				},
+				{
+					"heading": "Feb",
+					"high": 0.7,
+					"low": -5.1,
+					"precipitation": 23.8
+				},
+				{
+					"heading": "Mar",
+					"high": 5.2,
+					"low": -3.2,
+					"precipitation": 28.5
+				},
+				{
+					"heading": "Apr",
+					"high": 11.8,
+					"low": 0.6,
+					"precipitation": 31
+				},
+				{
+					"heading": "May",
+					"high": 16.4,
+					"low": 5.2,
+					"precipitation": 37.5
+				},
+				{
+					"heading": "Jun",
+					"high": 20,
+					"low": 8.7,
+					"precipitation": 44.5
+				},
+				{
+					"heading": "Jul",
+					"high": 22.6,
+					"low": 12,
+					"precipitation": 65.7
+				},
+				{
+					"heading": "Aug",
+					"high": 21.3,
+					"low": 11.2,
+					"precipitation": 61.1
+				},
+				{
+					"heading": "Sep",
+					"high": 16.9,
+					"low": 7.5,
+					"precipitation": 58.8
+				},
+				{
+					"heading": "Oct",
+					"high": 10.3,
+					"low": 3.1,
+					"precipitation": 44.3
+				},
+				{
+					"heading": "Nov",
+					"high": 5.5,
+					"low": 0.4,
+					"precipitation": 46
+				},
+				{
+					"heading": "Dec",
+					"high": 2.2,
+					"low": -3.2,
+					"precipitation": 39.3
+				}
+			]
+		},
+		"Lund": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.6,
+					"low": -1.7,
+					"precipitation": 56.4
+				},
+				{
+					"heading": "Feb",
+					"high": 3,
+					"low": -1.6,
+					"precipitation": 41.3
+				},
+				{
+					"heading": "Mar",
+					"high": 7,
+					"low": -0.2,
+					"precipitation": 36.3
+				},
+				{
+					"heading": "Apr",
+					"high": 13.2,
+					"low": 3.7,
+					"precipitation": 30
+				},
+				{
+					"heading": "May",
+					"high": 18.2,
+					"low": 8.1,
+					"precipitation": 41.3
+				},
+				{
+					"heading": "Jun",
+					"high": 20.9,
+					"low": 11.5,
+					"precipitation": 66.2
+				},
+				{
+					"heading": "Jul",
+					"high": 23.8,
+					"low": 14,
+					"precipitation": 69.2
+				},
+				{
+					"heading": "Aug",
+					"high": 22.8,
+					"low": 13.9,
+					"precipitation": 91.6
+				},
+				{
+					"heading": "Sep",
+					"high": 18.9,
+					"low": 10.7,
+					"precipitation": 44.8
+				},
+				{
+					"heading": "Oct",
+					"high": 12.6,
+					"low": 6.2,
+					"precipitation": 71.2
+				},
+				{
+					"heading": "Nov",
+					"high": 7.8,
+					"low": 3.3,
+					"precipitation": 65
+				},
+				{
+					"heading": "Dec",
+					"high": 4.5,
+					"low": 0.4,
+					"precipitation": 69.7
+				}
+			]
+		},
+		"Malmö": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.9,
+					"low": -1.4,
+					"precipitation": 58
+				},
+				{
+					"heading": "Feb",
+					"high": 3,
+					"low": -1.5,
+					"precipitation": 39.7
+				},
+				{
+					"heading": "Mar",
+					"high": 6.7,
+					"low": 0,
+					"precipitation": 38.5
+				},
+				{
+					"heading": "Apr",
+					"high": 12.6,
+					"low": 3.4,
+					"precipitation": 30
+				},
+				{
+					"heading": "May",
+					"high": 17.6,
+					"low": 7.7,
+					"precipitation": 39.9
+				},
+				{
+					"heading": "Jun",
+					"high": 20.5,
+					"low": 11.2,
+					"precipitation": 67.3
+				},
+				{
+					"heading": "Jul",
+					"high": 23.2,
+					"low": 13.8,
+					"precipitation": 71.1
+				},
+				{
+					"heading": "Aug",
+					"high": 22.3,
+					"low": 13.7,
+					"precipitation": 86.3
+				},
+				{
+					"heading": "Sep",
+					"high": 18.6,
+					"low": 10.7,
+					"precipitation": 42.3
+				},
+				{
+					"heading": "Oct",
+					"high": 12.6,
+					"low": 6.4,
+					"precipitation": 66.7
+				},
+				{
+					"heading": "Nov",
+					"high": 8,
+					"low": 3.6,
+					"precipitation": 64.2
+				},
+				{
+					"heading": "Dec",
+					"high": 4.8,
+					"low": 0.7,
+					"precipitation": 69.4
+				}
+			]
+		},
+		"Umeå": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -3.2,
+					"low": -11.1,
+					"precipitation": 37.3
+				},
+				{
+					"heading": "Feb",
+					"high": -2.6,
+					"low": -11.1,
+					"precipitation": 29.8
+				},
+				{
+					"heading": "Mar",
+					"high": 1.8,
+					"low": -7.7,
+					"precipitation": 27.7
+				},
+				{
+					"heading": "Apr",
+					"high": 7.2,
+					"low": -2.4,
+					"precipitation": 28.7
+				},
+				{
+					"heading": "May",
+					"high": 13.6,
+					"low": 2.5,
+					"precipitation": 45
+				},
+				{
+					"heading": "Jun",
+					"high": 18,
+					"low": 7,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Jul",
+					"high": 21.4,
+					"low": 10.9,
+					"precipitation": 76.2
+				},
+				{
+					"heading": "Aug",
+					"high": 19.8,
+					"low": 9.7,
+					"precipitation": 71.1
+				},
+				{
+					"heading": "Sep",
+					"high": 14.9,
+					"low": 5.2,
+					"precipitation": 38.9
+				},
+				{
+					"heading": "Oct",
+					"high": 7.4,
+					"low": -0.2,
+					"precipitation": 51.9
+				},
+				{
+					"heading": "Nov",
+					"high": 2.3,
+					"low": -4,
+					"precipitation": 52.3
+				},
+				{
+					"heading": "Dec",
+					"high": -0.6,
+					"low": -8.1,
+					"precipitation": 44.4
+				}
+			]
+		},
+		"Uppsala": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 38,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 32,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 28,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 33,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 41,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 64,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 56,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 75,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 48,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 50,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 45,
+					"high": 1,
+					"low": null
+				}
+			]
+		},
+		"Visby": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 47,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 28,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 23,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 22,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 27,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 41,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 64,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 60,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 39,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 56,
+					"high": 11,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 61,
+					"high": 7,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 56,
+					"high": 4,
+					"low": 0
+				}
+			]
+		},
+		"Öland": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.2,
+					"low": -0.8,
+					"precipitation": 33
+				},
+				{
+					"heading": "Feb",
+					"high": 1.8,
+					"low": -1.1,
+					"precipitation": 24
+				},
+				{
+					"heading": "Mar",
+					"high": 3.8,
+					"low": 0.1,
+					"precipitation": 25
+				},
+				{
+					"heading": "Apr",
+					"high": 7.5,
+					"low": 3,
+					"precipitation": 24
+				},
+				{
+					"heading": "May",
+					"high": 12,
+					"low": 7.5,
+					"precipitation": 27
+				},
+				{
+					"heading": "Jun",
+					"high": 15.7,
+					"low": 11.6,
+					"precipitation": 30
+				},
+				{
+					"heading": "Jul",
+					"high": 19.4,
+					"low": 14.9,
+					"precipitation": 41
+				},
+				{
+					"heading": "Aug",
+					"high": 19.8,
+					"low": 15.2,
+					"precipitation": 39
+				},
+				{
+					"heading": "Sep",
+					"high": 16,
+					"low": 11.7,
+					"precipitation": 41
+				},
+				{
+					"heading": "Oct",
+					"high": 11.1,
+					"low": 7.4,
+					"precipitation": 35
+				},
+				{
+					"heading": "Nov",
+					"high": 7.4,
+					"low": 4.4,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": 4.3,
+					"low": 0.8,
+					"precipitation": 37
+				}
+			]
+		}
+	}
+}

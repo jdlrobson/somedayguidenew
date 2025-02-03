@@ -1,0 +1,538 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Havana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 64,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 69,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 46,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 54,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 90,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 182,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 106,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 100,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 144,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 181,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 88,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 58,
+					"high": 27,
+					"low": 20
+				}
+			]
+		},
+		"Camagüey": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.2,
+					"low": 17.2,
+					"precipitation": 38.1
+				},
+				{
+					"heading": "Feb",
+					"high": 28.3,
+					"low": 17.8,
+					"precipitation": 35.6
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 18.9,
+					"precipitation": 61
+				},
+				{
+					"heading": "Apr",
+					"high": 31.7,
+					"low": 20,
+					"precipitation": 91.4
+				},
+				{
+					"heading": "May",
+					"high": 31.7,
+					"low": 21.1,
+					"precipitation": 193
+				},
+				{
+					"heading": "Jun",
+					"high": 31.7,
+					"low": 21.7,
+					"precipitation": 266.7
+				},
+				{
+					"heading": "Jul",
+					"high": 32.8,
+					"low": 22.2,
+					"precipitation": 142.2
+				},
+				{
+					"heading": "Aug",
+					"high": 32.8,
+					"low": 22.2,
+					"precipitation": 139.7
+				},
+				{
+					"heading": "Sep",
+					"high": 32.2,
+					"low": 21.7,
+					"precipitation": 185.4
+				},
+				{
+					"heading": "Oct",
+					"high": 30.6,
+					"low": 21.1,
+					"precipitation": 137.2
+				},
+				{
+					"heading": "Nov",
+					"high": 28.9,
+					"low": 19.4,
+					"precipitation": 78.7
+				},
+				{
+					"heading": "Dec",
+					"high": 27.8,
+					"low": 17.8,
+					"precipitation": 50.8
+				}
+			]
+		},
+		"Cienfuegos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.2,
+					"low": 17.2,
+					"precipitation": 18
+				},
+				{
+					"heading": "Feb",
+					"high": 27.8,
+					"low": 16.7,
+					"precipitation": 25
+				},
+				{
+					"heading": "Mar",
+					"high": 28.9,
+					"low": 17.8,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 29.4,
+					"low": 19.4,
+					"precipitation": 46
+				},
+				{
+					"heading": "May",
+					"high": 30.6,
+					"low": 20.6,
+					"precipitation": 119
+				},
+				{
+					"heading": "Jun",
+					"high": 31.7,
+					"low": 21.7,
+					"precipitation": 152
+				},
+				{
+					"heading": "Jul",
+					"high": 32.2,
+					"low": 22.2,
+					"precipitation": 122
+				},
+				{
+					"heading": "Aug",
+					"high": 32.2,
+					"low": 22.2,
+					"precipitation": 160
+				},
+				{
+					"heading": "Sep",
+					"high": 31.7,
+					"low": 21.7,
+					"precipitation": 173
+				},
+				{
+					"heading": "Oct",
+					"high": 31.1,
+					"low": 21.7,
+					"precipitation": 160
+				},
+				{
+					"heading": "Nov",
+					"high": 28.3,
+					"low": 19.4,
+					"precipitation": 41
+				},
+				{
+					"heading": "Dec",
+					"high": 27.8,
+					"low": 17.8,
+					"precipitation": 23
+				}
+			]
+		},
+		"Santa Clara (Cuba)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27,
+					"low": 17,
+					"precipitation": 18
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 17,
+					"precipitation": 25
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 18,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 29,
+					"low": 19,
+					"precipitation": 46
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 21,
+					"precipitation": 120
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 22,
+					"precipitation": 150
+				},
+				{
+					"heading": "Jul",
+					"high": 32,
+					"low": 22,
+					"precipitation": 120
+				},
+				{
+					"heading": "Aug",
+					"high": 32,
+					"low": 22,
+					"precipitation": 160
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 22,
+					"precipitation": 170
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 22,
+					"precipitation": 160
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 19,
+					"precipitation": 41
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 18,
+					"precipitation": 23
+				}
+			]
+		},
+		"Santiago de Cuba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 21,
+					"precipitation": 73.7
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 21,
+					"precipitation": 43.2
+				},
+				{
+					"heading": "Mar",
+					"high": 28,
+					"low": 22,
+					"precipitation": 53.3
+				},
+				{
+					"heading": "Apr",
+					"high": 28,
+					"low": 23,
+					"precipitation": 58.4
+				},
+				{
+					"heading": "May",
+					"high": 28,
+					"low": 23,
+					"precipitation": 139.7
+				},
+				{
+					"heading": "Jun",
+					"high": 29,
+					"low": 24,
+					"precipitation": 101.6
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 25,
+					"precipitation": 68.6
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 25,
+					"precipitation": 94
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 24,
+					"precipitation": 106.7
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 24,
+					"precipitation": 193
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 23,
+					"precipitation": 94
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 22,
+					"precipitation": 81.3
+				}
+			]
+		},
+		"Trinidad (Cuba)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 22,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 46,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 38,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 110,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 294,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 282,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 224,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 223,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 192,
+					"high": 28,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 216,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 58,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 9,
+					"high": 26,
+					"low": 23
+				}
+			]
+		},
+		"Viñales": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.4,
+					"low": 16.3,
+					"precipitation": 60
+				},
+				{
+					"heading": "Feb",
+					"high": 26.2,
+					"low": 16.1,
+					"precipitation": 62
+				},
+				{
+					"heading": "Mar",
+					"high": 28.1,
+					"low": 17.6,
+					"precipitation": 56
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 19.3,
+					"precipitation": 83
+				},
+				{
+					"heading": "May",
+					"high": 30.8,
+					"low": 20.7,
+					"precipitation": 173
+				},
+				{
+					"heading": "Jun",
+					"high": 30.8,
+					"low": 21.8,
+					"precipitation": 226
+				},
+				{
+					"heading": "Jul",
+					"high": 31.7,
+					"low": 22,
+					"precipitation": 184
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 22,
+					"precipitation": 207
+				},
+				{
+					"heading": "Sep",
+					"high": 31.2,
+					"low": 21.8,
+					"precipitation": 216
+				},
+				{
+					"heading": "Oct",
+					"high": 29.9,
+					"low": 20.8,
+					"precipitation": 151
+				},
+				{
+					"heading": "Nov",
+					"high": 27.9,
+					"low": 18.4,
+					"precipitation": 72
+				},
+				{
+					"heading": "Dec",
+					"high": 26.8,
+					"low": 16.6,
+					"precipitation": 50
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Rimini": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.7,
+					"low": 0.4,
+					"precipitation": 41.8
+				},
+				{
+					"heading": "Feb",
+					"high": 9.5,
+					"low": 1.1,
+					"precipitation": 45.1
+				},
+				{
+					"heading": "Mar",
+					"high": 13.2,
+					"low": 3.7,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "Apr",
+					"high": 16.9,
+					"low": 6.9,
+					"precipitation": 52.8
+				},
+				{
+					"heading": "May",
+					"high": 21.9,
+					"low": 11.2,
+					"precipitation": 47.9
+				},
+				{
+					"heading": "Jun",
+					"high": 25.8,
+					"low": 15,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "Jul",
+					"high": 28.5,
+					"low": 17.7,
+					"precipitation": 42.8
+				},
+				{
+					"heading": "Aug",
+					"high": 28.1,
+					"low": 17.6,
+					"precipitation": 61.3
+				},
+				{
+					"heading": "Sep",
+					"high": 24.5,
+					"low": 14.4,
+					"precipitation": 70.4
+				},
+				{
+					"heading": "Oct",
+					"high": 19.2,
+					"low": 10.4,
+					"precipitation": 75.2
+				},
+				{
+					"heading": "Nov",
+					"high": 12.8,
+					"low": 5.1,
+					"precipitation": 67
+				},
+				{
+					"heading": "Dec",
+					"high": 8.9,
+					"low": 1.5,
+					"precipitation": 46.6
+				}
+			]
+		},
+		"San Marino": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7,
+					"low": 1,
+					"precipitation": 34
+				},
+				{
+					"heading": "Feb",
+					"high": 9,
+					"low": 2,
+					"precipitation": 37.6
+				},
+				{
+					"heading": "Mar",
+					"high": 14,
+					"low": 6,
+					"precipitation": 34.2
+				},
+				{
+					"heading": "Apr",
+					"high": 17,
+					"low": 9,
+					"precipitation": 51.5
+				},
+				{
+					"heading": "May",
+					"high": 23,
+					"low": 14,
+					"precipitation": 41.6
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 18,
+					"precipitation": 36
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 20,
+					"precipitation": 34.5
+				},
+				{
+					"heading": "Aug",
+					"high": 30,
+					"low": 20,
+					"precipitation": 49.2
+				},
+				{
+					"heading": "Sep",
+					"high": 25,
+					"low": 16,
+					"precipitation": 85.6
+				},
+				{
+					"heading": "Oct",
+					"high": 20,
+					"low": 12,
+					"precipitation": 69.8
+				},
+				{
+					"heading": "Nov",
+					"high": 13,
+					"low": 7,
+					"precipitation": 59.2
+				},
+				{
+					"heading": "Dec",
+					"high": 8,
+					"low": 3,
+					"precipitation": 75.4
+				}
+			]
+		}
+	}
+}

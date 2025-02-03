@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Valletta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 89,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 61,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 41,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 23,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 7,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 7,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 40,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 90,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 80,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 112,
+					"high": 17,
+					"low": 11
+				}
+			]
+		},
+		"Victoria (Malta)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 23,
+					"high": 13,
+					"low": 11
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 54,
+					"high": 13,
+					"low": 11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 24,
+					"high": 14,
+					"low": 12
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 39,
+					"high": 16,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 32,
+					"high": 20,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 4,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 4,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 37,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 111,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 157,
+					"high": 20,
+					"low": 17
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 95,
+					"high": 16,
+					"low": 13
+				}
+			]
+		},
+		"Malta Island": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.1,
+					"low": 10.3,
+					"precipitation": 94.7
+				},
+				{
+					"heading": "Feb",
+					"high": 16,
+					"low": 9.9,
+					"precipitation": 63.4
+				},
+				{
+					"heading": "Mar",
+					"high": 17.8,
+					"low": 11.3,
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"high": 20,
+					"low": 13.3,
+					"precipitation": 26.3
+				},
+				{
+					"heading": "May",
+					"high": 24.2,
+					"low": 16.6,
+					"precipitation": 9.2
+				},
+				{
+					"heading": "Jun",
+					"high": 28.5,
+					"low": 20.3,
+					"precipitation": 5.4
+				},
+				{
+					"heading": "Jul",
+					"high": 31.5,
+					"low": 22.8,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Aug",
+					"high": 31.8,
+					"low": 23.6,
+					"precipitation": 6
+				},
+				{
+					"heading": "Sep",
+					"high": 28.4,
+					"low": 21.6,
+					"precipitation": 67.4
+				},
+				{
+					"heading": "Oct",
+					"high": 25.2,
+					"low": 18.6,
+					"precipitation": 77.2
+				},
+				{
+					"heading": "Nov",
+					"high": 21,
+					"low": 15,
+					"precipitation": 108.6
+				},
+				{
+					"heading": "Dec",
+					"high": 17.5,
+					"low": 11.9,
+					"precipitation": 107.7
+				}
+			]
+		}
+	}
+}

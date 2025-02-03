@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Lilongwe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.8,
+					"low": 18.2,
+					"precipitation": 223
+				},
+				{
+					"heading": "Feb",
+					"high": 24.9,
+					"low": 17.7,
+					"precipitation": 187
+				},
+				{
+					"heading": "Mar",
+					"high": 24.7,
+					"low": 17.3,
+					"precipitation": 128
+				},
+				{
+					"heading": "Apr",
+					"high": 24.7,
+					"low": 15.8,
+					"precipitation": 44
+				},
+				{
+					"heading": "May",
+					"high": 23.2,
+					"low": 13.1,
+					"precipitation": 12
+				},
+				{
+					"heading": "Jun",
+					"high": 22,
+					"low": 10.1,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 21.4,
+					"low": 9.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 22.6,
+					"low": 11.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 25.9,
+					"low": 13.8,
+					"precipitation": 1
+				},
+				{
+					"heading": "Oct",
+					"high": 27.4,
+					"low": 16.8,
+					"precipitation": 10
+				},
+				{
+					"heading": "Nov",
+					"high": 27.3,
+					"low": 18.5,
+					"precipitation": 63
+				},
+				{
+					"heading": "Dec",
+					"high": 25.6,
+					"low": 18.3,
+					"precipitation": 199
+				}
+			]
+		},
+		"Blantyre": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.4,
+					"low": 20.1,
+					"precipitation": 198
+				},
+				{
+					"heading": "Feb",
+					"high": 28.3,
+					"low": 19.9,
+					"precipitation": 181.4
+				},
+				{
+					"heading": "Mar",
+					"high": 27.8,
+					"low": 19.3,
+					"precipitation": 152
+				},
+				{
+					"heading": "Apr",
+					"high": 27.2,
+					"low": 17.9,
+					"precipitation": 45.9
+				},
+				{
+					"heading": "May",
+					"high": 25.9,
+					"low": 15.6,
+					"precipitation": 9.9
+				},
+				{
+					"heading": "Jun",
+					"high": 24.1,
+					"low": 13.6,
+					"precipitation": 2.1
+				},
+				{
+					"heading": "Jul",
+					"high": 23.9,
+					"low": 13.3,
+					"precipitation": 2.4
+				},
+				{
+					"heading": "Aug",
+					"high": 26.1,
+					"low": 14.5,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Sep",
+					"high": 29.2,
+					"low": 17.1,
+					"precipitation": 3.5
+				},
+				{
+					"heading": "Oct",
+					"high": 31.3,
+					"low": 19.5,
+					"precipitation": 29.2
+				},
+				{
+					"heading": "Nov",
+					"high": 30.7,
+					"low": 20.3,
+					"precipitation": 93
+				},
+				{
+					"heading": "Dec",
+					"high": 29.2,
+					"low": 20.2,
+					"precipitation": 178
+				}
+			]
+		},
+		"Karonga": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.6,
+					"low": 21.8,
+					"precipitation": 132.3
+				},
+				{
+					"heading": "Feb",
+					"high": 29.6,
+					"low": 21.7,
+					"precipitation": 120
+				},
+				{
+					"heading": "Mar",
+					"high": 29.3,
+					"low": 21.5,
+					"precipitation": 206
+				},
+				{
+					"heading": "Apr",
+					"high": 29,
+					"low": 21.3,
+					"precipitation": 130
+				},
+				{
+					"heading": "May",
+					"high": 28.7,
+					"low": 19.9,
+					"precipitation": 19.4
+				},
+				{
+					"heading": "Jun",
+					"high": 27.6,
+					"low": 17.9,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 17,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Aug",
+					"high": 28.3,
+					"low": 17.6,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Sep",
+					"high": 30.6,
+					"low": 19.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 32.5,
+					"low": 21.9,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Nov",
+					"high": 32.4,
+					"low": 23,
+					"precipitation": 39.4
+				},
+				{
+					"heading": "Dec",
+					"high": 30.5,
+					"low": 22.4,
+					"precipitation": 149
+				}
+			]
+		},
+		"Nkhata Bay": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 221,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 198,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 310,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 273,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 140,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 31,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 33,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 5,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 3,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 17,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 113,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 254,
+					"high": 29,
+					"low": 21
+				}
+			]
+		},
+		"Zomba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27,
+					"low": 18,
+					"precipitation": 310
+				},
+				{
+					"heading": "Feb",
+					"high": 27,
+					"low": 18,
+					"precipitation": 250
+				},
+				{
+					"heading": "Mar",
+					"high": 26,
+					"low": 18,
+					"precipitation": 260
+				},
+				{
+					"heading": "Apr",
+					"high": 26,
+					"low": 17,
+					"precipitation": 69
+				},
+				{
+					"heading": "May",
+					"high": 24,
+					"low": 14,
+					"precipitation": 18
+				},
+				{
+					"heading": "Jun",
+					"high": 22,
+					"low": 12,
+					"precipitation": 10
+				},
+				{
+					"heading": "Jul",
+					"high": 22,
+					"low": 12,
+					"precipitation": 7.6
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 13,
+					"precipitation": 7.6
+				},
+				{
+					"heading": "Sep",
+					"high": 27,
+					"low": 15,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 18,
+					"precipitation": 25
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 19,
+					"precipitation": 110
+				},
+				{
+					"heading": "Dec",
+					"high": 27,
+					"low": 18,
+					"precipitation": 280
+				}
+			]
+		},
+		"Liwonde National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 271,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 270,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 161,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 51,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 31,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 36,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 45,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 57,
+					"high": 31,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 37,
+					"high": 37,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 25,
+					"high": 40,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 49,
+					"high": 41,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 217,
+					"high": 29,
+					"low": 22
+				}
+			]
+		}
+	}
+}

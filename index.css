@@ -1,0 +1,9 @@
+html {
+    background-color: #00ab9f;
+    background-image: url(/craft_left.jpg);
+    background-repeat: repeat;
+    height: 100%;
+}
+body {
+    padding-bottom: 25px;
+}

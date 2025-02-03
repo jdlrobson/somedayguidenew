@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Praia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 2.5,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 1.3,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 1,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 2.3,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 13,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 99,
+					"high": 29,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 29,
+					"high": 29,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 48,
+					"high": 29,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 7.9,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 4.6,
+					"high": 26,
+					"low": 22
+				}
+			]
+		},
+		"Cidade Velha": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.7,
+					"low": 19.4,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": 27.2,
+					"low": 19.2,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 27.9,
+					"low": 19.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Apr",
+					"high": 28.3,
+					"low": 20.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "May",
+					"high": 28.5,
+					"low": 21,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jun",
+					"high": 29.6,
+					"low": 21.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 29.4,
+					"low": 22.5,
+					"precipitation": 7
+				},
+				{
+					"heading": "Aug",
+					"high": 30,
+					"low": 23.7,
+					"precipitation": 50
+				},
+				{
+					"heading": "Sep",
+					"high": 30.6,
+					"low": 23.9,
+					"precipitation": 90
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 25,
+					"precipitation": 40
+				},
+				{
+					"heading": "Nov",
+					"high": 29.7,
+					"low": 22.3,
+					"precipitation": 9
+				},
+				{
+					"heading": "Dec",
+					"high": 27.3,
+					"low": 20.8,
+					"precipitation": 1
+				}
+			]
+		}
+	}
+}

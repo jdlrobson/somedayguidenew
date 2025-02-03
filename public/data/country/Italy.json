@@ -1,0 +1,2498 @@
+{
+	"note": "<p>While here, consider travelling the slow way to <strong>Pula</strong> in <strong>Croatia</strong> (boat) or a trip to <strong>San Marino</strong> (overland).A good jumping off point for visits to both <strong>Italy</strong> and <strong>Croatia</strong>. Ryanair flies here.</p>\n",
+	"snippets": [
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Abbey_of_Thelema_01.jpg/2560px-Abbey_of_Thelema_01.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Abbey of Thelema",
+			"url": "https://en.wikipedia.org/wiki/Abbey_of_Thelema"
+		}
+	],
+	"places": {
+		"Rome": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 70,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 73,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 58,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 81,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 53,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 34,
+					"high": 27,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 19,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 37,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 73,
+					"high": 27,
+					"low": 15
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 113,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 115,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 81,
+					"high": 13,
+					"low": 4
+				}
+			]
+		},
+		"Bologna": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6,
+					"low": -0.5,
+					"precipitation": 34
+				},
+				{
+					"heading": "Feb",
+					"high": 9,
+					"low": 0.9,
+					"precipitation": 44.3
+				},
+				{
+					"heading": "Mar",
+					"high": 14.2,
+					"low": 4.1,
+					"precipitation": 54.2
+				},
+				{
+					"heading": "Apr",
+					"high": 17.7,
+					"low": 7.4,
+					"precipitation": 74.2
+				},
+				{
+					"heading": "May",
+					"high": 23,
+					"low": 12,
+					"precipitation": 58
+				},
+				{
+					"heading": "Jun",
+					"high": 27.1,
+					"low": 15.7,
+					"precipitation": 57.3
+				},
+				{
+					"heading": "Jul",
+					"high": 30.4,
+					"low": 18.5,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Aug",
+					"high": 29.8,
+					"low": 18.4,
+					"precipitation": 52.5
+				},
+				{
+					"heading": "Sep",
+					"high": 25.4,
+					"low": 14.8,
+					"precipitation": 67.5
+				},
+				{
+					"heading": "Oct",
+					"high": 18.6,
+					"low": 10.1,
+					"precipitation": 72.3
+				},
+				{
+					"heading": "Nov",
+					"high": 11.1,
+					"low": 4.3,
+					"precipitation": 68
+				},
+				{
+					"heading": "Dec",
+					"high": 6.8,
+					"low": 0.4,
+					"precipitation": 48.5
+				}
+			]
+		},
+		"Florence": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.9,
+					"low": 2,
+					"precipitation": 60.5
+				},
+				{
+					"heading": "Feb",
+					"high": 12.5,
+					"low": 2.5,
+					"precipitation": 63.7
+				},
+				{
+					"heading": "Mar",
+					"high": 15.7,
+					"low": 4.9,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Apr",
+					"high": 18.5,
+					"low": 7.5,
+					"precipitation": 86.4
+				},
+				{
+					"heading": "May",
+					"high": 23.7,
+					"low": 11.6,
+					"precipitation": 70
+				},
+				{
+					"heading": "Jun",
+					"high": 27.7,
+					"low": 15,
+					"precipitation": 57.1
+				},
+				{
+					"heading": "Jul",
+					"high": 31.4,
+					"low": 17.7,
+					"precipitation": 36.7
+				},
+				{
+					"heading": "Aug",
+					"high": 31.5,
+					"low": 17.7,
+					"precipitation": 56
+				},
+				{
+					"heading": "Sep",
+					"high": 26.7,
+					"low": 14.4,
+					"precipitation": 79.6
+				},
+				{
+					"heading": "Oct",
+					"high": 20.9,
+					"low": 10.1,
+					"precipitation": 104.2
+				},
+				{
+					"heading": "Nov",
+					"high": 14.7,
+					"low": 5.1,
+					"precipitation": 113.6
+				},
+				{
+					"heading": "Dec",
+					"high": 11.1,
+					"low": 2.6,
+					"precipitation": 81.3
+				}
+			]
+		},
+		"Genoa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.5,
+					"low": 5.5,
+					"precipitation": 101.8
+				},
+				{
+					"heading": "Feb",
+					"high": 12.2,
+					"low": 6,
+					"precipitation": 74
+				},
+				{
+					"heading": "Mar",
+					"high": 14.6,
+					"low": 8.2,
+					"precipitation": 81.7
+				},
+				{
+					"heading": "Apr",
+					"high": 16.8,
+					"low": 10.5,
+					"precipitation": 88
+				},
+				{
+					"heading": "May",
+					"high": 20.5,
+					"low": 14.2,
+					"precipitation": 72.4
+				},
+				{
+					"heading": "Jun",
+					"high": 23.9,
+					"low": 17.6,
+					"precipitation": 58.2
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 20.9,
+					"precipitation": 24.2
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 21,
+					"precipitation": 69.3
+				},
+				{
+					"heading": "Sep",
+					"high": 24.4,
+					"low": 17.9,
+					"precipitation": 136.4
+				},
+				{
+					"heading": "Oct",
+					"high": 20,
+					"low": 13.8,
+					"precipitation": 171.3
+				},
+				{
+					"heading": "Nov",
+					"high": 15.1,
+					"low": 9.2,
+					"precipitation": 108.8
+				},
+				{
+					"heading": "Dec",
+					"high": 12.5,
+					"low": 6.5,
+					"precipitation": 93.1
+				}
+			]
+		},
+		"Milan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 59,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 49,
+					"high": 9,
+					"low": 0
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 65,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 76,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 96,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 67,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 67,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 89,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 93,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 122,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 77,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 62,
+					"high": 6,
+					"low": 0
+				}
+			]
+		},
+		"Naples": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 104,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 98,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 86,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 76,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 50,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 34,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 24,
+					"high": 33,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 42,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 80,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 130,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 162,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 121,
+					"high": 13,
+					"low": 5
+				}
+			]
+		},
+		"Pisa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.4,
+					"low": 2.2,
+					"precipitation": 63.4
+				},
+				{
+					"heading": "Feb",
+					"high": 12.6,
+					"low": 2.5,
+					"precipitation": 57.5
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 4.4,
+					"precipitation": 59.8
+				},
+				{
+					"heading": "Apr",
+					"high": 17.8,
+					"low": 7.2,
+					"precipitation": 89.1
+				},
+				{
+					"heading": "May",
+					"high": 22.2,
+					"low": 10.7,
+					"precipitation": 61.5
+				},
+				{
+					"heading": "Jun",
+					"high": 26,
+					"low": 14.1,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "Jul",
+					"high": 29.4,
+					"low": 16.7,
+					"precipitation": 25.4
+				},
+				{
+					"heading": "Aug",
+					"high": 29.5,
+					"low": 17.2,
+					"precipitation": 49.4
+				},
+				{
+					"heading": "Sep",
+					"high": 25.7,
+					"low": 14.3,
+					"precipitation": 101.5
+				},
+				{
+					"heading": "Oct",
+					"high": 20.9,
+					"low": 10.7,
+					"precipitation": 140.3
+				},
+				{
+					"heading": "Nov",
+					"high": 15.3,
+					"low": 6.1,
+					"precipitation": 123.5
+				},
+				{
+					"heading": "Dec",
+					"high": 11.8,
+					"low": 3.4,
+					"precipitation": 74.4
+				}
+			]
+		},
+		"Turin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 5.8,
+					"low": -3.3,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Feb",
+					"high": 8.4,
+					"low": -1.1,
+					"precipitation": 52.5
+				},
+				{
+					"heading": "Mar",
+					"high": 12.7,
+					"low": 2.1,
+					"precipitation": 76.9
+				},
+				{
+					"heading": "Apr",
+					"high": 16.6,
+					"low": 5.6,
+					"precipitation": 104.1
+				},
+				{
+					"heading": "May",
+					"high": 20.7,
+					"low": 9.9,
+					"precipitation": 120.3
+				},
+				{
+					"heading": "Jun",
+					"high": 24.7,
+					"low": 13.8,
+					"precipitation": 97.6
+				},
+				{
+					"heading": "Jul",
+					"high": 27.6,
+					"low": 16.3,
+					"precipitation": 66.6
+				},
+				{
+					"heading": "Aug",
+					"high": 26.5,
+					"low": 15.7,
+					"precipitation": 79.8
+				},
+				{
+					"heading": "Sep",
+					"high": 23.1,
+					"low": 12.6,
+					"precipitation": 70.1
+				},
+				{
+					"heading": "Oct",
+					"high": 17.3,
+					"low": 7.2,
+					"precipitation": 88.9
+				},
+				{
+					"heading": "Nov",
+					"high": 10.8,
+					"low": 1.8,
+					"precipitation": 75.5
+				},
+				{
+					"heading": "Dec",
+					"high": 6.9,
+					"low": -2.3,
+					"precipitation": 41.6
+				}
+			]
+		},
+		"Venice": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.6,
+					"low": -0.1,
+					"precipitation": 47
+				},
+				{
+					"heading": "Feb",
+					"high": 8.6,
+					"low": 0.8,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Mar",
+					"high": 12.5,
+					"low": 4.1,
+					"precipitation": 48.8
+				},
+				{
+					"heading": "Apr",
+					"high": 16.1,
+					"low": 7.8,
+					"precipitation": 70
+				},
+				{
+					"heading": "May",
+					"high": 21.5,
+					"low": 12.7,
+					"precipitation": 66
+				},
+				{
+					"heading": "Jun",
+					"high": 24.9,
+					"low": 16.1,
+					"precipitation": 78
+				},
+				{
+					"heading": "Jul",
+					"high": 27.7,
+					"low": 18.3,
+					"precipitation": 63.9
+				},
+				{
+					"heading": "Aug",
+					"high": 27.5,
+					"low": 17.7,
+					"precipitation": 64.8
+				},
+				{
+					"heading": "Sep",
+					"high": 23.5,
+					"low": 14.3,
+					"precipitation": 72
+				},
+				{
+					"heading": "Oct",
+					"high": 18,
+					"low": 9.6,
+					"precipitation": 73.5
+				},
+				{
+					"heading": "Nov",
+					"high": 11.6,
+					"low": 4,
+					"precipitation": 65.5
+				},
+				{
+					"heading": "Dec",
+					"high": 7.4,
+					"low": 0.6,
+					"precipitation": 50.6
+				}
+			]
+		},
+		"Lake Como": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.8,
+					"low": 0.5,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 9,
+					"low": 2,
+					"precipitation": 76
+				},
+				{
+					"heading": "Mar",
+					"high": 12.9,
+					"low": 4.8,
+					"precipitation": 117
+				},
+				{
+					"heading": "Apr",
+					"high": 17.2,
+					"low": 8.2,
+					"precipitation": 107
+				},
+				{
+					"heading": "May",
+					"high": 21.1,
+					"low": 11.8,
+					"precipitation": 161
+				},
+				{
+					"heading": "Jun",
+					"high": 25.6,
+					"low": 15.8,
+					"precipitation": 134
+				},
+				{
+					"heading": "Jul",
+					"high": 28.5,
+					"low": 18.2,
+					"precipitation": 85
+				},
+				{
+					"heading": "Aug",
+					"high": 27.2,
+					"low": 17.6,
+					"precipitation": 136
+				},
+				{
+					"heading": "Sep",
+					"high": 23.7,
+					"low": 14.1,
+					"precipitation": 116
+				},
+				{
+					"heading": "Oct",
+					"high": 18.1,
+					"low": 10,
+					"precipitation": 125
+				},
+				{
+					"heading": "Nov",
+					"high": 11.7,
+					"low": 5.3,
+					"precipitation": 129
+				},
+				{
+					"heading": "Dec",
+					"high": 7.8,
+					"low": 1.5,
+					"precipitation": 63
+				}
+			]
+		},
+		"Grado": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 219,
+					"high": 5,
+					"low": 0
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 228,
+					"high": 7,
+					"low": 4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 143,
+					"high": 11,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 126,
+					"high": 16,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 155,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 100,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 115,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 109,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 163,
+					"high": 20,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 161,
+					"high": 13,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 298,
+					"high": 11,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 136,
+					"high": 7,
+					"low": 3
+				}
+			]
+		},
+		"Trieste": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.6,
+					"low": 3.8,
+					"precipitation": 58
+				},
+				{
+					"heading": "Feb",
+					"high": 9,
+					"low": 4.3,
+					"precipitation": 56.9
+				},
+				{
+					"heading": "Mar",
+					"high": 12.2,
+					"low": 6.6,
+					"precipitation": 63.4
+				},
+				{
+					"heading": "Apr",
+					"high": 16.5,
+					"low": 10,
+					"precipitation": 82.8
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 14.5,
+					"precipitation": 84.2
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 17.8,
+					"precipitation": 100.4
+				},
+				{
+					"heading": "Jul",
+					"high": 27.9,
+					"low": 20.3,
+					"precipitation": 62.1
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 20.4,
+					"precipitation": 84.5
+				},
+				{
+					"heading": "Sep",
+					"high": 23.3,
+					"low": 16.8,
+					"precipitation": 103.4
+				},
+				{
+					"heading": "Oct",
+					"high": 17.8,
+					"low": 12.7,
+					"precipitation": 111.4
+				},
+				{
+					"heading": "Nov",
+					"high": 12.3,
+					"low": 8.1,
+					"precipitation": 107.4
+				},
+				{
+					"heading": "Dec",
+					"high": 8.8,
+					"low": 5,
+					"precipitation": 88.5
+				}
+			]
+		},
+		"Palermo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.8,
+					"low": 10.2,
+					"precipitation": 71.6
+				},
+				{
+					"heading": "Feb",
+					"high": 15.1,
+					"low": 10.1,
+					"precipitation": 65.4
+				},
+				{
+					"heading": "Mar",
+					"high": 16.1,
+					"low": 10.9,
+					"precipitation": 59.5
+				},
+				{
+					"heading": "Apr",
+					"high": 18.4,
+					"low": 12.9,
+					"precipitation": 44.1
+				},
+				{
+					"heading": "May",
+					"high": 21.8,
+					"low": 16,
+					"precipitation": 25.5
+				},
+				{
+					"heading": "Jun",
+					"high": 25.1,
+					"low": 19.7,
+					"precipitation": 12.2
+				},
+				{
+					"heading": "Jul",
+					"high": 28.3,
+					"low": 22.9,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Aug",
+					"high": 28.8,
+					"low": 23.6,
+					"precipitation": 13.3
+				},
+				{
+					"heading": "Sep",
+					"high": 26.6,
+					"low": 21.5,
+					"precipitation": 41.5
+				},
+				{
+					"heading": "Oct",
+					"high": 22.9,
+					"low": 17.8,
+					"precipitation": 98
+				},
+				{
+					"heading": "Nov",
+					"high": 19.3,
+					"low": 14.3,
+					"precipitation": 94.3
+				},
+				{
+					"heading": "Dec",
+					"high": 16,
+					"low": 11.5,
+					"precipitation": 80
+				}
+			]
+		},
+		"Agrigento": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 103,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 125,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 109,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 60,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 19,
+					"high": 29,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 7,
+					"high": 36,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 13,
+					"high": 39,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 31,
+					"high": 38,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 53,
+					"high": 33,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 99,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 104,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 86,
+					"high": 17,
+					"low": 8
+				}
+			]
+		},
+		"Catania": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.8,
+					"low": 5.3,
+					"precipitation": 74.8
+				},
+				{
+					"heading": "Feb",
+					"high": 16.4,
+					"low": 5.4,
+					"precipitation": 52.6
+				},
+				{
+					"heading": "Mar",
+					"high": 17.8,
+					"low": 6.5,
+					"precipitation": 46
+				},
+				{
+					"heading": "Apr",
+					"high": 20.3,
+					"low": 8.3,
+					"precipitation": 35.4
+				},
+				{
+					"heading": "May",
+					"high": 24.2,
+					"low": 11.6,
+					"precipitation": 19.2
+				},
+				{
+					"heading": "Jun",
+					"high": 28.3,
+					"low": 15.6,
+					"precipitation": 6
+				},
+				{
+					"heading": "Jul",
+					"high": 31.7,
+					"low": 18.5,
+					"precipitation": 5
+				},
+				{
+					"heading": "Aug",
+					"high": 32,
+					"low": 19.2,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "Sep",
+					"high": 29.1,
+					"low": 17.1,
+					"precipitation": 45
+				},
+				{
+					"heading": "Oct",
+					"high": 24.7,
+					"low": 13.7,
+					"precipitation": 106.1
+				},
+				{
+					"heading": "Nov",
+					"high": 20.3,
+					"low": 9.7,
+					"precipitation": 62.3
+				},
+				{
+					"heading": "Dec",
+					"high": 16.8,
+					"low": 6.7,
+					"precipitation": 85.9
+				}
+			]
+		},
+		"Gela": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15,
+					"low": 8.8,
+					"precipitation": 47.4
+				},
+				{
+					"heading": "Feb",
+					"high": 15,
+					"low": 8.5,
+					"precipitation": 39
+				},
+				{
+					"heading": "Mar",
+					"high": 15.9,
+					"low": 9.5,
+					"precipitation": 27.5
+				},
+				{
+					"heading": "Apr",
+					"high": 17.8,
+					"low": 11.1,
+					"precipitation": 25.6
+				},
+				{
+					"heading": "May",
+					"high": 21.3,
+					"low": 14.9,
+					"precipitation": 10.8
+				},
+				{
+					"heading": "Jun",
+					"high": 24.5,
+					"low": 18.5,
+					"precipitation": 4.1
+				},
+				{
+					"heading": "Jul",
+					"high": 26.4,
+					"low": 20.7,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 27.4,
+					"low": 21.7,
+					"precipitation": 6.5
+				},
+				{
+					"heading": "Sep",
+					"high": 26.1,
+					"low": 20.1,
+					"precipitation": 27
+				},
+				{
+					"heading": "Oct",
+					"high": 22.9,
+					"low": 16.7,
+					"precipitation": 52.5
+				},
+				{
+					"heading": "Nov",
+					"high": 19.3,
+					"low": 13,
+					"precipitation": 59
+				},
+				{
+					"heading": "Dec",
+					"high": 16.3,
+					"low": 10.2,
+					"precipitation": 67.3
+				}
+			]
+		},
+		"Marsala": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16,
+					"low": 7.7,
+					"precipitation": 56
+				},
+				{
+					"heading": "Feb",
+					"high": 16.2,
+					"low": 7.8,
+					"precipitation": 46
+				},
+				{
+					"heading": "Mar",
+					"high": 17.5,
+					"low": 8.7,
+					"precipitation": 45
+				},
+				{
+					"heading": "Apr",
+					"high": 19.6,
+					"low": 10.6,
+					"precipitation": 37
+				},
+				{
+					"heading": "May",
+					"high": 22.9,
+					"low": 13.6,
+					"precipitation": 17
+				},
+				{
+					"heading": "Jun",
+					"high": 26.9,
+					"low": 16.8,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jul",
+					"high": 29.4,
+					"low": 18.8,
+					"precipitation": 2
+				},
+				{
+					"heading": "Aug",
+					"high": 30.3,
+					"low": 19.2,
+					"precipitation": 9
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 18,
+					"precipitation": 42
+				},
+				{
+					"heading": "Oct",
+					"high": 24.3,
+					"low": 14.8,
+					"precipitation": 61
+				},
+				{
+					"heading": "Nov",
+					"high": 20.4,
+					"low": 12,
+					"precipitation": 65
+				},
+				{
+					"heading": "Dec",
+					"high": 17.1,
+					"low": 9.1,
+					"precipitation": 65
+				}
+			]
+		},
+		"Messina": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.4,
+					"low": 10.1,
+					"precipitation": 102.9
+				},
+				{
+					"heading": "Feb",
+					"high": 14.7,
+					"low": 9.8,
+					"precipitation": 100.2
+				},
+				{
+					"heading": "Mar",
+					"high": 16.1,
+					"low": 10.9,
+					"precipitation": 83.4
+				},
+				{
+					"heading": "Apr",
+					"high": 18.3,
+					"low": 12.5,
+					"precipitation": 68.3
+				},
+				{
+					"heading": "May",
+					"high": 22.5,
+					"low": 16.4,
+					"precipitation": 33.8
+				},
+				{
+					"heading": "Jun",
+					"high": 26.8,
+					"low": 20.4,
+					"precipitation": 12.7
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 23.4,
+					"precipitation": 20
+				},
+				{
+					"heading": "Aug",
+					"high": 30.5,
+					"low": 24.2,
+					"precipitation": 25.6
+				},
+				{
+					"heading": "Sep",
+					"high": 27.5,
+					"low": 21.5,
+					"precipitation": 63.9
+				},
+				{
+					"heading": "Oct",
+					"high": 23.2,
+					"low": 17.8,
+					"precipitation": 113.7
+				},
+				{
+					"heading": "Nov",
+					"high": 18.8,
+					"low": 14.1,
+					"precipitation": 119.5
+				},
+				{
+					"heading": "Dec",
+					"high": 15.8,
+					"low": 11.6,
+					"precipitation": 102.9
+				}
+			]
+		},
+		"Ragusa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 78,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 111,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 72,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 34,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 8,
+					"high": 30,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 38,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 41,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 20,
+					"high": 38,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 60,
+					"high": 32,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 79,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 110,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 74,
+					"high": 13,
+					"low": 6
+				}
+			]
+		},
+		"Syracuse (Italy)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.8,
+					"low": 7.3,
+					"precipitation": 75
+				},
+				{
+					"heading": "Feb",
+					"high": 15.3,
+					"low": 7.5,
+					"precipitation": 52
+				},
+				{
+					"heading": "Mar",
+					"high": 17.1,
+					"low": 8.7,
+					"precipitation": 44
+				},
+				{
+					"heading": "Apr",
+					"high": 19.7,
+					"low": 10.7,
+					"precipitation": 30
+				},
+				{
+					"heading": "May",
+					"high": 23.7,
+					"low": 13.9,
+					"precipitation": 16
+				},
+				{
+					"heading": "Jun",
+					"high": 28.2,
+					"low": 17.8,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 20.7,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 31.2,
+					"low": 21.2,
+					"precipitation": 7
+				},
+				{
+					"heading": "Sep",
+					"high": 28.1,
+					"low": 19.2,
+					"precipitation": 44
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 16,
+					"precipitation": 78
+				},
+				{
+					"heading": "Nov",
+					"high": 19.6,
+					"low": 12.1,
+					"precipitation": 94
+				},
+				{
+					"heading": "Dec",
+					"high": 16.3,
+					"low": 9,
+					"precipitation": 78
+				}
+			]
+		},
+		"Trapani": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15,
+					"low": 8.1,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "Feb",
+					"high": 15.3,
+					"low": 8,
+					"precipitation": 45.8
+				},
+				{
+					"heading": "Mar",
+					"high": 16.6,
+					"low": 8.6,
+					"precipitation": 44.9
+				},
+				{
+					"heading": "Apr",
+					"high": 19,
+					"low": 10.2,
+					"precipitation": 36.9
+				},
+				{
+					"heading": "May",
+					"high": 23.1,
+					"low": 13.2,
+					"precipitation": 16.8
+				},
+				{
+					"heading": "Jun",
+					"high": 26.7,
+					"low": 16.6,
+					"precipitation": 4.7
+				},
+				{
+					"heading": "Jul",
+					"high": 29.7,
+					"low": 19.4,
+					"precipitation": 2.4
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 20.2,
+					"precipitation": 8.7
+				},
+				{
+					"heading": "Sep",
+					"high": 27.7,
+					"low": 18.4,
+					"precipitation": 41.6
+				},
+				{
+					"heading": "Oct",
+					"high": 23.7,
+					"low": 15.4,
+					"precipitation": 60.8
+				},
+				{
+					"heading": "Nov",
+					"high": 19.4,
+					"low": 12,
+					"precipitation": 64.7
+				},
+				{
+					"heading": "Dec",
+					"high": 16.2,
+					"low": 9.3,
+					"precipitation": 65
+				}
+			]
+		},
+		"Aegadian Islands": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 121,
+					"high": 13,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 113,
+					"high": 12,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 105,
+					"high": 13,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 65,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 19,
+					"high": 23,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 17,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 45,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 67,
+					"high": 21,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 121,
+					"high": 17,
+					"low": 16
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 73,
+					"high": 15,
+					"low": 12
+				}
+			]
+		},
+		"Segesta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 117,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 117,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 115,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 59,
+					"high": 22,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 20,
+					"high": 31,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 6,
+					"high": 37,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 7,
+					"high": 40,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 20,
+					"high": 40,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 37,
+					"high": 33,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 75,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 107,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 75,
+					"high": 12,
+					"low": 5
+				}
+			]
+		},
+		"Sciacca": {
+			"climate": [
+				{
+					"high": 13.9,
+					"low": 10.6
+				},
+				{
+					"high": 13.9,
+					"low": 10
+				},
+				{
+					"high": 15.6,
+					"low": 11.1
+				},
+				{
+					"high": 17.8,
+					"low": 12.8
+				},
+				{
+					"high": 22.2,
+					"low": 16.1
+				},
+				{
+					"high": 26.1,
+					"low": 20
+				},
+				{
+					"high": 28.3,
+					"low": 22.2
+				},
+				{
+					"high": 29.4,
+					"low": 23.9
+				},
+				{
+					"high": 26.7,
+					"low": 21.7
+				},
+				{
+					"high": 23.3,
+					"low": 18.3
+				},
+				{
+					"high": 18.9,
+					"low": 15
+				},
+				{
+					"high": 15,
+					"low": 11.7
+				}
+			]
+		},
+		"Caltagirone": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 85,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 110,
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 85,
+					"high": 18,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 23,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 31,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 5,
+					"high": 36,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 15,
+					"high": 41,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 26,
+					"high": 40,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 57,
+					"high": 31,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 85,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 67,
+					"high": 13,
+					"low": 4
+				}
+			]
+		},
+		"Militello in Val di Catania": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 85,
+					"high": 12,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 110,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 85,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 30,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 5,
+					"high": 38,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 15,
+					"high": 41,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 26,
+					"high": 40,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 57,
+					"high": 32,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 27,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 85,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 67,
+					"high": 13,
+					"low": 5
+				}
+			]
+		},
+		"Modica": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 78,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 111,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 72,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 34,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 8,
+					"high": 32,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 39,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 42,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 20,
+					"high": 39,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 60,
+					"high": 35,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 79,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 110,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 74,
+					"high": 16,
+					"low": 9
+				}
+			]
+		},
+		"Noto": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 84,
+					"high": 14,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 118,
+					"high": 11,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 68,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 24,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 6,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 2,
+					"high": 32,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 5,
+					"high": 34,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 29,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 70,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 118,
+					"high": 20,
+					"low": 16
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 86,
+					"high": 16,
+					"low": 11
+				}
+			]
+		},
+		"Palazzolo Acreide": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 85,
+					"high": 11,
+					"low": 3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 110,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 85,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 26,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 5,
+					"high": 35,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 15,
+					"high": 39,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 26,
+					"high": 38,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 57,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 85,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 67,
+					"high": 11,
+					"low": 4
+				}
+			]
+		},
+		"Scicli": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 78,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 111,
+					"high": 11,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 72,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 34,
+					"high": 23,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 8,
+					"high": 32,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 38,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 41,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 20,
+					"high": 38,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 60,
+					"high": 33,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 79,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 110,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 74,
+					"high": 15,
+					"low": 8
+				}
+			]
+		},
+		"Verona": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.1,
+					"low": -1.2,
+					"precipitation": 50.9
+				},
+				{
+					"heading": "Feb",
+					"high": 8.9,
+					"low": 0.1,
+					"precipitation": 43.3
+				},
+				{
+					"heading": "Mar",
+					"high": 13.4,
+					"low": 3.4,
+					"precipitation": 48.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17.2,
+					"low": 6.8,
+					"precipitation": 70.4
+				},
+				{
+					"heading": "May",
+					"high": 22.7,
+					"low": 11.7,
+					"precipitation": 74.2
+				},
+				{
+					"heading": "Jun",
+					"high": 26.3,
+					"low": 15.4,
+					"precipitation": 87.2
+				},
+				{
+					"heading": "Jul",
+					"high": 29.2,
+					"low": 18,
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Aug",
+					"high": 28.8,
+					"low": 17.8,
+					"precipitation": 81.7
+				},
+				{
+					"heading": "Sep",
+					"high": 24.4,
+					"low": 13.7,
+					"precipitation": 76.2
+				},
+				{
+					"heading": "Oct",
+					"high": 18,
+					"low": 8.7,
+					"precipitation": 91
+				},
+				{
+					"heading": "Nov",
+					"high": 11,
+					"low": 3.2,
+					"precipitation": 64.8
+				},
+				{
+					"heading": "Dec",
+					"high": 6.7,
+					"low": -0.4,
+					"precipitation": 52.5
+				}
+			]
+		},
+		"Rimini": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.7,
+					"low": 0.4,
+					"precipitation": 41.8
+				},
+				{
+					"heading": "Feb",
+					"high": 9.5,
+					"low": 1.1,
+					"precipitation": 45.1
+				},
+				{
+					"heading": "Mar",
+					"high": 13.2,
+					"low": 3.7,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "Apr",
+					"high": 16.9,
+					"low": 6.9,
+					"precipitation": 52.8
+				},
+				{
+					"heading": "May",
+					"high": 21.9,
+					"low": 11.2,
+					"precipitation": 47.9
+				},
+				{
+					"heading": "Jun",
+					"high": 25.8,
+					"low": 15,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "Jul",
+					"high": 28.5,
+					"low": 17.7,
+					"precipitation": 42.8
+				},
+				{
+					"heading": "Aug",
+					"high": 28.1,
+					"low": 17.6,
+					"precipitation": 61.3
+				},
+				{
+					"heading": "Sep",
+					"high": 24.5,
+					"low": 14.4,
+					"precipitation": 70.4
+				},
+				{
+					"heading": "Oct",
+					"high": 19.2,
+					"low": 10.4,
+					"precipitation": 75.2
+				},
+				{
+					"heading": "Nov",
+					"high": 12.8,
+					"low": 5.1,
+					"precipitation": 67
+				},
+				{
+					"heading": "Dec",
+					"high": 8.9,
+					"low": 1.5,
+					"precipitation": 46.6
+				}
+			]
+		},
+		"Pennabilli": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 108,
+					"high": 3,
+					"low": -1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 170,
+					"high": 7,
+					"low": -2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 96,
+					"high": 12,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 85,
+					"high": 16,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 97,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 54,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 62,
+					"high": 28,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 46,
+					"high": 29,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 130,
+					"high": 21,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 138,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 219,
+					"high": 8,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 80,
+					"high": 4,
+					"low": -1
+				}
+			]
+		}
+	}
+}

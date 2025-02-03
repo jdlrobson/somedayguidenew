@@ -1,0 +1,386 @@
+{
+	"note": "<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Northern_Division%2C_Fiji_-_panoramio.jpg/320px-Northern_Division%2C_Fiji_-_panoramio.jpg\" alt=\"https://commons.wikimedia.org/wiki/File:Northern_Division,_Fiji_-_panoramio.jpg\"></p>\n",
+	"snippets": [],
+	"places": {
+		"Suva": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 23.9,
+					"precipitation": 371
+				},
+				{
+					"heading": "Feb",
+					"high": 31.2,
+					"low": 24,
+					"precipitation": 265
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 23.9,
+					"precipitation": 374
+				},
+				{
+					"heading": "Apr",
+					"high": 29.9,
+					"low": 23.3,
+					"precipitation": 366
+				},
+				{
+					"heading": "May",
+					"high": 28.5,
+					"low": 22.2,
+					"precipitation": 270
+				},
+				{
+					"heading": "Jun",
+					"high": 27.7,
+					"low": 21.4,
+					"precipitation": 163
+				},
+				{
+					"heading": "Jul",
+					"high": 26.8,
+					"low": 20.7,
+					"precipitation": 136
+				},
+				{
+					"heading": "Aug",
+					"high": 26.7,
+					"low": 20.7,
+					"precipitation": 158
+				},
+				{
+					"heading": "Sep",
+					"high": 27.2,
+					"low": 21,
+					"precipitation": 177
+				},
+				{
+					"heading": "Oct",
+					"high": 28.2,
+					"low": 21.9,
+					"precipitation": 221
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 22.8,
+					"precipitation": 245
+				},
+				{
+					"heading": "Dec",
+					"high": 30.3,
+					"low": 23.5,
+					"precipitation": 277
+				}
+			]
+		},
+		"Lautoka": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 382,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 418,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 406,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 247,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 140,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 177,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 62,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 60,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 166,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 154,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 187,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 299,
+					"high": 25,
+					"low": 19
+				}
+			]
+		},
+		"Nadi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 22.7,
+					"precipitation": 300
+				},
+				{
+					"heading": "Feb",
+					"high": 31.5,
+					"low": 22.9,
+					"precipitation": 303
+				},
+				{
+					"heading": "Mar",
+					"high": 31.1,
+					"low": 22.6,
+					"precipitation": 324
+				},
+				{
+					"heading": "Apr",
+					"high": 30.7,
+					"low": 21.7,
+					"precipitation": 173
+				},
+				{
+					"heading": "May",
+					"high": 29.7,
+					"low": 20.1,
+					"precipitation": 80
+				},
+				{
+					"heading": "Jun",
+					"high": 29.2,
+					"low": 19.3,
+					"precipitation": 62
+				},
+				{
+					"heading": "Jul",
+					"high": 28.5,
+					"low": 18.3,
+					"precipitation": 47
+				},
+				{
+					"heading": "Aug",
+					"high": 28.7,
+					"low": 18.4,
+					"precipitation": 59
+				},
+				{
+					"heading": "Sep",
+					"high": 29.4,
+					"low": 19.3,
+					"precipitation": 77
+				},
+				{
+					"heading": "Oct",
+					"high": 30.2,
+					"low": 20.4,
+					"precipitation": 103
+				},
+				{
+					"heading": "Nov",
+					"high": 30.9,
+					"low": 21.5,
+					"precipitation": 139
+				},
+				{
+					"heading": "Dec",
+					"high": 31.4,
+					"low": 22.1,
+					"precipitation": 159
+				}
+			]
+		},
+		"Taveuni": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 216,
+					"high": 21,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 436,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 331,
+					"high": 21,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 335,
+					"high": 21,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 196,
+					"high": 20,
+					"low": 18
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 84,
+					"high": 19,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 102,
+					"high": 19,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 72,
+					"high": 20,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 128,
+					"high": 20,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 249,
+					"high": 21,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 191,
+					"high": 20,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 293,
+					"high": 20,
+					"low": 19
+				}
+			]
+		},
+		"Nananu-i-Ra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 379,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 465,
+					"high": 23,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 431,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 246,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 196,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 190,
+					"high": 21,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 92,
+					"high": 21,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 76,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 177,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 169,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 168,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 341,
+					"high": 23,
+					"low": 21
+				}
+			]
+		}
+	}
+}

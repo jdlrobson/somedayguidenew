@@ -1,0 +1,538 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Ljubljana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.4,
+					"low": -2.5,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 6.4,
+					"low": -2,
+					"precipitation": 70
+				},
+				{
+					"heading": "Mar",
+					"high": 11.4,
+					"low": 1.7,
+					"precipitation": 88
+				},
+				{
+					"heading": "Apr",
+					"high": 16.1,
+					"low": 5.8,
+					"precipitation": 99
+				},
+				{
+					"heading": "May",
+					"high": 21.4,
+					"low": 10.3,
+					"precipitation": 109
+				},
+				{
+					"heading": "Jun",
+					"high": 24.6,
+					"low": 13.7,
+					"precipitation": 144
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 15.5,
+					"precipitation": 115
+				},
+				{
+					"heading": "Aug",
+					"high": 26.7,
+					"low": 15.2,
+					"precipitation": 137
+				},
+				{
+					"heading": "Sep",
+					"high": 21.6,
+					"low": 11.5,
+					"precipitation": 147
+				},
+				{
+					"heading": "Oct",
+					"high": 15.9,
+					"low": 7.7,
+					"precipitation": 147
+				},
+				{
+					"heading": "Nov",
+					"high": 8.8,
+					"low": 2.8,
+					"precipitation": 129
+				},
+				{
+					"heading": "Dec",
+					"high": 3.8,
+					"low": -1.1,
+					"precipitation": 107
+				}
+			]
+		},
+		"Celje": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.1,
+					"low": -4.6,
+					"precipitation": 47
+				},
+				{
+					"heading": "Feb",
+					"high": 6.8,
+					"low": -4.2,
+					"precipitation": 50
+				},
+				{
+					"heading": "Mar",
+					"high": 11.6,
+					"low": -0.2,
+					"precipitation": 71
+				},
+				{
+					"heading": "Apr",
+					"high": 16.4,
+					"low": 3.9,
+					"precipitation": 71
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 8.6,
+					"precipitation": 90
+				},
+				{
+					"heading": "Jun",
+					"high": 24.6,
+					"low": 12.3,
+					"precipitation": 132
+				},
+				{
+					"heading": "Jul",
+					"high": 26.9,
+					"low": 13.8,
+					"precipitation": 122
+				},
+				{
+					"heading": "Aug",
+					"high": 26.5,
+					"low": 13.4,
+					"precipitation": 125
+				},
+				{
+					"heading": "Sep",
+					"high": 21.7,
+					"low": 9.7,
+					"precipitation": 118
+				},
+				{
+					"heading": "Oct",
+					"high": 16.3,
+					"low": 5.9,
+					"precipitation": 115
+				},
+				{
+					"heading": "Nov",
+					"high": 9.6,
+					"low": 0.9,
+					"precipitation": 93
+				},
+				{
+					"heading": "Dec",
+					"high": 4.5,
+					"low": -3,
+					"precipitation": 78
+				}
+			]
+		},
+		"Koper": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.8,
+					"low": 3.5,
+					"precipitation": 75
+				},
+				{
+					"heading": "Feb",
+					"high": 9.2,
+					"low": 3.9,
+					"precipitation": 70
+				},
+				{
+					"heading": "Mar",
+					"high": 12.6,
+					"low": 6,
+					"precipitation": 72
+				},
+				{
+					"heading": "Apr",
+					"high": 16.7,
+					"low": 9.2,
+					"precipitation": 89
+				},
+				{
+					"heading": "May",
+					"high": 21.5,
+					"low": 13.4,
+					"precipitation": 82
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 17.2,
+					"precipitation": 92
+				},
+				{
+					"heading": "Jul",
+					"high": 27.5,
+					"low": 19.6,
+					"precipitation": 69
+				},
+				{
+					"heading": "Aug",
+					"high": 27.1,
+					"low": 19.5,
+					"precipitation": 93
+				},
+				{
+					"heading": "Sep",
+					"high": 23.4,
+					"low": 16.4,
+					"precipitation": 111
+				},
+				{
+					"heading": "Oct",
+					"high": 18.6,
+					"low": 12.4,
+					"precipitation": 98
+				},
+				{
+					"heading": "Nov",
+					"high": 13.1,
+					"low": 7.7,
+					"precipitation": 117
+				},
+				{
+					"heading": "Dec",
+					"high": 9.4,
+					"low": 4.8,
+					"precipitation": 88
+				}
+			]
+		},
+		"Maribor": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.9,
+					"low": -3.6,
+					"precipitation": 35
+				},
+				{
+					"heading": "Feb",
+					"high": 6.6,
+					"low": -2.3,
+					"precipitation": 38
+				},
+				{
+					"heading": "Mar",
+					"high": 11.4,
+					"low": 1.6,
+					"precipitation": 57
+				},
+				{
+					"heading": "Apr",
+					"high": 16.2,
+					"low": 5.9,
+					"precipitation": 60
+				},
+				{
+					"heading": "May",
+					"high": 21.3,
+					"low": 10.5,
+					"precipitation": 83
+				},
+				{
+					"heading": "Jun",
+					"high": 24.4,
+					"low": 13.7,
+					"precipitation": 107
+				},
+				{
+					"heading": "Jul",
+					"high": 26.6,
+					"low": 15.6,
+					"precipitation": 94
+				},
+				{
+					"heading": "Aug",
+					"high": 26.1,
+					"low": 15.4,
+					"precipitation": 112
+				},
+				{
+					"heading": "Sep",
+					"high": 21.4,
+					"low": 11.3,
+					"precipitation": 99
+				},
+				{
+					"heading": "Oct",
+					"high": 16,
+					"low": 6.8,
+					"precipitation": 78
+				},
+				{
+					"heading": "Nov",
+					"high": 9.2,
+					"low": 1.8,
+					"precipitation": 69
+				},
+				{
+					"heading": "Dec",
+					"high": 4.4,
+					"low": -2,
+					"precipitation": 61
+				}
+			]
+		},
+		"Postojna": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -5,
+					"precipitation": 110
+				},
+				{
+					"heading": "Feb",
+					"high": 4,
+					"low": -4,
+					"precipitation": 86
+				},
+				{
+					"heading": "Mar",
+					"high": 8,
+					"low": -1,
+					"precipitation": 140
+				},
+				{
+					"heading": "Apr",
+					"high": 13,
+					"low": 3,
+					"precipitation": 130
+				},
+				{
+					"heading": "May",
+					"high": 18,
+					"low": 7,
+					"precipitation": 200
+				},
+				{
+					"heading": "Jun",
+					"high": 22,
+					"low": 10,
+					"precipitation": 150
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 11,
+					"precipitation": 130
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 11,
+					"precipitation": 150
+				},
+				{
+					"heading": "Sep",
+					"high": 20,
+					"low": 8,
+					"precipitation": 190
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 4,
+					"precipitation": 210
+				},
+				{
+					"heading": "Nov",
+					"high": 7,
+					"low": 1,
+					"precipitation": 210
+				},
+				{
+					"heading": "Dec",
+					"high": 4,
+					"low": -2,
+					"precipitation": 130
+				}
+			]
+		},
+		"Divača": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 213,
+					"high": 1,
+					"low": -3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 280,
+					"high": 5,
+					"low": -2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 146,
+					"high": 11,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 146,
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 192,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 129,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 111,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 158,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 233,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 208,
+					"high": 14,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 338,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 153,
+					"high": 1,
+					"low": -4
+				}
+			]
+		},
+		"Skocjan Caves": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 213,
+					"high": 1,
+					"low": -3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 280,
+					"high": 5,
+					"low": -2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 146,
+					"high": 11,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 146,
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 192,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 129,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 111,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 158,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 233,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 208,
+					"high": 14,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 338,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 153,
+					"high": 1,
+					"low": -4
+				}
+			]
+		}
+	}
+}

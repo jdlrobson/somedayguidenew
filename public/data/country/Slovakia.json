@@ -1,0 +1,730 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bratislava": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 39,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 37,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 38,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 34,
+					"high": 17,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 55,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 57,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 53,
+					"high": 28,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 59,
+					"high": 27,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 55,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 38,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 54,
+					"high": 8,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 46,
+					"high": 3,
+					"low": null
+				}
+			]
+		},
+		"Banská Bystrica": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 149,
+					"high": -5,
+					"low": -8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 117,
+					"high": -1,
+					"low": -6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 70,
+					"high": 7,
+					"low": -3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 66,
+					"high": 17,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 125,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 117,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 123,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 87,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 93,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 98,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 88,
+					"high": 4,
+					"low": -5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 70,
+					"high": -5,
+					"low": -9
+				}
+			]
+		},
+		"Košice": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 25,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 24,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 26,
+					"high": 9,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 49,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 70,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 86,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 83,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 70,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 53,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 47,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 42,
+					"high": 6,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": 1,
+					"low": null
+				}
+			]
+		},
+		"Nitra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -5,
+					"precipitation": 51
+				},
+				{
+					"heading": "Feb",
+					"high": 4,
+					"low": -4,
+					"precipitation": 45
+				},
+				{
+					"heading": "Mar",
+					"high": 9,
+					"low": 0,
+					"precipitation": 45
+				},
+				{
+					"heading": "Apr",
+					"high": 16,
+					"low": 6,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 21,
+					"low": 11,
+					"precipitation": 54
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 14,
+					"precipitation": 46
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 16,
+					"precipitation": 42
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 16,
+					"precipitation": 35
+				},
+				{
+					"heading": "Sep",
+					"high": 20,
+					"low": 12,
+					"precipitation": 34
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 7,
+					"precipitation": 35
+				},
+				{
+					"heading": "Nov",
+					"high": 8,
+					"low": 2,
+					"precipitation": 51
+				},
+				{
+					"heading": "Dec",
+					"high": 2,
+					"low": -4,
+					"precipitation": 55
+				}
+			]
+		},
+		"Poprad": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 22,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 26,
+					"high": 11,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 28,
+					"high": 14,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 42,
+					"high": 20,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 73,
+					"high": 22,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 91,
+					"high": 25,
+					"low": 6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 68,
+					"high": 31,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 68,
+					"high": 31,
+					"low": 5
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 49,
+					"high": 28,
+					"low": 1
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 38,
+					"high": 25,
+					"low": null
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 45,
+					"high": 15,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 29,
+					"high": 10,
+					"low": null
+				}
+			]
+		},
+		"Trenčín": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -4
+				},
+				{
+					"heading": "Feb",
+					"high": 4,
+					"low": -3
+				},
+				{
+					"heading": "Mar",
+					"high": 10,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"high": 3,
+					"low": -2
+				}
+			]
+		},
+		"Trnava": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -4
+				},
+				{
+					"heading": "Feb",
+					"high": 4,
+					"low": -3
+				},
+				{
+					"heading": "Mar",
+					"high": 10,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"high": 3,
+					"low": -2
+				}
+			]
+		},
+		"Žilina": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0,
+					"low": -5
+				},
+				{
+					"heading": "Feb",
+					"high": 3,
+					"low": -5
+				},
+				{
+					"heading": "Mar",
+					"high": 8,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"high": 6,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 1,
+					"low": -4
+				}
+			]
+		},
+		"Levoča": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 83,
+					"high": -7,
+					"low": -9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 85,
+					"high": -3,
+					"low": -10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 53,
+					"high": 7,
+					"low": -4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 59,
+					"high": 18,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 127,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 123,
+					"high": 24,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 127,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 59,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 66,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 76,
+					"high": 11,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 63,
+					"high": 3,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 36,
+					"high": -5,
+					"low": -11
+				}
+			]
+		},
+		"Piešťany": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 98,
+					"high": -5,
+					"low": -7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 89,
+					"high": 3,
+					"low": -4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 51,
+					"high": 10,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 18,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 81,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 87,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 78,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 77,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 101,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 57,
+					"high": 6,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 59,
+					"high": -2,
+					"low": -7
+				}
+			]
+		}
+	}
+}

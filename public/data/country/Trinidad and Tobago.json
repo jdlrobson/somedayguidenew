@@ -1,0 +1,336 @@
+{
+	"note": "<p>If there&#39;s only one thing you do in Trindidad make sure you see the Scarlet Ibis at <strong>Caroni Swamp</strong></p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BrIBEN7A_iG",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BrHCELzgQGM",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BrHB0nrAjqI",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BrBRAXngs70",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BrIBocygVNX",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Chaguanas": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 109,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 53,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 73,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 111,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 147,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 211,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 165,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 198,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 127,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 207,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 292,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 224,
+					"high": 24,
+					"low": 21
+				}
+			]
+		},
+		"Point Fortin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 116,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 67,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 94,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 112,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 163,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 212,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 167,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 188,
+					"high": 23,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 129,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 221,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 235,
+					"high": 23,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 183,
+					"high": 23,
+					"low": 21
+				}
+			]
+		},
+		"Scarborough (Trinidad and Tobago)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 48,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 48,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 43,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 64,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 147,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 188,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 163,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 170,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 221,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 206,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 160,
+					"high": 29,
+					"low": 23
+				}
+			]
+		},
+		"Port of Spain": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 43,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 40,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 17,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 28,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 68,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 156,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 194,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 244,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 191,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 143,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 211,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 76,
+					"high": 31,
+					"low": 21
+				}
+			]
+		}
+	}
+}

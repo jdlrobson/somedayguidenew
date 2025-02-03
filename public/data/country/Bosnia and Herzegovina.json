@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Sarajevo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 68,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 64,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 70,
+					"high": 11,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 77,
+					"high": 16,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 72,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 90,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 72,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 91,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 86,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 85,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 86,
+					"high": 4,
+					"low": null
+				}
+			]
+		},
+		"Banja Luka": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.7,
+					"low": -2.1,
+					"precipitation": 71.7
+				},
+				{
+					"heading": "Feb",
+					"high": 7.8,
+					"low": -1.4,
+					"precipitation": 67.6
+				},
+				{
+					"heading": "Mar",
+					"high": 13.7,
+					"low": 1.8,
+					"precipitation": 77.8
+				},
+				{
+					"heading": "Apr",
+					"high": 19.3,
+					"low": 6.4,
+					"precipitation": 86.5
+				},
+				{
+					"heading": "May",
+					"high": 23.2,
+					"low": 10,
+					"precipitation": 98.3
+				},
+				{
+					"heading": "Jun",
+					"high": 27.3,
+					"low": 14.4,
+					"precipitation": 109.2
+				},
+				{
+					"heading": "Jul",
+					"high": 29.9,
+					"low": 16,
+					"precipitation": 73.9
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 15.6,
+					"precipitation": 74.2
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 11.4,
+					"precipitation": 83.9
+				},
+				{
+					"heading": "Oct",
+					"high": 18.5,
+					"low": 7,
+					"precipitation": 103.9
+				},
+				{
+					"heading": "Nov",
+					"high": 13,
+					"low": 3.2,
+					"precipitation": 89.5
+				},
+				{
+					"heading": "Dec",
+					"high": 7.2,
+					"low": -0.7,
+					"precipitation": 100.8
+				}
+			]
+		},
+		"Mostar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.3,
+					"low": 1.9,
+					"precipitation": 164.7
+				},
+				{
+					"heading": "Feb",
+					"high": 10.8,
+					"low": 3.2,
+					"precipitation": 153.2
+				},
+				{
+					"heading": "Mar",
+					"high": 14.6,
+					"low": 5.4,
+					"precipitation": 150
+				},
+				{
+					"heading": "Apr",
+					"high": 19,
+					"low": 8.4,
+					"precipitation": 127.3
+				},
+				{
+					"heading": "May",
+					"high": 24,
+					"low": 12.5,
+					"precipitation": 102.1
+				},
+				{
+					"heading": "Jun",
+					"high": 27.6,
+					"low": 15.8,
+					"precipitation": 77.9
+				},
+				{
+					"heading": "Jul",
+					"high": 31.1,
+					"low": 18.6,
+					"precipitation": 44.8
+				},
+				{
+					"heading": "Aug",
+					"high": 31.2,
+					"low": 18.4,
+					"precipitation": 73.7
+				},
+				{
+					"heading": "Sep",
+					"high": 26.9,
+					"low": 15.3,
+					"precipitation": 96.3
+				},
+				{
+					"heading": "Oct",
+					"high": 21,
+					"low": 11.2,
+					"precipitation": 153.5
+				},
+				{
+					"heading": "Nov",
+					"high": 14.5,
+					"low": 6.7,
+					"precipitation": 199.9
+				},
+				{
+					"heading": "Dec",
+					"high": 9.7,
+					"low": 3.3,
+					"precipitation": 178.9
+				}
+			]
+		},
+		"Neum": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 247,
+					"high": 7,
+					"low": 3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 319,
+					"high": 9,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 207,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 196,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 119,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 81,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 63,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 63,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 196,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 151,
+					"high": 17,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 221,
+					"high": 14,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 209,
+					"high": 12,
+					"low": 6
+				}
+			]
+		},
+		"Tuzla": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 5.6,
+					"low": -2.7,
+					"precipitation": 58
+				},
+				{
+					"heading": "Feb",
+					"high": 8,
+					"low": -2,
+					"precipitation": 50
+				},
+				{
+					"heading": "Mar",
+					"high": 13,
+					"low": 1.4,
+					"precipitation": 57.6
+				},
+				{
+					"heading": "Apr",
+					"high": 18.2,
+					"low": 5.4,
+					"precipitation": 70
+				},
+				{
+					"heading": "May",
+					"high": 22.6,
+					"low": 9.4,
+					"precipitation": 97.9
+				},
+				{
+					"heading": "Jun",
+					"high": 26,
+					"low": 13,
+					"precipitation": 115.6
+				},
+				{
+					"heading": "Jul",
+					"high": 28.5,
+					"low": 14.7,
+					"precipitation": 92.7
+				},
+				{
+					"heading": "Aug",
+					"high": 28.8,
+					"low": 14.5,
+					"precipitation": 67.8
+				},
+				{
+					"heading": "Sep",
+					"high": 23.2,
+					"low": 10.5,
+					"precipitation": 82.3
+				},
+				{
+					"heading": "Oct",
+					"high": 18.4,
+					"low": 6.3,
+					"precipitation": 81.6
+				},
+				{
+					"heading": "Nov",
+					"high": 12.2,
+					"low": 2.2,
+					"precipitation": 72.6
+				},
+				{
+					"heading": "Dec",
+					"high": 5.7,
+					"low": -1.8,
+					"precipitation": 67.2
+				}
+			]
+		},
+		"Teslic": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 104,
+					"high": -1,
+					"low": -5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 119,
+					"high": 6,
+					"low": -2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 79,
+					"high": 13,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 147,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 206,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 96,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 104,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 101,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 153,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 88,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 96,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 84,
+					"high": -1,
+					"low": -5
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,1388 @@
+{
+	"note": "<p>On a sunny day visit Englischer Garten. There was a nice stream running through the park where everyone was jumping in.I recommend visiting 11th November - for Cologne Carnival festivities. Lots of Kölsch to drink!</p>\n",
+	"snippets": [
+		{
+			"text": "Eat pretzels and drink beer at Augustiner Bierhalle",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Augustiner Bierhalle",
+			"url": "https://www.augustiner-restaurant.com/html/film.html"
+		},
+		{
+			"src": "https://en.wikipedia.org/wiki/Cologne_Carnival",
+			"type": "url",
+			"embed": false
+		}
+	],
+	"places": {
+		"Berlin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 42,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 33,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 41,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 37,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 54,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 69,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 56,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 58,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 45,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 37,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 44,
+					"high": 8,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 55,
+					"high": 4,
+					"low": 0
+				}
+			]
+		},
+		"Bremen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.9,
+					"low": -1.1,
+					"precipitation": 55.1
+				},
+				{
+					"heading": "Feb",
+					"high": 4.8,
+					"low": -1.1,
+					"precipitation": 35.6
+				},
+				{
+					"heading": "Mar",
+					"high": 8.7,
+					"low": 1.3,
+					"precipitation": 51.2
+				},
+				{
+					"heading": "Apr",
+					"high": 12.8,
+					"low": 3.4,
+					"precipitation": 40.8
+				},
+				{
+					"heading": "May",
+					"high": 18,
+					"low": 7.4,
+					"precipitation": 54.2
+				},
+				{
+					"heading": "Jun",
+					"high": 20.2,
+					"low": 10.3,
+					"precipitation": 73.4
+				},
+				{
+					"heading": "Jul",
+					"high": 22.4,
+					"low": 12.4,
+					"precipitation": 65
+				},
+				{
+					"heading": "Aug",
+					"high": 22.6,
+					"low": 12.1,
+					"precipitation": 61.2
+				},
+				{
+					"heading": "Sep",
+					"high": 18.4,
+					"low": 9.3,
+					"precipitation": 60.1
+				},
+				{
+					"heading": "Oct",
+					"high": 13.5,
+					"low": 5.8,
+					"precipitation": 55.4
+				},
+				{
+					"heading": "Nov",
+					"high": 8,
+					"low": 2.3,
+					"precipitation": 57.7
+				},
+				{
+					"heading": "Dec",
+					"high": 5.1,
+					"low": 0.3,
+					"precipitation": 61.6
+				}
+			]
+		},
+		"Cologne": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 5.4,
+					"low": -0.6,
+					"precipitation": 62.1
+				},
+				{
+					"heading": "Feb",
+					"high": 6.7,
+					"low": -0.7,
+					"precipitation": 54.2
+				},
+				{
+					"heading": "Mar",
+					"high": 10.9,
+					"low": 2,
+					"precipitation": 64.6
+				},
+				{
+					"heading": "Apr",
+					"high": 15.1,
+					"low": 4.2,
+					"precipitation": 53.9
+				},
+				{
+					"heading": "May",
+					"high": 19.3,
+					"low": 8.1,
+					"precipitation": 72.2
+				},
+				{
+					"heading": "Jun",
+					"high": 21.9,
+					"low": 11,
+					"precipitation": 90.7
+				},
+				{
+					"heading": "Jul",
+					"high": 24.4,
+					"low": 13.2,
+					"precipitation": 85.8
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 12.6,
+					"precipitation": 75
+				},
+				{
+					"heading": "Sep",
+					"high": 19.9,
+					"low": 9.8,
+					"precipitation": 74.9
+				},
+				{
+					"heading": "Oct",
+					"high": 15.1,
+					"low": 6.7,
+					"precipitation": 67.1
+				},
+				{
+					"heading": "Nov",
+					"high": 9.5,
+					"low": 3.1,
+					"precipitation": 67
+				},
+				{
+					"heading": "Dec",
+					"high": 5.9,
+					"low": 0.4,
+					"precipitation": 71.1
+				}
+			]
+		},
+		"Dresden": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.7,
+					"low": -2.4,
+					"precipitation": 46.5
+				},
+				{
+					"heading": "Feb",
+					"high": 3.9,
+					"low": -1.9,
+					"precipitation": 34.6
+				},
+				{
+					"heading": "Mar",
+					"high": 8.3,
+					"low": 1.2,
+					"precipitation": 43.2
+				},
+				{
+					"heading": "Apr",
+					"high": 13.7,
+					"low": 4.4,
+					"precipitation": 41.2
+				},
+				{
+					"heading": "May",
+					"high": 18.9,
+					"low": 8.9,
+					"precipitation": 64.8
+				},
+				{
+					"heading": "Jun",
+					"high": 21.5,
+					"low": 11.9,
+					"precipitation": 64.6
+				},
+				{
+					"heading": "Jul",
+					"high": 24.2,
+					"low": 14,
+					"precipitation": 87.4
+				},
+				{
+					"heading": "Aug",
+					"high": 23.8,
+					"low": 13.9,
+					"precipitation": 83
+				},
+				{
+					"heading": "Sep",
+					"high": 18.9,
+					"low": 10.4,
+					"precipitation": 50.2
+				},
+				{
+					"heading": "Oct",
+					"high": 13.6,
+					"low": 6.5,
+					"precipitation": 42.5
+				},
+				{
+					"heading": "Nov",
+					"high": 7.2,
+					"low": 2.1,
+					"precipitation": 53.9
+				},
+				{
+					"heading": "Dec",
+					"high": 3.5,
+					"low": -1.2,
+					"precipitation": 52.1
+				}
+			]
+		},
+		"Düsseldorf": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 5.5,
+					"low": 1.2,
+					"precipitation": 61.1
+				},
+				{
+					"heading": "Feb",
+					"high": 6.9,
+					"low": 1.3,
+					"precipitation": 55.7
+				},
+				{
+					"heading": "Mar",
+					"high": 10.9,
+					"low": 3.3,
+					"precipitation": 54.6
+				},
+				{
+					"heading": "Apr",
+					"high": 15.2,
+					"low": 5.5,
+					"precipitation": 50.8
+				},
+				{
+					"heading": "May",
+					"high": 19.4,
+					"low": 9.3,
+					"precipitation": 57.6
+				},
+				{
+					"heading": "Jun",
+					"high": 22.1,
+					"low": 12,
+					"precipitation": 71.5
+				},
+				{
+					"heading": "Jul",
+					"high": 24.3,
+					"low": 14.4,
+					"precipitation": 77
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 14.1,
+					"precipitation": 74.5
+				},
+				{
+					"heading": "Sep",
+					"high": 19.8,
+					"low": 11.2,
+					"precipitation": 100.5
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 8.1,
+					"precipitation": 65.3
+				},
+				{
+					"heading": "Nov",
+					"high": 9.5,
+					"low": 4.6,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "Dec",
+					"high": 5.7,
+					"low": 1.7,
+					"precipitation": 71.1
+				}
+			]
+		},
+		"Frankfurt": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.2,
+					"low": -1.1,
+					"precipitation": 44.5
+				},
+				{
+					"heading": "Feb",
+					"high": 5.9,
+					"low": -1.1,
+					"precipitation": 40.9
+				},
+				{
+					"heading": "Mar",
+					"high": 10.7,
+					"low": 2.1,
+					"precipitation": 48.4
+				},
+				{
+					"heading": "Apr",
+					"high": 15.4,
+					"low": 4.9,
+					"precipitation": 42.1
+				},
+				{
+					"heading": "May",
+					"high": 20,
+					"low": 9.1,
+					"precipitation": 63.4
+				},
+				{
+					"heading": "Jun",
+					"high": 23.1,
+					"low": 12.3,
+					"precipitation": 58.1
+				},
+				{
+					"heading": "Jul",
+					"high": 25.5,
+					"low": 14.4,
+					"precipitation": 64.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.1,
+					"low": 14,
+					"precipitation": 56.5
+				},
+				{
+					"heading": "Sep",
+					"high": 20.3,
+					"low": 10.5,
+					"precipitation": 53
+				},
+				{
+					"heading": "Oct",
+					"high": 14.6,
+					"low": 6.6,
+					"precipitation": 54.7
+				},
+				{
+					"heading": "Nov",
+					"high": 8.4,
+					"low": 2.8,
+					"precipitation": 49.1
+				},
+				{
+					"heading": "Dec",
+					"high": 4.9,
+					"low": -0.1,
+					"precipitation": 53.9
+				}
+			]
+		},
+		"Hamburg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 68,
+					"high": 4,
+					"low": 0
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50,
+					"high": 5,
+					"low": 0
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 68,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 43,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 57,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 79,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 77,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 79,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 67,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 67,
+					"high": 13,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 69,
+					"high": 8,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 69,
+					"high": 4,
+					"low": 1
+				}
+			]
+		},
+		"Munich": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 54,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 45,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 60,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 70,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 93,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 124,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 118,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 115,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 90,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 71,
+					"high": 7,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 58,
+					"high": 2,
+					"low": null
+				}
+			]
+		},
+		"Nuremberg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.9,
+					"low": -3.1,
+					"precipitation": 41.7
+				},
+				{
+					"heading": "Feb",
+					"high": 4.6,
+					"low": -2.9,
+					"precipitation": 36.6
+				},
+				{
+					"heading": "Mar",
+					"high": 9.2,
+					"low": 0.4,
+					"precipitation": 47
+				},
+				{
+					"heading": "Apr",
+					"high": 14.4,
+					"low": 3.3,
+					"precipitation": 39.8
+				},
+				{
+					"heading": "May",
+					"high": 19.4,
+					"low": 8,
+					"precipitation": 60.8
+				},
+				{
+					"heading": "Jun",
+					"high": 21.8,
+					"low": 11.1,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "Jul",
+					"high": 24.6,
+					"low": 13.3,
+					"precipitation": 80.4
+				},
+				{
+					"heading": "Aug",
+					"high": 24.2,
+					"low": 12.8,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Sep",
+					"high": 19.4,
+					"low": 9,
+					"precipitation": 49.6
+				},
+				{
+					"heading": "Oct",
+					"high": 13.9,
+					"low": 5.2,
+					"precipitation": 52.6
+				},
+				{
+					"heading": "Nov",
+					"high": 7.2,
+					"low": 1.2,
+					"precipitation": 47.4
+				},
+				{
+					"heading": "Dec",
+					"high": 3.5,
+					"low": -1.7,
+					"precipitation": 51.4
+				}
+			]
+		},
+		"North Frisian Islands": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": 1,
+					"low": -3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": 2,
+					"low": -1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 7,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 11,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 19,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 13,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 7,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": 4,
+					"low": 1
+				}
+			]
+		},
+		"Weinheim": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 93,
+					"high": -2,
+					"low": -6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 73,
+					"high": 3,
+					"low": -1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 33,
+					"high": 8,
+					"low": 2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 71,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 109,
+					"high": 17,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 85,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 121,
+					"high": 21,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 99,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 91,
+					"high": 17,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 94,
+					"high": 11,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 110,
+					"high": 4,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 117,
+					"high": -1,
+					"low": -6
+				}
+			]
+		},
+		"Augsburg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.3,
+					"low": -3.9,
+					"precipitation": 40.1
+				},
+				{
+					"heading": "Feb",
+					"high": 4.1,
+					"low": -3.7,
+					"precipitation": 36.6
+				},
+				{
+					"heading": "Mar",
+					"high": 8.9,
+					"low": -0.2,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "Apr",
+					"high": 13.6,
+					"low": 2.7,
+					"precipitation": 50.7
+				},
+				{
+					"heading": "May",
+					"high": 18.5,
+					"low": 7.3,
+					"precipitation": 85.5
+				},
+				{
+					"heading": "Jun",
+					"high": 21.4,
+					"low": 10.5,
+					"precipitation": 90
+				},
+				{
+					"heading": "Jul",
+					"high": 23.8,
+					"low": 12.3,
+					"precipitation": 99.7
+				},
+				{
+					"heading": "Aug",
+					"high": 23.5,
+					"low": 11.9,
+					"precipitation": 92.2
+				},
+				{
+					"heading": "Sep",
+					"high": 18.8,
+					"low": 8.3,
+					"precipitation": 65.9
+				},
+				{
+					"heading": "Oct",
+					"high": 13.4,
+					"low": 4.8,
+					"precipitation": 52.8
+				},
+				{
+					"heading": "Nov",
+					"high": 6.6,
+					"low": 0.3,
+					"precipitation": 52.1
+				},
+				{
+					"heading": "Dec",
+					"high": 3.1,
+					"low": -2.5,
+					"precipitation": 53.5
+				}
+			]
+		},
+		"Bamberg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.9,
+					"low": -3.2,
+					"precipitation": 47.1
+				},
+				{
+					"heading": "Feb",
+					"high": 4.7,
+					"low": -3,
+					"precipitation": 39
+				},
+				{
+					"heading": "Mar",
+					"high": 9.5,
+					"low": 0.2,
+					"precipitation": 49.4
+				},
+				{
+					"heading": "Apr",
+					"high": 14.8,
+					"low": 3.1,
+					"precipitation": 41.5
+				},
+				{
+					"heading": "May",
+					"high": 19.7,
+					"low": 7.6,
+					"precipitation": 64.4
+				},
+				{
+					"heading": "Jun",
+					"high": 22.5,
+					"low": 10.7,
+					"precipitation": 61.4
+				},
+				{
+					"heading": "Jul",
+					"high": 24.9,
+					"low": 12.7,
+					"precipitation": 78
+				},
+				{
+					"heading": "Aug",
+					"high": 24.5,
+					"low": 12.2,
+					"precipitation": 55.3
+				},
+				{
+					"heading": "Sep",
+					"high": 19.8,
+					"low": 8.6,
+					"precipitation": 56.8
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 5,
+					"precipitation": 51.1
+				},
+				{
+					"heading": "Nov",
+					"high": 7.3,
+					"low": 1.2,
+					"precipitation": 51.9
+				},
+				{
+					"heading": "Dec",
+					"high": 3.6,
+					"low": -1.8,
+					"precipitation": 55
+				}
+			]
+		},
+		"Ulm": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 124,
+					"high": -4,
+					"low": -8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 73,
+					"high": 3,
+					"low": -5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 42,
+					"high": 9,
+					"low": -3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 72,
+					"high": 17,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 112,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 148,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 125,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 155,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 114,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 99,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 96,
+					"high": 4,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 87,
+					"high": -2,
+					"low": -8
+				}
+			]
+		},
+		"Stuttgart": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.7,
+					"low": -2.9,
+					"precipitation": 41.2
+				},
+				{
+					"heading": "Feb",
+					"high": 5.4,
+					"low": -2.5,
+					"precipitation": 36.5
+				},
+				{
+					"heading": "Mar",
+					"high": 9.8,
+					"low": 0.8,
+					"precipitation": 47.6
+				},
+				{
+					"heading": "Apr",
+					"high": 14.1,
+					"low": 3.8,
+					"precipitation": 49.6
+				},
+				{
+					"heading": "May",
+					"high": 18.6,
+					"low": 8.2,
+					"precipitation": 85.7
+				},
+				{
+					"heading": "Jun",
+					"high": 23.7,
+					"low": 11.3,
+					"precipitation": 86.8
+				},
+				{
+					"heading": "Jul",
+					"high": 26.2,
+					"low": 13.3,
+					"precipitation": 86.1
+				},
+				{
+					"heading": "Aug",
+					"high": 25.9,
+					"low": 12.9,
+					"precipitation": 69.1
+				},
+				{
+					"heading": "Sep",
+					"high": 19.5,
+					"low": 9.2,
+					"precipitation": 57.1
+				},
+				{
+					"heading": "Oct",
+					"high": 14.4,
+					"low": 5.4,
+					"precipitation": 58.8
+				},
+				{
+					"heading": "Nov",
+					"high": 8.1,
+					"low": 1,
+					"precipitation": 49.8
+				},
+				{
+					"heading": "Dec",
+					"high": 4.4,
+					"low": -1.6,
+					"precipitation": 50.4
+				}
+			]
+		},
+		"Bayreuth": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1,
+					"low": -4,
+					"precipitation": 46
+				},
+				{
+					"heading": "Feb",
+					"high": 3,
+					"low": -4,
+					"precipitation": 33
+				},
+				{
+					"heading": "Mar",
+					"high": 8,
+					"low": -1,
+					"precipitation": 36
+				},
+				{
+					"heading": "Apr",
+					"high": 13,
+					"low": 2,
+					"precipitation": 43
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 6,
+					"precipitation": 56
+				},
+				{
+					"heading": "Jun",
+					"high": 23,
+					"low": 9,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 11,
+					"precipitation": 71
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 11,
+					"precipitation": 69
+				},
+				{
+					"heading": "Sep",
+					"high": 21,
+					"low": 8,
+					"precipitation": 46
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 4,
+					"precipitation": 46
+				},
+				{
+					"heading": "Nov",
+					"high": 6,
+					"low": 0,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": 2,
+					"low": -3,
+					"precipitation": 48
+				}
+			]
+		},
+		"Leipzig": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.2,
+					"low": -2.2,
+					"precipitation": 31.9
+				},
+				{
+					"heading": "Feb",
+					"high": 4.3,
+					"low": -2,
+					"precipitation": 26.3
+				},
+				{
+					"heading": "Mar",
+					"high": 8.7,
+					"low": 1.1,
+					"precipitation": 38.8
+				},
+				{
+					"heading": "Apr",
+					"high": 13.9,
+					"low": 4.1,
+					"precipitation": 39.6
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 8.5,
+					"precipitation": 46.9
+				},
+				{
+					"heading": "Jun",
+					"high": 21.7,
+					"low": 11.5,
+					"precipitation": 54.8
+				},
+				{
+					"heading": "Jul",
+					"high": 24.5,
+					"low": 13.8,
+					"precipitation": 68.9
+				},
+				{
+					"heading": "Aug",
+					"high": 24.1,
+					"low": 13.6,
+					"precipitation": 63.1
+				},
+				{
+					"heading": "Sep",
+					"high": 19.3,
+					"low": 10.1,
+					"precipitation": 49.9
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 6.2,
+					"precipitation": 31
+				},
+				{
+					"heading": "Nov",
+					"high": 7.6,
+					"low": 2,
+					"precipitation": 43.4
+				},
+				{
+					"heading": "Dec",
+					"high": 3.6,
+					"low": -1.2,
+					"precipitation": 39.8
+				}
+			]
+		},
+		"Memmingen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 169,
+					"high": -4,
+					"low": -7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 107,
+					"high": -1,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 71,
+					"high": 9,
+					"low": -4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 92,
+					"high": 15,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 164,
+					"high": 22,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 238,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 182,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 208,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 174,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 140,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 108,
+					"high": 4,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 140,
+					"high": -4,
+					"low": -9
+				}
+			]
+		}
+	}
+}

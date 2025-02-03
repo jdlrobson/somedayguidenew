@@ -1,0 +1,310 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Vilnius": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.9,
+					"low": -6.6,
+					"precipitation": 48.7
+				},
+				{
+					"heading": "Feb",
+					"high": -1.2,
+					"low": -6.8,
+					"precipitation": 38.2
+				},
+				{
+					"heading": "Mar",
+					"high": 3.8,
+					"low": -3.4,
+					"precipitation": 42.1
+				},
+				{
+					"heading": "Apr",
+					"high": 12,
+					"low": 2.1,
+					"precipitation": 41.6
+				},
+				{
+					"heading": "May",
+					"high": 18.4,
+					"low": 7.3,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "Jun",
+					"high": 20.8,
+					"low": 10.6,
+					"precipitation": 78.6
+				},
+				{
+					"heading": "Jul",
+					"high": 23.2,
+					"low": 13,
+					"precipitation": 86.3
+				},
+				{
+					"heading": "Aug",
+					"high": 22.4,
+					"low": 12.1,
+					"precipitation": 72.3
+				},
+				{
+					"heading": "Sep",
+					"high": 16.6,
+					"low": 7.9,
+					"precipitation": 63.3
+				},
+				{
+					"heading": "Oct",
+					"high": 10.2,
+					"low": 3.6,
+					"precipitation": 54.7
+				},
+				{
+					"heading": "Nov",
+					"high": 3.2,
+					"low": -1.1,
+					"precipitation": 47.7
+				},
+				{
+					"heading": "Dec",
+					"high": -0.8,
+					"low": -5.2,
+					"precipitation": 52.6
+				}
+			]
+		},
+		"Kaunas": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 39,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 31,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 35,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 42,
+					"high": 11,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 55,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 69,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 80,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 78,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 56,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 45,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 47,
+					"high": 0,
+					"low": null
+				}
+			]
+		},
+		"Klaipėda": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1,
+					"low": -3.3,
+					"precipitation": 65.8
+				},
+				{
+					"heading": "Feb",
+					"high": 0.9,
+					"low": -3.6,
+					"precipitation": 41.8
+				},
+				{
+					"heading": "Mar",
+					"high": 4.1,
+					"low": -1.2,
+					"precipitation": 46.5
+				},
+				{
+					"heading": "Apr",
+					"high": 10.1,
+					"low": 2.8,
+					"precipitation": 33.2
+				},
+				{
+					"heading": "May",
+					"high": 15.7,
+					"low": 7.4,
+					"precipitation": 40.3
+				},
+				{
+					"heading": "Jun",
+					"high": 18.3,
+					"low": 11.1,
+					"precipitation": 61.2
+				},
+				{
+					"heading": "Jul",
+					"high": 21.2,
+					"low": 14.3,
+					"precipitation": 62.2
+				},
+				{
+					"heading": "Aug",
+					"high": 21.4,
+					"low": 14.4,
+					"precipitation": 87.9
+				},
+				{
+					"heading": "Sep",
+					"high": 17,
+					"low": 10.3,
+					"precipitation": 83.6
+				},
+				{
+					"heading": "Oct",
+					"high": 11.7,
+					"low": 6.3,
+					"precipitation": 93.7
+				},
+				{
+					"heading": "Nov",
+					"high": 5.9,
+					"low": 1.6,
+					"precipitation": 89.9
+				},
+				{
+					"heading": "Dec",
+					"high": 2.8,
+					"low": -1.5,
+					"precipitation": 72
+				}
+			]
+		},
+		"Šiauliai": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.7,
+					"low": -7.9,
+					"precipitation": 41.7
+				},
+				{
+					"heading": "Feb",
+					"high": -0.4,
+					"low": -7.7,
+					"precipitation": 30.7
+				},
+				{
+					"heading": "Mar",
+					"high": 4,
+					"low": -4.2,
+					"precipitation": 35.9
+				},
+				{
+					"heading": "Apr",
+					"high": 11.6,
+					"low": 1.2,
+					"precipitation": 34.5
+				},
+				{
+					"heading": "May",
+					"high": 17.9,
+					"low": 6.7,
+					"precipitation": 50.6
+				},
+				{
+					"heading": "Jun",
+					"high": 20.5,
+					"low": 10.5,
+					"precipitation": 72.5
+				},
+				{
+					"heading": "Jul",
+					"high": 23.1,
+					"low": 12.3,
+					"precipitation": 71.7
+				},
+				{
+					"heading": "Aug",
+					"high": 22.3,
+					"low": 11.7,
+					"precipitation": 69.4
+				},
+				{
+					"heading": "Sep",
+					"high": 16.6,
+					"low": 8.1,
+					"precipitation": 55.2
+				},
+				{
+					"heading": "Oct",
+					"high": 10.6,
+					"low": 4.1,
+					"precipitation": 63.1
+				},
+				{
+					"heading": "Nov",
+					"high": 4,
+					"low": -0.3,
+					"precipitation": 51.3
+				},
+				{
+					"heading": "Dec",
+					"high": 0.3,
+					"low": -5,
+					"precipitation": 44.6
+				}
+			]
+		}
+	}
+}

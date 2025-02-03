@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Alpes-Maritimes": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13.1,
+					"low": 5.3,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 13.4,
+					"low": 5.9,
+					"precipitation": 44.7
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 7.9,
+					"precipitation": 38.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17,
+					"low": 10.2,
+					"precipitation": 69.3
+				},
+				{
+					"heading": "May",
+					"high": 20.7,
+					"low": 14.1,
+					"precipitation": 44.6
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 17.5,
+					"precipitation": 34.3
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 20.3,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 20.5,
+					"precipitation": 17.8
+				},
+				{
+					"heading": "Sep",
+					"high": 24.6,
+					"low": 17.3,
+					"precipitation": 73.1
+				},
+				{
+					"heading": "Oct",
+					"high": 21,
+					"low": 13.7,
+					"precipitation": 132.8
+				},
+				{
+					"heading": "Nov",
+					"high": 16.6,
+					"low": 9.2,
+					"precipitation": 103.9
+				},
+				{
+					"heading": "Dec",
+					"high": 13.8,
+					"low": 6.3,
+					"precipitation": 92.7
+				}
+			]
+		},
+		"Monaco": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13,
+					"low": 7.4,
+					"precipitation": 67.7
+				},
+				{
+					"heading": "Feb",
+					"high": 13,
+					"low": 7.4,
+					"precipitation": 48.4
+				},
+				{
+					"heading": "Mar",
+					"high": 14.9,
+					"low": 9.1,
+					"precipitation": 41.2
+				},
+				{
+					"heading": "Apr",
+					"high": 16.7,
+					"low": 10.9,
+					"precipitation": 71.3
+				},
+				{
+					"heading": "May",
+					"high": 20.4,
+					"low": 14.6,
+					"precipitation": 49
+				},
+				{
+					"heading": "Jun",
+					"high": 23.7,
+					"low": 18,
+					"precipitation": 32.6
+				},
+				{
+					"heading": "Jul",
+					"high": 26.6,
+					"low": 21,
+					"precipitation": 13.7
+				},
+				{
+					"heading": "Aug",
+					"high": 26.9,
+					"low": 21.4,
+					"precipitation": 26.5
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 18.3,
+					"precipitation": 72.5
+				},
+				{
+					"heading": "Oct",
+					"high": 20.6,
+					"low": 15.2,
+					"precipitation": 128.7
+				},
+				{
+					"heading": "Nov",
+					"high": 16.5,
+					"low": 11.2,
+					"precipitation": 103.2
+				},
+				{
+					"heading": "Dec",
+					"high": 13.9,
+					"low": 8.5,
+					"precipitation": 88.8
+				}
+			]
+		}
+	}
+}

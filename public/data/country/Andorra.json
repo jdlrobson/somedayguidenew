@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Andorra la Vella": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.9,
+					"low": -2.5,
+					"precipitation": 53.1
+				},
+				{
+					"heading": "Feb",
+					"high": 8.9,
+					"low": -1.8,
+					"precipitation": 37.9
+				},
+				{
+					"heading": "Mar",
+					"high": 11.7,
+					"low": -0.2,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Apr",
+					"high": 13.3,
+					"low": 1.7,
+					"precipitation": 71.2
+				},
+				{
+					"heading": "May",
+					"high": 17.6,
+					"low": 5.3,
+					"precipitation": 89.8
+				},
+				{
+					"heading": "Jun",
+					"high": 21.9,
+					"low": 8.8,
+					"precipitation": 84.2
+				},
+				{
+					"heading": "Jul",
+					"high": 26.2,
+					"low": 11.4,
+					"precipitation": 60.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.4,
+					"low": 11.4,
+					"precipitation": 85.6
+				},
+				{
+					"heading": "Sep",
+					"high": 21.4,
+					"low": 8.5,
+					"precipitation": 80.9
+				},
+				{
+					"heading": "Oct",
+					"high": 16,
+					"low": 4.7,
+					"precipitation": 72.4
+				},
+				{
+					"heading": "Nov",
+					"high": 10.7,
+					"low": 0.6,
+					"precipitation": 68.4
+				},
+				{
+					"heading": "Dec",
+					"high": 7.5,
+					"low": -1.4,
+					"precipitation": 67.9
+				}
+			]
+		}
+	}
+}

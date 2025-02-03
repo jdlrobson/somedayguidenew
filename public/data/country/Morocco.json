@@ -1,0 +1,934 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/28gsFjM2Dv/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/2zMkXRM2Kq",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/2038NZM2P-",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Rabat": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 17.2,
+					"low": 8,
+					"precipitation": 77.2
+				},
+				{
+					"heading": "Feb",
+					"high": 17.7,
+					"low": 8.6,
+					"precipitation": 74.1
+				},
+				{
+					"heading": "Mar",
+					"high": 19.2,
+					"low": 9.2,
+					"precipitation": 60.9
+				},
+				{
+					"heading": "Apr",
+					"high": 20,
+					"low": 10.4,
+					"precipitation": 62
+				},
+				{
+					"heading": "May",
+					"high": 22.1,
+					"low": 12.7,
+					"precipitation": 25.3
+				},
+				{
+					"heading": "Jun",
+					"high": 24.1,
+					"low": 15.4,
+					"precipitation": 6.7
+				},
+				{
+					"heading": "Jul",
+					"high": 26.8,
+					"low": 17.6,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Aug",
+					"high": 27.1,
+					"low": 17.7,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Sep",
+					"high": 26.4,
+					"low": 16.7,
+					"precipitation": 5.7
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 14.1,
+					"precipitation": 43.6
+				},
+				{
+					"heading": "Nov",
+					"high": 20.6,
+					"low": 11.1,
+					"precipitation": 96.7
+				},
+				{
+					"heading": "Dec",
+					"high": 17.7,
+					"low": 8.7,
+					"precipitation": 100.9
+				}
+			]
+		},
+		"Agadir": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20.4,
+					"low": 7.9,
+					"precipitation": 45.5
+				},
+				{
+					"heading": "Feb",
+					"high": 21,
+					"low": 9.4,
+					"precipitation": 42.4
+				},
+				{
+					"heading": "Mar",
+					"high": 22.4,
+					"low": 10.9,
+					"precipitation": 31.1
+				},
+				{
+					"heading": "Apr",
+					"high": 21.9,
+					"low": 12,
+					"precipitation": 25.9
+				},
+				{
+					"heading": "May",
+					"high": 23.2,
+					"low": 14.2,
+					"precipitation": 3.5
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 16.4,
+					"precipitation": 1.1
+				},
+				{
+					"heading": "Jul",
+					"high": 26.1,
+					"low": 18,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Aug",
+					"high": 26.1,
+					"low": 18.2,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Sep",
+					"high": 26.4,
+					"low": 17.3,
+					"precipitation": 3
+				},
+				{
+					"heading": "Oct",
+					"high": 25.3,
+					"low": 15.2,
+					"precipitation": 25.8
+				},
+				{
+					"heading": "Nov",
+					"high": 23.5,
+					"low": 12.3,
+					"precipitation": 52.6
+				},
+				{
+					"heading": "Dec",
+					"high": 20.7,
+					"low": 8.5,
+					"precipitation": 60.7
+				}
+			]
+		},
+		"Casablanca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 63,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 45,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 40,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 35,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 15,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 12,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 45,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 82,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 70,
+					"high": 19,
+					"low": 11
+				}
+			]
+		},
+		"Fez": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.1,
+					"low": 3.7,
+					"precipitation": 72.2
+				},
+				{
+					"heading": "Feb",
+					"high": 16.5,
+					"low": 5,
+					"precipitation": 100.4
+				},
+				{
+					"heading": "Mar",
+					"high": 18.3,
+					"low": 5.9,
+					"precipitation": 93.6
+				},
+				{
+					"heading": "Apr",
+					"high": 19.7,
+					"low": 7.6,
+					"precipitation": 87.7
+				},
+				{
+					"heading": "May",
+					"high": 23.9,
+					"low": 10.2,
+					"precipitation": 53
+				},
+				{
+					"heading": "Jun",
+					"high": 28.5,
+					"low": 13.4,
+					"precipitation": 24.4
+				},
+				{
+					"heading": "Jul",
+					"high": 33.9,
+					"low": 16.7,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 33.8,
+					"low": 17,
+					"precipitation": 3.6
+				},
+				{
+					"heading": "Sep",
+					"high": 30.4,
+					"low": 15,
+					"precipitation": 17
+				},
+				{
+					"heading": "Oct",
+					"high": 24.7,
+					"low": 11.4,
+					"precipitation": 62.3
+				},
+				{
+					"heading": "Nov",
+					"high": 19.3,
+					"low": 7.7,
+					"precipitation": 89.1
+				},
+				{
+					"heading": "Dec",
+					"high": 15.7,
+					"low": 4.6,
+					"precipitation": 85.2
+				}
+			]
+		},
+		"Marrakech": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18.4,
+					"low": 5.9,
+					"precipitation": 32.2
+				},
+				{
+					"heading": "Feb",
+					"high": 19.9,
+					"low": 7.6,
+					"precipitation": 37.9
+				},
+				{
+					"heading": "Mar",
+					"high": 22.3,
+					"low": 9.4,
+					"precipitation": 37.8
+				},
+				{
+					"heading": "Apr",
+					"high": 23.7,
+					"low": 11,
+					"precipitation": 38.8
+				},
+				{
+					"heading": "May",
+					"high": 27.5,
+					"low": 13.8,
+					"precipitation": 23.7
+				},
+				{
+					"heading": "Jun",
+					"high": 31.3,
+					"low": 16.3,
+					"precipitation": 4.5
+				},
+				{
+					"heading": "Jul",
+					"high": 36.8,
+					"low": 19.9,
+					"precipitation": 1.2
+				},
+				{
+					"heading": "Aug",
+					"high": 36.5,
+					"low": 20.1,
+					"precipitation": 3.4
+				},
+				{
+					"heading": "Sep",
+					"high": 32.5,
+					"low": 18.2,
+					"precipitation": 5.9
+				},
+				{
+					"heading": "Oct",
+					"high": 27.5,
+					"low": 14.7,
+					"precipitation": 23.9
+				},
+				{
+					"heading": "Nov",
+					"high": 22.2,
+					"low": 10.4,
+					"precipitation": 40.6
+				},
+				{
+					"heading": "Dec",
+					"high": 18.7,
+					"low": 6.5,
+					"precipitation": 31.4
+				}
+			]
+		},
+		"Meknes": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.3,
+					"low": 5.2,
+					"precipitation": 89.4
+				},
+				{
+					"heading": "Feb",
+					"high": 16.6,
+					"low": 6.3,
+					"precipitation": 84.4
+				},
+				{
+					"heading": "Mar",
+					"high": 18.6,
+					"low": 7.2,
+					"precipitation": 78.4
+				},
+				{
+					"heading": "Apr",
+					"high": 20,
+					"low": 8.8,
+					"precipitation": 74.3
+				},
+				{
+					"heading": "May",
+					"high": 23.8,
+					"low": 11.5,
+					"precipitation": 42.6
+				},
+				{
+					"heading": "Jun",
+					"high": 27.8,
+					"low": 14.6,
+					"precipitation": 12.5
+				},
+				{
+					"heading": "Jul",
+					"high": 32.7,
+					"low": 17.7,
+					"precipitation": 2.1
+				},
+				{
+					"heading": "Aug",
+					"high": 32.6,
+					"low": 17.9,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Sep",
+					"high": 29.6,
+					"low": 16.2,
+					"precipitation": 14.1
+				},
+				{
+					"heading": "Oct",
+					"high": 24.5,
+					"low": 12.8,
+					"precipitation": 47.4
+				},
+				{
+					"heading": "Nov",
+					"high": 19.3,
+					"low": 9.1,
+					"precipitation": 79.6
+				},
+				{
+					"heading": "Dec",
+					"high": 15.6,
+					"low": 5.8,
+					"precipitation": 81.2
+				}
+			]
+		},
+		"Ouarzazate": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.6,
+					"low": 1.9,
+					"precipitation": 13
+				},
+				{
+					"heading": "Feb",
+					"high": 19.3,
+					"low": 4.5,
+					"precipitation": 13.1
+				},
+				{
+					"heading": "Mar",
+					"high": 22.2,
+					"low": 7.4,
+					"precipitation": 7.4
+				},
+				{
+					"heading": "Apr",
+					"high": 25.1,
+					"low": 10,
+					"precipitation": 7.4
+				},
+				{
+					"heading": "May",
+					"high": 29.6,
+					"low": 13.8,
+					"precipitation": 7
+				},
+				{
+					"heading": "Jun",
+					"high": 34.1,
+					"low": 17.7,
+					"precipitation": 2.1
+				},
+				{
+					"heading": "Jul",
+					"high": 37.8,
+					"low": 21.3,
+					"precipitation": 1.4
+				},
+				{
+					"heading": "Aug",
+					"high": 37,
+					"low": 20.7,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Sep",
+					"high": 32.2,
+					"low": 17.1,
+					"precipitation": 13.3
+				},
+				{
+					"heading": "Oct",
+					"high": 26.5,
+					"low": 12.3,
+					"precipitation": 13.4
+				},
+				{
+					"heading": "Nov",
+					"high": 20.4,
+					"low": 6.9,
+					"precipitation": 19.3
+				},
+				{
+					"heading": "Dec",
+					"high": 16.7,
+					"low": 2.4,
+					"precipitation": 9.7
+				}
+			]
+		},
+		"Tangier": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 104,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 99,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 72,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 62,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 37,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 14,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 2.1,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 2.5,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 15,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 65,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 135,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 129,
+					"high": 17,
+					"low": 10
+				}
+			]
+		},
+		"Essaouira": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18.1,
+					"low": 11.2,
+					"precipitation": 51.5
+				},
+				{
+					"heading": "Feb",
+					"high": 18.2,
+					"low": 11.9,
+					"precipitation": 37.4
+				},
+				{
+					"heading": "Mar",
+					"high": 18.7,
+					"low": 12.8,
+					"precipitation": 39.5
+				},
+				{
+					"heading": "Apr",
+					"high": 18.7,
+					"low": 13.4,
+					"precipitation": 34.9
+				},
+				{
+					"heading": "May",
+					"high": 19.5,
+					"low": 14.9,
+					"precipitation": 8.5
+				},
+				{
+					"heading": "Jun",
+					"high": 20.6,
+					"low": 16.5,
+					"precipitation": 1.6
+				},
+				{
+					"heading": "Jul",
+					"high": 21.3,
+					"low": 17.2,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Aug",
+					"high": 21.6,
+					"low": 17.4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 22.1,
+					"low": 17.4,
+					"precipitation": 3.1
+				},
+				{
+					"heading": "Oct",
+					"high": 21.7,
+					"low": 16.4,
+					"precipitation": 25.3
+				},
+				{
+					"heading": "Nov",
+					"high": 20.3,
+					"low": 14.4,
+					"precipitation": 72.7
+				},
+				{
+					"heading": "Dec",
+					"high": 18.7,
+					"low": 11.8,
+					"precipitation": 65
+				}
+			]
+		},
+		"Tinerhir": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 25,
+					"high": 19,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 9,
+					"high": 24,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 35,
+					"high": 30,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 19,
+					"high": 36,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 5,
+					"high": 40,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 2,
+					"high": 45,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3,
+					"high": 44,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 8,
+					"high": 45,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 37,
+					"high": 38,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 28,
+					"high": 33,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 67,
+					"high": 25,
+					"low": 7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 14,
+					"high": 19,
+					"low": 5
+				}
+			]
+		},
+		"Tétouan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.8,
+					"low": 9.7,
+					"precipitation": 118
+				},
+				{
+					"heading": "Feb",
+					"high": 17.1,
+					"low": 9.3,
+					"precipitation": 116
+				},
+				{
+					"heading": "Mar",
+					"high": 18.6,
+					"low": 10.8,
+					"precipitation": 114
+				},
+				{
+					"heading": "Apr",
+					"high": 21,
+					"low": 12,
+					"precipitation": 45
+				},
+				{
+					"heading": "May",
+					"high": 23.4,
+					"low": 14.6,
+					"precipitation": 38
+				},
+				{
+					"heading": "Jun",
+					"high": 26.4,
+					"low": 17.6,
+					"precipitation": 26
+				},
+				{
+					"heading": "Jul",
+					"high": 29.5,
+					"low": 19.7,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 20.5,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 27.7,
+					"low": 18.7,
+					"precipitation": 19
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 15.6,
+					"precipitation": 54
+				},
+				{
+					"heading": "Nov",
+					"high": 19.7,
+					"low": 11.5,
+					"precipitation": 125
+				},
+				{
+					"heading": "Dec",
+					"high": 17.1,
+					"low": 10.2,
+					"precipitation": 140
+				}
+			]
+		},
+		"Moulay Idriss": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 93,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 71,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 111,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 81,
+					"high": 25,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 23,
+					"high": 30,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 6,
+					"high": 35,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 2,
+					"high": 39,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 39,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 38,
+					"high": 35,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 63,
+					"high": 28,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 144,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 61,
+					"high": 14,
+					"low": 7
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,690 @@
+{
+	"note": "<p>Ethiopian Christmas (Leddet) takes place 6-7 January each year. It&#39;s very colourful apparently.</p>\n",
+	"snippets": [],
+	"places": {
+		"Addis Ababa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 13,
+					"high": 24,
+					"low": 7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 30,
+					"high": 25,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 58,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 82,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 84,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 138,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 280,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 290,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 149,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 27,
+					"high": 23,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 7,
+					"high": 23,
+					"low": 7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 7,
+					"high": 23,
+					"low": 7
+				}
+			]
+		},
+		"Axum": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.9,
+					"low": 7.5,
+					"precipitation": 3
+				},
+				{
+					"heading": "Feb",
+					"high": 27.2,
+					"low": 8.4,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 28.6,
+					"low": 10.8,
+					"precipitation": 9
+				},
+				{
+					"heading": "Apr",
+					"high": 29.4,
+					"low": 12.7,
+					"precipitation": 27
+				},
+				{
+					"heading": "May",
+					"high": 28.8,
+					"low": 12.9,
+					"precipitation": 31
+				},
+				{
+					"heading": "Jun",
+					"high": 27,
+					"low": 12.4,
+					"precipitation": 67
+				},
+				{
+					"heading": "Jul",
+					"high": 22.5,
+					"low": 12,
+					"precipitation": 221
+				},
+				{
+					"heading": "Aug",
+					"high": 22.3,
+					"low": 12.6,
+					"precipitation": 199
+				},
+				{
+					"heading": "Sep",
+					"high": 24.8,
+					"low": 11.1,
+					"precipitation": 67
+				},
+				{
+					"heading": "Oct",
+					"high": 26.3,
+					"low": 9.6,
+					"precipitation": 12
+				},
+				{
+					"heading": "Nov",
+					"high": 26.8,
+					"low": 8,
+					"precipitation": 13
+				},
+				{
+					"heading": "Dec",
+					"high": 25.7,
+					"low": 6.7,
+					"precipitation": 1
+				}
+			]
+		},
+		"Bahir Dar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 8,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 9,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 11,
+					"precipitation": 12
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 13,
+					"precipitation": 28
+				},
+				{
+					"heading": "May",
+					"high": 32,
+					"low": 13,
+					"precipitation": 80
+				},
+				{
+					"heading": "Jun",
+					"high": 29,
+					"low": 13,
+					"precipitation": 205
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 13,
+					"precipitation": 396
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 13,
+					"precipitation": 375
+				},
+				{
+					"heading": "Sep",
+					"high": 26,
+					"low": 12,
+					"precipitation": 211
+				},
+				{
+					"heading": "Oct",
+					"high": 27,
+					"low": 12,
+					"precipitation": 87
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 10,
+					"precipitation": 12
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 8,
+					"precipitation": 6
+				}
+			]
+		},
+		"Dire Dawa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.3,
+					"low": 14.8,
+					"precipitation": 15
+				},
+				{
+					"heading": "Feb",
+					"high": 29.5,
+					"low": 15.5,
+					"precipitation": 27
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 18.2,
+					"precipitation": 74
+				},
+				{
+					"heading": "Apr",
+					"high": 30.9,
+					"low": 19.6,
+					"precipitation": 113
+				},
+				{
+					"heading": "May",
+					"high": 33.7,
+					"low": 20.7,
+					"precipitation": 78
+				},
+				{
+					"heading": "Jun",
+					"high": 33.7,
+					"low": 21.6,
+					"precipitation": 42
+				},
+				{
+					"heading": "Jul",
+					"high": 32.3,
+					"low": 20.4,
+					"precipitation": 115
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 19.2,
+					"precipitation": 158
+				},
+				{
+					"heading": "Sep",
+					"high": 32.3,
+					"low": 19.6,
+					"precipitation": 105
+				},
+				{
+					"heading": "Oct",
+					"high": 32.1,
+					"low": 18.1,
+					"precipitation": 36
+				},
+				{
+					"heading": "Nov",
+					"high": 29.9,
+					"low": 15.6,
+					"precipitation": 16
+				},
+				{
+					"heading": "Dec",
+					"high": 28.3,
+					"low": 14.4,
+					"precipitation": 13
+				}
+			]
+		},
+		"Gondar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 12,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 13,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 14,
+					"precipitation": 13
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 15,
+					"precipitation": 32
+				},
+				{
+					"heading": "May",
+					"high": 29,
+					"low": 15,
+					"precipitation": 72
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 14,
+					"precipitation": 160
+				},
+				{
+					"heading": "Jul",
+					"high": 23,
+					"low": 13,
+					"precipitation": 293
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 13,
+					"precipitation": 275
+				},
+				{
+					"heading": "Sep",
+					"high": 25,
+					"low": 13,
+					"precipitation": 112
+				},
+				{
+					"heading": "Oct",
+					"high": 26,
+					"low": 13,
+					"precipitation": 60
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 12,
+					"precipitation": 12
+				},
+				{
+					"heading": "Dec",
+					"high": 27,
+					"low": 12,
+					"precipitation": 4
+				}
+			]
+		},
+		"Harar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.3,
+					"low": 11.9,
+					"precipitation": 17
+				},
+				{
+					"heading": "Feb",
+					"high": 26.3,
+					"low": 12.9,
+					"precipitation": 20
+				},
+				{
+					"heading": "Mar",
+					"high": 27.1,
+					"low": 13.7,
+					"precipitation": 57
+				},
+				{
+					"heading": "Apr",
+					"high": 26.9,
+					"low": 14.5,
+					"precipitation": 84
+				},
+				{
+					"heading": "May",
+					"high": 27,
+					"low": 14.6,
+					"precipitation": 91
+				},
+				{
+					"heading": "Jun",
+					"high": 25.5,
+					"low": 14.1,
+					"precipitation": 68
+				},
+				{
+					"heading": "Jul",
+					"high": 23.8,
+					"low": 14,
+					"precipitation": 99
+				},
+				{
+					"heading": "Aug",
+					"high": 22.6,
+					"low": 13.6,
+					"precipitation": 126
+				},
+				{
+					"heading": "Sep",
+					"high": 23.9,
+					"low": 13.5,
+					"precipitation": 94
+				},
+				{
+					"heading": "Oct",
+					"high": 26.1,
+					"low": 13.1,
+					"precipitation": 49
+				},
+				{
+					"heading": "Nov",
+					"high": 25.8,
+					"low": 12.1,
+					"precipitation": 12
+				},
+				{
+					"heading": "Dec",
+					"high": 25.8,
+					"low": 12,
+					"precipitation": 6
+				}
+			]
+		},
+		"Mekele": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 23,
+					"low": 16,
+					"precipitation": 36
+				},
+				{
+					"heading": "Feb",
+					"high": 24,
+					"low": 17,
+					"precipitation": 10
+				},
+				{
+					"heading": "Mar",
+					"high": 25,
+					"low": 18,
+					"precipitation": 25
+				},
+				{
+					"heading": "Apr",
+					"high": 26,
+					"low": 19,
+					"precipitation": 46
+				},
+				{
+					"heading": "May",
+					"high": 27,
+					"low": 20,
+					"precipitation": 36
+				},
+				{
+					"heading": "Jun",
+					"high": 27,
+					"low": 20,
+					"precipitation": 30
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 18,
+					"precipitation": 200
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 17,
+					"precipitation": 220
+				},
+				{
+					"heading": "Sep",
+					"high": 25,
+					"low": 18,
+					"precipitation": 36
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 17,
+					"precipitation": 10
+				},
+				{
+					"heading": "Nov",
+					"high": 23,
+					"low": 16,
+					"precipitation": 30
+				},
+				{
+					"heading": "Dec",
+					"high": 22,
+					"low": 15,
+					"precipitation": 41
+				}
+			]
+		},
+		"Simien National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 29,
+					"high": 33,
+					"low": 5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 24,
+					"high": 36,
+					"low": 7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 74,
+					"high": 34,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 168,
+					"high": 33,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 172,
+					"high": 28,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 85,
+					"high": 22,
+					"low": 0
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 204,
+					"high": 12,
+					"low": -1
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 249,
+					"high": 13,
+					"low": -3
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 91,
+					"high": 18,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 74,
+					"high": 24,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 66,
+					"high": 27,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 90,
+					"high": 31,
+					"low": 3
+				}
+			]
+		},
+		"Danakil Depression": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": 36,
+					"low": 25
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": 36,
+					"low": 25
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 39,
+					"low": 26
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 41,
+					"low": 27
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 44,
+					"low": 28
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 47,
+					"low": 30
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 46,
+					"low": 32
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 45,
+					"low": 31
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 43,
+					"low": 32
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 42,
+					"low": 30
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 39,
+					"low": 27
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": 37,
+					"low": 26
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,1297 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/ByTSG46AP5S",
+			"type": "instagram",
+			"embed": true,
+			"title": "Acropolis"
+		},
+		{
+			"src": "https://www.instagram.com/p/ByNxbZvAWCr",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "Hydra / Idra [ Ύδρα ] is a carfree Greek island in the Aegean Sea that is accesible by ferry from various ferry terminals – 1 to 2 hours ride from Pireas [ Πειραιάς ] and 20 to 30 minutes ride from Ermioni [ Ερμιόνη ] / Poros [ Πόρος ]. We flew from Montenegro",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/img_20190602_121057122_hdr.jpg?h=200&crop=1",
+			"type": "url",
+			"embed": false,
+			"title": "Hydra-te your mind with the Greek way of life",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1019"
+		},
+		{
+			"src": "https://www.instagram.com/p/ByTRPJpD6Zg",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByVGHezjvhI",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByQfNSejApw",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BySagBvjc4i",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByUehj6gAIw",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByPYs-wjbYI",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByLEziKj_Jj",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByRmbwBgA1C",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByQlQfMgiGN",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByPh6FlgngF",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByPA32_AGPz",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Athens": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 57,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 47,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 41,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 31,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 23,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 6,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 6,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 14,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 53,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 68,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 69,
+					"high": 14,
+					"low": 7
+				}
+			]
+		},
+		"Thessaloniki": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 9.1,
+					"low": 1.4,
+					"precipitation": 41
+				},
+				{
+					"heading": "Feb",
+					"high": 11,
+					"low": 2.5,
+					"precipitation": 28.3
+				},
+				{
+					"heading": "Mar",
+					"high": 14.5,
+					"low": 4.9,
+					"precipitation": 39.3
+				},
+				{
+					"heading": "Apr",
+					"high": 19.2,
+					"low": 8,
+					"precipitation": 28.7
+				},
+				{
+					"heading": "May",
+					"high": 24.6,
+					"low": 12.9,
+					"precipitation": 39.3
+				},
+				{
+					"heading": "Jun",
+					"high": 29.6,
+					"low": 17.5,
+					"precipitation": 27.9
+				},
+				{
+					"heading": "Jul",
+					"high": 31.9,
+					"low": 19.8,
+					"precipitation": 26.8
+				},
+				{
+					"heading": "Aug",
+					"high": 30.8,
+					"low": 19.1,
+					"precipitation": 17.6
+				},
+				{
+					"heading": "Sep",
+					"high": 27.1,
+					"low": 15.8,
+					"precipitation": 42.7
+				},
+				{
+					"heading": "Oct",
+					"high": 21.1,
+					"low": 11.6,
+					"precipitation": 47.1
+				},
+				{
+					"heading": "Nov",
+					"high": 15.1,
+					"low": 7,
+					"precipitation": 34.9
+				},
+				{
+					"heading": "Dec",
+					"high": 10.7,
+					"low": 3,
+					"precipitation": 48.5
+				}
+			]
+		},
+		"Chania": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 142,
+					"high": 14,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 112,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 81,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 32,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 4.6,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1.3,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1.6,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 19,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 80,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 73,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 94,
+					"high": 16,
+					"low": 9
+				}
+			]
+		},
+		"Heraklion": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 92,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 77,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 57,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 30,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 15,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3.2,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0.7,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 20,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 59,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 77,
+					"high": 17,
+					"low": 11
+				}
+			]
+		},
+		"Patra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.5,
+					"low": 6.1,
+					"precipitation": 89.1
+				},
+				{
+					"heading": "Feb",
+					"high": 15,
+					"low": 6.4,
+					"precipitation": 81.7
+				},
+				{
+					"heading": "Mar",
+					"high": 16.8,
+					"low": 7.7,
+					"precipitation": 63.3
+				},
+				{
+					"heading": "Apr",
+					"high": 19.7,
+					"low": 10.2,
+					"precipitation": 47.8
+				},
+				{
+					"heading": "May",
+					"high": 24.2,
+					"low": 13.9,
+					"precipitation": 28.9
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 17.4,
+					"precipitation": 7.5
+				},
+				{
+					"heading": "Jul",
+					"high": 30.1,
+					"low": 19.4,
+					"precipitation": 4.6
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 19.6,
+					"precipitation": 5.2
+				},
+				{
+					"heading": "Sep",
+					"high": 28.2,
+					"low": 17.2,
+					"precipitation": 28.3
+				},
+				{
+					"heading": "Oct",
+					"high": 24.1,
+					"low": 13.8,
+					"precipitation": 72.2
+				},
+				{
+					"heading": "Nov",
+					"high": 19.5,
+					"low": 10.3,
+					"precipitation": 118
+				},
+				{
+					"heading": "Dec",
+					"high": 16.1,
+					"low": 7.6,
+					"precipitation": 116.1
+				}
+			]
+		},
+		"Larissa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 9.6,
+					"low": 0.5,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "Feb",
+					"high": 11.8,
+					"low": 1.5,
+					"precipitation": 34.9
+				},
+				{
+					"heading": "Mar",
+					"high": 14.9,
+					"low": 3.4,
+					"precipitation": 36.3
+				},
+				{
+					"heading": "Apr",
+					"high": 20,
+					"low": 6.3,
+					"precipitation": 28.9
+				},
+				{
+					"heading": "May",
+					"high": 25.7,
+					"low": 10.8,
+					"precipitation": 37.1
+				},
+				{
+					"heading": "Jun",
+					"high": 30.9,
+					"low": 15,
+					"precipitation": 23.5
+				},
+				{
+					"heading": "Jul",
+					"high": 33,
+					"low": 17.6,
+					"precipitation": 20.3
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 17.1,
+					"precipitation": 15.5
+				},
+				{
+					"heading": "Sep",
+					"high": 28.7,
+					"low": 14.1,
+					"precipitation": 29.4
+				},
+				{
+					"heading": "Oct",
+					"high": 22.1,
+					"low": 9.8,
+					"precipitation": 47.1
+				},
+				{
+					"heading": "Nov",
+					"high": 16,
+					"low": 5.5,
+					"precipitation": 58.2
+				},
+				{
+					"heading": "Dec",
+					"high": 10.9,
+					"low": 1.8,
+					"precipitation": 52.3
+				}
+			]
+		},
+		"Rhodes (city)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.1,
+					"low": 8.8,
+					"precipitation": 149.6
+				},
+				{
+					"heading": "Feb",
+					"high": 15.2,
+					"low": 8.8,
+					"precipitation": 105.7
+				},
+				{
+					"heading": "Mar",
+					"high": 16.8,
+					"low": 10.1,
+					"precipitation": 75.6
+				},
+				{
+					"heading": "Apr",
+					"high": 20,
+					"low": 12.5,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "May",
+					"high": 24.2,
+					"low": 15.8,
+					"precipitation": 18.6
+				},
+				{
+					"heading": "Jun",
+					"high": 28.4,
+					"low": 19.9,
+					"precipitation": 2.3
+				},
+				{
+					"heading": "Jul",
+					"high": 30.5,
+					"low": 22.3,
+					"precipitation": 0.4
+				},
+				{
+					"heading": "Aug",
+					"high": 30.7,
+					"low": 22.7,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Sep",
+					"high": 28.2,
+					"low": 20.5,
+					"precipitation": 5.8
+				},
+				{
+					"heading": "Oct",
+					"high": 24.5,
+					"low": 16.9,
+					"precipitation": 65.5
+				},
+				{
+					"heading": "Nov",
+					"high": 20.1,
+					"low": 13.2,
+					"precipitation": 94.1
+				},
+				{
+					"heading": "Dec",
+					"high": 16.6,
+					"low": 10.4,
+					"precipitation": 157.4
+				}
+			]
+		},
+		"Volos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.3,
+					"low": 4.5,
+					"precipitation": 58.4
+				},
+				{
+					"heading": "Feb",
+					"high": 12.9,
+					"low": 5.4,
+					"precipitation": 35.4
+				},
+				{
+					"heading": "Mar",
+					"high": 15,
+					"low": 7.3,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Apr",
+					"high": 19.4,
+					"low": 10.5,
+					"precipitation": 27.3
+				},
+				{
+					"heading": "May",
+					"high": 24,
+					"low": 14.9,
+					"precipitation": 32.5
+				},
+				{
+					"heading": "Jun",
+					"high": 28.5,
+					"low": 19,
+					"precipitation": 22.5
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 21.3,
+					"precipitation": 15.1
+				},
+				{
+					"heading": "Aug",
+					"high": 30.6,
+					"low": 21.2,
+					"precipitation": 10.9
+				},
+				{
+					"heading": "Sep",
+					"high": 27,
+					"low": 17.9,
+					"precipitation": 35
+				},
+				{
+					"heading": "Oct",
+					"high": 21.7,
+					"low": 13.6,
+					"precipitation": 51.8
+				},
+				{
+					"heading": "Nov",
+					"high": 17.3,
+					"low": 9.8,
+					"precipitation": 52.2
+				},
+				{
+					"heading": "Dec",
+					"high": 13.2,
+					"low": 6.3,
+					"precipitation": 47.2
+				}
+			]
+		},
+		"Corfu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 5.4,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 4.9,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 3.9,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 2.6,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 1.5,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0.1,
+					"high": 28,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0.4,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0.8,
+					"high": 31,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 3.2,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 5.4,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 7.4,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 7.3,
+					"high": 15,
+					"low": 7
+				}
+			]
+		},
+		"Mykonos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 135,
+					"high": 13,
+					"low": 10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 149,
+					"high": 13,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 94,
+					"high": 15,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 58,
+					"high": 16,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 33,
+					"high": 21,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 15,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 18,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 23,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 97,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 167,
+					"high": 21,
+					"low": 17
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 170,
+					"high": 17,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 165,
+					"high": 15,
+					"low": 11
+				}
+			]
+		},
+		"Olympia (Greece)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 137,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 166,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 76,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 51,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 23,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 9,
+					"high": 33,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 5,
+					"high": 35,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 14,
+					"high": 35,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 77,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 118,
+					"high": 23,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 154,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 201,
+					"high": 10,
+					"low": 5
+				}
+			]
+		},
+		"Rhodes": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15.1,
+					"low": 8.8,
+					"precipitation": 149.6
+				},
+				{
+					"heading": "Feb",
+					"high": 15.2,
+					"low": 8.8,
+					"precipitation": 105.7
+				},
+				{
+					"heading": "Mar",
+					"high": 16.8,
+					"low": 10.1,
+					"precipitation": 75.6
+				},
+				{
+					"heading": "Apr",
+					"high": 20,
+					"low": 12.5,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "May",
+					"high": 24.2,
+					"low": 15.8,
+					"precipitation": 18.6
+				},
+				{
+					"heading": "Jun",
+					"high": 28.4,
+					"low": 19.9,
+					"precipitation": 2.3
+				},
+				{
+					"heading": "Jul",
+					"high": 30.5,
+					"low": 22.3,
+					"precipitation": 0.4
+				},
+				{
+					"heading": "Aug",
+					"high": 30.7,
+					"low": 22.7,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Sep",
+					"high": 28.2,
+					"low": 20.5,
+					"precipitation": 5.8
+				},
+				{
+					"heading": "Oct",
+					"high": 24.5,
+					"low": 16.9,
+					"precipitation": 65.5
+				},
+				{
+					"heading": "Nov",
+					"high": 20.1,
+					"low": 13.2,
+					"precipitation": 94.1
+				},
+				{
+					"heading": "Dec",
+					"high": 16.6,
+					"low": 10.4,
+					"precipitation": 157.4
+				}
+			]
+		},
+		"Santorini": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 71,
+					"high": 14,
+					"low": 10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 43,
+					"high": 14,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 40,
+					"high": 16,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 16,
+					"high": 18,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 11,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 7,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 11,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 38,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 59,
+					"high": 19,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 75,
+					"high": 15,
+					"low": 11
+				}
+			]
+		},
+		"Attica": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.7,
+					"low": 3.2,
+					"precipitation": 69.2
+				},
+				{
+					"heading": "Feb",
+					"high": 12.5,
+					"low": 3.5,
+					"precipitation": 48.6
+				},
+				{
+					"heading": "Mar",
+					"high": 14.7,
+					"low": 4.9,
+					"precipitation": 51.1
+				},
+				{
+					"heading": "Apr",
+					"high": 19.3,
+					"low": 7.7,
+					"precipitation": 26.2
+				},
+				{
+					"heading": "May",
+					"high": 24.9,
+					"low": 11.9,
+					"precipitation": 20.4
+				},
+				{
+					"heading": "Jun",
+					"high": 29.9,
+					"low": 16.2,
+					"precipitation": 9.8
+				},
+				{
+					"heading": "Jul",
+					"high": 32.1,
+					"low": 19.2,
+					"precipitation": 10
+				},
+				{
+					"heading": "Aug",
+					"high": 31.8,
+					"low": 19.3,
+					"precipitation": 6
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 15.6,
+					"precipitation": 17.6
+				},
+				{
+					"heading": "Oct",
+					"high": 22.5,
+					"low": 11.8,
+					"precipitation": 47.6
+				},
+				{
+					"heading": "Nov",
+					"high": 17.4,
+					"low": 7.9,
+					"precipitation": 60.2
+				},
+				{
+					"heading": "Dec",
+					"high": 13.2,
+					"low": 4.9,
+					"precipitation": 83.9
+				}
+			]
+		},
+		"Spetses": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 81,
+					"high": 13,
+					"low": 11
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 111,
+					"high": 13,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 42,
+					"high": 13,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 32,
+					"high": 17,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 15,
+					"high": 21,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 10,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3,
+					"high": 29,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 11,
+					"high": 29,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 32,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 40,
+					"high": 21,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 133,
+					"high": 20,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 157,
+					"high": 16,
+					"low": 14
+				}
+			]
+		},
+		"Alonissos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 92,
+					"high": 11,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 125,
+					"high": 11,
+					"low": 8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 51,
+					"high": 11,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 50,
+					"high": 17,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 34,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 38,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 14,
+					"high": 27,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 15,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 65,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 78,
+					"high": 18,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 103,
+					"high": 17,
+					"low": 15
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 156,
+					"high": 14,
+					"low": 11
+				}
+			]
+		}
+	}
+}

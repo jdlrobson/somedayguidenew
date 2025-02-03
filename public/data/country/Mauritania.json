@@ -1,0 +1,310 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Nouakchott": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.1,
+					"low": 14.5,
+					"precipitation": 0.7
+				},
+				{
+					"heading": "Feb",
+					"high": 30.8,
+					"low": 16.4,
+					"precipitation": 1.5
+				},
+				{
+					"heading": "Mar",
+					"high": 33.5,
+					"low": 18.2,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Apr",
+					"high": 34.8,
+					"low": 19.1,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "May",
+					"high": 34.3,
+					"low": 20.7,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Jun",
+					"high": 34.7,
+					"low": 22.8,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 24.3,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Aug",
+					"high": 33,
+					"low": 25.4,
+					"precipitation": 36.8
+				},
+				{
+					"heading": "Sep",
+					"high": 36.1,
+					"low": 25.8,
+					"precipitation": 36.3
+				},
+				{
+					"heading": "Oct",
+					"high": 36.7,
+					"low": 23.8,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Nov",
+					"high": 34,
+					"low": 19.7,
+					"precipitation": 2
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 16.9,
+					"precipitation": 2.8
+				}
+			]
+		},
+		"Atar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 14,
+					"precipitation": 1
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 17,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 33,
+					"low": 20,
+					"precipitation": 1
+				},
+				{
+					"heading": "Apr",
+					"high": 36,
+					"low": 23,
+					"precipitation": 0
+				},
+				{
+					"heading": "May",
+					"high": 40,
+					"low": 26,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 43,
+					"low": 28,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 44,
+					"low": 29,
+					"precipitation": 2
+				},
+				{
+					"heading": "Aug",
+					"high": 44,
+					"low": 29,
+					"precipitation": 11
+				},
+				{
+					"heading": "Sep",
+					"high": 42,
+					"low": 28,
+					"precipitation": 11
+				},
+				{
+					"heading": "Oct",
+					"high": 38,
+					"low": 26,
+					"precipitation": 3
+				},
+				{
+					"heading": "Nov",
+					"high": 33,
+					"low": 21,
+					"precipitation": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 16,
+					"precipitation": 1
+				}
+			]
+		},
+		"Chinguetti": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26,
+					"low": 11.5,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": 28.6,
+					"low": 13,
+					"precipitation": 2
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 15.4,
+					"precipitation": 2
+				},
+				{
+					"heading": "Apr",
+					"high": 33.5,
+					"low": 17.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "May",
+					"high": 37.1,
+					"low": 21,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 40.5,
+					"low": 24.7,
+					"precipitation": 2
+				},
+				{
+					"heading": "Jul",
+					"high": 41.3,
+					"low": 25.7,
+					"precipitation": 6
+				},
+				{
+					"heading": "Aug",
+					"high": 40.4,
+					"low": 25.5,
+					"precipitation": 18
+				},
+				{
+					"heading": "Sep",
+					"high": 39,
+					"low": 24.5,
+					"precipitation": 18
+				},
+				{
+					"heading": "Oct",
+					"high": 36,
+					"low": 21.3,
+					"precipitation": 7
+				},
+				{
+					"heading": "Nov",
+					"high": 31.1,
+					"low": 16.7,
+					"precipitation": 4
+				},
+				{
+					"heading": "Dec",
+					"high": 26.2,
+					"low": 12.2,
+					"precipitation": 2
+				}
+			]
+		},
+		"Nouadhibou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 2,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 1,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 3,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 5,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 3,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 2,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": 25,
+					"low": 14
+				}
+			]
+		}
+	}
+}

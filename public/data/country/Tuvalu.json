@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Funafuti": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.7,
+					"low": 25.5,
+					"precipitation": 413.7
+				},
+				{
+					"heading": "Feb",
+					"high": 30.8,
+					"low": 25.3,
+					"precipitation": 360.6
+				},
+				{
+					"heading": "Mar",
+					"high": 30.6,
+					"low": 25.4,
+					"precipitation": 324.3
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 25.7,
+					"precipitation": 255.8
+				},
+				{
+					"heading": "May",
+					"high": 30.9,
+					"low": 25.8,
+					"precipitation": 259.8
+				},
+				{
+					"heading": "Jun",
+					"high": 30.6,
+					"low": 25.9,
+					"precipitation": 216.6
+				},
+				{
+					"heading": "Jul",
+					"high": 30.4,
+					"low": 25.7,
+					"precipitation": 253.1
+				},
+				{
+					"heading": "Aug",
+					"high": 30.4,
+					"low": 25.8,
+					"precipitation": 275.9
+				},
+				{
+					"heading": "Sep",
+					"high": 30.7,
+					"low": 25.8,
+					"precipitation": 217.5
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 25.7,
+					"precipitation": 266.5
+				},
+				{
+					"heading": "Nov",
+					"high": 31.2,
+					"low": 25.8,
+					"precipitation": 275.9
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 25.7,
+					"precipitation": 393.9
+				}
+			]
+		}
+	}
+}

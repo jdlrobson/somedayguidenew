@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Maseru": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 14,
+					"precipitation": 114
+				},
+				{
+					"heading": "Feb",
+					"high": 27,
+					"low": 14,
+					"precipitation": 89
+				},
+				{
+					"heading": "Mar",
+					"high": 25,
+					"low": 12,
+					"precipitation": 96
+				},
+				{
+					"heading": "Apr",
+					"high": 21,
+					"low": 8,
+					"precipitation": 67
+				},
+				{
+					"heading": "May",
+					"high": 18,
+					"low": 3,
+					"precipitation": 29
+				},
+				{
+					"heading": "Jun",
+					"high": 15,
+					"low": 0,
+					"precipitation": 12
+				},
+				{
+					"heading": "Jul",
+					"high": 16,
+					"low": -1,
+					"precipitation": 14
+				},
+				{
+					"heading": "Aug",
+					"high": 19,
+					"low": 2,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 23,
+					"low": 6,
+					"precipitation": 19
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 9,
+					"precipitation": 63
+				},
+				{
+					"heading": "Nov",
+					"high": 26,
+					"low": 12,
+					"precipitation": 80
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 13,
+					"precipitation": 93
+				}
+			]
+		},
+		"Sehlabathebe National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 187,
+					"high": 25,
+					"low": 10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 177,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 158,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 57,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 14,
+					"high": 16,
+					"low": 2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 8,
+					"high": 13,
+					"low": 1
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 8,
+					"high": 14,
+					"low": 0
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 33,
+					"high": 19,
+					"low": 2
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 68,
+					"high": 23,
+					"low": 4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 97,
+					"high": 27,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 128,
+					"high": 28,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 188,
+					"high": 25,
+					"low": 9
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Apia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 450,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 380,
+					"high": 29,
+					"low": 24
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 350,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 250,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 160,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 120,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 80,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 80,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 130,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 170,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 260,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 370,
+					"high": 29,
+					"low": 23
+				}
+			]
+		}
+	}
+}

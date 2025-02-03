@@ -1,0 +1,310 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Brazzaville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.5,
+					"low": 21.4,
+					"precipitation": 160
+				},
+				{
+					"heading": "Feb",
+					"high": 31.3,
+					"low": 21.5,
+					"precipitation": 137
+				},
+				{
+					"heading": "Mar",
+					"high": 31.7,
+					"low": 21.7,
+					"precipitation": 167
+				},
+				{
+					"heading": "Apr",
+					"high": 31.8,
+					"low": 21.9,
+					"precipitation": 191
+				},
+				{
+					"heading": "May",
+					"high": 30.9,
+					"low": 21.6,
+					"precipitation": 118
+				},
+				{
+					"heading": "Jun",
+					"high": 28.4,
+					"low": 19.3,
+					"precipitation": 8
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 17.8,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 28.5,
+					"low": 18.8,
+					"precipitation": 4
+				},
+				{
+					"heading": "Sep",
+					"high": 30.4,
+					"low": 20.6,
+					"precipitation": 34
+				},
+				{
+					"heading": "Oct",
+					"high": 30.8,
+					"low": 21.4,
+					"precipitation": 139
+				},
+				{
+					"heading": "Nov",
+					"high": 30.4,
+					"low": 21.4,
+					"precipitation": 261
+				},
+				{
+					"heading": "Dec",
+					"high": 30.2,
+					"low": 21.5,
+					"precipitation": 172
+				}
+			]
+		},
+		"Dolisie": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 22,
+					"precipitation": 120
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 21,
+					"precipitation": 170
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 21,
+					"precipitation": 210
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 22,
+					"precipitation": 200
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 21,
+					"precipitation": 94
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 19,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 18,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 27,
+					"low": 18,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 19,
+					"precipitation": 7.6
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 21,
+					"precipitation": 71
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 22,
+					"precipitation": 210
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 22,
+					"precipitation": 170
+				}
+			]
+		},
+		"Nouabalé-Ndoki National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 54,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 85,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 119,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 114,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 193,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 169,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 89,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 247,
+					"high": 23,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 261,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 242,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 205,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 79,
+					"high": 23,
+					"low": 19
+				}
+			]
+		},
+		"Pointe-Noire": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.6,
+					"low": 24.3,
+					"precipitation": 151.8
+				},
+				{
+					"heading": "Feb",
+					"high": 30.9,
+					"low": 24.3,
+					"precipitation": 183.6
+				},
+				{
+					"heading": "Mar",
+					"high": 31.5,
+					"low": 24.4,
+					"precipitation": 154
+				},
+				{
+					"heading": "Apr",
+					"high": 31.3,
+					"low": 24.2,
+					"precipitation": 92.7
+				},
+				{
+					"heading": "May",
+					"high": 29.7,
+					"low": 23.8,
+					"precipitation": 45.7
+				},
+				{
+					"heading": "Jun",
+					"high": 27.5,
+					"low": 21.4,
+					"precipitation": 2.2
+				},
+				{
+					"heading": "Jul",
+					"high": 25.8,
+					"low": 20,
+					"precipitation": 1.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.7,
+					"low": 20.4,
+					"precipitation": 5.7
+				},
+				{
+					"heading": "Sep",
+					"high": 26.8,
+					"low": 21.8,
+					"precipitation": 17.1
+				},
+				{
+					"heading": "Oct",
+					"high": 28.6,
+					"low": 23.8,
+					"precipitation": 96.6
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 24.1,
+					"precipitation": 126.1
+				},
+				{
+					"heading": "Dec",
+					"high": 29.7,
+					"low": 24,
+					"precipitation": 153.9
+				}
+			]
+		}
+	}
+}

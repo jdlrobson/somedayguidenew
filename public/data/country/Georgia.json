@@ -1,0 +1,655 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BjO7MBulpWW",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjFnbd7l2KJ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjFi5Tel-RW",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjDAtZ3lDRd",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjM8I6Yl4FS/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjM7iiLFDLl/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjKpjOclXGo",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BjIA3-KFScE",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Tbilisi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.6,
+					"low": -0.8,
+					"precipitation": 18.9
+				},
+				{
+					"heading": "Feb",
+					"high": 7.7,
+					"low": 0,
+					"precipitation": 25.8
+				},
+				{
+					"heading": "Mar",
+					"high": 12.6,
+					"low": 3.2,
+					"precipitation": 30.3
+				},
+				{
+					"heading": "Apr",
+					"high": 18.9,
+					"low": 8.4,
+					"precipitation": 50.5
+				},
+				{
+					"heading": "May",
+					"high": 23.1,
+					"low": 12.4,
+					"precipitation": 77.6
+				},
+				{
+					"heading": "Jun",
+					"high": 28.1,
+					"low": 16.5,
+					"precipitation": 76
+				},
+				{
+					"heading": "Jul",
+					"high": 31.2,
+					"low": 19.8,
+					"precipitation": 44.9
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 19.5,
+					"precipitation": 47.5
+				},
+				{
+					"heading": "Sep",
+					"high": 26.4,
+					"low": 15.4,
+					"precipitation": 35.6
+				},
+				{
+					"heading": "Oct",
+					"high": 19.8,
+					"low": 10.4,
+					"precipitation": 37.5
+				},
+				{
+					"heading": "Nov",
+					"high": 12.8,
+					"low": 4.9,
+					"precipitation": 29.9
+				},
+				{
+					"heading": "Dec",
+					"high": 8.4,
+					"low": 1.3,
+					"precipitation": 21
+				}
+			]
+		},
+		"Akhaltsikhe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.2,
+					"low": -8.6,
+					"precipitation": 44
+				},
+				{
+					"heading": "Feb",
+					"high": 2.3,
+					"low": -6.9,
+					"precipitation": 40
+				},
+				{
+					"heading": "Mar",
+					"high": 7.5,
+					"low": -2.9,
+					"precipitation": 38
+				},
+				{
+					"heading": "Apr",
+					"high": 14.1,
+					"low": 1.7,
+					"precipitation": 60
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 6.4,
+					"precipitation": 78
+				},
+				{
+					"heading": "Jun",
+					"high": 22.1,
+					"low": 9.4,
+					"precipitation": 91
+				},
+				{
+					"heading": "Jul",
+					"high": 24.9,
+					"low": 12.4,
+					"precipitation": 56
+				},
+				{
+					"heading": "Aug",
+					"high": 25.1,
+					"low": 12.4,
+					"precipitation": 52
+				},
+				{
+					"heading": "Sep",
+					"high": 21.5,
+					"low": 8,
+					"precipitation": 52
+				},
+				{
+					"heading": "Oct",
+					"high": 15.7,
+					"low": 3.4,
+					"precipitation": 59
+				},
+				{
+					"heading": "Nov",
+					"high": 8.6,
+					"low": -1.1,
+					"precipitation": 54
+				},
+				{
+					"heading": "Dec",
+					"high": 3,
+					"low": -5.5,
+					"precipitation": 56
+				}
+			]
+		},
+		"Batumi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.3,
+					"low": 4.1,
+					"precipitation": 238
+				},
+				{
+					"heading": "Feb",
+					"high": 11.2,
+					"low": 3.8,
+					"precipitation": 189
+				},
+				{
+					"heading": "Mar",
+					"high": 12.5,
+					"low": 5.5,
+					"precipitation": 153
+				},
+				{
+					"heading": "Apr",
+					"high": 16.2,
+					"low": 9.3,
+					"precipitation": 113
+				},
+				{
+					"heading": "May",
+					"high": 20.1,
+					"low": 13.1,
+					"precipitation": 108
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 17.3,
+					"precipitation": 142
+				},
+				{
+					"heading": "Jul",
+					"high": 26.2,
+					"low": 19.9,
+					"precipitation": 168
+				},
+				{
+					"heading": "Aug",
+					"high": 26.5,
+					"low": 20.3,
+					"precipitation": 205
+				},
+				{
+					"heading": "Sep",
+					"high": 23.5,
+					"low": 16.9,
+					"precipitation": 262
+				},
+				{
+					"heading": "Oct",
+					"high": 20.3,
+					"low": 13.4,
+					"precipitation": 277
+				},
+				{
+					"heading": "Nov",
+					"high": 15.8,
+					"low": 9.1,
+					"precipitation": 312
+				},
+				{
+					"heading": "Dec",
+					"high": 12.7,
+					"low": 6.4,
+					"precipitation": 268
+				}
+			]
+		},
+		"Borjomi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.3,
+					"low": -7.7,
+					"precipitation": 41.1
+				},
+				{
+					"heading": "Feb",
+					"high": 3.1,
+					"low": -6.3,
+					"precipitation": 40.6
+				},
+				{
+					"heading": "Mar",
+					"high": 7.9,
+					"low": -2.4,
+					"precipitation": 41.1
+				},
+				{
+					"heading": "Apr",
+					"high": 14.2,
+					"low": 1.9,
+					"precipitation": 55.3
+				},
+				{
+					"heading": "May",
+					"high": 19.4,
+					"low": 6.8,
+					"precipitation": 81.2
+				},
+				{
+					"heading": "Jun",
+					"high": 22.5,
+					"low": 10,
+					"precipitation": 85.3
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 12.8,
+					"precipitation": 51
+				},
+				{
+					"heading": "Aug",
+					"high": 25.1,
+					"low": 12.6,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Sep",
+					"high": 21.3,
+					"low": 8.3,
+					"precipitation": 51.8
+				},
+				{
+					"heading": "Oct",
+					"high": 15.7,
+					"low": 3.5,
+					"precipitation": 62.7
+				},
+				{
+					"heading": "Nov",
+					"high": 8.7,
+					"low": -0.9,
+					"precipitation": 51.6
+				},
+				{
+					"heading": "Dec",
+					"high": 3.7,
+					"low": -5,
+					"precipitation": 43.4
+				}
+			]
+		},
+		"Gori": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.4,
+					"low": -5.4,
+					"precipitation": 36
+				},
+				{
+					"heading": "Feb",
+					"high": 5.1,
+					"low": -4.2,
+					"precipitation": 34
+				},
+				{
+					"heading": "Mar",
+					"high": 9.7,
+					"low": -0.5,
+					"precipitation": 36
+				},
+				{
+					"heading": "Apr",
+					"high": 16.3,
+					"low": 4.1,
+					"precipitation": 53
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 9.1,
+					"precipitation": 76
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 12.6,
+					"precipitation": 72
+				},
+				{
+					"heading": "Jul",
+					"high": 27.5,
+					"low": 15.4,
+					"precipitation": 54
+				},
+				{
+					"heading": "Aug",
+					"high": 27.6,
+					"low": 15.3,
+					"precipitation": 49
+				},
+				{
+					"heading": "Sep",
+					"high": 23.3,
+					"low": 11,
+					"precipitation": 44
+				},
+				{
+					"heading": "Oct",
+					"high": 17.6,
+					"low": 6,
+					"precipitation": 55
+				},
+				{
+					"heading": "Nov",
+					"high": 10.5,
+					"low": 1.1,
+					"precipitation": 52
+				},
+				{
+					"heading": "Dec",
+					"high": 5.4,
+					"low": -3.1,
+					"precipitation": 42
+				}
+			]
+		},
+		"Kutaisi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.7,
+					"low": 1.2,
+					"precipitation": 106
+				},
+				{
+					"heading": "Feb",
+					"high": 8.9,
+					"low": 1.8,
+					"precipitation": 129
+				},
+				{
+					"heading": "Mar",
+					"high": 13.1,
+					"low": 4.6,
+					"precipitation": 100
+				},
+				{
+					"heading": "Apr",
+					"high": 18.2,
+					"low": 7.7,
+					"precipitation": 112
+				},
+				{
+					"heading": "May",
+					"high": 23.3,
+					"low": 12.4,
+					"precipitation": 85
+				},
+				{
+					"heading": "Jun",
+					"high": 26.4,
+					"low": 15.9,
+					"precipitation": 105
+				},
+				{
+					"heading": "Jul",
+					"high": 28.1,
+					"low": 18.9,
+					"precipitation": 106
+				},
+				{
+					"heading": "Aug",
+					"high": 28.9,
+					"low": 19.5,
+					"precipitation": 86
+				},
+				{
+					"heading": "Sep",
+					"high": 25.8,
+					"low": 16.1,
+					"precipitation": 116
+				},
+				{
+					"heading": "Oct",
+					"high": 21.3,
+					"low": 11.9,
+					"precipitation": 108
+				},
+				{
+					"heading": "Nov",
+					"high": 15.2,
+					"low": 7.5,
+					"precipitation": 141
+				},
+				{
+					"heading": "Dec",
+					"high": 10.3,
+					"low": 3.5,
+					"precipitation": 139
+				}
+			]
+		},
+		"Ochamchire": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 170,
+					"high": 8,
+					"low": -5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 161,
+					"high": 10,
+					"low": -1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 242,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 108,
+					"high": 18,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 84,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 211,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 210,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 169,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 238,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 170,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 165,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 190,
+					"high": 8,
+					"low": 1
+				}
+			]
+		},
+		"Stepantsminda": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.9,
+					"low": -11.1,
+					"precipitation": 34
+				},
+				{
+					"heading": "Feb",
+					"high": -1.5,
+					"low": -10.7,
+					"precipitation": 38
+				},
+				{
+					"heading": "Mar",
+					"high": 2.7,
+					"low": -6.6,
+					"precipitation": 66
+				},
+				{
+					"heading": "Apr",
+					"high": 8.8,
+					"low": -2.7,
+					"precipitation": 103
+				},
+				{
+					"heading": "May",
+					"high": 14.2,
+					"low": 2.5,
+					"precipitation": 145
+				},
+				{
+					"heading": "Jun",
+					"high": 17.5,
+					"low": 5.2,
+					"precipitation": 132
+				},
+				{
+					"heading": "Jul",
+					"high": 20.2,
+					"low": 7.7,
+					"precipitation": 126
+				},
+				{
+					"heading": "Aug",
+					"high": 20.2,
+					"low": 7.7,
+					"precipitation": 149
+				},
+				{
+					"heading": "Sep",
+					"high": 16.4,
+					"low": 3.5,
+					"precipitation": 82
+				},
+				{
+					"heading": "Oct",
+					"high": 11.4,
+					"low": 0,
+					"precipitation": 69
+				},
+				{
+					"heading": "Nov",
+					"high": 4.4,
+					"low": -4.3,
+					"precipitation": 62
+				},
+				{
+					"heading": "Dec",
+					"high": 0,
+					"low": -8.5,
+					"precipitation": 37
+				}
+			]
+		}
+	}
+}

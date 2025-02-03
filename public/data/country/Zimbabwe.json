@@ -1,0 +1,310 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Harare": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.2,
+					"low": 15.8,
+					"precipitation": 190.8
+				},
+				{
+					"heading": "Feb",
+					"high": 26,
+					"low": 15.7,
+					"precipitation": 176.3
+				},
+				{
+					"heading": "Mar",
+					"high": 26.2,
+					"low": 14.5,
+					"precipitation": 99.1
+				},
+				{
+					"heading": "Apr",
+					"high": 25.6,
+					"low": 12.5,
+					"precipitation": 37.2
+				},
+				{
+					"heading": "May",
+					"high": 23.8,
+					"low": 9.3,
+					"precipitation": 7.4
+				},
+				{
+					"heading": "Jun",
+					"high": 21.8,
+					"low": 6.8,
+					"precipitation": 1.8
+				},
+				{
+					"heading": "Jul",
+					"high": 21.6,
+					"low": 6.5,
+					"precipitation": 2.3
+				},
+				{
+					"heading": "Aug",
+					"high": 24.1,
+					"low": 8.5,
+					"precipitation": 2.9
+				},
+				{
+					"heading": "Sep",
+					"high": 28.4,
+					"low": 11.7,
+					"precipitation": 6.5
+				},
+				{
+					"heading": "Oct",
+					"high": 28.8,
+					"low": 14.5,
+					"precipitation": 40.4
+				},
+				{
+					"heading": "Nov",
+					"high": 27.6,
+					"low": 15.5,
+					"precipitation": 93.2
+				},
+				{
+					"heading": "Dec",
+					"high": 26.3,
+					"low": 15.8,
+					"precipitation": 182.7
+				}
+			]
+		},
+		"Bulawayo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 142,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 109,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 84,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 18,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 10,
+					"high": 23,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 23,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 5,
+					"high": 27,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 20,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 81,
+					"high": 29,
+					"low": 16
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 122,
+					"high": 28,
+					"low": 16
+				}
+			]
+		},
+		"Kariba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 21.8,
+					"precipitation": 191.6
+				},
+				{
+					"heading": "Feb",
+					"high": 30.8,
+					"low": 21.4,
+					"precipitation": 157.7
+				},
+				{
+					"heading": "Mar",
+					"high": 31.2,
+					"low": 20.7,
+					"precipitation": 112.5
+				},
+				{
+					"heading": "Apr",
+					"high": 30.5,
+					"low": 18.5,
+					"precipitation": 30
+				},
+				{
+					"heading": "May",
+					"high": 28.5,
+					"low": 14.3,
+					"precipitation": 4.2
+				},
+				{
+					"heading": "Jun",
+					"high": 26.3,
+					"low": 11.2,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 26.3,
+					"low": 11.1,
+					"precipitation": 0.6
+				},
+				{
+					"heading": "Aug",
+					"high": 28.9,
+					"low": 13.9,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Sep",
+					"high": 32.9,
+					"low": 19.1,
+					"precipitation": 0.6
+				},
+				{
+					"heading": "Oct",
+					"high": 35.1,
+					"low": 23.2,
+					"precipitation": 17.8
+				},
+				{
+					"heading": "Nov",
+					"high": 33.9,
+					"low": 23.4,
+					"precipitation": 74.4
+				},
+				{
+					"heading": "Dec",
+					"high": 31.3,
+					"low": 22.1,
+					"precipitation": 175
+				}
+			]
+		},
+		"Victoria Falls": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 203,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 138,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 102,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 11,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 30,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 27,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 28,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 33,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 1,
+					"high": 39,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 15,
+					"high": 44,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 65,
+					"high": 39,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 206,
+					"high": 32,
+					"low": 21
+				}
+			]
+		}
+	}
+}

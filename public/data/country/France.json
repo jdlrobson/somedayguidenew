@@ -1,0 +1,1720 @@
+{
+	"note": "<p>Lille is for beer and food. Make sure you try something involving Maroille cheese and sample some Mimolette with wine (Linzy&#39;s favorite cheese!). There&#39;s a lot of Belgian influence around here, while Carbonade flamande is a Belgian dish, it&#39;s done very well in Lille.</p>\n<p>Someday we&#39;ll go and visit the <strong>Jardin botanique d&#39;Èze</strong> a garden perched high above overlooking the Mediterranean sea. The garden pathways will teach us about Eze&#39;s artistic heritage.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/UEg5kZs2Pl",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/3JphJTs2Mw",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/3L57upM2OX/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/3Cb1B-M2Fs/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxU7CvKjx7i",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxT51jpDMqT",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxVd4JVnTA2",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxS83jBni76",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/3PhgI3M2Ll",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/oDp0s_s2L3",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/oCMVChs2KZ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/3JfOE4s2Kw",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/3JYI3TM2Po",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Paris": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 54,
+					"high": 7,
+					"low": 3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 44,
+					"high": 9,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 49,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 53,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 65,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 55,
+					"high": 23,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 63,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 43,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 55,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 60,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 52,
+					"high": 11,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 59,
+					"high": 7,
+					"low": 4
+				}
+			]
+		},
+		"Bordeaux": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 9.9,
+					"low": 2.5,
+					"precipitation": 92.4
+				},
+				{
+					"heading": "Feb",
+					"high": 11.1,
+					"low": 3.6,
+					"precipitation": 86.9
+				},
+				{
+					"heading": "Mar",
+					"high": 13.4,
+					"low": 4.2,
+					"precipitation": 74
+				},
+				{
+					"heading": "Apr",
+					"high": 16.1,
+					"low": 6.3,
+					"precipitation": 69.4
+				},
+				{
+					"heading": "May",
+					"high": 19.4,
+					"low": 9.1,
+					"precipitation": 67.4
+				},
+				{
+					"heading": "Jun",
+					"high": 23.2,
+					"low": 12.4,
+					"precipitation": 51.3
+				},
+				{
+					"heading": "Jul",
+					"high": 25.9,
+					"low": 14.3,
+					"precipitation": 41.2
+				},
+				{
+					"heading": "Aug",
+					"high": 25.5,
+					"low": 13.9,
+					"precipitation": 45.3
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 12.2,
+					"precipitation": 72
+				},
+				{
+					"heading": "Oct",
+					"high": 19.3,
+					"low": 9.2,
+					"precipitation": 67.8
+				},
+				{
+					"heading": "Nov",
+					"high": 13.2,
+					"low": 4.7,
+					"precipitation": 96.7
+				},
+				{
+					"heading": "Dec",
+					"high": 10,
+					"low": 3.2,
+					"precipitation": 79.7
+				}
+			]
+		},
+		"Nice": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 12.6,
+					"low": 4.8,
+					"precipitation": 61.3
+				},
+				{
+					"heading": "Feb",
+					"high": 13.1,
+					"low": 5.8,
+					"precipitation": 50.8
+				},
+				{
+					"heading": "Mar",
+					"high": 14.7,
+					"low": 7.3,
+					"precipitation": 66.2
+				},
+				{
+					"heading": "Apr",
+					"high": 16.6,
+					"low": 9.7,
+					"precipitation": 57
+				},
+				{
+					"heading": "May",
+					"high": 19.7,
+					"low": 13,
+					"precipitation": 37.4
+				},
+				{
+					"heading": "Jun",
+					"high": 23.1,
+					"low": 16.3,
+					"precipitation": 30.8
+				},
+				{
+					"heading": "Jul",
+					"high": 26.5,
+					"low": 19.3,
+					"precipitation": 6.5
+				},
+				{
+					"heading": "Aug",
+					"high": 26.8,
+					"low": 19.4,
+					"precipitation": 24.5
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 16.9,
+					"precipitation": 29.5
+				},
+				{
+					"heading": "Oct",
+					"high": 21,
+					"low": 13.3,
+					"precipitation": 78.9
+				},
+				{
+					"heading": "Nov",
+					"high": 16.4,
+					"low": 8.4,
+					"precipitation": 91.5
+				},
+				{
+					"heading": "Dec",
+					"high": 13.6,
+					"low": 5.7,
+					"precipitation": 67.1
+				}
+			]
+		},
+		"Lille": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6,
+					"low": 1.2,
+					"precipitation": 60.5
+				},
+				{
+					"heading": "Feb",
+					"high": 6.9,
+					"low": 1.3,
+					"precipitation": 47.4
+				},
+				{
+					"heading": "Mar",
+					"high": 10.6,
+					"low": 3.6,
+					"precipitation": 58.3
+				},
+				{
+					"heading": "Apr",
+					"high": 14.1,
+					"low": 5.4,
+					"precipitation": 50.7
+				},
+				{
+					"heading": "May",
+					"high": 17.9,
+					"low": 8.9,
+					"precipitation": 64
+				},
+				{
+					"heading": "Jun",
+					"high": 20.6,
+					"low": 11.7,
+					"precipitation": 64.6
+				},
+				{
+					"heading": "Jul",
+					"high": 23.3,
+					"low": 13.8,
+					"precipitation": 68.5
+				},
+				{
+					"heading": "Aug",
+					"high": 23.3,
+					"low": 13.6,
+					"precipitation": 62.8
+				},
+				{
+					"heading": "Sep",
+					"high": 19.7,
+					"low": 11.2,
+					"precipitation": 61.6
+				},
+				{
+					"heading": "Oct",
+					"high": 15.2,
+					"low": 8.1,
+					"precipitation": 66.2
+				},
+				{
+					"heading": "Nov",
+					"high": 9.8,
+					"low": 4.4,
+					"precipitation": 70.1
+				},
+				{
+					"heading": "Dec",
+					"high": 6.4,
+					"low": 1.9,
+					"precipitation": 67.8
+				}
+			]
+		},
+		"Lyon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 47,
+					"high": 6,
+					"low": 0
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 44,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 75,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 91,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 76,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 64,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 62,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 88,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 99,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 82,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 55,
+					"high": 11,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 55,
+					"high": 7,
+					"low": 2
+				}
+			]
+		},
+		"Marseille": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.5,
+					"low": 2.7,
+					"precipitation": 42.4
+				},
+				{
+					"heading": "Feb",
+					"high": 12.3,
+					"low": 4,
+					"precipitation": 47.7
+				},
+				{
+					"heading": "Mar",
+					"high": 14.7,
+					"low": 5.7,
+					"precipitation": 42.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17.9,
+					"low": 8.7,
+					"precipitation": 37
+				},
+				{
+					"heading": "May",
+					"high": 21.8,
+					"low": 12.4,
+					"precipitation": 38.2
+				},
+				{
+					"heading": "Jun",
+					"high": 25.6,
+					"low": 15.7,
+					"precipitation": 23.3
+				},
+				{
+					"heading": "Jul",
+					"high": 28.9,
+					"low": 18.4,
+					"precipitation": 6
+				},
+				{
+					"heading": "Aug",
+					"high": 28.5,
+					"low": 18,
+					"precipitation": 25.7
+				},
+				{
+					"heading": "Sep",
+					"high": 25.2,
+					"low": 15.4,
+					"precipitation": 37.8
+				},
+				{
+					"heading": "Oct",
+					"high": 20.7,
+					"low": 11.5,
+					"precipitation": 45
+				},
+				{
+					"heading": "Nov",
+					"high": 14.6,
+					"low": 6.9,
+					"precipitation": 48.2
+				},
+				{
+					"heading": "Dec",
+					"high": 11.5,
+					"low": 4,
+					"precipitation": 56.3
+				}
+			]
+		},
+		"Nantes": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 86,
+					"high": 9,
+					"low": 3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 69,
+					"high": 10,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 61,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 61,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 66,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 43,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 46,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 44,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 63,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 93,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 90,
+					"high": 12,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 97,
+					"high": 9,
+					"low": 3
+				}
+			]
+		},
+		"Strasbourg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.5,
+					"low": -0.8,
+					"precipitation": 32.2
+				},
+				{
+					"heading": "Feb",
+					"high": 6.4,
+					"low": -0.6,
+					"precipitation": 34.5
+				},
+				{
+					"heading": "Mar",
+					"high": 11.4,
+					"low": 2.5,
+					"precipitation": 42.8
+				},
+				{
+					"heading": "Apr",
+					"high": 15.7,
+					"low": 5.2,
+					"precipitation": 45.9
+				},
+				{
+					"heading": "May",
+					"high": 20.2,
+					"low": 9.8,
+					"precipitation": 81.9
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 12.8,
+					"precipitation": 71.6
+				},
+				{
+					"heading": "Jul",
+					"high": 25.7,
+					"low": 14.5,
+					"precipitation": 72.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.4,
+					"low": 14.1,
+					"precipitation": 61.4
+				},
+				{
+					"heading": "Sep",
+					"high": 21,
+					"low": 10.6,
+					"precipitation": 63.5
+				},
+				{
+					"heading": "Oct",
+					"high": 15.3,
+					"low": 7.1,
+					"precipitation": 61.5
+				},
+				{
+					"heading": "Nov",
+					"high": 8.8,
+					"low": 2.8,
+					"precipitation": 47
+				},
+				{
+					"heading": "Dec",
+					"high": 5.2,
+					"low": 0.3,
+					"precipitation": 50
+				}
+			]
+		},
+		"Toulouse": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 9.7,
+					"low": 2.6,
+					"precipitation": 50.4
+				},
+				{
+					"heading": "Feb",
+					"high": 11.1,
+					"low": 3.3,
+					"precipitation": 38.5
+				},
+				{
+					"heading": "Mar",
+					"high": 14.5,
+					"low": 5.4,
+					"precipitation": 45.9
+				},
+				{
+					"heading": "Apr",
+					"high": 16.9,
+					"low": 7.4,
+					"precipitation": 65.7
+				},
+				{
+					"heading": "May",
+					"high": 20.9,
+					"low": 11.3,
+					"precipitation": 73.7
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 14.7,
+					"precipitation": 58
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 16.8,
+					"precipitation": 38.5
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 16.7,
+					"precipitation": 42.7
+				},
+				{
+					"heading": "Sep",
+					"high": 24.6,
+					"low": 13.7,
+					"precipitation": 51.9
+				},
+				{
+					"heading": "Oct",
+					"high": 19.5,
+					"low": 10.8,
+					"precipitation": 55.4
+				},
+				{
+					"heading": "Nov",
+					"high": 13.4,
+					"low": 6.1,
+					"precipitation": 52.4
+				},
+				{
+					"heading": "Dec",
+					"high": 10.1,
+					"low": 3.4,
+					"precipitation": 52.5
+				}
+			]
+		},
+		"French Riviera": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13.1,
+					"low": 5.3,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 13.4,
+					"low": 5.9,
+					"precipitation": 44.7
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 7.9,
+					"precipitation": 38.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17,
+					"low": 10.2,
+					"precipitation": 69.3
+				},
+				{
+					"heading": "May",
+					"high": 20.7,
+					"low": 14.1,
+					"precipitation": 44.6
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 17.5,
+					"precipitation": 34.3
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 20.3,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 20.5,
+					"precipitation": 17.8
+				},
+				{
+					"heading": "Sep",
+					"high": 24.6,
+					"low": 17.3,
+					"precipitation": 73.1
+				},
+				{
+					"heading": "Oct",
+					"high": 21,
+					"low": 13.7,
+					"precipitation": 132.8
+				},
+				{
+					"heading": "Nov",
+					"high": 16.6,
+					"low": 9.2,
+					"precipitation": 103.9
+				},
+				{
+					"heading": "Dec",
+					"high": 13.8,
+					"low": 6.3,
+					"precipitation": 92.7
+				}
+			]
+		},
+		"Loire Valley": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 62.1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50.8
+				},
+				{
+					"heading": "March",
+					"precipitation": 51.7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 44.6
+				},
+				{
+					"heading": "May",
+					"precipitation": 54.4
+				},
+				{
+					"heading": "June",
+					"precipitation": 41.2
+				},
+				{
+					"heading": "July",
+					"precipitation": 43.8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 44.9
+				},
+				{
+					"heading": "Sept",
+					"precipitation": 52.2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 59.6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 64.5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 63.4
+				}
+			]
+		},
+		"Saint-Tropez": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 12.1,
+					"low": 6.5,
+					"precipitation": 82.4
+				},
+				{
+					"heading": "Feb",
+					"high": 12.6,
+					"low": 6.6,
+					"precipitation": 82.8
+				},
+				{
+					"heading": "Mar",
+					"high": 14.3,
+					"low": 7.8,
+					"precipitation": 64.7
+				},
+				{
+					"heading": "Apr",
+					"high": 16.5,
+					"low": 9.8,
+					"precipitation": 53.2
+				},
+				{
+					"heading": "May",
+					"high": 19.7,
+					"low": 13,
+					"precipitation": 40.1
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 16.5,
+					"precipitation": 25.7
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 19.5,
+					"precipitation": 15.5
+				},
+				{
+					"heading": "Aug",
+					"high": 27.3,
+					"low": 17.3,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 14.1,
+					"precipitation": 57
+				},
+				{
+					"heading": "Oct",
+					"high": 20.2,
+					"low": 9.9,
+					"precipitation": 104.9
+				},
+				{
+					"heading": "Nov",
+					"high": 15.6,
+					"low": 7.5,
+					"precipitation": 85.7
+				},
+				{
+					"heading": "Dec",
+					"high": 13,
+					"low": 6,
+					"precipitation": 72.2
+				}
+			]
+		},
+		"Annecy": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 5.4,
+					"low": -1.6,
+					"precipitation": 91.2
+				},
+				{
+					"heading": "Feb",
+					"high": 7.6,
+					"low": -1,
+					"precipitation": 82.2
+				},
+				{
+					"heading": "Mar",
+					"high": 12,
+					"low": 1.6,
+					"precipitation": 94.6
+				},
+				{
+					"heading": "Apr",
+					"high": 15.6,
+					"low": 4.7,
+					"precipitation": 102.8
+				},
+				{
+					"heading": "May",
+					"high": 20.5,
+					"low": 9.5,
+					"precipitation": 105.1
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 12.5,
+					"precipitation": 90
+				},
+				{
+					"heading": "Jul",
+					"high": 26.1,
+					"low": 14.3,
+					"precipitation": 100.8
+				},
+				{
+					"heading": "Aug",
+					"high": 25.7,
+					"low": 14.1,
+					"precipitation": 114.8
+				},
+				{
+					"heading": "Sep",
+					"high": 20.7,
+					"low": 10.4,
+					"precipitation": 123.3
+				},
+				{
+					"heading": "Oct",
+					"high": 16,
+					"low": 7.2,
+					"precipitation": 118
+				},
+				{
+					"heading": "Nov",
+					"high": 9.5,
+					"low": 2.3,
+					"precipitation": 116.8
+				},
+				{
+					"heading": "Dec",
+					"high": 5.6,
+					"low": -0.7,
+					"precipitation": 109.9
+				}
+			]
+		},
+		"Rouen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 6.4,
+					"low": 1.1,
+					"precipitation": 76.3
+				},
+				{
+					"heading": "Feb",
+					"high": 7.3,
+					"low": 1.1,
+					"precipitation": 60.4
+				},
+				{
+					"heading": "Mar",
+					"high": 10.8,
+					"low": 3.2,
+					"precipitation": 67.1
+				},
+				{
+					"heading": "Apr",
+					"high": 13.7,
+					"low": 4.7,
+					"precipitation": 59.2
+				},
+				{
+					"heading": "May",
+					"high": 17.3,
+					"low": 8.1,
+					"precipitation": 74.3
+				},
+				{
+					"heading": "Jun",
+					"high": 20.3,
+					"low": 10.7,
+					"precipitation": 63.7
+				},
+				{
+					"heading": "Jul",
+					"high": 22.8,
+					"low": 12.8,
+					"precipitation": 68.9
+				},
+				{
+					"heading": "Aug",
+					"high": 22.8,
+					"low": 12.8,
+					"precipitation": 65.1
+				},
+				{
+					"heading": "Sep",
+					"high": 19.5,
+					"low": 10.4,
+					"precipitation": 65.5
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 7.8,
+					"precipitation": 83.5
+				},
+				{
+					"heading": "Nov",
+					"high": 9.9,
+					"low": 4.1,
+					"precipitation": 76.8
+				},
+				{
+					"heading": "Dec",
+					"high": 6.6,
+					"low": 1.7,
+					"precipitation": 90.9
+				}
+			]
+		},
+		"Caen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8,
+					"low": 2.6,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "Feb",
+					"high": 8.6,
+					"low": 2.4,
+					"precipitation": 52.4
+				},
+				{
+					"heading": "Mar",
+					"high": 11.5,
+					"low": 4.2,
+					"precipitation": 55.6
+				},
+				{
+					"heading": "Apr",
+					"high": 13.6,
+					"low": 5.3,
+					"precipitation": 50.4
+				},
+				{
+					"heading": "May",
+					"high": 17.1,
+					"low": 8.5,
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Jun",
+					"high": 20.1,
+					"low": 11,
+					"precipitation": 57.9
+				},
+				{
+					"heading": "Jul",
+					"high": 22.6,
+					"low": 13.1,
+					"precipitation": 52.6
+				},
+				{
+					"heading": "Aug",
+					"high": 22.8,
+					"low": 13.2,
+					"precipitation": 51.2
+				},
+				{
+					"heading": "Sep",
+					"high": 20.1,
+					"low": 11.1,
+					"precipitation": 60.8
+				},
+				{
+					"heading": "Oct",
+					"high": 16.1,
+					"low": 8.7,
+					"precipitation": 77.6
+				},
+				{
+					"heading": "Nov",
+					"high": 11.5,
+					"low": 5.3,
+					"precipitation": 74.6
+				},
+				{
+					"heading": "Dec",
+					"high": 8.3,
+					"low": 3,
+					"precipitation": 78.1
+				}
+			]
+		},
+		"Dieppe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.5,
+					"low": 2.8,
+					"precipitation": 65.8
+				},
+				{
+					"heading": "Feb",
+					"high": 7.9,
+					"low": 2.6,
+					"precipitation": 51.5
+				},
+				{
+					"heading": "Mar",
+					"high": 10.3,
+					"low": 4.5,
+					"precipitation": 56.7
+				},
+				{
+					"heading": "Apr",
+					"high": 12.3,
+					"low": 5.8,
+					"precipitation": 56.6
+				},
+				{
+					"heading": "May",
+					"high": 15.4,
+					"low": 9,
+					"precipitation": 60.6
+				},
+				{
+					"heading": "Jun",
+					"high": 17.9,
+					"low": 11.8,
+					"precipitation": 58.6
+				},
+				{
+					"heading": "Jul",
+					"high": 20.1,
+					"low": 13.9,
+					"precipitation": 54.7
+				},
+				{
+					"heading": "Aug",
+					"high": 20.7,
+					"low": 14,
+					"precipitation": 57
+				},
+				{
+					"heading": "Sep",
+					"high": 18.9,
+					"low": 11.9,
+					"precipitation": 69.9
+				},
+				{
+					"heading": "Oct",
+					"high": 15.6,
+					"low": 9.4,
+					"precipitation": 89.8
+				},
+				{
+					"heading": "Nov",
+					"high": 11.1,
+					"low": 6,
+					"precipitation": 89.2
+				},
+				{
+					"heading": "Dec",
+					"high": 7.9,
+					"low": 3.4,
+					"precipitation": 87.8
+				}
+			]
+		},
+		"Le Havre": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 7.2,
+					"low": 3.4,
+					"precipitation": 70
+				},
+				{
+					"heading": "Feb",
+					"high": 7.7,
+					"low": 3.3,
+					"precipitation": 51.8
+				},
+				{
+					"heading": "Mar",
+					"high": 10.1,
+					"low": 5.3,
+					"precipitation": 57.2
+				},
+				{
+					"heading": "Apr",
+					"high": 12.5,
+					"low": 6.9,
+					"precipitation": 54.4
+				},
+				{
+					"heading": "May",
+					"high": 16,
+					"low": 10,
+					"precipitation": 59.4
+				},
+				{
+					"heading": "Jun",
+					"high": 18.5,
+					"low": 12.7,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jul",
+					"high": 20.7,
+					"low": 14.9,
+					"precipitation": 52.3
+				},
+				{
+					"heading": "Aug",
+					"high": 21,
+					"low": 15.3,
+					"precipitation": 56.9
+				},
+				{
+					"heading": "Sep",
+					"high": 18.9,
+					"low": 13.4,
+					"precipitation": 67.2
+				},
+				{
+					"heading": "Oct",
+					"high": 15.4,
+					"low": 10.5,
+					"precipitation": 86.4
+				},
+				{
+					"heading": "Nov",
+					"high": 11,
+					"low": 6.9,
+					"precipitation": 85.5
+				},
+				{
+					"heading": "Dec",
+					"high": 7.9,
+					"low": 4,
+					"precipitation": 88.2
+				}
+			]
+		},
+		"Montpellier": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.6,
+					"low": 2.8,
+					"precipitation": 55.6
+				},
+				{
+					"heading": "Feb",
+					"high": 12.8,
+					"low": 3.3,
+					"precipitation": 51.8
+				},
+				{
+					"heading": "Mar",
+					"high": 15.9,
+					"low": 5.9,
+					"precipitation": 34.3
+				},
+				{
+					"heading": "Apr",
+					"high": 18.2,
+					"low": 8.7,
+					"precipitation": 55.5
+				},
+				{
+					"heading": "May",
+					"high": 22,
+					"low": 12.5,
+					"precipitation": 42.7
+				},
+				{
+					"heading": "Jun",
+					"high": 26.4,
+					"low": 16,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "Jul",
+					"high": 29.3,
+					"low": 18.9,
+					"precipitation": 16.4
+				},
+				{
+					"heading": "Aug",
+					"high": 28.9,
+					"low": 18.5,
+					"precipitation": 34.4
+				},
+				{
+					"heading": "Sep",
+					"high": 25,
+					"low": 15,
+					"precipitation": 80.3
+				},
+				{
+					"heading": "Oct",
+					"high": 20.5,
+					"low": 11.9,
+					"precipitation": 96.8
+				},
+				{
+					"heading": "Nov",
+					"high": 15.3,
+					"low": 6.8,
+					"precipitation": 66.8
+				},
+				{
+					"heading": "Dec",
+					"high": 12.2,
+					"low": 3.7,
+					"precipitation": 66.7
+				}
+			]
+		},
+		"Aix-en-Provence": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.4,
+					"low": 0.9,
+					"precipitation": 51.7
+				},
+				{
+					"heading": "Feb",
+					"high": 12.4,
+					"low": 1.3,
+					"precipitation": 36.1
+				},
+				{
+					"heading": "Mar",
+					"high": 15.6,
+					"low": 3.7,
+					"precipitation": 34.8
+				},
+				{
+					"heading": "Apr",
+					"high": 18.3,
+					"low": 6.5,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "May",
+					"high": 22.8,
+					"low": 10.5,
+					"precipitation": 51.2
+				},
+				{
+					"heading": "Jun",
+					"high": 27.1,
+					"low": 14,
+					"precipitation": 30.7
+				},
+				{
+					"heading": "Jul",
+					"high": 30.6,
+					"low": 16.6,
+					"precipitation": 13.3
+				},
+				{
+					"heading": "Aug",
+					"high": 30.1,
+					"low": 16.2,
+					"precipitation": 36
+				},
+				{
+					"heading": "Sep",
+					"high": 25.5,
+					"low": 13,
+					"precipitation": 85.7
+				},
+				{
+					"heading": "Oct",
+					"high": 20.8,
+					"low": 10,
+					"precipitation": 74.6
+				},
+				{
+					"heading": "Nov",
+					"high": 15,
+					"low": 4.8,
+					"precipitation": 61.4
+				},
+				{
+					"heading": "Dec",
+					"high": 11.9,
+					"low": 1.9,
+					"precipitation": 54
+				}
+			]
+		},
+		"Nîmes": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.3,
+					"low": 2.4,
+					"precipitation": 60.7
+				},
+				{
+					"heading": "Feb",
+					"high": 12.1,
+					"low": 3.6,
+					"precipitation": 58.6
+				},
+				{
+					"heading": "Mar",
+					"high": 14.9,
+					"low": 5.2,
+					"precipitation": 52.1
+				},
+				{
+					"heading": "Apr",
+					"high": 18,
+					"low": 7.8,
+					"precipitation": 62.8
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 11.1,
+					"precipitation": 55.5
+				},
+				{
+					"heading": "Jun",
+					"high": 26.1,
+					"low": 14.8,
+					"precipitation": 26.3
+				},
+				{
+					"heading": "Jul",
+					"high": 29.8,
+					"low": 17.6,
+					"precipitation": 14.9
+				},
+				{
+					"heading": "Aug",
+					"high": 28.9,
+					"low": 16.9,
+					"precipitation": 50.7
+				},
+				{
+					"heading": "Sep",
+					"high": 25.6,
+					"low": 15,
+					"precipitation": 42.6
+				},
+				{
+					"heading": "Oct",
+					"high": 20.3,
+					"low": 11,
+					"precipitation": 96.3
+				},
+				{
+					"heading": "Nov",
+					"high": 14.3,
+					"low": 5.9,
+					"precipitation": 60.4
+				},
+				{
+					"heading": "Dec",
+					"high": 11.3,
+					"low": 3.3,
+					"precipitation": 60.1
+				}
+			]
+		},
+		"Avignon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.2,
+					"low": 1.6,
+					"precipitation": 48.7
+				},
+				{
+					"heading": "Feb",
+					"high": 11.8,
+					"low": 2.3,
+					"precipitation": 37.6
+				},
+				{
+					"heading": "Mar",
+					"high": 15.6,
+					"low": 5.1,
+					"precipitation": 38.6
+				},
+				{
+					"heading": "Apr",
+					"high": 18.6,
+					"low": 7.5,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "May",
+					"high": 23.1,
+					"low": 11.4,
+					"precipitation": 62.5
+				},
+				{
+					"heading": "Jun",
+					"high": 27.3,
+					"low": 15.2,
+					"precipitation": 41
+				},
+				{
+					"heading": "Jul",
+					"high": 30.7,
+					"low": 17.8,
+					"precipitation": 26.6
+				},
+				{
+					"heading": "Aug",
+					"high": 30,
+					"low": 17.3,
+					"precipitation": 45.8
+				},
+				{
+					"heading": "Sep",
+					"high": 25.3,
+					"low": 14,
+					"precipitation": 97.6
+				},
+				{
+					"heading": "Oct",
+					"high": 20.2,
+					"low": 10.5,
+					"precipitation": 91.4
+				},
+				{
+					"heading": "Nov",
+					"high": 14,
+					"low": 5.8,
+					"precipitation": 71.1
+				},
+				{
+					"heading": "Dec",
+					"high": 10.5,
+					"low": 2.7,
+					"precipitation": 49
+				}
+			]
+		},
+		"Alpes-Maritimes": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13.1,
+					"low": 5.3,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 13.4,
+					"low": 5.9,
+					"precipitation": 44.7
+				},
+				{
+					"heading": "Mar",
+					"high": 15.2,
+					"low": 7.9,
+					"precipitation": 38.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17,
+					"low": 10.2,
+					"precipitation": 69.3
+				},
+				{
+					"heading": "May",
+					"high": 20.7,
+					"low": 14.1,
+					"precipitation": 44.6
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 17.5,
+					"precipitation": 34.3
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 20.3,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 20.5,
+					"precipitation": 17.8
+				},
+				{
+					"heading": "Sep",
+					"high": 24.6,
+					"low": 17.3,
+					"precipitation": 73.1
+				},
+				{
+					"heading": "Oct",
+					"high": 21,
+					"low": 13.7,
+					"precipitation": 132.8
+				},
+				{
+					"heading": "Nov",
+					"high": 16.6,
+					"low": 9.2,
+					"precipitation": 103.9
+				},
+				{
+					"heading": "Dec",
+					"high": 13.8,
+					"low": 6.3,
+					"precipitation": 92.7
+				}
+			]
+		}
+	}
+}

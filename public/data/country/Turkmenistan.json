@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Ashgabat": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": 10,
+					"low": 0
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 24,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 30,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 36,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 38,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 37,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 32,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 23,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 17,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": 10,
+					"low": 3
+				}
+			]
+		},
+		"Konye Urgench": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.2,
+					"low": -8,
+					"precipitation": 9
+				},
+				{
+					"heading": "Feb",
+					"high": 2.7,
+					"low": -7.1,
+					"precipitation": 8
+				},
+				{
+					"heading": "Mar",
+					"high": 10.4,
+					"low": -0.5,
+					"precipitation": 17
+				},
+				{
+					"heading": "Apr",
+					"high": 20.7,
+					"low": 7.7,
+					"precipitation": 19
+				},
+				{
+					"heading": "May",
+					"high": 28.5,
+					"low": 14.2,
+					"precipitation": 13
+				},
+				{
+					"heading": "Jun",
+					"high": 33.4,
+					"low": 18.4,
+					"precipitation": 4
+				},
+				{
+					"heading": "Jul",
+					"high": 35.2,
+					"low": 20.7,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 32.6,
+					"low": 18,
+					"precipitation": 2
+				},
+				{
+					"heading": "Sep",
+					"high": 26.9,
+					"low": 11.7,
+					"precipitation": 3
+				},
+				{
+					"heading": "Oct",
+					"high": 17.9,
+					"low": 4.4,
+					"precipitation": 9
+				},
+				{
+					"heading": "Nov",
+					"high": 10.1,
+					"low": 0,
+					"precipitation": 10
+				},
+				{
+					"heading": "Dec",
+					"high": 3.1,
+					"low": -2.8,
+					"precipitation": 12
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"note": "<p>Sarandë is a short ferry ride from Corfu. Jon visited here back in 2010. The beaches were full of Italian tourists and there were horses still pulling carts. I imagine has changed a lot since then. Someday I&#39;ll take Linzy there.</p>\n",
+	"snippets": [
+		{
+			"src": "https://farm6.static.flickr.com/5273/5914347745_df15b4027a.jpg",
+			"type": "url",
+			"embed": false,
+			"title": ":)",
+			"url": "https://www.flickr.com/photos/jdlrobson/5914347745/sizes/m/in/photostream/"
+		},
+		{
+			"src": "https://farm6.static.flickr.com/5075/5914346299_862d4b4c8b.jpg)",
+			"type": "url",
+			"embed": false,
+			"title": ":)",
+			"url": "https://www.flickr.com/photos/jdlrobson/5914346299/sizes/m/in/photostream/"
+		},
+		{
+			"src": "https://farm6.static.flickr.com/5279/5914347631_ce95a4cd00.jpg",
+			"type": "url",
+			"embed": false,
+			"title": ":)",
+			"url": "https://www.flickr.com/photos/jdlrobson/5914347631/sizes/m/in/photostream/"
+		}
+	],
+	"places": {
+		"Tirana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 11.6,
+					"low": 1.8,
+					"precipitation": 143
+				},
+				{
+					"heading": "Feb",
+					"high": 12.9,
+					"low": 2.6,
+					"precipitation": 132
+				},
+				{
+					"heading": "Mar",
+					"high": 15.6,
+					"low": 4.5,
+					"precipitation": 115
+				},
+				{
+					"heading": "Apr",
+					"high": 19,
+					"low": 7.9,
+					"precipitation": 104
+				},
+				{
+					"heading": "May",
+					"high": 23.8,
+					"low": 12.1,
+					"precipitation": 103
+				},
+				{
+					"heading": "Jun",
+					"high": 27.7,
+					"low": 15.6,
+					"precipitation": 68
+				},
+				{
+					"heading": "Jul",
+					"high": 30.7,
+					"low": 17.2,
+					"precipitation": 42
+				},
+				{
+					"heading": "Aug",
+					"high": 30.7,
+					"low": 16.9,
+					"precipitation": 46
+				},
+				{
+					"heading": "Sep",
+					"high": 27.3,
+					"low": 14.1,
+					"precipitation": 78
+				},
+				{
+					"heading": "Oct",
+					"high": 21.8,
+					"low": 10.1,
+					"precipitation": 114
+				},
+				{
+					"heading": "Nov",
+					"high": 17.1,
+					"low": 6.3,
+					"precipitation": 172
+				},
+				{
+					"heading": "Dec",
+					"high": 13,
+					"low": 3.2,
+					"precipitation": 148
+				}
+			]
+		}
+	}
+}

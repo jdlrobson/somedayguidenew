@@ -1,0 +1,614 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"New Providence": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 21,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 68,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 39,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 199,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 275,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 185,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 182,
+					"high": 29,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 188,
+					"high": 31,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 200,
+					"high": 27,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 218,
+					"high": 26,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 101,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 28,
+					"high": 25,
+					"low": 21
+				}
+			]
+		},
+		"Nassau": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 47,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 49,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 54,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 69,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 105,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 219,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 161,
+					"high": 32,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 236,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 163,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 163,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 81,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 50,
+					"high": 26,
+					"low": 18
+				}
+			]
+		},
+		"Paradise Island": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25,
+					"low": 17,
+					"precipitation": 39
+				},
+				{
+					"heading": "Feb",
+					"high": null,
+					"low": 17,
+					"precipitation": 42
+				},
+				{
+					"heading": "Mar",
+					"high": null,
+					"low": 18,
+					"precipitation": 30
+				},
+				{
+					"heading": "Apr",
+					"high": null,
+					"low": 19,
+					"precipitation": 46
+				},
+				{
+					"heading": "May",
+					"high": null,
+					"low": 21,
+					"precipitation": 117
+				},
+				{
+					"heading": "Jun",
+					"high": null,
+					"low": 23,
+					"precipitation": 217
+				},
+				{
+					"heading": "Jul",
+					"high": null,
+					"low": 24,
+					"precipitation": 150
+				},
+				{
+					"heading": "Aug",
+					"high": null,
+					"low": 24,
+					"precipitation": 168
+				},
+				{
+					"heading": "Sep",
+					"high": null,
+					"low": 24,
+					"precipitation": 178
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 22,
+					"precipitation": 182
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 20,
+					"precipitation": 60
+				},
+				{
+					"heading": "Dec",
+					"high": 26,
+					"low": 18,
+					"precipitation": 44
+				}
+			]
+		},
+		"Bimini": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 48,
+					"high": 21,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 84,
+					"high": 20,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 56,
+					"high": 24,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 244,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 215,
+					"high": 27,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 181,
+					"high": 27,
+					"low": 25
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 199,
+					"high": 29,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 216,
+					"high": 29,
+					"low": 26
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 247,
+					"high": 28,
+					"low": 26
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 148,
+					"high": 26,
+					"low": 25
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 89,
+					"high": 25,
+					"low": 24
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 42,
+					"high": 24,
+					"low": 22
+				}
+			]
+		},
+		"Abacos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 14,
+					"high": 21,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 43,
+					"high": 20,
+					"low": 16
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 29,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 155,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 167,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 105,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 230,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 138,
+					"high": 26,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 157,
+					"high": 24,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 118,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 63,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 23,
+					"high": 21,
+					"low": 19
+				}
+			]
+		},
+		"Andros (Bahamas)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 26,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 31,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 37,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 200,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 231,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 221,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 159,
+					"high": 29,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 224,
+					"high": 27,
+					"low": 24
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 190,
+					"high": 26,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 200,
+					"high": 26,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 25,
+					"high": 24,
+					"low": 22
+				}
+			]
+		},
+		"Exuma": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 16,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 24,
+					"high": 26,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 198,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 251,
+					"high": 26,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 237,
+					"high": 26,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 128,
+					"high": 28,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 132,
+					"high": 28,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 128,
+					"high": 27,
+					"low": 26
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 273,
+					"high": 26,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 90,
+					"high": 25,
+					"low": 24
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 107,
+					"high": 24,
+					"low": 23
+				}
+			]
+		},
+		"Mayaguana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 29,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 37,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 16,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 21,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 93,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 43,
+					"high": 24,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 109,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 268,
+					"high": 31,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 67,
+					"high": 28,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 184,
+					"high": 26,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 78,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 42,
+					"high": 24,
+					"low": 22
+				}
+			]
+		}
+	}
+}

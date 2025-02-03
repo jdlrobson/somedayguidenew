@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Malé": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 75,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50,
+					"high": 30,
+					"low": 26
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 73,
+					"high": 31,
+					"low": 26
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 132,
+					"high": 32,
+					"low": 26
+				},
+				{
+					"heading": "May",
+					"precipitation": 216,
+					"high": 31,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 172,
+					"high": 31,
+					"low": 26
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 147,
+					"high": 30,
+					"low": 26
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 188,
+					"high": 30,
+					"low": 26
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 243,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 222,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 201,
+					"high": 30,
+					"low": 25
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 232,
+					"high": 30,
+					"low": 25
+				}
+			]
+		}
+	}
+}

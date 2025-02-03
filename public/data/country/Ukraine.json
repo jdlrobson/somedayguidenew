@@ -1,0 +1,782 @@
+{
+	"note": "<p>Kiev is a good jumping off point for a trip to [Chernobyl, Ukraine](Chernobyl, Ukraine)... Either fly in or take the 10 hour train ride from <strong>Moscow</strong> or the 24 hour train ride from <strong>Berlin</strong></p>\n",
+	"snippets": [
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%D0%9B%D0%B0%D0%B2%D1%80%D0%B0.jpg/600px-%D0%9B%D0%B0%D0%B2%D1%80%D0%B0.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Kyiv Pechersk Lavra",
+			"url": "https://en.wikipedia.org/wiki/Kyiv_Pechersk_Lavra"
+		},
+		{
+			"text": "There are also some rather interesting statues here. Such as the Motherland Kiev.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Mother Kiev",
+			"url": "https://en.wikipedia.org/wiki/Mother_Ukraine"
+		}
+	],
+	"places": {
+		"Kiev": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 36,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 39,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 37,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 57,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 82,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 71,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 60,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 57,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 41,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 50,
+					"high": 5,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 45,
+					"high": 0,
+					"low": null
+				}
+			]
+		},
+		"Chernihiv": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -3.1,
+					"low": -8.7,
+					"precipitation": 41.2
+				},
+				{
+					"heading": "Feb",
+					"high": -1.9,
+					"low": -8.2,
+					"precipitation": 35.1
+				},
+				{
+					"heading": "Mar",
+					"high": 3.8,
+					"low": -3.7,
+					"precipitation": 35.5
+				},
+				{
+					"heading": "Apr",
+					"high": 13,
+					"low": 3.3,
+					"precipitation": 44.4
+				},
+				{
+					"heading": "May",
+					"high": 20,
+					"low": 8.9,
+					"precipitation": 50.8
+				},
+				{
+					"heading": "Jun",
+					"high": 23.3,
+					"low": 12.4,
+					"precipitation": 82.9
+				},
+				{
+					"heading": "Jul",
+					"high": 25.2,
+					"low": 14.2,
+					"precipitation": 83.8
+				},
+				{
+					"heading": "Aug",
+					"high": 24.3,
+					"low": 13.1,
+					"precipitation": 66.2
+				},
+				{
+					"heading": "Sep",
+					"high": 18.5,
+					"low": 8,
+					"precipitation": 58.4
+				},
+				{
+					"heading": "Oct",
+					"high": 11.5,
+					"low": 2.9,
+					"precipitation": 38.8
+				},
+				{
+					"heading": "Nov",
+					"high": 3.8,
+					"low": -1.6,
+					"precipitation": 45.6
+				},
+				{
+					"heading": "Dec",
+					"high": -1.2,
+					"low": -6.1,
+					"precipitation": 45.5
+				}
+			]
+		},
+		"Chernivtsi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 26,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 30,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 32,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 76,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 88,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 98,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 77,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 49,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 37,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 31,
+					"high": 6,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": 1,
+					"low": null
+				}
+			]
+		},
+		"Dnipro": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1,
+					"low": -6.1,
+					"precipitation": 45
+				},
+				{
+					"heading": "Feb",
+					"high": 0,
+					"low": -6.3,
+					"precipitation": 43
+				},
+				{
+					"heading": "Mar",
+					"high": 6,
+					"low": -1.6,
+					"precipitation": 43
+				},
+				{
+					"heading": "Apr",
+					"high": 15.2,
+					"low": 4.9,
+					"precipitation": 38
+				},
+				{
+					"heading": "May",
+					"high": 22.1,
+					"low": 10.6,
+					"precipitation": 42
+				},
+				{
+					"heading": "Jun",
+					"high": 25.6,
+					"low": 14.6,
+					"precipitation": 60
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 16.7,
+					"precipitation": 54
+				},
+				{
+					"heading": "Aug",
+					"high": 27.5,
+					"low": 15.8,
+					"precipitation": 43
+				},
+				{
+					"heading": "Sep",
+					"high": 21.5,
+					"low": 10.7,
+					"precipitation": 41
+				},
+				{
+					"heading": "Oct",
+					"high": 13.8,
+					"low": 5,
+					"precipitation": 37
+				},
+				{
+					"heading": "Nov",
+					"high": 5.1,
+					"low": -0.6,
+					"precipitation": 46
+				},
+				{
+					"heading": "Dec",
+					"high": 0.2,
+					"low": -4.7,
+					"precipitation": 47
+				}
+			]
+		},
+		"Donetsk": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.3,
+					"low": -6.7,
+					"precipitation": 37
+				},
+				{
+					"heading": "Feb",
+					"high": -0.9,
+					"low": -7,
+					"precipitation": 32
+				},
+				{
+					"heading": "Mar",
+					"high": 5.3,
+					"low": -2.1,
+					"precipitation": 34
+				},
+				{
+					"heading": "Apr",
+					"high": 14.5,
+					"low": 4.6,
+					"precipitation": 38
+				},
+				{
+					"heading": "May",
+					"high": 20.9,
+					"low": 10,
+					"precipitation": 46
+				},
+				{
+					"heading": "Jun",
+					"high": 24.8,
+					"low": 13.8,
+					"precipitation": 65
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 15.9,
+					"precipitation": 51
+				},
+				{
+					"heading": "Aug",
+					"high": 26.8,
+					"low": 15,
+					"precipitation": 37
+				},
+				{
+					"heading": "Sep",
+					"high": 20.7,
+					"low": 10,
+					"precipitation": 36
+				},
+				{
+					"heading": "Oct",
+					"high": 13.1,
+					"low": 4.5,
+					"precipitation": 37
+				},
+				{
+					"heading": "Nov",
+					"high": 4.7,
+					"low": -1.1,
+					"precipitation": 38
+				},
+				{
+					"heading": "Dec",
+					"high": -0.3,
+					"low": -5.4,
+					"precipitation": 41
+				}
+			]
+		},
+		"Kharkiv": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -2.2,
+					"low": -7,
+					"precipitation": 36
+				},
+				{
+					"heading": "Feb",
+					"high": -1.6,
+					"low": -7.3,
+					"precipitation": 33
+				},
+				{
+					"heading": "Mar",
+					"high": 4.3,
+					"low": -2.4,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 4.6,
+					"precipitation": 34
+				},
+				{
+					"heading": "May",
+					"high": 20.8,
+					"low": 10.3,
+					"precipitation": 50
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 14.2,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jul",
+					"high": 26.4,
+					"low": 16.2,
+					"precipitation": 61
+				},
+				{
+					"heading": "Aug",
+					"high": 25.7,
+					"low": 14.9,
+					"precipitation": 43
+				},
+				{
+					"heading": "Sep",
+					"high": 19.4,
+					"low": 9.8,
+					"precipitation": 45
+				},
+				{
+					"heading": "Oct",
+					"high": 12,
+					"low": 4.3,
+					"precipitation": 45
+				},
+				{
+					"heading": "Nov",
+					"high": 3.6,
+					"low": -1.5,
+					"precipitation": 40
+				},
+				{
+					"heading": "Dec",
+					"high": -1.1,
+					"low": -5.9,
+					"precipitation": 36
+				}
+			]
+		},
+		"Lviv": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 40,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 44,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 45,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 52,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 89,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 89,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 96,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 77,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 67,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 52,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 49,
+					"high": 6,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 48,
+					"high": 1,
+					"low": null
+				}
+			]
+		},
+		"Odessa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.2,
+					"low": -2.8,
+					"precipitation": 34
+				},
+				{
+					"heading": "Feb",
+					"high": 2.7,
+					"low": -2.6,
+					"precipitation": 37
+				},
+				{
+					"heading": "Mar",
+					"high": 6.6,
+					"low": 1,
+					"precipitation": 32
+				},
+				{
+					"heading": "Apr",
+					"high": 13,
+					"low": 6.6,
+					"precipitation": 27
+				},
+				{
+					"heading": "May",
+					"high": 19.5,
+					"low": 12.1,
+					"precipitation": 36
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 16.3,
+					"precipitation": 49
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 18.5,
+					"precipitation": 47
+				},
+				{
+					"heading": "Aug",
+					"high": 26.5,
+					"low": 18.2,
+					"precipitation": 39
+				},
+				{
+					"heading": "Sep",
+					"high": 21,
+					"low": 13.5,
+					"precipitation": 41
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 8.6,
+					"precipitation": 35
+				},
+				{
+					"heading": "Nov",
+					"high": 8.4,
+					"low": 3.2,
+					"precipitation": 41
+				},
+				{
+					"heading": "Dec",
+					"high": 3.7,
+					"low": -1.2,
+					"precipitation": 35
+				}
+			]
+		},
+		"Chernobyl": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.7,
+					"low": -6.3,
+					"precipitation": 42.2
+				},
+				{
+					"heading": "Feb",
+					"high": -0.2,
+					"low": -7.3,
+					"precipitation": 41.6
+				},
+				{
+					"heading": "Mar",
+					"high": 6,
+					"low": -2.4,
+					"precipitation": 39
+				},
+				{
+					"heading": "Apr",
+					"high": 14.3,
+					"low": 3.7,
+					"precipitation": 46.3
+				},
+				{
+					"heading": "May",
+					"high": 20.7,
+					"low": 8.8,
+					"precipitation": 89.4
+				},
+				{
+					"heading": "Jun",
+					"high": 22.8,
+					"low": 11.9,
+					"precipitation": 91.6
+				},
+				{
+					"heading": "Jul",
+					"high": 25.9,
+					"low": 14.5,
+					"precipitation": 106.9
+				},
+				{
+					"heading": "Aug",
+					"high": 24.6,
+					"low": 13,
+					"precipitation": 62.7
+				},
+				{
+					"heading": "Sep",
+					"high": 18.6,
+					"low": 8.7,
+					"precipitation": 77.4
+				},
+				{
+					"heading": "Oct",
+					"high": 12.5,
+					"low": 3.6,
+					"precipitation": 56.9
+				},
+				{
+					"heading": "Nov",
+					"high": 4.3,
+					"low": -1.1,
+					"precipitation": 57.5
+				},
+				{
+					"heading": "Dec",
+					"high": -0.2,
+					"low": -5,
+					"precipitation": 46.3
+				}
+			]
+		},
+		"Uman": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 36,
+					"high": -3,
+					"low": -8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 33,
+					"high": -1,
+					"low": -6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 29,
+					"high": 3,
+					"low": -2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 38,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "May",
+					"precipitation": 37,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 63,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 76,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 53,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 36,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 31,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 41,
+					"high": 5,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 44,
+					"high": 0,
+					"low": -5
+				}
+			]
+		}
+	}
+}

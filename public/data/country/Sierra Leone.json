@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Freetown": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 3.4,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 3.6,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 12,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 47,
+					"high": 31,
+					"low": 25
+				},
+				{
+					"heading": "May",
+					"precipitation": 177,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 323,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 734,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 791,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 484,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 266,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 88,
+					"high": 30,
+					"low": 24
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 16,
+					"high": 30,
+					"low": 24
+				}
+			]
+		}
+	}
+}

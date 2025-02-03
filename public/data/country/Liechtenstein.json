@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Vaduz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.3,
+					"low": -2.8,
+					"precipitation": 41
+				},
+				{
+					"heading": "Feb",
+					"high": 5.9,
+					"low": -1.8,
+					"precipitation": 38
+				},
+				{
+					"heading": "Mar",
+					"high": 11.1,
+					"low": 1.9,
+					"precipitation": 57
+				},
+				{
+					"heading": "Apr",
+					"high": 15.1,
+					"low": 4.8,
+					"precipitation": 55
+				},
+				{
+					"heading": "May",
+					"high": 19.8,
+					"low": 9.3,
+					"precipitation": 86
+				},
+				{
+					"heading": "Jun",
+					"high": 22.3,
+					"low": 12.1,
+					"precipitation": 115
+				},
+				{
+					"heading": "Jul",
+					"high": 24.5,
+					"low": 14,
+					"precipitation": 138
+				},
+				{
+					"heading": "Aug",
+					"high": 23.7,
+					"low": 13.9,
+					"precipitation": 142
+				},
+				{
+					"heading": "Sep",
+					"high": 19.7,
+					"low": 10.5,
+					"precipitation": 102
+				},
+				{
+					"heading": "Oct",
+					"high": 15.5,
+					"low": 6.7,
+					"precipitation": 63
+				},
+				{
+					"heading": "Nov",
+					"high": 8.9,
+					"low": 1.7,
+					"precipitation": 59
+				},
+				{
+					"heading": "Dec",
+					"high": 5.1,
+					"low": -1.4,
+					"precipitation": 52
+				}
+			]
+		},
+		"Schaan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.6,
+					"low": -3.7,
+					"precipitation": 67
+				},
+				{
+					"heading": "Feb",
+					"high": 4.8,
+					"low": -2.6,
+					"precipitation": 62
+				},
+				{
+					"heading": "Mar",
+					"high": 9.5,
+					"low": 0.4,
+					"precipitation": 65
+				},
+				{
+					"heading": "Apr",
+					"high": 13.8,
+					"low": 3.9,
+					"precipitation": 87
+				},
+				{
+					"heading": "May",
+					"high": 18.1,
+					"low": 7.8,
+					"precipitation": 106
+				},
+				{
+					"heading": "Jun",
+					"high": 21.3,
+					"low": 11.2,
+					"precipitation": 132
+				},
+				{
+					"heading": "Jul",
+					"high": 23.4,
+					"low": 13.2,
+					"precipitation": 130
+				},
+				{
+					"heading": "Aug",
+					"high": 22.5,
+					"low": 12.7,
+					"precipitation": 140
+				},
+				{
+					"heading": "Sep",
+					"high": 19.7,
+					"low": 10,
+					"precipitation": 103
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 5.6,
+					"precipitation": 76
+				},
+				{
+					"heading": "Nov",
+					"high": 8.1,
+					"low": 1.1,
+					"precipitation": 79
+				},
+				{
+					"heading": "Dec",
+					"high": 3.4,
+					"low": -2.5,
+					"precipitation": 76
+				}
+			]
+		}
+	}
+}

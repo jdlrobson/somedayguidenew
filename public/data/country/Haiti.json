@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Port-au-Prince": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 23,
+					"precipitation": 33
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 22,
+					"precipitation": 58
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 22,
+					"precipitation": 86
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 23,
+					"precipitation": 160
+				},
+				{
+					"heading": "May",
+					"high": 33,
+					"low": 23,
+					"precipitation": 231
+				},
+				{
+					"heading": "Jun",
+					"high": 35,
+					"low": 24,
+					"precipitation": 102
+				},
+				{
+					"heading": "Jul",
+					"high": 35,
+					"low": 25,
+					"precipitation": 74
+				},
+				{
+					"heading": "Aug",
+					"high": 35,
+					"low": 24,
+					"precipitation": 145
+				},
+				{
+					"heading": "Sep",
+					"high": 34,
+					"low": 24,
+					"precipitation": 175
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 24,
+					"precipitation": 170
+				},
+				{
+					"heading": "Nov",
+					"high": 32,
+					"low": 23,
+					"precipitation": 86
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 22,
+					"precipitation": 33
+				}
+			]
+		}
+	}
+}

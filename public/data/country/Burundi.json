@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bujumbura": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 100,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 86,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 118,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 112,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 57,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 8.9,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 2.7,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 13,
+					"high": 30,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 33,
+					"high": 31,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 59,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 97,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 100,
+					"high": 29,
+					"low": 19
+				}
+			]
+		}
+	}
+}

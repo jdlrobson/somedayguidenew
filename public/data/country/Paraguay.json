@@ -1,0 +1,538 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Asunción": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 147,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 129,
+					"high": 33,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 118,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 166,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 113,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 82,
+					"high": 23,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 39,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 73,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 88,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 131,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 164,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 150,
+					"high": 32,
+					"low": 22
+				}
+			]
+		},
+		"Areguá": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 71,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 199,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 175,
+					"high": 28,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 318,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 181,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 163,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 94,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 34,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 118,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 155,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 273,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 136,
+					"high": 29,
+					"low": 21
+				}
+			]
+		},
+		"Ciudad del Este": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.7,
+					"low": 21.1,
+					"precipitation": 184.1
+				},
+				{
+					"heading": "Feb",
+					"high": 31.6,
+					"low": 21.3,
+					"precipitation": 154.2
+				},
+				{
+					"heading": "Mar",
+					"high": 30.8,
+					"low": 20.1,
+					"precipitation": 136.1
+				},
+				{
+					"heading": "Apr",
+					"high": 27.5,
+					"low": 17.2,
+					"precipitation": 140.7
+				},
+				{
+					"heading": "May",
+					"high": 24.6,
+					"low": 13.6,
+					"precipitation": 132.3
+				},
+				{
+					"heading": "Jun",
+					"high": 22.2,
+					"low": 11.4,
+					"precipitation": 131.9
+				},
+				{
+					"heading": "Jul",
+					"high": 23,
+					"low": 11.3,
+					"precipitation": 90.6
+				},
+				{
+					"heading": "Aug",
+					"high": 24.2,
+					"low": 12.3,
+					"precipitation": 115
+				},
+				{
+					"heading": "Sep",
+					"high": 25.8,
+					"low": 13.8,
+					"precipitation": 130.2
+				},
+				{
+					"heading": "Oct",
+					"high": 28.4,
+					"low": 16.6,
+					"precipitation": 176
+				},
+				{
+					"heading": "Nov",
+					"high": 30.1,
+					"low": 18.3,
+					"precipitation": 163.5
+				},
+				{
+					"heading": "Dec",
+					"high": 31.2,
+					"low": 20.1,
+					"precipitation": 139.9
+				}
+			]
+		},
+		"Concepción (Paraguay)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 33.4,
+					"low": 22.7,
+					"precipitation": 152.8
+				},
+				{
+					"heading": "Feb",
+					"high": 33.2,
+					"low": 22.5,
+					"precipitation": 122.8
+				},
+				{
+					"heading": "Mar",
+					"high": 32.2,
+					"low": 21.3,
+					"precipitation": 140.1
+				},
+				{
+					"heading": "Apr",
+					"high": 29.3,
+					"low": 18.5,
+					"precipitation": 122.9
+				},
+				{
+					"heading": "May",
+					"high": 26.6,
+					"low": 15.9,
+					"precipitation": 124.8
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 13.8,
+					"precipitation": 62.3
+				},
+				{
+					"heading": "Jul",
+					"high": 25.1,
+					"low": 13.3,
+					"precipitation": 42.6
+				},
+				{
+					"heading": "Aug",
+					"high": 26.5,
+					"low": 14.3,
+					"precipitation": 55.8
+				},
+				{
+					"heading": "Sep",
+					"high": 27.8,
+					"low": 16.1,
+					"precipitation": 67.7
+				},
+				{
+					"heading": "Oct",
+					"high": 30.7,
+					"low": 18.6,
+					"precipitation": 124.7
+				},
+				{
+					"heading": "Nov",
+					"high": 32,
+					"low": 20.2,
+					"precipitation": 161.8
+				},
+				{
+					"heading": "Dec",
+					"high": 32.6,
+					"low": 21.7,
+					"precipitation": 163.5
+				}
+			]
+		},
+		"Encarnación": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.2,
+					"low": 19.4,
+					"precipitation": 152.2
+				},
+				{
+					"heading": "Feb",
+					"high": 30.6,
+					"low": 19.5,
+					"precipitation": 160.6
+				},
+				{
+					"heading": "Mar",
+					"high": 29.2,
+					"low": 17.9,
+					"precipitation": 142.4
+				},
+				{
+					"heading": "Apr",
+					"high": 25.9,
+					"low": 14.3,
+					"precipitation": 162.2
+				},
+				{
+					"heading": "May",
+					"high": 23.2,
+					"low": 11.7,
+					"precipitation": 144.2
+				},
+				{
+					"heading": "Jun",
+					"high": 20.9,
+					"low": 9.9,
+					"precipitation": 135.8
+				},
+				{
+					"heading": "Jul",
+					"high": 21.4,
+					"low": 10.2,
+					"precipitation": 102.7
+				},
+				{
+					"heading": "Aug",
+					"high": 22.5,
+					"low": 10.8,
+					"precipitation": 116.9
+				},
+				{
+					"heading": "Sep",
+					"high": 23.9,
+					"low": 12.3,
+					"precipitation": 149.5
+				},
+				{
+					"heading": "Oct",
+					"high": 26.5,
+					"low": 14.3,
+					"precipitation": 181.7
+				},
+				{
+					"heading": "Nov",
+					"high": 28.4,
+					"low": 16.3,
+					"precipitation": 161.5
+				},
+				{
+					"heading": "Dec",
+					"high": 30.5,
+					"low": 18.3,
+					"precipitation": 150
+				}
+			]
+		},
+		"Filadelfia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 88,
+					"high": 35,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 108,
+					"high": 35,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 103,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 37,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "May",
+					"precipitation": 56,
+					"high": 27,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 26,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 5,
+					"high": 26,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 42,
+					"high": 29,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 34,
+					"high": 31,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 68,
+					"high": 34,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 104,
+					"high": 35,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 88,
+					"high": 35,
+					"low": 22
+				}
+			]
+		},
+		"San Bernardino (Paraguay)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 71,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 199,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 175,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 318,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 181,
+					"high": 22,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 163,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 94,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 34,
+					"high": 21,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 118,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 155,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 273,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 136,
+					"high": 29,
+					"low": 21
+				}
+			]
+		}
+	}
+}

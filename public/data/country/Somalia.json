@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Garowe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 24,
+					"precipitation": 15
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 24,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 24,
+					"precipitation": 1
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 26,
+					"precipitation": 15
+				},
+				{
+					"heading": "May",
+					"high": 34,
+					"low": 27,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jun",
+					"high": 39,
+					"low": 30,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jul",
+					"high": 41,
+					"low": 32,
+					"precipitation": 33
+				},
+				{
+					"heading": "Aug",
+					"high": 41,
+					"low": 31,
+					"precipitation": 20
+				},
+				{
+					"heading": "Sep",
+					"high": 38,
+					"low": 29,
+					"precipitation": 15
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 25,
+					"precipitation": 14
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 25,
+					"precipitation": 5
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 23,
+					"precipitation": 5
+				}
+			]
+		},
+		"Bosaso": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 20.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 20.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 21.6,
+					"precipitation": 1
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 24.4,
+					"precipitation": 3
+				},
+				{
+					"heading": "May",
+					"high": 37,
+					"low": 26.1,
+					"precipitation": 3
+				},
+				{
+					"heading": "Jun",
+					"high": 41,
+					"low": 30.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 41,
+					"low": 31.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 40,
+					"low": 30,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 39,
+					"low": 28.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 22.2,
+					"precipitation": 2
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 21.1,
+					"precipitation": 7
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 20,
+					"precipitation": 3
+				}
+			]
+		},
+		"Mogadishu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.2,
+					"low": 23,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 30.2,
+					"low": 23.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 24.9,
+					"precipitation": 8
+				},
+				{
+					"heading": "Apr",
+					"high": 32.2,
+					"low": 25.6,
+					"precipitation": 61
+				},
+				{
+					"heading": "May",
+					"high": 31.2,
+					"low": 24.9,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jun",
+					"high": 29.6,
+					"low": 23.7,
+					"precipitation": 82
+				},
+				{
+					"heading": "Jul",
+					"high": 28.6,
+					"low": 23.1,
+					"precipitation": 64
+				},
+				{
+					"heading": "Aug",
+					"high": 28.6,
+					"low": 23,
+					"precipitation": 44
+				},
+				{
+					"heading": "Sep",
+					"high": 29.4,
+					"low": 23.4,
+					"precipitation": 25
+				},
+				{
+					"heading": "Oct",
+					"high": 30.2,
+					"low": 24.3,
+					"precipitation": 32
+				},
+				{
+					"heading": "Nov",
+					"high": 30.6,
+					"low": 24.2,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 23.5,
+					"precipitation": 9
+				}
+			]
+		},
+		"Kismayo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.6,
+					"low": 24.2,
+					"precipitation": 1
+				},
+				{
+					"heading": "Feb",
+					"high": 29.9,
+					"low": 24.5,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 25.4,
+					"precipitation": 3
+				},
+				{
+					"heading": "Apr",
+					"high": 31.8,
+					"low": 25.8,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 30.4,
+					"low": 24.8,
+					"precipitation": 111
+				},
+				{
+					"heading": "Jun",
+					"high": 28.6,
+					"low": 23.5,
+					"precipitation": 89
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 23.1,
+					"precipitation": 52
+				},
+				{
+					"heading": "Aug",
+					"high": 28.3,
+					"low": 23.3,
+					"precipitation": 21
+				},
+				{
+					"heading": "Sep",
+					"high": 28.6,
+					"low": 23.3,
+					"precipitation": 21
+				},
+				{
+					"heading": "Oct",
+					"high": 29.5,
+					"low": 24,
+					"precipitation": 15
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 24.5,
+					"precipitation": 17
+				},
+				{
+					"heading": "Dec",
+					"high": 30.5,
+					"low": 24.4,
+					"precipitation": 3
+				}
+			]
+		},
+		"Las Anod": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.9,
+					"low": 12.7,
+					"precipitation": 1
+				},
+				{
+					"heading": "Feb",
+					"high": 30.1,
+					"low": 15.1,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 30.8,
+					"low": 15.4,
+					"precipitation": 4
+				},
+				{
+					"heading": "Apr",
+					"high": 32.3,
+					"low": 18.2,
+					"precipitation": 15
+				},
+				{
+					"heading": "May",
+					"high": 32.5,
+					"low": 19.5,
+					"precipitation": 52
+				},
+				{
+					"heading": "Jun",
+					"high": 30.5,
+					"low": 19.1,
+					"precipitation": 2
+				},
+				{
+					"heading": "Jul",
+					"high": 30.3,
+					"low": 19.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 30.8,
+					"low": 19.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 32.4,
+					"low": 20,
+					"precipitation": 15
+				},
+				{
+					"heading": "Oct",
+					"high": 31.8,
+					"low": 18.5,
+					"precipitation": 30
+				},
+				{
+					"heading": "Nov",
+					"high": 31.5,
+					"low": 16.8,
+					"precipitation": 10
+				},
+				{
+					"heading": "Dec",
+					"high": 29.8,
+					"low": 15.1,
+					"precipitation": 2
+				}
+			]
+		}
+	}
+}

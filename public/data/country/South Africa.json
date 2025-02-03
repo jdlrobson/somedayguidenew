@@ -1,0 +1,766 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Pretoria": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.5,
+					"low": 17.8,
+					"precipitation": 135
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 17.3,
+					"precipitation": 76
+				},
+				{
+					"heading": "Mar",
+					"high": 26.9,
+					"low": 16.1,
+					"precipitation": 79
+				},
+				{
+					"heading": "Apr",
+					"high": 24.1,
+					"low": 12.6,
+					"precipitation": 54
+				},
+				{
+					"heading": "May",
+					"high": 21.8,
+					"low": 8.2,
+					"precipitation": 13
+				},
+				{
+					"heading": "Jun",
+					"high": 18.9,
+					"low": 4.8,
+					"precipitation": 7
+				},
+				{
+					"heading": "Jul",
+					"high": 19.5,
+					"low": 4.8,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 22.1,
+					"low": 7.6,
+					"precipitation": 5
+				},
+				{
+					"heading": "Sep",
+					"high": 25.5,
+					"low": 11.9,
+					"precipitation": 20
+				},
+				{
+					"heading": "Oct",
+					"high": 26.6,
+					"low": 14.4,
+					"precipitation": 73
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 15.8,
+					"precipitation": 100
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 16.8,
+					"precipitation": 108
+				}
+			]
+		},
+		"Cape Town": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": 24,
+					"low": 14
+				}
+			]
+		},
+		"Bloemfontein": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 15.3,
+					"precipitation": 83
+				},
+				{
+					"heading": "Feb",
+					"high": 28.8,
+					"low": 14.7,
+					"precipitation": 111
+				},
+				{
+					"heading": "Mar",
+					"high": 26.9,
+					"low": 12.4,
+					"precipitation": 72
+				},
+				{
+					"heading": "Apr",
+					"high": 23.1,
+					"low": 7.7,
+					"precipitation": 56
+				},
+				{
+					"heading": "May",
+					"high": 20.1,
+					"low": 2.5,
+					"precipitation": 17
+				},
+				{
+					"heading": "Jun",
+					"high": 16.8,
+					"low": -1.5,
+					"precipitation": 12
+				},
+				{
+					"heading": "Jul",
+					"high": 17.4,
+					"low": -1.9,
+					"precipitation": 8
+				},
+				{
+					"heading": "Aug",
+					"high": 20,
+					"low": 0.5,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 5.2,
+					"precipitation": 24
+				},
+				{
+					"heading": "Oct",
+					"high": 26.1,
+					"low": 9.1,
+					"precipitation": 43
+				},
+				{
+					"heading": "Nov",
+					"high": 28.1,
+					"low": 11.7,
+					"precipitation": 58
+				},
+				{
+					"heading": "Dec",
+					"high": 30.1,
+					"low": 13.8,
+					"precipitation": 60
+				}
+			]
+		},
+		"Durban": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.8,
+					"low": 21.1,
+					"precipitation": 134
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 21.1,
+					"precipitation": 113
+				},
+				{
+					"heading": "Mar",
+					"high": 27.7,
+					"low": 20.3,
+					"precipitation": 120
+				},
+				{
+					"heading": "Apr",
+					"high": 26.1,
+					"low": 17.4,
+					"precipitation": 73
+				},
+				{
+					"heading": "May",
+					"high": 24.5,
+					"low": 13.8,
+					"precipitation": 59
+				},
+				{
+					"heading": "Jun",
+					"high": 23,
+					"low": 10.6,
+					"precipitation": 38
+				},
+				{
+					"heading": "Jul",
+					"high": 22.6,
+					"low": 10.5,
+					"precipitation": 39
+				},
+				{
+					"heading": "Aug",
+					"high": 22.8,
+					"low": 12.5,
+					"precipitation": 62
+				},
+				{
+					"heading": "Sep",
+					"high": 23.3,
+					"low": 15.3,
+					"precipitation": 73
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 16.8,
+					"precipitation": 98
+				},
+				{
+					"heading": "Nov",
+					"high": 25.2,
+					"low": 18.3,
+					"precipitation": 108
+				},
+				{
+					"heading": "Dec",
+					"high": 26.9,
+					"low": 20,
+					"precipitation": 102
+				}
+			]
+		},
+		"Johannesburg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.6,
+					"low": 14.7,
+					"precipitation": 125
+				},
+				{
+					"heading": "Feb",
+					"high": 25.1,
+					"low": 14.1,
+					"precipitation": 90
+				},
+				{
+					"heading": "Mar",
+					"high": 24,
+					"low": 13.1,
+					"precipitation": 91
+				},
+				{
+					"heading": "Apr",
+					"high": 21.1,
+					"low": 10.3,
+					"precipitation": 54
+				},
+				{
+					"heading": "May",
+					"high": 18.9,
+					"low": 7.2,
+					"precipitation": 13
+				},
+				{
+					"heading": "Jun",
+					"high": 16,
+					"low": 4.1,
+					"precipitation": 9
+				},
+				{
+					"heading": "Jul",
+					"high": 16.7,
+					"low": 4.1,
+					"precipitation": 4
+				},
+				{
+					"heading": "Aug",
+					"high": 19.4,
+					"low": 6.2,
+					"precipitation": 6
+				},
+				{
+					"heading": "Sep",
+					"high": 22.8,
+					"low": 9.3,
+					"precipitation": 27
+				},
+				{
+					"heading": "Oct",
+					"high": 23.8,
+					"low": 11.2,
+					"precipitation": 72
+				},
+				{
+					"heading": "Nov",
+					"high": 24.2,
+					"low": 12.7,
+					"precipitation": 117
+				},
+				{
+					"heading": "Dec",
+					"high": 25.2,
+					"low": 13.9,
+					"precipitation": 105
+				}
+			]
+		},
+		"Polokwane": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.1,
+					"low": 17.1,
+					"precipitation": 82
+				},
+				{
+					"heading": "Feb",
+					"high": 27.6,
+					"low": 16.7,
+					"precipitation": 60
+				},
+				{
+					"heading": "Mar",
+					"high": 26.6,
+					"low": 15.3,
+					"precipitation": 52
+				},
+				{
+					"heading": "Apr",
+					"high": 24.4,
+					"low": 12.2,
+					"precipitation": 33
+				},
+				{
+					"heading": "May",
+					"high": 22.4,
+					"low": 7.9,
+					"precipitation": 11
+				},
+				{
+					"heading": "Jun",
+					"high": 19.6,
+					"low": 4.7,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jul",
+					"high": 19.9,
+					"low": 4.4,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 22.1,
+					"low": 6.7,
+					"precipitation": 6
+				},
+				{
+					"heading": "Sep",
+					"high": 25.2,
+					"low": 10.4,
+					"precipitation": 17
+				},
+				{
+					"heading": "Oct",
+					"high": 26.1,
+					"low": 13.3,
+					"precipitation": 43
+				},
+				{
+					"heading": "Nov",
+					"high": 26.5,
+					"low": 15.2,
+					"precipitation": 85
+				},
+				{
+					"heading": "Dec",
+					"high": 27.4,
+					"low": 16.4,
+					"precipitation": 81
+				}
+			]
+		},
+		"Port Elizabeth": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.4,
+					"low": 17.9,
+					"precipitation": 36
+				},
+				{
+					"heading": "Feb",
+					"high": 25.4,
+					"low": 17.9,
+					"precipitation": 40
+				},
+				{
+					"heading": "Mar",
+					"high": 24.6,
+					"low": 16.9,
+					"precipitation": 54
+				},
+				{
+					"heading": "Apr",
+					"high": 23,
+					"low": 14.3,
+					"precipitation": 58
+				},
+				{
+					"heading": "May",
+					"high": 21.7,
+					"low": 11.5,
+					"precipitation": 59
+				},
+				{
+					"heading": "Jun",
+					"high": 20.3,
+					"low": 9.2,
+					"precipitation": 62
+				},
+				{
+					"heading": "Jul",
+					"high": 19.7,
+					"low": 8.8,
+					"precipitation": 47
+				},
+				{
+					"heading": "Aug",
+					"high": 19.6,
+					"low": 9.8,
+					"precipitation": 64
+				},
+				{
+					"heading": "Sep",
+					"high": 20,
+					"low": 11.4,
+					"precipitation": 62
+				},
+				{
+					"heading": "Oct",
+					"high": 20.8,
+					"low": 13.1,
+					"precipitation": 59
+				},
+				{
+					"heading": "Nov",
+					"high": 22.3,
+					"low": 14.6,
+					"precipitation": 49
+				},
+				{
+					"heading": "Dec",
+					"high": 24.3,
+					"low": 16.4,
+					"precipitation": 34
+				}
+			]
+		},
+		"Upington": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 35.5,
+					"low": 19.8,
+					"precipitation": 24
+				},
+				{
+					"heading": "Feb",
+					"high": 34.4,
+					"low": 19.5,
+					"precipitation": 35
+				},
+				{
+					"heading": "Mar",
+					"high": 32.1,
+					"low": 17.8,
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"high": 27.8,
+					"low": 13.3,
+					"precipitation": 26
+				},
+				{
+					"heading": "May",
+					"high": 24,
+					"low": 8.3,
+					"precipitation": 10
+				},
+				{
+					"heading": "Jun",
+					"high": 20.5,
+					"low": 4.8,
+					"precipitation": 4
+				},
+				{
+					"heading": "Jul",
+					"high": 20.8,
+					"low": 4.1,
+					"precipitation": 2
+				},
+				{
+					"heading": "Aug",
+					"high": 22.9,
+					"low": 5.6,
+					"precipitation": 4
+				},
+				{
+					"heading": "Sep",
+					"high": 26.8,
+					"low": 9.4,
+					"precipitation": 4
+				},
+				{
+					"heading": "Oct",
+					"high": 29.6,
+					"low": 12.9,
+					"precipitation": 9
+				},
+				{
+					"heading": "Nov",
+					"high": 32.7,
+					"low": 16.3,
+					"precipitation": 17
+				},
+				{
+					"heading": "Dec",
+					"high": 34.7,
+					"low": 18.6,
+					"precipitation": 17
+				}
+			]
+		},
+		"Kruger National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 94,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 96,
+					"high": 32,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 66,
+					"high": 31,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 38,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "May",
+					"precipitation": 14,
+					"high": 28,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11,
+					"high": 26,
+					"low": 6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 11,
+					"high": 26,
+					"low": 6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 8,
+					"high": 27,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 28,
+					"high": 29,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 40,
+					"high": 30,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 63,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 92,
+					"high": 32,
+					"low": 20
+				}
+			]
+		},
+		"Kimberley (Northern Cape)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.8,
+					"low": 17.9,
+					"precipitation": 57
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 17.3,
+					"precipitation": 76
+				},
+				{
+					"heading": "Mar",
+					"high": 28.8,
+					"low": 15.2,
+					"precipitation": 65
+				},
+				{
+					"heading": "Apr",
+					"high": 24.7,
+					"low": 10.8,
+					"precipitation": 49
+				},
+				{
+					"heading": "May",
+					"high": 21.4,
+					"low": 6.5,
+					"precipitation": 16
+				},
+				{
+					"heading": "Jun",
+					"high": 18.2,
+					"low": 3.2,
+					"precipitation": 7
+				},
+				{
+					"heading": "Jul",
+					"high": 18.8,
+					"low": 2.8,
+					"precipitation": 7
+				},
+				{
+					"heading": "Aug",
+					"high": 21.3,
+					"low": 4.9,
+					"precipitation": 7
+				},
+				{
+					"heading": "Sep",
+					"high": 25.5,
+					"low": 8.9,
+					"precipitation": 12
+				},
+				{
+					"heading": "Oct",
+					"high": 27.8,
+					"low": 11.9,
+					"precipitation": 30
+				},
+				{
+					"heading": "Nov",
+					"high": 30.2,
+					"low": 14.6,
+					"precipitation": 42
+				},
+				{
+					"heading": "Dec",
+					"high": 32.1,
+					"low": 16.6,
+					"precipitation": 46
+				}
+			]
+		}
+	}
+}

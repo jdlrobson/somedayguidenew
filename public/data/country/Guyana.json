@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Georgetown (Guyana)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.6,
+					"low": 23.6,
+					"precipitation": 185.2
+				},
+				{
+					"heading": "Feb",
+					"high": 28.9,
+					"low": 23.9,
+					"precipitation": 88.5
+				},
+				{
+					"heading": "Mar",
+					"high": 29.2,
+					"low": 24.2,
+					"precipitation": 111
+				},
+				{
+					"heading": "Apr",
+					"high": 29.5,
+					"low": 24.4,
+					"precipitation": 140.5
+				},
+				{
+					"heading": "May",
+					"high": 29.4,
+					"low": 24.3,
+					"precipitation": 285.5
+				},
+				{
+					"heading": "Jun",
+					"high": 29.2,
+					"low": 23.8,
+					"precipitation": 327.7
+				},
+				{
+					"heading": "Jul",
+					"high": 29.6,
+					"low": 23.5,
+					"precipitation": 268
+				},
+				{
+					"heading": "Aug",
+					"high": 30.2,
+					"low": 23.8,
+					"precipitation": 201.4
+				},
+				{
+					"heading": "Sep",
+					"high": 30.8,
+					"low": 24.2,
+					"precipitation": 97.5
+				},
+				{
+					"heading": "Oct",
+					"high": 30.8,
+					"low": 24.4,
+					"precipitation": 107.2
+				},
+				{
+					"heading": "Nov",
+					"high": 30.2,
+					"low": 24.2,
+					"precipitation": 185.9
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 23.8,
+					"precipitation": 261.9
+				}
+			]
+		},
+		"Mabaruma": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 22,
+					"precipitation": 210
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 21,
+					"precipitation": 110
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 22,
+					"precipitation": 120
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 22,
+					"precipitation": 170
+				},
+				{
+					"heading": "May",
+					"high": 30,
+					"low": 23,
+					"precipitation": 310
+				},
+				{
+					"heading": "Jun",
+					"high": 29,
+					"low": 22,
+					"precipitation": 350
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 22,
+					"precipitation": 340
+				},
+				{
+					"heading": "Aug",
+					"high": 32,
+					"low": 22,
+					"precipitation": 250
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 22,
+					"precipitation": 200
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 23,
+					"precipitation": 200
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 22,
+					"precipitation": 220
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 22,
+					"precipitation": 320
+				}
+			]
+		},
+		"Lethem": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 33,
+					"low": 23,
+					"precipitation": 30
+				},
+				{
+					"heading": "Feb",
+					"high": 33,
+					"low": 23,
+					"precipitation": 36
+				},
+				{
+					"heading": "Mar",
+					"high": 33,
+					"low": 23,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 23,
+					"precipitation": 140
+				},
+				{
+					"heading": "May",
+					"high": 32,
+					"low": 23,
+					"precipitation": 290
+				},
+				{
+					"heading": "Jun",
+					"high": 31,
+					"low": 23,
+					"precipitation": 300
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 23,
+					"precipitation": 380
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 23,
+					"precipitation": 240
+				},
+				{
+					"heading": "Sep",
+					"high": 33,
+					"low": 24,
+					"precipitation": 86
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 24,
+					"precipitation": 58
+				},
+				{
+					"heading": "Nov",
+					"high": 33,
+					"low": 24,
+					"precipitation": 110
+				},
+				{
+					"heading": "Dec",
+					"high": 33,
+					"low": 23,
+					"precipitation": 33
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Kathmandu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 14,
+					"high": 19,
+					"low": 2
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 19,
+					"high": 21,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 34,
+					"high": 25,
+					"low": 8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 61,
+					"high": 28,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 124,
+					"high": 29,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 236,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 363,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 331,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 200,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 51,
+					"high": 27,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 8,
+					"high": 24,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 13,
+					"high": 20,
+					"low": 4
+				}
+			]
+		},
+		"Biratnagar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.7,
+					"low": 9,
+					"precipitation": 11.7
+				},
+				{
+					"heading": "Feb",
+					"high": 26.1,
+					"low": 11.1,
+					"precipitation": 13.2
+				},
+				{
+					"heading": "Mar",
+					"high": 30.9,
+					"low": 15.6,
+					"precipitation": 13.2
+				},
+				{
+					"heading": "Apr",
+					"high": 33.9,
+					"low": 20.4,
+					"precipitation": 53.1
+				},
+				{
+					"heading": "May",
+					"high": 33.3,
+					"low": 23.3,
+					"precipitation": 186
+				},
+				{
+					"heading": "Jun",
+					"high": 32.9,
+					"low": 25.2,
+					"precipitation": 302.4
+				},
+				{
+					"heading": "Jul",
+					"high": 32.1,
+					"low": 25.6,
+					"precipitation": 530.8
+				},
+				{
+					"heading": "Aug",
+					"high": 32.5,
+					"low": 25.8,
+					"precipitation": 378.3
+				},
+				{
+					"heading": "Sep",
+					"high": 32.1,
+					"low": 24.7,
+					"precipitation": 298.8
+				},
+				{
+					"heading": "Oct",
+					"high": 31.6,
+					"low": 21.1,
+					"precipitation": 91.8
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 15.3,
+					"precipitation": 5.9
+				},
+				{
+					"heading": "Dec",
+					"high": 25.4,
+					"low": 10.5,
+					"precipitation": 6.6
+				}
+			]
+		},
+		"Janakpur": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 22.2,
+					"low": 9.1,
+					"precipitation": 11.7
+				},
+				{
+					"heading": "Feb",
+					"high": 26,
+					"low": 11.3,
+					"precipitation": 11.4
+				},
+				{
+					"heading": "Mar",
+					"high": 31.2,
+					"low": 15.5,
+					"precipitation": 11.5
+				},
+				{
+					"heading": "Apr",
+					"high": 34.8,
+					"low": 20.6,
+					"precipitation": 52.2
+				},
+				{
+					"heading": "May",
+					"high": 34.6,
+					"low": 24,
+					"precipitation": 128.3
+				},
+				{
+					"heading": "Jun",
+					"high": 34.1,
+					"low": 25.9,
+					"precipitation": 238.7
+				},
+				{
+					"heading": "Jul",
+					"high": 32.5,
+					"low": 26.1,
+					"precipitation": 487.6
+				},
+				{
+					"heading": "Aug",
+					"high": 32.7,
+					"low": 26.4,
+					"precipitation": 339.4
+				},
+				{
+					"heading": "Sep",
+					"high": 32.3,
+					"low": 25.3,
+					"precipitation": 197.5
+				},
+				{
+					"heading": "Oct",
+					"high": 31.7,
+					"low": 22,
+					"precipitation": 63.9
+				},
+				{
+					"heading": "Nov",
+					"high": 29.3,
+					"low": 15.7,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Dec",
+					"high": 25.1,
+					"low": 10.9,
+					"precipitation": 8.4
+				}
+			]
+		},
+		"Namche Bazaar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 26,
+					"high": 7,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 23,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 34,
+					"high": 9,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 26,
+					"high": 12,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 41,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 140,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 243,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 243,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 165,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 78,
+					"high": 12,
+					"low": 2
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 9,
+					"high": 9,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 39,
+					"high": 7,
+					"low": null
+				}
+			]
+		},
+		"Pokhara": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 19.7,
+					"low": 7.1,
+					"precipitation": 23
+				},
+				{
+					"heading": "Feb",
+					"high": 22.2,
+					"low": 9.2,
+					"precipitation": 35
+				},
+				{
+					"heading": "Mar",
+					"high": 26.7,
+					"low": 12.8,
+					"precipitation": 60
+				},
+				{
+					"heading": "Apr",
+					"high": 29.8,
+					"low": 15.7,
+					"precipitation": 128
+				},
+				{
+					"heading": "May",
+					"high": 30.1,
+					"low": 18.4,
+					"precipitation": 359
+				},
+				{
+					"heading": "Jun",
+					"high": 30.6,
+					"low": 20.9,
+					"precipitation": 669
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 22,
+					"precipitation": 940
+				},
+				{
+					"heading": "Aug",
+					"high": 30.2,
+					"low": 22,
+					"precipitation": 866
+				},
+				{
+					"heading": "Sep",
+					"high": 29.3,
+					"low": 20.8,
+					"precipitation": 641
+				},
+				{
+					"heading": "Oct",
+					"high": 27.5,
+					"low": 16.7,
+					"precipitation": 140
+				},
+				{
+					"heading": "Nov",
+					"high": 24.1,
+					"low": 11.9,
+					"precipitation": 18
+				},
+				{
+					"heading": "Dec",
+					"high": 20.7,
+					"low": 8,
+					"precipitation": 22
+				}
+			]
+		}
+	}
+}

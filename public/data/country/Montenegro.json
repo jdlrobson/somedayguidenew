@@ -1,0 +1,517 @@
+{
+	"note": "<p>Roll in on a train from <strong>Belgrade</strong> or head that way (see Linzy&#39;s blog post about the fantastic journey). Podgorica is a beautiful mountain town. Note all the taxis run on a meter so no need to haggle on prices. Pod Volat there provides a great introduction to food and drink - just mind the generous portion sizes!</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/Bx5k9b_D3tu",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "10 hours from Topcider [Топчидер] in Serbia [Србија] to Podgorica [Подгорица] in Montenegro [Црна Гора] – passing through 254 tunnels and 435 bridges… we thought we would get bored at some point but we stayed glued to the window and went “wha! whaa!! whaaa!!! whaaaa!!!! whaaaaa!!!!! whaaaaaa!!!!!! WHA! WHAA!! WHAAA!!! WHAAAA!!!! – louder with each",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/10/img_20190525_104110053.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "What could €20 buy you in Serbia?",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/05/25/what-could-20-euros-buy-you-in-serbia/"
+		},
+		{
+			"src": "https://www.instagram.com/p/ByGHLGVgIFj",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByFAnDkA0lC",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/ByDnGWtghaR",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bx-QGsZg6yA",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "If the train journey from Serbia to Montenegro felt like we were in the opening credits of The Adventures of Tintin (TV series), then getting around Montenegro was what made us believe that we had arrived in Syldavia — the fictitious country that Hergé had created in King Ottokar’s Sceptre and Lake of Sharks. Montenegro [Црна Гора]",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/11/img_20190529_161444756_hdr.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Walk into Tintin's Syldavia in Montenegro",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/11/09/walk-into-tintins-syldavia-in-montenegro/"
+		},
+		{
+			"src": "https://www.instagram.com/p/ByFGUjyDn5r",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "Meow: When you enter Kotor Old Town by the main gate (also known as the Sea Gate), you will notice a slogan of the former Yugoslavia that is often attributed to Josip Broz Tito – “What belongs to others we don't want, (what is) ours we don't give (up)”. Montenegro gained independence in 2006. At",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/11/img_20190529_164341676_hdr.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Sshhh… listen to the cats of Kotor…",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/11/19/sshhh-listen-to-what-the-cats-of-kotor-have-to-say/"
+		}
+	],
+	"places": {
+		"Podgorica": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 192,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 167,
+					"high": 11,
+					"low": 3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 159,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 145,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 90,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 63,
+					"high": 28,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 39,
+					"high": 32,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 32,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 120,
+					"high": 27,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 164,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 239,
+					"high": 16,
+					"low": 7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 217,
+					"high": 11,
+					"low": 3
+				}
+			]
+		},
+		"Bar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 12.3,
+					"low": 4.3,
+					"precipitation": 155.6
+				},
+				{
+					"heading": "Feb",
+					"high": 12.9,
+					"low": 5.1,
+					"precipitation": 149.1
+				},
+				{
+					"heading": "Mar",
+					"high": 14.9,
+					"low": 6.7,
+					"precipitation": 130.1
+				},
+				{
+					"heading": "Apr",
+					"high": 17.9,
+					"low": 9.2,
+					"precipitation": 126.1
+				},
+				{
+					"heading": "May",
+					"high": 21.9,
+					"low": 13,
+					"precipitation": 86
+				},
+				{
+					"heading": "Jun",
+					"high": 25.2,
+					"low": 16.3,
+					"precipitation": 56.5
+				},
+				{
+					"heading": "Jul",
+					"high": 27.8,
+					"low": 18.4,
+					"precipitation": 36.9
+				},
+				{
+					"heading": "Aug",
+					"high": 27.8,
+					"low": 18.3,
+					"precipitation": 53
+				},
+				{
+					"heading": "Sep",
+					"high": 25.3,
+					"low": 15.9,
+					"precipitation": 106.5
+				},
+				{
+					"heading": "Oct",
+					"high": 21.7,
+					"low": 12.6,
+					"precipitation": 139.9
+				},
+				{
+					"heading": "Nov",
+					"high": 17.3,
+					"low": 9.2,
+					"precipitation": 182.2
+				},
+				{
+					"heading": "Dec",
+					"high": 13.7,
+					"low": 5.9,
+					"precipitation": 169.9
+				}
+			]
+		},
+		"Budva": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 403,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 373,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 263,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 266,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 152,
+					"high": 19,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 103,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 81,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 70,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 234,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 232,
+					"high": 19,
+					"low": 14
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 329,
+					"high": 17,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 313,
+					"high": 14,
+					"low": 9
+				}
+			]
+		},
+		"Žabljak": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.3,
+					"low": -8.8,
+					"precipitation": 118.4
+				},
+				{
+					"heading": "Feb",
+					"high": 0.9,
+					"low": -7.9,
+					"precipitation": 105.7
+				},
+				{
+					"heading": "Mar",
+					"high": 3.7,
+					"low": -5.2,
+					"precipitation": 108.4
+				},
+				{
+					"heading": "Apr",
+					"high": 7.8,
+					"low": -1.2,
+					"precipitation": 126.5
+				},
+				{
+					"heading": "May",
+					"high": 13.4,
+					"low": 3.2,
+					"precipitation": 103.7
+				},
+				{
+					"heading": "Jun",
+					"high": 16.8,
+					"low": 6.6,
+					"precipitation": 106.6
+				},
+				{
+					"heading": "Jul",
+					"high": 19.5,
+					"low": 8.1,
+					"precipitation": 83.5
+				},
+				{
+					"heading": "Aug",
+					"high": 19.6,
+					"low": 7.9,
+					"precipitation": 84.9
+				},
+				{
+					"heading": "Sep",
+					"high": 16.3,
+					"low": 5.2,
+					"precipitation": 114.5
+				},
+				{
+					"heading": "Oct",
+					"high": 11.5,
+					"low": 1.4,
+					"precipitation": 157.3
+				},
+				{
+					"heading": "Nov",
+					"high": 6.1,
+					"low": -2.6,
+					"precipitation": 215.4
+				},
+				{
+					"heading": "Dec",
+					"high": 1.9,
+					"low": -6.5,
+					"precipitation": 155.7
+				}
+			]
+		},
+		"Ulcinj": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 10.7,
+					"low": 4.1,
+					"precipitation": 149.3
+				},
+				{
+					"heading": "Feb",
+					"high": 11.6,
+					"low": 4.7,
+					"precipitation": 137.9
+				},
+				{
+					"heading": "Mar",
+					"high": 14.7,
+					"low": 7.2,
+					"precipitation": 115.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17.9,
+					"low": 10.1,
+					"precipitation": 115.2
+				},
+				{
+					"heading": "May",
+					"high": 22.1,
+					"low": 14.1,
+					"precipitation": 66.9
+				},
+				{
+					"heading": "Jun",
+					"high": 26.2,
+					"low": 17.8,
+					"precipitation": 46.5
+				},
+				{
+					"heading": "Jul",
+					"high": 29.2,
+					"low": 20.2,
+					"precipitation": 25.2
+				},
+				{
+					"heading": "Aug",
+					"high": 29.2,
+					"low": 20.1,
+					"precipitation": 48.6
+				},
+				{
+					"heading": "Sep",
+					"high": 26.1,
+					"low": 17.3,
+					"precipitation": 84.6
+				},
+				{
+					"heading": "Oct",
+					"high": 21.3,
+					"low": 13.1,
+					"precipitation": 148.2
+				},
+				{
+					"heading": "Nov",
+					"high": 16.1,
+					"low": 9,
+					"precipitation": 173.7
+				},
+				{
+					"heading": "Dec",
+					"high": 12.1,
+					"low": 5.6,
+					"precipitation": 146.1
+				}
+			]
+		},
+		"Bečići": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 403,
+					"high": 6,
+					"low": 1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 373,
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 263,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 266,
+					"high": 15,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 152,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 103,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 81,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 70,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 234,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 232,
+					"high": 16,
+					"low": 11
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 329,
+					"high": 12,
+					"low": 6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 313,
+					"high": 6,
+					"low": 1
+				}
+			]
+		}
+	}
+}

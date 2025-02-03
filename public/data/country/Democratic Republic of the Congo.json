@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Kinshasa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 135,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 145,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 196,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 196,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 159,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 8,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 3,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 30,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 119,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 222,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 142,
+					"high": 30,
+					"low": 21
+				}
+			]
+		},
+		"Goma": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.6,
+					"low": 14.4,
+					"precipitation": 94
+				},
+				{
+					"heading": "Feb",
+					"high": 25.7,
+					"low": 14.6,
+					"precipitation": 84
+				},
+				{
+					"heading": "Mar",
+					"high": 25.7,
+					"low": 14.6,
+					"precipitation": 117
+				},
+				{
+					"heading": "Apr",
+					"high": 25.4,
+					"low": 14.7,
+					"precipitation": 119
+				},
+				{
+					"heading": "May",
+					"high": 25.3,
+					"low": 14.6,
+					"precipitation": 108
+				},
+				{
+					"heading": "Jun",
+					"high": 25.3,
+					"low": 13.6,
+					"precipitation": 55
+				},
+				{
+					"heading": "Jul",
+					"high": 25.2,
+					"low": 13.1,
+					"precipitation": 29
+				},
+				{
+					"heading": "Aug",
+					"high": 25.8,
+					"low": 13.9,
+					"precipitation": 70
+				},
+				{
+					"heading": "Sep",
+					"high": 25.9,
+					"low": 14,
+					"precipitation": 117
+				},
+				{
+					"heading": "Oct",
+					"high": 25.7,
+					"low": 14.2,
+					"precipitation": 143
+				},
+				{
+					"heading": "Nov",
+					"high": 25.3,
+					"low": 14.1,
+					"precipitation": 138
+				},
+				{
+					"heading": "Dec",
+					"high": 25.4,
+					"low": 14.4,
+					"precipitation": 118
+				}
+			]
+		},
+		"Kisangani": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 53,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 84,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 178,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 158,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 137,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 114,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 132,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 165,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 183,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 218,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 198,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 84,
+					"high": 30,
+					"low": 20
+				}
+			]
+		},
+		"Lubumbashi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26,
+					"low": 16,
+					"precipitation": 253
+				},
+				{
+					"heading": "Feb",
+					"high": 26,
+					"low": 16,
+					"precipitation": 257
+				},
+				{
+					"heading": "Mar",
+					"high": 26,
+					"low": 16,
+					"precipitation": 202
+				},
+				{
+					"heading": "Apr",
+					"high": 27,
+					"low": 14,
+					"precipitation": 60
+				},
+				{
+					"heading": "May",
+					"high": 26,
+					"low": 10,
+					"precipitation": 4
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 8,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 27,
+					"low": 9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 12,
+					"precipitation": 4
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 15,
+					"precipitation": 37
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 16,
+					"precipitation": 163
+				},
+				{
+					"heading": "Dec",
+					"high": 26,
+					"low": 16,
+					"precipitation": 257
+				}
+			]
+		},
+		"Mbandaka": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 19,
+					"precipitation": 80
+				},
+				{
+					"heading": "Feb",
+					"high": 32,
+					"low": 20,
+					"precipitation": 100
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 20,
+					"precipitation": 150
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 20,
+					"precipitation": 140
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 20,
+					"precipitation": 130
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 19,
+					"precipitation": 110
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 17,
+					"precipitation": 100
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 17,
+					"precipitation": 100
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 19,
+					"precipitation": 200
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 19,
+					"precipitation": 210
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 19,
+					"precipitation": 190
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 19,
+					"precipitation": 120
+				}
+			]
+		}
+	}
+}

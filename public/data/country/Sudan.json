@@ -1,0 +1,310 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Khartoum": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.7,
+					"low": 15.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 32.6,
+					"low": 16.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 36.5,
+					"low": 20.3,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Apr",
+					"high": 40.4,
+					"low": 24.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "May",
+					"high": 41.9,
+					"low": 27.3,
+					"precipitation": 3.9
+				},
+				{
+					"heading": "Jun",
+					"high": 41.3,
+					"low": 27.6,
+					"precipitation": 4.2
+				},
+				{
+					"heading": "Jul",
+					"high": 38.5,
+					"low": 26.2,
+					"precipitation": 29.6
+				},
+				{
+					"heading": "Aug",
+					"high": 37.6,
+					"low": 25.6,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Sep",
+					"high": 38.7,
+					"low": 26.3,
+					"precipitation": 26.7
+				},
+				{
+					"heading": "Oct",
+					"high": 39.3,
+					"low": 25.9,
+					"precipitation": 7.8
+				},
+				{
+					"heading": "Nov",
+					"high": 35.2,
+					"low": 21,
+					"precipitation": 0.7
+				},
+				{
+					"heading": "Dec",
+					"high": 31.7,
+					"low": 17,
+					"precipitation": 0
+				}
+			]
+		},
+		"Kassala": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 33.7,
+					"low": 16.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 35.2,
+					"low": 17.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 38.3,
+					"low": 20.1,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Apr",
+					"high": 40.8,
+					"low": 23,
+					"precipitation": 2
+				},
+				{
+					"heading": "May",
+					"high": 41.6,
+					"low": 25.8,
+					"precipitation": 8.8
+				},
+				{
+					"heading": "Jun",
+					"high": 39.8,
+					"low": 25.7,
+					"precipitation": 27.9
+				},
+				{
+					"heading": "Jul",
+					"high": 36.1,
+					"low": 23.9,
+					"precipitation": 76
+				},
+				{
+					"heading": "Aug",
+					"high": 34.9,
+					"low": 23.4,
+					"precipitation": 85
+				},
+				{
+					"heading": "Sep",
+					"high": 36.8,
+					"low": 24,
+					"precipitation": 40.5
+				},
+				{
+					"heading": "Oct",
+					"high": 38.7,
+					"low": 24.3,
+					"precipitation": 9.9
+				},
+				{
+					"heading": "Nov",
+					"high": 37,
+					"low": 21.4,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Dec",
+					"high": 34.4,
+					"low": 17.9,
+					"precipitation": 0
+				}
+			]
+		},
+		"Port Sudan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.8,
+					"low": 19.7,
+					"precipitation": 7.2
+				},
+				{
+					"heading": "Feb",
+					"high": 27,
+					"low": 19,
+					"precipitation": 0.9
+				},
+				{
+					"heading": "Mar",
+					"high": 28.8,
+					"low": 19.9,
+					"precipitation": 0.9
+				},
+				{
+					"heading": "Apr",
+					"high": 31.4,
+					"low": 21.6,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "May",
+					"high": 35,
+					"low": 23.7,
+					"precipitation": 1.1
+				},
+				{
+					"heading": "Jun",
+					"high": 38.5,
+					"low": 25.9,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Jul",
+					"high": 40.1,
+					"low": 28.2,
+					"precipitation": 3.8
+				},
+				{
+					"heading": "Aug",
+					"high": 40.2,
+					"low": 28.9,
+					"precipitation": 1.4
+				},
+				{
+					"heading": "Sep",
+					"high": 37.4,
+					"low": 26.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 33.4,
+					"low": 25.3,
+					"precipitation": 13.9
+				},
+				{
+					"heading": "Nov",
+					"high": 30.8,
+					"low": 23.8,
+					"precipitation": 35
+				},
+				{
+					"heading": "Dec",
+					"high": 28.8,
+					"low": 21.3,
+					"precipitation": 10
+				}
+			]
+		},
+		"Merowe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1,
+					"high": 30,
+					"low": 13
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 1,
+					"high": 33,
+					"low": 15
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 1,
+					"high": 39,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 2,
+					"high": 44,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 45,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 46,
+					"low": 26
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 16,
+					"high": 43,
+					"low": 26
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 24,
+					"high": 42,
+					"low": 26
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 3,
+					"high": 43,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 2,
+					"high": 44,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1,
+					"high": 38,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1,
+					"high": 32,
+					"low": 13
+				}
+			]
+		}
+	}
+}

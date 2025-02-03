@@ -1,0 +1,538 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Maputo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.9,
+					"low": 22.3,
+					"precipitation": 171.1
+				},
+				{
+					"heading": "Feb",
+					"high": 29.6,
+					"low": 22.3,
+					"precipitation": 130.5
+				},
+				{
+					"heading": "Mar",
+					"high": 29.3,
+					"low": 21.5,
+					"precipitation": 105.6
+				},
+				{
+					"heading": "Apr",
+					"high": 27.8,
+					"low": 19.4,
+					"precipitation": 56.5
+				},
+				{
+					"heading": "May",
+					"high": 26.4,
+					"low": 16.9,
+					"precipitation": 31.9
+				},
+				{
+					"heading": "Jun",
+					"high": 24.6,
+					"low": 14.4,
+					"precipitation": 17.6
+				},
+				{
+					"heading": "Jul",
+					"high": 24.4,
+					"low": 14.2,
+					"precipitation": 19.6
+				},
+				{
+					"heading": "Aug",
+					"high": 25.3,
+					"low": 15.4,
+					"precipitation": 15
+				},
+				{
+					"heading": "Sep",
+					"high": 26.1,
+					"low": 17.2,
+					"precipitation": 44.4
+				},
+				{
+					"heading": "Oct",
+					"high": 26.5,
+					"low": 18.3,
+					"precipitation": 54.7
+				},
+				{
+					"heading": "Nov",
+					"high": 27.4,
+					"low": 19.7,
+					"precipitation": 81.7
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 21.4,
+					"precipitation": 85
+				}
+			]
+		},
+		"Beira": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.4,
+					"low": 23.8,
+					"precipitation": 250.7
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 23.7,
+					"precipitation": 302.3
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 23.2,
+					"precipitation": 274.4
+				},
+				{
+					"heading": "Apr",
+					"high": 29.4,
+					"low": 21.3,
+					"precipitation": 139.6
+				},
+				{
+					"heading": "May",
+					"high": 27.6,
+					"low": 18.4,
+					"precipitation": 84.6
+				},
+				{
+					"heading": "Jun",
+					"high": 25.8,
+					"low": 16.2,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Jul",
+					"high": 25.2,
+					"low": 15.7,
+					"precipitation": 47
+				},
+				{
+					"heading": "Aug",
+					"high": 26.1,
+					"low": 16.6,
+					"precipitation": 42.4
+				},
+				{
+					"heading": "Sep",
+					"high": 27.6,
+					"low": 18.4,
+					"precipitation": 24.6
+				},
+				{
+					"heading": "Oct",
+					"high": 28.9,
+					"low": 20.3,
+					"precipitation": 38
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 21.8,
+					"precipitation": 110.3
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 23,
+					"precipitation": 231.6
+				}
+			]
+		},
+		"Ilha de Mozambique": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 289,
+					"high": 26,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 288,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 157,
+					"high": 27,
+					"low": 25
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 123,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 39,
+					"high": 27,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 33,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 42,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 18,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 9,
+					"high": 29,
+					"low": 24
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 22,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 44,
+					"high": 33,
+					"low": 25
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 90,
+					"high": 28,
+					"low": 25
+				}
+			]
+		},
+		"Inhambane": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.9,
+					"low": 22.8,
+					"precipitation": 152.2
+				},
+				{
+					"heading": "Feb",
+					"high": 30.9,
+					"low": 22.8,
+					"precipitation": 135.8
+				},
+				{
+					"heading": "Mar",
+					"high": 30.5,
+					"low": 22,
+					"precipitation": 109.9
+				},
+				{
+					"heading": "Apr",
+					"high": 29,
+					"low": 20.4,
+					"precipitation": 77.6
+				},
+				{
+					"heading": "May",
+					"high": 27,
+					"low": 18,
+					"precipitation": 59.1
+				},
+				{
+					"heading": "Jun",
+					"high": 25.5,
+					"low": 16,
+					"precipitation": 55.6
+				},
+				{
+					"heading": "Jul",
+					"high": 24.9,
+					"low": 15.6,
+					"precipitation": 35
+				},
+				{
+					"heading": "Aug",
+					"high": 25.5,
+					"low": 16.4,
+					"precipitation": 30.6
+				},
+				{
+					"heading": "Sep",
+					"high": 26.5,
+					"low": 18,
+					"precipitation": 36.4
+				},
+				{
+					"heading": "Oct",
+					"high": 27.5,
+					"low": 19.4,
+					"precipitation": 37.6
+				},
+				{
+					"heading": "Nov",
+					"high": 28.6,
+					"low": 20.7,
+					"precipitation": 75.8
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 21.9,
+					"precipitation": 144.2
+				}
+			]
+		},
+		"Nampula": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.5,
+					"low": 21.5,
+					"precipitation": 227.6
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 21.5,
+					"precipitation": 216.4
+				},
+				{
+					"heading": "Mar",
+					"high": 29.7,
+					"low": 21.3,
+					"precipitation": 181.1
+				},
+				{
+					"heading": "Apr",
+					"high": 28.6,
+					"low": 20.2,
+					"precipitation": 81.1
+				},
+				{
+					"heading": "May",
+					"high": 27.4,
+					"low": 18.1,
+					"precipitation": 23.2
+				},
+				{
+					"heading": "Jun",
+					"high": 25.7,
+					"low": 16.3,
+					"precipitation": 15.5
+				},
+				{
+					"heading": "Jul",
+					"high": 25.4,
+					"low": 15.8,
+					"precipitation": 22.1
+				},
+				{
+					"heading": "Aug",
+					"high": 27.4,
+					"low": 16.2,
+					"precipitation": 8.1
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 17.4,
+					"precipitation": 5.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.9,
+					"low": 19.1,
+					"precipitation": 24.2
+				},
+				{
+					"heading": "Nov",
+					"high": 32.3,
+					"low": 20.5,
+					"precipitation": 82.9
+				},
+				{
+					"heading": "Dec",
+					"high": 31.1,
+					"low": 21.4,
+					"precipitation": 183.8
+				}
+			]
+		},
+		"Pemba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 23.2,
+					"precipitation": 146.4
+				},
+				{
+					"heading": "Feb",
+					"high": 30.9,
+					"low": 23.1,
+					"precipitation": 156
+				},
+				{
+					"heading": "Mar",
+					"high": 30.8,
+					"low": 22.8,
+					"precipitation": 202.2
+				},
+				{
+					"heading": "Apr",
+					"high": 30.4,
+					"low": 22,
+					"precipitation": 122
+				},
+				{
+					"heading": "May",
+					"high": 29.5,
+					"low": 20.3,
+					"precipitation": 32.4
+				},
+				{
+					"heading": "Jun",
+					"high": 28.3,
+					"low": 18.6,
+					"precipitation": 15
+				},
+				{
+					"heading": "Jul",
+					"high": 27.7,
+					"low": 18.2,
+					"precipitation": 11.3
+				},
+				{
+					"heading": "Aug",
+					"high": 27.8,
+					"low": 19.6,
+					"precipitation": 7.9
+				},
+				{
+					"heading": "Sep",
+					"high": 28.7,
+					"low": 19.8,
+					"precipitation": 2.2
+				},
+				{
+					"heading": "Oct",
+					"high": 29.5,
+					"low": 21.6,
+					"precipitation": 11.3
+				},
+				{
+					"heading": "Nov",
+					"high": 30.4,
+					"low": 23,
+					"precipitation": 41.6
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 23.5,
+					"precipitation": 124.5
+				}
+			]
+		},
+		"Bazaruto National Sea Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 178,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 108,
+					"high": 27,
+					"low": 24
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 102,
+					"high": 28,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 148,
+					"high": 28,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 14,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 11,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 19,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 37,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 26,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 28,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 145,
+					"high": 29,
+					"low": 24
+				}
+			]
+		}
+	}
+}

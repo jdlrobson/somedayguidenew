@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Monrovia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.8,
+					"low": 22,
+					"precipitation": 51
+				},
+				{
+					"heading": "Feb",
+					"high": 32,
+					"low": 23.4,
+					"precipitation": 71
+				},
+				{
+					"heading": "Mar",
+					"high": 31.8,
+					"low": 23.7,
+					"precipitation": 120
+				},
+				{
+					"heading": "Apr",
+					"high": 31.5,
+					"low": 23.8,
+					"precipitation": 154
+				},
+				{
+					"heading": "May",
+					"high": 30.5,
+					"low": 23.9,
+					"precipitation": 442
+				},
+				{
+					"heading": "Jun",
+					"high": 28.3,
+					"low": 23.4,
+					"precipitation": 958
+				},
+				{
+					"heading": "Jul",
+					"high": 27.2,
+					"low": 23,
+					"precipitation": 797
+				},
+				{
+					"heading": "Aug",
+					"high": 26.8,
+					"low": 22.9,
+					"precipitation": 354
+				},
+				{
+					"heading": "Sep",
+					"high": 27.7,
+					"low": 23.3,
+					"precipitation": 720
+				},
+				{
+					"heading": "Oct",
+					"high": 29.4,
+					"low": 23.2,
+					"precipitation": 598
+				},
+				{
+					"heading": "Nov",
+					"high": 30.3,
+					"low": 23.5,
+					"precipitation": 237
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 22.5,
+					"precipitation": 122
+				}
+			]
+		},
+		"Robertsport": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 22,
+					"precipitation": 38
+				},
+				{
+					"heading": "Feb",
+					"high": 32,
+					"low": 22,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 23,
+					"precipitation": 18
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 23,
+					"precipitation": 180
+				},
+				{
+					"heading": "May",
+					"high": 32,
+					"low": 23,
+					"precipitation": 250
+				},
+				{
+					"heading": "Jun",
+					"high": 29,
+					"low": 23,
+					"precipitation": 490
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 23,
+					"precipitation": 800
+				},
+				{
+					"heading": "Aug",
+					"high": 27,
+					"low": 22,
+					"precipitation": 930
+				},
+				{
+					"heading": "Sep",
+					"high": 28,
+					"low": 22,
+					"precipitation": 930
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 22,
+					"precipitation": 370
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 22,
+					"precipitation": 110
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 22,
+					"precipitation": 84
+				}
+			]
+		}
+	}
+}

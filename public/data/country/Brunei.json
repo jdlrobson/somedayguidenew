@@ -1,0 +1,91 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"text": "I was alone in Bandar Seri Begawan (BSB) in Brunei. How would I survive? BSB is the capital of the country, and I rarely saw anyone outside. It was like walking through a small town/kampong in the UK. I was also here alone, and BSB and Brunei, are not really popular destinations on the South",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/p2231598.jpg?h=200&crop=1",
+			"type": "url",
+			"embed": false,
+			"title": "How to be alone in Babdar Seri Bagawan, Brunei",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=422"
+		}
+	],
+	"places": {
+		"Bandar Seri Begawan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.4,
+					"low": 23.3,
+					"precipitation": 292.6
+				},
+				{
+					"heading": "Feb",
+					"high": 30.7,
+					"low": 23.3,
+					"precipitation": 158.9
+				},
+				{
+					"heading": "Mar",
+					"high": 31.9,
+					"low": 23.5,
+					"precipitation": 118.7
+				},
+				{
+					"heading": "Apr",
+					"high": 32.5,
+					"low": 23.7,
+					"precipitation": 189.4
+				},
+				{
+					"heading": "May",
+					"high": 32.6,
+					"low": 23.7,
+					"precipitation": 234.9
+				},
+				{
+					"heading": "Jun",
+					"high": 32.5,
+					"low": 23.4,
+					"precipitation": 210.1
+				},
+				{
+					"heading": "Jul",
+					"high": 32.3,
+					"low": 23,
+					"precipitation": 225.9
+				},
+				{
+					"heading": "Aug",
+					"high": 32.4,
+					"low": 23.1,
+					"precipitation": 226.6
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 23.1,
+					"precipitation": 264.4
+				},
+				{
+					"heading": "Oct",
+					"high": 31.6,
+					"low": 23.2,
+					"precipitation": 312.3
+				},
+				{
+					"heading": "Nov",
+					"high": 31.4,
+					"low": 23.2,
+					"precipitation": 339.9
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 23.2,
+					"precipitation": 339.6
+				}
+			]
+		}
+	}
+}

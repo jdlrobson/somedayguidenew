@@ -1,0 +1,540 @@
+{
+	"note": "<p>This is probably the place I would go if time was not a problem. Home of the Goroka festival.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.youtube.com/embed/42oHjlEnuPM",
+			"type": "url",
+			"embed": false
+		},
+		{
+			"text": "In May Goroka hosts the PNG Coffee Festival. The renowned Goroka Show is held every year for three days on independence weekend (September 14, 15 and 16th). The Goroka Show is the oldest show in Papua New Guinea, over 50 years of \"keeping the spirit alive\".",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "PNG Coffee Festival",
+			"url": "http://www.ehptourism.gov.pg/event/png-coffee-festival-trade-fair/"
+		}
+	],
+	"places": {
+		"Port Moresby": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.1,
+					"low": 23.7,
+					"precipitation": 192.2
+				},
+				{
+					"heading": "Feb",
+					"high": 31.6,
+					"low": 23.5,
+					"precipitation": 140.6
+				},
+				{
+					"heading": "Mar",
+					"high": 31.4,
+					"low": 23.4,
+					"precipitation": 189.8
+				},
+				{
+					"heading": "Apr",
+					"high": 31.3,
+					"low": 23.5,
+					"precipitation": 105.2
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 23.5,
+					"precipitation": 56.2
+				},
+				{
+					"heading": "Jun",
+					"high": 30.3,
+					"low": 23.1,
+					"precipitation": 21.6
+				},
+				{
+					"heading": "Jul",
+					"high": 29.9,
+					"low": 22.4,
+					"precipitation": 13.8
+				},
+				{
+					"heading": "Aug",
+					"high": 30.3,
+					"low": 22.6,
+					"precipitation": 12
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 23.2,
+					"precipitation": 14.4
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 23.5,
+					"precipitation": 15.2
+				},
+				{
+					"heading": "Nov",
+					"high": 32.5,
+					"low": 23.6,
+					"precipitation": 40
+				},
+				{
+					"heading": "Dec",
+					"high": 32.4,
+					"low": 23.7,
+					"precipitation": 97.8
+				}
+			]
+		},
+		"Goroka": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 298,
+					"high": 23,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 229,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 308,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 223,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 183,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 114,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 96,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 124,
+					"high": 25,
+					"low": 7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 190,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 236,
+					"high": 27,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 233,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 235,
+					"high": 24,
+					"low": 9
+				}
+			]
+		},
+		"Mount Hagen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 12,
+					"precipitation": 283
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 13,
+					"precipitation": 299
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 13,
+					"precipitation": 309
+				},
+				{
+					"heading": "Apr",
+					"high": 29,
+					"low": 12,
+					"precipitation": 249
+				},
+				{
+					"heading": "May",
+					"high": 29,
+					"low": 12,
+					"precipitation": 180
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 11,
+					"precipitation": 122
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 11,
+					"precipitation": 135
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 11,
+					"precipitation": 163
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 11,
+					"precipitation": 193
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 12,
+					"precipitation": 218
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 12,
+					"precipitation": 208
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 12,
+					"precipitation": 279
+				}
+			]
+		},
+		"Rabaul": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 23
+				}
+			]
+		},
+		"Vanimo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 318,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 235,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 367,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 340,
+					"high": 22,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 219,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 329,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 225,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 227,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 228,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 169,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 270,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 238,
+					"high": 22,
+					"low": 21
+				}
+			]
+		},
+		"Wewak": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.6,
+					"low": 23,
+					"precipitation": 143
+				},
+				{
+					"heading": "Feb",
+					"high": 30.4,
+					"low": 23,
+					"precipitation": 144
+				},
+				{
+					"heading": "Mar",
+					"high": 30.5,
+					"low": 22.8,
+					"precipitation": 165
+				},
+				{
+					"heading": "Apr",
+					"high": 30.9,
+					"low": 22.8,
+					"precipitation": 181
+				},
+				{
+					"heading": "May",
+					"high": 31.4,
+					"low": 22.9,
+					"precipitation": 208
+				},
+				{
+					"heading": "Jun",
+					"high": 31,
+					"low": 22.6,
+					"precipitation": 191
+				},
+				{
+					"heading": "Jul",
+					"high": 30.8,
+					"low": 22.4,
+					"precipitation": 166
+				},
+				{
+					"heading": "Aug",
+					"high": 31.1,
+					"low": 22.2,
+					"precipitation": 161
+				},
+				{
+					"heading": "Sep",
+					"high": 31.4,
+					"low": 22.6,
+					"precipitation": 177
+				},
+				{
+					"heading": "Oct",
+					"high": 31.1,
+					"low": 22.8,
+					"precipitation": 216
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 22.9,
+					"precipitation": 207
+				},
+				{
+					"heading": "Dec",
+					"high": 30.7,
+					"low": 23,
+					"precipitation": 157
+				}
+			]
+		},
+		"Madang": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 23.9,
+					"precipitation": 343.8
+				},
+				{
+					"heading": "Feb",
+					"high": 30.6,
+					"low": 23.8,
+					"precipitation": 292
+				},
+				{
+					"heading": "Mar",
+					"high": 30.6,
+					"low": 23.9,
+					"precipitation": 329.8
+				},
+				{
+					"heading": "Apr",
+					"high": 30.6,
+					"low": 23.8,
+					"precipitation": 389.4
+				},
+				{
+					"heading": "May",
+					"high": 30.7,
+					"low": 23.9,
+					"precipitation": 343.4
+				},
+				{
+					"heading": "Jun",
+					"high": 30.4,
+					"low": 23.7,
+					"precipitation": 186.4
+				},
+				{
+					"heading": "Jul",
+					"high": 30.2,
+					"low": 23.4,
+					"precipitation": 144.2
+				},
+				{
+					"heading": "Aug",
+					"high": 30.2,
+					"low": 23.7,
+					"precipitation": 93.8
+				},
+				{
+					"heading": "Sep",
+					"high": 30.5,
+					"low": 23.6,
+					"precipitation": 82.6
+				},
+				{
+					"heading": "Oct",
+					"high": 30.9,
+					"low": 23.8,
+					"precipitation": 239.2
+				},
+				{
+					"heading": "Nov",
+					"high": 31.2,
+					"low": 23.9,
+					"precipitation": 280.2
+				},
+				{
+					"heading": "Dec",
+					"high": 30.9,
+					"low": 23.9,
+					"precipitation": 382
+				}
+			]
+		}
+	}
+}

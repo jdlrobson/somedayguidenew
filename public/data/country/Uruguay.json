@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Montevideo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 87,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 102,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 105,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 86,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 89,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 83,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 86,
+					"high": 15,
+					"low": 7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 88,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 94,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 109,
+					"high": 21,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 89,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 84,
+					"high": 27,
+					"low": 16
+				}
+			]
+		},
+		"Punta del Este": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25.2,
+					"low": 18.1,
+					"precipitation": 75.4
+				},
+				{
+					"heading": "Feb",
+					"high": 25.1,
+					"low": 18.4,
+					"precipitation": 84.8
+				},
+				{
+					"heading": "Mar",
+					"high": 24,
+					"low": 17.6,
+					"precipitation": 79.3
+				},
+				{
+					"heading": "Apr",
+					"high": 21.2,
+					"low": 14.9,
+					"precipitation": 84
+				},
+				{
+					"heading": "May",
+					"high": 18.2,
+					"low": 12.1,
+					"precipitation": 91.4
+				},
+				{
+					"heading": "Jun",
+					"high": 14.8,
+					"low": 9.5,
+					"precipitation": 80.3
+				},
+				{
+					"heading": "Jul",
+					"high": 14.4,
+					"low": 8.7,
+					"precipitation": 90.3
+				},
+				{
+					"heading": "Aug",
+					"high": 14.7,
+					"low": 8.8,
+					"precipitation": 93.9
+				},
+				{
+					"heading": "Sep",
+					"high": 16,
+					"low": 9.9,
+					"precipitation": 93.1
+				},
+				{
+					"heading": "Oct",
+					"high": 18.4,
+					"low": 11.4,
+					"precipitation": 85
+				},
+				{
+					"heading": "Nov",
+					"high": 21,
+					"low": 14.1,
+					"precipitation": 86.8
+				},
+				{
+					"heading": "Dec",
+					"high": 23.8,
+					"low": 16.4,
+					"precipitation": 66.6
+				}
+			]
+		},
+		"Colonia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 92,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 116,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 125,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 91,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "May",
+					"precipitation": 78,
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 66,
+					"high": 15,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 69,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 76,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 80,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 113,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 108,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 87,
+					"high": 27,
+					"low": 18
+				}
+			]
+		},
+		"Rivera": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.5,
+					"low": 18.7,
+					"precipitation": 136.4
+				},
+				{
+					"heading": "Feb",
+					"high": 28.7,
+					"low": 18.4,
+					"precipitation": 160.4
+				},
+				{
+					"heading": "Mar",
+					"high": 27.3,
+					"low": 17.2,
+					"precipitation": 133.1
+				},
+				{
+					"heading": "Apr",
+					"high": 23.7,
+					"low": 14.1,
+					"precipitation": 181.9
+				},
+				{
+					"heading": "May",
+					"high": 20.5,
+					"low": 10.8,
+					"precipitation": 148.3
+				},
+				{
+					"heading": "Jun",
+					"high": 16.9,
+					"low": 8.8,
+					"precipitation": 110.7
+				},
+				{
+					"heading": "Jul",
+					"high": 16.6,
+					"low": 8.1,
+					"precipitation": 91.2
+				},
+				{
+					"heading": "Aug",
+					"high": 19.9,
+					"low": 9.3,
+					"precipitation": 87
+				},
+				{
+					"heading": "Sep",
+					"high": 20.6,
+					"low": 10.3,
+					"precipitation": 130.9
+				},
+				{
+					"heading": "Oct",
+					"high": 23.8,
+					"low": 13.2,
+					"precipitation": 149.4
+				},
+				{
+					"heading": "Nov",
+					"high": 26.5,
+					"low": 15.1,
+					"precipitation": 150.4
+				},
+				{
+					"heading": "Dec",
+					"high": 29.6,
+					"low": 17.3,
+					"precipitation": 125.2
+				}
+			]
+		},
+		"Salto": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.8,
+					"low": 19.7,
+					"precipitation": 118.2
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 18.9,
+					"precipitation": 129.6
+				},
+				{
+					"heading": "Mar",
+					"high": 29.3,
+					"low": 17.4,
+					"precipitation": 157.7
+				},
+				{
+					"heading": "Apr",
+					"high": 24.9,
+					"low": 14,
+					"precipitation": 162.2
+				},
+				{
+					"heading": "May",
+					"high": 21.1,
+					"low": 10.6,
+					"precipitation": 95.8
+				},
+				{
+					"heading": "Jun",
+					"high": 18.2,
+					"low": 8.4,
+					"precipitation": 76
+				},
+				{
+					"heading": "Jul",
+					"high": 18.1,
+					"low": 7.6,
+					"precipitation": 53.1
+				},
+				{
+					"heading": "Aug",
+					"high": 20.5,
+					"low": 8.7,
+					"precipitation": 58.7
+				},
+				{
+					"heading": "Sep",
+					"high": 22,
+					"low": 10,
+					"precipitation": 86.6
+				},
+				{
+					"heading": "Oct",
+					"high": 25.3,
+					"low": 13.4,
+					"precipitation": 134.2
+				},
+				{
+					"heading": "Nov",
+					"high": 28.2,
+					"low": 15.5,
+					"precipitation": 141.8
+				},
+				{
+					"heading": "Dec",
+					"high": 31.1,
+					"low": 17.9,
+					"precipitation": 125.3
+				}
+			]
+		},
+		"Paysandú": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32,
+					"low": 18.4,
+					"precipitation": 106.1
+				},
+				{
+					"heading": "Feb",
+					"high": 30.1,
+					"low": 17.8,
+					"precipitation": 125.5
+				},
+				{
+					"heading": "Mar",
+					"high": 28.5,
+					"low": 16.6,
+					"precipitation": 137.8
+				},
+				{
+					"heading": "Apr",
+					"high": 24.1,
+					"low": 13.4,
+					"precipitation": 158.8
+				},
+				{
+					"heading": "May",
+					"high": 20.2,
+					"low": 10.1,
+					"precipitation": 102
+				},
+				{
+					"heading": "Jun",
+					"high": 17.1,
+					"low": 7.6,
+					"precipitation": 68.3
+				},
+				{
+					"heading": "Jul",
+					"high": 17,
+					"low": 6.9,
+					"precipitation": 56.1
+				},
+				{
+					"heading": "Aug",
+					"high": 19.2,
+					"low": 8.1,
+					"precipitation": 55.3
+				},
+				{
+					"heading": "Sep",
+					"high": 20.7,
+					"low": 9.3,
+					"precipitation": 71.5
+				},
+				{
+					"heading": "Oct",
+					"high": 24.1,
+					"low": 12.3,
+					"precipitation": 121.3
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 14.5,
+					"precipitation": 123.1
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 16.8,
+					"precipitation": 112.9
+				}
+			]
+		}
+	}
+}

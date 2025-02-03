@@ -1,0 +1,286 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Port Louis": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.5,
+					"low": 24.1,
+					"precipitation": 131
+				},
+				{
+					"heading": "Feb",
+					"high": 31.4,
+					"low": 24,
+					"precipitation": 160
+				},
+				{
+					"heading": "Mar",
+					"high": 31.5,
+					"low": 23.8,
+					"precipitation": 83
+				},
+				{
+					"heading": "Apr",
+					"high": 30.7,
+					"low": 23,
+					"precipitation": 87
+				},
+				{
+					"heading": "May",
+					"high": 29.3,
+					"low": 21.5,
+					"precipitation": 48
+				},
+				{
+					"heading": "Jun",
+					"high": 27.6,
+					"low": 19.9,
+					"precipitation": 24
+				},
+				{
+					"heading": "Jul",
+					"high": 26.7,
+					"low": 19.3,
+					"precipitation": 18
+				},
+				{
+					"heading": "Aug",
+					"high": 26.8,
+					"low": 19.1,
+					"precipitation": 19
+				},
+				{
+					"heading": "Sep",
+					"high": 27.7,
+					"low": 19.4,
+					"precipitation": 17
+				},
+				{
+					"heading": "Oct",
+					"high": 28.8,
+					"low": 20.4,
+					"precipitation": 15
+				},
+				{
+					"heading": "Nov",
+					"high": 30.2,
+					"low": 21.8,
+					"precipitation": 24
+				},
+				{
+					"heading": "Dec",
+					"high": 31.1,
+					"low": 23.2,
+					"precipitation": 85
+				}
+			]
+		},
+		"Vacoas-Phoenix": {
+			"climate": [
+				{
+					"high": 27.6,
+					"low": 20.4
+				},
+				{
+					"high": 27.5,
+					"low": 20.7
+				},
+				{
+					"high": 27.4,
+					"low": 20.4
+				},
+				{
+					"high": 26.3,
+					"low": 19.6
+				},
+				{
+					"high": 24.8,
+					"low": 17.7
+				},
+				{
+					"high": 22.9,
+					"low": 16
+				},
+				{
+					"high": 21.8,
+					"low": 15.3
+				},
+				{
+					"high": 21.8,
+					"low": 15.1
+				},
+				{
+					"high": 22.8,
+					"low": 15.4
+				},
+				{
+					"high": 24.1,
+					"low": 16.5
+				},
+				{
+					"high": 25.8,
+					"low": 17.8
+				},
+				{
+					"high": 27.1,
+					"low": 19.4
+				}
+			]
+		},
+		"Rodrigues": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.2,
+					"low": 23.6,
+					"precipitation": 150
+				},
+				{
+					"heading": "Feb",
+					"high": 29.3,
+					"low": 23.8,
+					"precipitation": 184.7
+				},
+				{
+					"heading": "Mar",
+					"high": 29.4,
+					"low": 23.7,
+					"precipitation": 131.2
+				},
+				{
+					"heading": "Apr",
+					"high": 28.7,
+					"low": 23,
+					"precipitation": 117
+				},
+				{
+					"heading": "May",
+					"high": 27.5,
+					"low": 21.6,
+					"precipitation": 78.3
+				},
+				{
+					"heading": "Jun",
+					"high": 26,
+					"low": 20.1,
+					"precipitation": 77.6
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 19.1,
+					"precipitation": 80.8
+				},
+				{
+					"heading": "Aug",
+					"high": 24.8,
+					"low": 18.8,
+					"precipitation": 59.4
+				},
+				{
+					"heading": "Sep",
+					"high": 25.4,
+					"low": 19.3,
+					"precipitation": 43.8
+				},
+				{
+					"heading": "Oct",
+					"high": 26.3,
+					"low": 20.1,
+					"precipitation": 40.7
+				},
+				{
+					"heading": "Nov",
+					"high": 27.4,
+					"low": 21.3,
+					"precipitation": 70
+				},
+				{
+					"heading": "Dec",
+					"high": 28.7,
+					"low": 22.8,
+					"precipitation": 71
+				}
+			]
+		},
+		"Mahebourg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 112,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 208,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 113,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 39,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 32,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 9,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 12,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 7,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 5,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 15,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 31,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": 29,
+					"low": 22
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,703 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/C6zQYx7rZGr",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Bear watching in Estonia",
+			"url": "https://visiteurope.com/en/experience/bear-watching-in-estonia/"
+		}
+	],
+	"places": {
+		"Tallinn": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 49,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 32,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 31,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 30,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 36,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 57,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 74,
+					"high": 22,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 73,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 60,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 65,
+					"high": 9,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 61,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 49,
+					"high": 0,
+					"low": null
+				}
+			]
+		},
+		"Tartu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -2.1,
+					"low": -7.1,
+					"precipitation": 48
+				},
+				{
+					"heading": "Feb",
+					"high": -2.2,
+					"low": -8.2,
+					"precipitation": 35
+				},
+				{
+					"heading": "Mar",
+					"high": 2.7,
+					"low": -4.3,
+					"precipitation": 28
+				},
+				{
+					"heading": "Apr",
+					"high": 10.6,
+					"low": 1.1,
+					"precipitation": 30
+				},
+				{
+					"heading": "May",
+					"high": 17,
+					"low": 6,
+					"precipitation": 55
+				},
+				{
+					"heading": "Jun",
+					"high": 20.1,
+					"low": 9.7,
+					"precipitation": 84
+				},
+				{
+					"heading": "Jul",
+					"high": 22.7,
+					"low": 12.5,
+					"precipitation": 72
+				},
+				{
+					"heading": "Aug",
+					"high": 21.2,
+					"low": 11.7,
+					"precipitation": 86
+				},
+				{
+					"heading": "Sep",
+					"high": 15.4,
+					"low": 7.4,
+					"precipitation": 61
+				},
+				{
+					"heading": "Oct",
+					"high": 9.2,
+					"low": 3.5,
+					"precipitation": 69
+				},
+				{
+					"heading": "Nov",
+					"high": 2.5,
+					"low": -1.5,
+					"precipitation": 53
+				},
+				{
+					"heading": "Dec",
+					"high": -1,
+					"low": -5.6,
+					"precipitation": 49
+				}
+			]
+		},
+		"Narva": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -3.2,
+					"low": -8.9,
+					"precipitation": 36
+				},
+				{
+					"heading": "Feb",
+					"high": -3.1,
+					"low": -9.7,
+					"precipitation": 28
+				},
+				{
+					"heading": "Mar",
+					"high": 1.6,
+					"low": -5.4,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 8.7,
+					"low": -0.1,
+					"precipitation": 32
+				},
+				{
+					"heading": "May",
+					"high": 15.7,
+					"low": 4.4,
+					"precipitation": 43
+				},
+				{
+					"heading": "Jun",
+					"high": 19.9,
+					"low": 9.3,
+					"precipitation": 62
+				},
+				{
+					"heading": "Jul",
+					"high": 21.7,
+					"low": 11.7,
+					"precipitation": 75
+				},
+				{
+					"heading": "Aug",
+					"high": 20.2,
+					"low": 10.7,
+					"precipitation": 89
+				},
+				{
+					"heading": "Sep",
+					"high": 14.4,
+					"low": 6.3,
+					"precipitation": 76
+				},
+				{
+					"heading": "Oct",
+					"high": 8.3,
+					"low": 2.5,
+					"precipitation": 72
+				},
+				{
+					"heading": "Nov",
+					"high": 2,
+					"low": -2.5,
+					"precipitation": 54
+				},
+				{
+					"heading": "Dec",
+					"high": -1.4,
+					"low": -6.7,
+					"precipitation": 47
+				}
+			]
+		},
+		"Pärnu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.1,
+					"low": -5.9,
+					"precipitation": 60
+				},
+				{
+					"heading": "Feb",
+					"high": -1.6,
+					"low": -7.2,
+					"precipitation": 44
+				},
+				{
+					"heading": "Mar",
+					"high": 2.4,
+					"low": -4,
+					"precipitation": 44
+				},
+				{
+					"heading": "Apr",
+					"high": 9.6,
+					"low": 1.1,
+					"precipitation": 37
+				},
+				{
+					"heading": "May",
+					"high": 16.4,
+					"low": 6.6,
+					"precipitation": 37
+				},
+				{
+					"heading": "Jun",
+					"high": 19.9,
+					"low": 10.8,
+					"precipitation": 73
+				},
+				{
+					"heading": "Jul",
+					"high": 22.5,
+					"low": 13.7,
+					"precipitation": 79
+				},
+				{
+					"heading": "Aug",
+					"high": 21.2,
+					"low": 13,
+					"precipitation": 79
+				},
+				{
+					"heading": "Sep",
+					"high": 15.8,
+					"low": 8.5,
+					"precipitation": 67
+				},
+				{
+					"heading": "Oct",
+					"high": 9.8,
+					"low": 4.2,
+					"precipitation": 83
+				},
+				{
+					"heading": "Nov",
+					"high": 3.6,
+					"low": -0.5,
+					"precipitation": 75
+				},
+				{
+					"heading": "Dec",
+					"high": 0.2,
+					"low": -4.4,
+					"precipitation": 67
+				}
+			]
+		},
+		"Viljandi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.9,
+					"low": -6.9,
+					"precipitation": 62
+				},
+				{
+					"heading": "Feb",
+					"high": -2.1,
+					"low": -8.1,
+					"precipitation": 43
+				},
+				{
+					"heading": "Mar",
+					"high": 2.7,
+					"low": -4.4,
+					"precipitation": 42
+				},
+				{
+					"heading": "Apr",
+					"high": 10.5,
+					"low": 0.8,
+					"precipitation": 36
+				},
+				{
+					"heading": "May",
+					"high": 17.1,
+					"low": 5.8,
+					"precipitation": 48
+				},
+				{
+					"heading": "Jun",
+					"high": 20.3,
+					"low": 9.9,
+					"precipitation": 87
+				},
+				{
+					"heading": "Jul",
+					"high": 22.8,
+					"low": 12.5,
+					"precipitation": 83
+				},
+				{
+					"heading": "Aug",
+					"high": 21.1,
+					"low": 11.7,
+					"precipitation": 91
+				},
+				{
+					"heading": "Sep",
+					"high": 15.3,
+					"low": 7.4,
+					"precipitation": 67
+				},
+				{
+					"heading": "Oct",
+					"high": 9.2,
+					"low": 3.2,
+					"precipitation": 81
+				},
+				{
+					"heading": "Nov",
+					"high": 2.7,
+					"low": -1.6,
+					"precipitation": 64
+				},
+				{
+					"heading": "Dec",
+					"high": -0.8,
+					"low": -5.5,
+					"precipitation": 60
+				}
+			]
+		},
+		"Kuressaare": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.1,
+					"low": -4.9,
+					"precipitation": 44
+				},
+				{
+					"heading": "Feb",
+					"high": -0.8,
+					"low": -6.2,
+					"precipitation": 31
+				},
+				{
+					"heading": "Mar",
+					"high": 1.8,
+					"low": -3.8,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 7.5,
+					"low": 0.4,
+					"precipitation": 35
+				},
+				{
+					"heading": "May",
+					"high": 14.6,
+					"low": 5.7,
+					"precipitation": 32
+				},
+				{
+					"heading": "Jun",
+					"high": 18.6,
+					"low": 10.4,
+					"precipitation": 49
+				},
+				{
+					"heading": "Jul",
+					"high": 20.7,
+					"low": 13.1,
+					"precipitation": 58
+				},
+				{
+					"heading": "Aug",
+					"high": 20,
+					"low": 12.7,
+					"precipitation": 63
+				},
+				{
+					"heading": "Sep",
+					"high": 15.1,
+					"low": 8.8,
+					"precipitation": 71
+				},
+				{
+					"heading": "Oct",
+					"high": 9.9,
+					"low": 4.7,
+					"precipitation": 72
+				},
+				{
+					"heading": "Nov",
+					"high": 4.8,
+					"low": 0.6,
+					"precipitation": 72
+				},
+				{
+					"heading": "Dec",
+					"high": 1.6,
+					"low": -3.1,
+					"precipitation": 59
+				}
+			]
+		},
+		"Valga": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.9,
+					"low": -7.1,
+					"precipitation": 56
+				},
+				{
+					"heading": "Feb",
+					"high": -1.7,
+					"low": -8.3,
+					"precipitation": 40
+				},
+				{
+					"heading": "Mar",
+					"high": 3.4,
+					"low": -4.5,
+					"precipitation": 42
+				},
+				{
+					"heading": "Apr",
+					"high": 11.3,
+					"low": 0.7,
+					"precipitation": 33
+				},
+				{
+					"heading": "May",
+					"high": 17.8,
+					"low": 5.6,
+					"precipitation": 53
+				},
+				{
+					"heading": "Jun",
+					"high": 20.8,
+					"low": 9.8,
+					"precipitation": 83
+				},
+				{
+					"heading": "Jul",
+					"high": 23.3,
+					"low": 12.2,
+					"precipitation": 68
+				},
+				{
+					"heading": "Aug",
+					"high": 21.8,
+					"low": 11.2,
+					"precipitation": 85
+				},
+				{
+					"heading": "Sep",
+					"high": 15.9,
+					"low": 6.8,
+					"precipitation": 59
+				},
+				{
+					"heading": "Oct",
+					"high": 9.7,
+					"low": 2.9,
+					"precipitation": 72
+				},
+				{
+					"heading": "Nov",
+					"high": 2.9,
+					"low": -1.7,
+					"precipitation": 57
+				},
+				{
+					"heading": "Dec",
+					"high": -0.8,
+					"low": -5.8,
+					"precipitation": 56
+				}
+			]
+		},
+		"Hiiumaa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.9,
+					"low": -3,
+					"precipitation": 55
+				},
+				{
+					"heading": "Feb",
+					"high": -0.2,
+					"low": -4.4,
+					"precipitation": 39
+				},
+				{
+					"heading": "Mar",
+					"high": 2,
+					"low": -2.4,
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"high": 6.8,
+					"low": 0.9,
+					"precipitation": 31
+				},
+				{
+					"heading": "May",
+					"high": 12.3,
+					"low": 5.4,
+					"precipitation": 33
+				},
+				{
+					"heading": "Jun",
+					"high": 16.4,
+					"low": 10.1,
+					"precipitation": 47
+				},
+				{
+					"heading": "Jul",
+					"high": 20.2,
+					"low": 14.1,
+					"precipitation": 55
+				},
+				{
+					"heading": "Aug",
+					"high": 20,
+					"low": 13.8,
+					"precipitation": 69
+				},
+				{
+					"heading": "Sep",
+					"high": 15.1,
+					"low": 9.9,
+					"precipitation": 62
+				},
+				{
+					"heading": "Oct",
+					"high": 10.2,
+					"low": 6,
+					"precipitation": 72
+				},
+				{
+					"heading": "Nov",
+					"high": 5.3,
+					"low": 1.6,
+					"precipitation": 79
+				},
+				{
+					"heading": "Dec",
+					"high": 2.5,
+					"low": -1.3,
+					"precipitation": 60
+				}
+			]
+		},
+		"Kihnu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.3,
+					"low": -4.1,
+					"precipitation": 37
+				},
+				{
+					"heading": "Feb",
+					"high": -1.5,
+					"low": -5.6,
+					"precipitation": 29
+				},
+				{
+					"heading": "Mar",
+					"high": 1.3,
+					"low": -3.2,
+					"precipitation": 30
+				},
+				{
+					"heading": "Apr",
+					"high": 7.1,
+					"low": 1.6,
+					"precipitation": 30
+				},
+				{
+					"heading": "May",
+					"high": 13.7,
+					"low": 7.5,
+					"precipitation": 34
+				},
+				{
+					"heading": "Jun",
+					"high": 17.6,
+					"low": 12,
+					"precipitation": 58
+				},
+				{
+					"heading": "Jul",
+					"high": 20.7,
+					"low": 15.4,
+					"precipitation": 65
+				},
+				{
+					"heading": "Aug",
+					"high": 20.1,
+					"low": 15.2,
+					"precipitation": 66
+				},
+				{
+					"heading": "Sep",
+					"high": 15.3,
+					"low": 10.9,
+					"precipitation": 62
+				},
+				{
+					"heading": "Oct",
+					"high": 10.2,
+					"low": 6.6,
+					"precipitation": 64
+				},
+				{
+					"heading": "Nov",
+					"high": 4.7,
+					"low": 1.5,
+					"precipitation": 58
+				},
+				{
+					"heading": "Dec",
+					"high": 1.6,
+					"low": -2,
+					"precipitation": 45
+				}
+			]
+		}
+	}
+}

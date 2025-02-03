@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Managua": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 9,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 5,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 3,
+					"high": 34,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 8,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 130,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 224,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 144,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 136,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 215,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 280,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 42,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 8,
+					"high": 31,
+					"low": 20
+				}
+			]
+		},
+		"Bluefields": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.8,
+					"low": 22.2,
+					"precipitation": 218
+				},
+				{
+					"heading": "Feb",
+					"high": 28.4,
+					"low": 22.3,
+					"precipitation": 114
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 23.3,
+					"precipitation": 71
+				},
+				{
+					"heading": "Apr",
+					"high": 29.8,
+					"low": 23.7,
+					"precipitation": 101
+				},
+				{
+					"heading": "May",
+					"high": 29.9,
+					"low": 24.2,
+					"precipitation": 264
+				},
+				{
+					"heading": "Jun",
+					"high": 28.9,
+					"low": 23.9,
+					"precipitation": 581
+				},
+				{
+					"heading": "Jul",
+					"high": 28.1,
+					"low": 23.7,
+					"precipitation": 828
+				},
+				{
+					"heading": "Aug",
+					"high": 28.5,
+					"low": 23.6,
+					"precipitation": 638
+				},
+				{
+					"heading": "Sep",
+					"high": 29.1,
+					"low": 23.5,
+					"precipitation": 383
+				},
+				{
+					"heading": "Oct",
+					"high": 28.8,
+					"low": 23.1,
+					"precipitation": 418
+				},
+				{
+					"heading": "Nov",
+					"high": 28.4,
+					"low": 22.8,
+					"precipitation": 376
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 22.6,
+					"precipitation": 328
+				}
+			]
+		},
+		"San Juan del Sur": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26,
+					"low": 22,
+					"precipitation": 15
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 23,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 23,
+					"precipitation": 0
+				},
+				{
+					"heading": "Apr",
+					"high": 28,
+					"low": 23,
+					"precipitation": 10
+				},
+				{
+					"heading": "May",
+					"high": 28,
+					"low": 23,
+					"precipitation": 130
+				},
+				{
+					"heading": "Jun",
+					"high": 26,
+					"low": 22,
+					"precipitation": 270
+				},
+				{
+					"heading": "Jul",
+					"high": 27,
+					"low": 23,
+					"precipitation": 180
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 24,
+					"precipitation": 200
+				},
+				{
+					"heading": "Sep",
+					"high": 27,
+					"low": 22,
+					"precipitation": 300
+				},
+				{
+					"heading": "Oct",
+					"high": 27,
+					"low": 23,
+					"precipitation": 460
+				},
+				{
+					"heading": "Nov",
+					"high": 27,
+					"low": 23,
+					"precipitation": 110
+				},
+				{
+					"heading": "Dec",
+					"high": 27,
+					"low": 23,
+					"precipitation": 28
+				}
+			]
+		}
+	}
+}

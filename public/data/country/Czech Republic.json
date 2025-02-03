@@ -1,0 +1,725 @@
+{
+	"note": "<p>The train journey from Prague about Brno is 2.5 hours. Tickets can be easily purchased online at <a href=\"https://www.cd.cz/en/default.htm\">České dráhy</a>. Most trains are not fully booked.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BxacgQXn3WH",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "The Brno Astronomical Clock is a huge contrast to the Prague Astronomical Clock and might even seem ridiculous to many. To begin with, it does not look like a clock. Many think along the line of “gigantic bullet” or “some phallic object” but it reminded me of the huge menhir that Obelix carrys on his",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/11/img_20190516_105351433b.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "If you have an hour in Brno, it had better be around 11am",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/11/18/if-you-have-an-hour-in-brno-it-had-better-be-around-11am/"
+		},
+		{
+			"src": "https://www.instagram.com/p/Bxej-gBDe4R",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxiSICPghrU",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxhNpAZji5v",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Bxf1x9OjZCj",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxfRsjwjd6J",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BxanPLZjAbK",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "Cesky Krumlov was my first introduction to Czech Republic after taking a 2 hour shuttle-bus from the train station of Linz. One day I will take my very own Linz with me. It is a lovely little town with a castle next to a river and it's not Prague! As a result it has very",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/4762811775_cfcd17b260_c.jpg?h=200&crop=1",
+			"type": "url",
+			"embed": false,
+			"title": "River and beer in Cesky Krumlov",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=688"
+		},
+		{
+			"src": "https://www.instagram.com/p/BxkxGr_AMzc",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "For adults, a single day pass in Prague costs 110Kč ($4.80 Usd) – seniors get 50% off*. I was ready to purchase 1 Adult and 2 Senior passes at the train station when the chirpy guy in the ticketing booth took a closer look at my folks. “Hmm… are they above 65?”“Yes.”“Good! I suggest that",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_20190515_093930666.jpg?h=200&crop=1",
+			"type": "url",
+			"embed": false,
+			"title": "Why you should travel to Prague at 65!",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=767"
+		},
+		{
+			"src": "https://www.instagram.com/p/BxhvpgpAo32",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "During Apollo 11 landing 50 years ago, a tape-recorded piece of music that the Moon heard from mankind is affectionately called the New World Symphony. Otherwise known as the Symphony No.9 in E minor, this is a classical piece of music written by Czech composer, Antonín Dvořák. Dvořákmight not be one of the Top 10",
+			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/05/img_20190512_144156404b.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Antonín Dvořák: The man whose music went to the Moon and back",
+			"url": "https://somedaywewillseetheworld.wordpress.com/2019/05/12/antonin-dvorak-the-man-whose-music-went-to-the-moon-and-back/"
+		},
+		{
+			"src": "https://www.instagram.com/p/Bxd71n-Af5r",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Prague": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 24,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 23,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 28,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 38,
+					"high": 15,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 77,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 73,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 66,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 70,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 40,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 31,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 32,
+					"high": 6,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 25,
+					"high": 2,
+					"low": null
+				}
+			]
+		},
+		"Brno": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.2,
+					"low": -5.2,
+					"precipitation": 24.6
+				},
+				{
+					"heading": "Feb",
+					"high": 3.1,
+					"low": -3.3,
+					"precipitation": 23.8
+				},
+				{
+					"heading": "Mar",
+					"high": 8.5,
+					"low": -0.2,
+					"precipitation": 24.4
+				},
+				{
+					"heading": "Apr",
+					"high": 14.4,
+					"low": 3.9,
+					"precipitation": 31.5
+				},
+				{
+					"heading": "May",
+					"high": 19.5,
+					"low": 8.3,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jun",
+					"high": 22.6,
+					"low": 11.4,
+					"precipitation": 72.2
+				},
+				{
+					"heading": "Jul",
+					"high": 24.5,
+					"low": 12.7,
+					"precipitation": 63.7
+				},
+				{
+					"heading": "Aug",
+					"high": 24.2,
+					"low": 12.6,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "Sep",
+					"high": 20.2,
+					"low": 9.5,
+					"precipitation": 37.6
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 5,
+					"precipitation": 30.7
+				},
+				{
+					"heading": "Nov",
+					"high": 6.6,
+					"low": 0.9,
+					"precipitation": 37.4
+				},
+				{
+					"heading": "Dec",
+					"high": 1.9,
+					"low": -3,
+					"precipitation": 27.1
+				}
+			]
+		},
+		"České Budějovice": {
+			"climate": [
+				{
+					"heading": "Січ"
+				},
+				{
+					"heading": "Лют"
+				},
+				{
+					"heading": "Бер"
+				},
+				{
+					"heading": "Кві"
+				},
+				{
+					"heading": "Тра"
+				},
+				{
+					"heading": "Чер"
+				},
+				{
+					"heading": "Лип"
+				},
+				{
+					"heading": "Сер"
+				},
+				{
+					"heading": "Вер"
+				},
+				{
+					"heading": "Жов"
+				},
+				{
+					"heading": "Лис"
+				},
+				{
+					"heading": "Гру"
+				}
+			]
+		},
+		"Český Krumlov": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 124,
+					"high": -7,
+					"low": -9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 60,
+					"high": 1,
+					"low": -7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 40,
+					"high": 6,
+					"low": -5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 50,
+					"high": 15,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 158,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 160,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 127,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 129,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 104,
+					"high": 16,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 67,
+					"high": 12,
+					"low": 1
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 41,
+					"high": 7,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 63,
+					"high": -4,
+					"low": -9
+				}
+			]
+		},
+		"Karlovy Vary": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": -5,
+					"low": -8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": -2,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 4,
+					"low": -4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 14,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 17,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 3,
+					"low": -3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": -6,
+					"low": -8
+				}
+			]
+		},
+		"Ostrava": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.4,
+					"low": -5.6,
+					"precipitation": 26.7
+				},
+				{
+					"heading": "Feb",
+					"high": 2.8,
+					"low": -4.1,
+					"precipitation": 30.2
+				},
+				{
+					"heading": "Mar",
+					"high": 7.7,
+					"low": -0.8,
+					"precipitation": 34
+				},
+				{
+					"heading": "Apr",
+					"high": 13.5,
+					"low": 3,
+					"precipitation": 52.4
+				},
+				{
+					"heading": "May",
+					"high": 18.9,
+					"low": 7.3,
+					"precipitation": 91.2
+				},
+				{
+					"heading": "Jun",
+					"high": 21.9,
+					"low": 10.6,
+					"precipitation": 104.4
+				},
+				{
+					"heading": "Jul",
+					"high": 23.6,
+					"low": 11.9,
+					"precipitation": 91.1
+				},
+				{
+					"heading": "Aug",
+					"high": 23.4,
+					"low": 11.6,
+					"precipitation": 91.8
+				},
+				{
+					"heading": "Sep",
+					"high": 19.4,
+					"low": 8.7,
+					"precipitation": 58.8
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 4.7,
+					"precipitation": 42.3
+				},
+				{
+					"heading": "Nov",
+					"high": 6.7,
+					"low": 0.9,
+					"precipitation": 44.6
+				},
+				{
+					"heading": "Dec",
+					"high": 2,
+					"low": -3.2,
+					"precipitation": 34.3
+				}
+			]
+		},
+		"Pilsen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.6,
+					"low": -4.9
+				},
+				{
+					"heading": "Feb",
+					"high": 2.1,
+					"low": -4.6
+				},
+				{
+					"heading": "Mar",
+					"high": 7.5,
+					"low": -1.1
+				},
+				{
+					"heading": "Apr",
+					"high": 13.1,
+					"low": 2.7
+				},
+				{
+					"heading": "May",
+					"high": 18.3,
+					"low": 7.1
+				},
+				{
+					"heading": "Jun",
+					"high": 21.5,
+					"low": 10.6
+				},
+				{
+					"heading": "Jul",
+					"high": 23.2,
+					"low": 12.2
+				},
+				{
+					"heading": "Aug",
+					"high": 22.6,
+					"low": 11.6
+				},
+				{
+					"heading": "Sep",
+					"high": 18.6,
+					"low": 8.3
+				},
+				{
+					"heading": "Oct",
+					"high": 12.8,
+					"low": 4.2
+				},
+				{
+					"heading": "Nov",
+					"high": 5.8,
+					"low": 0.3
+				},
+				{
+					"heading": "Dec",
+					"high": 2.3,
+					"low": -2.6
+				}
+			]
+		},
+		"Karlštejn": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 88,
+					"high": -3,
+					"low": -9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 45,
+					"high": 0,
+					"low": -7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 36,
+					"high": 8,
+					"low": -2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 57,
+					"high": 18,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 119,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 126,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 118,
+					"high": 23,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 120,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 78,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 61,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 42,
+					"high": 4,
+					"low": -2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 51,
+					"high": -4,
+					"low": -8
+				}
+			]
+		},
+		"Mariánské Lázně": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 103,
+					"high": -6,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 55,
+					"high": -1,
+					"low": -9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 29,
+					"high": 7,
+					"low": -5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 58,
+					"high": 15,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 118,
+					"high": 17,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 103,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 100,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 117,
+					"high": 21,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 80,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 77,
+					"high": 10,
+					"low": 1
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 68,
+					"high": 2,
+					"low": -3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 97,
+					"high": -7,
+					"low": -8
+				}
+			]
+		}
+	}
+}

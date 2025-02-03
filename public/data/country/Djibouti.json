@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Djibouti (city)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.7,
+					"low": 21.5,
+					"precipitation": 10
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 22.5,
+					"precipitation": 18.8
+				},
+				{
+					"heading": "Mar",
+					"high": 30.2,
+					"low": 23.8,
+					"precipitation": 20.3
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 25.4,
+					"precipitation": 28.9
+				},
+				{
+					"heading": "May",
+					"high": 34.9,
+					"low": 27,
+					"precipitation": 16.7
+				},
+				{
+					"heading": "Jun",
+					"high": 39,
+					"low": 29.3,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Jul",
+					"high": 41.7,
+					"low": 31.1,
+					"precipitation": 6.2
+				},
+				{
+					"heading": "Aug",
+					"high": 41.2,
+					"low": 30.6,
+					"precipitation": 5.6
+				},
+				{
+					"heading": "Sep",
+					"high": 37.2,
+					"low": 28.9,
+					"precipitation": 3.1
+				},
+				{
+					"heading": "Oct",
+					"high": 33.1,
+					"low": 25.6,
+					"precipitation": 20.2
+				},
+				{
+					"heading": "Nov",
+					"high": 30.8,
+					"low": 23.1,
+					"precipitation": 22.4
+				},
+				{
+					"heading": "Dec",
+					"high": 29.3,
+					"low": 21.6,
+					"precipitation": 11.2
+				}
+			]
+		}
+	}
+}

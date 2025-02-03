@@ -1,0 +1,814 @@
+{
+	"note": "<p>I loveeeeee Lisboa. It&#39;s so awesome.An island in the middle of the atlantic that is part of Portugal. Mark Twain wrote about it in the Innocents Abroad.</p>\n",
+	"snippets": [
+		{
+			"text": "Look for tiny shops in the square which sells drinks in the evening called `a ginjinha`.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ginjinha_store.jpg/640px-Ginjinha_store.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "ginjinha",
+			"url": "https://en.wikipedia.org/wiki/Ginjinha"
+		},
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Porto_%28Portugal%29_%2822453282811%29.jpg/640px-Porto_%28Portugal%29_%2822453282811%29.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Livraria Lello",
+			"url": "https://en.wikipedia.org/wiki/Livraria_Lello"
+		},
+		{
+			"text": "The trams were great fun. I took them all over the place. The best ride was to the old town from near Rossio station which takes you through extemely narrow streets.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Memory",
+			"url": "-"
+		},
+		{
+			"src": "https://live.staticflickr.com/1435/5107872638_a78b7efe00_k.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Tramtastic",
+			"url": "https://www.flickr.com/photos/jdlrobson/5107872638/"
+		},
+		{
+			"text": "I also rode the bus/trams to Belem. There was a nice museum here, a pretty church, and yummy not to be missed egg tarts at Casa Pasteis De Belem. Lisboa tourist card came in very handy for all this traveling about!",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Memories in Lisbon",
+			"url": "-"
+		},
+		{
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sintra",
+			"url": "I took a day trip from Rossio station to **Sintra** which I thoroughly recommended. Very pretty place and great fun wondering around, and for al fresco dining. There is an amazing castle here with a fantastic view that is worth the entrance fee alone."
+		},
+		{
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lisbon Story Guesthouse",
+			"url": "https://www.lisbonstoryguesthouse.com/"
+		},
+		{
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Casa Pasteis De Belem",
+			"url": "https://www.pasteisdebelem.pt/"
+		}
+	],
+	"places": {
+		"Lisbon": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 100,
+					"high": 15,
+					"low": 8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 85,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 53,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 68,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "May",
+					"precipitation": 54,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 16,
+					"high": 26,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 4.2,
+					"high": 28,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 6.2,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 33,
+					"high": 27,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 101,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 128,
+					"high": 18,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 127,
+					"high": 15,
+					"low": 9
+				}
+			]
+		},
+		"Aveiro": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.4,
+					"low": 6.3,
+					"precipitation": 119.8
+				},
+				{
+					"heading": "Feb",
+					"high": 15.4,
+					"low": 7.3,
+					"precipitation": 87.5
+				},
+				{
+					"heading": "Mar",
+					"high": 17.5,
+					"low": 9.1,
+					"precipitation": 67.2
+				},
+				{
+					"heading": "Apr",
+					"high": 18.2,
+					"low": 10.3,
+					"precipitation": 91.2
+				},
+				{
+					"heading": "May",
+					"high": 20.2,
+					"low": 12.5,
+					"precipitation": 74.9
+				},
+				{
+					"heading": "Jun",
+					"high": 22.8,
+					"low": 15,
+					"precipitation": 29.3
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 16.1,
+					"precipitation": 13.5
+				},
+				{
+					"heading": "Aug",
+					"high": 24.4,
+					"low": 16.2,
+					"precipitation": 19.7
+				},
+				{
+					"heading": "Sep",
+					"high": 23.7,
+					"low": 15.2,
+					"precipitation": 49.3
+				},
+				{
+					"heading": "Oct",
+					"high": 21.1,
+					"low": 13,
+					"precipitation": 128.8
+				},
+				{
+					"heading": "Nov",
+					"high": 17.4,
+					"low": 9.8,
+					"precipitation": 128.3
+				},
+				{
+					"heading": "Dec",
+					"high": 15.2,
+					"low": 7.8,
+					"precipitation": 134.5
+				}
+			]
+		},
+		"Coimbra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.2,
+					"low": 5.7,
+					"precipitation": 138
+				},
+				{
+					"heading": "Feb",
+					"high": 15.4,
+					"low": 6.5,
+					"precipitation": 139
+				},
+				{
+					"heading": "Mar",
+					"high": 17.7,
+					"low": 7.3,
+					"precipitation": 88
+				},
+				{
+					"heading": "Apr",
+					"high": 19.3,
+					"low": 8.6,
+					"precipitation": 91
+				},
+				{
+					"heading": "May",
+					"high": 22,
+					"low": 10.8,
+					"precipitation": 78
+				},
+				{
+					"heading": "Jun",
+					"high": 25.6,
+					"low": 13.6,
+					"precipitation": 51
+				},
+				{
+					"heading": "Jul",
+					"high": 28.4,
+					"low": 15.3,
+					"precipitation": 15
+				},
+				{
+					"heading": "Aug",
+					"high": 28.7,
+					"low": 14.9,
+					"precipitation": 13
+				},
+				{
+					"heading": "Sep",
+					"high": 27.2,
+					"low": 14.3,
+					"precipitation": 47
+				},
+				{
+					"heading": "Oct",
+					"high": 22.6,
+					"low": 12.1,
+					"precipitation": 97
+				},
+				{
+					"heading": "Nov",
+					"high": 17.5,
+					"low": 8.5,
+					"precipitation": 128
+				},
+				{
+					"heading": "Dec",
+					"high": 14.5,
+					"low": 6.4,
+					"precipitation": 129
+				}
+			]
+		},
+		"Évora": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 12.8,
+					"low": 6.1,
+					"precipitation": 88
+				},
+				{
+					"heading": "Feb",
+					"high": 13.7,
+					"low": 6.7,
+					"precipitation": 86
+				},
+				{
+					"heading": "Mar",
+					"high": 15.9,
+					"low": 7.7,
+					"precipitation": 57
+				},
+				{
+					"heading": "Apr",
+					"high": 17.8,
+					"low": 8.9,
+					"precipitation": 56
+				},
+				{
+					"heading": "May",
+					"high": 21.6,
+					"low": 11.1,
+					"precipitation": 38
+				},
+				{
+					"heading": "Jun",
+					"high": 26.2,
+					"low": 14,
+					"precipitation": 29
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 16,
+					"precipitation": 8
+				},
+				{
+					"heading": "Aug",
+					"high": 30.2,
+					"low": 16.3,
+					"precipitation": 4
+				},
+				{
+					"heading": "Sep",
+					"high": 27.4,
+					"low": 15.7,
+					"precipitation": 27
+				},
+				{
+					"heading": "Oct",
+					"high": 21.7,
+					"low": 12.9,
+					"precipitation": 69
+				},
+				{
+					"heading": "Nov",
+					"high": 16.3,
+					"low": 9.1,
+					"precipitation": 80
+				},
+				{
+					"heading": "Dec",
+					"high": 13.1,
+					"low": 6.6,
+					"precipitation": 85
+				}
+			]
+		},
+		"Funchal": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 74,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 83,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 60,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 44,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "May",
+					"precipitation": 29,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 7.2,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1.6,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 2,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 33,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 90,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 89,
+					"high": 23,
+					"low": 17
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 115,
+					"high": 21,
+					"low": 15
+				}
+			]
+		},
+		"Guimarães": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 192,
+					"high": 9,
+					"low": 2
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 141,
+					"high": 13,
+					"low": 5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 139,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 106,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "May",
+					"precipitation": 94,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 45,
+					"high": 29,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 15,
+					"high": 30,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 26,
+					"high": 30,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 128,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 155,
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 172,
+					"high": 14,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 163,
+					"high": 9,
+					"low": 3
+				}
+			]
+		},
+		"Porto": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 13.5,
+					"low": 5.1,
+					"precipitation": 171
+				},
+				{
+					"heading": "Feb",
+					"high": 14.3,
+					"low": 5.9,
+					"precipitation": 169
+				},
+				{
+					"heading": "Mar",
+					"high": 16.2,
+					"low": 6.8,
+					"precipitation": 112
+				},
+				{
+					"heading": "Apr",
+					"high": 17.5,
+					"low": 8.3,
+					"precipitation": 112
+				},
+				{
+					"heading": "May",
+					"high": 19.6,
+					"low": 10.6,
+					"precipitation": 89
+				},
+				{
+					"heading": "Jun",
+					"high": 22.7,
+					"low": 13.5,
+					"precipitation": 53
+				},
+				{
+					"heading": "Jul",
+					"high": 24.7,
+					"low": 15,
+					"precipitation": 16
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 14.6,
+					"precipitation": 22
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 13.9,
+					"precipitation": 64
+				},
+				{
+					"heading": "Oct",
+					"high": 20.9,
+					"low": 11.4,
+					"precipitation": 131
+				},
+				{
+					"heading": "Nov",
+					"high": 16.7,
+					"low": 7.9,
+					"precipitation": 152
+				},
+				{
+					"heading": "Dec",
+					"high": 13.9,
+					"low": 5.9,
+					"precipitation": 176
+				}
+			]
+		},
+		"Viana do Castelo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.6,
+					"low": 4.9
+				},
+				{
+					"heading": "Feb",
+					"high": 15.5,
+					"low": 5.5
+				},
+				{
+					"heading": "Mar",
+					"high": 17.9,
+					"low": 7.4
+				},
+				{
+					"heading": "Apr",
+					"high": 18.5,
+					"low": 8.8
+				},
+				{
+					"heading": "May",
+					"high": 20.7,
+					"low": 11.1
+				},
+				{
+					"heading": "Jun",
+					"high": 24.5,
+					"low": 13.9
+				},
+				{
+					"heading": "Jul",
+					"high": 26.3,
+					"low": 15.3
+				},
+				{
+					"heading": "Aug",
+					"high": 26.4,
+					"low": 15.1
+				},
+				{
+					"heading": "Sep",
+					"high": 24.8,
+					"low": 13.7
+				},
+				{
+					"heading": "Oct",
+					"high": 20.9,
+					"low": 11.2
+				},
+				{
+					"heading": "Nov",
+					"high": 17.4,
+					"low": 8.1
+				},
+				{
+					"heading": "Dec",
+					"high": 15.2,
+					"low": 6.4
+				}
+			]
+		},
+		"Azores": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.8,
+					"low": 12.2,
+					"precipitation": 96.9
+				},
+				{
+					"heading": "Feb",
+					"high": 16.6,
+					"low": 11.5,
+					"precipitation": 84
+				},
+				{
+					"heading": "Mar",
+					"high": 17,
+					"low": 12,
+					"precipitation": 87.7
+				},
+				{
+					"heading": "Apr",
+					"high": 17.7,
+					"low": 12.3,
+					"precipitation": 76.7
+				},
+				{
+					"heading": "May",
+					"high": 19.1,
+					"low": 13.6,
+					"precipitation": 72
+				},
+				{
+					"heading": "Jun",
+					"high": 21.4,
+					"low": 15.8,
+					"precipitation": 39.6
+				},
+				{
+					"heading": "Jul",
+					"high": 23.9,
+					"low": 17.8,
+					"precipitation": 26.6
+				},
+				{
+					"heading": "Aug",
+					"high": 25.3,
+					"low": 19,
+					"precipitation": 46.1
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 18.4,
+					"precipitation": 91.9
+				},
+				{
+					"heading": "Oct",
+					"high": 21.9,
+					"low": 16.5,
+					"precipitation": 108.5
+				},
+				{
+					"heading": "Nov",
+					"high": 19.4,
+					"low": 14.3,
+					"precipitation": 108.7
+				},
+				{
+					"heading": "Dec",
+					"high": 17.8,
+					"low": 12.9,
+					"precipitation": 146.9
+				}
+			]
+		},
+		"Machico": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18,
+					"low": 14,
+					"precipitation": 110
+				},
+				{
+					"heading": "Feb",
+					"high": 18,
+					"low": 14,
+					"precipitation": 80
+				},
+				{
+					"heading": "Mar",
+					"high": 18,
+					"low": 14,
+					"precipitation": 60
+				},
+				{
+					"heading": "Apr",
+					"high": 19,
+					"low": 14,
+					"precipitation": 70
+				},
+				{
+					"heading": "May",
+					"high": 21,
+					"low": 16,
+					"precipitation": 20
+				},
+				{
+					"heading": "Jun",
+					"high": 23,
+					"low": 17,
+					"precipitation": 10
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 19,
+					"precipitation": 10
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 20,
+					"precipitation": 10
+				},
+				{
+					"heading": "Sep",
+					"high": 25,
+					"low": 20,
+					"precipitation": 40
+				},
+				{
+					"heading": "Oct",
+					"high": 23,
+					"low": 19,
+					"precipitation": 100
+				},
+				{
+					"heading": "Nov",
+					"high": 21,
+					"low": 17,
+					"precipitation": 100
+				},
+				{
+					"heading": "Dec",
+					"high": 20,
+					"low": 15,
+					"precipitation": 90
+				}
+			]
+		}
+	}
+}

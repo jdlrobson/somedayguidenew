@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Luanda": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.5,
+					"low": 23.9,
+					"precipitation": 30
+				},
+				{
+					"heading": "Feb",
+					"high": 30.5,
+					"low": 24.7,
+					"precipitation": 36
+				},
+				{
+					"heading": "Mar",
+					"high": 30.7,
+					"low": 24.6,
+					"precipitation": 114
+				},
+				{
+					"heading": "Apr",
+					"high": 30.2,
+					"low": 24.3,
+					"precipitation": 136
+				},
+				{
+					"heading": "May",
+					"high": 28.8,
+					"low": 23.3,
+					"precipitation": 16
+				},
+				{
+					"heading": "Jun",
+					"high": 25.7,
+					"low": 20.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 23.9,
+					"low": 18.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 18.8,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 25.4,
+					"low": 20.2,
+					"precipitation": 2
+				},
+				{
+					"heading": "Oct",
+					"high": 26.8,
+					"low": 22,
+					"precipitation": 7
+				},
+				{
+					"heading": "Nov",
+					"high": 28.4,
+					"low": 23.3,
+					"precipitation": 32
+				},
+				{
+					"heading": "Dec",
+					"high": 28.6,
+					"low": 23.5,
+					"precipitation": 31
+				}
+			]
+		},
+		"Benguela": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 48,
+					"high": 36,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 13,
+					"high": 35,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 50,
+					"high": 34,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 34,
+					"high": 33,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 4,
+					"high": 34,
+					"low": 20
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 2,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 4,
+					"high": 31,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 3,
+					"high": 36,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 29,
+					"high": 37,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 18,
+					"high": 37,
+					"low": 22
+				}
+			]
+		},
+		"Cabinda (city)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 121,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 130,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 196,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 150,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 47,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 2,
+					"high": 23,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 6,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 9,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 37,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 147,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 139,
+					"high": 23,
+					"low": 20
+				}
+			]
+		},
+		"Huambo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24.9,
+					"low": 14.4,
+					"precipitation": 220
+				},
+				{
+					"heading": "Feb",
+					"high": 25.2,
+					"low": 14.2,
+					"precipitation": 179
+				},
+				{
+					"heading": "Mar",
+					"high": 25,
+					"low": 14.4,
+					"precipitation": 239
+				},
+				{
+					"heading": "Apr",
+					"high": 25.5,
+					"low": 13.7,
+					"precipitation": 146
+				},
+				{
+					"heading": "May",
+					"high": 25.4,
+					"low": 10.5,
+					"precipitation": 14
+				},
+				{
+					"heading": "Jun",
+					"high": 24.6,
+					"low": 7.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 7.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 27.2,
+					"low": 10.3,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 28.7,
+					"low": 13,
+					"precipitation": 19
+				},
+				{
+					"heading": "Oct",
+					"high": 27.3,
+					"low": 14.2,
+					"precipitation": 119
+				},
+				{
+					"heading": "Nov",
+					"high": 25.2,
+					"low": 14.3,
+					"precipitation": 227
+				},
+				{
+					"heading": "Dec",
+					"high": 24.9,
+					"low": 14.3,
+					"precipitation": 234
+				}
+			]
+		},
+		"Lobito": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.3,
+					"low": 22.2,
+					"precipitation": 20.3
+				},
+				{
+					"heading": "Feb",
+					"high": 29.4,
+					"low": 23.3,
+					"precipitation": 38.1
+				},
+				{
+					"heading": "Mar",
+					"high": 30.6,
+					"low": 23.9,
+					"precipitation": 119.4
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 23.9,
+					"precipitation": 53.3
+				},
+				{
+					"heading": "May",
+					"high": 28.3,
+					"low": 21.6,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Jun",
+					"high": 25.6,
+					"low": 18.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 23.3,
+					"low": 17.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 23.3,
+					"low": 16.7,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Sep",
+					"high": 24.4,
+					"low": 18.3,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Oct",
+					"high": 26.1,
+					"low": 20.6,
+					"precipitation": 30.5
+				},
+				{
+					"heading": "Nov",
+					"high": 28.3,
+					"low": 22.2,
+					"precipitation": 25.4
+				},
+				{
+					"heading": "Dec",
+					"high": 28.3,
+					"low": 22.2,
+					"precipitation": 61
+				}
+			]
+		},
+		"M'banza-Kongo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.1,
+					"low": 20.2,
+					"precipitation": 139
+				},
+				{
+					"heading": "Feb",
+					"high": 28.7,
+					"low": 20.5,
+					"precipitation": 133
+				},
+				{
+					"heading": "Mar",
+					"high": 29.5,
+					"low": 20.4,
+					"precipitation": 175
+				},
+				{
+					"heading": "Apr",
+					"high": 28.9,
+					"low": 20.5,
+					"precipitation": 255
+				},
+				{
+					"heading": "May",
+					"high": 28.2,
+					"low": 19.8,
+					"precipitation": 156
+				},
+				{
+					"heading": "Jun",
+					"high": 26.5,
+					"low": 17.5,
+					"precipitation": 2
+				},
+				{
+					"heading": "Jul",
+					"high": 24.6,
+					"low": 15.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 24.6,
+					"low": 15.8,
+					"precipitation": 4
+				},
+				{
+					"heading": "Sep",
+					"high": 26,
+					"low": 17.3,
+					"precipitation": 8
+				},
+				{
+					"heading": "Oct",
+					"high": 27.4,
+					"low": 19.3,
+					"precipitation": 80
+				},
+				{
+					"heading": "Nov",
+					"high": 28,
+					"low": 20,
+					"precipitation": 167
+				},
+				{
+					"heading": "Dec",
+					"high": 27.7,
+					"low": 20.1,
+					"precipitation": 183
+				}
+			]
+		}
+	}
+}

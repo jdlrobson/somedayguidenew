@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Koror": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.3,
+					"low": 24.6,
+					"precipitation": 282
+				},
+				{
+					"heading": "Feb",
+					"high": 30.2,
+					"low": 24.5,
+					"precipitation": 242
+				},
+				{
+					"heading": "Mar",
+					"high": 30.6,
+					"low": 24.6,
+					"precipitation": 210
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 24.9,
+					"precipitation": 208
+				},
+				{
+					"heading": "May",
+					"high": 30.9,
+					"low": 25,
+					"precipitation": 318
+				},
+				{
+					"heading": "Jun",
+					"high": 30.4,
+					"low": 24.7,
+					"precipitation": 457
+				},
+				{
+					"heading": "Jul",
+					"high": 30.1,
+					"low": 24.7,
+					"precipitation": 460
+				},
+				{
+					"heading": "Aug",
+					"high": 30,
+					"low": 25,
+					"precipitation": 354
+				},
+				{
+					"heading": "Sep",
+					"high": 30.3,
+					"low": 25,
+					"precipitation": 307
+				},
+				{
+					"heading": "Oct",
+					"high": 30.6,
+					"low": 25.1,
+					"precipitation": 306
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 25,
+					"precipitation": 302
+				},
+				{
+					"heading": "Dec",
+					"high": 30.7,
+					"low": 24.8,
+					"precipitation": 303
+				}
+			]
+		}
+	}
+}

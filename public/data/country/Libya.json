@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Tripoli": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 17.9,
+					"low": 8.9,
+					"precipitation": 62.1
+				},
+				{
+					"heading": "Feb",
+					"high": 19.1,
+					"low": 9.5,
+					"precipitation": 32.2
+				},
+				{
+					"heading": "Mar",
+					"high": 20.7,
+					"low": 11.2,
+					"precipitation": 29.6
+				},
+				{
+					"heading": "Apr",
+					"high": 23.7,
+					"low": 13.7,
+					"precipitation": 14.3
+				},
+				{
+					"heading": "May",
+					"high": 27.1,
+					"low": 16.7,
+					"precipitation": 4.6
+				},
+				{
+					"heading": "Jun",
+					"high": 30.4,
+					"low": 20.1,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Jul",
+					"high": 31.7,
+					"low": 21.7,
+					"precipitation": 0.7
+				},
+				{
+					"heading": "Aug",
+					"high": 32.6,
+					"low": 22.7,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 21.4,
+					"precipitation": 16.7
+				},
+				{
+					"heading": "Oct",
+					"high": 27.7,
+					"low": 18,
+					"precipitation": 46.6
+				},
+				{
+					"heading": "Nov",
+					"high": 23.3,
+					"low": 13.4,
+					"precipitation": 58.2
+				},
+				{
+					"heading": "Dec",
+					"high": 19.3,
+					"low": 9.9,
+					"precipitation": 67.5
+				}
+			]
+		},
+		"Benghazi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 16.7,
+					"low": 8.3,
+					"precipitation": 67
+				},
+				{
+					"heading": "Feb",
+					"high": 18,
+					"low": 8.4,
+					"precipitation": 42
+				},
+				{
+					"heading": "Mar",
+					"high": 20.3,
+					"low": 9.5,
+					"precipitation": 29
+				},
+				{
+					"heading": "Apr",
+					"high": 24.7,
+					"low": 12.8,
+					"precipitation": 9
+				},
+				{
+					"heading": "May",
+					"high": 28.9,
+					"low": 16,
+					"precipitation": 4
+				},
+				{
+					"heading": "Jun",
+					"high": 31.8,
+					"low": 19.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 31.7,
+					"low": 20.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 32.3,
+					"low": 20.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 30.8,
+					"low": 19.4,
+					"precipitation": 4
+				},
+				{
+					"heading": "Oct",
+					"high": 27.8,
+					"low": 16.5,
+					"precipitation": 18
+				},
+				{
+					"heading": "Nov",
+					"high": 23.2,
+					"low": 13.3,
+					"precipitation": 30
+				},
+				{
+					"heading": "Dec",
+					"high": 18.4,
+					"low": 9.9,
+					"precipitation": 65
+				}
+			]
+		},
+		"Ghadamis": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 17.6,
+					"low": 3.6,
+					"precipitation": 5
+				},
+				{
+					"heading": "Feb",
+					"high": 20.7,
+					"low": 5.7,
+					"precipitation": 4.6
+				},
+				{
+					"heading": "Mar",
+					"high": 24.4,
+					"low": 9,
+					"precipitation": 6.8
+				},
+				{
+					"heading": "Apr",
+					"high": 29.7,
+					"low": 13.8,
+					"precipitation": 3.6
+				},
+				{
+					"heading": "May",
+					"high": 34.6,
+					"low": 17.8,
+					"precipitation": 2.3
+				},
+				{
+					"heading": "Jun",
+					"high": 39.8,
+					"low": 22.3,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Jul",
+					"high": 40.3,
+					"low": 22.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 39.8,
+					"low": 22.5,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Sep",
+					"high": 36.4,
+					"low": 20.1,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 15,
+					"precipitation": 4
+				},
+				{
+					"heading": "Nov",
+					"high": 23.8,
+					"low": 9,
+					"precipitation": 2.1
+				},
+				{
+					"heading": "Dec",
+					"high": 18.2,
+					"low": 4.4,
+					"precipitation": 3.4
+				}
+			]
+		},
+		"Misrata": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18,
+					"low": 8.5,
+					"precipitation": 56
+				},
+				{
+					"heading": "Feb",
+					"high": 19.3,
+					"low": 9.2,
+					"precipitation": 25
+				},
+				{
+					"heading": "Mar",
+					"high": 20.5,
+					"low": 11.1,
+					"precipitation": 20
+				},
+				{
+					"heading": "Apr",
+					"high": 23,
+					"low": 13.8,
+					"precipitation": 11
+				},
+				{
+					"heading": "May",
+					"high": 26.5,
+					"low": 16.8,
+					"precipitation": 4
+				},
+				{
+					"heading": "Jun",
+					"high": 29.9,
+					"low": 20,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 31.6,
+					"low": 21.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 32.5,
+					"low": 22.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 31.1,
+					"low": 21.5,
+					"precipitation": 11
+				},
+				{
+					"heading": "Oct",
+					"high": 27.8,
+					"low": 18.2,
+					"precipitation": 42
+				},
+				{
+					"heading": "Nov",
+					"high": 23.9,
+					"low": 13.6,
+					"precipitation": 38
+				},
+				{
+					"heading": "Dec",
+					"high": 19.4,
+					"low": 10,
+					"precipitation": 59
+				}
+			]
+		},
+		"Ghat (Libya)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20.4,
+					"low": 6.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 25.1,
+					"low": 9.1,
+					"precipitation": 1
+				},
+				{
+					"heading": "Mar",
+					"high": 28.9,
+					"low": 13.8,
+					"precipitation": 2
+				},
+				{
+					"heading": "Apr",
+					"high": 34.4,
+					"low": 18.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "May",
+					"high": 38.8,
+					"low": 23.2,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jun",
+					"high": 41.2,
+					"low": 26.6,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 41.8,
+					"low": 26.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 40.9,
+					"low": 25.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 39.6,
+					"low": 23.7,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 34.7,
+					"low": 19.2,
+					"precipitation": 1
+				},
+				{
+					"heading": "Nov",
+					"high": 29.5,
+					"low": 13.9,
+					"precipitation": 1
+				},
+				{
+					"heading": "Dec",
+					"high": 23.5,
+					"low": 8.9,
+					"precipitation": 1
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Roseau": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28,
+					"low": 21.8,
+					"precipitation": 159
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 21.6,
+					"precipitation": 107
+				},
+				{
+					"heading": "Mar",
+					"high": 28.4,
+					"low": 21.8,
+					"precipitation": 135
+				},
+				{
+					"heading": "Apr",
+					"high": 29.1,
+					"low": 22.5,
+					"precipitation": 122
+				},
+				{
+					"heading": "May",
+					"high": 29.6,
+					"low": 23.7,
+					"precipitation": 220
+				},
+				{
+					"heading": "Jun",
+					"high": 30.1,
+					"low": 24.5,
+					"precipitation": 162
+				},
+				{
+					"heading": "Jul",
+					"high": 30.2,
+					"low": 24.6,
+					"precipitation": 181
+				},
+				{
+					"heading": "Aug",
+					"high": 30.5,
+					"low": 24.3,
+					"precipitation": 243
+				},
+				{
+					"heading": "Sep",
+					"high": 30.4,
+					"low": 23.8,
+					"precipitation": 298
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 23.2,
+					"precipitation": 334
+				},
+				{
+					"heading": "Nov",
+					"high": 29.6,
+					"low": 22.8,
+					"precipitation": 374
+				},
+				{
+					"heading": "Dec",
+					"high": 28.6,
+					"low": 22.2,
+					"precipitation": 240
+				}
+			]
+		}
+	}
+}

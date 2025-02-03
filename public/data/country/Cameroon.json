@@ -1,0 +1,310 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Yaoundé": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 19,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 43,
+					"high": 31,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 125,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 171,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 199,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 157,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 74,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 114,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 232,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 294,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 94,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 19,
+					"high": 29,
+					"low": 20
+				}
+			]
+		},
+		"Douala": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.2,
+					"low": 23.4,
+					"precipitation": 34.2
+				},
+				{
+					"heading": "Feb",
+					"high": 32.8,
+					"low": 24.1,
+					"precipitation": 54.5
+				},
+				{
+					"heading": "Mar",
+					"high": 32.5,
+					"low": 23.9,
+					"precipitation": 155.2
+				},
+				{
+					"heading": "Apr",
+					"high": 32.1,
+					"low": 23.5,
+					"precipitation": 241.2
+				},
+				{
+					"heading": "May",
+					"high": 31.4,
+					"low": 23.2,
+					"precipitation": 276.2
+				},
+				{
+					"heading": "Jun",
+					"high": 29.9,
+					"low": 23,
+					"precipitation": 354.1
+				},
+				{
+					"heading": "Jul",
+					"high": 28.1,
+					"low": 22.7,
+					"precipitation": 681.4
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 22.8,
+					"precipitation": 687.5
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 22.8,
+					"precipitation": 561.2
+				},
+				{
+					"heading": "Oct",
+					"high": 29.8,
+					"low": 22.5,
+					"precipitation": 406.6
+				},
+				{
+					"heading": "Nov",
+					"high": 30.9,
+					"low": 23.2,
+					"precipitation": 123.1
+				},
+				{
+					"heading": "Dec",
+					"high": 31.7,
+					"low": 23.3,
+					"precipitation": 27.5
+				}
+			]
+		},
+		"Limbe": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 91,
+					"high": 24,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 190,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 323,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 448,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 440,
+					"high": 23,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 417,
+					"high": 20,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 284,
+					"high": 20,
+					"low": 17
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 203,
+					"high": 20,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 621,
+					"high": 22,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 606,
+					"high": 22,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 414,
+					"high": 24,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 138,
+					"high": 25,
+					"low": 23
+				}
+			]
+		},
+		"Ngaoundéré": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.1,
+					"low": 10.9,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Feb",
+					"high": 31.6,
+					"low": 12.8,
+					"precipitation": 1.1
+				},
+				{
+					"heading": "Mar",
+					"high": 32.1,
+					"low": 16.1,
+					"precipitation": 39.2
+				},
+				{
+					"heading": "Apr",
+					"high": 30.6,
+					"low": 17.7,
+					"precipitation": 136.6
+				},
+				{
+					"heading": "May",
+					"high": 28.9,
+					"low": 17.4,
+					"precipitation": 183.9
+				},
+				{
+					"heading": "Jun",
+					"high": 27.4,
+					"low": 16.9,
+					"precipitation": 226.6
+				},
+				{
+					"heading": "Jul",
+					"high": 26.2,
+					"low": 16.7,
+					"precipitation": 268.6
+				},
+				{
+					"heading": "Aug",
+					"high": 26.2,
+					"low": 16.8,
+					"precipitation": 279.6
+				},
+				{
+					"heading": "Sep",
+					"high": 27,
+					"low": 16.4,
+					"precipitation": 236.9
+				},
+				{
+					"heading": "Oct",
+					"high": 28.5,
+					"low": 15.8,
+					"precipitation": 117.7
+				},
+				{
+					"heading": "Nov",
+					"high": 29.6,
+					"low": 13.6,
+					"precipitation": 5.7
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 10.7,
+					"precipitation": 0
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"São Tomé": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.4,
+					"low": 22.4,
+					"precipitation": 81
+				},
+				{
+					"heading": "Feb",
+					"high": 29.9,
+					"low": 22.5,
+					"precipitation": 84
+				},
+				{
+					"heading": "Mar",
+					"high": 30.2,
+					"low": 22.6,
+					"precipitation": 131
+				},
+				{
+					"heading": "Apr",
+					"high": 30.1,
+					"low": 22.6,
+					"precipitation": 122
+				},
+				{
+					"heading": "May",
+					"high": 29.3,
+					"low": 22.6,
+					"precipitation": 113
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 21.4,
+					"precipitation": 19
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 20.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 20.5,
+					"precipitation": 1
+				},
+				{
+					"heading": "Sep",
+					"high": 28.6,
+					"low": 21.3,
+					"precipitation": 17
+				},
+				{
+					"heading": "Oct",
+					"high": 28.7,
+					"low": 21.8,
+					"precipitation": 110
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 22,
+					"precipitation": 99
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 22.1,
+					"precipitation": 108
+				}
+			]
+		},
+		"Santo António": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 22,
+					"precipitation": 113
+				},
+				{
+					"heading": "Feb",
+					"high": 29.6,
+					"low": 20,
+					"precipitation": 105
+				},
+				{
+					"heading": "Mar",
+					"high": 29.6,
+					"low": 22,
+					"precipitation": 186
+				},
+				{
+					"heading": "Apr",
+					"high": 29.4,
+					"low": 22.1,
+					"precipitation": 233
+				},
+				{
+					"heading": "May",
+					"high": 28.8,
+					"low": 21.9,
+					"precipitation": 229
+				},
+				{
+					"heading": "Jun",
+					"high": 27.6,
+					"low": 20.7,
+					"precipitation": 89
+				},
+				{
+					"heading": "Jul",
+					"high": 26.8,
+					"low": 20.2,
+					"precipitation": 21
+				},
+				{
+					"heading": "Aug",
+					"high": 27.1,
+					"low": 20.4,
+					"precipitation": 36
+				},
+				{
+					"heading": "Sep",
+					"high": 27.4,
+					"low": 21.2,
+					"precipitation": 146
+				},
+				{
+					"heading": "Oct",
+					"high": 27.5,
+					"low": 21.4,
+					"precipitation": 398
+				},
+				{
+					"heading": "Nov",
+					"high": 28.2,
+					"low": 21.4,
+					"precipitation": 174
+				},
+				{
+					"heading": "Dec",
+					"high": 28.6,
+					"low": 21.8,
+					"precipitation": 142
+				}
+			]
+		}
+	}
+}

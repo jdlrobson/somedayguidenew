@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Moundou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.1,
+					"low": 15.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 36.7,
+					"low": 18.3,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Mar",
+					"high": 38.6,
+					"low": 22.5,
+					"precipitation": 4.6
+				},
+				{
+					"heading": "Apr",
+					"high": 38,
+					"low": 24.2,
+					"precipitation": 39.2
+				},
+				{
+					"heading": "May",
+					"high": 35.7,
+					"low": 23.5,
+					"precipitation": 89.8
+				},
+				{
+					"heading": "Jun",
+					"high": 32.3,
+					"low": 22.1,
+					"precipitation": 147.7
+				},
+				{
+					"heading": "Jul",
+					"high": 30.2,
+					"low": 21.2,
+					"precipitation": 257.8
+				},
+				{
+					"heading": "Aug",
+					"high": 29.8,
+					"low": 21,
+					"precipitation": 284.8
+				},
+				{
+					"heading": "Sep",
+					"high": 30.7,
+					"low": 20.8,
+					"precipitation": 200.1
+				},
+				{
+					"heading": "Oct",
+					"high": 33.1,
+					"low": 21,
+					"precipitation": 57.1
+				},
+				{
+					"heading": "Nov",
+					"high": 35.1,
+					"low": 17.4,
+					"precipitation": 1.5
+				},
+				{
+					"heading": "Dec",
+					"high": 34.2,
+					"low": 14.6,
+					"precipitation": 0
+				}
+			]
+		},
+		"Abéché": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 33.5,
+					"low": 16.1,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 35.7,
+					"low": 18.3,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 38.2,
+					"low": 22.1,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Apr",
+					"high": 40.2,
+					"low": 25.1,
+					"precipitation": 3.2
+				},
+				{
+					"heading": "May",
+					"high": 40,
+					"low": 25.7,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Jun",
+					"high": 38.4,
+					"low": 24.8,
+					"precipitation": 34.6
+				},
+				{
+					"heading": "Jul",
+					"high": 34.7,
+					"low": 23.6,
+					"precipitation": 98.1
+				},
+				{
+					"heading": "Aug",
+					"high": 32,
+					"low": 22.3,
+					"precipitation": 166.2
+				},
+				{
+					"heading": "Sep",
+					"high": 34,
+					"low": 22.3,
+					"precipitation": 53.4
+				},
+				{
+					"heading": "Oct",
+					"high": 37.3,
+					"low": 22.6,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Nov",
+					"high": 35.8,
+					"low": 20.7,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Dec",
+					"high": 34,
+					"low": 17.8,
+					"precipitation": 0
+				}
+			]
+		},
+		"Faya": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.4,
+					"low": 13.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Feb",
+					"high": 29.4,
+					"low": 15,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 33.6,
+					"low": 18.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Apr",
+					"high": 39.1,
+					"low": 22.4,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "May",
+					"high": 41,
+					"low": 25,
+					"precipitation": 0.4
+				},
+				{
+					"heading": "Jun",
+					"high": 42.1,
+					"low": 26.1,
+					"precipitation": 0.3
+				},
+				{
+					"heading": "Jul",
+					"high": 41,
+					"low": 25.8,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 40.2,
+					"low": 26,
+					"precipitation": 7
+				},
+				{
+					"heading": "Sep",
+					"high": 39.8,
+					"low": 25.9,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Oct",
+					"high": 36.5,
+					"low": 22.5,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Nov",
+					"high": 31.1,
+					"low": 17.9,
+					"precipitation": 0
+				},
+				{
+					"heading": "Dec",
+					"high": 27.6,
+					"low": 14.4,
+					"precipitation": 0
+				}
+			]
+		}
+	}
+}

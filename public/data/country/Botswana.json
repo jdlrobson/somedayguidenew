@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Gaborone": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 97,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 84,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 71,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 41,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 13,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 5,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 3,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 5,
+					"high": 24,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 15,
+					"high": 27,
+					"low": 15
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 43,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 66,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 89,
+					"high": 30,
+					"low": 21
+				}
+			]
+		},
+		"Kasane": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 198,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 146,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 100,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 9,
+					"high": 30,
+					"low": 18
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 30,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 27,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 27,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 33,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 2,
+					"high": 39,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 11,
+					"high": 44,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 75,
+					"high": 39,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 192,
+					"high": 30,
+					"low": 20
+				}
+			]
+		},
+		"Maun": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.5,
+					"low": 19.4,
+					"precipitation": 104
+				},
+				{
+					"heading": "Feb",
+					"high": 31.3,
+					"low": 18.9,
+					"precipitation": 95
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 17.5,
+					"precipitation": 81
+				},
+				{
+					"heading": "Apr",
+					"high": 30.5,
+					"low": 14.6,
+					"precipitation": 25
+				},
+				{
+					"heading": "May",
+					"high": 27.9,
+					"low": 9.5,
+					"precipitation": 5
+				},
+				{
+					"heading": "Jun",
+					"high": 25.2,
+					"low": 6.2,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 25.4,
+					"low": 6.2,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Aug",
+					"high": 28.5,
+					"low": 9.2,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 32.3,
+					"low": 14,
+					"precipitation": 1
+				},
+				{
+					"heading": "Oct",
+					"high": 34.6,
+					"low": 18.5,
+					"precipitation": 17
+				},
+				{
+					"heading": "Nov",
+					"high": 33.6,
+					"low": 19.3,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": 32.2,
+					"low": 19.3,
+					"precipitation": 81
+				}
+			]
+		},
+		"Okavango Delta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 168,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 94,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 99,
+					"high": 29,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 6,
+					"high": 29,
+					"low": 17
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 26,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 1,
+					"high": 32,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 18,
+					"high": 36,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 42,
+					"high": 33,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 149,
+					"high": 29,
+					"low": 19
+				}
+			]
+		},
+		"Chobe National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 177,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 112,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 105,
+					"high": 30,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 11,
+					"high": 30,
+					"low": 17
+				},
+				{
+					"heading": "May",
+					"precipitation": 1,
+					"high": 30,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 27,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 27,
+					"low": 10
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 33,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 2,
+					"high": 39,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 5,
+					"high": 43,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53,
+					"high": 42,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 231,
+					"high": 33,
+					"low": 20
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Lomé": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.7,
+					"low": 22.5,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "Feb",
+					"high": 32.3,
+					"low": 24,
+					"precipitation": 23.1
+				},
+				{
+					"heading": "Mar",
+					"high": 32.5,
+					"low": 24.5,
+					"precipitation": 53.4
+				},
+				{
+					"heading": "Apr",
+					"high": 32.1,
+					"low": 24.4,
+					"precipitation": 96.1
+				},
+				{
+					"heading": "May",
+					"high": 31.3,
+					"low": 23.5,
+					"precipitation": 152.7
+				},
+				{
+					"heading": "Jun",
+					"high": 29.6,
+					"low": 22.8,
+					"precipitation": 251.8
+				},
+				{
+					"heading": "Jul",
+					"high": 28.2,
+					"low": 22.5,
+					"precipitation": 91
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 22.3,
+					"precipitation": 32.7
+				},
+				{
+					"heading": "Sep",
+					"high": 29.1,
+					"low": 22.5,
+					"precipitation": 64.7
+				},
+				{
+					"heading": "Oct",
+					"high": 30.4,
+					"low": 22.8,
+					"precipitation": 74.6
+				},
+				{
+					"heading": "Nov",
+					"high": 31.6,
+					"low": 22.9,
+					"precipitation": 20.4
+				},
+				{
+					"heading": "Dec",
+					"high": 31.6,
+					"low": 22.5,
+					"precipitation": 7.8
+				}
+			]
+		},
+		"Kpalime": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 28,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 71,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 122,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 133,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 155,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 180,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 97,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 59,
+					"high": 24,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 192,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 128,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 63,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 33,
+					"high": 28,
+					"low": 21
+				}
+			]
+		}
+	}
+}

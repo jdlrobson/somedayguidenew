@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bishkek": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 26,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 34,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 55,
+					"high": 11,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 67,
+					"high": 19,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 61,
+					"high": 24,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 34,
+					"high": 29,
+					"low": 16
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 21,
+					"high": 32,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 13,
+					"high": 31,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 19,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 45,
+					"high": 18,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 42,
+					"high": 11,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 35,
+					"high": 5,
+					"low": null
+				}
+			]
+		},
+		"Karakol": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -4.7,
+					"low": -16.1,
+					"precipitation": 12
+				},
+				{
+					"heading": "Feb",
+					"high": -2.9,
+					"low": -14,
+					"precipitation": 14
+				},
+				{
+					"heading": "Mar",
+					"high": 4.8,
+					"low": -5.8,
+					"precipitation": 23
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 1.7,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 18.9,
+					"low": 6.8,
+					"precipitation": 55
+				},
+				{
+					"heading": "Jun",
+					"high": 23.1,
+					"low": 10.4,
+					"precipitation": 54
+				},
+				{
+					"heading": "Jul",
+					"high": 25.5,
+					"low": 12.5,
+					"precipitation": 57
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 11.4,
+					"precipitation": 55
+				},
+				{
+					"heading": "Sep",
+					"high": 20.2,
+					"low": 6.7,
+					"precipitation": 39
+				},
+				{
+					"heading": "Oct",
+					"high": 12.7,
+					"low": 0.1,
+					"precipitation": 31
+				},
+				{
+					"heading": "Nov",
+					"high": 3.4,
+					"low": -7.1,
+					"precipitation": 20
+				},
+				{
+					"heading": "Dec",
+					"high": -2.3,
+					"low": -12.9,
+					"precipitation": 14
+				}
+			]
+		},
+		"Naryn": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -9.7,
+					"low": -20.4,
+					"precipitation": 9.7
+				},
+				{
+					"heading": "Feb",
+					"high": -6.6,
+					"low": -17.3,
+					"precipitation": 13.4
+				},
+				{
+					"heading": "Mar",
+					"high": 2.9,
+					"low": -6.5,
+					"precipitation": 19.8
+				},
+				{
+					"heading": "Apr",
+					"high": 13.9,
+					"low": 2.3,
+					"precipitation": 34
+				},
+				{
+					"heading": "May",
+					"high": 17.9,
+					"low": 6.1,
+					"precipitation": 48.5
+				},
+				{
+					"heading": "Jun",
+					"high": 21.5,
+					"low": 8.5,
+					"precipitation": 54.8
+				},
+				{
+					"heading": "Jul",
+					"high": 24.5,
+					"low": 10.7,
+					"precipitation": 37.3
+				},
+				{
+					"heading": "Aug",
+					"high": 24.9,
+					"low": 10.4,
+					"precipitation": 20.8
+				},
+				{
+					"heading": "Sep",
+					"high": 20.2,
+					"low": 6.2,
+					"precipitation": 17.3
+				},
+				{
+					"heading": "Oct",
+					"high": 12.7,
+					"low": 0.6,
+					"precipitation": 15.1
+				},
+				{
+					"heading": "Nov",
+					"high": 2.2,
+					"low": -7.6,
+					"precipitation": 10.9
+				},
+				{
+					"heading": "Dec",
+					"high": -6.4,
+					"low": -16.1,
+					"precipitation": 9.5
+				}
+			]
+		},
+		"Osh": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.8,
+					"low": -8.3,
+					"precipitation": 35
+				},
+				{
+					"heading": "Feb",
+					"high": 3.8,
+					"low": -5.8,
+					"precipitation": 44
+				},
+				{
+					"heading": "Mar",
+					"high": 11.7,
+					"low": 1.1,
+					"precipitation": 55
+				},
+				{
+					"heading": "Apr",
+					"high": 20.3,
+					"low": 7.9,
+					"precipitation": 52
+				},
+				{
+					"heading": "May",
+					"high": 25.6,
+					"low": 12.3,
+					"precipitation": 47
+				},
+				{
+					"heading": "Jun",
+					"high": 30.5,
+					"low": 15.6,
+					"precipitation": 18
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 17.4,
+					"precipitation": 12
+				},
+				{
+					"heading": "Aug",
+					"high": 30.8,
+					"low": 15.5,
+					"precipitation": 6
+				},
+				{
+					"heading": "Sep",
+					"high": 26.5,
+					"low": 10.5,
+					"precipitation": 8
+				},
+				{
+					"heading": "Oct",
+					"high": 19.1,
+					"low": 4.9,
+					"precipitation": 38
+				},
+				{
+					"heading": "Nov",
+					"high": 10.5,
+					"low": -0.8,
+					"precipitation": 32
+				},
+				{
+					"heading": "Dec",
+					"high": 3.2,
+					"low": -5.1,
+					"precipitation": 32
+				}
+			]
+		},
+		"Talas": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.8,
+					"low": -11.3,
+					"precipitation": 18
+				},
+				{
+					"heading": "Feb",
+					"high": 2.7,
+					"low": -9.4,
+					"precipitation": 20
+				},
+				{
+					"heading": "Mar",
+					"high": 8.7,
+					"low": -2.8,
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"high": 16.4,
+					"low": 3.5,
+					"precipitation": 52
+				},
+				{
+					"heading": "May",
+					"high": 21.1,
+					"low": 7.7,
+					"precipitation": 51
+				},
+				{
+					"heading": "Jun",
+					"high": 25.9,
+					"low": 11.2,
+					"precipitation": 31
+				},
+				{
+					"heading": "Jul",
+					"high": 28.1,
+					"low": 12.8,
+					"precipitation": 18
+				},
+				{
+					"heading": "Aug",
+					"high": 26.9,
+					"low": 10.8,
+					"precipitation": 9
+				},
+				{
+					"heading": "Sep",
+					"high": 22.4,
+					"low": 6.2,
+					"precipitation": 13
+				},
+				{
+					"heading": "Oct",
+					"high": 15.8,
+					"low": 1.4,
+					"precipitation": 27
+				},
+				{
+					"heading": "Nov",
+					"high": 9.6,
+					"low": -3,
+					"precipitation": 29
+				},
+				{
+					"heading": "Dec",
+					"high": 4.5,
+					"low": -7.5,
+					"precipitation": 20
+				}
+			]
+		}
+	}
+}

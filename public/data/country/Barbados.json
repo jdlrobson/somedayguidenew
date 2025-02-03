@@ -1,0 +1,82 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bridgetown": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.8,
+					"low": 22.9,
+					"precipitation": 70.1
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 22.8,
+					"precipitation": 41.3
+				},
+				{
+					"heading": "Mar",
+					"high": 29.5,
+					"low": 23.2,
+					"precipitation": 37.4
+				},
+				{
+					"heading": "Apr",
+					"high": 30,
+					"low": 24.1,
+					"precipitation": 60.8
+				},
+				{
+					"heading": "May",
+					"high": 30.5,
+					"low": 24.9,
+					"precipitation": 79
+				},
+				{
+					"heading": "Jun",
+					"high": 30.5,
+					"low": 25.1,
+					"precipitation": 103
+				},
+				{
+					"heading": "Jul",
+					"high": 30.4,
+					"low": 24.9,
+					"precipitation": 132.9
+				},
+				{
+					"heading": "Aug",
+					"high": 30.6,
+					"low": 24.7,
+					"precipitation": 141.9
+				},
+				{
+					"heading": "Sep",
+					"high": 30.6,
+					"low": 24.6,
+					"precipitation": 157.6
+				},
+				{
+					"heading": "Oct",
+					"high": 30.4,
+					"low": 24.5,
+					"precipitation": 185.1
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 24.2,
+					"precipitation": 171.6
+				},
+				{
+					"heading": "Dec",
+					"high": 29.3,
+					"low": 23.6,
+					"precipitation": 89.6
+				}
+			]
+		}
+	}
+}

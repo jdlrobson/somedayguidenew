@@ -1,0 +1,1260 @@
+{
+	"note": "<p>Hallstatt in Austria is something out of a dream but it gets overwhelmed (ruined?) by day trippers. Don&#39;t do that. Stay the night and explore the neighbouring mountains and give this beautiful place the time it deserves.\nSomeday we will go on more wonderful hikes in Austria into alpine forests.</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/BUPa2gOg77w",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BUPa73_giCc",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BUNVd3tg_Fh",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://farm5.static.flickr.com/4120/4763454922_ed92c97094.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Hallstatt town",
+			"url": "https://www.flickr.com/photos/jdlrobson/4763454922/"
+		},
+		{
+			"src": "https://farm5.static.flickr.com/4140/4763456400_70c73659a8.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Alpine Paradise",
+			"url": "https://www.flickr.com/photos/jdlrobson/4763456400"
+		},
+		{
+			"text": "I lost my wallet in Hallstatt. When retracing my steps, the nice lady in the supermarket told me a wallet had been handed in to City Hall by a young child. The lady took me there and all 100+ euros, credit cards and driving license were still in there.",
+			"src": "",
+			"type": "url",
+			"embed": false,
+			"title": "Hallstatt memory",
+			"url": "https://en.wikipedia.org/wiki/Hallstatt"
+		}
+	],
+	"places": {
+		"Vienna": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 37,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 39,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 46,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 52,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 62,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 70,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 68,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 58,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 54,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 40,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 50,
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 44,
+					"high": 4,
+					"low": 0
+				}
+			]
+		},
+		"Bregenz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.4,
+					"low": -1.6,
+					"precipitation": 79.1
+				},
+				{
+					"heading": "Feb",
+					"high": 4.9,
+					"low": -0.9,
+					"precipitation": 76
+				},
+				{
+					"heading": "Mar",
+					"high": 9.5,
+					"low": 2.2,
+					"precipitation": 86.1
+				},
+				{
+					"heading": "Apr",
+					"high": 13.3,
+					"low": 4.8,
+					"precipitation": 124.2
+				},
+				{
+					"heading": "May",
+					"high": 18.5,
+					"low": 9.3,
+					"precipitation": 146.7
+				},
+				{
+					"heading": "Jun",
+					"high": 21.3,
+					"low": 12.2,
+					"precipitation": 203.4
+				},
+				{
+					"heading": "Jul",
+					"high": 23.7,
+					"low": 14.5,
+					"precipitation": 191
+				},
+				{
+					"heading": "Aug",
+					"high": 23.3,
+					"low": 14.4,
+					"precipitation": 162.3
+				},
+				{
+					"heading": "Sep",
+					"high": 19.2,
+					"low": 11.1,
+					"precipitation": 138.2
+				},
+				{
+					"heading": "Oct",
+					"high": 13.3,
+					"low": 7.2,
+					"precipitation": 108.5
+				},
+				{
+					"heading": "Nov",
+					"high": 7.6,
+					"low": 2.3,
+					"precipitation": 120.2
+				},
+				{
+					"heading": "Dec",
+					"high": 4.6,
+					"low": -0.3,
+					"precipitation": 94.6
+				}
+			]
+		},
+		"Eisenstadt": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.8,
+					"low": -2.9,
+					"precipitation": 33.7
+				},
+				{
+					"heading": "Feb",
+					"high": 5.3,
+					"low": -1.6,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "Mar",
+					"high": 10.4,
+					"low": 1.9,
+					"precipitation": 45.1
+				},
+				{
+					"heading": "Apr",
+					"high": 15.3,
+					"low": 5.5,
+					"precipitation": 51.9
+				},
+				{
+					"heading": "May",
+					"high": 20.6,
+					"low": 10.1,
+					"precipitation": 62.6
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 13.2,
+					"precipitation": 71.2
+				},
+				{
+					"heading": "Jul",
+					"high": 25.9,
+					"low": 15.2,
+					"precipitation": 66.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.7,
+					"low": 15.1,
+					"precipitation": 59.8
+				},
+				{
+					"heading": "Sep",
+					"high": 20.9,
+					"low": 11.4,
+					"precipitation": 58.8
+				},
+				{
+					"heading": "Oct",
+					"high": 14.8,
+					"low": 6.5,
+					"precipitation": 43.7
+				},
+				{
+					"heading": "Nov",
+					"high": 7.7,
+					"low": 1.7,
+					"precipitation": 53.6
+				},
+				{
+					"heading": "Dec",
+					"high": 4,
+					"low": -1.2,
+					"precipitation": 41.2
+				}
+			]
+		},
+		"Graz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.8,
+					"low": -3.8,
+					"precipitation": 23.9
+				},
+				{
+					"heading": "Feb",
+					"high": 5.8,
+					"low": -2.9,
+					"precipitation": 30.4
+				},
+				{
+					"heading": "Mar",
+					"high": 10.7,
+					"low": 1,
+					"precipitation": 44.1
+				},
+				{
+					"heading": "Apr",
+					"high": 15.3,
+					"low": 4.9,
+					"precipitation": 49
+				},
+				{
+					"heading": "May",
+					"high": 20.5,
+					"low": 9.5,
+					"precipitation": 86
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 12.7,
+					"precipitation": 117.8
+				},
+				{
+					"heading": "Jul",
+					"high": 25.3,
+					"low": 14.7,
+					"precipitation": 125.1
+				},
+				{
+					"heading": "Aug",
+					"high": 24.7,
+					"low": 14.3,
+					"precipitation": 113
+				},
+				{
+					"heading": "Sep",
+					"high": 20.4,
+					"low": 10.6,
+					"precipitation": 81.1
+				},
+				{
+					"heading": "Oct",
+					"high": 14.6,
+					"low": 5.9,
+					"precipitation": 61.7
+				},
+				{
+					"heading": "Nov",
+					"high": 7.7,
+					"low": 0.9,
+					"precipitation": 51.9
+				},
+				{
+					"heading": "Dec",
+					"high": 3.6,
+					"low": -2.3,
+					"precipitation": 34.9
+				}
+			]
+		},
+		"Innsbruck": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 44,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 42,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 56,
+					"high": 11,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 58,
+					"high": 15,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 87,
+					"high": 20,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 110,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 137,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 111,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 78,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 57,
+					"high": 16,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 63,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 53,
+					"high": 4,
+					"low": null
+				}
+			]
+		},
+		"Klagenfurt": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.3,
+					"low": -7.2,
+					"precipitation": 30.9
+				},
+				{
+					"heading": "Feb",
+					"high": 4.4,
+					"low": -5.4,
+					"precipitation": 35.2
+				},
+				{
+					"heading": "Mar",
+					"high": 10.3,
+					"low": -1.3,
+					"precipitation": 50.2
+				},
+				{
+					"heading": "Apr",
+					"high": 14.9,
+					"low": 2.8,
+					"precipitation": 64.5
+				},
+				{
+					"heading": "May",
+					"high": 20.2,
+					"low": 7.8,
+					"precipitation": 78.5
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 11.1,
+					"precipitation": 113.5
+				},
+				{
+					"heading": "Jul",
+					"high": 25.5,
+					"low": 12.9,
+					"precipitation": 117.6
+				},
+				{
+					"heading": "Aug",
+					"high": 25.1,
+					"low": 12.7,
+					"precipitation": 98.6
+				},
+				{
+					"heading": "Sep",
+					"high": 20.6,
+					"low": 9,
+					"precipitation": 89.7
+				},
+				{
+					"heading": "Oct",
+					"high": 14.2,
+					"low": 4.3,
+					"precipitation": 82.9
+				},
+				{
+					"heading": "Nov",
+					"high": 5.8,
+					"low": -1,
+					"precipitation": 78.9
+				},
+				{
+					"heading": "Dec",
+					"high": 0.8,
+					"low": -5.2,
+					"precipitation": 48.9
+				}
+			]
+		},
+		"Linz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -2.8,
+					"precipitation": 59.7
+				},
+				{
+					"heading": "Feb",
+					"high": 4.3,
+					"low": -1.7,
+					"precipitation": 48.4
+				},
+				{
+					"heading": "Mar",
+					"high": 9.9,
+					"low": 1.7,
+					"precipitation": 64.2
+				},
+				{
+					"heading": "Apr",
+					"high": 14.6,
+					"low": 5.1,
+					"precipitation": 63.8
+				},
+				{
+					"heading": "May",
+					"high": 20.4,
+					"low": 9.8,
+					"precipitation": 70.9
+				},
+				{
+					"heading": "Jun",
+					"high": 22.7,
+					"low": 12.6,
+					"precipitation": 91.2
+				},
+				{
+					"heading": "Jul",
+					"high": 24.8,
+					"low": 14.4,
+					"precipitation": 107
+				},
+				{
+					"heading": "Aug",
+					"high": 24.5,
+					"low": 14.2,
+					"precipitation": 83.9
+				},
+				{
+					"heading": "Sep",
+					"high": 19.7,
+					"low": 10.7,
+					"precipitation": 63.2
+				},
+				{
+					"heading": "Oct",
+					"high": 14.1,
+					"low": 6.3,
+					"precipitation": 52.3
+				},
+				{
+					"heading": "Nov",
+					"high": 6.6,
+					"low": 1.7,
+					"precipitation": 62.1
+				},
+				{
+					"heading": "Dec",
+					"high": 3.1,
+					"low": -1.2,
+					"precipitation": 65.7
+				}
+			]
+		},
+		"Salzburg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.2,
+					"low": -4,
+					"precipitation": 59.9
+				},
+				{
+					"heading": "Feb",
+					"high": 5.6,
+					"low": -2.9,
+					"precipitation": 54.7
+				},
+				{
+					"heading": "Mar",
+					"high": 10.4,
+					"low": 0.7,
+					"precipitation": 78.7
+				},
+				{
+					"heading": "Apr",
+					"high": 14.3,
+					"low": 3.8,
+					"precipitation": 83.1
+				},
+				{
+					"heading": "May",
+					"high": 19.9,
+					"low": 8.4,
+					"precipitation": 114.5
+				},
+				{
+					"heading": "Jun",
+					"high": 22.2,
+					"low": 11.5,
+					"precipitation": 154.8
+				},
+				{
+					"heading": "Jul",
+					"high": 24.4,
+					"low": 13.5,
+					"precipitation": 157.5
+				},
+				{
+					"heading": "Aug",
+					"high": 24.2,
+					"low": 13.5,
+					"precipitation": 151.3
+				},
+				{
+					"heading": "Sep",
+					"high": 20.1,
+					"low": 10.1,
+					"precipitation": 101.3
+				},
+				{
+					"heading": "Oct",
+					"high": 14.8,
+					"low": 5.5,
+					"precipitation": 72.6
+				},
+				{
+					"heading": "Nov",
+					"high": 7.8,
+					"low": 0.6,
+					"precipitation": 83
+				},
+				{
+					"heading": "Dec",
+					"high": 4,
+					"low": -2.5,
+					"precipitation": 72.8
+				}
+			]
+		},
+		"Villach": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.4,
+					"low": -6.4,
+					"precipitation": 46.8
+				},
+				{
+					"heading": "Feb",
+					"high": 5.2,
+					"low": -4.6,
+					"precipitation": 47.1
+				},
+				{
+					"heading": "Mar",
+					"high": 10.6,
+					"low": -0.8,
+					"precipitation": 65.5
+				},
+				{
+					"heading": "Apr",
+					"high": 14.9,
+					"low": 3.1,
+					"precipitation": 83.2
+				},
+				{
+					"heading": "May",
+					"high": 20.2,
+					"low": 7.9,
+					"precipitation": 96.1
+				},
+				{
+					"heading": "Jun",
+					"high": 23.4,
+					"low": 11.1,
+					"precipitation": 120.5
+				},
+				{
+					"heading": "Jul",
+					"high": 25.6,
+					"low": 12.9,
+					"precipitation": 133.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.2,
+					"low": 12.8,
+					"precipitation": 111.3
+				},
+				{
+					"heading": "Sep",
+					"high": 20.8,
+					"low": 9.2,
+					"precipitation": 102.3
+				},
+				{
+					"heading": "Oct",
+					"high": 14.5,
+					"low": 4.6,
+					"precipitation": 105.5
+				},
+				{
+					"heading": "Nov",
+					"high": 6.6,
+					"low": -0.7,
+					"precipitation": 102.2
+				},
+				{
+					"heading": "Dec",
+					"high": 1.8,
+					"low": -4.8,
+					"precipitation": 61.2
+				}
+			]
+		},
+		"Kaprun": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 50,
+					"high": -1,
+					"low": -5
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 60,
+					"high": 3,
+					"low": -5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 80,
+					"high": 9,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 90,
+					"high": 14,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 110,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 130,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 140,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 130,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 100,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 90,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 70,
+					"high": 5,
+					"low": -1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 60,
+					"high": -1,
+					"low": -3
+				}
+			]
+		},
+		"Pinswang": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 151,
+					"high": -6,
+					"low": -8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 103,
+					"high": -4,
+					"low": -10
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 75,
+					"high": 1,
+					"low": -6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 102,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 161,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 210,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 173,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 200,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 154,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 141,
+					"high": 10,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 119,
+					"high": 1,
+					"low": -4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 110,
+					"high": -5,
+					"low": -9
+				}
+			]
+		},
+		"Igls": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.5,
+					"low": -5.2,
+					"precipitation": 43.9
+				},
+				{
+					"heading": "Feb",
+					"high": 6.3,
+					"low": -3.7,
+					"precipitation": 41.4
+				},
+				{
+					"heading": "Mar",
+					"high": 11.3,
+					"low": 0.2,
+					"precipitation": 55.9
+				},
+				{
+					"heading": "Apr",
+					"high": 14.8,
+					"low": 3.4,
+					"precipitation": 57.7
+				},
+				{
+					"heading": "May",
+					"high": 20.3,
+					"low": 7.8,
+					"precipitation": 87.1
+				},
+				{
+					"heading": "Jun",
+					"high": 22.6,
+					"low": 10.8,
+					"precipitation": 110.3
+				},
+				{
+					"heading": "Jul",
+					"high": 24.7,
+					"low": 12.8,
+					"precipitation": 137.2
+				},
+				{
+					"heading": "Aug",
+					"high": 24.4,
+					"low": 12.7,
+					"precipitation": 111.3
+				},
+				{
+					"heading": "Sep",
+					"high": 20.8,
+					"low": 9.3,
+					"precipitation": 78.1
+				},
+				{
+					"heading": "Oct",
+					"high": 15.8,
+					"low": 4.8,
+					"precipitation": 57.3
+				},
+				{
+					"heading": "Nov",
+					"high": 8.2,
+					"low": -0.5,
+					"precipitation": 63.2
+				},
+				{
+					"heading": "Dec",
+					"high": 3.7,
+					"low": -4.2,
+					"precipitation": 53.1
+				}
+			]
+		},
+		"Zell am See": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 59,
+					"high": 1,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 58,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 58,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 82,
+					"high": 13,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 106,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 144,
+					"high": 21,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 146,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 139,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 98,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 84,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 92,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 71,
+					"high": 2,
+					"low": null
+				}
+			]
+		},
+		"Hallstatt": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.5,
+					"low": -6.5,
+					"precipitation": 86
+				},
+				{
+					"heading": "Feb",
+					"high": 4,
+					"low": -5.4,
+					"precipitation": 86
+				},
+				{
+					"heading": "Mar",
+					"high": 9.2,
+					"low": -1.7,
+					"precipitation": 89
+				},
+				{
+					"heading": "Apr",
+					"high": 13.9,
+					"low": 2.2,
+					"precipitation": 110
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 6.8,
+					"precipitation": 125
+				},
+				{
+					"heading": "Jun",
+					"high": 22.3,
+					"low": 10.2,
+					"precipitation": 172
+				},
+				{
+					"heading": "Jul",
+					"high": 24.1,
+					"low": 11.6,
+					"precipitation": 177
+				},
+				{
+					"heading": "Aug",
+					"high": 23.3,
+					"low": 11.1,
+					"precipitation": 153
+				},
+				{
+					"heading": "Sep",
+					"high": 19.7,
+					"low": 7.8,
+					"precipitation": 104
+				},
+				{
+					"heading": "Oct",
+					"high": 13.8,
+					"low": 3.4,
+					"precipitation": 91
+				},
+				{
+					"heading": "Nov",
+					"high": 6.7,
+					"low": -0.5,
+					"precipitation": 96
+				},
+				{
+					"heading": "Dec",
+					"high": 2.3,
+					"low": -4.3,
+					"precipitation": 104
+				}
+			]
+		},
+		"Vöcklabruck": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 187,
+					"high": -2,
+					"low": -8
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 114,
+					"high": 1,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 89,
+					"high": 6,
+					"low": -3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 90,
+					"high": 15,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 197,
+					"high": 19,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 210,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 187,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 213,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 176,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 130,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 111,
+					"high": 5,
+					"low": -3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 96,
+					"high": -3,
+					"low": -9
+				}
+			]
+		},
+		"Bad Aussee": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 187,
+					"high": -7,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 114,
+					"high": -6,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 89,
+					"high": 2,
+					"low": -6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 90,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "May",
+					"precipitation": 197,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 210,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 187,
+					"high": 21,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 213,
+					"high": 17,
+					"low": 11
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 176,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 130,
+					"high": 9,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 111,
+					"high": 1,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 96,
+					"high": -6,
+					"low": -9
+				}
+			]
+		}
+	}
+}

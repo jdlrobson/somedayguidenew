@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Phnom Penh": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 21.8,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Feb",
+					"high": 33.2,
+					"low": 22.8,
+					"precipitation": 6.6
+				},
+				{
+					"heading": "Mar",
+					"high": 34.6,
+					"low": 24.3,
+					"precipitation": 34.8
+				},
+				{
+					"heading": "Apr",
+					"high": 35.3,
+					"low": 25.5,
+					"precipitation": 78.8
+				},
+				{
+					"heading": "May",
+					"high": 34.8,
+					"low": 25.6,
+					"precipitation": 118.2
+				},
+				{
+					"heading": "Jun",
+					"high": 33.8,
+					"low": 24.9,
+					"precipitation": 145
+				},
+				{
+					"heading": "Jul",
+					"high": 32.9,
+					"low": 24.8,
+					"precipitation": 162.1
+				},
+				{
+					"heading": "Aug",
+					"high": 32.7,
+					"low": 24.6,
+					"precipitation": 182.7
+				},
+				{
+					"heading": "Sep",
+					"high": 32.2,
+					"low": 24.4,
+					"precipitation": 270.9
+				},
+				{
+					"heading": "Oct",
+					"high": 31.4,
+					"low": 24.2,
+					"precipitation": 248.1
+				},
+				{
+					"heading": "Nov",
+					"high": 31.1,
+					"low": 23.2,
+					"precipitation": 120.5
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 21.9,
+					"precipitation": 32.1
+				}
+			]
+		},
+		"Banlung": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 8,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 8,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 19,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 171,
+					"high": 30,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 292,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 341,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 508,
+					"high": 25,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 429,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 538,
+					"high": 26,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 156,
+					"high": 25,
+					"low": 19
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 71,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 14,
+					"high": 26,
+					"low": 18
+				}
+			]
+		},
+		"Battambang": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 19,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Feb",
+					"high": 33,
+					"low": 21,
+					"precipitation": 18
+				},
+				{
+					"heading": "Mar",
+					"high": 35,
+					"low": 23,
+					"precipitation": 48
+				},
+				{
+					"heading": "Apr",
+					"high": 36,
+					"low": 24,
+					"precipitation": 86
+				},
+				{
+					"heading": "May",
+					"high": 34,
+					"low": 24,
+					"precipitation": 160
+				},
+				{
+					"heading": "Jun",
+					"high": 33,
+					"low": 24,
+					"precipitation": 150
+				},
+				{
+					"heading": "Jul",
+					"high": 32,
+					"low": 24,
+					"precipitation": 150
+				},
+				{
+					"heading": "Aug",
+					"high": 32,
+					"low": 24,
+					"precipitation": 150
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 24,
+					"precipitation": 260
+				},
+				{
+					"heading": "Oct",
+					"high": 30,
+					"low": 23,
+					"precipitation": 220
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 22,
+					"precipitation": 84
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 20,
+					"precipitation": 25
+				}
+			]
+		},
+		"Siem Reap": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0.7,
+					"high": 32,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 3.5,
+					"high": 33,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 28,
+					"high": 35,
+					"low": 26
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 61,
+					"high": 36,
+					"low": 25
+				},
+				{
+					"heading": "May",
+					"precipitation": 176,
+					"high": 35,
+					"low": 25
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 221,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 237,
+					"high": 33,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 151,
+					"high": 32,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 276,
+					"high": 32,
+					"low": 25
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 248,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 82,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 10,
+					"high": 31,
+					"low": 20
+				}
+			]
+		},
+		"Sihanoukville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.3,
+					"low": 23.9,
+					"precipitation": 28.3
+				},
+				{
+					"heading": "Feb",
+					"high": 31.2,
+					"low": 24.6,
+					"precipitation": 25.2
+				},
+				{
+					"heading": "Mar",
+					"high": 32.1,
+					"low": 25.4,
+					"precipitation": 50.3
+				},
+				{
+					"heading": "Apr",
+					"high": 33.7,
+					"low": 25,
+					"precipitation": 124.8
+				},
+				{
+					"heading": "May",
+					"high": 32.3,
+					"low": 26.8,
+					"precipitation": 207.3
+				},
+				{
+					"heading": "Jun",
+					"high": 31.2,
+					"low": 26.3,
+					"precipitation": 252.7
+				},
+				{
+					"heading": "Jul",
+					"high": 30,
+					"low": 25.9,
+					"precipitation": 341.4
+				},
+				{
+					"heading": "Aug",
+					"high": 30.8,
+					"low": 25.1,
+					"precipitation": 377.2
+				},
+				{
+					"heading": "Sep",
+					"high": 30.8,
+					"low": 25.2,
+					"precipitation": 320.6
+				},
+				{
+					"heading": "Oct",
+					"high": 30.8,
+					"low": 24.7,
+					"precipitation": 290.4
+				},
+				{
+					"heading": "Nov",
+					"high": 31.2,
+					"low": 24.4,
+					"precipitation": 138.2
+				},
+				{
+					"heading": "Dec",
+					"high": 31.7,
+					"low": 23.5,
+					"precipitation": 54.4
+				}
+			]
+		},
+		"Kampong Cham": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.5,
+					"low": 20.8,
+					"precipitation": 4
+				},
+				{
+					"heading": "Feb",
+					"high": 32.9,
+					"low": 21.9,
+					"precipitation": 5
+				},
+				{
+					"heading": "Mar",
+					"high": 34.1,
+					"low": 25,
+					"precipitation": 33
+				},
+				{
+					"heading": "Apr",
+					"high": 34.7,
+					"low": 24.8,
+					"precipitation": 86
+				},
+				{
+					"heading": "May",
+					"high": 33.5,
+					"low": 24.7,
+					"precipitation": 242
+				},
+				{
+					"heading": "Jun",
+					"high": 32.2,
+					"low": 24.1,
+					"precipitation": 228
+				},
+				{
+					"heading": "Jul",
+					"high": 31.4,
+					"low": 23.9,
+					"precipitation": 224
+				},
+				{
+					"heading": "Aug",
+					"high": 31.5,
+					"low": 24,
+					"precipitation": 271
+				},
+				{
+					"heading": "Sep",
+					"high": 31.1,
+					"low": 23.8,
+					"precipitation": 263
+				},
+				{
+					"heading": "Oct",
+					"high": 30.8,
+					"low": 23.5,
+					"precipitation": 247
+				},
+				{
+					"heading": "Nov",
+					"high": 30.8,
+					"low": 22.7,
+					"precipitation": 106
+				},
+				{
+					"heading": "Dec",
+					"high": 30.7,
+					"low": 21.5,
+					"precipitation": 12
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,1146 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Meru": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 19.1,
+					"low": 17.2,
+					"precipitation": 54.1
+				},
+				{
+					"heading": "Feb",
+					"high": 21,
+					"low": 17.7,
+					"precipitation": 32.3
+				},
+				{
+					"heading": "Mar",
+					"high": 21.7,
+					"low": 18.4,
+					"precipitation": 119.4
+				},
+				{
+					"heading": "Apr",
+					"high": 22.9,
+					"low": 16.4,
+					"precipitation": 280.8
+				},
+				{
+					"heading": "May",
+					"high": 20.8,
+					"low": 16.9,
+					"precipitation": 139.7
+				},
+				{
+					"heading": "Jun",
+					"high": 20,
+					"low": 14.8,
+					"precipitation": 9.1
+				},
+				{
+					"heading": "Jul",
+					"high": 20.6,
+					"low": 13.5,
+					"precipitation": 11.1
+				},
+				{
+					"heading": "Aug",
+					"high": 19.7,
+					"low": 15.2,
+					"precipitation": 10.6
+				},
+				{
+					"heading": "Sep",
+					"high": 20.5,
+					"low": 17.2,
+					"precipitation": 19.2
+				},
+				{
+					"heading": "Oct",
+					"high": 22.5,
+					"low": 16.6,
+					"precipitation": 229.8
+				},
+				{
+					"heading": "Nov",
+					"high": 20.9,
+					"low": 16,
+					"precipitation": 317
+				},
+				{
+					"heading": "Dec",
+					"high": 18.4,
+					"low": 17.1,
+					"precipitation": 142.9
+				}
+			]
+		},
+		"Malindi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 23.3,
+					"precipitation": 11
+				},
+				{
+					"heading": "Feb",
+					"high": 30.9,
+					"low": 23.5,
+					"precipitation": 17
+				},
+				{
+					"heading": "Mar",
+					"high": 31.8,
+					"low": 23.9,
+					"precipitation": 36
+				},
+				{
+					"heading": "Apr",
+					"high": 31.1,
+					"low": 24.2,
+					"precipitation": 163
+				},
+				{
+					"heading": "May",
+					"high": 28.8,
+					"low": 23.4,
+					"precipitation": 298
+				},
+				{
+					"heading": "Jun",
+					"high": 27.9,
+					"low": 22.6,
+					"precipitation": 154
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 22,
+					"precipitation": 91
+				},
+				{
+					"heading": "Aug",
+					"high": 27.4,
+					"low": 21.6,
+					"precipitation": 64
+				},
+				{
+					"heading": "Sep",
+					"high": 28.3,
+					"low": 21.7,
+					"precipitation": 47
+				},
+				{
+					"heading": "Oct",
+					"high": 29.6,
+					"low": 22.2,
+					"precipitation": 68
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 22.8,
+					"precipitation": 75
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 23.4,
+					"precipitation": 35
+				}
+			]
+		},
+		"Lamu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.9,
+					"low": 24.5,
+					"precipitation": 6
+				},
+				{
+					"heading": "Feb",
+					"high": 31.3,
+					"low": 24.7,
+					"precipitation": 4
+				},
+				{
+					"heading": "Mar",
+					"high": 32.1,
+					"low": 25.5,
+					"precipitation": 25
+				},
+				{
+					"heading": "Apr",
+					"high": 31.1,
+					"low": 25.6,
+					"precipitation": 130
+				},
+				{
+					"heading": "May",
+					"high": 29,
+					"low": 24.5,
+					"precipitation": 329
+				},
+				{
+					"heading": "Jun",
+					"high": 28,
+					"low": 23.7,
+					"precipitation": 164
+				},
+				{
+					"heading": "Jul",
+					"high": 27.4,
+					"low": 23.2,
+					"precipitation": 75
+				},
+				{
+					"heading": "Aug",
+					"high": 27.5,
+					"low": 23.1,
+					"precipitation": 40
+				},
+				{
+					"heading": "Sep",
+					"high": 28.3,
+					"low": 23.5,
+					"precipitation": 39
+				},
+				{
+					"heading": "Oct",
+					"high": 29.5,
+					"low": 24.3,
+					"precipitation": 40
+				},
+				{
+					"heading": "Nov",
+					"high": 30.8,
+					"low": 24.6,
+					"precipitation": 39
+				},
+				{
+					"heading": "Dec",
+					"high": 31.2,
+					"low": 24.6,
+					"precipitation": 28
+				}
+			]
+		},
+		"Kisumu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.6,
+					"low": 23.8,
+					"precipitation": 79
+				},
+				{
+					"heading": "Feb",
+					"high": 30.8,
+					"low": 24.1,
+					"precipitation": 84
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 24.1,
+					"precipitation": 169
+				},
+				{
+					"heading": "Apr",
+					"high": 28.8,
+					"low": 23.4,
+					"precipitation": 213
+				},
+				{
+					"heading": "May",
+					"high": 28.2,
+					"low": 22.8,
+					"precipitation": 167
+				},
+				{
+					"heading": "Jun",
+					"high": 27.9,
+					"low": 22.2,
+					"precipitation": 85
+				},
+				{
+					"heading": "Jul",
+					"high": 27.7,
+					"low": 21.9,
+					"precipitation": 85
+				},
+				{
+					"heading": "Aug",
+					"high": 28.2,
+					"low": 22.2,
+					"precipitation": 81
+				},
+				{
+					"heading": "Sep",
+					"high": 29.4,
+					"low": 22.8,
+					"precipitation": 90
+				},
+				{
+					"heading": "Oct",
+					"high": 30.5,
+					"low": 23.8,
+					"precipitation": 95
+				},
+				{
+					"heading": "Nov",
+					"high": 30.1,
+					"low": 23.7,
+					"precipitation": 139
+				},
+				{
+					"heading": "Dec",
+					"high": 29.9,
+					"low": 23.5,
+					"precipitation": 101
+				}
+			]
+		},
+		"Kakamega Rainforest": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 61,
+					"high": 30,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 105,
+					"high": 30,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 163,
+					"high": 30,
+					"low": 13
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 264,
+					"high": 29,
+					"low": 13
+				},
+				{
+					"heading": "May",
+					"precipitation": 273,
+					"high": 28,
+					"low": 12
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 182,
+					"high": 27,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 158,
+					"high": 28,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 211,
+					"high": 27,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 175,
+					"high": 28,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 144,
+					"high": 29,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 140,
+					"high": 29,
+					"low": 12
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 95,
+					"high": 29,
+					"low": 12
+				}
+			]
+		},
+		"Mombasa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 33,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 15,
+					"high": 32,
+					"low": 24
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 56,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 163,
+					"high": 31,
+					"low": 24
+				},
+				{
+					"heading": "May",
+					"precipitation": 240,
+					"high": 29,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 80,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 70,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 72,
+					"high": 29,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 97,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 92,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 75,
+					"high": 32,
+					"low": 23
+				}
+			]
+		},
+		"Nairobi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 26.7,
+					"low": 12.9,
+					"precipitation": 42.1
+				},
+				{
+					"heading": "Feb",
+					"high": 27.9,
+					"low": 13.1,
+					"precipitation": 48.3
+				},
+				{
+					"heading": "Mar",
+					"high": 27.5,
+					"low": 14.1,
+					"precipitation": 68.8
+				},
+				{
+					"heading": "Apr",
+					"high": 26,
+					"low": 14.9,
+					"precipitation": 157.2
+				},
+				{
+					"heading": "May",
+					"high": 24.5,
+					"low": 14.3,
+					"precipitation": 108.3
+				},
+				{
+					"heading": "Jun",
+					"high": 23.7,
+					"low": 12.3,
+					"precipitation": 26.5
+				},
+				{
+					"heading": "Jul",
+					"high": 22.6,
+					"low": 11.4,
+					"precipitation": 11.5
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 11.5,
+					"precipitation": 13.6
+				},
+				{
+					"heading": "Sep",
+					"high": 25.6,
+					"low": 12,
+					"precipitation": 24.8
+				},
+				{
+					"heading": "Oct",
+					"high": 26.6,
+					"low": 13.3,
+					"precipitation": 43.3
+				},
+				{
+					"heading": "Nov",
+					"high": 24.9,
+					"low": 14,
+					"precipitation": 120.9
+				},
+				{
+					"heading": "Dec",
+					"high": 25.3,
+					"low": 13.5,
+					"precipitation": 79.8
+				}
+			]
+		},
+		"Nakuru": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.3,
+					"low": 8.7,
+					"precipitation": 29
+				},
+				{
+					"heading": "Feb",
+					"high": 27.9,
+					"low": 9.2,
+					"precipitation": 45
+				},
+				{
+					"heading": "Mar",
+					"high": 28,
+					"low": 9.9,
+					"precipitation": 69
+				},
+				{
+					"heading": "Apr",
+					"high": 25.8,
+					"low": 11.6,
+					"precipitation": 141
+				},
+				{
+					"heading": "May",
+					"high": 24.8,
+					"low": 11.2,
+					"precipitation": 130
+				},
+				{
+					"heading": "Jun",
+					"high": 24.4,
+					"low": 10.2,
+					"precipitation": 79
+				},
+				{
+					"heading": "Jul",
+					"high": 23.8,
+					"low": 10.1,
+					"precipitation": 92
+				},
+				{
+					"heading": "Aug",
+					"high": 24.1,
+					"low": 9.8,
+					"precipitation": 105
+				},
+				{
+					"heading": "Sep",
+					"high": 25.5,
+					"low": 8.9,
+					"precipitation": 89
+				},
+				{
+					"heading": "Oct",
+					"high": 25.3,
+					"low": 9.1,
+					"precipitation": 70
+				},
+				{
+					"heading": "Nov",
+					"high": 24.4,
+					"low": 10,
+					"precipitation": 70
+				},
+				{
+					"heading": "Dec",
+					"high": 25.8,
+					"low": 8.9,
+					"precipitation": 44
+				}
+			]
+		},
+		"Garissa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 36.7,
+					"low": 22.6,
+					"precipitation": 11.9
+				},
+				{
+					"heading": "Feb",
+					"high": 37.8,
+					"low": 23.3,
+					"precipitation": 5.5
+				},
+				{
+					"heading": "Mar",
+					"high": 38.3,
+					"low": 24.4,
+					"precipitation": 48.6
+				},
+				{
+					"heading": "Apr",
+					"high": 37,
+					"low": 24.5,
+					"precipitation": 89.7
+				},
+				{
+					"heading": "May",
+					"high": 35.8,
+					"low": 23.3,
+					"precipitation": 15.5
+				},
+				{
+					"heading": "Jun",
+					"high": 34.1,
+					"low": 21.8,
+					"precipitation": 5.2
+				},
+				{
+					"heading": "Jul",
+					"high": 33.6,
+					"low": 21.2,
+					"precipitation": 3.4
+				},
+				{
+					"heading": "Aug",
+					"high": 33.8,
+					"low": 21.3,
+					"precipitation": 6.6
+				},
+				{
+					"heading": "Sep",
+					"high": 35.1,
+					"low": 21.7,
+					"precipitation": 8.4
+				},
+				{
+					"heading": "Oct",
+					"high": 36.3,
+					"low": 23.1,
+					"precipitation": 30
+				},
+				{
+					"heading": "Nov",
+					"high": 36.2,
+					"low": 23.6,
+					"precipitation": 96.9
+				},
+				{
+					"heading": "Dec",
+					"high": 35.4,
+					"low": 23,
+					"precipitation": 51.9
+				}
+			]
+		},
+		"Lodwar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 35.5,
+					"low": 21.9,
+					"precipitation": 8.6
+				},
+				{
+					"heading": "Feb",
+					"high": 36.2,
+					"low": 23,
+					"precipitation": 9.5
+				},
+				{
+					"heading": "Mar",
+					"high": 36.2,
+					"low": 24,
+					"precipitation": 18.9
+				},
+				{
+					"heading": "Apr",
+					"high": 34.8,
+					"low": 24.4,
+					"precipitation": 58
+				},
+				{
+					"heading": "May",
+					"high": 34.8,
+					"low": 24.5,
+					"precipitation": 21.3
+				},
+				{
+					"heading": "Jun",
+					"high": 34.1,
+					"low": 24.1,
+					"precipitation": 7.6
+				},
+				{
+					"heading": "Jul",
+					"high": 33.2,
+					"low": 23.7,
+					"precipitation": 20.2
+				},
+				{
+					"heading": "Aug",
+					"high": 33.6,
+					"low": 23.8,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "Sep",
+					"high": 34.9,
+					"low": 24.3,
+					"precipitation": 5.1
+				},
+				{
+					"heading": "Oct",
+					"high": 35.4,
+					"low": 24.8,
+					"precipitation": 10.2
+				},
+				{
+					"heading": "Nov",
+					"high": 34.5,
+					"low": 23.7,
+					"precipitation": 28.4
+				},
+				{
+					"heading": "Dec",
+					"high": 34.8,
+					"low": 22.3,
+					"precipitation": 14
+				}
+			]
+		},
+		"Embu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.7,
+					"low": 13.7,
+					"precipitation": 41
+				},
+				{
+					"heading": "Feb",
+					"high": 30.3,
+					"low": 14.3,
+					"precipitation": 34
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 16.3,
+					"precipitation": 64
+				},
+				{
+					"heading": "Apr",
+					"high": 28.6,
+					"low": 17.4,
+					"precipitation": 218
+				},
+				{
+					"heading": "May",
+					"high": 27.2,
+					"low": 17.2,
+					"precipitation": 139
+				},
+				{
+					"heading": "Jun",
+					"high": 26.4,
+					"low": 15.6,
+					"precipitation": 21
+				},
+				{
+					"heading": "Jul",
+					"high": 25.1,
+					"low": 15.2,
+					"precipitation": 28
+				},
+				{
+					"heading": "Aug",
+					"high": 25.4,
+					"low": 15.2,
+					"precipitation": 11
+				},
+				{
+					"heading": "Sep",
+					"high": 28.2,
+					"low": 15.8,
+					"precipitation": 17
+				},
+				{
+					"heading": "Oct",
+					"high": 29.5,
+					"low": 16.9,
+					"precipitation": 86
+				},
+				{
+					"heading": "Nov",
+					"high": 27.5,
+					"low": 16.4,
+					"precipitation": 189
+				},
+				{
+					"heading": "Dec",
+					"high": 27.2,
+					"low": 14.7,
+					"precipitation": 45
+				}
+			]
+		},
+		"Nanyuki": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 25,
+					"low": 7,
+					"precipitation": 13
+				},
+				{
+					"heading": "Feb",
+					"high": 26,
+					"low": 8,
+					"precipitation": 23
+				},
+				{
+					"heading": "Mar",
+					"high": 25,
+					"low": 9,
+					"precipitation": 46
+				},
+				{
+					"heading": "Apr",
+					"high": 23,
+					"low": 11,
+					"precipitation": 120
+				},
+				{
+					"heading": "May",
+					"high": 23,
+					"low": 10,
+					"precipitation": 81
+				},
+				{
+					"heading": "Jun",
+					"high": 23,
+					"low": 9,
+					"precipitation": 51
+				},
+				{
+					"heading": "Jul",
+					"high": 22,
+					"low": 8,
+					"precipitation": 69
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 8,
+					"precipitation": 66
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 8,
+					"precipitation": 48
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 8,
+					"precipitation": 64
+				},
+				{
+					"heading": "Nov",
+					"high": 23,
+					"low": 9,
+					"precipitation": 86
+				},
+				{
+					"heading": "Dec",
+					"high": 23,
+					"low": 8,
+					"precipitation": 38
+				}
+			]
+		},
+		"Voi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.6,
+					"low": 20.1,
+					"precipitation": 34
+				},
+				{
+					"heading": "Feb",
+					"high": 32.9,
+					"low": 20.2,
+					"precipitation": 29
+				},
+				{
+					"heading": "Mar",
+					"high": 33.3,
+					"low": 20.8,
+					"precipitation": 79
+				},
+				{
+					"heading": "Apr",
+					"high": 31.8,
+					"low": 20.4,
+					"precipitation": 100
+				},
+				{
+					"heading": "May",
+					"high": 29.9,
+					"low": 20,
+					"precipitation": 30
+				},
+				{
+					"heading": "Jun",
+					"high": 29,
+					"low": 18.3,
+					"precipitation": 6
+				},
+				{
+					"heading": "Jul",
+					"high": 28.1,
+					"low": 17.5,
+					"precipitation": 3
+				},
+				{
+					"heading": "Aug",
+					"high": 28,
+					"low": 17.2,
+					"precipitation": 8
+				},
+				{
+					"heading": "Sep",
+					"high": 29.2,
+					"low": 17.6,
+					"precipitation": 15
+				},
+				{
+					"heading": "Oct",
+					"high": 31.1,
+					"low": 18.9,
+					"precipitation": 26
+				},
+				{
+					"heading": "Nov",
+					"high": 31.4,
+					"low": 20.1,
+					"precipitation": 106
+				},
+				{
+					"heading": "Dec",
+					"high": 30.6,
+					"low": 20.4,
+					"precipitation": 119
+				}
+			]
+		},
+		"Lake Naivasha": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 84,
+					"high": 32,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 79,
+					"high": 33,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 126,
+					"high": 34,
+					"low": 13
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 268,
+					"high": 27,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 186,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 122,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 127,
+					"high": 26,
+					"low": 9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 140,
+					"high": 28,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 150,
+					"high": 30,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 179,
+					"high": 29,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 169,
+					"high": 26,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 193,
+					"high": 31,
+					"low": 11
+				}
+			]
+		},
+		"Nyeri": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 38,
+					"high": 28,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 48,
+					"high": 31,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 84,
+					"high": 28,
+					"low": 13
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 255,
+					"high": 25,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 135,
+					"high": 22,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 70,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 71,
+					"high": 21,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 80,
+					"high": 21,
+					"low": 7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 67,
+					"high": 28,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 110,
+					"high": 30,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 136,
+					"high": 23,
+					"low": 10
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 124,
+					"high": 25,
+					"low": 13
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,918 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Bucharest": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 40,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 36,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 38,
+					"high": 11,
+					"low": 0
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 46,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 70,
+					"high": 23,
+					"low": 11
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 77,
+					"high": 27,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 64,
+					"high": 29,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 58,
+					"high": 29,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 42,
+					"high": 25,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 32,
+					"high": 18,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 49,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 43,
+					"high": 4,
+					"low": null
+				}
+			]
+		},
+		"Brașov": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.3,
+					"low": -8.3,
+					"precipitation": 31
+				},
+				{
+					"heading": "Feb",
+					"high": 1.7,
+					"low": -6.2,
+					"precipitation": 28
+				},
+				{
+					"heading": "Mar",
+					"high": 7.6,
+					"low": -2.3,
+					"precipitation": 30
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 2.6,
+					"precipitation": 50
+				},
+				{
+					"heading": "May",
+					"high": 19.2,
+					"low": 7.6,
+					"precipitation": 79
+				},
+				{
+					"heading": "Jun",
+					"high": 22.1,
+					"low": 10.8,
+					"precipitation": 97
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 12.3,
+					"precipitation": 94
+				},
+				{
+					"heading": "Aug",
+					"high": 23.9,
+					"low": 11.8,
+					"precipitation": 73
+				},
+				{
+					"heading": "Sep",
+					"high": 20.3,
+					"low": 8.1,
+					"precipitation": 49
+				},
+				{
+					"heading": "Oct",
+					"high": 14.5,
+					"low": 3,
+					"precipitation": 38
+				},
+				{
+					"heading": "Nov",
+					"high": 7.2,
+					"low": -1,
+					"precipitation": 36
+				},
+				{
+					"heading": "Dec",
+					"high": 1.5,
+					"low": -5.2,
+					"precipitation": 32
+				}
+			]
+		},
+		"Cluj-Napoca": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.5,
+					"low": -5.7,
+					"precipitation": 25.7
+				},
+				{
+					"heading": "Feb",
+					"high": 3,
+					"low": -4.8,
+					"precipitation": 24.5
+				},
+				{
+					"heading": "Mar",
+					"high": 9.5,
+					"low": -0.6,
+					"precipitation": 31
+				},
+				{
+					"heading": "Apr",
+					"high": 15.8,
+					"low": 4.3,
+					"precipitation": 50.9
+				},
+				{
+					"heading": "May",
+					"high": 21.2,
+					"low": 8.9,
+					"precipitation": 66.9
+				},
+				{
+					"heading": "Jun",
+					"high": 23.8,
+					"low": 12,
+					"precipitation": 90.5
+				},
+				{
+					"heading": "Jul",
+					"high": 25.9,
+					"low": 13.7,
+					"precipitation": 85.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.8,
+					"low": 13.2,
+					"precipitation": 65.9
+				},
+				{
+					"heading": "Sep",
+					"high": 20.9,
+					"low": 9.2,
+					"precipitation": 48.5
+				},
+				{
+					"heading": "Oct",
+					"high": 15.2,
+					"low": 4.4,
+					"precipitation": 37.2
+				},
+				{
+					"heading": "Nov",
+					"high": 7.4,
+					"low": -0.3,
+					"precipitation": 32.1
+				},
+				{
+					"heading": "Dec",
+					"high": 1.6,
+					"low": -4.2,
+					"precipitation": 35.5
+				}
+			]
+		},
+		"Constanța": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.5,
+					"low": -1.4,
+					"precipitation": 27.6
+				},
+				{
+					"heading": "Feb",
+					"high": 5.7,
+					"low": -0.7,
+					"precipitation": 24
+				},
+				{
+					"heading": "Mar",
+					"high": 9.3,
+					"low": 2.7,
+					"precipitation": 34
+				},
+				{
+					"heading": "Apr",
+					"high": 14.1,
+					"low": 7.3,
+					"precipitation": 31.8
+				},
+				{
+					"heading": "May",
+					"high": 20,
+					"low": 12.5,
+					"precipitation": 37.9
+				},
+				{
+					"heading": "Jun",
+					"high": 24.7,
+					"low": 16.9,
+					"precipitation": 40.4
+				},
+				{
+					"heading": "Jul",
+					"high": 27.2,
+					"low": 19.1,
+					"precipitation": 37.5
+				},
+				{
+					"heading": "Aug",
+					"high": 27.1,
+					"low": 19,
+					"precipitation": 35.2
+				},
+				{
+					"heading": "Sep",
+					"high": 22.7,
+					"low": 14.9,
+					"precipitation": 42.1
+				},
+				{
+					"heading": "Oct",
+					"high": 17.4,
+					"low": 10.3,
+					"precipitation": 36.8
+				},
+				{
+					"heading": "Nov",
+					"high": 11.3,
+					"low": 4.9,
+					"precipitation": 45.6
+				},
+				{
+					"heading": "Dec",
+					"high": 6.2,
+					"low": 0.3,
+					"precipitation": 37
+				}
+			]
+		},
+		"Iași": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.1,
+					"low": -5.2,
+					"precipitation": 27.9
+				},
+				{
+					"heading": "Feb",
+					"high": 3.3,
+					"low": -4.2,
+					"precipitation": 25.9
+				},
+				{
+					"heading": "Mar",
+					"high": 9.3,
+					"low": -0.1,
+					"precipitation": 30.8
+				},
+				{
+					"heading": "Apr",
+					"high": 16.7,
+					"low": 5.4,
+					"precipitation": 46.1
+				},
+				{
+					"heading": "May",
+					"high": 23.1,
+					"low": 10.6,
+					"precipitation": 55.2
+				},
+				{
+					"heading": "Jun",
+					"high": 26.1,
+					"low": 14.2,
+					"precipitation": 88.2
+				},
+				{
+					"heading": "Jul",
+					"high": 28.1,
+					"low": 15.9,
+					"precipitation": 74.9
+				},
+				{
+					"heading": "Aug",
+					"high": 27.8,
+					"low": 15.2,
+					"precipitation": 54.9
+				},
+				{
+					"heading": "Sep",
+					"high": 22.4,
+					"low": 10.8,
+					"precipitation": 54.9
+				},
+				{
+					"heading": "Oct",
+					"high": 16.1,
+					"low": 5.9,
+					"precipitation": 37
+				},
+				{
+					"heading": "Nov",
+					"high": 8.1,
+					"low": 0.9,
+					"precipitation": 34.3
+				},
+				{
+					"heading": "Dec",
+					"high": 2.3,
+					"low": -3.7,
+					"precipitation": 31.6
+				}
+			]
+		},
+		"Sibiu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 1.8,
+					"low": -6.9,
+					"precipitation": 24.9
+				},
+				{
+					"heading": "Feb",
+					"high": 4.5,
+					"low": -5.9,
+					"precipitation": 25
+				},
+				{
+					"heading": "Mar",
+					"high": 10.1,
+					"low": -1.2,
+					"precipitation": 33.9
+				},
+				{
+					"heading": "Apr",
+					"high": 16,
+					"low": 3.9,
+					"precipitation": 52.8
+				},
+				{
+					"heading": "May",
+					"high": 21.3,
+					"low": 8.6,
+					"precipitation": 69
+				},
+				{
+					"heading": "Jun",
+					"high": 24.2,
+					"low": 11.6,
+					"precipitation": 92.9
+				},
+				{
+					"heading": "Jul",
+					"high": 26.3,
+					"low": 13.3,
+					"precipitation": 92
+				},
+				{
+					"heading": "Aug",
+					"high": 26.2,
+					"low": 12.7,
+					"precipitation": 76.7
+				},
+				{
+					"heading": "Sep",
+					"high": 21.4,
+					"low": 8.7,
+					"precipitation": 59.8
+				},
+				{
+					"heading": "Oct",
+					"high": 16.2,
+					"low": 3.5,
+					"precipitation": 39.9
+				},
+				{
+					"heading": "Nov",
+					"high": 9.1,
+					"low": -1.2,
+					"precipitation": 31.3
+				},
+				{
+					"heading": "Dec",
+					"high": 3.1,
+					"low": -5.3,
+					"precipitation": 31
+				}
+			]
+		},
+		"Sighișoara": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 70,
+					"high": -3,
+					"low": -9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 45,
+					"high": 2,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 46,
+					"high": 9,
+					"low": -2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 90,
+					"high": 18,
+					"low": 3
+				},
+				{
+					"heading": "May",
+					"precipitation": 146,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 96,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 81,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 69,
+					"high": 24,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 69,
+					"high": 19,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 56,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 48,
+					"high": 9,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 60,
+					"high": -2,
+					"low": -10
+				}
+			]
+		},
+		"Timișoara": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.3,
+					"low": -4.8,
+					"precipitation": 40
+				},
+				{
+					"heading": "Feb",
+					"high": 5.6,
+					"low": -2.3,
+					"precipitation": 36
+				},
+				{
+					"heading": "Mar",
+					"high": 11.9,
+					"low": 1.2,
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"high": 17.6,
+					"low": 5.8,
+					"precipitation": 48
+				},
+				{
+					"heading": "May",
+					"high": 22.8,
+					"low": 10.1,
+					"precipitation": 65
+				},
+				{
+					"heading": "Jun",
+					"high": 25.7,
+					"low": 13.4,
+					"precipitation": 76
+				},
+				{
+					"heading": "Jul",
+					"high": 27.8,
+					"low": 14.6,
+					"precipitation": 64
+				},
+				{
+					"heading": "Aug",
+					"high": 27.6,
+					"low": 14.3,
+					"precipitation": 50
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 11.2,
+					"precipitation": 40
+				},
+				{
+					"heading": "Oct",
+					"high": 18.1,
+					"low": 6.2,
+					"precipitation": 39
+				},
+				{
+					"heading": "Nov",
+					"high": 10.3,
+					"low": 2.1,
+					"precipitation": 48
+				},
+				{
+					"heading": "Dec",
+					"high": 4.2,
+					"low": -1.7,
+					"precipitation": 50
+				}
+			]
+		},
+		"Sinaia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 108,
+					"high": 2,
+					"low": -4
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 72,
+					"high": 4,
+					"low": -5
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 54,
+					"high": 8,
+					"low": -3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 117,
+					"high": 14,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 160,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 128,
+					"high": 21,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 93,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 86,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 84,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 71,
+					"high": 12,
+					"low": 5
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 57,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 91,
+					"high": 1,
+					"low": -6
+				}
+			]
+		},
+		"Predeal": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 108,
+					"high": -6,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 72,
+					"high": -1,
+					"low": -6
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 54,
+					"high": 2,
+					"low": -4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 117,
+					"high": 9,
+					"low": -1
+				},
+				{
+					"heading": "May",
+					"precipitation": 160,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 128,
+					"high": 18,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 93,
+					"high": 18,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 86,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 84,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 71,
+					"high": 10,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 57,
+					"high": 4,
+					"low": -3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 91,
+					"high": -5,
+					"low": -8
+				}
+			]
+		},
+		"Saschiz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 75,
+					"high": -4,
+					"low": -11
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 57,
+					"high": 5,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 50,
+					"high": 10,
+					"low": -3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 95,
+					"high": 17,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 139,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 117,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 87,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 81,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 64,
+					"high": 20,
+					"low": 9
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 48,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 50,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 70,
+					"high": -4,
+					"low": -10
+				}
+			]
+		},
+		"Mamaia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.7,
+					"low": -3.3,
+					"precipitation": 30
+				},
+				{
+					"heading": "Feb",
+					"high": 5,
+					"low": -1.9,
+					"precipitation": 29
+				},
+				{
+					"heading": "Mar",
+					"high": 8.3,
+					"low": 2,
+					"precipitation": 27
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 6.9,
+					"precipitation": 32
+				},
+				{
+					"heading": "May",
+					"high": 19.5,
+					"low": 12,
+					"precipitation": 39
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 16.1,
+					"precipitation": 43
+				},
+				{
+					"heading": "Jul",
+					"high": 26.1,
+					"low": 18.1,
+					"precipitation": 35
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 17.9,
+					"precipitation": 32
+				},
+				{
+					"heading": "Sep",
+					"high": 22.6,
+					"low": 14.6,
+					"precipitation": 35
+				},
+				{
+					"heading": "Oct",
+					"high": 17.1,
+					"low": 9.6,
+					"precipitation": 32
+				},
+				{
+					"heading": "Nov",
+					"high": 11.6,
+					"low": 4.9,
+					"precipitation": 43
+				},
+				{
+					"heading": "Dec",
+					"high": 6.5,
+					"low": -0.5,
+					"precipitation": 37
+				}
+			]
+		}
+	}
+}

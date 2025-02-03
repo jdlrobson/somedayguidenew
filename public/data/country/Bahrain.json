@@ -1,0 +1,234 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Manama": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 20,
+					"low": 14.1,
+					"precipitation": 14.6
+				},
+				{
+					"heading": "Feb",
+					"high": 21.2,
+					"low": 14.9,
+					"precipitation": 16
+				},
+				{
+					"heading": "Mar",
+					"high": 24.7,
+					"low": 17.8,
+					"precipitation": 13.9
+				},
+				{
+					"heading": "Apr",
+					"high": 29.2,
+					"low": 21.5,
+					"precipitation": 10
+				},
+				{
+					"heading": "May",
+					"high": 34.1,
+					"low": 26,
+					"precipitation": 1.1
+				},
+				{
+					"heading": "Jun",
+					"high": 36.4,
+					"low": 28.8,
+					"precipitation": 0
+				},
+				{
+					"heading": "Jul",
+					"high": 37.9,
+					"low": 30.4,
+					"precipitation": 0
+				},
+				{
+					"heading": "Aug",
+					"high": 38,
+					"low": 30.5,
+					"precipitation": 0
+				},
+				{
+					"heading": "Sep",
+					"high": 36.5,
+					"low": 28.6,
+					"precipitation": 0
+				},
+				{
+					"heading": "Oct",
+					"high": 33.1,
+					"low": 25.5,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Nov",
+					"high": 27.8,
+					"low": 21.2,
+					"precipitation": 3.8
+				},
+				{
+					"heading": "Dec",
+					"high": 22.3,
+					"low": 16.2,
+					"precipitation": 10.9
+				}
+			]
+		},
+		"Muharraq": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 20,
+					"high": 20,
+					"low": 15
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 4,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 18,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 10,
+					"high": 31,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 3,
+					"high": 37,
+					"low": 26
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 1,
+					"high": 39,
+					"low": 30
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 1,
+					"high": 38,
+					"low": 30
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 1,
+					"high": 42,
+					"low": 33
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 1,
+					"high": 41,
+					"low": 30
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 1,
+					"high": 37,
+					"low": 29
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 48,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 13,
+					"high": 24,
+					"low": 16
+				}
+			]
+		},
+		"Hawar Islands": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 26,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 6,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 16,
+					"high": 28,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 17,
+					"high": 33,
+					"low": 19
+				},
+				{
+					"heading": "May",
+					"precipitation": 8,
+					"high": 36,
+					"low": 25
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 3,
+					"high": 39,
+					"low": 27
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 5,
+					"high": 39,
+					"low": 28
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 3,
+					"high": 41,
+					"low": 32
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 3,
+					"high": 39,
+					"low": 28
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 1,
+					"high": 36,
+					"low": 25
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 38,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 18,
+					"high": 22,
+					"low": 14
+				}
+			]
+		}
+	}
+}

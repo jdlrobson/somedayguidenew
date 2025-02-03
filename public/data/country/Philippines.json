@@ -1,0 +1,2335 @@
+{
+	"note": "<p>Only 2.5 hours away from <strong>Manila</strong>, Batangas has a large port with boats going almost everywhere in the Philippines. Boracay is a tropical island about an hour&#39;s flight from Manila in the Philippines. Its long white sand beaches rival the best beaches of more popular destinations such as the Caribbean, the South Pacific as well as neighbouring Thailand, Malaysia and Indonesia. Someday, I&#39;ll give it a try.Be overshadowed by a beautiful volcano. The <strong>Mayon Volcano</strong> is &#39;&#39;active&#39;&#39;. Bohol is the home of the Chocolate Hills.\nThe whale sharks of Oslob are lured by fishermen who feed them. There&#39;s not much else to do here but swim with them. It&#39;s not exactly a natural experience, but you&#39;ll likely never be up so close to such magnificent creatures.. and if they were not a tourist attraction they&#39;d be food instead...</p>\n",
+	"snippets": [
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taal_Volcano_from_Tagaytay_%28001%29_2024-06-09.jpg/2560px-Taal_Volcano_from_Tagaytay_%28001%29_2024-06-09.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Taal Volcano and Taal Lake.",
+			"url": "https://en.wikipedia.org/wiki/Taal_Volcano"
+		},
+		{
+			"src": "https://farm4.static.flickr.com/3267/3100730196_7d72224918.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "The Mouth of Taal Volcano",
+			"url": "https://www.flickr.com/photos/deckchua/3100730196/sizes/m/"
+		},
+		{
+			"src": "https://farm5.static.flickr.com/4101/4781470828_f4fdb03d7f.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Mayon Volcano and the Cagsawa Ruins",
+			"url": "https://www.flickr.com/photos/zaldy_fabia/4781470828/sizes/m/"
+		},
+		{
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mayon_Volcano_and_the_Sleeping_Lion.jpg/2560px-Mayon_Volcano_and_the_Sleeping_Lion.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Mayon Volcano",
+			"url": "https://en.wikipedia.org/wiki/Mayon_Volcano"
+		},
+		{
+			"src": "https://www.instagram.com/p/cbNM4MM2Ja/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/cdkdFNM2Ld/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/cfbfd2M2O7",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/cdSVu-s2In/",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Baguio": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 15,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 23,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 46,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 104,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "May",
+					"precipitation": 341,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 476,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 782,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 905,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 571,
+					"high": 23,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 452,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 97,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 26,
+					"high": 23,
+					"low": 14
+				}
+			]
+		},
+		"Cagayan de Oro": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 99,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 68,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 50,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 53,
+					"high": 33,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 125,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 213,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 246,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 196,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 220,
+					"high": 32,
+					"low": 22
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 186,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 136,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 113,
+					"high": 30,
+					"low": 22
+				}
+			]
+		},
+		"Cebu (city)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.8,
+					"low": 23.9,
+					"precipitation": 105.2
+				},
+				{
+					"heading": "Feb",
+					"high": 30.2,
+					"low": 24,
+					"precipitation": 69.6
+				},
+				{
+					"heading": "Mar",
+					"high": 31.1,
+					"low": 24.5,
+					"precipitation": 58.6
+				},
+				{
+					"heading": "Apr",
+					"high": 32.3,
+					"low": 25.4,
+					"precipitation": 48.1
+				},
+				{
+					"heading": "May",
+					"high": 32.8,
+					"low": 25.8,
+					"precipitation": 95
+				},
+				{
+					"heading": "Jun",
+					"high": 32.1,
+					"low": 25.4,
+					"precipitation": 175.6
+				},
+				{
+					"heading": "Jul",
+					"high": 31.5,
+					"low": 24.9,
+					"precipitation": 192.9
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 25,
+					"precipitation": 143.5
+				},
+				{
+					"heading": "Sep",
+					"high": 31.8,
+					"low": 24.9,
+					"precipitation": 179.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.4,
+					"low": 24.8,
+					"precipitation": 194.8
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 24.7,
+					"precipitation": 161.9
+				},
+				{
+					"heading": "Dec",
+					"high": 30.2,
+					"low": 24.3,
+					"precipitation": 139.7
+				}
+			]
+		},
+		"Davao": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 23.3,
+					"precipitation": 140.3
+				},
+				{
+					"heading": "Feb",
+					"high": 31.2,
+					"low": 23.3,
+					"precipitation": 109.4
+				},
+				{
+					"heading": "Mar",
+					"high": 32.2,
+					"low": 23.6,
+					"precipitation": 108.4
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 24.2,
+					"precipitation": 124.7
+				},
+				{
+					"heading": "May",
+					"high": 32.6,
+					"low": 24.6,
+					"precipitation": 158.7
+				},
+				{
+					"heading": "Jun",
+					"high": 31.8,
+					"low": 24.2,
+					"precipitation": 186.7
+				},
+				{
+					"heading": "Jul",
+					"high": 31.5,
+					"low": 23.9,
+					"precipitation": 165
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 24,
+					"precipitation": 170
+				},
+				{
+					"heading": "Sep",
+					"high": 31.9,
+					"low": 23.9,
+					"precipitation": 170.4
+				},
+				{
+					"heading": "Oct",
+					"high": 32.3,
+					"low": 23.9,
+					"precipitation": 174.8
+				},
+				{
+					"heading": "Nov",
+					"high": 32.1,
+					"low": 23.9,
+					"precipitation": 138.1
+				},
+				{
+					"heading": "Dec",
+					"high": 31.4,
+					"low": 23.7,
+					"precipitation": 112.6
+				}
+			]
+		},
+		"Tagbilaran": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.1,
+					"low": 22.6,
+					"precipitation": 101
+				},
+				{
+					"heading": "Feb",
+					"high": 31.6,
+					"low": 22.5,
+					"precipitation": 79.6
+				},
+				{
+					"heading": "Mar",
+					"high": 32.4,
+					"low": 22.8,
+					"precipitation": 76.6
+				},
+				{
+					"heading": "Apr",
+					"high": 33.3,
+					"low": 23.6,
+					"precipitation": 67.5
+				},
+				{
+					"heading": "May",
+					"high": 33.5,
+					"low": 24.4,
+					"precipitation": 81.5
+				},
+				{
+					"heading": "Jun",
+					"high": 32.9,
+					"low": 24.4,
+					"precipitation": 128.2
+				},
+				{
+					"heading": "Jul",
+					"high": 32.5,
+					"low": 24.3,
+					"precipitation": 126.7
+				},
+				{
+					"heading": "Aug",
+					"high": 32.8,
+					"low": 24.5,
+					"precipitation": 116.3
+				},
+				{
+					"heading": "Sep",
+					"high": 32.8,
+					"low": 24.4,
+					"precipitation": 126.5
+				},
+				{
+					"heading": "Oct",
+					"high": 32.4,
+					"low": 24,
+					"precipitation": 176.3
+				},
+				{
+					"heading": "Nov",
+					"high": 32,
+					"low": 23.6,
+					"precipitation": 178.9
+				},
+				{
+					"heading": "Dec",
+					"high": 31.4,
+					"low": 23,
+					"precipitation": 153.6
+				}
+			]
+		},
+		"Vigan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.4,
+					"low": 21.1,
+					"precipitation": 3.5
+				},
+				{
+					"heading": "Feb",
+					"high": 30.9,
+					"low": 21.6,
+					"precipitation": 3.9
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 23.1,
+					"precipitation": 5.4
+				},
+				{
+					"heading": "Apr",
+					"high": 33.3,
+					"low": 24.5,
+					"precipitation": 16.1
+				},
+				{
+					"heading": "May",
+					"high": 33.2,
+					"low": 24.8,
+					"precipitation": 194.5
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 24.3,
+					"precipitation": 321.8
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 23.9,
+					"precipitation": 536.3
+				},
+				{
+					"heading": "Aug",
+					"high": 30.6,
+					"low": 23.7,
+					"precipitation": 630.3
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 23.7,
+					"precipitation": 382.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.5,
+					"low": 23.4,
+					"precipitation": 143.8
+				},
+				{
+					"heading": "Nov",
+					"high": 31.5,
+					"low": 23,
+					"precipitation": 36.3
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 21.8,
+					"precipitation": 2.9
+				}
+			]
+		},
+		"Zamboanga (city)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.3,
+					"low": 23.5,
+					"precipitation": 49.7
+				},
+				{
+					"heading": "Feb",
+					"high": 32.6,
+					"low": 23.6,
+					"precipitation": 43.7
+				},
+				{
+					"heading": "Mar",
+					"high": 33,
+					"low": 24,
+					"precipitation": 56.3
+				},
+				{
+					"heading": "Apr",
+					"high": 33.1,
+					"low": 24.4,
+					"precipitation": 69
+				},
+				{
+					"heading": "May",
+					"high": 32.8,
+					"low": 24.7,
+					"precipitation": 90
+				},
+				{
+					"heading": "Jun",
+					"high": 32.1,
+					"low": 24.4,
+					"precipitation": 149.1
+				},
+				{
+					"heading": "Jul",
+					"high": 31.8,
+					"low": 24.2,
+					"precipitation": 152.6
+				},
+				{
+					"heading": "Aug",
+					"high": 32.1,
+					"low": 24.3,
+					"precipitation": 144.9
+				},
+				{
+					"heading": "Sep",
+					"high": 32.3,
+					"low": 24.2,
+					"precipitation": 144.9
+				},
+				{
+					"heading": "Oct",
+					"high": 32.2,
+					"low": 24,
+					"precipitation": 178.9
+				},
+				{
+					"heading": "Nov",
+					"high": 32.5,
+					"low": 23.9,
+					"precipitation": 120.6
+				},
+				{
+					"heading": "Dec",
+					"high": 32.5,
+					"low": 23.7,
+					"precipitation": 66.8
+				}
+			]
+		},
+		"Banaue": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 24,
+					"low": 13,
+					"precipitation": 22.8
+				},
+				{
+					"heading": "Feb",
+					"high": 24,
+					"low": 13,
+					"precipitation": 26.3
+				},
+				{
+					"heading": "Mar",
+					"high": 25,
+					"low": 15,
+					"precipitation": 54.8
+				},
+				{
+					"heading": "Apr",
+					"high": 26,
+					"low": 16,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "May",
+					"high": 25,
+					"low": 16,
+					"precipitation": 313.1
+				},
+				{
+					"heading": "Jun",
+					"high": 25,
+					"low": 17,
+					"precipitation": 340.2
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 16,
+					"precipitation": 640.7
+				},
+				{
+					"heading": "Aug",
+					"high": 23,
+					"low": 16,
+					"precipitation": 748.1
+				},
+				{
+					"heading": "Sep",
+					"high": 24,
+					"low": 16,
+					"precipitation": 601.3
+				},
+				{
+					"heading": "Oct",
+					"high": 24,
+					"low": 16,
+					"precipitation": 306.4
+				},
+				{
+					"heading": "Nov",
+					"high": 24,
+					"low": 15,
+					"precipitation": 131.2
+				},
+				{
+					"heading": "Dec",
+					"high": 24,
+					"low": 14,
+					"precipitation": 42.1
+				}
+			]
+		},
+		"Boracay": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 29,
+					"precipitation": 333
+				},
+				{
+					"heading": "Feb",
+					"high": 29,
+					"low": 28,
+					"precipitation": 24
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 27,
+					"precipitation": 59
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 30,
+					"precipitation": 65
+				},
+				{
+					"heading": "May",
+					"high": 35,
+					"low": 32,
+					"precipitation": 47
+				},
+				{
+					"heading": "Jun",
+					"high": 34,
+					"low": 31,
+					"precipitation": 209
+				},
+				{
+					"heading": "Jul",
+					"high": 33,
+					"low": 30,
+					"precipitation": 196
+				},
+				{
+					"heading": "Aug",
+					"high": 33,
+					"low": 30,
+					"precipitation": 172
+				},
+				{
+					"heading": "Sep",
+					"high": 33,
+					"low": 30,
+					"precipitation": 103
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 30,
+					"precipitation": 214
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 28,
+					"precipitation": 311
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 28,
+					"precipitation": 253
+				}
+			]
+		},
+		"Donsol": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27,
+					"low": 22,
+					"precipitation": 65
+				},
+				{
+					"heading": "Feb",
+					"high": 28,
+					"low": 21,
+					"precipitation": 44
+				},
+				{
+					"heading": "Mar",
+					"high": 29,
+					"low": 22,
+					"precipitation": 42
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 23,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 24,
+					"precipitation": 87
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 150
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 184
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 153
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 163
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 24,
+					"precipitation": 154
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 23,
+					"precipitation": 127
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 23,
+					"precipitation": 100
+				}
+			]
+		},
+		"Tagaytay": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 51,
+					"high": 27,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 27,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 32,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 54,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 205,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 301,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 451,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 459,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 363,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 252,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 213,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 138,
+					"high": 27,
+					"low": 19
+				}
+			]
+		},
+		"Brooke's Point": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 23,
+					"precipitation": 64
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 23,
+					"precipitation": 55
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 23,
+					"precipitation": 90
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 24,
+					"precipitation": 93
+				},
+				{
+					"heading": "May",
+					"high": 30,
+					"low": 25,
+					"precipitation": 169
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 215
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 206
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 181
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 190
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 25,
+					"precipitation": 219
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 24,
+					"precipitation": 182
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 24,
+					"precipitation": 115
+				}
+			]
+		},
+		"Busuanga": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 21,
+					"precipitation": 30
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 21,
+					"precipitation": 26
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 22,
+					"precipitation": 39
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 24,
+					"precipitation": 58
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 25,
+					"precipitation": 192
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 283
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 341
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 323
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 317
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 24,
+					"precipitation": 231
+				},
+				{
+					"heading": "Nov",
+					"high": 30,
+					"low": 23,
+					"precipitation": 119
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 22,
+					"precipitation": 56
+				}
+			]
+		},
+		"Quezon (Palawan)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 23,
+					"precipitation": 85
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 23,
+					"precipitation": 69
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 24,
+					"precipitation": 100
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 25,
+					"precipitation": 105
+				},
+				{
+					"heading": "May",
+					"high": 30,
+					"low": 25,
+					"precipitation": 202
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 246
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 241
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 215
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 236
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 25,
+					"precipitation": 262
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 24,
+					"precipitation": 231
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 24,
+					"precipitation": 144
+				}
+			]
+		},
+		"Narra": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 24,
+					"precipitation": 85
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 24,
+					"precipitation": 69
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 24,
+					"precipitation": 100
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 25,
+					"precipitation": 105
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 25,
+					"precipitation": 202
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 246
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 241
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 215
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 236
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 25,
+					"precipitation": 262
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 25,
+					"precipitation": 231
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 24,
+					"precipitation": 144
+				}
+			]
+		},
+		"Caramoan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 27,
+					"precipitation": 151.1
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 27,
+					"precipitation": 198.89
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 28,
+					"precipitation": 106.28
+				},
+				{
+					"heading": "Apr",
+					"high": 35,
+					"low": 31,
+					"precipitation": 60.08
+				},
+				{
+					"heading": "May",
+					"high": 35,
+					"low": 31,
+					"precipitation": 63.62
+				},
+				{
+					"heading": "Jun",
+					"high": 35,
+					"low": 31,
+					"precipitation": 85.76
+				},
+				{
+					"heading": "Jul",
+					"high": 34,
+					"low": 30,
+					"precipitation": 117.53
+				},
+				{
+					"heading": "Aug",
+					"high": 35,
+					"low": 30,
+					"precipitation": 46.99
+				},
+				{
+					"heading": "Sep",
+					"high": 33,
+					"low": 29,
+					"precipitation": 52.23
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 28,
+					"precipitation": 740.22
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 28,
+					"precipitation": 522.7
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 26,
+					"precipitation": 618
+				}
+			]
+		},
+		"Roxas (Palawan)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 23,
+					"precipitation": 56
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 22,
+					"precipitation": 38
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 23,
+					"precipitation": 68
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 24,
+					"precipitation": 71
+				},
+				{
+					"heading": "May",
+					"high": 30,
+					"low": 25,
+					"precipitation": 157
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 208
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 212
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 194
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 216
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 25,
+					"precipitation": 218
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 24,
+					"precipitation": 189
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 24,
+					"precipitation": 107
+				}
+			]
+		},
+		"San Vicente": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 23,
+					"precipitation": 56
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 22,
+					"precipitation": 38
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 23,
+					"precipitation": 68
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 24,
+					"precipitation": 71
+				},
+				{
+					"heading": "May",
+					"high": 30,
+					"low": 25,
+					"precipitation": 157
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 208
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 25,
+					"precipitation": 212
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 25,
+					"precipitation": 194
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 25,
+					"precipitation": 216
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 25,
+					"precipitation": 218
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 24,
+					"precipitation": 189
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 23,
+					"precipitation": 107
+				}
+			]
+		},
+		"Taytay": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 23,
+					"precipitation": 45
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 23,
+					"precipitation": 34
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 23,
+					"precipitation": 62
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 24,
+					"precipitation": 64
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 25,
+					"precipitation": 127
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 25,
+					"precipitation": 159
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 24,
+					"precipitation": 172
+				},
+				{
+					"heading": "Aug",
+					"high": 29,
+					"low": 24,
+					"precipitation": 147
+				},
+				{
+					"heading": "Sep",
+					"high": 29,
+					"low": 24,
+					"precipitation": 167
+				},
+				{
+					"heading": "Oct",
+					"high": 29,
+					"low": 24,
+					"precipitation": 182
+				},
+				{
+					"heading": "Nov",
+					"high": 29,
+					"low": 24,
+					"precipitation": 172
+				},
+				{
+					"heading": "Dec",
+					"high": 29,
+					"low": 24,
+					"precipitation": 88
+				}
+			]
+		},
+		"Coron": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 32.4,
+					"low": 22.7,
+					"precipitation": 18.5
+				},
+				{
+					"heading": "Feb",
+					"high": 32.6,
+					"low": 22.9,
+					"precipitation": 14
+				},
+				{
+					"heading": "Mar",
+					"high": 33.2,
+					"low": 23.6,
+					"precipitation": 15.4
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 24.3,
+					"precipitation": 38.1
+				},
+				{
+					"heading": "May",
+					"high": 33.4,
+					"low": 24.4,
+					"precipitation": 198.1
+				},
+				{
+					"heading": "Jun",
+					"high": 31.7,
+					"low": 23.9,
+					"precipitation": 360.8
+				},
+				{
+					"heading": "Jul",
+					"high": 30.9,
+					"low": 23.4,
+					"precipitation": 479.9
+				},
+				{
+					"heading": "Aug",
+					"high": 30.9,
+					"low": 23.4,
+					"precipitation": 466.3
+				},
+				{
+					"heading": "Sep",
+					"high": 31.1,
+					"low": 23.5,
+					"precipitation": 447.1
+				},
+				{
+					"heading": "Oct",
+					"high": 31.8,
+					"low": 23.5,
+					"precipitation": 250.8
+				},
+				{
+					"heading": "Nov",
+					"high": 32.5,
+					"low": 23.6,
+					"precipitation": 118.6
+				},
+				{
+					"heading": "Dec",
+					"high": 32.3,
+					"low": 23.2,
+					"precipitation": 74
+				}
+			]
+		},
+		"El Nido": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27,
+					"low": 22,
+					"precipitation": 6
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 23,
+					"precipitation": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 23,
+					"precipitation": 12
+				},
+				{
+					"heading": "Apr",
+					"high": 32,
+					"low": 24,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 32,
+					"low": 25,
+					"precipitation": 117
+				},
+				{
+					"heading": "Jun",
+					"high": 31,
+					"low": 25,
+					"precipitation": 351
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 20,
+					"precipitation": 435
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 24,
+					"precipitation": 375
+				},
+				{
+					"heading": "Sep",
+					"high": 30,
+					"low": 23,
+					"precipitation": 159
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 24,
+					"precipitation": 159
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 24,
+					"precipitation": 45
+				},
+				{
+					"heading": "Dec",
+					"high": 28,
+					"low": 23,
+					"precipitation": 12
+				}
+			]
+		},
+		"Subic": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.2,
+					"low": 22.5,
+					"precipitation": 6
+				},
+				{
+					"heading": "Feb",
+					"high": 32.1,
+					"low": 22.7,
+					"precipitation": 4.2
+				},
+				{
+					"heading": "Mar",
+					"high": 33.5,
+					"low": 23.6,
+					"precipitation": 16.1
+				},
+				{
+					"heading": "Apr",
+					"high": 34.5,
+					"low": 24.8,
+					"precipitation": 22.5
+				},
+				{
+					"heading": "May",
+					"high": 33.1,
+					"low": 25.1,
+					"precipitation": 416.8
+				},
+				{
+					"heading": "Jun",
+					"high": 31.7,
+					"low": 24.8,
+					"precipitation": 385.7
+				},
+				{
+					"heading": "Jul",
+					"high": 30.9,
+					"low": 24.4,
+					"precipitation": 759.7
+				},
+				{
+					"heading": "Aug",
+					"high": 30.4,
+					"low": 24.4,
+					"precipitation": 753.5
+				},
+				{
+					"heading": "Sep",
+					"high": 30.7,
+					"low": 24.3,
+					"precipitation": 695.8
+				},
+				{
+					"heading": "Oct",
+					"high": 31.6,
+					"low": 24.2,
+					"precipitation": 214.5
+				},
+				{
+					"heading": "Nov",
+					"high": 31.7,
+					"low": 23.9,
+					"precipitation": 81.9
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 23.2,
+					"precipitation": 21.9
+				}
+			]
+		},
+		"Sorsogon City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31,
+					"low": 23,
+					"precipitation": 293
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 23,
+					"precipitation": 227
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 24,
+					"precipitation": 209
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 25,
+					"precipitation": 166
+				},
+				{
+					"heading": "May",
+					"high": 34,
+					"low": 26,
+					"precipitation": 189
+				},
+				{
+					"heading": "Jun",
+					"high": 33,
+					"low": 25,
+					"precipitation": 203
+				},
+				{
+					"heading": "Jul",
+					"high": 33,
+					"low": 24,
+					"precipitation": 231
+				},
+				{
+					"heading": "Aug",
+					"high": 33,
+					"low": 25,
+					"precipitation": 196
+				},
+				{
+					"heading": "Sep",
+					"high": 33,
+					"low": 25,
+					"precipitation": 271
+				},
+				{
+					"heading": "Oct",
+					"high": 33,
+					"low": 25,
+					"precipitation": 295
+				},
+				{
+					"heading": "Nov",
+					"high": 32,
+					"low": 25,
+					"precipitation": 387
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 24,
+					"precipitation": 539
+				}
+			]
+		},
+		"Naga": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.2,
+					"low": 20.9,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Feb",
+					"high": 31.1,
+					"low": 21.1,
+					"precipitation": 3.3
+				},
+				{
+					"heading": "Mar",
+					"high": 32.8,
+					"low": 22.5,
+					"precipitation": 7.1
+				},
+				{
+					"heading": "Apr",
+					"high": 34.3,
+					"low": 24,
+					"precipitation": 9.3
+				},
+				{
+					"heading": "May",
+					"high": 34.2,
+					"low": 24.8,
+					"precipitation": 100.4
+				},
+				{
+					"heading": "Jun",
+					"high": 32.4,
+					"low": 24.4,
+					"precipitation": 272.7
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 24.1,
+					"precipitation": 341.2
+				},
+				{
+					"heading": "Aug",
+					"high": 30.8,
+					"low": 24,
+					"precipitation": 398.3
+				},
+				{
+					"heading": "Sep",
+					"high": 31.1,
+					"low": 24,
+					"precipitation": 326
+				},
+				{
+					"heading": "Oct",
+					"high": 31.2,
+					"low": 23.5,
+					"precipitation": 230
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 22.8,
+					"precipitation": 120.4
+				},
+				{
+					"heading": "Dec",
+					"high": 30.3,
+					"low": 21.6,
+					"precipitation": 48.8
+				}
+			]
+		},
+		"Legazpi": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.8,
+					"low": 23.2,
+					"precipitation": 311.7
+				},
+				{
+					"heading": "Feb",
+					"high": 29.3,
+					"low": 23.2,
+					"precipitation": 236.4
+				},
+				{
+					"heading": "Mar",
+					"high": 30.2,
+					"low": 23.8,
+					"precipitation": 193.8
+				},
+				{
+					"heading": "Apr",
+					"high": 31.6,
+					"low": 24.7,
+					"precipitation": 171.2
+				},
+				{
+					"heading": "May",
+					"high": 32.4,
+					"low": 25.3,
+					"precipitation": 186.6
+				},
+				{
+					"heading": "Jun",
+					"high": 32.2,
+					"low": 25.1,
+					"precipitation": 230.5
+				},
+				{
+					"heading": "Jul",
+					"high": 31.5,
+					"low": 24.7,
+					"precipitation": 259.8
+				},
+				{
+					"heading": "Aug",
+					"high": 31.5,
+					"low": 24.8,
+					"precipitation": 222.5
+				},
+				{
+					"heading": "Sep",
+					"high": 31.4,
+					"low": 24.5,
+					"precipitation": 285.9
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 24.2,
+					"precipitation": 333
+				},
+				{
+					"heading": "Nov",
+					"high": 30.2,
+					"low": 24.2,
+					"precipitation": 480.3
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 23.7,
+					"precipitation": 520.2
+				}
+			]
+		},
+		"Muntinlupa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 24,
+					"precipitation": 32.9
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 24,
+					"precipitation": 31.7
+				},
+				{
+					"heading": "Mar",
+					"high": 32,
+					"low": 25,
+					"precipitation": 28.2
+				},
+				{
+					"heading": "Apr",
+					"high": 34,
+					"low": 27,
+					"precipitation": 26.9
+				},
+				{
+					"heading": "May",
+					"high": 34,
+					"low": 27,
+					"precipitation": 188.9
+				},
+				{
+					"heading": "Jun",
+					"high": 33,
+					"low": 26,
+					"precipitation": 225.7
+				},
+				{
+					"heading": "Jul",
+					"high": 32,
+					"low": 26,
+					"precipitation": 420
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 25,
+					"precipitation": 377.9
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 26,
+					"precipitation": 332.4
+				},
+				{
+					"heading": "Oct",
+					"high": 32,
+					"low": 26,
+					"precipitation": 145.1
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 26,
+					"precipitation": 128.8
+				},
+				{
+					"heading": "Dec",
+					"high": 30,
+					"low": 25,
+					"precipitation": 76.3
+				}
+			]
+		},
+		"Dumaguete": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29,
+					"low": 24.5,
+					"precipitation": 82
+				},
+				{
+					"heading": "Feb",
+					"high": 29.2,
+					"low": 24.3,
+					"precipitation": 61.4
+				},
+				{
+					"heading": "Mar",
+					"high": 30,
+					"low": 24.6,
+					"precipitation": 46.3
+				},
+				{
+					"heading": "Apr",
+					"high": 31,
+					"low": 25.2,
+					"precipitation": 53.7
+				},
+				{
+					"heading": "May",
+					"high": 31.7,
+					"low": 25.4,
+					"precipitation": 81.8
+				},
+				{
+					"heading": "Jun",
+					"high": 31.6,
+					"low": 24.9,
+					"precipitation": 129.7
+				},
+				{
+					"heading": "Jul",
+					"high": 31.3,
+					"low": 24.3,
+					"precipitation": 122.7
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 24.2,
+					"precipitation": 110.6
+				},
+				{
+					"heading": "Sep",
+					"high": 31.5,
+					"low": 24.2,
+					"precipitation": 127.3
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 24.4,
+					"precipitation": 156.7
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 24.8,
+					"precipitation": 138.7
+				},
+				{
+					"heading": "Dec",
+					"high": 29.7,
+					"low": 24.8,
+					"precipitation": 107.3
+				}
+			]
+		},
+		"Angeles": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30,
+					"low": 21,
+					"precipitation": 23
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 21,
+					"precipitation": 13
+				},
+				{
+					"heading": "Mar",
+					"high": 31,
+					"low": 21,
+					"precipitation": 18
+				},
+				{
+					"heading": "Apr",
+					"high": 33,
+					"low": 22,
+					"precipitation": 33
+				},
+				{
+					"heading": "May",
+					"high": 34,
+					"low": 23,
+					"precipitation": 130
+				},
+				{
+					"heading": "Jun",
+					"high": 34,
+					"low": 24,
+					"precipitation": 254
+				},
+				{
+					"heading": "Jul",
+					"high": 33,
+					"low": 24,
+					"precipitation": 422
+				},
+				{
+					"heading": "Aug",
+					"high": 31,
+					"low": 24,
+					"precipitation": 432
+				},
+				{
+					"heading": "Sep",
+					"high": 31,
+					"low": 24,
+					"precipitation": 356
+				},
+				{
+					"heading": "Oct",
+					"high": 31,
+					"low": 24,
+					"precipitation": 193
+				},
+				{
+					"heading": "Nov",
+					"high": 31,
+					"low": 23,
+					"precipitation": 145
+				},
+				{
+					"heading": "Dec",
+					"high": 31,
+					"low": 22,
+					"precipitation": 23
+				}
+			]
+		},
+		"Quezon City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.7,
+					"low": 20.8,
+					"precipitation": 18.5
+				},
+				{
+					"heading": "Feb",
+					"high": 30.5,
+					"low": 20.9,
+					"precipitation": 14.6
+				},
+				{
+					"heading": "Mar",
+					"high": 31.6,
+					"low": 22.1,
+					"precipitation": 24.8
+				},
+				{
+					"heading": "Apr",
+					"high": 33.3,
+					"low": 23.7,
+					"precipitation": 40.4
+				},
+				{
+					"heading": "May",
+					"high": 34.7,
+					"low": 24.7,
+					"precipitation": 186.7
+				},
+				{
+					"heading": "Jun",
+					"high": 33.9,
+					"low": 25.5,
+					"precipitation": 316.5
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 26.2,
+					"precipitation": 493.3
+				},
+				{
+					"heading": "Aug",
+					"high": 32.2,
+					"low": 26,
+					"precipitation": 504.2
+				},
+				{
+					"heading": "Sep",
+					"high": 32,
+					"low": 25.6,
+					"precipitation": 451.2
+				},
+				{
+					"heading": "Oct",
+					"high": 31.5,
+					"low": 23.9,
+					"precipitation": 296.6
+				},
+				{
+					"heading": "Nov",
+					"high": 30.9,
+					"low": 22.1,
+					"precipitation": 148.8
+				},
+				{
+					"heading": "Dec",
+					"high": 29.8,
+					"low": 21.4,
+					"precipitation": 78.7
+				}
+			]
+		},
+		"Manila": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.6,
+					"low": 21.2,
+					"precipitation": 17.3
+				},
+				{
+					"heading": "Feb",
+					"high": 30.5,
+					"low": 21.3,
+					"precipitation": 14.2
+				},
+				{
+					"heading": "Mar",
+					"high": 31.9,
+					"low": 21.4,
+					"precipitation": 15.8
+				},
+				{
+					"heading": "Apr",
+					"high": 33.3,
+					"low": 22.5,
+					"precipitation": 23.7
+				},
+				{
+					"heading": "May",
+					"high": 34.4,
+					"low": 24.9,
+					"precipitation": 147.2
+				},
+				{
+					"heading": "Jun",
+					"high": 33.5,
+					"low": 26.4,
+					"precipitation": 253.5
+				},
+				{
+					"heading": "Jul",
+					"high": 32.4,
+					"low": 25.8,
+					"precipitation": 420.5
+				},
+				{
+					"heading": "Aug",
+					"high": 32.3,
+					"low": 25.4,
+					"precipitation": 432.4
+				},
+				{
+					"heading": "Sep",
+					"high": 32.1,
+					"low": 24.6,
+					"precipitation": 355.1
+				},
+				{
+					"heading": "Oct",
+					"high": 31.4,
+					"low": 23.3,
+					"precipitation": 234.8
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 22.2,
+					"precipitation": 121.7
+				},
+				{
+					"heading": "Dec",
+					"high": 29.8,
+					"low": 21.6,
+					"precipitation": 67.4
+				}
+			]
+		}
+	}
+}

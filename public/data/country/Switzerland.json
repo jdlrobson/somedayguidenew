@@ -1,0 +1,924 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/n5lwdas2Gd",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Berne": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.8,
+					"low": -3.6,
+					"precipitation": 60
+				},
+				{
+					"heading": "Feb",
+					"high": 4.7,
+					"low": -3.1,
+					"precipitation": 55
+				},
+				{
+					"heading": "Mar",
+					"high": 9.5,
+					"low": 0.2,
+					"precipitation": 73
+				},
+				{
+					"heading": "Apr",
+					"high": 13.4,
+					"low": 3,
+					"precipitation": 82
+				},
+				{
+					"heading": "May",
+					"high": 18.2,
+					"low": 7.4,
+					"precipitation": 119
+				},
+				{
+					"heading": "Jun",
+					"high": 21.6,
+					"low": 10.5,
+					"precipitation": 111
+				},
+				{
+					"heading": "Jul",
+					"high": 24.3,
+					"low": 12.5,
+					"precipitation": 106
+				},
+				{
+					"heading": "Aug",
+					"high": 23.7,
+					"low": 12.3,
+					"precipitation": 116
+				},
+				{
+					"heading": "Sep",
+					"high": 19.1,
+					"low": 8.9,
+					"precipitation": 99
+				},
+				{
+					"heading": "Oct",
+					"high": 13.8,
+					"low": 5.4,
+					"precipitation": 88
+				},
+				{
+					"heading": "Nov",
+					"high": 7.3,
+					"low": 0.4,
+					"precipitation": 76
+				},
+				{
+					"heading": "Dec",
+					"high": 3.5,
+					"low": -2.3,
+					"precipitation": 74
+				}
+			]
+		},
+		"Basel": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.5,
+					"low": -1.1,
+					"precipitation": 47
+				},
+				{
+					"heading": "Feb",
+					"high": 6.4,
+					"low": -0.5,
+					"precipitation": 45
+				},
+				{
+					"heading": "Mar",
+					"high": 11.2,
+					"low": 2.5,
+					"precipitation": 55
+				},
+				{
+					"heading": "Apr",
+					"high": 15.2,
+					"low": 5.1,
+					"precipitation": 64
+				},
+				{
+					"heading": "May",
+					"high": 19.6,
+					"low": 9.2,
+					"precipitation": 99
+				},
+				{
+					"heading": "Jun",
+					"high": 22.9,
+					"low": 12.4,
+					"precipitation": 86
+				},
+				{
+					"heading": "Jul",
+					"high": 25.3,
+					"low": 14.5,
+					"precipitation": 91
+				},
+				{
+					"heading": "Aug",
+					"high": 24.7,
+					"low": 14.2,
+					"precipitation": 80
+				},
+				{
+					"heading": "Sep",
+					"high": 20.3,
+					"low": 10.9,
+					"precipitation": 78
+				},
+				{
+					"heading": "Oct",
+					"high": 15.2,
+					"low": 7.4,
+					"precipitation": 73
+				},
+				{
+					"heading": "Nov",
+					"high": 8.7,
+					"low": 2.7,
+					"precipitation": 59
+				},
+				{
+					"heading": "Dec",
+					"high": 5.2,
+					"low": 0.1,
+					"precipitation": 66
+				}
+			]
+		},
+		"Geneva": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.5,
+					"low": -2.3,
+					"precipitation": 73
+				},
+				{
+					"heading": "Feb",
+					"high": 5.3,
+					"low": -1.2,
+					"precipitation": 74
+				},
+				{
+					"heading": "Mar",
+					"high": 9.2,
+					"low": 0.3,
+					"precipitation": 74
+				},
+				{
+					"heading": "Apr",
+					"high": 13.5,
+					"low": 3.5,
+					"precipitation": 61
+				},
+				{
+					"heading": "May",
+					"high": 17.6,
+					"low": 7.1,
+					"precipitation": 72
+				},
+				{
+					"heading": "Jun",
+					"high": 21.8,
+					"low": 10.3,
+					"precipitation": 84
+				},
+				{
+					"heading": "Jul",
+					"high": 24.6,
+					"low": 11.8,
+					"precipitation": 65
+				},
+				{
+					"heading": "Aug",
+					"high": 23.7,
+					"low": 11.3,
+					"precipitation": 78
+				},
+				{
+					"heading": "Sep",
+					"high": 20.3,
+					"low": 9,
+					"precipitation": 80
+				},
+				{
+					"heading": "Oct",
+					"high": 13.9,
+					"low": 5.4,
+					"precipitation": 73
+				},
+				{
+					"heading": "Nov",
+					"high": 8,
+					"low": 1.8,
+					"precipitation": 88
+				},
+				{
+					"heading": "Dec",
+					"high": 4.2,
+					"low": -1.1,
+					"precipitation": 82
+				}
+			]
+		},
+		"Interlaken": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 3.1,
+					"low": -3.6,
+					"precipitation": 73
+				},
+				{
+					"heading": "Feb",
+					"high": 5.1,
+					"low": -3,
+					"precipitation": 70
+				},
+				{
+					"heading": "Mar",
+					"high": 10.1,
+					"low": 0.3,
+					"precipitation": 80
+				},
+				{
+					"heading": "Apr",
+					"high": 14.1,
+					"low": 3.4,
+					"precipitation": 87
+				},
+				{
+					"heading": "May",
+					"high": 18.8,
+					"low": 7.9,
+					"precipitation": 121
+				},
+				{
+					"heading": "Jun",
+					"high": 21.9,
+					"low": 11.1,
+					"precipitation": 138
+				},
+				{
+					"heading": "Jul",
+					"high": 24.4,
+					"low": 13.2,
+					"precipitation": 139
+				},
+				{
+					"heading": "Aug",
+					"high": 23.5,
+					"low": 12.8,
+					"precipitation": 144
+				},
+				{
+					"heading": "Sep",
+					"high": 19.3,
+					"low": 9.5,
+					"precipitation": 96
+				},
+				{
+					"heading": "Oct",
+					"high": 14.4,
+					"low": 5.6,
+					"precipitation": 78
+				},
+				{
+					"heading": "Nov",
+					"high": 7.7,
+					"low": 0.6,
+					"precipitation": 84
+				},
+				{
+					"heading": "Dec",
+					"high": 3.8,
+					"low": -2.2,
+					"precipitation": 86
+				}
+			]
+		},
+		"Lausanne": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 4.4,
+					"low": 0.3,
+					"precipitation": 77
+				},
+				{
+					"heading": "Feb",
+					"high": 5.6,
+					"low": 0.7,
+					"precipitation": 67
+				},
+				{
+					"heading": "Mar",
+					"high": 10.1,
+					"low": 3.5,
+					"precipitation": 78
+				},
+				{
+					"heading": "Apr",
+					"high": 14,
+					"low": 6.4,
+					"precipitation": 87
+				},
+				{
+					"heading": "May",
+					"high": 18.7,
+					"low": 10.7,
+					"precipitation": 117
+				},
+				{
+					"heading": "Jun",
+					"high": 22.4,
+					"low": 13.8,
+					"precipitation": 112
+				},
+				{
+					"heading": "Jul",
+					"high": 25,
+					"low": 16.1,
+					"precipitation": 92
+				},
+				{
+					"heading": "Aug",
+					"high": 24.4,
+					"low": 15.9,
+					"precipitation": 110
+				},
+				{
+					"heading": "Sep",
+					"high": 19.8,
+					"low": 12.6,
+					"precipitation": 114
+				},
+				{
+					"heading": "Oct",
+					"high": 14.6,
+					"low": 9.1,
+					"precipitation": 113
+				},
+				{
+					"heading": "Nov",
+					"high": 8.6,
+					"low": 4.2,
+					"precipitation": 93
+				},
+				{
+					"heading": "Dec",
+					"high": 5.3,
+					"low": 1.4,
+					"precipitation": 92
+				}
+			]
+		},
+		"Lucerne": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 59,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 52,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 66,
+					"high": 10,
+					"low": 2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 88,
+					"high": 14,
+					"low": 4
+				},
+				{
+					"heading": "May",
+					"precipitation": 116,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 158,
+					"high": 24,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 156,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 149,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 109,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 78,
+					"high": 15,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 65,
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 59,
+					"high": 3,
+					"low": null
+				}
+			]
+		},
+		"Lugano": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 5.8,
+					"low": -0.2,
+					"precipitation": 79
+				},
+				{
+					"heading": "Feb",
+					"high": 7,
+					"low": 1,
+					"precipitation": 74
+				},
+				{
+					"heading": "Mar",
+					"high": 11.1,
+					"low": 3.5,
+					"precipitation": 110
+				},
+				{
+					"heading": "Apr",
+					"high": 14.7,
+					"low": 7.3,
+					"precipitation": 157
+				},
+				{
+					"heading": "May",
+					"high": 18.5,
+					"low": 10.8,
+					"precipitation": 201
+				},
+				{
+					"heading": "Jun",
+					"high": 22.5,
+					"low": 13.7,
+					"precipitation": 175
+				},
+				{
+					"heading": "Jul",
+					"high": 25.2,
+					"low": 16.1,
+					"precipitation": 138
+				},
+				{
+					"heading": "Aug",
+					"high": 24.1,
+					"low": 15.6,
+					"precipitation": 173
+				},
+				{
+					"heading": "Sep",
+					"high": 20.6,
+					"low": 12.8,
+					"precipitation": 160
+				},
+				{
+					"heading": "Oct",
+					"high": 15.4,
+					"low": 8.6,
+					"precipitation": 146
+				},
+				{
+					"heading": "Nov",
+					"high": 10.4,
+					"low": 3.8,
+					"precipitation": 126
+				},
+				{
+					"heading": "Dec",
+					"high": 6.9,
+					"low": 1,
+					"precipitation": 65
+				}
+			]
+		},
+		"Zurich": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2,
+					"low": -2.8,
+					"precipitation": 69
+				},
+				{
+					"heading": "Feb",
+					"high": 3.7,
+					"low": -1.7,
+					"precipitation": 70
+				},
+				{
+					"heading": "Mar",
+					"high": 7.9,
+					"low": 0.7,
+					"precipitation": 70
+				},
+				{
+					"heading": "Apr",
+					"high": 12.4,
+					"low": 3.7,
+					"precipitation": 89
+				},
+				{
+					"heading": "May",
+					"high": 16.8,
+					"low": 7.6,
+					"precipitation": 105
+				},
+				{
+					"heading": "Jun",
+					"high": 20,
+					"low": 10.8,
+					"precipitation": 125
+				},
+				{
+					"heading": "Jul",
+					"high": 22.4,
+					"low": 12.5,
+					"precipitation": 118
+				},
+				{
+					"heading": "Aug",
+					"high": 21.3,
+					"low": 12,
+					"precipitation": 135
+				},
+				{
+					"heading": "Sep",
+					"high": 18,
+					"low": 9.8,
+					"precipitation": 94
+				},
+				{
+					"heading": "Oct",
+					"high": 12.6,
+					"low": 5.9,
+					"precipitation": 69
+				},
+				{
+					"heading": "Nov",
+					"high": 6.8,
+					"low": 1.6,
+					"precipitation": 82
+				},
+				{
+					"heading": "Dec",
+					"high": 3.1,
+					"low": -1.4,
+					"precipitation": 75
+				}
+			]
+		},
+		"Davos": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.2,
+					"low": -9.1,
+					"precipitation": 66
+				},
+				{
+					"heading": "Feb",
+					"high": 0.9,
+					"low": -9.3,
+					"precipitation": 56
+				},
+				{
+					"heading": "Mar",
+					"high": 3.8,
+					"low": -5.9,
+					"precipitation": 59
+				},
+				{
+					"heading": "Apr",
+					"high": 7.2,
+					"low": -2.4,
+					"precipitation": 56
+				},
+				{
+					"heading": "May",
+					"high": 12.4,
+					"low": 2.1,
+					"precipitation": 88
+				},
+				{
+					"heading": "Jun",
+					"high": 15.5,
+					"low": 5.1,
+					"precipitation": 126
+				},
+				{
+					"heading": "Jul",
+					"high": 18.1,
+					"low": 7.2,
+					"precipitation": 136
+				},
+				{
+					"heading": "Aug",
+					"high": 17.4,
+					"low": 7.2,
+					"precipitation": 148
+				},
+				{
+					"heading": "Sep",
+					"high": 14.1,
+					"low": 4,
+					"precipitation": 93
+				},
+				{
+					"heading": "Oct",
+					"high": 10.9,
+					"low": 0.8,
+					"precipitation": 61
+				},
+				{
+					"heading": "Nov",
+					"high": 4.2,
+					"low": -4.4,
+					"precipitation": 72
+				},
+				{
+					"heading": "Dec",
+					"high": 0.4,
+					"low": -7.5,
+					"precipitation": 62
+				}
+			]
+		},
+		"St. Moritz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.6,
+					"low": -16.3,
+					"precipitation": 28
+				},
+				{
+					"heading": "Feb",
+					"high": 0.5,
+					"low": -16.4,
+					"precipitation": 20
+				},
+				{
+					"heading": "Mar",
+					"high": 3.7,
+					"low": -10.4,
+					"precipitation": 26
+				},
+				{
+					"heading": "Apr",
+					"high": 7.4,
+					"low": -4.7,
+					"precipitation": 39
+				},
+				{
+					"heading": "May",
+					"high": 12.9,
+					"low": -0.1,
+					"precipitation": 78
+				},
+				{
+					"heading": "Jun",
+					"high": 16.4,
+					"low": 2.5,
+					"precipitation": 90
+				},
+				{
+					"heading": "Jul",
+					"high": 19.3,
+					"low": 4.3,
+					"precipitation": 93
+				},
+				{
+					"heading": "Aug",
+					"high": 18.7,
+					"low": 4,
+					"precipitation": 99
+				},
+				{
+					"heading": "Sep",
+					"high": 14.9,
+					"low": 1,
+					"precipitation": 73
+				},
+				{
+					"heading": "Oct",
+					"high": 10.9,
+					"low": -2.9,
+					"precipitation": 68
+				},
+				{
+					"heading": "Nov",
+					"high": 3.7,
+					"low": -8.9,
+					"precipitation": 61
+				},
+				{
+					"heading": "Dec",
+					"high": -1.2,
+					"low": -13.8,
+					"precipitation": 36
+				}
+			]
+		},
+		"Zermatt": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.2,
+					"low": -8.4,
+					"precipitation": 43
+				},
+				{
+					"heading": "Feb",
+					"high": 1.3,
+					"low": -7.8,
+					"precipitation": 46
+				},
+				{
+					"heading": "Mar",
+					"high": 3.7,
+					"low": -5.5,
+					"precipitation": 49
+				},
+				{
+					"heading": "Apr",
+					"high": 7.3,
+					"low": -2.2,
+					"precipitation": 50
+				},
+				{
+					"heading": "May",
+					"high": 12.1,
+					"low": 2.1,
+					"precipitation": 61
+				},
+				{
+					"heading": "Jun",
+					"high": 15.6,
+					"low": 4.8,
+					"precipitation": 56
+				},
+				{
+					"heading": "Jul",
+					"high": 18.9,
+					"low": 6.8,
+					"precipitation": 47
+				},
+				{
+					"heading": "Aug",
+					"high": 17.9,
+					"low": 6.7,
+					"precipitation": 60
+				},
+				{
+					"heading": "Sep",
+					"high": 15.4,
+					"low": 4.2,
+					"precipitation": 41
+				},
+				{
+					"heading": "Oct",
+					"high": 11.2,
+					"low": 0.7,
+					"precipitation": 55
+				},
+				{
+					"heading": "Nov",
+					"high": 4.6,
+					"low": -4,
+					"precipitation": 55
+				},
+				{
+					"heading": "Dec",
+					"high": 1.1,
+					"low": -7.1,
+					"precipitation": 48
+				}
+			]
+		},
+		"Saint Gallen": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.5,
+					"low": -3,
+					"precipitation": 59
+				},
+				{
+					"heading": "Feb",
+					"high": 3.3,
+					"low": -2.5,
+					"precipitation": 57
+				},
+				{
+					"heading": "Mar",
+					"high": 7.3,
+					"low": 0.6,
+					"precipitation": 84
+				},
+				{
+					"heading": "Apr",
+					"high": 11.5,
+					"low": 3.5,
+					"precipitation": 100
+				},
+				{
+					"heading": "May",
+					"high": 16.3,
+					"low": 7.8,
+					"precipitation": 143
+				},
+				{
+					"heading": "Jun",
+					"high": 19.2,
+					"low": 11,
+					"precipitation": 153
+				},
+				{
+					"heading": "Jul",
+					"high": 21.6,
+					"low": 13.1,
+					"precipitation": 172
+				},
+				{
+					"heading": "Aug",
+					"high": 20.9,
+					"low": 13,
+					"precipitation": 164
+				},
+				{
+					"heading": "Sep",
+					"high": 16.8,
+					"low": 9.7,
+					"precipitation": 135
+				},
+				{
+					"heading": "Oct",
+					"high": 12.3,
+					"low": 6.2,
+					"precipitation": 89
+				},
+				{
+					"heading": "Nov",
+					"high": 6.5,
+					"low": 1,
+					"precipitation": 88
+				},
+				{
+					"heading": "Dec",
+					"high": 3.5,
+					"low": -1.9,
+					"precipitation": 80
+				}
+			]
+		}
+	}
+}

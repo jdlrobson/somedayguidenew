@@ -1,0 +1,286 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Thimphu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 22,
+					"high": 12,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 33,
+					"high": 14,
+					"low": 1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 31,
+					"high": 16,
+					"low": 4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 58,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "May",
+					"precipitation": 122,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 246,
+					"high": 24,
+					"low": 15
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 373,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 345,
+					"high": 25,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 155,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 38,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 8,
+					"high": 18,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 13,
+					"high": 15,
+					"low": null
+				}
+			]
+		},
+		"Jakar": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 37
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 69
+				},
+				{
+					"heading": "May",
+					"precipitation": 157
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 294
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 317
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 252
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 181
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 66
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 3
+				}
+			]
+		},
+		"Phuentsholing": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 7,
+					"high": 19,
+					"low": 12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 28,
+					"high": 22,
+					"low": 12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 28,
+					"high": 26,
+					"low": 15
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 177,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "May",
+					"precipitation": 436,
+					"high": 25,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 964,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 852,
+					"high": 23,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 773,
+					"high": 22,
+					"low": 6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 630,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 156,
+					"high": 26,
+					"low": 18
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 5,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 4,
+					"high": 21,
+					"low": 14
+				}
+			]
+		},
+		"Trongsa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 8,
+					"high": 8,
+					"low": -3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 24,
+					"high": 8,
+					"low": -3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 32,
+					"high": 13,
+					"low": -1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 112,
+					"high": 14,
+					"low": 0
+				},
+				{
+					"heading": "May",
+					"precipitation": 209,
+					"high": 17,
+					"low": 1
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 383,
+					"high": 15,
+					"low": 0
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 298,
+					"high": 15,
+					"low": -2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 283,
+					"high": 15,
+					"low": 1
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 325,
+					"high": 14,
+					"low": 1
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 101,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 1,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 4,
+					"high": 9,
+					"low": -1
+				}
+			]
+		}
+	}
+}

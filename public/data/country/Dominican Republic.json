@@ -1,0 +1,462 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Santo Domingo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 63,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 57,
+					"high": 29,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 54,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 72,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 188,
+					"high": 30,
+					"low": 22
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 140,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 145,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 177,
+					"high": 32,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 181,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 187,
+					"high": 31,
+					"low": 22
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 100,
+					"high": 31,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 84,
+					"high": 30,
+					"low": 20
+				}
+			]
+		},
+		"Puerto Plata": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.9,
+					"low": 17.5,
+					"precipitation": 175.3
+				},
+				{
+					"heading": "Feb",
+					"high": 29.6,
+					"low": 17.3,
+					"precipitation": 140
+				},
+				{
+					"heading": "Mar",
+					"high": 29.4,
+					"low": 17.8,
+					"precipitation": 128.7
+				},
+				{
+					"heading": "Apr",
+					"high": 29.3,
+					"low": 19.9,
+					"precipitation": 115.1
+				},
+				{
+					"heading": "May",
+					"high": 31.2,
+					"low": 20,
+					"precipitation": 129
+				},
+				{
+					"heading": "Jun",
+					"high": 32.3,
+					"low": 20.3,
+					"precipitation": 51
+				},
+				{
+					"heading": "Jul",
+					"high": 32.6,
+					"low": 21.1,
+					"precipitation": 69.8
+				},
+				{
+					"heading": "Aug",
+					"high": 32.6,
+					"low": 20.9,
+					"precipitation": 66.7
+				},
+				{
+					"heading": "Sep",
+					"high": 32.7,
+					"low": 20.7,
+					"precipitation": 63.7
+				},
+				{
+					"heading": "Oct",
+					"high": 32.3,
+					"low": 20.1,
+					"precipitation": 111
+				},
+				{
+					"heading": "Nov",
+					"high": 30.6,
+					"low": 19.1,
+					"precipitation": 228.5
+				},
+				{
+					"heading": "Dec",
+					"high": 29.1,
+					"low": 18.1,
+					"precipitation": 231.8
+				}
+			]
+		},
+		"Punta Cana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 27.7,
+					"low": 21.9,
+					"precipitation": 66.4
+				},
+				{
+					"heading": "Feb",
+					"high": 27.6,
+					"low": 21.8,
+					"precipitation": 54.2
+				},
+				{
+					"heading": "Mar",
+					"high": 28.1,
+					"low": 22,
+					"precipitation": 54.2
+				},
+				{
+					"heading": "Apr",
+					"high": 28.7,
+					"low": 22.5,
+					"precipitation": 69.2
+				},
+				{
+					"heading": "May",
+					"high": 29.6,
+					"low": 23.2,
+					"precipitation": 124.4
+				},
+				{
+					"heading": "Jun",
+					"high": 30.3,
+					"low": 24.1,
+					"precipitation": 103.9
+				},
+				{
+					"heading": "Jul",
+					"high": 30.5,
+					"low": 24.6,
+					"precipitation": 78.3
+				},
+				{
+					"heading": "Aug",
+					"high": 30.7,
+					"low": 24.8,
+					"precipitation": 103.1
+				},
+				{
+					"heading": "Sep",
+					"high": 30.9,
+					"low": 24.4,
+					"precipitation": 101.7
+				},
+				{
+					"heading": "Oct",
+					"high": 30.5,
+					"low": 23.6,
+					"precipitation": 152.1
+				},
+				{
+					"heading": "Nov",
+					"high": 29.4,
+					"low": 23.2,
+					"precipitation": 116.6
+				},
+				{
+					"heading": "Dec",
+					"high": 28.1,
+					"low": 22.3,
+					"precipitation": 78.5
+				}
+			]
+		},
+		"Santiago de los Caballeros": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 28.8,
+					"low": 18.2,
+					"precipitation": 49.8
+				},
+				{
+					"heading": "Feb",
+					"high": 29.4,
+					"low": 18.4,
+					"precipitation": 47.7
+				},
+				{
+					"heading": "Mar",
+					"high": 30.4,
+					"low": 19,
+					"precipitation": 59.2
+				},
+				{
+					"heading": "Apr",
+					"high": 31.2,
+					"low": 19.9,
+					"precipitation": 104.4
+				},
+				{
+					"heading": "May",
+					"high": 31.8,
+					"low": 21.2,
+					"precipitation": 151.2
+				},
+				{
+					"heading": "Jun",
+					"high": 32.9,
+					"low": 22.1,
+					"precipitation": 67.6
+				},
+				{
+					"heading": "Jul",
+					"high": 33,
+					"low": 22.2,
+					"precipitation": 56.4
+				},
+				{
+					"heading": "Aug",
+					"high": 33.2,
+					"low": 22.2,
+					"precipitation": 73.1
+				},
+				{
+					"heading": "Sep",
+					"high": 33.3,
+					"low": 21.9,
+					"precipitation": 96.8
+				},
+				{
+					"heading": "Oct",
+					"high": 32.4,
+					"low": 21.5,
+					"precipitation": 109.7
+				},
+				{
+					"heading": "Nov",
+					"high": 30.3,
+					"low": 20.2,
+					"precipitation": 125.6
+				},
+				{
+					"heading": "Dec",
+					"high": 28.7,
+					"low": 18.7,
+					"precipitation": 80.2
+				}
+			]
+		},
+		"La Romana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.7,
+					"low": 19.5,
+					"precipitation": 32.7
+				},
+				{
+					"heading": "Feb",
+					"high": 30,
+					"low": 19.5,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "Mar",
+					"high": 30.5,
+					"low": 19.8,
+					"precipitation": 27.5
+				},
+				{
+					"heading": "Apr",
+					"high": 30.9,
+					"low": 20.5,
+					"precipitation": 45.2
+				},
+				{
+					"heading": "May",
+					"high": 31.2,
+					"low": 22,
+					"precipitation": 91
+				},
+				{
+					"heading": "Jun",
+					"high": 32,
+					"low": 22.9,
+					"precipitation": 57
+				},
+				{
+					"heading": "Jul",
+					"high": 32.7,
+					"low": 23.2,
+					"precipitation": 60.9
+				},
+				{
+					"heading": "Aug",
+					"high": 32.6,
+					"low": 23.2,
+					"precipitation": 105.2
+				},
+				{
+					"heading": "Sep",
+					"high": 32.2,
+					"low": 22.9,
+					"precipitation": 116.8
+				},
+				{
+					"heading": "Oct",
+					"high": 31.8,
+					"low": 22.6,
+					"precipitation": 164.6
+				},
+				{
+					"heading": "Nov",
+					"high": 30.8,
+					"low": 21.6,
+					"precipitation": 96.2
+				},
+				{
+					"heading": "Dec",
+					"high": 29.9,
+					"low": 20.2,
+					"precipitation": 47.6
+				}
+			]
+		},
+		"Santa Barbara de Samana": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 29.2,
+					"low": 19.1,
+					"precipitation": 145.7
+				},
+				{
+					"heading": "Feb",
+					"high": 29.5,
+					"low": 19.3,
+					"precipitation": 109.5
+				},
+				{
+					"heading": "Mar",
+					"high": 30.2,
+					"low": 19.9,
+					"precipitation": 116.6
+				},
+				{
+					"heading": "Apr",
+					"high": 30.7,
+					"low": 20.6,
+					"precipitation": 141.8
+				},
+				{
+					"heading": "May",
+					"high": 31.5,
+					"low": 21.8,
+					"precipitation": 231.5
+				},
+				{
+					"heading": "Jun",
+					"high": 32.5,
+					"low": 22.8,
+					"precipitation": 152.2
+				},
+				{
+					"heading": "Jul",
+					"high": 32.6,
+					"low": 23.1,
+					"precipitation": 185.1
+				},
+				{
+					"heading": "Aug",
+					"high": 32.7,
+					"low": 23,
+					"precipitation": 229.2
+				},
+				{
+					"heading": "Sep",
+					"high": 32.6,
+					"low": 22.7,
+					"precipitation": 193.3
+				},
+				{
+					"heading": "Oct",
+					"high": 32.2,
+					"low": 22.2,
+					"precipitation": 246.9
+				},
+				{
+					"heading": "Nov",
+					"high": 30.6,
+					"low": 20.6,
+					"precipitation": 257.2
+				},
+				{
+					"heading": "Dec",
+					"high": 29.6,
+					"low": 19.6,
+					"precipitation": 202.9
+				}
+			]
+		}
+	}
+}

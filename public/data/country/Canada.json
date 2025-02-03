@@ -1,0 +1,2494 @@
+{
+	"note": "<p>Why don&#39;t you go find the magical tree on the lake in Vancouver island?</p>\n",
+	"snippets": [],
+	"places": {
+		"Ottawa": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 64,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 52,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 65,
+					"high": 2,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 68,
+					"high": 11,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 81,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 91,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 89,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 88,
+					"high": 25,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 87,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 79,
+					"high": 13,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 77,
+					"high": 5,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 74,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Calgary": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 0,
+					"high": -4,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 0,
+					"high": -3,
+					"low": -12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 0,
+					"high": 6,
+					"low": -9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0,
+					"high": 16,
+					"low": -4
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 24,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 30,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 31,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 29,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 23,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 12,
+					"low": -2
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0,
+					"high": 2,
+					"low": -8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 0,
+					"high": -5,
+					"low": -12
+				}
+			]
+		},
+		"Halifax (Nova Scotia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.3,
+					"low": -10.4,
+					"precipitation": 83.5
+				},
+				{
+					"heading": "Feb",
+					"high": -0.6,
+					"low": -9.7,
+					"precipitation": 65
+				},
+				{
+					"heading": "Mar",
+					"high": 3.1,
+					"low": -5.7,
+					"precipitation": 86.9
+				},
+				{
+					"heading": "Apr",
+					"high": 9.1,
+					"low": -0.3,
+					"precipitation": 98.2
+				},
+				{
+					"heading": "May",
+					"high": 15.3,
+					"low": 4.6,
+					"precipitation": 109.8
+				},
+				{
+					"heading": "Jun",
+					"high": 20.4,
+					"low": 9.7,
+					"precipitation": 96.2
+				},
+				{
+					"heading": "Jul",
+					"high": 23.8,
+					"low": 13.7,
+					"precipitation": 95.5
+				},
+				{
+					"heading": "Aug",
+					"high": 23.6,
+					"low": 13.7,
+					"precipitation": 93.5
+				},
+				{
+					"heading": "Sep",
+					"high": 19.4,
+					"low": 9.7,
+					"precipitation": 102
+				},
+				{
+					"heading": "Oct",
+					"high": 13.1,
+					"low": 4.2,
+					"precipitation": 124.6
+				},
+				{
+					"heading": "Nov",
+					"high": 7.3,
+					"low": -0.4,
+					"precipitation": 139.1
+				},
+				{
+					"heading": "Dec",
+					"high": 1.7,
+					"low": -6.4,
+					"precipitation": 101.8
+				}
+			]
+		},
+		"Montreal": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 77,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 63,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 69,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 82,
+					"high": 12,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 81,
+					"high": 19,
+					"low": 8
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 87,
+					"high": 24,
+					"low": 13
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 89,
+					"high": 26,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 94,
+					"high": 25,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 83,
+					"high": 21,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 91,
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 96,
+					"high": 6,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 87,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Quebec City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 90,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 71,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 90,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 81,
+					"high": 8,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": 106,
+					"high": 17,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 114,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 128,
+					"high": 25,
+					"low": 13
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 117,
+					"high": 23,
+					"low": 12
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 126,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 102,
+					"high": 11,
+					"low": 2
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 102,
+					"high": 3,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 104,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Toronto": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 84,
+					"high": -4,
+					"low": -10
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 84,
+					"high": -7,
+					"low": -13
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 36,
+					"high": 2,
+					"low": -6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 106,
+					"high": 8,
+					"low": 0
+				},
+				{
+					"heading": "May",
+					"precipitation": 76,
+					"high": 18,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 105,
+					"high": 20,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 126,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 78,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 108,
+					"high": 22,
+					"low": 16
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 121,
+					"high": 12,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 42,
+					"high": 7,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 70,
+					"high": 5,
+					"low": -2
+				}
+			]
+		},
+		"Vancouver": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 168,
+					"high": 7,
+					"low": 1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 105,
+					"high": 8,
+					"low": 2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 114,
+					"high": 10,
+					"low": 3
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 89,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "May",
+					"precipitation": 65,
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 54,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 36,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 37,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 51,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 121,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 189,
+					"high": 9,
+					"low": 4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 162,
+					"high": 6,
+					"low": 1
+				}
+			]
+		},
+		"Whitehorse": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -12.1,
+					"low": -20.4,
+					"precipitation": 0.2
+				},
+				{
+					"heading": "Feb",
+					"high": -6.6,
+					"low": -17,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Mar",
+					"high": 0.3,
+					"low": -12.3,
+					"precipitation": 0.1
+				},
+				{
+					"heading": "Apr",
+					"high": 8.5,
+					"low": -4.9,
+					"precipitation": 2.2
+				},
+				{
+					"heading": "May",
+					"high": 15.3,
+					"low": 0.7,
+					"precipitation": 15.1
+				},
+				{
+					"heading": "Jun",
+					"high": 20.4,
+					"low": 5.9,
+					"precipitation": 33.4
+				},
+				{
+					"heading": "Jul",
+					"high": 21.6,
+					"low": 8.5,
+					"precipitation": 39.6
+				},
+				{
+					"heading": "Aug",
+					"high": 19.5,
+					"low": 6.6,
+					"precipitation": 36.2
+				},
+				{
+					"heading": "Sep",
+					"high": 12.8,
+					"low": 2.1,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "Oct",
+					"high": 4.3,
+					"low": -3.4,
+					"precipitation": 9.9
+				},
+				{
+					"heading": "Nov",
+					"high": -6.2,
+					"low": -13.4,
+					"precipitation": 0.8
+				},
+				{
+					"heading": "Dec",
+					"high": -9.1,
+					"low": -17.3,
+					"precipitation": 0.1
+				}
+			]
+		},
+		"Winnipeg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 584.2,
+					"high": -6.7,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 355.6,
+					"high": -9.4,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 406.4,
+					"high": -5.6,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 254,
+					"high": 0,
+					"low": -12.2
+				},
+				{
+					"heading": "May",
+					"precipitation": 25.4,
+					"high": 15,
+					"low": -7.2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 32.2,
+					"low": -5
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 21.7,
+					"low": -3.3
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 23.9,
+					"low": -3.9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 11.1,
+					"low": -7.2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 127,
+					"high": 2.2,
+					"low": -11.7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 533.4,
+					"high": -3.9,
+					"low": null
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 508,
+					"high": -7.2,
+					"low": null
+				}
+			]
+		},
+		"Banff National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -4.6,
+					"low": -14.1,
+					"precipitation": 2.9
+				},
+				{
+					"heading": "Feb",
+					"high": -0.4,
+					"low": -11.6,
+					"precipitation": 1.7
+				},
+				{
+					"heading": "Mar",
+					"high": 4.5,
+					"low": -7.3,
+					"precipitation": 2.7
+				},
+				{
+					"heading": "Apr",
+					"high": 9.5,
+					"low": -2.5,
+					"precipitation": 12.6
+				},
+				{
+					"heading": "May",
+					"high": 14.5,
+					"low": 1.7,
+					"precipitation": 44.3
+				},
+				{
+					"heading": "Jun",
+					"high": 18.5,
+					"low": 5.4,
+					"precipitation": 59.8
+				},
+				{
+					"heading": "Jul",
+					"high": 21.9,
+					"low": 7.4,
+					"precipitation": 54.1
+				},
+				{
+					"heading": "Aug",
+					"high": 21.3,
+					"low": 6.9,
+					"precipitation": 60
+				},
+				{
+					"heading": "Sep",
+					"high": 16.3,
+					"low": 2.7,
+					"precipitation": 37
+				},
+				{
+					"heading": "Oct",
+					"high": 10.1,
+					"low": -1.3,
+					"precipitation": 13.8
+				},
+				{
+					"heading": "Nov",
+					"high": 0.2,
+					"low": -8.4,
+					"precipitation": 4.4
+				},
+				{
+					"heading": "Dec",
+					"high": -5.1,
+					"low": -13.3,
+					"precipitation": 3.1
+				}
+			]
+		},
+		"Cape Breton Island": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 141,
+					"high": -7,
+					"low": -13
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 214,
+					"high": -7,
+					"low": -11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 126,
+					"high": -1,
+					"low": -9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 110,
+					"high": 6,
+					"low": -4
+				},
+				{
+					"heading": "May",
+					"precipitation": 83,
+					"high": 14,
+					"low": 1
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 128,
+					"high": 17,
+					"low": 8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 76,
+					"high": 20,
+					"low": 12
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 114,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 185,
+					"high": 17,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 145,
+					"high": 10,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 182,
+					"high": 3,
+					"low": -1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 214,
+					"high": -2,
+					"low": -8
+				}
+			]
+		},
+		"Jasper National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -3.7,
+					"low": -15.3,
+					"precipitation": 1.5
+				},
+				{
+					"heading": "Feb",
+					"high": 1.7,
+					"low": -12.1,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Mar",
+					"high": 4.1,
+					"low": -8.2,
+					"precipitation": 2.9
+				},
+				{
+					"heading": "Apr",
+					"high": 11.1,
+					"low": -3.8,
+					"precipitation": 10.2
+				},
+				{
+					"heading": "May",
+					"high": 15.6,
+					"low": 0.5,
+					"precipitation": 28.7
+				},
+				{
+					"heading": "Jun",
+					"high": 19.9,
+					"low": 4.9,
+					"precipitation": 51
+				},
+				{
+					"heading": "Jul",
+					"high": 23.7,
+					"low": 7.3,
+					"precipitation": 48.1
+				},
+				{
+					"heading": "Aug",
+					"high": 23.1,
+					"low": 5.8,
+					"precipitation": 49.9
+				},
+				{
+					"heading": "Sep",
+					"high": 17.3,
+					"low": 2.1,
+					"precipitation": 36
+				},
+				{
+					"heading": "Oct",
+					"high": 10.3,
+					"low": -2.4,
+					"precipitation": 18.9
+				},
+				{
+					"heading": "Nov",
+					"high": 1.6,
+					"low": -8.4,
+					"precipitation": 5.6
+				},
+				{
+					"heading": "Dec",
+					"high": -2.6,
+					"low": -13.5,
+					"precipitation": 2.6
+				}
+			]
+		},
+		"Terra Nova National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -2.5,
+					"low": -11.3,
+					"precipitation": 33.4
+				},
+				{
+					"heading": "Feb",
+					"high": -2.2,
+					"low": -11.5,
+					"precipitation": 37.9
+				},
+				{
+					"heading": "Mar",
+					"high": 1.1,
+					"low": -7.5,
+					"precipitation": 47.1
+				},
+				{
+					"heading": "Apr",
+					"high": 2.5,
+					"low": -12.4,
+					"precipitation": 64.5
+				},
+				{
+					"heading": "May",
+					"high": 12.3,
+					"low": 2.2,
+					"precipitation": 79.7
+				},
+				{
+					"heading": "Jun",
+					"high": 17,
+					"low": 6.1,
+					"precipitation": 102.6
+				},
+				{
+					"heading": "Jul",
+					"high": 21.7,
+					"low": 10.6,
+					"precipitation": 98.5
+				},
+				{
+					"heading": "Aug",
+					"high": 21.6,
+					"low": 11.2,
+					"precipitation": 88
+				},
+				{
+					"heading": "Sep",
+					"high": 16.7,
+					"low": 7.2,
+					"precipitation": 119.4
+				},
+				{
+					"heading": "Oct",
+					"high": 10.5,
+					"low": 2.8,
+					"precipitation": 103.3
+				},
+				{
+					"heading": "Nov",
+					"high": 5,
+					"low": -1.8,
+					"precipitation": 72
+				},
+				{
+					"heading": "Dec",
+					"high": -0.1,
+					"low": -7.4,
+					"precipitation": 46.1
+				}
+			]
+		},
+		"Waterton Lakes National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.9,
+					"low": -13.3
+				},
+				{
+					"heading": "Feb",
+					"high": 2.8,
+					"low": -6.4
+				},
+				{
+					"heading": "Mar",
+					"high": 3.7,
+					"low": -7
+				},
+				{
+					"heading": "Apr",
+					"high": 10,
+					"low": -1.2
+				},
+				{
+					"heading": "May",
+					"high": 14.2,
+					"low": 2.7
+				},
+				{
+					"heading": "Jun",
+					"high": 18.1,
+					"low": 6.5
+				},
+				{
+					"heading": "Jul",
+					"high": 23.6,
+					"low": 8
+				},
+				{
+					"heading": "Aug",
+					"high": 24.7,
+					"low": 8.1
+				},
+				{
+					"heading": "Sep",
+					"high": 18.4,
+					"low": 4.5
+				},
+				{
+					"heading": "Oct",
+					"high": 11.6,
+					"low": 0.6
+				},
+				{
+					"heading": "Nov",
+					"high": 3.3,
+					"low": -5.5
+				},
+				{
+					"heading": "Dec",
+					"high": -0.5,
+					"low": -9.1
+				}
+			]
+		},
+		"Algonquin Provincial Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -7.2,
+					"low": -19.2,
+					"precipitation": 5.9
+				},
+				{
+					"heading": "Feb",
+					"high": -4.6,
+					"low": -18.1,
+					"precipitation": 8.4
+				},
+				{
+					"heading": "Mar",
+					"high": 1.9,
+					"low": -10.5,
+					"precipitation": 23.2
+				},
+				{
+					"heading": "Apr",
+					"high": 10.1,
+					"low": -2.8,
+					"precipitation": 49.7
+				},
+				{
+					"heading": "May",
+					"high": 18.7,
+					"low": 4.2,
+					"precipitation": 70.3
+				},
+				{
+					"heading": "Jun",
+					"high": 23,
+					"low": 8.8,
+					"precipitation": 79.1
+				},
+				{
+					"heading": "Jul",
+					"high": 25.7,
+					"low": 11.8,
+					"precipitation": 76.3
+				},
+				{
+					"heading": "Aug",
+					"high": 24,
+					"low": 10.8,
+					"precipitation": 77.1
+				},
+				{
+					"heading": "Sep",
+					"high": 18.6,
+					"low": 6.5,
+					"precipitation": 84.2
+				},
+				{
+					"heading": "Oct",
+					"high": 11.9,
+					"low": 0.8,
+					"precipitation": 65.9
+				},
+				{
+					"heading": "Nov",
+					"high": 3.5,
+					"low": -4.6,
+					"precipitation": 38
+				},
+				{
+					"heading": "Dec",
+					"high": -4,
+					"low": -14.3,
+					"precipitation": 10.7
+				}
+			]
+		},
+		"Halifax": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 151,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 114,
+					"high": 0,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 134,
+					"high": 4,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 121,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "May",
+					"precipitation": 119,
+					"high": 14,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 108,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 106,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 98,
+					"high": 23,
+					"low": 15
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 107,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 135,
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 154,
+					"high": 8,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 160,
+					"high": 3,
+					"low": null
+				}
+			]
+		},
+		"Nova Scotia": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Amherst (Nova Scotia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -2.7,
+					"low": -12.6,
+					"precipitation": 47.9
+				},
+				{
+					"heading": "Feb",
+					"high": -1.4,
+					"low": -11.5,
+					"precipitation": 36.1
+				},
+				{
+					"heading": "Mar",
+					"high": 2.5,
+					"low": -6.8,
+					"precipitation": 49.1
+				},
+				{
+					"heading": "Apr",
+					"high": 8.8,
+					"low": -0.6,
+					"precipitation": 62.7
+				},
+				{
+					"heading": "May",
+					"high": 15.7,
+					"low": 4.6,
+					"precipitation": 91.7
+				},
+				{
+					"heading": "Jun",
+					"high": 20.7,
+					"low": 9.2,
+					"precipitation": 79.6
+				},
+				{
+					"heading": "Jul",
+					"high": 24,
+					"low": 12.9,
+					"precipitation": 89
+				},
+				{
+					"heading": "Aug",
+					"high": 23.8,
+					"low": 12.5,
+					"precipitation": 74.4
+				},
+				{
+					"heading": "Sep",
+					"high": 19.5,
+					"low": 8.9,
+					"precipitation": 98.4
+				},
+				{
+					"heading": "Oct",
+					"high": 13.3,
+					"low": 3.6,
+					"precipitation": 97.2
+				},
+				{
+					"heading": "Nov",
+					"high": 6.8,
+					"low": -0.8,
+					"precipitation": 95.9
+				},
+				{
+					"heading": "Dec",
+					"high": 1,
+					"low": -7.7,
+					"precipitation": 64.2
+				}
+			]
+		},
+		"Dartmouth (Nova Scotia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 155,
+					"high": -4,
+					"low": -9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 164,
+					"high": -2,
+					"low": -8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 128,
+					"high": 2,
+					"low": -5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 119,
+					"high": 13,
+					"low": -1
+				},
+				{
+					"heading": "May",
+					"precipitation": 84,
+					"high": 19,
+					"low": 5
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 149,
+					"high": 20,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 96,
+					"high": 23,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 84,
+					"high": 24,
+					"low": 16
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 210,
+					"high": 20,
+					"low": 13
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 154,
+					"high": 14,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 182,
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 299,
+					"high": 1,
+					"low": -4
+				}
+			]
+		},
+		"Lunenburg": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 180,
+					"high": -4,
+					"low": -7
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 175,
+					"high": -8,
+					"low": -12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 151,
+					"high": -2,
+					"low": -9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 133,
+					"high": 4,
+					"low": -1
+				},
+				{
+					"heading": "May",
+					"precipitation": 88,
+					"high": 16,
+					"low": 6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 162,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 137,
+					"high": 20,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 83,
+					"high": 21,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 197,
+					"high": 20,
+					"low": 15
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 175,
+					"high": 11,
+					"low": 7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 193,
+					"high": 6,
+					"low": 3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 313,
+					"high": 4,
+					"low": -2
+				}
+			]
+		},
+		"Pictou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 114,
+					"high": -9,
+					"low": -12
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 161,
+					"high": -6,
+					"low": -12
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 119,
+					"high": -1,
+					"low": -7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 99,
+					"high": 9,
+					"low": -4
+				},
+				{
+					"heading": "May",
+					"precipitation": 76,
+					"high": 17,
+					"low": 2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 122,
+					"high": 16,
+					"low": 10
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 84,
+					"high": 21,
+					"low": 15
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 96,
+					"high": 21,
+					"low": 18
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 241,
+					"high": 18,
+					"low": 12
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 118,
+					"high": 12,
+					"low": 4
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 170,
+					"high": 3,
+					"low": 1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 187,
+					"high": -3,
+					"low": -7
+				}
+			]
+		},
+		"Sydney (Nova Scotia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.1,
+					"low": -9.6,
+					"precipitation": 80.5
+				},
+				{
+					"heading": "Feb",
+					"high": -1.5,
+					"low": -10.3,
+					"precipitation": 63.8
+				},
+				{
+					"heading": "Mar",
+					"high": 1.5,
+					"low": -6.7,
+					"precipitation": 83.2
+				},
+				{
+					"heading": "Apr",
+					"high": 6.6,
+					"low": -1.6,
+					"precipitation": 112.2
+				},
+				{
+					"heading": "May",
+					"high": 13.1,
+					"low": 2.7,
+					"precipitation": 100.9
+				},
+				{
+					"heading": "Jun",
+					"high": 18.6,
+					"low": 7.7,
+					"precipitation": 96.9
+				},
+				{
+					"heading": "Jul",
+					"high": 23.1,
+					"low": 12.6,
+					"precipitation": 88.5
+				},
+				{
+					"heading": "Aug",
+					"high": 22.9,
+					"low": 13.1,
+					"precipitation": 100.2
+				},
+				{
+					"heading": "Sep",
+					"high": 18.8,
+					"low": 9.1,
+					"precipitation": 118.7
+				},
+				{
+					"heading": "Oct",
+					"high": 12.6,
+					"low": 4.3,
+					"precipitation": 142.2
+				},
+				{
+					"heading": "Nov",
+					"high": 7.3,
+					"low": 0.2,
+					"precipitation": 144
+				},
+				{
+					"heading": "Dec",
+					"high": 2.1,
+					"low": -5,
+					"precipitation": 111.2
+				}
+			]
+		},
+		"Windsor (Nova Scotia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1,
+					"low": -9.9,
+					"precipitation": 71.9
+				},
+				{
+					"heading": "Feb",
+					"high": 0.2,
+					"low": -9.1,
+					"precipitation": 54.6
+				},
+				{
+					"heading": "Mar",
+					"high": 4,
+					"low": -5.2,
+					"precipitation": 83.2
+				},
+				{
+					"heading": "Apr",
+					"high": 10.1,
+					"low": 0.4,
+					"precipitation": 88.6
+				},
+				{
+					"heading": "May",
+					"high": 17.1,
+					"low": 5.5,
+					"precipitation": 93.7
+				},
+				{
+					"heading": "Jun",
+					"high": 22.1,
+					"low": 10.3,
+					"precipitation": 82.8
+				},
+				{
+					"heading": "Jul",
+					"high": 25.5,
+					"low": 14.2,
+					"precipitation": 83.9
+				},
+				{
+					"heading": "Aug",
+					"high": 25.1,
+					"low": 13.9,
+					"precipitation": 76.3
+				},
+				{
+					"heading": "Sep",
+					"high": 20.6,
+					"low": 9.8,
+					"precipitation": 105.9
+				},
+				{
+					"heading": "Oct",
+					"high": 14.2,
+					"low": 4.6,
+					"precipitation": 108.8
+				},
+				{
+					"heading": "Nov",
+					"high": 8,
+					"low": 0.3,
+					"precipitation": 127
+				},
+				{
+					"heading": "Dec",
+					"high": 2.4,
+					"low": -5.6,
+					"precipitation": 84
+				}
+			]
+		},
+		"Yarmouth (Nova Scotia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.8,
+					"low": -6.9,
+					"precipitation": 68.7
+				},
+				{
+					"heading": "Feb",
+					"high": 1.1,
+					"low": -6.5,
+					"precipitation": 63.4
+				},
+				{
+					"heading": "Mar",
+					"high": 4,
+					"low": -3.4,
+					"precipitation": 85.6
+				},
+				{
+					"heading": "Apr",
+					"high": 9,
+					"low": 1.2,
+					"precipitation": 92
+				},
+				{
+					"heading": "May",
+					"high": 13.9,
+					"low": 5.5,
+					"precipitation": 100.6
+				},
+				{
+					"heading": "Jun",
+					"high": 18,
+					"low": 9.6,
+					"precipitation": 94.8
+				},
+				{
+					"heading": "Jul",
+					"high": 20.9,
+					"low": 12.7,
+					"precipitation": 88.4
+				},
+				{
+					"heading": "Aug",
+					"high": 21.1,
+					"low": 12.9,
+					"precipitation": 84.3
+				},
+				{
+					"heading": "Sep",
+					"high": 18.2,
+					"low": 10,
+					"precipitation": 94.9
+				},
+				{
+					"heading": "Oct",
+					"high": 13.3,
+					"low": 5.6,
+					"precipitation": 112.4
+				},
+				{
+					"heading": "Nov",
+					"high": 8.7,
+					"low": 1.6,
+					"precipitation": 130.5
+				},
+				{
+					"heading": "Dec",
+					"high": 3.8,
+					"low": -3.5,
+					"precipitation": 93.9
+				}
+			]
+		},
+		"Kejimkujik National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.4,
+					"low": -9.5,
+					"precipitation": 76
+				},
+				{
+					"heading": "Feb",
+					"high": 0.7,
+					"low": -9,
+					"precipitation": 55
+				},
+				{
+					"heading": "Mar",
+					"high": 4.7,
+					"low": -4.9,
+					"precipitation": 89.7
+				},
+				{
+					"heading": "Apr",
+					"high": 10.2,
+					"low": -0.2,
+					"precipitation": 103.3
+				},
+				{
+					"heading": "May",
+					"high": 17.1,
+					"low": 5.1,
+					"precipitation": 99.8
+				},
+				{
+					"heading": "Jun",
+					"high": 22.5,
+					"low": 10.2,
+					"precipitation": 96.2
+				},
+				{
+					"heading": "Jul",
+					"high": 25.6,
+					"low": 13.9,
+					"precipitation": 103.6
+				},
+				{
+					"heading": "Aug",
+					"high": 25,
+					"low": 13,
+					"precipitation": 87
+				},
+				{
+					"heading": "Sep",
+					"high": 20.8,
+					"low": 9.5,
+					"precipitation": 93
+				},
+				{
+					"heading": "Oct",
+					"high": 14,
+					"low": 3.7,
+					"precipitation": 109.9
+				},
+				{
+					"heading": "Nov",
+					"high": 8.3,
+					"low": 0.1,
+					"precipitation": 136.3
+				},
+				{
+					"heading": "Dec",
+					"high": 2.8,
+					"low": -5,
+					"precipitation": 105.5
+				}
+			]
+		},
+		"Niagara Falls (Ontario)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.4,
+					"low": -7.8,
+					"precipitation": 27.8
+				},
+				{
+					"heading": "Feb",
+					"high": 1.3,
+					"low": -6.6,
+					"precipitation": 29.6
+				},
+				{
+					"heading": "Mar",
+					"high": 5.9,
+					"low": -3.5,
+					"precipitation": 36.7
+				},
+				{
+					"heading": "Apr",
+					"high": 12.8,
+					"low": 2.2,
+					"precipitation": 66
+				},
+				{
+					"heading": "May",
+					"high": 19.4,
+					"low": 7.7,
+					"precipitation": 85.9
+				},
+				{
+					"heading": "Jun",
+					"high": 24.5,
+					"low": 13.7,
+					"precipitation": 80.9
+				},
+				{
+					"heading": "Jul",
+					"high": 27.4,
+					"low": 17,
+					"precipitation": 78.9
+				},
+				{
+					"heading": "Aug",
+					"high": 26,
+					"low": 16.2,
+					"precipitation": 79.2
+				},
+				{
+					"heading": "Sep",
+					"high": 21.9,
+					"low": 12.3,
+					"precipitation": 98.2
+				},
+				{
+					"heading": "Oct",
+					"high": 15.1,
+					"low": 6.3,
+					"precipitation": 79.7
+				},
+				{
+					"heading": "Nov",
+					"high": 8.7,
+					"low": 1.1,
+					"precipitation": 81.9
+				},
+				{
+					"heading": "Dec",
+					"high": 2.7,
+					"low": -4.1,
+					"precipitation": 49.3
+				}
+			]
+		},
+		"Kingston (Ontario)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -3.1,
+					"low": -12,
+					"precipitation": 29.2
+				},
+				{
+					"heading": "Feb",
+					"high": -2.1,
+					"low": -11.1,
+					"precipitation": 29
+				},
+				{
+					"heading": "Mar",
+					"high": 2.9,
+					"low": -6.1,
+					"precipitation": 41.3
+				},
+				{
+					"heading": "Apr",
+					"high": 10.3,
+					"low": 1.1,
+					"precipitation": 77.5
+				},
+				{
+					"heading": "May",
+					"high": 16.4,
+					"low": 7.1,
+					"precipitation": 76.9
+				},
+				{
+					"heading": "Jun",
+					"high": 21.7,
+					"low": 12.3,
+					"precipitation": 72
+				},
+				{
+					"heading": "Jul",
+					"high": 24.9,
+					"low": 15.8,
+					"precipitation": 64
+				},
+				{
+					"heading": "Aug",
+					"high": 24.1,
+					"low": 15.1,
+					"precipitation": 93.7
+				},
+				{
+					"heading": "Sep",
+					"high": 19.5,
+					"low": 10.5,
+					"precipitation": 89.7
+				},
+				{
+					"heading": "Oct",
+					"high": 13.1,
+					"low": 4.5,
+					"precipitation": 91
+				},
+				{
+					"heading": "Nov",
+					"high": 7,
+					"low": -0.6,
+					"precipitation": 92.4
+				},
+				{
+					"heading": "Dec",
+					"high": 0.8,
+					"low": -7.4,
+					"precipitation": 52.2
+				}
+			]
+		},
+		"Hamilton (Ontario)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -0.9,
+					"low": -8.5,
+					"precipitation": 27.4
+				},
+				{
+					"heading": "Feb",
+					"high": 0.1,
+					"low": -7.9,
+					"precipitation": 26.4
+				},
+				{
+					"heading": "Mar",
+					"high": 4.8,
+					"low": -3.8,
+					"precipitation": 43.3
+				},
+				{
+					"heading": "Apr",
+					"high": 11.7,
+					"low": 2.4,
+					"precipitation": 70.1
+				},
+				{
+					"heading": "May",
+					"high": 18.6,
+					"low": 7.9,
+					"precipitation": 85.5
+				},
+				{
+					"heading": "Jun",
+					"high": 24.3,
+					"low": 13.4,
+					"precipitation": 72.7
+				},
+				{
+					"heading": "Jul",
+					"high": 27.3,
+					"low": 16.7,
+					"precipitation": 82.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.9,
+					"low": 15.8,
+					"precipitation": 89.7
+				},
+				{
+					"heading": "Sep",
+					"high": 21.1,
+					"low": 11.4,
+					"precipitation": 80.9
+				},
+				{
+					"heading": "Oct",
+					"high": 14.6,
+					"low": 5.4,
+					"precipitation": 71.6
+				},
+				{
+					"heading": "Nov",
+					"high": 7.7,
+					"low": 0.4,
+					"precipitation": 83.2
+				},
+				{
+					"heading": "Dec",
+					"high": 2,
+					"low": -4.7,
+					"precipitation": 46.8
+				}
+			]
+		},
+		"Kitchener": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -2.6,
+					"low": -10.3,
+					"precipitation": 28.7
+				},
+				{
+					"heading": "Feb",
+					"high": -1.2,
+					"low": -9.7,
+					"precipitation": 29.7
+				},
+				{
+					"heading": "Mar",
+					"high": 3.6,
+					"low": -5.6,
+					"precipitation": 36.8
+				},
+				{
+					"heading": "Apr",
+					"high": 11.5,
+					"low": 0.8,
+					"precipitation": 68
+				},
+				{
+					"heading": "May",
+					"high": 18.5,
+					"low": 6.4,
+					"precipitation": 81.8
+				},
+				{
+					"heading": "Jun",
+					"high": 23.6,
+					"low": 11.5,
+					"precipitation": 82.4
+				},
+				{
+					"heading": "Jul",
+					"high": 26,
+					"low": 14,
+					"precipitation": 98.6
+				},
+				{
+					"heading": "Aug",
+					"high": 24.8,
+					"low": 12.9,
+					"precipitation": 83.9
+				},
+				{
+					"heading": "Sep",
+					"high": 20.4,
+					"low": 8.6,
+					"precipitation": 87.8
+				},
+				{
+					"heading": "Oct",
+					"high": 13.5,
+					"low": 2.9,
+					"precipitation": 66.1
+				},
+				{
+					"heading": "Nov",
+					"high": 6.3,
+					"low": -1.4,
+					"precipitation": 75
+				},
+				{
+					"heading": "Dec",
+					"high": 0.2,
+					"low": -6.8,
+					"precipitation": 38
+				}
+			]
+		},
+		"London (Ontario)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -1.9,
+					"low": -9.2,
+					"precipitation": 33.4
+				},
+				{
+					"heading": "Feb",
+					"high": -0.5,
+					"low": -8.6,
+					"precipitation": 33.6
+				},
+				{
+					"heading": "Mar",
+					"high": 4.4,
+					"low": -4.5,
+					"precipitation": 46.3
+				},
+				{
+					"heading": "Apr",
+					"high": 12.1,
+					"low": 1.5,
+					"precipitation": 74.7
+				},
+				{
+					"heading": "May",
+					"high": 19,
+					"low": 7.2,
+					"precipitation": 89.4
+				},
+				{
+					"heading": "Jun",
+					"high": 24,
+					"low": 12.6,
+					"precipitation": 91.7
+				},
+				{
+					"heading": "Jul",
+					"high": 26.4,
+					"low": 15.1,
+					"precipitation": 82.7
+				},
+				{
+					"heading": "Aug",
+					"high": 25.3,
+					"low": 14,
+					"precipitation": 82.9
+				},
+				{
+					"heading": "Sep",
+					"high": 21.1,
+					"low": 9.9,
+					"precipitation": 103
+				},
+				{
+					"heading": "Oct",
+					"high": 14.2,
+					"low": 4.3,
+					"precipitation": 78.1
+				},
+				{
+					"heading": "Nov",
+					"high": 7.2,
+					"low": -0.4,
+					"precipitation": 83.2
+				},
+				{
+					"heading": "Dec",
+					"high": 0.9,
+					"low": -6.1,
+					"precipitation": 46.9
+				}
+			]
+		},
+		"Windsor (Ontario)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 0.4,
+					"low": -6.4,
+					"precipitation": 35.6
+				},
+				{
+					"heading": "Feb",
+					"high": 2.9,
+					"low": -5.1,
+					"precipitation": 38.9
+				},
+				{
+					"heading": "Mar",
+					"high": 7.7,
+					"low": -1.8,
+					"precipitation": 43.3
+				},
+				{
+					"heading": "Apr",
+					"high": 14.9,
+					"low": 3.9,
+					"precipitation": 78.3
+				},
+				{
+					"heading": "May",
+					"high": 20.9,
+					"low": 9.6,
+					"precipitation": 94
+				},
+				{
+					"heading": "Jun",
+					"high": 27,
+					"low": 15.7,
+					"precipitation": 67.5
+				},
+				{
+					"heading": "Jul",
+					"high": 29,
+					"low": 18.1,
+					"precipitation": 81.3
+				},
+				{
+					"heading": "Aug",
+					"high": 27.8,
+					"low": 17.6,
+					"precipitation": 78.3
+				},
+				{
+					"heading": "Sep",
+					"high": 24.3,
+					"low": 13.4,
+					"precipitation": 77.4
+				},
+				{
+					"heading": "Oct",
+					"high": 16.8,
+					"low": 7.3,
+					"precipitation": 65.9
+				},
+				{
+					"heading": "Nov",
+					"high": 9.7,
+					"low": 2.1,
+					"precipitation": 65.1
+				},
+				{
+					"heading": "Dec",
+					"high": 3.1,
+					"low": -3.1,
+					"precipitation": 40.4
+				}
+			]
+		},
+		"Bruce Peninsula": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 129,
+					"high": -9,
+					"low": -11
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 90,
+					"high": -7,
+					"low": -14
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 64,
+					"high": -1,
+					"low": -9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 114,
+					"high": 10,
+					"low": -2
+				},
+				{
+					"heading": "May",
+					"precipitation": 74,
+					"high": 18,
+					"low": 3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 87,
+					"high": 16,
+					"low": 11
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 92,
+					"high": 21,
+					"low": 14
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 101,
+					"high": 22,
+					"low": 14
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 122,
+					"high": 19,
+					"low": 11
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 168,
+					"high": 11,
+					"low": 6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 116,
+					"high": 5,
+					"low": 0
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 98,
+					"high": -4,
+					"low": -8
+				}
+			]
+		},
+		"Ontario": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Feb",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Mar",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "Apr",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				},
+				{
+					"heading": "May",
+					"precipitation": null,
+					"high": null,
+					"low": null
+				}
+			]
+		},
+		"Edmonton": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -8.7,
+					"low": -19.8,
+					"precipitation": 2
+				},
+				{
+					"heading": "Feb",
+					"high": -5.1,
+					"low": -16.7,
+					"precipitation": 0.5
+				},
+				{
+					"heading": "Mar",
+					"high": 0.1,
+					"low": -11.1,
+					"precipitation": 1.4
+				},
+				{
+					"heading": "Apr",
+					"high": 9.9,
+					"low": -2.7,
+					"precipitation": 10.3
+				},
+				{
+					"heading": "May",
+					"high": 17.4,
+					"low": 3.2,
+					"precipitation": 39.1
+				},
+				{
+					"heading": "Jun",
+					"high": 20.9,
+					"low": 7.4,
+					"precipitation": 76.1
+				},
+				{
+					"heading": "Jul",
+					"high": 22.5,
+					"low": 9.4,
+					"precipitation": 101
+				},
+				{
+					"heading": "Aug",
+					"high": 21.8,
+					"low": 8.2,
+					"precipitation": 69.5
+				},
+				{
+					"heading": "Sep",
+					"high": 16.6,
+					"low": 3.2,
+					"precipitation": 44.9
+				},
+				{
+					"heading": "Oct",
+					"high": 11.3,
+					"low": -2.2,
+					"precipitation": 10.2
+				},
+				{
+					"heading": "Nov",
+					"high": -0.4,
+					"low": -11.1,
+					"precipitation": 1.9
+				},
+				{
+					"heading": "Dec",
+					"high": -6.9,
+					"low": -11.1,
+					"precipitation": 0.9
+				}
+			]
+		}
+	}
+}

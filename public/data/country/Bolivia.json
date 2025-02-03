@@ -1,0 +1,696 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/kS3ZfbM2Gn",
+			"type": "instagram",
+			"embed": true
+		}
+	],
+	"places": {
+		"Cochabamba": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 23.9,
+					"low": 12.2,
+					"precipitation": 94
+				},
+				{
+					"heading": "Feb",
+					"high": 23.3,
+					"low": 11.7,
+					"precipitation": 68.8
+				},
+				{
+					"heading": "Mar",
+					"high": 24.4,
+					"low": 10.6,
+					"precipitation": 38.4
+				},
+				{
+					"heading": "Apr",
+					"high": 25,
+					"low": 7.8,
+					"precipitation": 12.7
+				},
+				{
+					"heading": "May",
+					"high": 24.4,
+					"low": 3.9,
+					"precipitation": 2.3
+				},
+				{
+					"heading": "Jun",
+					"high": 23.3,
+					"low": 1.1,
+					"precipitation": 1.3
+				},
+				{
+					"heading": "Jul",
+					"high": 23.3,
+					"low": 1.7,
+					"precipitation": 2.5
+				},
+				{
+					"heading": "Aug",
+					"high": 23.9,
+					"low": 3.9,
+					"precipitation": 7.6
+				},
+				{
+					"heading": "Sep",
+					"high": 25.6,
+					"low": 7.8,
+					"precipitation": 6.1
+				},
+				{
+					"heading": "Oct",
+					"high": 26.1,
+					"low": 10,
+					"precipitation": 20.8
+				},
+				{
+					"heading": "Nov",
+					"high": 25.6,
+					"low": 11.1,
+					"precipitation": 38.1
+				},
+				{
+					"heading": "Dec",
+					"high": 25,
+					"low": 11.7,
+					"precipitation": 70.1
+				}
+			]
+		},
+		"Potosí": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 15,
+					"low": 3,
+					"precipitation": 92
+				},
+				{
+					"heading": "Feb",
+					"high": 15,
+					"low": 3,
+					"precipitation": 86
+				},
+				{
+					"heading": "Mar",
+					"high": 16,
+					"low": 2,
+					"precipitation": 55
+				},
+				{
+					"heading": "Apr",
+					"high": 17,
+					"low": 0,
+					"precipitation": 13
+				},
+				{
+					"heading": "May",
+					"high": 15,
+					"low": -2,
+					"precipitation": 3
+				},
+				{
+					"heading": "Jun",
+					"high": 14,
+					"low": -3,
+					"precipitation": 1
+				},
+				{
+					"heading": "Jul",
+					"high": 14,
+					"low": -4,
+					"precipitation": 1
+				},
+				{
+					"heading": "Aug",
+					"high": 15,
+					"low": -3,
+					"precipitation": 3
+				},
+				{
+					"heading": "Sep",
+					"high": 16,
+					"low": -1,
+					"precipitation": 10
+				},
+				{
+					"heading": "Oct",
+					"high": 18,
+					"low": 1,
+					"precipitation": 20
+				},
+				{
+					"heading": "Nov",
+					"high": 18,
+					"low": 2,
+					"precipitation": 38
+				},
+				{
+					"heading": "Dec",
+					"high": 17,
+					"low": 3,
+					"precipitation": 75
+				}
+			]
+		},
+		"Santa Cruz (city, Bolivia)": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.2,
+					"low": 21.3,
+					"precipitation": 203
+				},
+				{
+					"heading": "Feb",
+					"high": 30.5,
+					"low": 21.3,
+					"precipitation": 134
+				},
+				{
+					"heading": "Mar",
+					"high": 29.5,
+					"low": 20.5,
+					"precipitation": 118
+				},
+				{
+					"heading": "Apr",
+					"high": 27.7,
+					"low": 18.9,
+					"precipitation": 118
+				},
+				{
+					"heading": "May",
+					"high": 24.9,
+					"low": 16.5,
+					"precipitation": 84
+				},
+				{
+					"heading": "Jun",
+					"high": 23.1,
+					"low": 15.4,
+					"precipitation": 73
+				},
+				{
+					"heading": "Jul",
+					"high": 23.9,
+					"low": 14.8,
+					"precipitation": 61
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 16.3,
+					"precipitation": 37
+				},
+				{
+					"heading": "Sep",
+					"high": 29.4,
+					"low": 18.7,
+					"precipitation": 58
+				},
+				{
+					"heading": "Oct",
+					"high": 29.8,
+					"low": 19.8,
+					"precipitation": 108
+				},
+				{
+					"heading": "Nov",
+					"high": 30.7,
+					"low": 20.3,
+					"precipitation": 143
+				},
+				{
+					"heading": "Dec",
+					"high": 31.4,
+					"low": 20.9,
+					"precipitation": 185
+				}
+			]
+		},
+		"Sucre": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 154,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 117,
+					"high": 22,
+					"low": 11
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 103,
+					"high": 22,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 30,
+					"high": 22,
+					"low": 9
+				},
+				{
+					"heading": "May",
+					"precipitation": 6,
+					"high": 22,
+					"low": 7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 2,
+					"high": 22,
+					"low": 5
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 2,
+					"high": 22,
+					"low": 5
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 12,
+					"high": 23,
+					"low": 6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 24,
+					"high": 24,
+					"low": 8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 48,
+					"high": 24,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 63,
+					"high": 24,
+					"low": 11
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 118,
+					"high": 23,
+					"low": 11
+				}
+			]
+		},
+		"Chacaltaya": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 2.3,
+					"low": -3.3,
+					"precipitation": 105.4
+				},
+				{
+					"heading": "Feb",
+					"high": 2.3,
+					"low": -3.7,
+					"precipitation": 81.5
+				},
+				{
+					"heading": "Mar",
+					"high": 2.5,
+					"low": -3.7,
+					"precipitation": 70.2
+				},
+				{
+					"heading": "Apr",
+					"high": 2.5,
+					"low": -3.8,
+					"precipitation": 31.7
+				},
+				{
+					"heading": "May",
+					"high": 2.3,
+					"low": -4.9,
+					"precipitation": 13.9
+				},
+				{
+					"heading": "Jun",
+					"high": 1.4,
+					"low": -6.3,
+					"precipitation": 6.8
+				},
+				{
+					"heading": "Jul",
+					"high": 1.6,
+					"low": -6.5,
+					"precipitation": 6.9
+				},
+				{
+					"heading": "Aug",
+					"high": 2.2,
+					"low": -5.9,
+					"precipitation": 10
+				},
+				{
+					"heading": "Sep",
+					"high": 1.9,
+					"low": -5.4,
+					"precipitation": 27.7
+				},
+				{
+					"heading": "Oct",
+					"high": 2.9,
+					"low": -4.3,
+					"precipitation": 34.2
+				},
+				{
+					"heading": "Nov",
+					"high": 3.1,
+					"low": -3.9,
+					"precipitation": 51.9
+				},
+				{
+					"heading": "Dec",
+					"high": 2.8,
+					"low": -3.6,
+					"precipitation": 77.8
+				}
+			]
+		},
+		"Isla del Sol": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 14.4,
+					"low": 4.4,
+					"precipitation": 164.1
+				},
+				{
+					"heading": "Feb",
+					"high": 14.4,
+					"low": 4.5,
+					"precipitation": 117.4
+				},
+				{
+					"heading": "Mar",
+					"high": 14.6,
+					"low": 4.5,
+					"precipitation": 97.1
+				},
+				{
+					"heading": "Apr",
+					"high": 14.4,
+					"low": 4.4,
+					"precipitation": 44.5
+				},
+				{
+					"heading": "May",
+					"high": 14.3,
+					"low": 3.6,
+					"precipitation": 11.5
+				},
+				{
+					"heading": "Jun",
+					"high": 13.7,
+					"low": 2.7,
+					"precipitation": 11.2
+				},
+				{
+					"heading": "Jul",
+					"high": 13.4,
+					"low": 2.5,
+					"precipitation": 5.5
+				},
+				{
+					"heading": "Aug",
+					"high": 13.9,
+					"low": 3,
+					"precipitation": 24
+				},
+				{
+					"heading": "Sep",
+					"high": 14.5,
+					"low": 3.5,
+					"precipitation": 28.4
+				},
+				{
+					"heading": "Oct",
+					"high": 15,
+					"low": 4.1,
+					"precipitation": 38.2
+				},
+				{
+					"heading": "Nov",
+					"high": 15.2,
+					"low": 4.4,
+					"precipitation": 51.7
+				},
+				{
+					"heading": "Dec",
+					"high": 15.1,
+					"low": 4.5,
+					"precipitation": 96.6
+				}
+			]
+		},
+		"Noel Kempff Mercado National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 250,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 353,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 262,
+					"high": 24,
+					"low": 19
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 154,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 115,
+					"high": 23,
+					"low": 19
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 57,
+					"high": 25,
+					"low": 18
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 21,
+					"high": 24,
+					"low": 18
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 17,
+					"high": 28,
+					"low": 19
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 73,
+					"high": 28,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 114,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 164,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 204,
+					"high": 25,
+					"low": 20
+				}
+			]
+		},
+		"Salar de Uyuni": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 85,
+					"high": 17,
+					"low": 6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 38,
+					"high": 16,
+					"low": 9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 12,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 11,
+					"high": 12,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"precipitation": 26,
+					"high": 6,
+					"low": -3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 18,
+					"high": 5,
+					"low": -7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 4,
+					"high": 4,
+					"low": -7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 13,
+					"high": 6,
+					"low": -4
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 5,
+					"high": 8,
+					"low": -1
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 9,
+					"high": 12,
+					"low": 3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 8,
+					"high": 15,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 11,
+					"high": 18,
+					"low": 7
+				}
+			]
+		},
+		"La Paz": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 18.5,
+					"low": 7.4,
+					"precipitation": 125.5
+				},
+				{
+					"heading": "Feb",
+					"high": 18.7,
+					"low": 7.3,
+					"precipitation": 81
+				},
+				{
+					"heading": "Mar",
+					"high": 18.9,
+					"low": 7.2,
+					"precipitation": 67.5
+				},
+				{
+					"heading": "Apr",
+					"high": 19.2,
+					"low": 6.3,
+					"precipitation": 27.1
+				},
+				{
+					"heading": "May",
+					"high": 19.1,
+					"low": 4.6,
+					"precipitation": 8.9
+				},
+				{
+					"heading": "Jun",
+					"high": 17.8,
+					"low": 3.3,
+					"precipitation": 7.9
+				},
+				{
+					"heading": "Jul",
+					"high": 17.4,
+					"low": 2.8,
+					"precipitation": 5.3
+				},
+				{
+					"heading": "Aug",
+					"high": 18.4,
+					"low": 3.7,
+					"precipitation": 12.1
+				},
+				{
+					"heading": "Sep",
+					"high": 19,
+					"low": 4.8,
+					"precipitation": 24.5
+				},
+				{
+					"heading": "Oct",
+					"high": 19.8,
+					"low": 6.2,
+					"precipitation": 37.8
+				},
+				{
+					"heading": "Nov",
+					"high": 20.4,
+					"low": 7,
+					"precipitation": 43.9
+				},
+				{
+					"heading": "Dec",
+					"high": 20,
+					"low": 7.5,
+					"precipitation": 82.3
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,362 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Porto-Novo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 23
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 34
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 86
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 127
+				},
+				{
+					"heading": "May",
+					"precipitation": 215
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 370
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 129
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 44
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 89
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 140
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 52
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 16
+				}
+			]
+		},
+		"Abomey": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 23,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 45,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 90,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 126,
+					"high": 30,
+					"low": 21
+				},
+				{
+					"heading": "May",
+					"precipitation": 214,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 183,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 162,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 74,
+					"high": 25,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 195,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 157,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 45,
+					"high": 29,
+					"low": 22
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 19,
+					"high": 31,
+					"low": 22
+				}
+			]
+		},
+		"Cotonou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.8,
+					"low": 23.8,
+					"precipitation": 9.2
+				},
+				{
+					"heading": "Feb",
+					"high": 31.6,
+					"low": 25.4,
+					"precipitation": 36.8
+				},
+				{
+					"heading": "Mar",
+					"high": 31.9,
+					"low": 25.9,
+					"precipitation": 73.8
+				},
+				{
+					"heading": "Apr",
+					"high": 31.6,
+					"low": 25.6,
+					"precipitation": 137
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 24.6,
+					"precipitation": 196.9
+				},
+				{
+					"heading": "Jun",
+					"high": 29.2,
+					"low": 23.7,
+					"precipitation": 356
+				},
+				{
+					"heading": "Jul",
+					"high": 28,
+					"low": 23.7,
+					"precipitation": 147
+				},
+				{
+					"heading": "Aug",
+					"high": 27.8,
+					"low": 23.4,
+					"precipitation": 64.9
+				},
+				{
+					"heading": "Sep",
+					"high": 28.4,
+					"low": 23.6,
+					"precipitation": 99
+				},
+				{
+					"heading": "Oct",
+					"high": 29.6,
+					"low": 23.8,
+					"precipitation": 126.7
+				},
+				{
+					"heading": "Nov",
+					"high": 30.9,
+					"low": 24.3,
+					"precipitation": 41.4
+				},
+				{
+					"heading": "Dec",
+					"high": 30.8,
+					"low": 23.8,
+					"precipitation": 19.6
+				}
+			]
+		},
+		"Parakou": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 34.1,
+					"low": 18.9,
+					"precipitation": 3.8
+				},
+				{
+					"heading": "Feb",
+					"high": 36,
+					"low": 21.3,
+					"precipitation": 9.2
+				},
+				{
+					"heading": "Mar",
+					"high": 36.2,
+					"low": 22.9,
+					"precipitation": 39.4
+				},
+				{
+					"heading": "Apr",
+					"high": 34.9,
+					"low": 23.1,
+					"precipitation": 85.5
+				},
+				{
+					"heading": "May",
+					"high": 32.8,
+					"low": 22.2,
+					"precipitation": 130.8
+				},
+				{
+					"heading": "Jun",
+					"high": 30.7,
+					"low": 21.4,
+					"precipitation": 172
+				},
+				{
+					"heading": "Jul",
+					"high": 29.2,
+					"low": 21,
+					"precipitation": 189.9
+				},
+				{
+					"heading": "Aug",
+					"high": 28.6,
+					"low": 20.8,
+					"precipitation": 208.8
+				},
+				{
+					"heading": "Sep",
+					"high": 29.5,
+					"low": 20.5,
+					"precipitation": 205.6
+				},
+				{
+					"heading": "Oct",
+					"high": 31.5,
+					"low": 20.8,
+					"precipitation": 91.1
+				},
+				{
+					"heading": "Nov",
+					"high": 33.6,
+					"low": 19.7,
+					"precipitation": 6.3
+				},
+				{
+					"heading": "Dec",
+					"high": 33.6,
+					"low": 18.5,
+					"precipitation": 6.6
+				}
+			]
+		},
+		"Pendjari National Park": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 1,
+					"high": 37,
+					"low": 15
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 17,
+					"high": 38,
+					"low": 18
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 10,
+					"high": 40,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 71,
+					"high": 40,
+					"low": 25
+				},
+				{
+					"heading": "May",
+					"precipitation": 126,
+					"high": 34,
+					"low": 24
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 161,
+					"high": 27,
+					"low": 22
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 205,
+					"high": 24,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 265,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 243,
+					"high": 23,
+					"low": 20
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 69,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 6,
+					"high": 33,
+					"low": 18
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 1,
+					"high": 37,
+					"low": 16
+				}
+			]
+		}
+	}
+}

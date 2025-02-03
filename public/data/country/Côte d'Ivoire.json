@@ -1,0 +1,386 @@
+{
+	"note": "<p>n/a</p>\n",
+	"snippets": [],
+	"places": {
+		"Abidjan": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 30.5,
+					"low": 23.5,
+					"precipitation": 16.3
+				},
+				{
+					"heading": "Feb",
+					"high": 31,
+					"low": 24.6,
+					"precipitation": 48.9
+				},
+				{
+					"heading": "Mar",
+					"high": 31.1,
+					"low": 24.9,
+					"precipitation": 106.7
+				},
+				{
+					"heading": "Apr",
+					"high": 31.2,
+					"low": 24.9,
+					"precipitation": 141.3
+				},
+				{
+					"heading": "May",
+					"high": 30.4,
+					"low": 24.6,
+					"precipitation": 293.5
+				},
+				{
+					"heading": "Jun",
+					"high": 28.7,
+					"low": 23.7,
+					"precipitation": 561.8
+				},
+				{
+					"heading": "Jul",
+					"high": 27.4,
+					"low": 22.9,
+					"precipitation": 205.7
+				},
+				{
+					"heading": "Aug",
+					"high": 26.9,
+					"low": 22.1,
+					"precipitation": 36.8
+				},
+				{
+					"heading": "Sep",
+					"high": 27.6,
+					"low": 22.3,
+					"precipitation": 80.5
+				},
+				{
+					"heading": "Oct",
+					"high": 29.2,
+					"low": 23.6,
+					"precipitation": 137.7
+				},
+				{
+					"heading": "Nov",
+					"high": 30.5,
+					"low": 24.4,
+					"precipitation": 143.3
+				},
+				{
+					"heading": "Dec",
+					"high": 30.3,
+					"low": 23.8,
+					"precipitation": 75.1
+				}
+			]
+		},
+		"Korhogo": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 7,
+					"high": 34,
+					"low": 17
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 16,
+					"high": 36,
+					"low": 20
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 81,
+					"high": 36,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 96,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "May",
+					"precipitation": 171,
+					"high": 31,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 201,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 150,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 287,
+					"high": 24,
+					"low": 17
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 224,
+					"high": 25,
+					"low": 21
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 102,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 52,
+					"high": 32,
+					"low": 21
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 8,
+					"high": 32,
+					"low": 17
+				}
+			]
+		},
+		"Bouaké": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 33,
+					"low": 20.6,
+					"precipitation": 12.5
+				},
+				{
+					"heading": "Feb",
+					"high": 33.5,
+					"low": 21.8,
+					"precipitation": 40
+				},
+				{
+					"heading": "Mar",
+					"high": 33.8,
+					"low": 22.3,
+					"precipitation": 83.8
+				},
+				{
+					"heading": "Apr",
+					"high": 32.7,
+					"low": 22,
+					"precipitation": 126.4
+				},
+				{
+					"heading": "May",
+					"high": 31,
+					"low": 21.7,
+					"precipitation": 123.7
+				},
+				{
+					"heading": "Jun",
+					"high": 29.9,
+					"low": 21.2,
+					"precipitation": 147.2
+				},
+				{
+					"heading": "Jul",
+					"high": 27.8,
+					"low": 20.8,
+					"precipitation": 117.5
+				},
+				{
+					"heading": "Aug",
+					"high": 27.7,
+					"low": 20.9,
+					"precipitation": 128
+				},
+				{
+					"heading": "Sep",
+					"high": 28.5,
+					"low": 21.1,
+					"precipitation": 168.1
+				},
+				{
+					"heading": "Oct",
+					"high": 30.1,
+					"low": 21.3,
+					"precipitation": 107.9
+				},
+				{
+					"heading": "Nov",
+					"high": 31.3,
+					"low": 21.3,
+					"precipitation": 30.2
+				},
+				{
+					"heading": "Dec",
+					"high": 31.7,
+					"low": 20.3,
+					"precipitation": 14.6
+				}
+			]
+		},
+		"Yamoussoukro": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 31.5,
+					"low": 18.9,
+					"precipitation": 13
+				},
+				{
+					"heading": "Feb",
+					"high": 33.5,
+					"low": 21.2,
+					"precipitation": 42
+				},
+				{
+					"heading": "Mar",
+					"high": 33.5,
+					"low": 21.8,
+					"precipitation": 108
+				},
+				{
+					"heading": "Apr",
+					"high": 32.9,
+					"low": 21.8,
+					"precipitation": 126
+				},
+				{
+					"heading": "May",
+					"high": 31.7,
+					"low": 21.3,
+					"precipitation": 155
+				},
+				{
+					"heading": "Jun",
+					"high": 30.1,
+					"low": 21.1,
+					"precipitation": 165
+				},
+				{
+					"heading": "Jul",
+					"high": 28.6,
+					"low": 20.4,
+					"precipitation": 88
+				},
+				{
+					"heading": "Aug",
+					"high": 28.5,
+					"low": 20.6,
+					"precipitation": 83
+				},
+				{
+					"heading": "Sep",
+					"high": 29.3,
+					"low": 20.4,
+					"precipitation": 170
+				},
+				{
+					"heading": "Oct",
+					"high": 30.1,
+					"low": 20.4,
+					"precipitation": 125
+				},
+				{
+					"heading": "Nov",
+					"high": 30.7,
+					"low": 20.3,
+					"precipitation": 36
+				},
+				{
+					"heading": "Dec",
+					"high": 30.1,
+					"low": 19,
+					"precipitation": 15
+				}
+			]
+		},
+		"Grand-Bassam": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 15,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 74,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 84,
+					"high": 27,
+					"low": 21
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 137,
+					"high": 26,
+					"low": 22
+				},
+				{
+					"heading": "May",
+					"precipitation": 219,
+					"high": 27,
+					"low": 23
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 322,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 129,
+					"high": 25,
+					"low": 20
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 30,
+					"high": 28,
+					"low": 21
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 75,
+					"high": 26,
+					"low": 19
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 121,
+					"high": 26,
+					"low": 21
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 187,
+					"high": 27,
+					"low": 20
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 75,
+					"high": 25,
+					"low": 21
+				}
+			]
+		}
+	}
+}
