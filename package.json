@@ -6,7 +6,7 @@
   "scripts": {
     "update": "node update.js",
     "start": "npm run update && vite",
-    "build": "vite build",
+    "build": "vite build && cp _redirects dist/",
     "preview": "vite preview"
   },
   "dependencies": {
