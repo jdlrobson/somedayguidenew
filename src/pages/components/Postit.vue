@@ -35,8 +35,8 @@ onMounted(() => {
     <div class="postit-text" v-if="text">
       <span>{{  text  }}</span>
     </div>
-    <a v-if="href" :href="href"
-      :target="target"></a>
+    <router-link v-if="href" :to="href"
+      :target="target"></router-link>
     <slot></slot>
     <link-logo v-if="href" :href="href"></link-logo>
   </div>
