@@ -1,6 +1,17 @@
 {
 	"note": "<p>Salep is the secret ingredient to turkish ice cream.</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/CtQE76UJkO9/?img_index=1",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/CtKH68srrR3/?img_index=1",
+			"type": "instagram",
+			"embed": true
+		}
+	],
 	"places": {
 		"Ankara": {
 			"climate": [

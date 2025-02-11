@@ -1305,7 +1305,7 @@
 				"Guarani"
 			]
 		},
-		"snippets": 1
+		"snippets": 12
 	},
 	"Bosnia and Herzegovina": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Travnik_Panorama_1.JPG/600px-Travnik_Panorama_1.JPG",
@@ -1502,7 +1502,7 @@
 			],
 			"currency": "BRL"
 		},
-		"snippets": 8
+		"snippets": 19
 	},
 	"Brunei": {
 		"zoom": 6,
@@ -1623,7 +1623,7 @@
 			],
 			"currency": "BGN"
 		},
-		"snippets": 0
+		"snippets": 5
 	},
 	"Burkina Faso": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arli_National_Park_Burkina_Faso.png/440px-Arli_National_Park_Burkina_Faso.png",
@@ -1967,7 +1967,7 @@
 			],
 			"currency": "CAD"
 		},
-		"snippets": 1
+		"snippets": 3
 	},
 	"Cape Verde": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Casal_na_Praia_de_Leste.jpg/440px-Casal_na_Praia_de_Leste.jpg",
@@ -2251,7 +2251,7 @@
 			],
 			"currency": "CNY"
 		},
-		"snippets": 36
+		"snippets": 39
 	},
 	"Colombia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nevado_del_Ruiz_Valle_de_los_muertos.JPG/440px-Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
@@ -2575,7 +2575,7 @@
 			],
 			"currency": "CRC"
 		},
-		"snippets": 0
+		"snippets": 1
 	},
 	"Côte d'Ivoire": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg/440px-Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg",
@@ -4370,7 +4370,7 @@
 				"Abkhaz"
 			]
 		},
-		"snippets": 8
+		"snippets": 12
 	},
 	"Germany": {
 		"zoom": 5,
@@ -4469,7 +4469,7 @@
 				"German"
 			]
 		},
-		"snippets": 3
+		"snippets": 4
 	},
 	"Ghana": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ghana_footbridge1.jpg/440px-Ghana_footbridge1.jpg",
@@ -4646,7 +4646,7 @@
 			1584,
 			1575
 		],
-		"snippets": 6
+		"snippets": 9
 	},
 	"Guatemala": {
 		"zoom": 5,
@@ -5334,7 +5334,7 @@
 			],
 			"currency": "IDR"
 		},
-		"snippets": 22
+		"snippets": 23
 	},
 	"Iran": {
 		"zoom": 4,
@@ -5712,7 +5712,7 @@
 			],
 			"currency": "ILS"
 		},
-		"snippets": 4
+		"snippets": 5
 	},
 	"Italy": {
 		"seen": 46,
@@ -5819,7 +5819,7 @@
 				"Italian"
 			]
 		},
-		"snippets": 2
+		"snippets": 6
 	},
 	"Jamaica": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sunny_lodge_walderston_jamaica.jpg/440px-Sunny_lodge_walderston_jamaica.jpg",
@@ -5948,7 +5948,7 @@
 			],
 			"currency": "JPY"
 		},
-		"snippets": 15
+		"snippets": 22
 	},
 	"Jordan": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/As_Salt_Castle.JPG/440px-As_Salt_Castle.JPG",
@@ -7060,7 +7060,7 @@
 				"Malay"
 			]
 		},
-		"snippets": 8
+		"snippets": 10
 	},
 	"Maldives": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Male-total.jpg/516px-Male-total.jpg",
@@ -7595,7 +7595,7 @@
 			],
 			"currency": "MXN"
 		},
-		"snippets": 3
+		"snippets": 4
 	},
 	"Federated States of Micronesia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pink_anemonefish_BWP.jpg/440px-Pink_anemonefish_BWP.jpg",
@@ -7837,7 +7837,7 @@
 				"Albanian"
 			]
 		},
-		"snippets": 10
+		"snippets": 13
 	},
 	"Morocco": {
 		"seen": 49,
@@ -7907,7 +7907,7 @@
 				"Standard Moroccan Berber"
 			]
 		},
-		"snippets": 3
+		"snippets": 6
 	},
 	"Mozambique": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg/440px-Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg",
@@ -8002,7 +8002,7 @@
 				"Burmese"
 			]
 		},
-		"snippets": 5
+		"snippets": 11
 	},
 	"Namibia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Robbenkolonie_Sklelettk%C3%BCste_anagoria.JPG/440px-Robbenkolonie_Sklelettk%C3%BCste_anagoria.JPG",
@@ -8253,7 +8253,7 @@
 				"English"
 			]
 		},
-		"snippets": 2
+		"snippets": 5
 	},
 	"New Zealand": {
 		"zoom": 4,
@@ -8444,7 +8444,7 @@
 			],
 			"currency": "NIO"
 		},
-		"snippets": 0
+		"snippets": 4
 	},
 	"Niger": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Elephants_bath_park_w_Niger_2006.jpg/440px-Elephants_bath_park_w_Niger_2006.jpg",
@@ -8883,7 +8883,7 @@
 			],
 			"currency": "PAB"
 		},
-		"snippets": 20
+		"snippets": 22
 	},
 	"Papua New Guinea": {
 		"zoom": 3,
@@ -9140,7 +9140,7 @@
 			],
 			"currency": "PEN"
 		},
-		"snippets": 11
+		"snippets": 16
 	},
 	"Philippines": {
 		"zoom": 4,
@@ -9248,7 +9248,7 @@
 				"English"
 			]
 		},
-		"snippets": 9
+		"snippets": 16
 	},
 	"Poland": {
 		"zoom": 5,
@@ -10145,7 +10145,7 @@
 			],
 			"currency": "RSD"
 		},
-		"snippets": 11
+		"snippets": 13
 	},
 	"Seychelles": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/LA_DIGUE%2C_SEYCHELLES%2C_2015_-_panoramio_%2824%29.jpg/440px-LA_DIGUE%2C_SEYCHELLES%2C_2015_-_panoramio_%2824%29.jpg",
@@ -10324,7 +10324,7 @@
 			],
 			"currency": "SGD"
 		},
-		"snippets": 18
+		"snippets": 23
 	},
 	"Slovakia": {
 		"zoom": 5,
@@ -10907,7 +10907,7 @@
 				"Occitan"
 			]
 		},
-		"snippets": 6
+		"snippets": 9
 	},
 	"Sri Lanka": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Morning_mist_in_Sinharaja.JPG/440px-Morning_mist_in_Sinharaja.JPG",
@@ -11609,7 +11609,7 @@
 			],
 			"currency": "TTD"
 		},
-		"snippets": 6
+		"snippets": 11
 	},
 	"Tunisia": {
 		"seen": 7,
@@ -11764,7 +11764,7 @@
 				"Turkish"
 			]
 		},
-		"snippets": 1
+		"snippets": 3
 	},
 	"Turkmenistan": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Central_Asia_100.jpg/580px-Central_Asia_100.jpg",
@@ -12133,7 +12133,7 @@
 				"Welsh"
 			]
 		},
-		"snippets": 8
+		"snippets": 16
 	},
 	"United States of America": {
 		"zoom": 3,
@@ -12334,7 +12334,7 @@
 				"American English"
 			]
 		},
-		"snippets": 42
+		"snippets": 58
 	},
 	"Uruguay": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Uruguay_%285886752274%29.jpg/2560px-Uruguay_%285886752274%29.jpg",
@@ -12629,7 +12629,7 @@
 				"Vietnamese"
 			]
 		},
-		"snippets": 3
+		"snippets": 6
 	},
 	"Yemen": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Shaharah_bridge.jpg/440px-Shaharah_bridge.jpg",

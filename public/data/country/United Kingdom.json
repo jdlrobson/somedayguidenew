@@ -7,6 +7,41 @@
 			"embed": true
 		},
 		{
+			"src": "https://www.instagram.com/p/BjsBZm_l08w",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Byvwz2WgW_V",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BMULXS3hNrD",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BMRrZs5hcKZ",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BEQ7lDgs2P2",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/BEUGcDkM2Ou",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/oZG2fZM2B1",
+			"type": "instagram",
+			"embed": true
+		},
+		{
 			"src": "https://www.instagram.com/p/oYWrKyM2F8",
 			"type": "instagram",
 			"embed": true
@@ -38,6 +73,11 @@
 			"embed": false,
 			"title": "Skye",
 			"url": "https://www.ricksteves.com/watch-read-listen/read/articles/scotland-isle-of-skye"
+		},
+		{
+			"src": "https://www.instagram.com/p/Cgml5sttAjO/",
+			"type": "instagram",
+			"embed": true
 		}
 	],
 	"places": {

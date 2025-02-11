@@ -13,6 +13,11 @@
 			"src": "https://en.wikipedia.org/wiki/Cologne_Carnival",
 			"type": "url",
 			"embed": false
+		},
+		{
+			"src": "https://www.instagram.com/p/C7FaE52yS41/?img_index=1",
+			"type": "instagram",
+			"embed": true
 		}
 	],
 	"places": {

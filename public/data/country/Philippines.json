@@ -9,6 +9,31 @@
 			"url": "https://en.wikipedia.org/wiki/Taal_Volcano"
 		},
 		{
+			"src": "https://www.instagram.com/p/cdvoA-M2ES",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/cbzZJis2L9",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/camDX6s2ED",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/caeul8s2KA",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/cWjgyGM2KN",
+			"type": "instagram",
+			"embed": true
+		},
+		{
 			"src": "https://farm4.static.flickr.com/3267/3100730196_7d72224918.jpg",
 			"type": "url",
 			"embed": false,
@@ -46,6 +71,11 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/cdSVu-s2In/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/cnL9LYs2M2",
 			"type": "instagram",
 			"embed": true
 		}

@@ -1,6 +1,35 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/CtHK_Idrj9H/?img_index=1",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Cs3W8HQIBFe/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/jdlrobson/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Csuxkm-I_gk/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "Who knew?!",
+			"src": "https://inaturalist-open-data.s3.amazonaws.com/photos/284923455/large.jpeg",
+			"type": "url",
+			"embed": false,
+			"title": "Flamingos in Bulgaria?!?!",
+			"url": "https://www.inaturalist.org/observations/164660608"
+		}
+	],
 	"places": {
 		"Sofia": {
 			"climate": [

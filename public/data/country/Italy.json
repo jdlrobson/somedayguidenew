@@ -2,11 +2,31 @@
 	"note": "<p>While here, consider travelling the slow way to <strong>Pula</strong> in <strong>Croatia</strong> (boat) or a trip to <strong>San Marino</strong> (overland).A good jumping off point for visits to both <strong>Italy</strong> and <strong>Croatia</strong>. Ryanair flies here.</p>\n",
 	"snippets": [
 		{
+			"src": "https://www.instagram.com/p/n8P-KnM2Ju",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/n8QSa4M2KI/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/n8PdNJM2I-/",
+			"type": "instagram",
+			"embed": true
+		},
+		{
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Abbey_of_Thelema_01.jpg/2560px-Abbey_of_Thelema_01.jpg",
 			"type": "url",
 			"embed": false,
 			"title": "Abbey of Thelema",
 			"url": "https://en.wikipedia.org/wiki/Abbey_of_Thelema"
+		},
+		{
+			"src": "https://www.instagram.com/p/n5nr6os2JC",
+			"type": "instagram",
+			"embed": true
 		}
 	],
 	"places": {

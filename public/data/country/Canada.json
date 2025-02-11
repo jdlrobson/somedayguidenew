@@ -1,6 +1,17 @@
 {
 	"note": "<p>Why don&#39;t you go find the magical tree on the lake in Vancouver island?</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/UT8_bfs2Pe",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/UT9AF7s2Pf",
+			"type": "instagram",
+			"embed": true
+		}
+	],
 	"places": {
 		"Ottawa": {
 			"climate": [

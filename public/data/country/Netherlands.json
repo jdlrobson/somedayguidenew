@@ -2,7 +2,22 @@
 	"note": "<p>Memories of cycling to the coast from Haarlem.</p>\n",
 	"snippets": [
 		{
-			"src": "https://www.instagram.com/p/tvDLBys2Nl",
+			"src": "https://www.instagram.com/p/9K8ppVs2IH",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/9JP8AdM2PV",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/9K8lSuM2IC",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/89MbaJs2IL",
 			"type": "instagram",
 			"embed": true
 		}

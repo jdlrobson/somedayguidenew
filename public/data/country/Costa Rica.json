@@ -1,6 +1,12 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/WGHZ7VM2Mq/",
+			"type": "instagram",
+			"embed": true
+		}
+	],
 	"places": {
 		"San José (Costa Rica)": {
 			"climate": [

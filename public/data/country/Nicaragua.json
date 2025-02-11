@@ -1,6 +1,27 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "https://www.instagram.com/p/V6-ldNs2M4",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/Vxlg-CM2Aa",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/V4bwyDM2Ps",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "https://www.instagram.com/p/V66Guus2JQ/",
+			"type": "instagram",
+			"embed": true
+		}
+	],
 	"places": {
 		"Managua": {
 			"climate": [
