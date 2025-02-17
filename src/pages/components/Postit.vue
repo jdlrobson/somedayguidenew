@@ -19,12 +19,18 @@ const className = {
   postitWithNote: props.text
 };
 
-const target = !props.href || props.href.indexOf( '/' ) === 0 ?
-  undefined : '_blank';
+const target = ref(
+  !props.href || props.href.indexOf( '/' ) === 0 ?
+  undefined : '_blank'
+);
+
+console.log(target.value, props.href);
 
 onMounted(() => {
   if (window.instgrm) window.instgrm.Embeds.process();
 })
+
+console.log(target, props.href);
 </script>
 
 <template>
@@ -35,8 +41,8 @@ onMounted(() => {
     <div class="postit-text" v-if="text">
       <span>{{  text  }}</span>
     </div>
-    <router-link v-if="href" :to="href"
-      :target="target"></router-link>
+    <a v-if="target" class="a-internal" :target="target" :href="href"></a>
+    <router-link v-else class="a-external" :to="href"></router-link>
     <slot></slot>
     <link-logo v-if="href" :href="href"></link-logo>
   </div>
