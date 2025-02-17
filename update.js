@@ -4,7 +4,7 @@ import { JSDOM } from 'jsdom';
 import fs from 'fs';
 import { parse } from 'marked';
 
-const allSrcs  = [];
+let allSrcs  = [];
 
 let pendingRequests = [];
 /**
@@ -160,19 +160,23 @@ const countrySnippets = {};
 function prepareFromSnippets( snippetDir ) {
     const files = fs.readdirSync( snippetDir );
     const snippets = [];
-    let total = 0;
+    // reset
+    allSrcs = [];
+    let skipped = 0;
     for (const file of files) {
-        total++;
         const filePath = `${snippetDir}/${file}`;
         const stats = fs.statSync(filePath);
         if (stats.isFile()) {
             const snippetObj = transformSnippet( filePath );
             if (snippetObj) {
-                snippets.push( snippetObj )
+                snippets.push( snippetObj );
+            } else {
+                skipped++;
+                console.warn( `Ignoring snippet ${ filePath }` );
             }
         }
     }
-    if ( total !== snippets.length ) {
+    if ( skipped > 0 ) {
         console.warn( 'Not all snippets were built for the site. Please run update command again.' )
     }
     return snippets;
@@ -186,7 +190,7 @@ function prepareFromNotes() {
         const countryData = json[c];
         const thumb = countryData.thumbnail;
         if ( thumb.indexOf( 'https://' ) === 0 && i === 0  ) {
-            console.log( thumb);
+            console.log(`@todo: store locally`, thumb);
         }
         const folder = `notes/country/${ c }`;
         if ( !fs.existsSync( folder ) ) {
