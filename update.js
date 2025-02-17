@@ -59,11 +59,19 @@ function transformSnippet( snipText ) {
  * Saves a snippet for a given country
  *
  * @param {string} country name of country equivalent to a folder in notes directory
- * @param {string} text of the snippet
  * @param {string} filename of snippet e.g. 1.txt - must be unique!
+ * @param {string} title of the snippet
+ * @param {string} url of the snippet
+ * @param {string} [imageSrc] of the snippet
+ * @param {string} [description] of the snippet
  * @return {void}
  */
-function saveSnippet( country, text, filename ) {
+function saveSnippet( country, filename, title, url, imageSrc = '', description = '' ) {
+    const text = `${imageSrc}
+${title}
+${url}
+${description}
+`
     const snippetDirPath = `notes/country/${country}/snippets/`;
     if ( !fs.existsSync( snippetDirPath )) {
         fs.mkdirSync(snippetDirPath);
@@ -183,11 +191,14 @@ function importBlogs() {
                 countries.forEach((country) => {
                     if ( json[country] ) {
                         console.log(`Found blog ${id} for ${country}`);
-                        saveSnippet( country, `${blog.featured_image || ''}
-${cleanup(blog.title)}
-${blog.URL}
-${cleanup(blog.excerpt)}
-`, `${id}.txt`)
+                        saveSnippet(
+                            country,
+                            `${id}.txt`,
+                            cleanup(blog.title),
+                            blog.URL,
+                            blog.featured_image,
+                            cleanup(blog.excerpt)
+                        );
                     }
                 });
             });
