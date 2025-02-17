@@ -17,7 +17,7 @@ function expandWikipediaSnippet( filePath, wikiTitle ) {
         .then((json) => {
             const src = json.thumbnail ? json.thumbnail.source : null;
             saveSnippet(filePath, json.titles.normalized,
-                `https://en.wikipedia.org/wiki/${wikiTitle}`, src, json.extract);
+                `https://en.wikipedia.org/wiki/${wikiTitle}`, src, `<small>[Wikipedia]:</from> ${json.extract}` );
         });
 }
 
@@ -32,11 +32,15 @@ function expandURLSnippet( filePath, url ) {
         const document = dom.window.document;
         const titleEl = document.querySelector('head title');
         let title = titleEl ? titleEl.textContent : 'n/a',
-            description, imageSrc;
+            author = url.split('//')[1].split( '/' )[0],
+            description = '', imageSrc;
         Array.from( document.querySelectorAll( 'head meta[property^="og"]' ) ).forEach( ( item ) => {
             const property = item.getAttribute( 'property' );
             const value = item.getAttribute( 'content' );
             switch ( property ) {
+                case 'og:site_name':
+                    author = value;
+                    break;
                 case 'og:title':
                     title = value;
                     break;
@@ -48,7 +52,7 @@ function expandURLSnippet( filePath, url ) {
                     break;
             }
         } );
-        console.log('save', title, url, imageSrc);
+        description += ` <small>[image from ${author}]</small>`
         saveSnippet( filePath, title, url, imageSrc, description );
     })
 }
@@ -156,7 +160,9 @@ const countrySnippets = {};
 function prepareFromSnippets( snippetDir ) {
     const files = fs.readdirSync( snippetDir );
     const snippets = [];
+    let total = 0;
     for (const file of files) {
+        total++;
         const filePath = `${snippetDir}/${file}`;
         const stats = fs.statSync(filePath);
         if (stats.isFile()) {
@@ -165,6 +171,9 @@ function prepareFromSnippets( snippetDir ) {
                 snippets.push( snippetObj )
             }
         }
+    }
+    if ( total !== snippets.length ) {
+        console.warn( 'Not all snippets were built for the site. Please run update command again.' )
     }
     return snippets;
 }
