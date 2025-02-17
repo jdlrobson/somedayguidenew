@@ -182,7 +182,6 @@ function prepareFromSnippets( snippetDir ) {
  * Checks the "notes" folder and updates countries.json
  */
 function prepareFromNotes() {
-    const zoomMissing = [];
     Object.keys(json).forEach( (c, i) => {
         const countryData = json[c];
         const thumb = countryData.thumbnail;
@@ -190,9 +189,6 @@ function prepareFromNotes() {
             console.log( thumb);
         }
         const folder = `notes/country/${ c }`;
-        if (!countryData.zoom ) {
-            zoomMissing.push(c);
-        }
         if ( !fs.existsSync( folder ) ) {
             fs.mkdirSync( folder );
         }
@@ -215,7 +211,6 @@ function prepareFromNotes() {
             json[c].destinations = destinations;
         }
     } );
-    console.log(`Add zoom for ${zoomMissing.length}: ${ zoomMissing}`)
 }
 
 /**

@@ -157,7 +157,8 @@
 			],
 			"currency": "DZD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Andorra": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iglesia_de_San_Miguel_de_Engolasters%2C_Engolasters%2C_Andorra%2C_2013-12-30%2C_DD_01.JPG/2560px-Iglesia_de_San_Miguel_de_Engolasters%2C_Engolasters%2C_Andorra%2C_2013-12-30%2C_DD_01.JPG",
@@ -205,7 +206,8 @@
 			],
 			"currency": "EUR"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 9
 	},
 	"Angola": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/1/19/Namibia_Ruacana_Falls.jpg",
@@ -255,7 +257,8 @@
 				"Portuguese"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Antigua and Barbuda": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hafen_von_St_John%27s.jpg/440px-Hafen_von_St_John%27s.jpg",
@@ -288,13 +291,14 @@
 			],
 			"currency": "XCD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Argentina": {
 		"seen": 63,
 		"seenL": 36,
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/El_Faro_de_C%C3%B3rdoba.jpg/440px-El_Faro_de_C%C3%B3rdoba.jpg",
-		"lat": -34,
+		"lat": -42,
 		"lon": -64,
 		"title": "Argentina",
 		"description": "Argentina, officially the Argentine Republic (Spanish: República Argentina) is a large country in the southern part of South America, bordering Bolivia, Brazil, and Paraguay to the north, Uruguay to the north-east and Chile to the west. It offers a great diversity of climates and landscapes from jungles in the north, great grass plains in the centre and frozen mountains in the south.",
@@ -405,7 +409,8 @@
 				"Spanish"
 			]
 		},
-		"snippets": 2
+		"snippets": 2,
+		"zoom": 3
 	},
 	"Armenia": {
 		"zoom": 6,
@@ -722,7 +727,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Bahrain": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BahrainInternationalAirport01.jpeg/440px-BahrainInternationalAirport01.jpeg",
@@ -770,7 +776,8 @@
 			],
 			"currency": "BHD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Bangladesh": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg/440px-Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg",
@@ -851,7 +858,8 @@
 			],
 			"currency": "BDT"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Barbados": {
 		"seen": 3,
@@ -886,7 +894,8 @@
 			],
 			"currency": "BBD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Belarus": {
 		"zoom": 5,
@@ -1082,7 +1091,8 @@
 				"German"
 			]
 		},
-		"snippets": 2
+		"snippets": 2,
+		"zoom": 6
 	},
 	"Belize": {
 		"zoom": 5,
@@ -1185,7 +1195,8 @@
 			],
 			"currency": "XOF"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Bhutan": {
 		"zoom": 6,
@@ -1305,7 +1316,8 @@
 				"Guarani"
 			]
 		},
-		"snippets": 12
+		"snippets": 12,
+		"zoom": 4
 	},
 	"Bosnia and Herzegovina": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Travnik_Panorama_1.JPG/600px-Travnik_Panorama_1.JPG",
@@ -1354,7 +1366,8 @@
 				"Serbian"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Botswana": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kalahari_PICT0036.JPG/580px-Kalahari_PICT0036.JPG",
@@ -1404,7 +1417,8 @@
 			],
 			"currency": "BWP"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Brazil": {
 		"seen": 48,
@@ -1502,7 +1516,8 @@
 			],
 			"currency": "BRL"
 		},
-		"snippets": 19
+		"snippets": 19,
+		"zoom": 3
 	},
 	"Brunei": {
 		"zoom": 6,
@@ -1660,7 +1675,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Burundi": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg/440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg",
@@ -1703,7 +1719,8 @@
 			],
 			"currency": "BIF"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Cambodia": {
 		"zoom": 5,
@@ -1807,7 +1824,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Canada": {
 		"zoom": 2,
@@ -1992,7 +2010,8 @@
 				"Cape Verdean Creole"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Central African Republic": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Paddlers_%285229094366%29.jpg/440px-The_Paddlers_%285229094366%29.jpg",
@@ -2035,7 +2054,8 @@
 			],
 			"currency": "XAF"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Chad": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chadian_delegation.jpg/440px-Chadian_delegation.jpg",
@@ -2069,7 +2089,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Chile": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Parinacota_volcano.jpg/440px-Parinacota_volcano.jpg",
@@ -2139,7 +2160,8 @@
 				"Spanish"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 3
 	},
 	"China": {
 		"seen": 47,
@@ -2251,7 +2273,8 @@
 			],
 			"currency": "CNY"
 		},
-		"snippets": 39
+		"snippets": 39,
+		"zoom": 3
 	},
 	"Colombia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nevado_del_Ruiz_Valle_de_los_muertos.JPG/440px-Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
@@ -2346,7 +2369,8 @@
 			],
 			"currency": "COP"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Comoros": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG/440px-Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
@@ -2386,7 +2410,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Democratic Republic of the Congo": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sunrise_near_Mossaka_%28Congo%29.JPG/600px-Sunrise_near_Mossaka_%28Congo%29.JPG",
@@ -2441,7 +2466,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Republic of the Congo": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alima_-_Congo.JPG/440px-Alima_-_Congo.JPG",
@@ -2488,7 +2514,8 @@
 			],
 			"currency": "XAF"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Cook Islands": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rarotonga_Airport_Tower.jpg/440px-Rarotonga_Airport_Tower.jpg",
@@ -2523,7 +2550,8 @@
 			],
 			"currency": "NZD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Costa Rica": {
 		"seen": 41,
@@ -2575,7 +2603,8 @@
 			],
 			"currency": "CRC"
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 6
 	},
 	"Côte d'Ivoire": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg/440px-Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg",
@@ -2612,7 +2641,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Croatia": {
 		"seen": 38,
@@ -2801,7 +2831,8 @@
 			],
 			"currency": "HRK"
 		},
-		"snippets": 4
+		"snippets": 4,
+		"zoom": 6
 	},
 	"Cuba": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG/400px-Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG",
@@ -2845,7 +2876,8 @@
 			],
 			"currency": "CUP"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Cyprus": {
 		"seen": 8,
@@ -2937,7 +2969,8 @@
 				"Greek"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Czech Republic": {
 		"zoom": 5,
@@ -3168,7 +3201,8 @@
 			],
 			"currency": "DKK"
 		},
-		"snippets": 2
+		"snippets": 2,
+		"zoom": 5
 	},
 	"Djibouti": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lake_Assal_3-Djibouti.jpg/440px-Lake_Assal_3-Djibouti.jpg",
@@ -3203,7 +3237,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Dominica": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Scotts_Head_Dominica.JPG/700px-Scotts_Head_Dominica.JPG",
@@ -3243,7 +3278,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Dominican Republic": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SD-006.jpg/440px-SD-006.jpg",
@@ -3312,7 +3348,8 @@
 				"Spanish"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"East Timor": {
 		"zoom": 6,
@@ -3413,7 +3450,8 @@
 				"Shuar"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Egypt": {
 		"seen": 24,
@@ -3501,7 +3539,8 @@
 			],
 			"currency": "EGP"
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 4
 	},
 	"El Salvador": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sanandrezpyramid.jpg/600px-Sanandrezpyramid.jpg",
@@ -3567,7 +3606,8 @@
 			],
 			"currency": "USD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Equatorial Guinea": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Santa_Isabel_Malabo_20131224_140204.jpg/440px-Santa_Isabel_Malabo_20131224_140204.jpg",
@@ -3603,7 +3643,8 @@
 				"Portuguese"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Eritrea": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Asmara_street.jpg/600px-Asmara_street.jpg",
@@ -3640,7 +3681,8 @@
 			],
 			"currency": "ERN"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Estonia": {
 		"zoom": 5,
@@ -3805,7 +3847,8 @@
 				"Swazi"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Ethiopia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mus%C3%A9e_national_d%27Ethiopie-Tr%C3%B4ne_de_Hail%C3%A9_S%C3%A9lassi%C3%A9.jpg/440px-Mus%C3%A9e_national_d%27Ethiopie-Tr%C3%B4ne_de_Hail%C3%A9_S%C3%A9lassi%C3%A9.jpg",
@@ -3855,7 +3898,8 @@
 				"Amharic"
 			]
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 4
 	},
 	"Fiji": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Denarau_Island_in_Fiji%2C_2013.jpg/480px-Denarau_Island_in_Fiji%2C_2013.jpg",
@@ -3900,7 +3944,8 @@
 				"Hindustani"
 			]
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 5
 	},
 	"Finland": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/440px-Koli_hill_view.jpg",
@@ -4027,7 +4072,8 @@
 				"Swedish"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"France": {
 		"zoom": 5,
@@ -4242,7 +4288,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Gambia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gambia_111_from_KG.jpg/580px-Gambia_111_from_KG.jpg",
@@ -4290,7 +4337,8 @@
 			],
 			"currency": "GMD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Georgia": {
 		"seen": 56,
@@ -4370,7 +4418,8 @@
 				"Abkhaz"
 			]
 		},
-		"snippets": 12
+		"snippets": 12,
+		"zoom": 6
 	},
 	"Germany": {
 		"zoom": 5,
@@ -4514,7 +4563,8 @@
 			],
 			"currency": "GHS"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Greece": {
 		"seen": 34,
@@ -4598,7 +4648,8 @@
 				"Demotic Greek"
 			]
 		},
-		"snippets": 14
+		"snippets": 14,
+		"zoom": 5
 	},
 	"Grenada": {
 		"seen": 60,
@@ -4646,7 +4697,8 @@
 			1584,
 			1575
 		],
-		"snippets": 9
+		"snippets": 9,
+		"zoom": 8
 	},
 	"Guatemala": {
 		"zoom": 5,
@@ -4779,7 +4831,8 @@
 			],
 			"currency": "GNF"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Guinea-Bissau": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG/440px-Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
@@ -4815,7 +4868,8 @@
 				"Portuguese"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Guyana": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Georgetown_street%2C_Guyana.jpg/440px-Georgetown_street%2C_Guyana.jpg",
@@ -4858,7 +4912,8 @@
 			],
 			"currency": "GYD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Haiti": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Statue_de_Dessalines_%281082761489%29.jpg/440px-Statue_de_Dessalines_%281082761489%29.jpg",
@@ -4896,7 +4951,8 @@
 				"Haitian Creole"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Honduras": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Central_America_Tegucigalpa_urban_surroundings.JPG/700px-Central_America_Tegucigalpa_urban_surroundings.JPG",
@@ -4943,7 +4999,8 @@
 			],
 			"currency": "HNL"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Hungary": {
 		"@seen": "October 2008",
@@ -5064,7 +5121,8 @@
 				"Hungarian"
 			]
 		},
-		"snippets": 5
+		"snippets": 5,
+		"zoom": 5
 	},
 	"Iceland": {
 		"seen": 37,
@@ -5148,7 +5206,8 @@
 				"Icelandic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"India": {
 		"zoom": 3,
@@ -5452,7 +5511,8 @@
 			],
 			"currency": "IQD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Ireland": {
 		"zoom": 5,
@@ -5712,7 +5772,8 @@
 			],
 			"currency": "ILS"
 		},
-		"snippets": 5
+		"snippets": 5,
+		"zoom": 8
 	},
 	"Italy": {
 		"seen": 46,
@@ -5819,7 +5880,8 @@
 				"Italian"
 			]
 		},
-		"snippets": 6
+		"snippets": 6,
+		"zoom": 4
 	},
 	"Jamaica": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sunny_lodge_walderston_jamaica.jpg/440px-Sunny_lodge_walderston_jamaica.jpg",
@@ -5865,7 +5927,8 @@
 			],
 			"currency": "JMD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Japan": {
 		"@seen": "February 2008",
@@ -5948,7 +6011,8 @@
 			],
 			"currency": "JPY"
 		},
-		"snippets": 22
+		"snippets": 22,
+		"zoom": 4
 	},
 	"Jordan": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/As_Salt_Castle.JPG/440px-As_Salt_Castle.JPG",
@@ -5996,7 +6060,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 6
 	},
 	"Kazakhstan": {
 		"zoom": 5,
@@ -6106,7 +6171,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Kiribati": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KiribatiPresidential_Residence.jpg/440px-KiribatiPresidential_Residence.jpg",
@@ -6135,7 +6201,8 @@
 				"Gilbertese"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Kuwait": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Q8desert.jpg/440px-Q8desert.jpg",
@@ -6178,7 +6245,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Kyrgyzstan": {
 		"zoom": 5,
@@ -6451,7 +6519,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Lesotho": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lesotho_snow_-_panoramio.jpg/440px-Lesotho_snow_-_panoramio.jpg",
@@ -6499,7 +6568,8 @@
 				"Sesotho"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Liberia": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Downtown_Monrovia_3348917715_67a2002529.jpg/2560px-Downtown_Monrovia_3348917715_67a2002529.jpg",
@@ -6538,7 +6608,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Libya": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sabratha_-_Forumsgel%C3%A4nde_02.jpg/440px-Sabratha_-_Forumsgel%C3%A4nde_02.jpg",
@@ -6593,7 +6664,8 @@
 				"Modern Standard Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Liechtenstein": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grenze_Liechtenstein%2C_Balzers.jpg/2560px-Grenze_Liechtenstein%2C_Balzers.jpg",
@@ -6631,7 +6703,8 @@
 			],
 			"currency": "CHF"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Lithuania": {
 		"zoom": 5,
@@ -6803,7 +6876,8 @@
 				"German"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"North Macedonia": {
 		"zoom": 7,
@@ -6914,7 +6988,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Malawi": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Liwonde_NP_crocodiles.jpg/440px-Liwonde_NP_crocodiles.jpg",
@@ -6969,7 +7044,8 @@
 				"Chewa"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Malaysia": {
 		"zoom": 4,
@@ -7105,7 +7181,8 @@
 			],
 			"currency": "MVR"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Mali": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Timbuktu_street_scene.jpg/440px-Timbuktu_street_scene.jpg",
@@ -7150,7 +7227,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Malta": {
 		"seen": 36,
@@ -7205,7 +7283,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Marshall Islands": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Air_Marshall_Islands_Dash_8-100_%28V7-0210%29_%282%29.jpg/440px-Air_Marshall_Islands_Dash_8-100_%28V7-0210%29_%282%29.jpg",
@@ -7236,7 +7315,8 @@
 				"Marshallese"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Mauritania": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mauritania_desert.jpg/440px-Mauritania_desert.jpg",
@@ -7274,7 +7354,8 @@
 			],
 			"currency": "MRO"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Mauritius": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chamarel_Falls_Mauritius_2.JPG/440px-Chamarel_Falls_Mauritius_2.JPG",
@@ -7337,7 +7418,8 @@
 			],
 			"currency": "MUR"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Mexico": {
 		"zoom": 4,
@@ -7622,7 +7704,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Moldova": {
 		"zoom": 6,
@@ -7732,7 +7815,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 13
 	},
 	"Mongolia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/USMC-100903-M-1294R-001.jpg/600px-USMC-100903-M-1294R-001.jpg",
@@ -7778,7 +7862,8 @@
 			],
 			"currency": "MNT"
 		},
-		"snippets": 5
+		"snippets": 5,
+		"zoom": 3
 	},
 	"Montenegro": {
 		"seen": 59,
@@ -7837,7 +7922,8 @@
 				"Albanian"
 			]
 		},
-		"snippets": 13
+		"snippets": 13,
+		"zoom": 7
 	},
 	"Morocco": {
 		"seen": 49,
@@ -7907,7 +7993,8 @@
 				"Standard Moroccan Berber"
 			]
 		},
-		"snippets": 6
+		"snippets": 6,
+		"zoom": 5
 	},
 	"Mozambique": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg/440px-Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg",
@@ -7953,7 +8040,8 @@
 				"Portuguese"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Myanmar": {
 		"zoom": 4,
@@ -8063,7 +8151,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Nauru": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nauru%2807%29.jpg/600px-Nauru%2807%29.jpg",
@@ -8103,7 +8192,8 @@
 			]
 		},
 		"citylike": "1",
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 8
 	},
 	"Nepal": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kathmandu_Valley.jpg/440px-Kathmandu_Valley.jpg",
@@ -8146,7 +8236,8 @@
 			],
 			"currency": "NPR"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Netherlands": {
 		"seen": 9,
@@ -8253,7 +8344,8 @@
 				"English"
 			]
 		},
-		"snippets": 5
+		"snippets": 5,
+		"zoom": 5
 	},
 	"New Zealand": {
 		"zoom": 4,
@@ -8444,7 +8536,8 @@
 			],
 			"currency": "NIO"
 		},
-		"snippets": 4
+		"snippets": 4,
+		"zoom": 5
 	},
 	"Niger": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Elephants_bath_park_w_Niger_2006.jpg/440px-Elephants_bath_park_w_Niger_2006.jpg",
@@ -8486,7 +8579,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Nigeria": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pitakwa.jpg/440px-Pitakwa.jpg",
@@ -8535,7 +8629,8 @@
 				"Yoruba"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"North Korea": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Party_Foundation_Monument_%2810875731074%29.jpg/440px-Party_Foundation_Monument_%2810875731074%29.jpg",
@@ -8581,7 +8676,8 @@
 			],
 			"currency": "KPW"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Norway": {
 		"seen": 53,
@@ -8690,7 +8786,8 @@
 			],
 			"currency": "NOK"
 		},
-		"snippets": 2
+		"snippets": 2,
+		"zoom": 3
 	},
 	"Oman": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Land_of_Frankincense-118844.jpg/440px-Land_of_Frankincense-118844.jpg",
@@ -8738,7 +8835,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Pakistan": {
 		"zoom": 4,
@@ -8825,7 +8923,8 @@
 				"Palauan"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Panama": {
 		"seen": 55,
@@ -8883,7 +8982,8 @@
 			],
 			"currency": "PAB"
 		},
-		"snippets": 22
+		"snippets": 22,
+		"zoom": 6
 	},
 	"Papua New Guinea": {
 		"zoom": 3,
@@ -8993,7 +9093,8 @@
 			],
 			"currency": "PYG"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Peru": {
 		"seen": 44,
@@ -9140,7 +9241,8 @@
 			],
 			"currency": "PEN"
 		},
-		"snippets": 16
+		"snippets": 16,
+		"zoom": 4
 	},
 	"Philippines": {
 		"zoom": 4,
@@ -9453,7 +9555,8 @@
 				"Mirandese"
 			]
 		},
-		"snippets": 9
+		"snippets": 9,
+		"zoom": 5
 	},
 	"Qatar": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fort_Zubara%2C_Qatar_%282371639734%29.jpg/440px-Fort_Zubara%2C_Qatar_%282371639734%29.jpg",
@@ -9492,7 +9595,8 @@
 			],
 			"currency": "QAR"
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 7
 	},
 	"Romania": {
 		"zoom": 5,
@@ -9757,7 +9861,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Saint Kitts and Nevis": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Saint_Kitts_02.jpg/700px-Saint_Kitts_02.jpg",
@@ -9797,7 +9902,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Saint Lucia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kreuzf-Hafen-st-lucia.jpg/440px-Kreuzf-Hafen-st-lucia.jpg",
@@ -9834,7 +9940,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Saint Vincent and the Grenadines": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg/440px-Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg",
@@ -9869,7 +9976,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Samoa": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/69/Samoa_upolu.jpg",
@@ -9906,7 +10014,8 @@
 				"Samoan"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"San Marino": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/City_Gate_San_Marino.jpg/440px-City_Gate_San_Marino.jpg",
@@ -9936,7 +10045,8 @@
 			],
 			"currency": "SML"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 11
 	},
 	"São Tomé and Príncipe": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pico_C%C3%A3o_Grande.jpg/2880px-Pico_C%C3%A3o_Grande.jpg",
@@ -9967,7 +10077,8 @@
 			],
 			"currency": "STN"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Saudi Arabia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dira_Square.JPG/540px-Dira_Square.JPG",
@@ -10027,7 +10138,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Senegal": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/River_gambia_Niokolokoba_National_Park.gif/440px-River_gambia_Niokolokoba_National_Park.gif",
@@ -10067,7 +10179,8 @@
 				"Balanta language"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Serbia": {
 		"zoom": 6,
@@ -10186,7 +10299,8 @@
 			],
 			"currency": "SCR"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Sierra Leone": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg/440px-Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg",
@@ -10221,7 +10335,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Singapore": {
 		"seen": 21,
@@ -10324,7 +10439,8 @@
 			],
 			"currency": "SGD"
 		},
-		"snippets": 23
+		"snippets": 23,
+		"zoom": 9
 	},
 	"Slovakia": {
 		"zoom": 5,
@@ -10483,7 +10599,8 @@
 				"Hungarian"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Solomon Islands": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fenualoa_lagoon_2-4.jpg/600px-Fenualoa_lagoon_2-4.jpg",
@@ -10513,7 +10630,8 @@
 			],
 			"currency": "SBD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Somalia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Somalia_Tomb_of_the_Unknown_Soldier.jpg/440px-Somalia_Tomb_of_the_Unknown_Soldier.jpg",
@@ -10547,7 +10665,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"South Africa": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Downtown_Kimberley_seen_from_the_west_2015.JPG/440px-Downtown_Kimberley_seen_from_the_west_2015.JPG",
@@ -10661,7 +10780,8 @@
 				"Zulu"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"South Korea": {
 		"seen": 51,
@@ -10756,7 +10876,8 @@
 				"Korean"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"South Sudan": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cattle_of_the_Dinka_people%2C_Juba%2C_South_Sudan_-_20101230-06.jpg/440px-Cattle_of_the_Dinka_people%2C_Juba%2C_South_Sudan_-_20101230-06.jpg",
@@ -10802,7 +10923,8 @@
 			],
 			"currency": "SSP"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Spain": {
 		"seen": 2,
@@ -10907,7 +11029,8 @@
 				"Occitan"
 			]
 		},
-		"snippets": 9
+		"snippets": 9,
+		"zoom": 4
 	},
 	"Sri Lanka": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Morning_mist_in_Sinharaja.JPG/440px-Morning_mist_in_Sinharaja.JPG",
@@ -10951,7 +11074,8 @@
 			],
 			"currency": "LKR"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Sudan": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albarkal_Mountain_%2C_Northern_sudan%2C.JPG/440px-Albarkal_Mountain_%2C_Northern_sudan%2C.JPG",
@@ -10998,7 +11122,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Suriname": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Zicht_op_en_vanaf_bastion_met_gevel_gebouw_op_fort_aan_de_rivierzijde_-_Paramaribo_-_20377867_-_RCE.jpg/2560px-Zicht_op_en_vanaf_bastion_met_gevel_gebouw_op_fort_aan_de_rivierzijde_-_Paramaribo_-_20377867_-_RCE.jpg",
@@ -11031,7 +11156,8 @@
 			],
 			"currency": "SRD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Sweden": {
 		"seen": 20,
@@ -11159,7 +11285,8 @@
 				"Yiddish"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 3
 	},
 	"Switzerland": {
 		"@seen": "January 2008",
@@ -11246,7 +11373,8 @@
 				"Swiss Standard German"
 			]
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 6
 	},
 	"Syria": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Old_Damascus_8.jpg",
@@ -11299,7 +11427,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Tajikistan": {
 		"zoom": 5,
@@ -11406,7 +11535,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Thailand": {
 		"zoom": 4,
@@ -11528,7 +11658,8 @@
 				"French"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Tonga": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg/2560px-Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg",
@@ -11560,7 +11691,8 @@
 			],
 			"currency": "TOP"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Trinidad and Tobago": {
 		"seen": 57,
@@ -11609,7 +11741,8 @@
 			],
 			"currency": "TTD"
 		},
-		"snippets": 11
+		"snippets": 11,
+		"zoom": 7
 	},
 	"Tunisia": {
 		"seen": 7,
@@ -11671,7 +11804,8 @@
 			],
 			"currency": "TND"
 		},
-		"snippets": 1
+		"snippets": 1,
+		"zoom": 5
 	},
 	"Turkey": {
 		"seen": 5,
@@ -11764,7 +11898,8 @@
 				"Turkish"
 			]
 		},
-		"snippets": 3
+		"snippets": 3,
+		"zoom": 4
 	},
 	"Turkmenistan": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Central_Asia_100.jpg/580px-Central_Asia_100.jpg",
@@ -11814,7 +11949,8 @@
 			],
 			"currency": "TMT"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 4
 	},
 	"Tuvalu": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Funafuti_Plage_w.jpg/2560px-Funafuti_Plage_w.jpg",
@@ -11849,7 +11985,8 @@
 			],
 			"currency": "TVD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 8
 	},
 	"Uganda": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lions_in_tree_uganda_Queen_eliznp.jpg/600px-Lions_in_tree_uganda_Queen_eliznp.jpg",
@@ -11903,7 +12040,8 @@
 			],
 			"currency": "UGX"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"Ukraine": {
 		"zoom": 4,
@@ -12017,7 +12155,8 @@
 			],
 			"currency": "AED"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 6
 	},
 	"United Kingdom": {
 		"zoom": 4,
@@ -12405,7 +12544,8 @@
 			],
 			"currency": "UYU"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Uzbekistan": {
 		"zoom": 5,
@@ -12489,7 +12629,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 7
 	},
 	"Venezuela": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Salto_Angel_desde_la_curiara.jpg/440px-Salto_Angel_desde_la_curiara.jpg",
@@ -12554,7 +12695,8 @@
 			],
 			"currency": "VEB"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Vietnam": {
 		"zoom": 4,
@@ -12665,7 +12807,8 @@
 				"Arabic"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Zambia": {
 		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mfuwe_Downtown.JPG/480px-Mfuwe_Downtown.JPG",
@@ -12725,7 +12868,8 @@
 				"English"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	},
 	"Zimbabwe": {
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lion-hwange.jpg",
@@ -12788,6 +12932,7 @@
 				"Xhosa"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"zoom": 5
 	}
 }
