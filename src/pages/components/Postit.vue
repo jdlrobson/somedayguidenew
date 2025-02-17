@@ -39,7 +39,7 @@ console.log(target, props.href);
     <h2 v-if="title">{{ title }}</h2>
     <img v-if="!embed && thumbnail" :src="thumbnail">
     <div class="postit-text" v-if="text">
-      <span>{{  text  }}</span>
+      <span v-html="text"></span>
     </div>
     <a v-if="target" class="a-internal" :target="target" :href="href"></a>
     <router-link v-else class="a-external" :to="href"></router-link>
@@ -59,7 +59,7 @@ console.log(target, props.href);
   background: #ffffc1;
   justify-content: center;
 }
-.postit a {
+.postit > a {
   position: absolute;
   left: 0;
   right: 0;
