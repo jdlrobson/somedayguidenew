@@ -5,6 +5,13 @@ import fs from 'fs';
 import { parse } from 'marked';
 
 const allSrcs  = [];
+/**
+ * Converts a snippet text file into an object
+ *
+ * @param {string} snipText
+ * @return {false|Object} converted snippet or false if in
+ *  unexpected form.
+ */
 function transformSnippet( snipText ) {
     const snip = snipText.trim().split('\n');
     let text = snip[3];
@@ -21,6 +28,7 @@ function transformSnippet( snipText ) {
             src = snip[0];
             if ( src.charAt( 0 ) !== 'h' ) {
                 console.log('Check snippet:', snipText);
+                return false;
             }
         }
     }
@@ -47,17 +55,21 @@ function transformSnippet( snipText ) {
     }
 }
 
-function saveSnippet( country, text, filename = null ) {
+/**
+ * Saves a snippet for a given country
+ *
+ * @param {string} country name of country equivalent to a folder in notes directory
+ * @param {string} text of the snippet
+ * @param {string} filename of snippet e.g. 1.txt - must be unique!
+ * @return {void}
+ */
+function saveSnippet( country, text, filename ) {
     const snippetDirPath = `notes/country/${country}/snippets/`;
     if ( !fs.existsSync( snippetDirPath )) {
         fs.mkdirSync(snippetDirPath);
     }
-    if ( !filename ) {
-        return;
-    }
     const snippetPath = `notes/country/${country}/snippets/${filename}`;
     fs.writeFileSync( snippetPath, text );
-    
 }
 
 /**
@@ -65,32 +77,55 @@ function saveSnippet( country, text, filename = null ) {
  */
 const countryNotes = {};
 const countrySnippets = {};
-function updateNotes() {
+
+/**
+ * Prepares the site using snippets for a given country
+ *
+ * @param {string} snippetDir path to folder for country snippets
+ * @return {array}
+ */
+function prepareFromSnippets( snippetDir ) {
+    const files = fs.readdirSync( snippetDir );
+    const snippets = [];
+    for (const file of files) {
+        const filePath = `${snippetDir}/${file}`;
+        const stats = fs.statSync(filePath);
+        if (stats.isFile()) {
+            const snip = fs.readFileSync(filePath).toString();
+            const snippetObj = transformSnippet( snip );
+            if (snippetObj) {
+                snippets.push( snippetObj )
+            }
+        }
+    }
+    return snippets;
+}
+
+/**
+ * Checks the "notes" folder and updates countries.json
+ */
+function prepareFromNotes() {
     const zoomMissing = [];
-    Object.keys(json).forEach((c) => {
+    Object.keys(json).forEach( (c, i) => {
+        const countryData = json[c];
+        const thumb = countryData.thumbnail;
+        if ( thumb.indexOf( 'https://' ) === 0 && i === 0  ) {
+            console.log( thumb);
+        }
         const folder = `notes/country/${ c }`;
-        const notePath = `notes/country/${ c }/note.txt`;
-        const snippetDir = `${folder}/snippets`;
-        if (!json[c].zoom ) {
+        if (!countryData.zoom ) {
             zoomMissing.push(c);
         }
         if ( !fs.existsSync( folder ) ) {
             fs.mkdirSync( folder );
         }
+
+        const snippetDir = `${folder}/snippets`;
         if ( !fs.existsSync( snippetDir ) ) {
             fs.mkdirSync( snippetDir );
         }
-        const files = fs.readdirSync( snippetDir );
-        const snippets = [];
-        for (const file of files) {
-            const filePath = `${snippetDir}/${file}`;
-            const stats = fs.statSync(filePath);
-            if (stats.isFile()) {
-                const snip = fs.readFileSync(filePath).toString();
-                snippets.push( transformSnippet( snip ) )
-            }
-        }
-        countrySnippets[c] = snippets;
+        countrySnippets[c] = prepareFromSnippets( snippetDir );
+        const notePath = `notes/country/${ c }/note.txt`;
         if ( fs.existsSync( notePath ) ) {
             const note = fs.readFileSync( notePath ).toString();
             countryNotes[c] = parse( note );
@@ -106,6 +141,9 @@ function updateNotes() {
     console.log(`Add zoom for ${zoomMissing.length}: ${ zoomMissing}`)
 }
 
+/**
+ * Updates the public country JSON with information collected in prepareFromNotes
+ */
 function updateCountries() {
     Object.keys(json).forEach((c) => {
         const countryDataPath = `public/data/country/${c}.json`;
@@ -122,7 +160,9 @@ function updateCountries() {
     } );
 }
 
-
+/**
+ * Imports blog posts from our Wordpress site
+ */
 function importBlogs() {
     function cleanup(str) {
         return str.replace(/&#8211;/g, '–').replace('<p>', '').replace('</p>', '')
@@ -154,12 +194,19 @@ ${cleanup(blog.excerpt)}
         })
 }
 
+/**
+ * Performs remote updates, pulling new information
+ * from known sources like blogs etc...
+ */
 function remoteUpdates() {
     importBlogs();
 }
 
+/**
+ * Performs local updates to the file system
+ */
 function localUpdates() {
-    updateNotes();
+    prepareFromNotes();
     updateCountries();
     fs.writeFileSync(
         'update.json',
