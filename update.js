@@ -1,33 +1,100 @@
 import json from './src/pages/countries.json' assert { type: "json" };
 import update from './update.json' assert { type: "json" };
-
+import { JSDOM } from 'jsdom';
 import fs from 'fs';
 import { parse } from 'marked';
 
 const allSrcs  = [];
+
+let pendingRequests = [];
 /**
- * Converts a snippet text file into an object
+ * Expands a Wikipedia snippet URL.
+ * @param {string} filePath of snippet
+ * @param {string} wikiTitle of wikipedia page
+ */
+function expandWikipediaSnippet( filePath, wikiTitle ) {
+    return fetch( `https://en.wikipedia.org/api/rest_v1/page/summary/${wikiTitle}` ).then((r) => r.json())
+        .then((json) => {
+            const src = json.thumbnail ? json.thumbnail.source : null;
+            saveSnippet(filePath, json.titles.normalized,
+                `https://en.wikipedia.org/wiki/${wikiTitle}`, src, json.extract);
+        });
+}
+
+/**
+ * Expands a generic snippet URL.
+ * @param {string} filePath of snippet
+ * @param {string} wikiTitle of wikipedia page
+ */
+function expandURLSnippet( filePath, url ) {
+    return fetch(url).then((r) => r.text()).then((html) => {
+        const dom = new JSDOM(html);
+        const document = dom.window.document;
+        const titleEl = document.querySelector('head title');
+        let title = titleEl ? titleEl.textContent : 'n/a',
+            description, imageSrc;
+        Array.from( document.querySelectorAll( 'head meta[property^="og"]' ) ).forEach( ( item ) => {
+            const property = item.getAttribute( 'property' );
+            const value = item.getAttribute( 'content' );
+            switch ( property ) {
+                case 'og:title':
+                    title = value;
+                    break;
+                case 'og:description':
+                    description = value;
+                    break;
+                case 'og:image':
+                    imageSrc = value;
+                    break;
+            }
+        } );
+        console.log('save', title, url, imageSrc);
+        saveSnippet( filePath, title, url, imageSrc, description );
+    })
+}
+
+/**
+ * @param {string} srcOrUrl
+ * @return {bool} whether the url can be embeded
+ */
+function isEmbedSite( srcOrUrl ) {
+    return srcOrUrl.indexOf( 'instagram.com' ) > -1 || srcOrUrl.indexOf( 'youtube.com' ) > -1
+}
+/**
+ * Converts a snippet text file into an object.
+ * Will expand it if possible.
  *
- * @param {string} snipText
+ * @param {string} filePath
  * @return {false|Object} converted snippet or false if in
  *  unexpected form.
  */
-function transformSnippet( snipText ) {
-    const snip = snipText.trim().split('\n');
+function transformSnippet( filePath ) {
+    const snip = fs.readFileSync(filePath).toString().trim().split('\n');
     let text = snip[3];
     let src = snip[0];
     let title = snip[1];
     let url = snip[2];
     let type = 'url';
+    const queries = [];
     if ( snip.length === 1 ) {
         if ( snip[ 0 ].charAt( 0 ) === '"') {
             text = snip[0];
             type = 'quote';
             title = 'Quote'
         } else {
-            src = snip[0];
-            if ( src.charAt( 0 ) !== 'h' ) {
-                console.log('Check snippet:', snipText);
+            const srcOrUrl = snip[0];
+            if ( srcOrUrl.charAt( 0 ) !== 'h' ) {
+                console.log( `Snippet was not a URL, please check ${filePath}!` );
+                return false;
+            } else if ( srcOrUrl.indexOf( 'wikipedia.org' ) > -1 ) {
+                const wikiTitle = srcOrUrl.split('/').slice(-1)[0];
+                pendingRequests.push( expandWikipediaSnippet( filePath, wikiTitle ) );
+                return false;
+            } else if ( isEmbedSite( srcOrUrl ) ) {
+                // permit.
+                src = srcOrUrl;
+            } else {
+                pendingRequests.push( expandURLSnippet( filePath, srcOrUrl ) );
                 return false;
             }
         }
@@ -49,7 +116,7 @@ function transformSnippet( snipText ) {
         text,
         src,
         type,
-        embed: [ 'instagram' ].includes( type ),
+        embed: isEmbedSite( src ),
         title,
         url
     }
@@ -93,8 +160,7 @@ function prepareFromSnippets( snippetDir ) {
         const filePath = `${snippetDir}/${file}`;
         const stats = fs.statSync(filePath);
         if (stats.isFile()) {
-            const snip = fs.readFileSync(filePath).toString();
-            const snippetObj = transformSnippet( snip );
+            const snippetObj = transformSnippet( filePath );
             if (snippetObj) {
                 snippets.push( snippetObj )
             }
@@ -176,7 +242,7 @@ function importBlogs() {
             .replace(/&#8217;/,'\'')
             .replace(/&#8230;/g, '…').replace('[&hellip;]', '');
     }
-    fetch('https://public-api.wordpress.com/rest/v1.1/sites/somedaywewillseetheworld.wordpress.com/posts/?order_by=modified')
+    return fetch('https://public-api.wordpress.com/rest/v1.1/sites/somedaywewillseetheworld.wordpress.com/posts/?order_by=modified')
         .then((resp)=>resp.json())
         .then((blogjson) => {
             blogjson.posts.forEach((blog) => {
@@ -203,14 +269,15 @@ function importBlogs() {
  * from known sources like blogs etc...
  */
 function remoteUpdates() {
-    importBlogs();
+    return Promise.all( [
+        importBlogs()
+    ] );
 }
 
 /**
- * Performs local updates to the file system
+ * Updates countries.json file.
  */
-function localUpdates() {
-    prepareFromNotes();
+function updateContriesAndSave() {
     updateCountries();
     fs.writeFileSync(
         'update.json',
@@ -220,11 +287,23 @@ function localUpdates() {
     );
 }
 
+/**
+ * Performs local updates to the file system
+ */
+function localUpdates() {
+    prepareFromNotes();
+    Promise.all( pendingRequests ).then( () => {
+        updateContriesAndSave();
+    }, () => {
+        updateContriesAndSave();
+    } );
+}
+
 const now = new Date();
 const hrsSinceLastUpdate = update.lastUpdated ?
     ( now - new Date( update.lastUpdated ) ) / ( 1000 * 60 * 60 ) : 2;
 if ( hrsSinceLastUpdate > 1 ) {
-    remoteUpdates();
+    pendingRequests.push( remoteUpdates() );
 } else {
     console.log( 'Skipping remote update' );
 }
