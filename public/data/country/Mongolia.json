@@ -9,19 +9,28 @@
 			"url": "https://www.youtube.com/watch?v=6iODjVySKW4"
 		},
 		{
-			"src": "https://en.wikipedia.org/wiki/Dornod_Province",
+			"text": "Dornod is the easternmost of the 21 aimags (provinces) of Mongolia. Its capital is Choibalsan.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bars_Hota_Mongolia.jpg/320px-Bars_Hota_Mongolia.jpg",
 			"type": "url",
-			"embed": false
+			"embed": false,
+			"title": "Dornod Province",
+			"url": "https://en.wikipedia.org/wiki/Dornod_Province"
 		},
 		{
-			"src": "https://en.wikipedia.org/wiki/Mongolian_Natural_History_Museum",
+			"text": "The Natural History Museum is a repository and research institution located in Chingeltei, Ulaanbaatar, Mongolia. The museum was previously known as the Mongolian National Museum or State Central Museum.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Natural_History_Museum_%28Ulaanbaatar%29.jpg/320px-Natural_History_Museum_%28Ulaanbaatar%29.jpg",
 			"type": "url",
-			"embed": false
+			"embed": false,
+			"title": "Mongolian Natural History Museum",
+			"url": "https://en.wikipedia.org/wiki/Mongolian_Natural_History_Museum"
 		},
 		{
-			"src": "https://en.wikipedia.org/wiki/Flaming_Cliffs",
+			"text": "The Flaming Cliffs site, with the alternative Mongolian name of Mongolian: Улаан Эрэг, is a region of the Gobi Desert in the Ömnögovi Province of Mongolia, in which important fossil finds have been made. It was given this name by American paleontologist Roy Chapman Andrews, who visited in the 1920s. The area is most famous for yielding the first discovery of dinosaur eggs. Other finds in the area include specimens of Velociraptor and eutherian mammals. It exposes rocks of the Djadochta Formation. It is illegal to remove fossils from the area without appropriate permits.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flaming_cliffs_5.jpg/320px-Flaming_cliffs_5.jpg",
 			"type": "url",
-			"embed": false
+			"embed": false,
+			"title": "Flaming Cliffs",
+			"url": "https://en.wikipedia.org/wiki/Flaming_Cliffs"
 		}
 	],
 	"places": {

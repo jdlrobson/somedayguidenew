@@ -10,9 +10,12 @@
 			"url": "https://www.augustiner-restaurant.com/html/film.html"
 		},
 		{
-			"src": "https://en.wikipedia.org/wiki/Cologne_Carnival",
+			"text": "The Cologne Carnival is a carnival that takes place every year in Cologne, Germany.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dreigestirn_72.jpg/320px-Dreigestirn_72.jpg",
 			"type": "url",
-			"embed": false
+			"embed": false,
+			"title": "Cologne Carnival",
+			"url": "https://en.wikipedia.org/wiki/Cologne_Carnival"
 		},
 		{
 			"src": "https://www.instagram.com/p/C7FaE52yS41/?img_index=1",
