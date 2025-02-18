@@ -8,6 +8,7 @@ const props = defineProps({
   big: Boolean,
   title: String,
   thumbnail: String,
+  thumbnailSource: String,
   href: String,
   text: String,
   style: String
@@ -24,13 +25,22 @@ const target = ref(
   undefined : '_blank'
 );
 
-console.log(target.value, props.href);
-
 onMounted(() => {
   if (window.instgrm) window.instgrm.Embeds.process();
 })
 
-console.log(target, props.href);
+const getThumbSource = () => {
+  const url = new URL( props.thumbnailSource );
+  switch ( url.hostname ) {
+    case 'commons.wikimedia.org':
+      return 'commons';
+    default:
+      return url.hostname;
+  }
+
+};
+
+const thumbnailSourceName = ref( props.thumbnailSource ? getThumbSource() : '' );
 </script>
 
 <template>
@@ -45,6 +55,8 @@ console.log(target, props.href);
     <router-link v-else class="a-external" :to="href"></router-link>
     <slot></slot>
     <link-logo v-if="href" :href="href"></link-logo>
+    <a class="thumbSource" target="_blank"
+      v-if="thumbnailSource" :href="thumbnailSource">source: {{ thumbnailSourceName }}</a>
   </div>
 </template>
 
@@ -64,7 +76,7 @@ console.log(target, props.href);
   left: 0;
   right: 0;
   top: 0;
-  bottom: 0;
+  bottom: 10px;
   z-index: 3;
 }
 
@@ -147,4 +159,15 @@ console.log(target, props.href);
   background: black;
     color: white;
     padding: 8px;
-}</style>
+}
+.postit .thumbSource {
+  bottom: 0;
+  top: auto;
+  background: white;
+  opacity: 0.8;
+  color: #111;
+  font-size: 0.825rem;
+  text-align: right;
+  padding: 3px;
+}
+</style>
