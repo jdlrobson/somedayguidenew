@@ -37,7 +37,7 @@ console.log(target, props.href);
   <div :class="className" :style="style">
     <Thumbtack></Thumbtack>
     <h2 v-if="title">{{ title }}</h2>
-    <img v-if="!embed && thumbnail" :src="thumbnail">
+    <img v-if="!embed && thumbnail" :src="thumbnail" loading="lazy">
     <div class="postit-text" v-if="text">
       <span v-html="text"></span>
     </div>

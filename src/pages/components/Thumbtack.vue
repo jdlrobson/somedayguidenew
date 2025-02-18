@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="thumbtack"><img src="./thumbtack.png"></div>
+  <div class="thumbtack"><img src="./thumbtack.png" loading="lazy"></div>
 </template>
 
 <style scoped>

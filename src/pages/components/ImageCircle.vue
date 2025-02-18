@@ -8,11 +8,11 @@ const props = defineProps({
 
 <template>
    <a v-if="href" :href="href" :class="`face face--${size}`">
-        <img :src="src">
+        <img :src="src" loading="lazy">
         <span><slot></slot>&nbsp;</span>
    </a>
    <span v-else class="face">
-    <img :src="src">
+    <img :src="src" loading="lazy">
     <span><slot></slot></span>
    </span>
 </template>
