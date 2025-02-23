@@ -345,6 +345,7 @@ function remoteUpdates() {
  * Updates countries.json file.
  */
 function updateContriesAndSave() {
+    console.log('update countries and save');
     updateCountries();
     fs.writeFileSync(
         'update.json',
@@ -352,6 +353,7 @@ function updateContriesAndSave() {
             lastUpdated: now
         }, null, "\t" )
     );
+    fs.writeFileSync('src/pages/countries.json', JSON.stringify(json, null, "\t"));
 }
 
 /**
@@ -376,4 +378,3 @@ if ( hrsSinceLastUpdate > 1 ) {
 }
 
 localUpdates();
-fs.writeFileSync('src/pages/countries.json', JSON.stringify(json, null, "\t"));

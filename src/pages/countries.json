@@ -415,7 +415,7 @@
 				"Spanish"
 			]
 		},
-		"snippets": 2,
+		"snippets": 3,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:El_Faro_de_C%C3%B3rdoba.jpg"
 	},
@@ -687,7 +687,7 @@
 			],
 			"currency": "AZN"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG"
 	},
 	"Bahamas": {
@@ -738,7 +738,7 @@
 				"English"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Junkanoo_Valleyboys_NewYrs_parade.jpg"
 	},
@@ -1270,7 +1270,7 @@
 			],
 			"currency": "BTN"
 		},
-		"snippets": 0,
+		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Jakar_tshechu%2C_Ging_Tsholing_Cham_%2815844504202%29.jpg"
 	},
 	"Bolivia": {
@@ -2041,7 +2041,7 @@
 				"Cape Verdean Creole"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg"
 	},
@@ -2194,7 +2194,7 @@
 				"Spanish"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg"
 	},
@@ -4985,7 +4985,7 @@
 			],
 			"currency": "GYD"
 		},
-		"snippets": 0,
+		"snippets": 3,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Georgetown_street%2C_Guyana.jpg"
 	},
@@ -6574,7 +6574,7 @@
 				"Latvian"
 			]
 		},
-		"snippets": 3,
+		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Me%C5%BEs_2010.gada_28.august%C4%81%2C_Tomes_pagasts%2C_%C4%B6eguma_novads%2C_Latvia_-_panoramio.jpg"
 	},
 	"Lebanon": {
@@ -7091,7 +7091,7 @@
 				"French"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Katta_csal%C3%A1d.jpg"
 	},
@@ -7978,7 +7978,7 @@
 			],
 			"currency": "MNT"
 		},
-		"snippets": 5,
+		"snippets": 7,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg"
 	},
@@ -8599,7 +8599,7 @@
 				"New Zealand Sign Language"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WellingtonPanorama.jpg"
 	},
 	"Nicaragua": {
@@ -11323,7 +11323,7 @@
 			],
 			"currency": "SRD"
 		},
-		"snippets": 0,
+		"snippets": 3,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Upper-Suriname_river_%2833496731746%29.jpg"
 	},
@@ -12295,7 +12295,7 @@
 			],
 			"currency": "UAH"
 		},
-		"snippets": 3,
+		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Czarnohora.jpg"
 	},
 	"United Arab Emirates": {
@@ -12730,7 +12730,7 @@
 			],
 			"currency": "UYU"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Uruguay_%285886752274%29.jpg"
 	},
