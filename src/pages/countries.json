@@ -738,7 +738,7 @@
 				"English"
 			]
 		},
-		"snippets": 1,
+		"snippets": 3,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Junkanoo_Valleyboys_NewYrs_parade.jpg"
 	},
@@ -2031,7 +2031,11 @@
 			"Cidade Velha"
 		],
 		"wb": "Q1011",
-		"neighbors": [],
+		"neighbors": [
+			"Senegal",
+			"Gambia",
+			"Guinea-Bissau"
+		],
 		"commons": "Cape Verde",
 		"info": {
 			"tel": "+238",
@@ -2041,7 +2045,7 @@
 				"Cape Verdean Creole"
 			]
 		},
-		"snippets": 1,
+		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg"
 	},
@@ -7868,7 +7872,7 @@
 			],
 			"currency": "MDL"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chisinau_Airport_KIV.jpg"
 	},
 	"Monaco": {
@@ -9695,7 +9699,7 @@
 				"Mirandese"
 			]
 		},
-		"snippets": 9,
+		"snippets": 10,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Praia_da_Marinha_%282012-09-27%29%2C_by_Klugschnacker_in_Wikipedia_%2886%29.JPG"
 	},
