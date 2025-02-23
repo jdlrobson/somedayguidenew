@@ -13,17 +13,9 @@ const props = defineProps({
 });
 
 const ALL_COUNTRIES = Object.keys( countryData ).map( ( title ) => {
-    const { lat, seen, seenL, thumbnail, lon, snippets } = countryData[ title ];
-    return {
-        title,
-        snippets,
-        thumbnail,
-        href: `/country/${ title }`,
-        seenL,
-        seen,
-        lat,
-        lon
-    };
+    return Object.assign( {
+        href: `/country/${ title }`
+    }, countryData[ title ] );
 }).sort((c, c2) => c.title < c2.title ? -1 : 1);
 
 const countries = ref(
@@ -136,6 +128,7 @@ const filterByName = ( ev ) => {
                 <Postit v-for="(c, i) in countries"
                     :title="c.title" :thumbnail="c.thumbnail"
                     :href="c.href"
+                    :thumbnailSource="c.thumbnailSource"
                     :style="i % 2 === 0 ? `transform: rotate(3deg)` : `transform: rotate(-3deg)`">
                     <span class="no noL" v-if="c.seenL">✔️{{ c.seenL }}</span>
                     <span class="no" v-if="c.seen">✔️{{ c.seen }}</span>
