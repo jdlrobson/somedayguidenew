@@ -1,7 +1,7 @@
 {
 	"Afghanistan": {
 		"zoom": 7,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lake_Band-e-Amir.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_d_d6_Lake_Band-e-Amir.jpg",
 		"lat": 34,
 		"lon": 66,
 		"title": "Afghanistan",
@@ -44,12 +44,13 @@
 				"Dari"
 			]
 		},
-		"snippets": 1
+		"snippets": 1,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lake_Band-e-Amir.jpg"
 	},
 	"Albania": {
 		"zoom": 6,
 		"seen": 35,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Valbona.jpg/440px-Valbona.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_64_Valbona_jpg_440px-Valbona.jpg",
 		"lat": 41.3237,
 		"lon": 19.8203,
 		"title": "Albania",
@@ -103,10 +104,11 @@
 				"Albanian"
 			]
 		},
-		"snippets": 8
+		"snippets": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Valbona.jpg"
 	},
 	"Algeria": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/16/ALGIERS_HARBOUR.jpg/440px-ALGIERS_HARBOUR.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_16_ALGIERS_HARBOUR_jpg_440px-ALGIERS_HARBOUR.jpg",
 		"lat": 28,
 		"lon": 1,
 		"title": "Algeria",
@@ -158,10 +160,11 @@
 			"currency": "DZD"
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:ALGIERS_HARBOUR.jpg"
 	},
 	"Andorra": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iglesia_de_San_Miguel_de_Engolasters%2C_Engolasters%2C_Andorra%2C_2013-12-30%2C_DD_01.JPG/2560px-Iglesia_de_San_Miguel_de_Engolasters%2C_Engolasters%2C_Andorra%2C_2013-12-30%2C_DD_01.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_57_Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01_JPG_2560px-Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01.JPG",
 		"lat": 42.5,
 		"lon": 1.5167,
 		"title": "Andorra",
@@ -207,10 +210,11 @@
 			"currency": "EUR"
 		},
 		"snippets": 0,
-		"zoom": 9
+		"zoom": 9,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel_de_Engolasters%2C_Engolasters%2C_Andorra%2C_2013-12-30%2C_DD_01.JPG"
 	},
 	"Angola": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/1/19/Namibia_Ruacana_Falls.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_1_19_Namibia_Ruacana_Falls.jpg",
 		"lat": -12.35,
 		"lon": 17.35,
 		"title": "Angola",
@@ -258,10 +262,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Namibia_Ruacana_Falls.jpg"
 	},
 	"Antigua and Barbuda": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hafen_von_St_John%27s.jpg/440px-Hafen_von_St_John%27s.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8a_Hafen_von_St_John's_jpg_440px-Hafen_von_St_John's.jpg",
 		"lat": 17.1167,
 		"lon": -61.85,
 		"title": "Antigua and Barbuda",
@@ -292,12 +297,13 @@
 			"currency": "XCD"
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Hafen_von_St_John%27s.jpg"
 	},
 	"Argentina": {
 		"seen": 63,
 		"seenL": 36,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/El_Faro_de_C%C3%B3rdoba.jpg/440px-El_Faro_de_C%C3%B3rdoba.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f8_El_Faro_de_Córdoba_jpg_440px-El_Faro_de_Córdoba.jpg",
 		"lat": -42,
 		"lon": -64,
 		"title": "Argentina",
@@ -410,11 +416,12 @@
 			]
 		},
 		"snippets": 2,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:El_Faro_de_C%C3%B3rdoba.jpg"
 	},
 	"Armenia": {
 		"zoom": 6,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG/500px-At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_9d_At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide_JPG_500px-At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG",
 		"lat": 40.1833,
 		"lon": 44.5167,
 		"title": "Armenia",
@@ -453,12 +460,13 @@
 				"Armenian"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG"
 	},
 	"Australia": {
 		"zoom": 3,
 		"seenL": 6,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sydney_Harbour_Bridge_night.jpg/700px-Sydney_Harbour_Bridge_night.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_ea_Sydney_Harbour_Bridge_night_jpg_700px-Sydney_Harbour_Bridge_night.jpg",
 		"lat": -28,
 		"lon": 137,
 		"title": "Australia",
@@ -535,13 +543,14 @@
 				false
 			]
 		},
-		"snippets": 3
+		"snippets": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg"
 	},
 	"Austria": {
 		"zoom": 5,
 		"seen": 27,
 		"seenL": 20,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG_9037-Innsbruck.JPG/440px-IMG_9037-Innsbruck.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_11_IMG_9037-Innsbruck_JPG_440px-IMG_9037-Innsbruck.JPG",
 		"lat": 48,
 		"lon": 14,
 		"title": "Austria",
@@ -612,12 +621,13 @@
 			],
 			"currency": "EUR"
 		},
-		"snippets": 7
+		"snippets": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:IMG_9037-Innsbruck.JPG"
 	},
 	"Azerbaijan": {
 		"zoom": 5,
 		"bookmark": 1,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sheki_-_Bergdorf_Kish.JPG/440px-Sheki_-_Bergdorf_Kish.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_06_Sheki_-_Bergdorf_Kish_JPG_440px-Sheki_-_Bergdorf_Kish.JPG",
 		"lat": 40.3,
 		"lon": 47.7,
 		"title": "Azerbaijan",
@@ -677,10 +687,11 @@
 			],
 			"currency": "AZN"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG"
 	},
 	"Bahamas": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Junkanoo_Valleyboys_NewYrs_parade.jpg/440px-Junkanoo_Valleyboys_NewYrs_parade.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_Junkanoo_Valleyboys_NewYrs_parade_jpg_440px-Junkanoo_Valleyboys_NewYrs_parade.jpg",
 		"lat": 23.7,
 		"lon": -76.4,
 		"title": "Bahamas",
@@ -728,10 +739,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Junkanoo_Valleyboys_NewYrs_parade.jpg"
 	},
 	"Bahrain": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BahrainInternationalAirport01.jpeg/440px-BahrainInternationalAirport01.jpeg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6a_BahrainInternationalAirport01_jpeg_440px-BahrainInternationalAirport01.jpeg",
 		"lat": 26.0675,
 		"lon": 50.5511,
 		"title": "Bahrain",
@@ -777,10 +789,11 @@
 			"currency": "BHD"
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:BahrainInternationalAirport01.jpeg"
 	},
 	"Bangladesh": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg/440px-Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e3_Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07_jpg_440px-Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg",
 		"lat": 24,
 		"lon": 90,
 		"title": "Bangladesh",
@@ -859,11 +872,12 @@
 			"currency": "BDT"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg"
 	},
 	"Barbados": {
 		"seen": 3,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ABC_Highway_at_BET_Hill%2C_Barbados_%282000%29.jpg/440px-ABC_Highway_at_BET_Hill%2C_Barbados_%282000%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_2d_ABC_Highway_at_BET_Hill,_Barbados_(2000)_jpg_440px-ABC_Highway_at_BET_Hill,_Barbados_(2000).jpg",
 		"lat": 13.18,
 		"lon": -59.55,
 		"title": "Barbados",
@@ -895,11 +909,12 @@
 			"currency": "BBD"
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:ABC_Highway_at_BET_Hill%2C_Barbados_%282000%29.jpg"
 	},
 	"Belarus": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Miensk_-_Plac_Niezale%C5%BEna%C5%9Bci.jpg/600px-Miensk_-_Plac_Niezale%C5%BEna%C5%9Bci.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8c_Miensk_-_Plac_Niezaležnaści_jpg_600px-Miensk_-_Plac_Niezaležnaści.jpg",
 		"lat": 53.8,
 		"lon": 28,
 		"title": "Belarus",
@@ -982,12 +997,13 @@
 				"Russian"
 			]
 		},
-		"snippets": 1
+		"snippets": 1,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezale%C5%BEna%C5%9Bci.jpg"
 	},
 	"Belgium": {
 		"seen": 22,
 		"seenL": 12,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Notre-Dame_Anvers_7.JPG/440px-Notre-Dame_Anvers_7.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0f_Notre-Dame_Anvers_7_JPG_440px-Notre-Dame_Anvers_7.JPG",
 		"lat": 50.85,
 		"lon": 4.35,
 		"title": "Belgium",
@@ -1092,12 +1108,13 @@
 			]
 		},
 		"snippets": 2,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Notre-Dame_Anvers_7.JPG"
 	},
 	"Belize": {
 		"zoom": 5,
 		"seen": 32,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Altunha.jpg/440px-Altunha.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_99_Altunha_jpg_440px-Altunha.jpg",
 		"lat": 17.2,
 		"lon": -88.7,
 		"title": "Belize",
@@ -1158,10 +1175,11 @@
 			],
 			"currency": "BZD"
 		},
-		"snippets": 3
+		"snippets": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Altunha.jpg"
 	},
 	"Benin": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Royal_Palaces_of_Abomey-133477.jpg/2560px-Royal_Palaces_of_Abomey-133477.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6d_Royal_Palaces_of_Abomey-133477_jpg_2560px-Royal_Palaces_of_Abomey-133477.jpg",
 		"lat": 8.8,
 		"lon": 2.2,
 		"title": "Benin",
@@ -1196,12 +1214,13 @@
 			"currency": "XOF"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Royal_Palaces_of_Abomey-133477.jpg"
 	},
 	"Bhutan": {
 		"zoom": 6,
 		"bookmark": 1,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jakar_tshechu%2C_Ging_Tsholing_Cham_%2815844504202%29.jpg/440px-Jakar_tshechu%2C_Ging_Tsholing_Cham_%2815844504202%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_92_Jakar_tshechu,_Ging_Tsholing_Cham_(15844504202)_jpg_440px-Jakar_tshechu,_Ging_Tsholing_Cham_(15844504202).jpg",
 		"lat": 27.32297,
 		"lon": 90.50537,
 		"title": "Bhutan",
@@ -1251,11 +1270,12 @@
 			],
 			"currency": "BTN"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Jakar_tshechu%2C_Ging_Tsholing_Cham_%2815844504202%29.jpg"
 	},
 	"Bolivia": {
 		"seen": 45,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Vista_Posterior_de_la_Puerta_del_Sol.jpg/440px-Vista_Posterior_de_la_Puerta_del_Sol.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_da_Vista_Posterior_de_la_Puerta_del_Sol_jpg_440px-Vista_Posterior_de_la_Puerta_del_Sol.jpg",
 		"lat": -17,
 		"lon": -65,
 		"title": "Bolivia",
@@ -1317,10 +1337,11 @@
 			]
 		},
 		"snippets": 12,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vista_Posterior_de_la_Puerta_del_Sol.jpg"
 	},
 	"Bosnia and Herzegovina": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Travnik_Panorama_1.JPG/600px-Travnik_Panorama_1.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_10_Travnik_Panorama_1_JPG_600px-Travnik_Panorama_1.JPG",
 		"lat": 44,
 		"lon": 18,
 		"title": "Bosnia and Herzegovina",
@@ -1367,10 +1388,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Travnik_Panorama_1.JPG"
 	},
 	"Botswana": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kalahari_PICT0036.JPG/580px-Kalahari_PICT0036.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e6_Kalahari_PICT0036_JPG_580px-Kalahari_PICT0036.JPG",
 		"lat": -22.2,
 		"lon": 23.7,
 		"title": "Botswana",
@@ -1418,11 +1440,12 @@
 			"currency": "BWP"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036.JPG"
 	},
 	"Brazil": {
 		"seen": 48,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Igua%C3%A7u_falls1_11-11-13.JPG/500px-Igua%C3%A7u_falls1_11-11-13.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_29_Iguaçu_falls1_11-11-13_JPG_500px-Iguaçu_falls1_11-11-13.JPG",
 		"lat": -14,
 		"lon": -53,
 		"title": "Brazil",
@@ -1517,12 +1540,13 @@
 			"currency": "BRL"
 		},
 		"snippets": 19,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Igua%C3%A7u_falls1_11-11-13.JPG"
 	},
 	"Brunei": {
 		"zoom": 6,
 		"seen": 26,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/JAME%E2%80%99ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN%2C_BRUNEI.jpg/440px-JAME%E2%80%99ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN%2C_BRUNEI.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_52_JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI_jpg_440px-JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg",
 		"lat": 4.48059,
 		"lon": 114.74533,
 		"title": "Brunei",
@@ -1560,13 +1584,14 @@
 			],
 			"currency": "BND"
 		},
-		"snippets": 1
+		"snippets": 1,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:JAME%E2%80%99ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN%2C_BRUNEI.jpg"
 	},
 	"Bulgaria": {
 		"zoom": 5,
 		"seen": 61,
 		"seenL": 33,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Plovdiv_Bulgaria.jpg/440px-Plovdiv_Bulgaria.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_d2_Plovdiv_Bulgaria_jpg_440px-Plovdiv_Bulgaria.jpg",
 		"lat": 42.6,
 		"lon": 25.27,
 		"title": "Bulgaria",
@@ -1638,10 +1663,11 @@
 			],
 			"currency": "BGN"
 		},
-		"snippets": 5
+		"snippets": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Plovdiv_Bulgaria.jpg"
 	},
 	"Burkina Faso": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arli_National_Park_Burkina_Faso.png/440px-Arli_National_Park_Burkina_Faso.png",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b3_Arli_National_Park_Burkina_Faso_png_440px-Arli_National_Park_Burkina_Faso.png",
 		"lat": 12.3333,
 		"lon": -1.6667,
 		"title": "Burkina Faso",
@@ -1676,10 +1702,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Arli_National_Park_Burkina_Faso.png"
 	},
 	"Burundi": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg/440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a5_Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4)_jpg_440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4).jpg",
 		"lat": -3.5,
 		"lon": 30,
 		"title": "Burundi",
@@ -1720,12 +1747,13 @@
 			"currency": "BIF"
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg"
 	},
 	"Cambodia": {
 		"zoom": 5,
 		"seen": 13,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/PreahTineahChanchhaya.JPG/440px-PreahTineahChanchhaya.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_85_PreahTineahChanchhaya_JPG_440px-PreahTineahChanchhaya.JPG",
 		"lat": 12.6,
 		"lon": 105,
 		"title": "Cambodia",
@@ -1772,10 +1800,11 @@
 				"Khmer"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:PreahTineahChanchhaya.JPG"
 	},
 	"Cameroon": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Yaound%C3%A9_Cath%C3%A9drale.jpg/440px-Yaound%C3%A9_Cath%C3%A9drale.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fa_Yaoundé_Cathédrale_jpg_440px-Yaoundé_Cathédrale.jpg",
 		"lat": 7,
 		"lon": 12,
 		"title": "Cameroon",
@@ -1825,12 +1854,13 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Yaound%C3%A9_Cath%C3%A9drale.jpg"
 	},
 	"Canada": {
 		"zoom": 2,
 		"seen": 40,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/False_Creek_morning.jpg/600px-False_Creek_morning.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_dd_False_Creek_morning_jpg_600px-False_Creek_morning.jpg",
 		"lat": 60,
 		"lon": -110,
 		"title": "Canada",
@@ -1985,10 +2015,11 @@
 			],
 			"currency": "CAD"
 		},
-		"snippets": 3
+		"snippets": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:False_Creek_morning.jpg"
 	},
 	"Cape Verde": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Casal_na_Praia_de_Leste.jpg/440px-Casal_na_Praia_de_Leste.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a2_Casal_na_Praia_de_Leste_jpg_440px-Casal_na_Praia_de_Leste.jpg",
 		"lat": 15.916667,
 		"lon": -24.083333,
 		"title": "Cape Verde",
@@ -2011,10 +2042,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg"
 	},
 	"Central African Republic": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Paddlers_%285229094366%29.jpg/440px-The_Paddlers_%285229094366%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_d6_The_Paddlers_(5229094366)_jpg_440px-The_Paddlers_(5229094366).jpg",
 		"lat": 6.7,
 		"lon": 20.9,
 		"title": "Central African Republic",
@@ -2055,10 +2087,11 @@
 			"currency": "XAF"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:The_Paddlers_%285229094366%29.jpg"
 	},
 	"Chad": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chadian_delegation.jpg/440px-Chadian_delegation.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5c_Chadian_delegation_jpg_440px-Chadian_delegation.jpg",
 		"lat": 15.4,
 		"lon": 19.4,
 		"title": "Chad",
@@ -2090,10 +2123,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chadian_delegation.jpg"
 	},
 	"Chile": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Parinacota_volcano.jpg/440px-Parinacota_volcano.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a7_Parinacota_volcano_jpg_440px-Parinacota_volcano.jpg",
 		"lat": -33,
 		"lon": -71,
 		"title": "Chile",
@@ -2161,12 +2195,13 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg"
 	},
 	"China": {
 		"seen": 47,
 		"seenL": 4,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gateofheavenlypeace.JPG/440px-Gateofheavenlypeace.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_59_Gateofheavenlypeace_JPG_440px-Gateofheavenlypeace.JPG",
 		"lat": 35,
 		"lon": 103,
 		"title": "China",
@@ -2274,10 +2309,11 @@
 			"currency": "CNY"
 		},
 		"snippets": 39,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG"
 	},
 	"Colombia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nevado_del_Ruiz_Valle_de_los_muertos.JPG/440px-Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e0_Nevado_del_Ruiz_Valle_de_los_muertos_JPG_440px-Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
 		"lat": 4,
 		"lon": -74,
 		"title": "Colombia",
@@ -2370,10 +2406,11 @@
 			"currency": "COP"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Nevado_del_Ruiz_Valle_de_los_muertos.JPG"
 	},
 	"Comoros": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG/440px-Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_51_Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow_JPG_440px-Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
 		"lat": -11.93,
 		"lon": 43.86,
 		"title": "Comoros",
@@ -2411,10 +2448,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG"
 	},
 	"Democratic Republic of the Congo": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sunrise_near_Mossaka_%28Congo%29.JPG/600px-Sunrise_near_Mossaka_%28Congo%29.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_49_Sunrise_near_Mossaka_(Congo)_JPG_600px-Sunrise_near_Mossaka_(Congo).JPG",
 		"lat": -2.8,
 		"lon": 23.7,
 		"title": "Democratic Republic of the Congo",
@@ -2467,10 +2505,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Mossaka_%28Congo%29.JPG"
 	},
 	"Republic of the Congo": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alima_-_Congo.JPG/440px-Alima_-_Congo.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_17_Alima_-_Congo_JPG_440px-Alima_-_Congo.JPG",
 		"lat": -0.75,
 		"lon": 15.38,
 		"title": "Republic of the Congo",
@@ -2515,10 +2554,11 @@
 			"currency": "XAF"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alima_-_Congo.JPG"
 	},
 	"Cook Islands": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rarotonga_Airport_Tower.jpg/440px-Rarotonga_Airport_Tower.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_26_Rarotonga_Airport_Tower_jpg_440px-Rarotonga_Airport_Tower.jpg",
 		"lat": -19.2,
 		"lon": -159.7667,
 		"title": "Cook Islands",
@@ -2551,11 +2591,12 @@
 			"currency": "NZD"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rarotonga_Airport_Tower.jpg"
 	},
 	"Costa Rica": {
 		"seen": 41,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cartago%2C_costa_rica_-_panoramio.jpg/440px-Cartago%2C_costa_rica_-_panoramio.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a1_Cartago,_costa_rica_-_panoramio_jpg_440px-Cartago,_costa_rica_-_panoramio.jpg",
 		"lat": 9.9333,
 		"lon": -84.0833,
 		"title": "Costa Rica",
@@ -2604,10 +2645,11 @@
 			"currency": "CRC"
 		},
 		"snippets": 1,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cartago%2C_costa_rica_-_panoramio.jpg"
 	},
 	"Côte d'Ivoire": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg/440px-Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_34_Rond-point_Liberté_Adjamé_jpg_440px-Rond-point_Liberté_Adjamé.jpg",
 		"lat": 8,
 		"lon": -6,
 		"title": "Côte d'Ivoire",
@@ -2642,12 +2684,13 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg"
 	},
 	"Croatia": {
 		"seen": 38,
 		"seenL": 30,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zut_srednji_kanal.jpg/600px-Zut_srednji_kanal.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f9_Zut_srednji_kanal_jpg_600px-Zut_srednji_kanal.jpg",
 		"lat": 44.9,
 		"lon": 15.7,
 		"title": "Croatia",
@@ -2832,10 +2875,11 @@
 			"currency": "HRK"
 		},
 		"snippets": 4,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Zut_srednji_kanal.jpg"
 	},
 	"Cuba": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG/400px-Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_62_Statue_du_Che_à_Santa_Clara,_Cuba_JPG_400px-Statue_du_Che_à_Santa_Clara,_Cuba.JPG",
 		"lat": 22,
 		"lon": -79.5,
 		"title": "Cuba",
@@ -2877,11 +2921,12 @@
 			"currency": "CUP"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG"
 	},
 	"Cyprus": {
 		"seen": 8,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG/440px-Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_71_Cyprus_Ledra_Street_checkpoint_IMG_6675_JPG_440px-Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG",
 		"lat": 35,
 		"lon": 33,
 		"title": "Cyprus",
@@ -2970,13 +3015,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG"
 	},
 	"Czech Republic": {
 		"zoom": 5,
 		"seen": 28,
 		"seenL": 26,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karlovy_Vary_downtown_2..jpg/440px-Karlovy_Vary_downtown_2..jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_85_Karlovy_Vary_downtown_2__jpg_440px-Karlovy_Vary_downtown_2_.jpg",
 		"lat": 49.8,
 		"lon": 15.5,
 		"title": "Czech Republic",
@@ -3050,12 +3096,13 @@
 			],
 			"currency": "CZK"
 		},
-		"snippets": 15
+		"snippets": 15,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_downtown_2..jpg"
 	},
 	"Denmark": {
 		"seen": 23,
 		"seenL": 35,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mound_Denmark.jpg/440px-Mound_Denmark.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_ce_Mound_Denmark_jpg_440px-Mound_Denmark.jpg",
 		"lat": 56,
 		"lon": 10,
 		"title": "Denmark",
@@ -3202,10 +3249,11 @@
 			"currency": "DKK"
 		},
 		"snippets": 2,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg"
 	},
 	"Djibouti": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lake_Assal_3-Djibouti.jpg/440px-Lake_Assal_3-Djibouti.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_dc_Lake_Assal_3-Djibouti_jpg_440px-Lake_Assal_3-Djibouti.jpg",
 		"lat": 11.8,
 		"lon": 42.6,
 		"title": "Djibouti",
@@ -3238,10 +3286,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg"
 	},
 	"Dominica": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Scotts_Head_Dominica.JPG/700px-Scotts_Head_Dominica.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_3e_Scotts_Head_Dominica_JPG_700px-Scotts_Head_Dominica.JPG",
 		"lat": 15.4,
 		"lon": -61.38,
 		"title": "Dominica",
@@ -3279,10 +3328,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Scotts_Head_Dominica.JPG"
 	},
 	"Dominican Republic": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SD-006.jpg/440px-SD-006.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_eb_SD-006_jpg_440px-SD-006.jpg",
 		"lat": 18.8,
 		"lon": -70.2,
 		"title": "Dominican Republic",
@@ -3349,11 +3399,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:SD-006.jpg"
 	},
 	"East Timor": {
 		"zoom": 6,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Overhead_Manatuto_11_Oct_09.jpg/440px-Overhead_Manatuto_11_Oct_09.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c5_Overhead_Manatuto_11_Oct_09_jpg_440px-Overhead_Manatuto_11_Oct_09.jpg",
 		"lat": -8.5667,
 		"lon": 125.5667,
 		"title": "East Timor",
@@ -3388,10 +3439,11 @@
 			],
 			"currency": "USD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Overhead_Manatuto_11_Oct_09.jpg"
 	},
 	"Ecuador": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/EC_Cotopaxi_NRouteISlope_2012.jpg/440px-EC_Cotopaxi_NRouteISlope_2012.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_33_EC_Cotopaxi_NRouteISlope_2012_jpg_440px-EC_Cotopaxi_NRouteISlope_2012.jpg",
 		"lat": -1,
 		"lon": -78,
 		"title": "Ecuador",
@@ -3451,11 +3503,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:EC_Cotopaxi_NRouteISlope_2012.jpg"
 	},
 	"Egypt": {
 		"seen": 24,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Katharinenkloster_Sinai_BW_2.jpg/440px-Katharinenkloster_Sinai_BW_2.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6b_Katharinenkloster_Sinai_BW_2_jpg_440px-Katharinenkloster_Sinai_BW_2.jpg",
 		"lat": 27,
 		"lon": 29,
 		"title": "Egypt",
@@ -3540,10 +3593,11 @@
 			"currency": "EGP"
 		},
 		"snippets": 1,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg"
 	},
 	"El Salvador": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sanandrezpyramid.jpg/600px-Sanandrezpyramid.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_ab_Sanandrezpyramid_jpg_600px-Sanandrezpyramid.jpg",
 		"lat": 13.667,
 		"lon": -89.1667,
 		"title": "El Salvador",
@@ -3607,10 +3661,11 @@
 			"currency": "USD"
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sanandrezpyramid.jpg"
 	},
 	"Equatorial Guinea": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Santa_Isabel_Malabo_20131224_140204.jpg/440px-Santa_Isabel_Malabo_20131224_140204.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0d_Santa_Isabel_Malabo_20131224_140204_jpg_440px-Santa_Isabel_Malabo_20131224_140204.jpg",
 		"lat": 1.5,
 		"lon": 10,
 		"title": "Equatorial Guinea",
@@ -3644,10 +3699,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Santa_Isabel_Malabo_20131224_140204.jpg"
 	},
 	"Eritrea": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Asmara_street.jpg/600px-Asmara_street.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_45_Asmara_street_jpg_600px-Asmara_street.jpg",
 		"lat": 15.4,
 		"lon": 38.7,
 		"title": "Eritrea",
@@ -3682,12 +3738,13 @@
 			"currency": "ERN"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Asmara_street.jpg"
 	},
 	"Estonia": {
 		"zoom": 5,
 		"seen": 62,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Purekkari_neemel.jpg/600px-Purekkari_neemel.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6f_Purekkari_neemel_jpg_600px-Purekkari_neemel.jpg",
 		"lat": 59,
 		"lon": 26,
 		"title": "Estonia",
@@ -3805,10 +3862,11 @@
 				"Estonian"
 			]
 		},
-		"snippets": 2
+		"snippets": 2,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg"
 	},
 	"Eswatini": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De_kok_aan_het_werk%2C_maispuree_%28pap%29_op_het_menu_vanavond_%286336544806%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_b_bc_De_kok_aan_het_werk,_maispuree_(pap)_op_het_menu_vanavond_(6336544806).jpg",
 		"lat": -26.544,
 		"lon": 31.492,
 		"title": "Eswatini",
@@ -3848,10 +3906,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:De_kok_aan_het_werk%2C_maispuree_%28pap%29_op_het_menu_vanavond_%286336544806%29.jpg"
 	},
 	"Ethiopia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mus%C3%A9e_national_d%27Ethiopie-Tr%C3%B4ne_de_Hail%C3%A9_S%C3%A9lassi%C3%A9.jpg/440px-Mus%C3%A9e_national_d%27Ethiopie-Tr%C3%B4ne_de_Hail%C3%A9_S%C3%A9lassi%C3%A9.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_34_Musée_national_d'Ethiopie-Trône_de_Hailé_Sélassié_jpg_440px-Musée_national_d'Ethiopie-Trône_de_Hailé_Sélassié.jpg",
 		"lat": 9,
 		"lon": 40,
 		"title": "Ethiopia",
@@ -3899,10 +3958,11 @@
 			]
 		},
 		"snippets": 1,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_d%27Ethiopie-Tr%C3%B4ne_de_Hail%C3%A9_S%C3%A9lassi%C3%A9.jpg"
 	},
 	"Fiji": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Denarau_Island_in_Fiji%2C_2013.jpg/480px-Denarau_Island_in_Fiji%2C_2013.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_d3_Denarau_Island_in_Fiji,_2013_jpg_480px-Denarau_Island_in_Fiji,_2013.jpg",
 		"lat": -18,
 		"lon": 179,
 		"title": "Fiji",
@@ -3945,10 +4005,11 @@
 			]
 		},
 		"snippets": 1,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Denarau_Island_in_Fiji%2C_2013.jpg"
 	},
 	"Finland": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/440px-Koli_hill_view.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_7f_Koli_hill_view_jpg_440px-Koli_hill_view.jpg",
 		"lat": 65,
 		"lon": 27,
 		"title": "Finland",
@@ -4073,13 +4134,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg"
 	},
 	"France": {
 		"zoom": 5,
 		"seen": 4,
 		"seenL": 25,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg/2560px-SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6f_SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon_jpg_2560px-SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg",
 		"lat": 47,
 		"lon": 2,
 		"title": "France",
@@ -4247,10 +4309,11 @@
 				"French"
 			]
 		},
-		"snippets": 14
+		"snippets": 14,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg"
 	},
 	"Gabon": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rainforest_Gabon.jpg/440px-Rainforest_Gabon.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_72_Rainforest_Gabon_jpg_440px-Rainforest_Gabon.jpg",
 		"lat": -1,
 		"lon": 12,
 		"title": "Gabon",
@@ -4289,10 +4352,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rainforest_Gabon.jpg"
 	},
 	"Gambia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gambia_111_from_KG.jpg/580px-Gambia_111_from_KG.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_49_Gambia_111_from_KG_jpg_580px-Gambia_111_from_KG.jpg",
 		"lat": 13.5,
 		"lon": -15.5,
 		"title": "Gambia",
@@ -4338,12 +4402,13 @@
 			"currency": "GMD"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gambia_111_from_KG.jpg"
 	},
 	"Georgia": {
 		"seen": 56,
 		"seenL": 23,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rustaveli_National_Theater_in_Georgia_%28Europe%29%2C_built_19th_century_in_Rococo_style.jpg/600px-Rustaveli_National_Theater_in_Georgia_%28Europe%29%2C_built_19th_century_in_Rococo_style.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e6_Rustaveli_National_Theater_in_Georgia_(Europe),_built_19th_century_in_Rococo_style_jpg_600px-Rustaveli_National_Theater_in_Georgia_(Europe),_built_19th_century_in_Rococo_style.jpg",
 		"lat": 42.3,
 		"lon": 43.6,
 		"title": "Georgia",
@@ -4419,13 +4484,14 @@
 			]
 		},
 		"snippets": 12,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rustaveli_National_Theater_in_Georgia_%28Europe%29%2C_built_19th_century_in_Rococo_style.jpg"
 	},
 	"Germany": {
 		"zoom": 5,
 		"seen": 10,
 		"seenL": 9,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/N%C3%BCrnberger_Burg_im_Herbst_2013.jpg/2560px-N%C3%BCrnberger_Burg_im_Herbst_2013.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_Nürnberger_Burg_im_Herbst_2013_jpg_2560px-Nürnberger_Burg_im_Herbst_2013.jpg",
 		"lat": 51.12421,
 		"lon": 10.10742,
 		"title": "Germany",
@@ -4518,10 +4584,11 @@
 				"German"
 			]
 		},
-		"snippets": 4
+		"snippets": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberger_Burg_im_Herbst_2013.jpg"
 	},
 	"Ghana": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ghana_footbridge1.jpg/440px-Ghana_footbridge1.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_cf_Ghana_footbridge1_jpg_440px-Ghana_footbridge1.jpg",
 		"lat": 8,
 		"lon": -0.5,
 		"title": "Ghana",
@@ -4564,12 +4631,13 @@
 			"currency": "GHS"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ghana_footbridge1.jpg"
 	},
 	"Greece": {
 		"seen": 34,
 		"seenL": 31,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg/700px-Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6d_Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece_jpg_700px-Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece.jpg",
 		"lat": 38.5,
 		"lon": 23,
 		"title": "Greece",
@@ -4649,12 +4717,13 @@
 			]
 		},
 		"snippets": 14,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg"
 	},
 	"Grenada": {
 		"seen": 60,
 		"seenL": 32,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Colors_of_Grenada_-_panoramio.jpg/440px-The_Colors_of_Grenada_-_panoramio.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_86_The_Colors_of_Grenada_-_panoramio_jpg_440px-The_Colors_of_Grenada_-_panoramio.jpg",
 		"lat": 12.05,
 		"lon": -61.75,
 		"title": "Grenada",
@@ -4698,12 +4767,13 @@
 			1575
 		],
 		"snippets": 9,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:The_Colors_of_Grenada_-_panoramio.jpg"
 	},
 	"Guatemala": {
 		"zoom": 5,
 		"seen": 33,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg/440px-Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fd_Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder_jpg_440px-Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg",
 		"lat": 15.5333,
 		"lon": -90.5,
 		"title": "Guatemala",
@@ -4791,10 +4861,11 @@
 			],
 			"currency": "GTQ"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg"
 	},
 	"Guinea": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fouta_Djallon_%2814582291826%29.jpg/440px-Fouta_Djallon_%2814582291826%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e6_Fouta_Djallon_(14582291826)_jpg_440px-Fouta_Djallon_(14582291826).jpg",
 		"lat": 10,
 		"lon": -11,
 		"title": "Guinea",
@@ -4832,10 +4903,11 @@
 			"currency": "GNF"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fouta_Djallon_%2814582291826%29.jpg"
 	},
 	"Guinea-Bissau": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG/440px-Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f1_Paesaggio_savana_con_termitai_in_Guinea-Bissau_JPG_440px-Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
 		"lat": 12,
 		"lon": -15,
 		"title": "Guinea-Bissau",
@@ -4869,10 +4941,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG"
 	},
 	"Guyana": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Georgetown_street%2C_Guyana.jpg/440px-Georgetown_street%2C_Guyana.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_98_Georgetown_street,_Guyana_jpg_440px-Georgetown_street,_Guyana.jpg",
 		"lat": 5.7,
 		"lon": -59.3,
 		"title": "Guyana",
@@ -4913,10 +4986,11 @@
 			"currency": "GYD"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Georgetown_street%2C_Guyana.jpg"
 	},
 	"Haiti": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Statue_de_Dessalines_%281082761489%29.jpg/440px-Statue_de_Dessalines_%281082761489%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_18_Statue_de_Dessalines_(1082761489)_jpg_440px-Statue_de_Dessalines_(1082761489).jpg",
 		"lat": 19,
 		"lon": -72.8,
 		"title": "Haiti",
@@ -4952,10 +5026,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Statue_de_Dessalines_%281082761489%29.jpg"
 	},
 	"Honduras": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Central_America_Tegucigalpa_urban_surroundings.JPG/700px-Central_America_Tegucigalpa_urban_surroundings.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_da_Central_America_Tegucigalpa_urban_surroundings_JPG_700px-Central_America_Tegucigalpa_urban_surroundings.JPG",
 		"lat": 14.6,
 		"lon": -86.7,
 		"title": "Honduras",
@@ -5000,13 +5075,14 @@
 			"currency": "HNL"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG"
 	},
 	"Hungary": {
 		"@seen": "October 2008",
 		"seen": 19,
 		"seenL": 27,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kurult%C3%A1j_-_V%C3%A1gta%2C_2014.08.09_%283%29.JPG/500px-Kurult%C3%A1j_-_V%C3%A1gta%2C_2014.08.09_%283%29.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_24_Kurultáj_-_Vágta,_2014_08_09_(3)_JPG_500px-Kurultáj_-_Vágta,_2014_08_09_(3).JPG",
 		"lat": 47.2,
 		"lon": 19.2,
 		"title": "Hungary",
@@ -5122,11 +5198,12 @@
 			]
 		},
 		"snippets": 5,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kurult%C3%A1j_-_V%C3%A1gta%2C_2014.08.09_%283%29.JPG"
 	},
 	"Iceland": {
 		"seen": 37,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thingvellir_village_from_above.JPG/440px-Thingvellir_village_from_above.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_90_Thingvellir_village_from_above_JPG_440px-Thingvellir_village_from_above.JPG",
 		"lat": 65,
 		"lon": -19,
 		"title": "Iceland",
@@ -5207,13 +5284,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Thingvellir_village_from_above.JPG"
 	},
 	"India": {
 		"zoom": 3,
 		"@seen": 2012,
 		"seen": 39,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/9/99/Varanasikedarghat.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_9_99_Varanasikedarghat.JPG",
 		"lat": 22,
 		"lon": 77,
 		"title": "India",
@@ -5315,13 +5393,14 @@
 			],
 			"currency": "INR"
 		},
-		"snippets": 2
+		"snippets": 2,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Varanasikedarghat.JPG"
 	},
 	"Indonesia": {
 		"zoom": 3,
 		"seen": 50,
 		"seenL": 3,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3b/WayangKulit_Scene_Zoom.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_3_3b_WayangKulit_Scene_Zoom.JPG",
 		"lat": -2,
 		"lon": 118,
 		"title": "Indonesia",
@@ -5393,11 +5472,12 @@
 			],
 			"currency": "IDR"
 		},
-		"snippets": 23
+		"snippets": 23,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WayangKulit_Scene_Zoom.JPG"
 	},
 	"Iran": {
 		"zoom": 4,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Yazd_panorama.jpg/440px-Yazd_panorama.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_ed_Yazd_panorama_jpg_440px-Yazd_panorama.jpg",
 		"lat": 32,
 		"lon": 53,
 		"title": "Iran",
@@ -5450,10 +5530,11 @@
 				"Persian"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Yazd_panorama.jpg"
 	},
 	"Iraq": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ruins_of_Ur_2.JPG/440px-Ruins_of_Ur_2.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_01_Ruins_of_Ur_2_JPG_440px-Ruins_of_Ur_2.JPG",
 		"lat": 33,
 		"lon": 43,
 		"title": "Iraq",
@@ -5512,13 +5593,14 @@
 			"currency": "IQD"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ruins_of_Ur_2.JPG"
 	},
 	"Ireland": {
 		"zoom": 5,
 		"@seen": "2006",
 		"seen": 11,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Castle_Leap%2C_Birr%2C_Ireland.jpg/440px-Castle_Leap%2C_Birr%2C_Ireland.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_cc_Castle_Leap,_Birr,_Ireland_jpg_440px-Castle_Leap,_Birr,_Ireland.jpg",
 		"lat": 53.3333,
 		"lon": -8,
 		"title": "Ireland",
@@ -5676,11 +5758,12 @@
 			],
 			"currency": "IEP"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Castle_Leap%2C_Birr%2C_Ireland.jpg"
 	},
 	"Israel": {
 		"seen": 52,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/WikiAir_IL-13-06_035_-_Old_City_%28Jerusalem%29.JPG/640px-WikiAir_IL-13-06_035_-_Old_City_%28Jerusalem%29.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5b_WikiAir_IL-13-06_035_-_Old_City_(Jerusalem)_JPG_640px-WikiAir_IL-13-06_035_-_Old_City_(Jerusalem).JPG",
 		"lat": 31.4,
 		"lon": 35,
 		"title": "Israel",
@@ -5773,12 +5856,13 @@
 			"currency": "ILS"
 		},
 		"snippets": 5,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WikiAir_IL-13-06_035_-_Old_City_%28Jerusalem%29.JPG"
 	},
 	"Italy": {
 		"seen": 46,
 		"seenL": 11,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg/500px-Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_84_Vue_des_toits_depuis_la_Sainte-Trinité-des-Monts,_Rome,_Italy_jpg_500px-Vue_des_toits_depuis_la_Sainte-Trinité-des-Monts,_Rome,_Italy.jpg",
 		"lat": 42.5,
 		"lon": 12.5,
 		"title": "Italy",
@@ -5881,10 +5965,11 @@
 			]
 		},
 		"snippets": 6,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg"
 	},
 	"Jamaica": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sunny_lodge_walderston_jamaica.jpg/440px-Sunny_lodge_walderston_jamaica.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_76_Sunny_lodge_walderston_jamaica_jpg_440px-Sunny_lodge_walderston_jamaica.jpg",
 		"lat": 18.18,
 		"lon": -77.32,
 		"title": "Jamaica",
@@ -5928,13 +6013,14 @@
 			"currency": "JMD"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunny_lodge_walderston_jamaica.jpg"
 	},
 	"Japan": {
 		"@seen": "February 2008",
 		"seen": 18,
 		"seenL": 16,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Benzaitendo_Temple2.JPG/440px-Benzaitendo_Temple2.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_79_Benzaitendo_Temple2_JPG_440px-Benzaitendo_Temple2.JPG",
 		"lat": 35,
 		"lon": 136,
 		"title": "Japan",
@@ -6012,10 +6098,11 @@
 			"currency": "JPY"
 		},
 		"snippets": 22,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Benzaitendo_Temple2.JPG"
 	},
 	"Jordan": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/As_Salt_Castle.JPG/440px-As_Salt_Castle.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_64_As_Salt_Castle_JPG_440px-As_Salt_Castle.JPG",
 		"lat": 31.2,
 		"lon": 36.5,
 		"title": "Jordan",
@@ -6061,11 +6148,12 @@
 			]
 		},
 		"snippets": 1,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:As_Salt_Castle.JPG"
 	},
 	"Kazakhstan": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kazakhstan_Altay_2.jpg/440px-Kazakhstan_Altay_2.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c8_Kazakhstan_Altay_2_jpg_440px-Kazakhstan_Altay_2.jpg",
 		"lat": 48,
 		"lon": 68,
 		"title": "Kazakhstan",
@@ -6104,10 +6192,11 @@
 			],
 			"currency": "KZT"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Altay_2.jpg"
 	},
 	"Kenya": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mt_Kenya_landscape.jpg/440px-Mt_Kenya_landscape.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_09_Mt_Kenya_landscape_jpg_440px-Mt_Kenya_landscape.jpg",
 		"lat": 0.1,
 		"lon": 38,
 		"title": "Kenya",
@@ -6172,10 +6261,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mt_Kenya_landscape.jpg"
 	},
 	"Kiribati": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KiribatiPresidential_Residence.jpg/440px-KiribatiPresidential_Residence.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a9_KiribatiPresidential_Residence_jpg_440px-KiribatiPresidential_Residence.jpg",
 		"lat": 1,
 		"lon": 179,
 		"title": "Kiribati",
@@ -6202,10 +6292,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:KiribatiPresidential_Residence.jpg"
 	},
 	"Kuwait": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Q8desert.jpg/440px-Q8desert.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_54_Q8desert_jpg_440px-Q8desert.jpg",
 		"lat": 29.3667,
 		"lon": 47.9667,
 		"title": "Kuwait",
@@ -6246,11 +6337,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Q8desert.jpg"
 	},
 	"Kyrgyzstan": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Osh_-_Ak-Buura_river_%282%29_%2830507316675%29.jpg/440px-Osh_-_Ak-Buura_river_%282%29_%2830507316675%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_49_Osh_-_Ak-Buura_river_(2)_(30507316675)_jpg_440px-Osh_-_Ak-Buura_river_(2)_(30507316675).jpg",
 		"lat": 41,
 		"lon": 75,
 		"title": "Kyrgyzstan",
@@ -6303,12 +6395,13 @@
 				"Kyrgyz"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Osh_-_Ak-Buura_river_%282%29_%2830507316675%29.jpg"
 	},
 	"Laos": {
 		"zoom": 4,
 		"seen": 15,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/de/WatSen.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_d_de_WatSen.jpg",
 		"lat": 18.2,
 		"lon": 104,
 		"title": "Laos",
@@ -6352,11 +6445,12 @@
 				"Lao"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WatSen.jpg"
 	},
 	"Latvia": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Me%C5%BEs_2010.gada_28.august%C4%81%2C_Tomes_pagasts%2C_%C4%B6eguma_novads%2C_Latvia_-_panoramio.jpg/440px-Me%C5%BEs_2010.gada_28.august%C4%81%2C_Tomes_pagasts%2C_%C4%B6eguma_novads%2C_Latvia_-_panoramio.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0d_Mežs_2010_gada_28_augustā,_Tomes_pagasts,_Ķeguma_novads,_Latvia_-_panoramio_jpg_440px-Mežs_2010_gada_28_augustā,_Tomes_pagasts,_Ķeguma_novads,_Latvia_-_panoramio.jpg",
 		"lat": 57,
 		"lon": 25,
 		"title": "Latvia",
@@ -6480,10 +6574,11 @@
 				"Latvian"
 			]
 		},
-		"snippets": 3
+		"snippets": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Me%C5%BEs_2010.gada_28.august%C4%81%2C_Tomes_pagasts%2C_%C4%B6eguma_novads%2C_Latvia_-_panoramio.jpg"
 	},
 	"Lebanon": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baalbek-Bacchus.jpg/440px-Baalbek-Bacchus.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_99_Baalbek-Bacchus_jpg_440px-Baalbek-Bacchus.jpg",
 		"lat": 33.9,
 		"lon": 35.5333,
 		"title": "Lebanon",
@@ -6520,10 +6615,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Baalbek-Bacchus.jpg"
 	},
 	"Lesotho": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lesotho_snow_-_panoramio.jpg/440px-Lesotho_snow_-_panoramio.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_14_Lesotho_snow_-_panoramio_jpg_440px-Lesotho_snow_-_panoramio.jpg",
 		"lat": -29.6,
 		"lon": 27.9,
 		"title": "Lesotho",
@@ -6569,10 +6665,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lesotho_snow_-_panoramio.jpg"
 	},
 	"Liberia": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Downtown_Monrovia_3348917715_67a2002529.jpg/2560px-Downtown_Monrovia_3348917715_67a2002529.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0b_Downtown_Monrovia_3348917715_67a2002529_jpg_2560px-Downtown_Monrovia_3348917715_67a2002529.jpg",
 		"lat": 6.53,
 		"lon": -9.75,
 		"title": "Liberia",
@@ -6609,10 +6706,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Downtown_Monrovia_3348917715_67a2002529.jpg"
 	},
 	"Libya": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sabratha_-_Forumsgel%C3%A4nde_02.jpg/440px-Sabratha_-_Forumsgel%C3%A4nde_02.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5b_Sabratha_-_Forumsgelände_02_jpg_440px-Sabratha_-_Forumsgelände_02.jpg",
 		"lat": 27,
 		"lon": 17,
 		"title": "Libya",
@@ -6665,10 +6763,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sabratha_-_Forumsgel%C3%A4nde_02.jpg"
 	},
 	"Liechtenstein": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grenze_Liechtenstein%2C_Balzers.jpg/2560px-Grenze_Liechtenstein%2C_Balzers.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5f_Grenze_Liechtenstein,_Balzers_jpg_2560px-Grenze_Liechtenstein,_Balzers.jpg",
 		"lat": 47.16,
 		"lon": 9.52,
 		"title": "Liechtenstein",
@@ -6704,11 +6803,12 @@
 			"currency": "CHF"
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Grenze_Liechtenstein%2C_Balzers.jpg"
 	},
 	"Lithuania": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Merkin%C4%97001.JPG/500px-Merkin%C4%97001.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e9_Merkinė001_JPG_500px-Merkinė001.JPG",
 		"lat": 55.2,
 		"lon": 24,
 		"title": "Lithuania",
@@ -6791,10 +6891,11 @@
 			],
 			"currency": "LTL"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Merkin%C4%97001.JPG"
 	},
 	"Luxembourg": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Musee_Nationale_d%27Histoire_Militaire%2C_Diekirch_%285271045504%29.jpg/440px-Musee_Nationale_d%27Histoire_Militaire%2C_Diekirch_%285271045504%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_3f_Musee_Nationale_d'Histoire_Militaire,_Diekirch_(5271045504)_jpg_440px-Musee_Nationale_d'Histoire_Militaire,_Diekirch_(5271045504).jpg",
 		"lat": 49.75,
 		"lon": 6.1667,
 		"title": "Luxembourg",
@@ -6877,11 +6978,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Musee_Nationale_d%27Histoire_Militaire%2C_Diekirch_%285271045504%29.jpg"
 	},
 	"North Macedonia": {
 		"zoom": 7,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Iglesia_San_Juan_Kaneo%2C_Ohrid%2C_Macedonia_del_Norte%2C_2014-04-17%2C_DD_19.jpg/2560px-Iglesia_San_Juan_Kaneo%2C_Ohrid%2C_Macedonia_del_Norte%2C_2014-04-17%2C_DD_19.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e7_Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19_jpg_2560px-Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19.jpg",
 		"lat": 41.65,
 		"lon": 21.72,
 		"title": "North Macedonia",
@@ -6936,10 +7038,11 @@
 			],
 			"currency": "MKD"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iglesia_San_Juan_Kaneo%2C_Ohrid%2C_Macedonia_del_Norte%2C_2014-04-17%2C_DD_19.jpg"
 	},
 	"Madagascar": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Katta_csal%C3%A1d.jpg/500px-Katta_csal%C3%A1d.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_ff_Katta_család_jpg_500px-Katta_család.jpg",
 		"lat": -20,
 		"lon": 47,
 		"title": "Madagascar",
@@ -6989,10 +7092,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Katta_csal%C3%A1d.jpg"
 	},
 	"Malawi": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Liwonde_NP_crocodiles.jpg/440px-Liwonde_NP_crocodiles.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a6_Liwonde_NP_crocodiles_jpg_440px-Liwonde_NP_crocodiles.jpg",
 		"lat": -13,
 		"lon": 34,
 		"title": "Malawi",
@@ -7045,14 +7149,15 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Liwonde_NP_crocodiles.jpg"
 	},
 	"Malaysia": {
 		"zoom": 4,
 		"@seen": "March 2010",
 		"seen": 25,
 		"seenL": 2,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PetronasKLCC.jpg/500px-PetronasKLCC.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e7_PetronasKLCC_jpg_500px-PetronasKLCC.jpg",
 		"lat": 3,
 		"lon": 108,
 		"title": "Malaysia",
@@ -7136,10 +7241,11 @@
 				"Malay"
 			]
 		},
-		"snippets": 10
+		"snippets": 10,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:PetronasKLCC.jpg"
 	},
 	"Maldives": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Male-total.jpg/516px-Male-total.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b4_Male-total_jpg_516px-Male-total.jpg",
 		"lat": 3.2,
 		"lon": 73.22,
 		"title": "Maldives",
@@ -7182,10 +7288,11 @@
 			"currency": "MVR"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Male-total.jpg"
 	},
 	"Mali": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Timbuktu_street_scene.jpg/440px-Timbuktu_street_scene.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_51_Timbuktu_street_scene_jpg_440px-Timbuktu_street_scene.jpg",
 		"lat": 17,
 		"lon": -4,
 		"title": "Mali",
@@ -7228,11 +7335,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Timbuktu_street_scene.jpg"
 	},
 	"Malta": {
 		"seen": 36,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sudika_Golden_Bay.jpg/440px-Sudika_Golden_Bay.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_09_Sudika_Golden_Bay_jpg_440px-Sudika_Golden_Bay.jpg",
 		"lat": 35.95,
 		"lon": 14.4,
 		"title": "Malta",
@@ -7284,10 +7392,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg"
 	},
 	"Marshall Islands": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Air_Marshall_Islands_Dash_8-100_%28V7-0210%29_%282%29.jpg/440px-Air_Marshall_Islands_Dash_8-100_%28V7-0210%29_%282%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_ec_Air_Marshall_Islands_Dash_8-100_(V7-0210)_(2)_jpg_440px-Air_Marshall_Islands_Dash_8-100_(V7-0210)_(2).jpg",
 		"lat": 8.92849,
 		"lon": 168.93677,
 		"title": "Marshall Islands",
@@ -7316,10 +7425,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Air_Marshall_Islands_Dash_8-100_%28V7-0210%29_%282%29.jpg"
 	},
 	"Mauritania": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mauritania_desert.jpg/440px-Mauritania_desert.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c6_Mauritania_desert_jpg_440px-Mauritania_desert.jpg",
 		"lat": 21,
 		"lon": -11,
 		"title": "Mauritania",
@@ -7355,10 +7465,11 @@
 			"currency": "MRO"
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mauritania_desert.jpg"
 	},
 	"Mauritius": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chamarel_Falls_Mauritius_2.JPG/440px-Chamarel_Falls_Mauritius_2.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a6_Chamarel_Falls_Mauritius_2_JPG_440px-Chamarel_Falls_Mauritius_2.JPG",
 		"lat": -20.2,
 		"lon": 57.5,
 		"title": "Mauritius",
@@ -7419,12 +7530,13 @@
 			"currency": "MUR"
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chamarel_Falls_Mauritius_2.JPG"
 	},
 	"Mexico": {
 		"zoom": 4,
 		"seen": 31,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg/440px-Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f8_Plaza_de_la_Constitucion_Ciudad_de_Mexico_City_jpg_440px-Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg",
 		"lat": 23,
 		"lon": -102,
 		"title": "Mexico",
@@ -7677,10 +7789,11 @@
 			],
 			"currency": "MXN"
 		},
-		"snippets": 4
+		"snippets": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg"
 	},
 	"Federated States of Micronesia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pink_anemonefish_BWP.jpg/440px-Pink_anemonefish_BWP.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_85_Pink_anemonefish_BWP_jpg_440px-Pink_anemonefish_BWP.jpg",
 		"lat": 6.9167,
 		"lon": 158.1833,
 		"title": "Federated States of Micronesia",
@@ -7705,11 +7818,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Pink_anemonefish_BWP.jpg"
 	},
 	"Moldova": {
 		"zoom": 6,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Chisinau_Airport_KIV.jpg/600px-Chisinau_Airport_KIV.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e7_Chisinau_Airport_KIV_jpg_600px-Chisinau_Airport_KIV.jpg",
 		"lat": 47,
 		"lon": 28,
 		"title": "Moldova",
@@ -7754,11 +7868,12 @@
 			],
 			"currency": "MDL"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chisinau_Airport_KIV.jpg"
 	},
 	"Monaco": {
 		"citylike": true,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aerial_view_of_Monaco_at_dusk.jpg/600px-Aerial_view_of_Monaco_at_dusk.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_84_Aerial_view_of_Monaco_at_dusk_jpg_600px-Aerial_view_of_Monaco_at_dusk.jpg",
 		"lat": 43.732778,
 		"lon": 7.419722,
 		"title": "Monaco",
@@ -7816,10 +7931,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 13
+		"zoom": 13,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Monaco_at_dusk.jpg"
 	},
 	"Mongolia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/USMC-100903-M-1294R-001.jpg/600px-USMC-100903-M-1294R-001.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bc_USMC-100903-M-1294R-001_jpg_600px-USMC-100903-M-1294R-001.jpg",
 		"lat": 47,
 		"lon": 104,
 		"title": "Mongolia",
@@ -7863,12 +7979,13 @@
 			"currency": "MNT"
 		},
 		"snippets": 5,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg"
 	},
 	"Montenegro": {
 		"seen": 59,
 		"seenL": 29,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Budva6.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_2_2f_Budva6.jpg",
 		"lat": 42.7833,
 		"lon": 19.4667,
 		"title": "Montenegro",
@@ -7923,11 +8040,12 @@
 			]
 		},
 		"snippets": 13,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Budva6.jpg"
 	},
 	"Morocco": {
 		"seen": 49,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/ROYAL_AIR_MAROC_BOEING_737-800_AND_ATR72_AT_MARRAKECH_MENARA_AIRPORT_MOROCCO_APRIL_2013_%288696076081%29.jpg/600px-ROYAL_AIR_MAROC_BOEING_737-800_AND_ATR72_AT_MARRAKECH_MENARA_AIRPORT_MOROCCO_APRIL_2013_%288696076081%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6b_Souk,_Marrakech_(2242326899)_jpg_2560px-Souk,_Marrakech_(2242326899).jpg",
 		"lat": 32,
 		"lon": -6,
 		"title": "Morocco",
@@ -7994,10 +8112,11 @@
 			]
 		},
 		"snippets": 6,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Souk%2C_Marrakech_%282242326899%29.jpg"
 	},
 	"Mozambique": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg/440px-Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f0_Fortaleza_de_São_Sebastião-01_jpg_440px-Fortaleza_de_São_Sebastião-01.jpg",
 		"lat": -19,
 		"lon": 35,
 		"title": "Mozambique",
@@ -8041,13 +8160,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg"
 	},
 	"Myanmar": {
 		"zoom": 4,
 		"seen": 54,
 		"seenL": 18,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bago%2C_Myanmar_%28Burma%29_-_panoramio_%2844%29.jpg/440px-Bago%2C_Myanmar_%28Burma%29_-_panoramio_%2844%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fa_Bago,_Myanmar_(Burma)_-_panoramio_(44)_jpg_440px-Bago,_Myanmar_(Burma)_-_panoramio_(44).jpg",
 		"lat": 22,
 		"lon": 96,
 		"title": "Myanmar",
@@ -8090,10 +8210,11 @@
 				"Burmese"
 			]
 		},
-		"snippets": 11
+		"snippets": 11,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Bago%2C_Myanmar_%28Burma%29_-_panoramio_%2844%29.jpg"
 	},
 	"Namibia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Robbenkolonie_Sklelettk%C3%BCste_anagoria.JPG/440px-Robbenkolonie_Sklelettk%C3%BCste_anagoria.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_53_Robbenkolonie_Sklelettküste_anagoria_JPG_440px-Robbenkolonie_Sklelettküste_anagoria.JPG",
 		"lat": -23,
 		"lon": 17,
 		"title": "Namibia",
@@ -8152,10 +8273,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Robbenkolonie_Sklelettk%C3%BCste_anagoria.JPG"
 	},
 	"Nauru": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nauru%2807%29.jpg/600px-Nauru%2807%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_50_Nauru(07)_jpg_600px-Nauru(07).jpg",
 		"lat": -0.527288,
 		"lon": 166.936724,
 		"title": "Nauru",
@@ -8193,10 +8315,11 @@
 		},
 		"citylike": "1",
 		"snippets": 1,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Nauru%2807%29.jpg"
 	},
 	"Nepal": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kathmandu_Valley.jpg/440px-Kathmandu_Valley.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f4_Kathmandu_Valley_jpg_440px-Kathmandu_Valley.jpg",
 		"lat": 28,
 		"lon": 84,
 		"title": "Nepal",
@@ -8237,12 +8360,13 @@
 			"currency": "NPR"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kathmandu_Valley.jpg"
 	},
 	"Netherlands": {
 		"seen": 9,
 		"seenL": 13,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kinderdijk11.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_9_97_Kinderdijk11.JPG",
 		"lat": 52.35547,
 		"lon": 5.5481,
 		"title": "Netherlands",
@@ -8345,11 +8469,12 @@
 			]
 		},
 		"snippets": 5,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kinderdijk11.JPG"
 	},
 	"New Zealand": {
 		"zoom": 4,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/5/5d/WellingtonPanorama.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_5_5d_WellingtonPanorama.jpg",
 		"lat": -41.2,
 		"lon": 174,
 		"title": "New Zealand",
@@ -8474,11 +8599,12 @@
 				"New Zealand Sign Language"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WellingtonPanorama.jpg"
 	},
 	"Nicaragua": {
 		"seen": 42,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Col_Universitaria%2C_Le%C3%B3n%2C_Nicaragua_-_panoramio_-_Juan_Jos%C3%A9_Mendoza_%285%29.jpg/440px-Col_Universitaria%2C_Le%C3%B3n%2C_Nicaragua_-_panoramio_-_Juan_Jos%C3%A9_Mendoza_%285%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8c_Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5)_jpg_440px-Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5).jpg",
 		"lat": 13,
 		"lon": -85,
 		"title": "Nicaragua",
@@ -8537,10 +8663,11 @@
 			"currency": "NIO"
 		},
 		"snippets": 4,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Col_Universitaria%2C_Le%C3%B3n%2C_Nicaragua_-_panoramio_-_Juan_Jos%C3%A9_Mendoza_%285%29.jpg"
 	},
 	"Niger": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Elephants_bath_park_w_Niger_2006.jpg/440px-Elephants_bath_park_w_Niger_2006.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_23_Elephants_bath_park_w_Niger_2006_jpg_440px-Elephants_bath_park_w_Niger_2006.jpg",
 		"lat": 17,
 		"lon": 10,
 		"title": "Niger",
@@ -8580,10 +8707,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Elephants_bath_park_w_Niger_2006.jpg"
 	},
 	"Nigeria": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pitakwa.jpg/440px-Pitakwa.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8f_Pitakwa_jpg_440px-Pitakwa.jpg",
 		"lat": 9,
 		"lon": 8,
 		"title": "Nigeria",
@@ -8630,10 +8758,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Pitakwa.jpg"
 	},
 	"North Korea": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Party_Foundation_Monument_%2810875731074%29.jpg/440px-Party_Foundation_Monument_%2810875731074%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c2_Party_Foundation_Monument_(10875731074)_jpg_440px-Party_Foundation_Monument_(10875731074).jpg",
 		"lat": 40.4,
 		"lon": 127,
 		"title": "North Korea",
@@ -8677,12 +8806,13 @@
 			"currency": "KPW"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Party_Foundation_Monument_%2810875731074%29.jpg"
 	},
 	"Norway": {
 		"seen": 53,
 		"seenL": 17,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Atlanterhavsvegen4.jpg/440px-Atlanterhavsvegen4.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_48_Atlanterhavsvegen4_jpg_440px-Atlanterhavsvegen4.jpg",
 		"lat": 65,
 		"lon": 11,
 		"title": "Norway",
@@ -8787,10 +8917,11 @@
 			"currency": "NOK"
 		},
 		"snippets": 2,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Atlanterhavsvegen4.jpg"
 	},
 	"Oman": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Land_of_Frankincense-118844.jpg/440px-Land_of_Frankincense-118844.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_ae_Land_of_Frankincense-118844_jpg_440px-Land_of_Frankincense-118844.jpg",
 		"lat": 21.5,
 		"lon": 55,
 		"title": "Oman",
@@ -8836,11 +8967,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Land_of_Frankincense-118844.jpg"
 	},
 	"Pakistan": {
 		"zoom": 4,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Islamabad.jpg/440px-Islamabad.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_cf_Islamabad_jpg_440px-Islamabad.jpg",
 		"lat": 30,
 		"lon": 71,
 		"title": "Pakistan",
@@ -8893,10 +9025,11 @@
 				"Urdu"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Islamabad.jpg"
 	},
 	"Palau": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Europa_in_Palau.jpg/440px-Europa_in_Palau.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_76_Europa_in_Palau_jpg_440px-Europa_in_Palau.jpg",
 		"lat": 7.35,
 		"lon": 134.4667,
 		"title": "Palau",
@@ -8924,12 +9057,13 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Europa_in_Palau.jpg"
 	},
 	"Panama": {
 		"seen": 55,
 		"seenL": 22,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lock_-_panoramio_-_---%3DXEON%3D---_%281%29.jpg/440px-Lock_-_panoramio_-_---%3DXEON%3D---_%281%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5d_Lock_-_panoramio_-_---=XEON=---_(1)_jpg_440px-Lock_-_panoramio_-_---=XEON=---_(1).jpg",
 		"lat": 8.7,
 		"lon": -80,
 		"title": "Panama",
@@ -8983,11 +9117,12 @@
 			"currency": "PAB"
 		},
 		"snippets": 22,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lock_-_panoramio_-_---%3DXEON%3D---_%281%29.jpg"
 	},
 	"Papua New Guinea": {
 		"zoom": 3,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Port_Moresby_Town_Mschlauch.JPG/440px-Port_Moresby_Town_Mschlauch.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f5_Port_Moresby_Town_Mschlauch_JPG_440px-Port_Moresby_Town_Mschlauch.JPG",
 		"lat": -6.3,
 		"lon": 147,
 		"title": "Papua New Guinea",
@@ -9030,10 +9165,11 @@
 				"Papua New Guinean Sign Language"
 			]
 		},
-		"snippets": 3
+		"snippets": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Port_Moresby_Town_Mschlauch.JPG"
 	},
 	"Paraguay": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/General_view_-_Trinidad_%28Paraguay%29.JPG/440px-General_view_-_Trinidad_%28Paraguay%29.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a0_General_view_-_Trinidad_(Paraguay)_JPG_440px-General_view_-_Trinidad_(Paraguay).JPG",
 		"lat": -23.5,
 		"lon": -58,
 		"title": "Paraguay",
@@ -9094,11 +9230,12 @@
 			"currency": "PYG"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:General_view_-_Trinidad_%28Paraguay%29.JPG"
 	},
 	"Peru": {
 		"seen": 44,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_%2815181518852%29.jpg/440px-023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_%2815181518852%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_80_023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852)_jpg_440px-023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg",
 		"lat": -9.4,
 		"lon": -76,
 		"title": "Peru",
@@ -9242,12 +9379,13 @@
 			"currency": "PEN"
 		},
 		"snippets": 16,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_%2815181518852%29.jpg"
 	},
 	"Philippines": {
 		"zoom": 4,
 		"seen": 43,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Island_lagoon_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg/2560px-Island_lagoon_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_4f_Island_lagoon_in_Bacuit_Bay,_El_Nido,_Palawan,_Philippines_jpg_2560px-Island_lagoon_in_Bacuit_Bay,_El_Nido,_Palawan,_Philippines.jpg",
 		"lat": 12,
 		"lon": 123,
 		"title": "Philippines",
@@ -9350,11 +9488,12 @@
 				"English"
 			]
 		},
-		"snippets": 15
+		"snippets": 15,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Island_lagoon_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg"
 	},
 	"Poland": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ayuntamiento_Principal%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_01.jpg/440px-Ayuntamiento_Principal%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_01.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c2_Ayuntamiento_Principal,_Gdansk,_Polonia,_2013-05-20,_DD_01_jpg_440px-Ayuntamiento_Principal,_Gdansk,_Polonia,_2013-05-20,_DD_01.jpg",
 		"lat": 52,
 		"lon": 19,
 		"title": "Poland",
@@ -9475,11 +9614,12 @@
 			],
 			"currency": "PLN"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_Principal%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_01.jpg"
 	},
 	"Portugal": {
 		"seen": 30,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Praia_da_Marinha_%282012-09-27%29%2C_by_Klugschnacker_in_Wikipedia_%2886%29.JPG/1280px-Praia_da_Marinha_%282012-09-27%29%2C_by_Klugschnacker_in_Wikipedia_%2886%29.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bd_Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86)_JPG_1280px-Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86).JPG",
 		"lat": 38.7,
 		"lon": -9.183333,
 		"title": "Portugal",
@@ -9556,10 +9696,11 @@
 			]
 		},
 		"snippets": 9,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Praia_da_Marinha_%282012-09-27%29%2C_by_Klugschnacker_in_Wikipedia_%2886%29.JPG"
 	},
 	"Qatar": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fort_Zubara%2C_Qatar_%282371639734%29.jpg/440px-Fort_Zubara%2C_Qatar_%282371639734%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fb_Fort_Zubara,_Qatar_(2371639734)_jpg_440px-Fort_Zubara,_Qatar_(2371639734).jpg",
 		"lat": 25.3,
 		"lon": 51.5167,
 		"title": "Qatar",
@@ -9596,11 +9737,12 @@
 			"currency": "QAR"
 		},
 		"snippets": 1,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fort_Zubara%2C_Qatar_%282371639734%29.jpg"
 	},
 	"Romania": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/01_Chateau_Peles.jpg/440px-01_Chateau_Peles.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f9_01_Chateau_Peles_jpg_440px-01_Chateau_Peles.jpg",
 		"lat": 45.95,
 		"lon": 24.69,
 		"title": "Romania",
@@ -9707,11 +9849,12 @@
 			],
 			"currency": "RON"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg"
 	},
 	"Russia": {
 		"zoom": 1,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Winter_Palace_Panorama_4.jpg/700px-Winter_Palace_Panorama_4.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_7c_Winter_Palace_Panorama_4_jpg_700px-Winter_Palace_Panorama_4.jpg",
 		"lat": 62,
 		"lon": 100,
 		"title": "Russia",
@@ -9821,10 +9964,11 @@
 				"Tsakhur"
 			]
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Winter_Palace_Panorama_4.jpg"
 	},
 	"Rwanda": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ballet_national_du_Rwanda-Tambours_%286%29.jpg/440px-Ballet_national_du_Rwanda-Tambours_%286%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_49_Ballet_national_du_Rwanda-Tambours_(6)_jpg_440px-Ballet_national_du_Rwanda-Tambours_(6).jpg",
 		"lat": -1.9,
 		"lon": 29.8,
 		"title": "Rwanda",
@@ -9862,10 +10006,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ballet_national_du_Rwanda-Tambours_%286%29.jpg"
 	},
 	"Saint Kitts and Nevis": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Saint_Kitts_02.jpg/700px-Saint_Kitts_02.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_ce_Saint_Kitts_02_jpg_700px-Saint_Kitts_02.jpg",
 		"lat": 17.3,
 		"lon": -62.7333,
 		"title": "Saint Kitts and Nevis",
@@ -9903,10 +10048,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Saint_Kitts_02.jpg"
 	},
 	"Saint Lucia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kreuzf-Hafen-st-lucia.jpg/440px-Kreuzf-Hafen-st-lucia.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_ae_Kreuzf-Hafen-st-lucia_jpg_440px-Kreuzf-Hafen-st-lucia.jpg",
 		"lat": 13.9067,
 		"lon": -60.9833,
 		"title": "Saint Lucia",
@@ -9941,10 +10087,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kreuzf-Hafen-st-lucia.jpg"
 	},
 	"Saint Vincent and the Grenadines": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg/440px-Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_Saint_Vincent_and_the_Grenadines_Bequia_Island_jpg_440px-Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg",
 		"lat": 13.25,
 		"lon": -61.174,
 		"title": "Saint Vincent and the Grenadines",
@@ -9977,10 +10124,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg"
 	},
 	"Samoa": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/69/Samoa_upolu.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_6_69_Samoa_upolu.jpg",
 		"lat": -13.759,
 		"lon": -172.098,
 		"title": "Samoa",
@@ -10015,10 +10163,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Samoa_upolu.jpg"
 	},
 	"San Marino": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/City_Gate_San_Marino.jpg/440px-City_Gate_San_Marino.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_aa_City_Gate_San_Marino_jpg_440px-City_Gate_San_Marino.jpg",
 		"lat": 43.933,
 		"lon": 12.467,
 		"title": "San Marino",
@@ -10046,10 +10195,11 @@
 			"currency": "SML"
 		},
 		"snippets": 0,
-		"zoom": 11
+		"zoom": 11,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:City_Gate_San_Marino.jpg"
 	},
 	"São Tomé and Príncipe": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pico_C%C3%A3o_Grande.jpg/2880px-Pico_C%C3%A3o_Grande.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_cb_Pico_Cão_Grande_jpg_2880px-Pico_Cão_Grande.jpg",
 		"lat": 0.856667,
 		"lon": 6.7,
 		"title": "São Tomé and Príncipe",
@@ -10078,10 +10228,11 @@
 			"currency": "STN"
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Pico_C%C3%A3o_Grande.jpg"
 	},
 	"Saudi Arabia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dira_Square.JPG/540px-Dira_Square.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6f_Dira_Square_JPG_540px-Dira_Square.JPG",
 		"lat": 23.716667,
 		"lon": 44.116667,
 		"title": "Saudi Arabia",
@@ -10139,10 +10290,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Dira_Square.JPG"
 	},
 	"Senegal": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/River_gambia_Niokolokoba_National_Park.gif/440px-River_gambia_Niokolokoba_National_Park.gif",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_d5_River_gambia_Niokolokoba_National_Park_gif_440px-River_gambia_Niokolokoba_National_Park.gif",
 		"lat": 14.6667,
 		"lon": -14.5167,
 		"title": "Senegal",
@@ -10180,13 +10332,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:River_gambia_Niokolokoba_National_Park.gif"
 	},
 	"Serbia": {
 		"zoom": 6,
 		"seen": 58,
 		"seenL": 28,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Subotica%2C_radnice.jpg/500px-Subotica%2C_radnice.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bc_Subotica,_radnice_jpg_500px-Subotica,_radnice.jpg",
 		"lat": 44.2,
 		"lon": 20.4667,
 		"title": "Serbia",
@@ -10258,10 +10411,11 @@
 			],
 			"currency": "RSD"
 		},
-		"snippets": 13
+		"snippets": 13,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Subotica%2C_radnice.jpg"
 	},
 	"Seychelles": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/LA_DIGUE%2C_SEYCHELLES%2C_2015_-_panoramio_%2824%29.jpg/440px-LA_DIGUE%2C_SEYCHELLES%2C_2015_-_panoramio_%2824%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_07_LA_DIGUE,_SEYCHELLES,_2015_-_panoramio_(24)_jpg_440px-LA_DIGUE,_SEYCHELLES,_2015_-_panoramio_(24).jpg",
 		"lat": -4.6167,
 		"lon": 55.45,
 		"title": "Seychelles",
@@ -10300,10 +10454,11 @@
 			"currency": "SCR"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:LA_DIGUE%2C_SEYCHELLES%2C_2015_-_panoramio_%2824%29.jpg"
 	},
 	"Sierra Leone": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg/440px-Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_42_Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio_jpg_440px-Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg",
 		"lat": 8.5,
 		"lon": -11.916667,
 		"title": "Sierra Leone",
@@ -10336,13 +10491,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg"
 	},
 	"Singapore": {
 		"seen": 21,
 		"seenL": 1,
 		"citylike": true,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg/440px-Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_1f_Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426_jpg_440px-Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg",
 		"lat": 1.29,
 		"lon": 103.82,
 		"title": "Singapore",
@@ -10440,12 +10596,13 @@
 			"currency": "SGD"
 		},
 		"snippets": 23,
-		"zoom": 9
+		"zoom": 9,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg"
 	},
 	"Slovakia": {
 		"zoom": 5,
 		"seen": 29,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Levice_Castle.jpg/600px-Levice_Castle.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_1b_Levice_Castle_jpg_600px-Levice_Castle.jpg",
 		"lat": 48.7,
 		"lon": 20,
 		"title": "Slovakia",
@@ -10526,12 +10683,13 @@
 			],
 			"currency": "SKK"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Levice_Castle.jpg"
 	},
 	"Slovenia": {
 		"@seen": "December 2007",
 		"seen": 16,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Celje_starowka.jpg/440px-Celje_starowka.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_23_Celje_starowka_jpg_440px-Celje_starowka.jpg",
 		"lat": 46.05,
 		"lon": 14.9,
 		"title": "Slovenia",
@@ -10600,10 +10758,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Celje_starowka.jpg"
 	},
 	"Solomon Islands": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fenualoa_lagoon_2-4.jpg/600px-Fenualoa_lagoon_2-4.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a8_Fenualoa_lagoon_2-4_jpg_600px-Fenualoa_lagoon_2-4.jpg",
 		"lat": -8.80908,
 		"lon": 160.83984,
 		"title": "Solomon Islands",
@@ -10631,10 +10790,11 @@
 			"currency": "SBD"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fenualoa_lagoon_2-4.jpg"
 	},
 	"Somalia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Somalia_Tomb_of_the_Unknown_Soldier.jpg/440px-Somalia_Tomb_of_the_Unknown_Soldier.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a5_Somalia_Tomb_of_the_Unknown_Soldier_jpg_440px-Somalia_Tomb_of_the_Unknown_Soldier.jpg",
 		"lat": 6,
 		"lon": 47,
 		"title": "Somalia",
@@ -10666,10 +10826,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Somalia_Tomb_of_the_Unknown_Soldier.jpg"
 	},
 	"South Africa": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Downtown_Kimberley_seen_from_the_west_2015.JPG/440px-Downtown_Kimberley_seen_from_the_west_2015.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_ea_Downtown_Kimberley_seen_from_the_west_2015_JPG_440px-Downtown_Kimberley_seen_from_the_west_2015.JPG",
 		"lat": -29,
 		"lon": 24,
 		"title": "South Africa",
@@ -10781,12 +10942,13 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG"
 	},
 	"South Korea": {
 		"seen": 51,
 		"seenL": 15,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Korea-Daegu-Palgongsan-01.jpg/440px-Korea-Daegu-Palgongsan-01.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_05_Korea-Daegu-Palgongsan-01_jpg_440px-Korea-Daegu-Palgongsan-01.jpg",
 		"lat": 36,
 		"lon": 128,
 		"title": "South Korea",
@@ -10877,10 +11039,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Korea-Daegu-Palgongsan-01.jpg"
 	},
 	"South Sudan": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cattle_of_the_Dinka_people%2C_Juba%2C_South_Sudan_-_20101230-06.jpg/440px-Cattle_of_the_Dinka_people%2C_Juba%2C_South_Sudan_-_20101230-06.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_32_Cattle_of_the_Dinka_people,_Juba,_South_Sudan_-_20101230-06_jpg_440px-Cattle_of_the_Dinka_people,_Juba,_South_Sudan_-_20101230-06.jpg",
 		"lat": 7.30798,
 		"lon": 29.90479,
 		"title": "South Sudan",
@@ -10924,12 +11087,13 @@
 			"currency": "SSP"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cattle_of_the_Dinka_people%2C_Juba%2C_South_Sudan_-_20101230-06.jpg"
 	},
 	"Spain": {
 		"seen": 2,
 		"seenL": 21,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alc%C3%A1zar_de_Segovia%2C_situado_en_la_Ciudad_vieja_de_Segovia._Patrimonio_Mundial_por_la_UNESCO.jpg/2880px-Alc%C3%A1zar_de_Segovia%2C_situado_en_la_Ciudad_vieja_de_Segovia._Patrimonio_Mundial_por_la_UNESCO.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_94_Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO_jpg_2880px-Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO.jpg",
 		"lat": 40.4,
 		"lon": -3,
 		"title": "Spain",
@@ -11030,10 +11194,11 @@
 			]
 		},
 		"snippets": 9,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_de_Segovia%2C_situado_en_la_Ciudad_vieja_de_Segovia._Patrimonio_Mundial_por_la_UNESCO.jpg"
 	},
 	"Sri Lanka": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Morning_mist_in_Sinharaja.JPG/440px-Morning_mist_in_Sinharaja.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_22_Morning_mist_in_Sinharaja_JPG_440px-Morning_mist_in_Sinharaja.JPG",
 		"lat": 7,
 		"lon": 81,
 		"title": "Sri Lanka",
@@ -11075,10 +11240,11 @@
 			"currency": "LKR"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Morning_mist_in_Sinharaja.JPG"
 	},
 	"Sudan": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albarkal_Mountain_%2C_Northern_sudan%2C.JPG/440px-Albarkal_Mountain_%2C_Northern_sudan%2C.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0a_Albarkal_Mountain_,_Northern_sudan,_JPG_440px-Albarkal_Mountain_,_Northern_sudan,.JPG",
 		"lat": 15,
 		"lon": 32,
 		"title": "Sudan",
@@ -11123,10 +11289,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Albarkal_Mountain_%2C_Northern_sudan%2C.JPG"
 	},
 	"Suriname": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Zicht_op_en_vanaf_bastion_met_gevel_gebouw_op_fort_aan_de_rivierzijde_-_Paramaribo_-_20377867_-_RCE.jpg/2560px-Zicht_op_en_vanaf_bastion_met_gevel_gebouw_op_fort_aan_de_rivierzijde_-_Paramaribo_-_20377867_-_RCE.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_c_c1_Upper-Suriname_river_(33496731746)_jpg_2880px-Upper-Suriname_river_(33496731746).jpg",
 		"lat": 4,
 		"lon": -56,
 		"title": "Suriname",
@@ -11157,11 +11324,12 @@
 			"currency": "SRD"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Upper-Suriname_river_%2833496731746%29.jpg"
 	},
 	"Sweden": {
 		"seen": 20,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ice_Hotel_Church_Jukkasj%C3%A4rvi.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_8_86_Ice_Hotel_Church_Jukkasjärvi.jpg",
 		"lat": 63,
 		"lon": 18,
 		"title": "Sweden",
@@ -11286,13 +11454,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 3
+		"zoom": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ice_Hotel_Church_Jukkasj%C3%A4rvi.jpg"
 	},
 	"Switzerland": {
 		"@seen": "January 2008",
 		"seen": 17,
 		"seenL": 10,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/5297_-_Wengernalp_-_Wengernalpbahn.JPG/2560px-5297_-_Wengernalp_-_Wengernalpbahn.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_58_5297_-_Wengernalp_-_Wengernalpbahn_JPG_2560px-5297_-_Wengernalp_-_Wengernalpbahn.JPG",
 		"lat": 46.83,
 		"lon": 8.33,
 		"title": "Switzerland",
@@ -11374,10 +11543,11 @@
 			]
 		},
 		"snippets": 1,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:5297_-_Wengernalp_-_Wengernalpbahn.JPG"
 	},
 	"Syria": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Old_Damascus_8.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_c_c7_Old_Damascus_8.jpg",
 		"lat": 34.9,
 		"lon": 38.3,
 		"title": "Syria",
@@ -11428,11 +11598,12 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Old_Damascus_8.jpg"
 	},
 	"Tajikistan": {
 		"zoom": 5,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iskander-kul%2C_Tajikistan.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_2_23_Iskander-kul,_Tajikistan.JPG",
 		"lat": 38.9,
 		"lon": 71,
 		"title": "Tajikistan",
@@ -11467,10 +11638,11 @@
 			],
 			"currency": "TJS"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iskander-kul%2C_Tajikistan.JPG"
 	},
 	"Tanzania": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ngorongoro_2012_05_29_2253_%287500941860%29.jpg/440px-Ngorongoro_2012_05_29_2253_%287500941860%29.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_52_Ngorongoro_2012_05_29_2253_(7500941860)_jpg_440px-Ngorongoro_2012_05_29_2253_(7500941860).jpg",
 		"lat": -6.307,
 		"lon": 34.854,
 		"title": "Tanzania",
@@ -11536,13 +11708,14 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2253_%287500941860%29.jpg"
 	},
 	"Thailand": {
 		"zoom": 4,
 		"seen": 12,
 		"seenL": 19,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/WatRajnadda_Garland.JPG/440px-WatRajnadda_Garland.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_WatRajnadda_Garland_JPG_440px-WatRajnadda_Garland.JPG",
 		"lat": 14,
 		"lon": 101,
 		"title": "Thailand",
@@ -11621,10 +11794,11 @@
 			],
 			"currency": "THB"
 		},
-		"snippets": 2
+		"snippets": 2,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WatRajnadda_Garland.JPG"
 	},
 	"Togo": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lom%C3%A9-Monument_de_l%27Ind%C3%A9pendance.jpg/440px-Lom%C3%A9-Monument_de_l%27Ind%C3%A9pendance.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8d_Lomé-Monument_de_l'Indépendance_jpg_440px-Lomé-Monument_de_l'Indépendance.jpg",
 		"lat": 8.25,
 		"lon": 1.2,
 		"title": "Togo",
@@ -11659,10 +11833,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lom%C3%A9-Monument_de_l%27Ind%C3%A9pendance.jpg"
 	},
 	"Tonga": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg/2560px-Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_39_Northern_end_of_Onetahuti_Beach_towards_Tonga_Island_jpg_2560px-Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg",
 		"lat": -18.6333,
 		"lon": -175.2,
 		"title": "Tonga",
@@ -11692,12 +11867,13 @@
 			"currency": "TOP"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg"
 	},
 	"Trinidad and Tobago": {
 		"seen": 57,
 		"seenL": 24,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Paria_Arch.JPG/500px-Paria_Arch.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_d6_Paria_Arch_JPG_500px-Paria_Arch.JPG",
 		"lat": 10.6667,
 		"lon": -61.5167,
 		"title": "Trinidad and Tobago",
@@ -11742,11 +11918,12 @@
 			"currency": "TTD"
 		},
 		"snippets": 11,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Paria_Arch.JPG"
 	},
 	"Tunisia": {
 		"seen": 7,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/e/e2/Ribat%2C_Sousse%2C_Tunisia.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_e_e2_Ribat,_Sousse,_Tunisia.JPG",
 		"lat": 34,
 		"lon": 10,
 		"title": "Tunisia",
@@ -11805,12 +11982,13 @@
 			"currency": "TND"
 		},
 		"snippets": 1,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ribat%2C_Sousse%2C_Tunisia.JPG"
 	},
 	"Turkey": {
 		"seen": 5,
 		"seenL": 34,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%C3%96l%C3%BCdeniz_on_the_Turquoise_Coast%2C_Turkey.jpg/440px-%C3%96l%C3%BCdeniz_on_the_Turquoise_Coast%2C_Turkey.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_1b_Ölüdeniz_on_the_Turquoise_Coast,_Turkey_jpg_440px-Ölüdeniz_on_the_Turquoise_Coast,_Turkey.jpg",
 		"lat": 39,
 		"lon": 36,
 		"title": "Turkey",
@@ -11899,10 +12077,11 @@
 			]
 		},
 		"snippets": 3,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:%C3%96l%C3%BCdeniz_on_the_Turquoise_Coast%2C_Turkey.jpg"
 	},
 	"Turkmenistan": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Central_Asia_100.jpg/580px-Central_Asia_100.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_1d_Central_Asia_100_jpg_580px-Central_Asia_100.jpg",
 		"lat": 39,
 		"lon": 60,
 		"title": "Turkmenistan",
@@ -11950,10 +12129,11 @@
 			"currency": "TMT"
 		},
 		"snippets": 0,
-		"zoom": 4
+		"zoom": 4,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Central_Asia_100.jpg"
 	},
 	"Tuvalu": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Funafuti_Plage_w.jpg/2560px-Funafuti_Plage_w.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_b_b3_Funafuti_Plage_w_jpg_2560px-Funafuti_Plage_w.jpg",
 		"lat": -8.5167,
 		"lon": 179.2167,
 		"title": "Tuvalu",
@@ -11986,10 +12166,11 @@
 			"currency": "TVD"
 		},
 		"snippets": 0,
-		"zoom": 8
+		"zoom": 8,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Funafuti_Plage_w.jpg"
 	},
 	"Uganda": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lions_in_tree_uganda_Queen_eliznp.jpg/600px-Lions_in_tree_uganda_Queen_eliznp.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_5_59_Lions_in_tree_uganda_Queen_eliznp_jpg_600px-Lions_in_tree_uganda_Queen_eliznp.jpg",
 		"lat": 1.28,
 		"lon": 32.39,
 		"title": "Uganda",
@@ -12041,11 +12222,12 @@
 			"currency": "UGX"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lions_in_tree_uganda_Queen_eliznp.jpg"
 	},
 	"Ukraine": {
 		"zoom": 4,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/7/75/Czarnohora.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_7_75_Czarnohora.jpg",
 		"lat": 49,
 		"lon": 32,
 		"title": "Ukraine",
@@ -12113,11 +12295,12 @@
 			],
 			"currency": "UAH"
 		},
-		"snippets": 3
+		"snippets": 3,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Czarnohora.jpg"
 	},
 	"United Arab Emirates": {
 		"seenL": 7,
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hotel_-_panoramio_%2824%29.jpg/2560px-Hotel_-_panoramio_%2824%29.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_1_14_Hotel_-_panoramio_(24)_jpg_2560px-Hotel_-_panoramio_(24).jpg",
 		"lat": 24.4,
 		"lon": 54.3,
 		"title": "United Arab Emirates",
@@ -12156,13 +12339,14 @@
 			"currency": "AED"
 		},
 		"snippets": 0,
-		"zoom": 6
+		"zoom": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Hotel_-_panoramio_%2824%29.jpg"
 	},
 	"United Kingdom": {
 		"zoom": 4,
 		"seen": 1,
 		"seenL": 14,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Edinburgh._View_from_Calton_Hill.jpg/440px-Edinburgh._View_from_Calton_Hill.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_9_91_Edinburgh__View_from_Calton_Hill_jpg_440px-Edinburgh__View_from_Calton_Hill.jpg",
 		"lat": 54.6,
 		"lon": -2,
 		"title": "United Kingdom",
@@ -12272,13 +12456,14 @@
 				"Welsh"
 			]
 		},
-		"snippets": 16
+		"snippets": 16,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Edinburgh._View_from_Calton_Hill.jpg"
 	},
 	"United States of America": {
 		"zoom": 3,
 		"seen": 6,
 		"seenL": 8,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/500px-WhiteHouseSouthFacade.JPG",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_a_af_WhiteHouseSouthFacade_JPG_500px-WhiteHouseSouthFacade.JPG",
 		"lat": 45,
 		"lon": -104,
 		"title": "United States of America",
@@ -12473,10 +12658,11 @@
 				"American English"
 			]
 		},
-		"snippets": 58
+		"snippets": 58,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG"
 	},
 	"Uruguay": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Uruguay_%285886752274%29.jpg/2560px-Uruguay_%285886752274%29.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_b_b9_Uruguay_(5886752274)_jpg_2560px-Uruguay_(5886752274).jpg",
 		"lat": -32.8833,
 		"lon": -56.1667,
 		"title": "Uruguay",
@@ -12545,11 +12731,12 @@
 			"currency": "UYU"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Uruguay_%285886752274%29.jpg"
 	},
 	"Uzbekistan": {
 		"zoom": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kalon-Ensemble_Buchara.jpg/440px-Kalon-Ensemble_Buchara.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_3_39_Kalon-Ensemble_Buchara_jpg_440px-Kalon-Ensemble_Buchara.jpg",
 		"lat": 41,
 		"lon": 66,
 		"title": "Uzbekistan",
@@ -12592,10 +12779,11 @@
 			],
 			"currency": "UZS"
 		},
-		"snippets": 0
+		"snippets": 0,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kalon-Ensemble_Buchara.jpg"
 	},
 	"Vanuatu": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Malakula_funeral_masks.jpg/440px-Malakula_funeral_masks.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_5_56_Malakula_funeral_masks_jpg_440px-Malakula_funeral_masks.jpg",
 		"lat": -16.7,
 		"lon": 168.4,
 		"title": "Vanuatu",
@@ -12630,10 +12818,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 7
+		"zoom": 7,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Malakula_funeral_masks.jpg"
 	},
 	"Venezuela": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Salto_Angel_desde_la_curiara.jpg/440px-Salto_Angel_desde_la_curiara.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_e_ea_Salto_Angel_desde_la_curiara_jpg_440px-Salto_Angel_desde_la_curiara.jpg",
 		"lat": 8,
 		"lon": -67,
 		"title": "Venezuela",
@@ -12696,13 +12885,14 @@
 			"currency": "VEB"
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Salto_Angel_desde_la_curiara.jpg"
 	},
 	"Vietnam": {
 		"zoom": 4,
 		"seen": 14,
 		"seenL": 5,
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg/440px-Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_f_fe_Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01_jpg_440px-Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg",
 		"lat": 16,
 		"lon": 108,
 		"title": "Vietnam",
@@ -12771,10 +12961,11 @@
 				"Vietnamese"
 			]
 		},
-		"snippets": 6
+		"snippets": 6,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg"
 	},
 	"Yemen": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Shaharah_bridge.jpg/440px-Shaharah_bridge.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_3_31_Shaharah_bridge_jpg_440px-Shaharah_bridge.jpg",
 		"lat": 15.5,
 		"lon": 48,
 		"title": "Yemen",
@@ -12808,10 +12999,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Shaharah_bridge.jpg"
 	},
 	"Zambia": {
-		"thumbnail": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mfuwe_Downtown.JPG/480px-Mfuwe_Downtown.JPG",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_9_95_Mfuwe_Downtown_JPG_480px-Mfuwe_Downtown.JPG",
 		"lat": -14,
 		"lon": 28,
 		"title": "Zambia",
@@ -12869,10 +13061,11 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mfuwe_Downtown.JPG"
 	},
 	"Zimbabwe": {
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lion-hwange.jpg",
+		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_c_c1_Lion-hwange.jpg",
 		"lat": -19,
 		"lon": 30,
 		"title": "Zimbabwe",
@@ -12933,6 +13126,7 @@
 			]
 		},
 		"snippets": 0,
-		"zoom": 5
+		"zoom": 5,
+		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lion-hwange.jpg"
 	}
 }
