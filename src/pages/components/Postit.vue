@@ -146,14 +146,18 @@ const thumbnailSourceName = ref( props.thumbnailSource ? getThumbSource() : '' )
   width: 40px;
   height: 40px;
 }
+.postit:hover .postit-text {
+  border: 0;
+}
 .postit-text {
   z-index: 2;
   padding: 0 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    opacity: 0.8;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 100%;
+  opacity: 0.8;
+  border: solid 5px transparent;
 }
 .postit-text span {
   background: black;
