@@ -1,6 +1,31 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "A trek to the Tiger's Nest Monastery in Paro, Bhutan is a once in a lifetime experience. Here's everything you need to know about the climb! <small>[image from www.culturaobscura.com]</small>",
+			"src": "https://www.culturaobscura.com/wp-content/uploads/2019/05/IMG_2030-Version-2-copy.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Tiger’s Nest Trek, Bhutan: Everything You Need to Know | Cultura Obscura",
+			"url": "https://www.culturaobscura.com/climbing-tigers-nest/"
+		},
+		{
+			"text": "Bhutan in the Eastern Himalayas has a reputation for its friendly people, rich cultural heritage, peace-loving society, stunning natural beauty, and commitment  <small>[image from Outlook Traveller]</small>",
+			"src": "https://media.assettype.com/outlooktraveller%2F2025-02-14%2Fhvzuyt0v%2Fshutterstock1520728685.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+			"type": "url",
+			"embed": false,
+			"title": "5 Lessons In Sustainable Tourism By Bhutan, The World's First Carbon-Negative Country",
+			"url": "https://www.outlooktraveller.com/editors-picks/5-lessons-in-sustainable-tourism-by-bhutan-the-worlds-first-carbon-negative-country"
+		},
+		{
+			"text": "Download the Bhutan 2024 itinerary.  November 26 - Dec 14, 2024. With optional two-day Bangkok pre-tour with GREAT chance for Spoon-billed Sandpiper.  Price $8800, double occupancy. From Bangkok... <small>[image from Alvaro's Adventures - Birding Tours]</small>",
+			"src": "https://www.alvarosadventures.com/uploads/1/3/2/1/132161724/published/alv-logo-r-rgbweb.jpg?1593837515",
+			"type": "url",
+			"embed": false,
+			"title": "Bhutan",
+			"url": "https://www.alvarosadventures.com/bhutan1.html"
+		}
+	],
 	"places": {
 		"Thimphu": {
 			"climate": [

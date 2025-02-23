@@ -1,21 +1,6 @@
 {
 	"note": "<p><a href=\"https://www.riga-hostel.com/en/show/event/hostel-soviet-car-transfer\">Airport transfer in an old soviet car</a></p>\n",
-	"snippets": [
-		{
-			"src": "",
-			"type": "url",
-			"embed": false,
-			"title": "canoeing",
-			"url": "https://www.riga-hostel.com/en/show/event/riga-canoe-trip-1"
-		},
-		{
-			"src": "",
-			"type": "url",
-			"embed": false,
-			"title": "bobsleighing",
-			"url": "https://www.traveloutthere.com/en/show/event/riga-bobsleigh-summer"
-		}
-	],
+	"snippets": [],
 	"places": {
 		"Riga": {
 			"climate": [

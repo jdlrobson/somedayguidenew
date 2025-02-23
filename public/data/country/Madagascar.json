@@ -1,6 +1,23 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "0 Days / 0 Nights <small>[image from National Geographic Expeditions]</small>",
+			"src": "https://www.nationalgeographic.com/content/dam/expeditions/destinations/africa/land/madagascar-wildlife-tour.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Madagascar Wildlife Expedition",
+			"url": "https://www.nationalgeographic.com/expeditions/destinations/africa/land/madagascar-wildlife-tour/"
+		},
+		{
+			"text": "Learn about the species that live inMadagascar! <small>[image from iNaturalist]</small>",
+			"src": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
+			"type": "url",
+			"embed": false,
+			"title": "Madagascar",
+			"url": "https://www.inaturalist.org/places/madagascar"
+		}
+	],
 	"places": {
 		"Antananarivo": {
 			"climate": [

@@ -2,11 +2,10 @@
 	"note": "<p>Some day I&#39;ll visit. Apparently this is a good jumping off point for <strong>Dornod</strong>, a grassland area with lots of gazelles. you can travel here by jeep or by bus. <strong>The Mongolian Natural History Museum</strong> has dinosaur fossils.Adventurous types can drive here from <strong>Ulaanbaatar,</strong>. The Flaming Cliffs is on route where hundreds of dinosaur fossils were discovered in the 1920s. The area is known as Bayanzag by locals. Some day I&#39;ll visit.</p>\n",
 	"snippets": [
 		{
-			"src": "",
+			"src": "https://www.youtube.com/embed/6iODjVySKW4?si=wh8kn_tBvxEjyoin",
 			"type": "url",
-			"embed": false,
-			"title": "Gazelles in Ulaanbaatar",
-			"url": "https://www.youtube.com/watch?v=6iODjVySKW4"
+			"embed": true,
+			"title": "Gazelles in Ulaanbaatar"
 		},
 		{
 			"text": "Dornod is the easternmost of the 21 aimags (provinces) of Mongolia. Its capital is Choibalsan.",
@@ -31,6 +30,16 @@
 			"embed": false,
 			"title": "Flaming Cliffs",
 			"url": "https://en.wikipedia.org/wiki/Flaming_Cliffs"
+		},
+		{
+			"src": "https://www.youtube.com/embed/bY1qYRhqh04?si=gzVuSfUGv7EUgNrf",
+			"type": "url",
+			"embed": true
+		},
+		{
+			"src": "https://www.youtube.com/embed/jagKnS2mE7w?si=IbaXEDYpsP_tYqLv",
+			"type": "url",
+			"embed": true
 		}
 	],
 	"places": {

@@ -1,6 +1,30 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Lets watch the most unique birds of Suriname More than 750 species of birds occur in Suriname. On our day trips we show you a nice selection of species common in Suriname. We offer the following day <small>[image from Bio With Wirjo Tours Suriname ]</small>",
+			"src": "https://biowithwirjo.com/wp-content/uploads/2024/03/Birding-in-Suriname-scaled.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "SURINAME BIRDING TOUR",
+			"url": "https://biowithwirjo.com/suriname-birding-tour/"
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> The avondvierdaagse is an annual Dutch and Surinamese walking event where the participants walk every evening for four days.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jeugdavondvierdaagse_Woerden_2014-06-02-19-04.jpg/320px-Jeugdavondvierdaagse_Woerden_2014-06-02-19-04.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Avondvierdaagse",
+			"url": "https://en.wikipedia.org/wiki/Avondvierdaagse"
+		},
+		{
+			"src": "https://www.youtube.com/embed/wWG3LgVhyJ4?si=NViSXop5MesKlnGV",
+			"type": "url",
+			"embed": true,
+			"title": "Carnival",
+			"url": "Suriname Carnival"
+		}
+	],
 	"places": {
 		"Paramaribo": {
 			"climate": [

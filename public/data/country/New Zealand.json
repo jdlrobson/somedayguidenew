@@ -1,6 +1,23 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Rotorua, on New Zealand's North Island,  is well-known for its fascinating geothermal activity, Māori culture, hot springs and mud pools. A must-visit stop in New Zealand, full of attractions and things to do. <small>[image from www.newzealand.com]</small>",
+			"src": "null",
+			"type": "url",
+			"embed": false,
+			"title": "Rotorua | 100% Pure New Zealand",
+			"url": "https://www.newzealand.com/us/rotorua/"
+		},
+		{
+			"text": " <small>[image from www.waitomo.com]</small>",
+			"src": "https://res.cloudinary.com/thl/image/upload/c_fill,f_auto,h_630,q_80,w_1200/v1549151102/experiences/imageLarge/uiqahc34qc65sn8tfmuv.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Waitomo Glowworm Caves",
+			"url": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
+		}
+	],
 	"places": {
 		"Wellington": {
 			"climate": [

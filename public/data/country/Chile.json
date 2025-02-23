@@ -1,6 +1,23 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "The condor is the national bird of Chile and a sight worth seeing on your holiday. Here's where to find one.  <small>[image from www.cascada.travel]</small>",
+			"src": "https://www.cascada.travel/hubfs/condor%20%281%29.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Wildlife in Chile: Where to see a Condor",
+			"url": "https://www.cascada.travel/blog/wildlife-in-chile-where-to-see-a-condor"
+		},
+		{
+			"text": "Here's what you need to know for the perfect stargazing trip in Chile’s Atacama Desert. <small>[image from Lonely Planet]</small>",
+			"src": "https://lp-cms-production.imgix.net/2020-12/GettyRF_590981231.jpg?w=600&h=400",
+			"type": "url",
+			"embed": false,
+			"title": "A stargazer’s guide to the Atacama Desert - Lonely Planet",
+			"url": "https://www.lonelyplanet.com/articles/stargazing-atacama-desert-chile"
+		}
+	],
 	"places": {
 		"Santiago de Chile": {
 			"climate": [

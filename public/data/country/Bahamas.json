@@ -1,6 +1,15 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[Wikipedia]:</from> Pig Beach located on Big Major Cay is a beach on an uninhabited island located in Exuma, the Bahamas. The island takes its unofficial name from the fact that it is populated by a colony of feral pigs which live on the island. It has become a tourist attraction in modern times.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vorobek_Bahamas_-_swimming_pigs.jpg/320px-Vorobek_Bahamas_-_swimming_pigs.jpg",
+			"type": "url",
+			"embed": false,
+			"title": "Pig Beach",
+			"url": "https://en.wikipedia.org/wiki/Pig_Beach"
+		}
+	],
 	"places": {
 		"New Providence": {
 			"climate": [
