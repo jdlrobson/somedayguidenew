@@ -3,8 +3,17 @@ import update from './update.json' assert { type: "json" };
 import { JSDOM } from 'jsdom';
 import fs from 'fs';
 import { parse } from 'marked';
+import sharp from 'sharp';
+import { Readable } from 'stream';
+import { finished } from 'stream/promises';
 
 let allSrcs  = [];
+
+// Make a tmp folder if absent
+if ( !fs.existsSync( 'tmp_public' ) ) {
+    fs.mkdirSync( 'tmp_public' );
+    fs.mkdirSync( 'tmp_public/images' );
+}
 
 let pendingRequests = [];
 /**
@@ -182,15 +191,65 @@ function prepareFromSnippets( snippetDir ) {
     return snippets;
 }
 
+function downloadFile( url, to ) {
+    const tmpFile = `tmp_${to}`;
+    let fileStream;
+    if ( url.indexOf('//' ) === 0 ) {
+        url = `https:${url}`;
+    }
+    return fetch(url).then( ( res ) => {
+        console.log('write to', tmpFile)
+        fileStream = fs.createWriteStream( tmpFile, { flags: 'wx' } );
+        return finished( Readable.fromWeb( res.body ).pipe( fileStream ) );
+    } ).then( () => {
+        fileStream.close();
+        // resize the downloaded image.
+        sharp( tmpFile, {} )
+            .resize( {
+                height: 400
+            } ).toFile( to ).then( () => {
+                fs.unlinkSync( tmpFile );
+            } );
+    } );
+}
+
+const urlToRelativeThumbPath = ( url ) => {
+    const ext = url.split( '.' ).slice( -1 )[ 0 ];
+    const path = url.split( '.' ).slice(0, -1).join('.').split('//')[1].replace(/[\/\.]/g, '_') + `.${ext}`;
+    return `images/${decodeURIComponent(path)}`;
+}
+
+/**
+ * @param {string} url
+ * @return {boolean}
+ */
+function isAbsoluteUrl( url ) {
+    return url.indexOf( 'https://' ) === 0 || url.indexOf( '//' ) === 0
+}
 /**
  * Checks the "notes" folder and updates countries.json
  */
 function prepareFromNotes() {
     Object.keys(json).forEach( (c, i) => {
         const countryData = json[c];
-        const thumb = countryData.thumbnail;
-        if ( thumb.indexOf( 'https://' ) === 0 && i === 0  ) {
-            console.log(`@todo: store locally`, thumb);
+        let thumb = countryData.thumbnail;
+        if ( isAbsoluteUrl( thumb ) ) {
+            const relativeThumbPath = urlToRelativeThumbPath( thumb );
+            const localThumbPath = `public/${relativeThumbPath}`;
+            if ( !fs.existsSync( localThumbPath ) ) {
+                downloadFile( thumb, localThumbPath ).then( () => {
+                    console.log('Local thumbnail made. Please re-run update');
+                }, () => {
+                    console.error( `Error downloading: ${thumb}`);
+                } );
+            } else {
+                countryData.thumbnail = relativeThumbPath;
+                const filePageMaybePx = thumb.split('/').slice(-1)[0];
+                const filePage = filePageMaybePx.includes('px-') ? filePageMaybePx.split('px-')[1] :
+                    filePageMaybePx;
+                countryData.thumbnailSource = `https://commons.wikimedia.org/wiki/File:${filePage}`;
+            }
+            thumb = relativeThumbPath;
         }
         const folder = `notes/country/${ c }`;
         if ( !fs.existsSync( folder ) ) {
