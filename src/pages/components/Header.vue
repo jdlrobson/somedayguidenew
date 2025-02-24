@@ -3,7 +3,9 @@ import "leaflet/dist/leaflet.css";
 import { ref } from 'vue'
 import Map from './Map.vue'
 const props = defineProps({
-  title: String
+  title: String,
+  zoom: Number,
+  center: Array
 });
 import countryData from '../countries.json';
 const title = props.title || 'the world';
@@ -14,12 +16,13 @@ const mapActive = ref( false );
 const toggleMap = () => {
   mapActive.value = !mapActive.value;
 }
+const center = props.center || [ 0, 0 ];
 </script>
 
 <template>
   <header class="page-header">
     <div class="map" v-if="mapActive">
-      <Map :places="places" />
+      <Map :places="places" :center="center" :zoom="zoom" />
       <button class="closeBtn" @click="toggleMap">close</button>
     </div>
     <div v-else>

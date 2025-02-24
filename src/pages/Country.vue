@@ -20,6 +20,11 @@ const countries = ref( countryData );
 const country = ref(
     countryData[countryName]
 );
+const center = ref( [
+    country.value.lat,
+    country.value.lon
+] );
+const zoom = ref( country.value.zoom );
 const getOpacity = ( seen ) => seen ? '' : 'opacity: 0.5'
 const editUrl = `https://github.com/jdlrobson/somedayguidenew/tree/master/notes/country/${countryName}/note.txt`;
 
@@ -47,7 +52,7 @@ onMounted(() => {
 </script>
 <template>
     <div class="page-country">
-        <Header :title="countryName"></Header>
+        <Header :title="countryName" :center="center" :zoom="zoom"></Header>
         <article>
             <note>
                 <p>{{ country.description }}</p>
