@@ -49,6 +49,8 @@ onMounted(() => {
         })
 })
 
+const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
+const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
 </script>
 <template>
     <div class="page-country">
@@ -87,6 +89,9 @@ onMounted(() => {
                     <div v-if="note">
                         <div v-html="note"></div>
                         <a :href="editUrl">edit</a>
+                        <p>
+                            More information on <a :href="wikivoyage" target="_blank">Wikivoyage</a>.
+                        </p>
                     </div>
                     <div v-else class="loading">
                     </div>
