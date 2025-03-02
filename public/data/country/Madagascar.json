@@ -4,6 +4,7 @@
 		{
 			"text": "0 Days / 0 Nights <small>[image from National Geographic Expeditions]</small>",
 			"src": "https://www.nationalgeographic.com/content/dam/expeditions/destinations/africa/land/madagascar-wildlife-tour.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Madagascar Wildlife Expedition",
@@ -12,6 +13,7 @@
 		{
 			"text": "Learn about the species that live inMadagascar! <small>[image from iNaturalist]</small>",
 			"src": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Madagascar",

@@ -3,17 +3,20 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/reel/DFMpYRVxqaQ/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/DELxnoOu-_E",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "<small>[Wikipedia]:</from> Cueva de las Manos is a cave and complex of rock art sites in the province of Santa Cruz, Argentina, 163 km (101 mi) south of the town of Perito Moreno. It is named for the hundreds of paintings of hands stenciled, in multiple collages, on the rock walls. The art was created in several waves between 7,300 BC and 700 AD, during the Archaic period of pre-Columbian South America. The age of the paintings was calculated from the remains of bone pipes used for spraying the paint on the wall of the cave to create the artwork, radiocarbon dating of the artwork, and stratigraphic dating.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SantaCruz-CuevaManos-P2210651b.jpg/320px-SantaCruz-CuevaManos-P2210651b.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Cueva de las Manos",

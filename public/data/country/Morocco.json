@@ -3,31 +3,37 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/28gsFjM2Dv/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/2zMkXRM2Kq",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/2038NZM2P-",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/26uT7Ms2Hj",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/23rNEkM2Nd",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/221RP4s2Fb",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

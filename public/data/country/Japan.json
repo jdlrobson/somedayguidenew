@@ -3,27 +3,32 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/CwomoP-gNA9/?img_index=1",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/95Scn6s2IB",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BlVIcTTF_Yx/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BG-H7iFs2Ng/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "If you have more than 8 hours in Tokyo, it is totally worth getting out of the airport! Haneda Airport is closer to the city but sometimes, flights arrive at Narita Airport and passengers have to make their connection to Haneda (with their suitcases) even though it is under the same airline! First thing first,",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_6364.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "A layover in Tokyo could change your lives (and eyes) forever",
@@ -32,6 +37,7 @@
 		{
 			"text": "Back in 2015, Jon had an average of a mere 5-Likes per post. On a random November day, 88 more of his friends took a second glance at this picture and liked it. In his mum's words, he had “gone viral”. We were in a long-distance relationship at that time – he was based in",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/image-10.png?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "My then-boyfriend was #Japanese #bunny king",
@@ -39,12 +45,14 @@
 		},
 		{
 			"src": "https://www.instagram.com/reel/BG4aBxYs2Bd/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Back in 2015, Jon had an average of a mere 5-Likes per post. On a random November day, eighty-eight more friends took a second glance at this picture and liked it. In his mum's words, he had “gone viral”. We were in a long-distance relationship at that time – he was based in San Francisco",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/11/image-10.png",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "My husband: King of the bunnies",
@@ -52,52 +60,62 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/-FScHXs2Mg/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/-DEc34s2Al",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/9_Cb6Ms2B0",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/c7GY1As2OR",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/CwkjTQhSq_X/?img_index=1",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BOOoccqByRm/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/c7GfO8s2Oh/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/c7GUuRs2OH/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/974ibbM2ME/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Every birthday I try to celebrate in a new location and in 2008, it was Tokyo. The nice lady at the check-in desk of Virgin Atlantic noticed my birthday was during the flight and with a wink wink nudge nudge let me go with the exciting advice to “mention there is a note on the",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/1929638_517955757574_1475_n.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Tokyo: Get electrocuted to cure jet lag and a birthday hangover",
@@ -105,16 +123,19 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/967BT3s2Ji/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/94vkpTs2Kj/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/92_SJas2NL/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

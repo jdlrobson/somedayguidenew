@@ -4,6 +4,7 @@
 		{
 			"text": "<small>[Wikipedia]:</from> Taal Volcano is a large caldera filled by Taal Lake in the Philippines. Located in the province of Batangas about 50 kilometers (31 mi) south of Manila, the volcano is the second most active volcano in the country with 38 recorded historical eruptions, all of which were concentrated on Volcano Island, near the middle of Taal Lake. The caldera was formed by prehistoric eruptions between 140,000 and 5,380 BP.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taal_Volcano_from_Tagaytay_%28001%29_2024-06-09.jpg/320px-Taal_Volcano_from_Tagaytay_%28001%29_2024-06-09.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Taal Volcano",
@@ -11,32 +12,38 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/cdvoA-M2ES",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/cbzZJis2L9",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/camDX6s2ED",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/caeul8s2KA",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/cWjgyGM2KN",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "This is the real Tall volcano... its different from what the post cards show.  There was sulfur in the air here... and they say when you swim there, it will instantly bleach your clothes. <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/3267/3100730196_7d72224918_b.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "The Mouth of Taal Volcano",
@@ -45,6 +52,7 @@
 		{
 			"text": "The only remains of the town of Cagsawa after the eruption of the Mayon volcano in 1814.  Mayon is an active volcano found in Albay in the Philippines. <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/4101/4781470828_f4fdb03d7f_b.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Mayon Volcano and the Cagsawa Ruins",
@@ -53,6 +61,7 @@
 		{
 			"text": "<small>[Wikipedia]:</from> Mayon, also known as Mount Mayon and Mayon Volcano is an active stratovolcano in the province of Albay in Bicol, Philippines. A popular tourist spot, it is renowned for its \"perfect cone\" because of its symmetric conical shape, and is regarded as sacred in Philippine mythology.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mayon_Volcano_and_the_Sleeping_Lion.jpg/320px-Mayon_Volcano_and_the_Sleeping_Lion.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Mayon",
@@ -60,26 +69,31 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/cbNM4MM2Ja/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/cdkdFNM2Ld/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/cfbfd2M2O7",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/cdSVu-s2In/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/cnL9LYs2M2",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

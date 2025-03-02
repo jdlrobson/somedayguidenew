@@ -3,12 +3,14 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/B5qpwARgEVp",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "In Grenada – like the cliche of every tropical paradise – time goes slow. Grenada is beach and jungle and having had enough of lazing on the beach watching time pass slowly Linzy and I decided to head for the latter. Grand Etang National Park was our destination, however, without a car to get to",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/12/79506443_2849400088416905_2649053117640249340_n.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Making up for lost time on the Grenada buses to the Grand Etang National Park waterfall",
@@ -17,6 +19,7 @@
 		{
 			"text": "We stayed at Grenada Love Shack on Morne Rouge Bay (also known as the Blanco Beach Club – BBC). We saw more birds around our neighbourhood than the Grand Etang National Park. Mr and Mrs Lesser Antillean Bullfinch were the first to welcome us. The Antillean Crested Hummingbird darted too quickly, but as our gaze",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/12/img_20191201_062303233.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "The (little known) bird sanctuary of Morne Rouge – Part [I]",
@@ -25,6 +28,7 @@
 		{
 			"text": "The walk to the supermarket (Real Value IGA) is about thirty minutes away from the Grenada Love Shack but often became a much longer affair as we check out the birds along the Morne Rouge stretch of road. Thanks to iNaturalist, we started to learn more about the various species of herons. The Green Heron,",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/12/img_20191129_163106734.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "The (little known) bird sanctuary of Morne Rouge – Part [II]",
@@ -33,6 +37,7 @@
 		{
 			"text": "On our first evening at the Grenada Love Shack, we heard sharp repetitive “Qui (kee)” calls. The calls became relatively louder, but we were dead tired to investigate. We soon drifted into sleep. The following day, we were occupied by the birds in the neighbourhood until the “Qui Qui Qui” ensemble surfaced in the evening.",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/01/img_20191201_193454352b.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "The bubble-blowing creatures of Grenada [I]",
@@ -41,6 +46,7 @@
 		{
 			"text": "The birds in Morne Rouge and frogs outside the house kept us pretty occupied, day and night. We did check out St George's town, Great Anse Beach and even made our way to Etang National Park and Seven Sisters Waterfalls but our neighbourhood was the most eventful. A week went by pretty quickly with warm",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2020/01/dscn7891.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "The bubble-blowing creatures of Grenada [II]",
@@ -48,11 +54,13 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/B5l7Y1EALV6/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/B5goLHGgumC",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

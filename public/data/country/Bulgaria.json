@@ -3,31 +3,54 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/CtHK_Idrj9H/?img_index=1",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/Cs3W8HQIBFe/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/jdlrobson/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/Csuxkm-I_gk/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Who knew?!",
 			"src": "https://inaturalist-open-data.s3.amazonaws.com/photos/284923455/large.jpeg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Flamingos in Bulgaria?!?!",
 			"url": "https://www.inaturalist.org/observations/164660608"
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> Veliko Tarnovo is a city in north central Bulgaria and the administrative centre of Veliko Tarnovo Province. It is the historical and cultural capital of Bulgaria.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Collage_of_views_of_VT_G.png/320px-Collage_of_views_of_VT_G.png",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Veliko Tarnovo",
+			"url": "https://en.wikipedia.org/wiki/Veliko_Tarnovo"
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> Sinemorets is a village and seaside resort on the Black Sea coast of Bulgaria.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Veleka-sinemorets-mouth-dinev.jpg/320px-Veleka-sinemorets-mouth-dinev.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sinemorets",
+			"url": "https://en.wikipedia.org/wiki/Sinemorets"
 		}
 	],
 	"places": {

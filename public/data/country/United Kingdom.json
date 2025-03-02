@@ -3,72 +3,86 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/2ekdz1M2LT",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BjsBZm_l08w",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/Byvwz2WgW_V",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BMULXS3hNrD",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BMRrZs5hcKZ",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BEQ7lDgs2P2",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BEUGcDkM2Ou",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/oZG2fZM2B1",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/oYWrKyM2F8",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/Y2b-XPM2GF",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ULWbwVs2C9",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByfCZvlgQkY",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/By2lr9Mj_5K",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "This is the one place that has alluded me and now I live in **San Francisco** so far away, I wish I'd taken the opportunity to go. Someday I hope to drive around this dramatic landscape.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Quiraing_Isle_of_Skye_Pano.jpg/640px-Quiraing_Isle_of_Skye_Pano.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Skye",
@@ -76,6 +90,7 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/Cgml5sttAjO/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

@@ -3,18 +3,21 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/ByTSG46AP5S",
+			"source": "",
 			"type": "instagram",
 			"embed": true,
 			"title": "Acropolis"
 		},
 		{
 			"src": "https://www.instagram.com/p/ByNxbZvAWCr",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Hydra / Idra [ Ύδρα ] is a carfree Greek island in the Aegean Sea that is accesible by ferry from various ferry terminals – 1 to 2 hours ride from Pireas [ Πειραιάς ] and 20 to 30 minutes ride from Ermioni [ Ερμιόνη ] / Poros [ Πόρος ]. We flew from Montenegro",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/img_20190602_121057122_hdr.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Hydra-te your mind with the Greek way of life",
@@ -22,56 +25,67 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/ByTRPJpD6Zg",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByVGHezjvhI",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByQfNSejApw",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BySagBvjc4i",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByUehj6gAIw",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByPYs-wjbYI",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByLEziKj_Jj",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByRmbwBgA1C",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByQlQfMgiGN",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByPh6FlgngF",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/ByPA32_AGPz",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

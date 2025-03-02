@@ -3,12 +3,14 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/BxacgQXn3WH",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "The Brno Astronomical Clock is a huge contrast to the Prague Astronomical Clock and might even seem ridiculous to many. To begin with, it does not look like a clock. Many think along the line of “gigantic bullet” or “some phallic object” but it reminded me of the huge menhir that Obelix carrys on his",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/11/img_20190516_105351433b.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "If you have an hour in Brno, it had better be around 11am",
@@ -16,37 +18,44 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/Bxej-gBDe4R",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BxiSICPghrU",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BxhNpAZji5v",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/Bxf1x9OjZCj",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BxfRsjwjd6J",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BxanPLZjAbK",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Cesky Krumlov was my first introduction to Czech Republic after taking a 2 hour shuttle-bus from the train station of Linz. One day I will take my very own Linz with me. It is a lovely little town with a castle next to a river and it's not Prague! As a result it has very",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/4762811775_cfcd17b260_c.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "River and beer in Cesky Krumlov",
@@ -54,12 +63,14 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/BxkxGr_AMzc",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "For adults, a single day pass in Prague costs 110Kč ($4.80 Usd) – seniors get 50% off*. I was ready to purchase 1 Adult and 2 Senior passes at the train station when the chirpy guy in the ticketing booth took a closer look at my folks. “Hmm… are they above 65?”“Yes.”“Good! I suggest that",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_20190515_093930666.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Why you should travel to Prague at 65!",
@@ -67,12 +78,14 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/BxhvpgpAo32",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "During Apollo 11 landing 50 years ago, a tape-recorded piece of music that the Moon heard from mankind is affectionately called the New World Symphony. Otherwise known as the Symphony No.9 in E minor, this is a classical piece of music written by Czech composer, Antonín Dvořák. Dvořákmight not be one of the Top 10",
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/05/img_20190512_144156404b.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Antonín Dvořák: The man whose music went to the Moon and back",
@@ -80,6 +93,7 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/Bxd71n-Af5r",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

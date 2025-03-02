@@ -3,22 +3,26 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/BOljEqPBtoV",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BOjb1LqhNEB",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BOevd_qhRLk/",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Phu Quoc – pronounced as Foo Coo·wok – literally means Rich [Phú] Nation [Quốc] in Vietnamese as well as in Chinese [富国]. It is the largest island off the southwestern tip of Vietnam. Since March 2014, all foreigners could visit with a 30-days visa-free period. Although there is an airport on the island, most international",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2016/12/img_3070.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Phu Quoc is the new Bali",
@@ -27,6 +31,7 @@
 		{
 			"text": "We were highly intoxicated bythe juxtapositions of different cultures, the textured and weathered surfaces,the untold stories of unexpected spacesand the never-ending randomness… At the end of our trip, we were so energised – mostly powered by our own imaginations – and even when our flight got delayed, we found some last-minute amusement at the airport.",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/img_2637.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "The buildings of Ho Chi Minh City",

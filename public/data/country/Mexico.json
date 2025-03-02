@@ -4,6 +4,7 @@
 		{
 			"text": "For those of you staying in the **Cancún** area, **Puerto Morelos** is a quiet beach town if you don't like noise. If you do like noise head to **Playa del Carmen**.",
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Puerto Morelos",
@@ -11,12 +12,14 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/k4ylqus2NO",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "If you want to do more than transit here, visit around March consider the **Carnaval Chetumal**.",
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Carnaval Chetumal",

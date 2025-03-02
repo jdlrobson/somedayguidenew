@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "The Bosfor leaves Bucharest Gara de Nord at 10:11 and arrives Halkali (Istanbul) at 06:34 next morning.",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Train from Bucharest to Istanbul",
+			"url": "https://www.seat61.com/trains-and-routes/bucharest-and-sofia-to-istanbul-by-train.htm"
+		}
+	],
 	"places": {
 		"Bucharest": {
 			"climate": [

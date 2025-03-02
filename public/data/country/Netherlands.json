@@ -3,21 +3,25 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/9K8ppVs2IH",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/9JP8AdM2PV",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/9K8lSuM2IC",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/89MbaJs2IL",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

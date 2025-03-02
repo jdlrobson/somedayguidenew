@@ -4,6 +4,7 @@
 		{
 			"text": "Eat pretzels and drink beer at Augustiner Bierhalle",
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Augustiner Bierhalle",
@@ -12,6 +13,7 @@
 		{
 			"text": "The Cologne Carnival is a carnival that takes place every year in Cologne, Germany.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dreigestirn_72.jpg/320px-Dreigestirn_72.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Cologne Carnival",
@@ -19,6 +21,7 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/C7FaE52yS41/?img_index=1",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		}

@@ -4,6 +4,7 @@
 		{
 			"text": "Look for tiny shops in the square which sells drinks in the evening called `a ginjinha`.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ginjinha_store.jpg/640px-Ginjinha_store.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "ginjinha",
@@ -11,6 +12,7 @@
 		},
 		{
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Porto_%28Portugal%29_%2822453282811%29.jpg/640px-Porto_%28Portugal%29_%2822453282811%29.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Livraria Lello",
@@ -19,6 +21,7 @@
 		{
 			"text": "The trams were great fun. I took them all over the place. The best ride was to the old town from near Rossio station which takes you through extemely narrow streets.",
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Memory",
@@ -26,6 +29,7 @@
 		},
 		{
 			"src": "https://live.staticflickr.com/1435/5107872638_a78b7efe00_k.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Tramtastic",
@@ -34,6 +38,7 @@
 		{
 			"text": "I also rode the bus/trams to Belem. There was a nice museum here, a pretty church, and yummy not to be missed egg tarts at Casa Pasteis De Belem. Lisboa tourist card came in very handy for all this traveling about!",
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Memories in Lisbon",
@@ -41,6 +46,7 @@
 		},
 		{
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Sintra",
@@ -48,6 +54,7 @@
 		},
 		{
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Lisbon Story Guesthouse",
@@ -55,6 +62,7 @@
 		},
 		{
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Casa Pasteis De Belem",
@@ -63,6 +71,7 @@
 		{
 			"text": "<small>[Wikipedia]:</from> The Azores, officially the Autonomous Region of the Azores, is one of the two autonomous regions of Portugal. It is an archipelago composed of nine volcanic islands in the Macaronesia region of the North Atlantic Ocean, about 1,400 km (870 mi) west of Lisbon, about 1,500 km (930 mi) northwest of Morocco, about 1,930 km (1,200 mi) southeast of Newfoundland, Canada, and the same distance southwest of Cork, Ireland.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/320px-Flag_of_the_Azores.svg.png",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Azores",

@@ -3,6 +3,7 @@
 	"snippets": [
 		{
 			"src": "https://farm4.static.flickr.com/3475/3308170197_537208b487.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Kuching is a real life Pokemon adventure",
@@ -11,6 +12,7 @@
 		{
 			"text": "I visited Penang in Chinese New Year (CNY). Chinese New Year is the festival that gathers relatives together, dead and alive. A family portrait is usually a typical ritual of such events. In the temples the longest incense sticks I've ever seen in my life burned. In the temples everything that could be burnt was",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/p2120247.jpg?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "How to drive a Rickshaw in Penang",
@@ -18,6 +20,7 @@
 		},
 		{
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/10/p2120247.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "How to drive a Rickshaw in Penang",
@@ -25,33 +28,39 @@
 		},
 		{
 			"src": "https://www.instagram.com/p/BlnIH1WAc_p/?utm_source=ig_embed&amp;utm_campaign=loading",
+			"source": "",
 			"type": "instagram",
 			"embed": true,
 			"title": "Eat durian"
 		},
 		{
 			"src": "https://www.instagram.com/p/BOq3bjGj7yu",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BOo7wRdBlKv",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://instagram.com/p/BwTRm6OnV3d",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BGWJeTiM2LD",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"text": "Kuching has possibly the most cat statues per square mile of any place on Earth. In fact, a trip to Kuching could easily be spent trying to catch them all as if they were Pokemon and you were trying to fill your Pokedex. Kuching means cat in Malay. As a result the city has the",
 			"src": "?h=200&crop=1",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Kuching is a real life Pokemon adventure",

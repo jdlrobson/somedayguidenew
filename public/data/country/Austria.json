@@ -3,21 +3,19 @@
 	"snippets": [
 		{
 			"src": "https://www.instagram.com/p/BUPa2gOg77w",
-			"type": "instagram",
-			"embed": true
-		},
-		{
-			"src": "https://www.instagram.com/p/BUPa73_giCc",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://www.instagram.com/p/BUNVd3tg_Fh",
+			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
 			"src": "https://farm5.static.flickr.com/4120/4763454922_ed92c97094.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Hallstatt town",
@@ -25,6 +23,7 @@
 		},
 		{
 			"src": "https://farm5.static.flickr.com/4140/4763456400_70c73659a8.jpg",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Alpine Paradise",
@@ -33,10 +32,25 @@
 		{
 			"text": "I lost my wallet in Hallstatt. When retracing my steps, the nice lady in the supermarket told me a wallet had been handed in to City Hall by a young child. The lady took me there and all 100+ euros, credit cards and driving license were still in there.",
 			"src": "",
+			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Hallstatt memory",
 			"url": "https://en.wikipedia.org/wiki/Hallstatt"
+		},
+		{
+			"src": "https://www.instagram.com/p/BUPa73_giCc",
+			"source": "",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"src": "Dachstein Giant Ice Cave",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "https://www.dachstein-salzkammergut.com/en/summer/below-ground/dachstein-giant-ice-cave",
+			"url": "Dachstein Ice Cave ► Discover the mystical cave world made of ice and rocks at a guided tour with an experienced cave guides on the Dachstein in Salzkammergut! <small>[image from www.dachstein-salzkammergut.com]</small>"
 		}
 	],
 	"places": {

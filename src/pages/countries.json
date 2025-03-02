@@ -460,7 +460,7 @@
 				"Armenian"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG"
 	},
 	"Australia": {
@@ -621,7 +621,7 @@
 			],
 			"currency": "EUR"
 		},
-		"snippets": 7,
+		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:IMG_9037-Innsbruck.JPG"
 	},
 	"Azerbaijan": {
@@ -997,7 +997,7 @@
 				"Russian"
 			]
 		},
-		"snippets": 1,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezale%C5%BEna%C5%9Bci.jpg"
 	},
 	"Belgium": {
@@ -1107,7 +1107,7 @@
 				"German"
 			]
 		},
-		"snippets": 2,
+		"snippets": 3,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Notre-Dame_Anvers_7.JPG"
 	},
@@ -1387,7 +1387,7 @@
 				"Serbian"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Travnik_Panorama_1.JPG"
 	},
@@ -1663,7 +1663,7 @@
 			],
 			"currency": "BGN"
 		},
-		"snippets": 5,
+		"snippets": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Plovdiv_Bulgaria.jpg"
 	},
 	"Burkina Faso": {
@@ -2878,7 +2878,7 @@
 			],
 			"currency": "HRK"
 		},
-		"snippets": 4,
+		"snippets": 9,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Zut_srednji_kanal.jpg"
 	},
@@ -3018,7 +3018,7 @@
 				"Greek"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG"
 	},
@@ -3252,7 +3252,7 @@
 			],
 			"currency": "DKK"
 		},
-		"snippets": 2,
+		"snippets": 6,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg"
 	},
@@ -3866,7 +3866,7 @@
 				"Estonian"
 			]
 		},
-		"snippets": 2,
+		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg"
 	},
 	"Eswatini": {
@@ -4137,7 +4137,7 @@
 				"Swedish"
 			]
 		},
-		"snippets": 0,
+		"snippets": 5,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg"
 	},
@@ -4416,6 +4416,7 @@
 		"lat": 42.3,
 		"lon": 43.6,
 		"title": "Georgia",
+		"wikivoyageTitle": "Georgia (country)",
 		"description": "   \nGeorgia (Georgian: საქართველო, Sakartvelo) is a country in the Caucasus. Sandwiched between Russia in the north and Turkey in the south, it sits along the coast of the Black Sea. It is a rather mountainous country and is home to some of Europe’s highest mountain peaks. Despite its modest size, Georgia presents a large mix of other landscapes and micro-climates, ranging from dry wine-growing valleys in the east, to lush Black Sea resorts in the west. In Greek mythology, Georgia was the site of the famous Golden Fleece sought by Jason and the Argonauts. The tales of Georgia's ancient history are not without foundation; modern archaeological evidence suggests that Georgia is the oldest winemaking country in the world, with some wine samples dating back to 6,000 years BC. In testament to this rich heritage, Georgia's cities and countryside are complete with medieval churches, several of which are UNESCO World Heritage Sites. Enjoying low levels of crime and corruption, since the mid-2000s Georgia has developed into a fast-growing destination. The country's tourist infrastructure continues to expand. ",
 		"airports": [],
 		"links": [
@@ -9853,7 +9854,7 @@
 			],
 			"currency": "RON"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg"
 	},
 	"Russia": {
