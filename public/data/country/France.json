@@ -8,6 +8,14 @@
 			"embed": true
 		},
 		{
+			"src": "alltrails.com",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "https://www.alltrails.com/trail/france/bouches-du-rhone/calanque-de-morgiou-via-col-de-morgiou",
+			"url": " <small>[image from www.alltrails.com]</small>"
+		},
+		{
 			"src": "https://www.instagram.com/p/3JphJTs2Mw",
 			"source": "",
 			"type": "instagram",
@@ -30,6 +38,15 @@
 			"source": "",
 			"type": "instagram",
 			"embed": true
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> Carcassonne is a French fortified city in the department of Aude, region of Occitania. It is the prefecture of the department.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/1_carcassonne_aerial_2016.jpg/320px-1_carcassonne_aerial_2016.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Carcassonne",
+			"url": "https://en.wikipedia.org/wiki/Carcassonne"
 		},
 		{
 			"src": "https://www.instagram.com/p/BxT51jpDMqT",

@@ -42,6 +42,33 @@
 			"embed": true
 		},
 		{
+			"text": "One of the best islands in the world.  <small>[image from Bon Traveler]</small>",
+			"src": "https://www.bontraveler.com/wp-content/uploads/2017/08/77c5c-img.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The First-Timer's Guide to Mykonos - Bon Traveler",
+			"url": "https://www.bontraveler.com/the-first-timers-guide-to-mykonos/"
+		},
+		{
+			"text": "Karpathos, overlooked even by Greek travelers, balances rising tourism with sustaining its ancient traditions. <small>[image from Travel]</small>",
+			"src": "https://i.natgeofe.com/n/bcf2c8a8-28e4-43cd-90b8-eb2caa4d408f/MM9751_210807_04127_16x9.jpg?w=1200",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Can this Greek island’s hidden treasures lure travelers?",
+			"url": "https://www.nationalgeographic.com/travel/article/can-this-greek-islands-hidden-treasures-lure-travelers"
+		},
+		{
+			"text": "While approaching the port of Symi, one has the overwhelming feeling of entering a perfectly painted image of a scenic traditional village. As a rule, people remain agape and cannot take their eyes off the spectacular sight. <small>[image from VisitGreece]</small>",
+			"src": "https://www.visitgreece.gr",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Symi",
+			"url": "https://www.visitgreece.gr/islands/dodecanese/symi/"
+		},
+		{
 			"src": "https://www.instagram.com/p/BySagBvjc4i",
 			"source": "",
 			"type": "instagram",
