@@ -1,4 +1,4 @@
-import json from './src/pages/countries.json' assert { type: "json" };
+import json from './public/data/countries.json' assert { type: "json" };
 import update from './update.json' assert { type: "json" };
 import { JSDOM } from 'jsdom';
 import fs from 'fs';
@@ -358,7 +358,7 @@ function updateContriesAndSave() {
             lastUpdated: now
         }, null, "\t" )
     );
-    fs.writeFileSync('src/pages/countries.json', JSON.stringify(json, null, "\t"));
+    fs.writeFileSync('public/data/countries.json', JSON.stringify(json, null, "\t"));
 }
 
 /**

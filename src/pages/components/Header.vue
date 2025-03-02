@@ -7,7 +7,7 @@ const props = defineProps({
   zoom: Number,
   center: Array
 });
-import countryData from '../countries.json';
+import countryData from '../../../public/data/countries.json';
 const title = props.title || 'the world';
 const places = Object.keys( countryData ).map( ( c ) => {
   return { path: `/country/${c}`, coordinates: [ countryData[c].lat, countryData[c].lon ] }

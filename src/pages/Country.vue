@@ -5,7 +5,7 @@ const route = useRoute();
 const countryName = route.params.country;
 import Header from './components/Header.vue';
 import Note from './components/Note.vue';
-import countryData from './countries.json';
+import countryData from '../../public/data/countries.json';
 import Face from './components/Face.vue';
 import StoryBoard from './components/StoryBoard.vue';
 import ImageCircle from './components/ImageCircle.vue';

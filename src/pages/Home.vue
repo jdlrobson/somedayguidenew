@@ -3,7 +3,7 @@ import { ref, defineProps } from 'vue'
 import Header from './components/Header.vue';
 import Postit from './components/Postit.vue';
 import InspirationBoard from './components/InspirationBoard.vue';
-import countryData from './countries.json';
+import countryData from '../../public/data/countries.json';
 import Note from './components/Note.vue';
 
 const props = defineProps({
