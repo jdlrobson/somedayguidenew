@@ -59,7 +59,7 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
       <span v-html="text"></span>
     </div>
     <a v-if="target" class="a-internal" :target="target" :href="href"></a>
-    <router-link v-else class="a-external" :to="href"></router-link>
+    <router-link v-else-if="href" class="a-external" :to="href"></router-link>
     <slot></slot>
     <link-logo v-if="href" :href="href"></link-logo>
     <a class="thumbSource" :target="thumbnailTarget"
