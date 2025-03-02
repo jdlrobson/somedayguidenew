@@ -3855,6 +3855,7 @@
 		],
 		"wb": "Q191",
 		"neighbors": [
+			"Finland",
 			"Latvia",
 			"Russia"
 		],
@@ -4124,6 +4125,7 @@
 		],
 		"wb": "Q33",
 		"neighbors": [
+			"Estonia",
 			"Sweden",
 			"Norway",
 			"Russia"
@@ -4137,7 +4139,7 @@
 				"Swedish"
 			]
 		},
-		"snippets": 5,
+		"snippets": 6,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg"
 	},
