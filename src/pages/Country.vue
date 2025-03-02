@@ -104,6 +104,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     :text="s.text"
                     :embed="s.embed"
                     :href="s.url"
+                    :thumbnailSource="s.source"
                     :thumbnail="s.src">
                     <div class="embed">
                         <EmbedYoutube

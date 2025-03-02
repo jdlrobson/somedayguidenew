@@ -125,9 +125,14 @@ function transformSnippet( filePath ) {
         allSrcs.push(src);
     }
 
+    let source = '';
+    if ( src.indexOf( '/images/personal/' ) === 0 ) {
+        source = '/';
+    }
     return {
         text,
         src,
+        source,
         type,
         embed: isEmbedSite( src ),
         title,

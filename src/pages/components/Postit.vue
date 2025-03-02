@@ -29,8 +29,14 @@ onMounted(() => {
   if (window.instgrm) window.instgrm.Embeds.process();
 })
 
+
+const source = props.thumbnailSource;
+const localSource = source && source.indexOf( '/' ) === 0;
 const getThumbSource = () => {
-  const url = new URL( props.thumbnailSource );
+  if ( localSource ) {
+    return 'own';
+  }
+  const url = new URL( source );
   switch ( url.hostname ) {
     case 'commons.wikimedia.org':
       return 'commons';
@@ -40,7 +46,8 @@ const getThumbSource = () => {
 
 };
 
-const thumbnailSourceName = ref( props.thumbnailSource ? getThumbSource() : '' );
+const thumbnailTarget = localSource ? '' : '_blank';
+const thumbnailSourceName = ref( source ? getThumbSource() : '' );
 </script>
 
 <template>
@@ -55,7 +62,7 @@ const thumbnailSourceName = ref( props.thumbnailSource ? getThumbSource() : '' )
     <router-link v-else class="a-external" :to="href"></router-link>
     <slot></slot>
     <link-logo v-if="href" :href="href"></link-logo>
-    <a class="thumbSource" target="_blank"
+    <a class="thumbSource" :target="thumbnailTarget"
       v-if="thumbnailSource" :href="thumbnailSource">source: {{ thumbnailSourceName }}</a>
   </div>
 </template>
