@@ -1663,7 +1663,7 @@
 			],
 			"currency": "BGN"
 		},
-		"snippets": 7,
+		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Plovdiv_Bulgaria.jpg"
 	},
 	"Burkina Faso": {
@@ -5765,7 +5765,7 @@
 			],
 			"currency": "IEP"
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Castle_Leap%2C_Birr%2C_Ireland.jpg"
 	},
 	"Israel": {
@@ -5971,7 +5971,7 @@
 				"Italian"
 			]
 		},
-		"snippets": 6,
+		"snippets": 11,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg"
 	},
@@ -6581,7 +6581,7 @@
 				"Latvian"
 			]
 		},
-		"snippets": 1,
+		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Me%C5%BEs_2010.gada_28.august%C4%81%2C_Tomes_pagasts%2C_%C4%B6eguma_novads%2C_Latvia_-_panoramio.jpg"
 	},
 	"Lebanon": {
@@ -6809,7 +6809,7 @@
 			],
 			"currency": "CHF"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Grenze_Liechtenstein%2C_Balzers.jpg"
 	},
@@ -6898,7 +6898,7 @@
 			],
 			"currency": "LTL"
 		},
-		"snippets": 0,
+		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Merkin%C4%97001.JPG"
 	},
 	"Luxembourg": {
@@ -6984,7 +6984,7 @@
 				"German"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Musee_Nationale_d%27Histoire_Militaire%2C_Diekirch_%285271045504%29.jpg"
 	},
@@ -7045,7 +7045,7 @@
 			],
 			"currency": "MKD"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iglesia_San_Juan_Kaneo%2C_Ohrid%2C_Macedonia_del_Norte%2C_2014-04-17%2C_DD_19.jpg"
 	},
 	"Madagascar": {
@@ -7398,7 +7398,7 @@
 				"English"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg"
 	},
@@ -10948,7 +10948,7 @@
 				"Zulu"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG"
 	},
@@ -11988,7 +11988,7 @@
 			],
 			"currency": "TND"
 		},
-		"snippets": 1,
+		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ribat%2C_Sousse%2C_Tunisia.JPG"
 	},

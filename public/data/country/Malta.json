@@ -1,6 +1,15 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "Home - Popeye Village Malta",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "https://popeyemalta.com/",
+			"url": " <small>[image from popeyemalta.com]</small>"
+		}
+	],
 	"places": {
 		"Valletta": {
 			"climate": [

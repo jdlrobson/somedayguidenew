@@ -1,6 +1,15 @@
 {
 	"note": "<p>Jon went here when he was younger but remembers very little. I know I&#39;ve been but without a memory I am not sure it counts.</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"src": "Mos Espa | Southern Tunisia, Tunisia | Attractions - Lonely Planet",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "https://www.lonelyplanet.com/tunisia/ong-jemal/attractions/mos-espa/a/poi-sig/1592951/1342252",
+			"url": "Mos Espa is probably Tunisia’s best-preserved Star Wars set. It’s remarkably intact and one of the best Star Wars sites in the country. The site is a… <small>[image from Lonely Planet]</small>"
+		}
+	],
 	"places": {
 		"Tunis": {
 			"climate": [

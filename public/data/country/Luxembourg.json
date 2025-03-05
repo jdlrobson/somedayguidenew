@@ -1,6 +1,25 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[Wikipedia]:</from> The Bock is a promontory in the north-eastern corner of Luxembourg City's old historical district. Offering a natural fortification, its rocky cliffs tower above the River Alzette, which surrounds it on three sides. It was here that Count Siegfried built his Castle of Lucilinburhuc in 963, providing a basis for the development of the town that became Luxembourg. Over the centuries, the Bock and the surrounding defenses were reinforced, attacked, and rebuilt time and time again as the armies of the Burgundians, Habsburgs, Spaniards, Prussians, and French vied for victory over one of Europe's most strategic strongholds, the Fortress of Luxembourg. Warring did not stop until the Treaty of London was signed in 1867, calling for the demolition of the fortifications. Ruins of the old castle and the vast underground system of passages and galleries known as the casemates continue to be a major tourist attraction.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Selig_Luxembourg_from_Paffendall.jpg/320px-Selig_Luxembourg_from_Paffendall.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Bock (Luxembourg)",
+			"url": "https://en.wikipedia.org/wiki/Bock_(Luxembourg)"
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> Vianden Castle, located in Vianden in the north of Luxembourg, is one of the largest fortified castles west of the Rhine. With origins dating from the fourth century as a Roman outpost and the 10th century, the more familiar castle form was built in the Romanesque style from the 11th to 14th centuries. Gothic transformations and trimmings were added at the end of this period. A Renaissance mansion was added in the 17th century but thereafter the castle was allowed to fall into ruins. It has, however, recently been fully restored and is open to visitors. Vianden Castle is widely regarded as the best castle to visit in Luxembourg.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Vianden%2C_Luxemburg.jpg/320px-Burg_Vianden%2C_Luxemburg.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Vianden Castle",
+			"url": "https://en.wikipedia.org/wiki/Vianden_Castle"
+		}
+	],
 	"places": {
 		"Luxembourg (city)": {
 			"climate": [
