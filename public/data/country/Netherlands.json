@@ -24,6 +24,15 @@
 			"source": "",
 			"type": "instagram",
 			"embed": true
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> Keukenhof, also known as the Garden of Europe, is one of the world's largest flower gardens, situated in the municipality of Lisse, in the Netherlands. According to the official website, Keukenhof Park covers an area of 32 hectares and approximately 7 million flower bulbs are planted in the gardens annually. While it is widely known for its tulips, Keukenhof also features numerous other flowers, including hyacinths, daffodils, lilies, roses, carnations and irises.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Keukenhof_340.JPG/320px-Keukenhof_340.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Keukenhof",
+			"url": "https://en.wikipedia.org/wiki/Keukenhof"
 		}
 	],
 	"places": {

@@ -8,6 +8,24 @@
 			"embed": true
 		},
 		{
+			"text": "This breathtaking national park was formed by glaciers and is traversed by rivers and underground streams. Along the Tara river canyon, which has the deepest gorges in Europe, the dense pine forests are interspersed  ... <small>[image from whc.unesco.org]</small>",
+			"src": "https://whc.unesco.org/uploads/thumbs/site_0100_0001-1200-630-20151105145959.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Durmitor National Park",
+			"url": "https://whc.unesco.org/en/list/100/"
+		},
+		{
+			"text": "<small>[Wikipedia]:</from> Lake Skadar or Lake Scutari – also called Lake Shkodra – lies on the border of Albania and Montenegro, and is the largest lake in Southern Europe. It is named after the Albanian city of Shkodër which lies at its southeastern coast. It is a karst lake.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lac_de_Shkodra.jpg/320px-Lac_de_Shkodra.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lake Skadar",
+			"url": "https://en.wikipedia.org/wiki/Lake_Skadar"
+		},
+		{
 			"src": "https://www.instagram.com/p/Bx6sffzA8WF",
 			"source": "",
 			"type": "instagram",

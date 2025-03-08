@@ -7045,7 +7045,7 @@
 			],
 			"currency": "MKD"
 		},
-		"snippets": 2,
+		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iglesia_San_Juan_Kaneo%2C_Ohrid%2C_Macedonia_del_Norte%2C_2014-04-17%2C_DD_19.jpg"
 	},
 	"Madagascar": {
@@ -7398,7 +7398,7 @@
 				"English"
 			]
 		},
-		"snippets": 1,
+		"snippets": 3,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg"
 	},
@@ -7875,7 +7875,7 @@
 			],
 			"currency": "MDL"
 		},
-		"snippets": 2,
+		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chisinau_Airport_KIV.jpg"
 	},
 	"Monaco": {
@@ -8046,7 +8046,7 @@
 				"Albanian"
 			]
 		},
-		"snippets": 13,
+		"snippets": 14,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Budva6.jpg"
 	},
@@ -12234,7 +12234,7 @@
 	},
 	"Ukraine": {
 		"zoom": 4,
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_7_75_Czarnohora.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_7_75_Czarnohora.jpg",
 		"lat": 49,
 		"lon": 32,
 		"title": "Ukraine",
