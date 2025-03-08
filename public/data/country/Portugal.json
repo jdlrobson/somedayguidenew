@@ -11,6 +11,32 @@
 			"url": "https://en.wikipedia.org/wiki/Ginjinha"
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> Praia da Luz, officially Luz, is a civil parish of the municipality of Lagos, in Algarve region, Portugal. The population of the civil parish in 2011 was 3,545, in an area of 21.78 km2. Also known as Santorini de Portugal, Luz de Lagos or Vila da Luz, \"Praia da Luz\" is used to refer to both the urbanized village and the beach. The parish had its origins in a small fishing village, but was transformed by several holiday-villa complexes into a tourist area.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vista_parcial_da_luz.jpg/320px-Vista_parcial_da_luz.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Praia da Luz",
+			"url": "https://en.wikipedia.org/wiki/Praia_da_Luz"
+		},
+		{
+			"text": "Is Silves, Portugal worth visiting? We really think Silves IS worth visiting! Here's how to spend one day in Silves including best things to do, photos & tips! <small>[image from Andy & Jane]</small>",
+			"src": "https://www.andyandjane.com/wp-content/uploads/2024/08/silves-4-768x1024.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "How To Spend One Day In Silves, Portugal (Best Things To Do & Tips)",
+			"url": "https://www.andyandjane.com/how-to-spend-one-day-in-silves-portugal/"
+		},
+		{
+			"src": "Azores Whales - Azores Whale Watching Blog",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "https://whalewatchingazores.com/blog/",
+			"url": "Azores Whale Watching Blog <small>[image from Azores Whales]</small>"
+		},
+		{
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Porto_%28Portugal%29_%2822453282811%29.jpg/640px-Porto_%28Portugal%29_%2822453282811%29.jpg",
 			"source": "",
 			"type": "url",
@@ -69,8 +95,8 @@
 			"url": "https://www.pasteisdebelem.pt/"
 		},
 		{
-			"text": "<small>[Wikipedia]:</from> The Azores, officially the Autonomous Region of the Azores, is one of the two autonomous regions of Portugal. It is an archipelago composed of nine volcanic islands in the Macaronesia region of the North Atlantic Ocean, about 1,400 km (870 mi) west of Lisbon, about 1,500 km (930 mi) northwest of Morocco, about 1,930 km (1,200 mi) southeast of Newfoundland, Canada, and the same distance southwest of Cork, Ireland.",
-			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/320px-Flag_of_the_Azores.svg.png",
+			"text": "<small>[from en.wikipedia.org]:</small> The Azores, officially the Autonomous Region of the Azores, is one of the two autonomous regions of Portugal. It is an archipelago composed of nine volcanic islands in the Macaronesia region of the North Atlantic Ocean, about 1,400 km (870 mi) west of Lisbon, about 1,500 km (930 mi) northwest of Morocco, about 1,930 km (1,200 mi) southeast of Newfoundland, Canada, and the same distance southwest of Cork, Ireland.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fogo_lake_-_S.Miguel_island_-_Azores_%2839000072215%29_%28cropped%29.jpg/640px-Fogo_lake_-_S.Miguel_island_-_Azores_%2839000072215%29_%28cropped%29.jpg",
 			"source": "",
 			"type": "url",
 			"embed": false,

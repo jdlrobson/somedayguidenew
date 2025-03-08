@@ -1,6 +1,25 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Djémila, formerly Cuicul, is a small mountain village in Algeria, near the northern coast east of Algiers, where some of the best preserved Roman ruins in North Africa are found. It is situated in the region bordering the Constantinois and Petite Kabylie.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20180402_132230_HDR_The_historical_market.jpg/640px-20180402_132230_HDR_The_historical_market.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Djémila",
+			"url": "https://en.wikipedia.org/wiki/Dj%C3%A9mila"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Tipasa, sometimes distinguished as Tipasa in Mauretania, was a colonia in the Roman province Mauretania Caesariensis, nowadays called Tipaza, and located in coastal central Algeria. Since 1982, it has been declared by UNESCO a World Heritage Site. It was declared a World Heritage Site in danger in 2002, but was removed from the danger list in 2006 following conservation efforts.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tipasa_remain_2.JPG/320px-Tipasa_remain_2.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Tipasa",
+			"url": "https://en.wikipedia.org/wiki/Tipasa"
+		}
+	],
 	"places": {
 		"Algiers": {
 			"climate": [

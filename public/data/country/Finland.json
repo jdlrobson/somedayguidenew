@@ -2,7 +2,7 @@
 	"note": "<p>Finland is a short ferry away from Estonia. Lots to someday explore here.</p>\n",
 	"snippets": [
 		{
-			"text": "<small>[Wikipedia]:</from> Lake Inari is the largest lake in Sápmi and the third-largest lake in Finland. It is located in the northern part of Lapland, north of the Arctic Circle. The lake is 117–119 metres (384–390 ft) above sea level, and is regulated at the Kaitakoski power plant in Russia. The freezing period normally extends from November to early June.",
+			"text": "<small>[from en.wikipedia.org]:</small> Lake Inari is the largest lake in Sápmi and the third-largest lake in Finland. It is located in the northern part of Lapland, north of the Arctic Circle. The lake is 117–119 metres (384–390 ft) above sea level, and is regulated at the Kaitakoski power plant in Russia. The freezing period normally extends from November to early June.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Inari_lake.jpg/320px-Inari_lake.jpg",
 			"source": "",
 			"type": "url",
@@ -29,7 +29,7 @@
 			"url": "https://www.visitporvoo.fi/en/sights/old-porvoo/"
 		},
 		{
-			"text": "<small>[Wikipedia]:</from> Savonlinna Opera Festival is held annually in the city of Savonlinna in Finland. The Festival takes place at the medieval Olavinlinna, built in 1475. The castle is located amid spectacular lake scenery.",
+			"text": "<small>[from en.wikipedia.org]:</small> Savonlinna Opera Festival is held annually in the city of Savonlinna in Finland. The Festival takes place at the medieval Olavinlinna, built in 1475. The castle is located amid spectacular lake scenery.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG/320px-Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG",
 			"source": "",
 			"type": "url",

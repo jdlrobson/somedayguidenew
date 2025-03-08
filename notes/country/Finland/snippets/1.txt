@@ -1,4 +1,4 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Inari_lake.jpg/320px-Inari_lake.jpg
 Lake Inari
 https://en.wikipedia.org/wiki/Lake_Inari
-<small>[Wikipedia]:</from> Lake Inari is the largest lake in Sápmi and the third-largest lake in Finland. It is located in the northern part of Lapland, north of the Arctic Circle. The lake is 117–119 metres (384–390 ft) above sea level, and is regulated at the Kaitakoski power plant in Russia. The freezing period normally extends from November to early June.
+<small>[from en.wikipedia.org]:</small> Lake Inari is the largest lake in Sápmi and the third-largest lake in Finland. It is located in the northern part of Lapland, north of the Arctic Circle. The lake is 117–119 metres (384–390 ft) above sea level, and is regulated at the Kaitakoski power plant in Russia. The freezing period normally extends from November to early June.

@@ -159,7 +159,7 @@
 			],
 			"currency": "DZD"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:ALGIERS_HARBOUR.jpg"
 	},
@@ -1439,7 +1439,7 @@
 			],
 			"currency": "BWP"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036.JPG"
 	},
@@ -1701,7 +1701,7 @@
 				"French"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Arli_National_Park_Burkina_Faso.png"
 	},
@@ -1853,7 +1853,7 @@
 				"English"
 			]
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Yaound%C3%A9_Cath%C3%A9drale.jpg"
 	},
@@ -2045,7 +2045,7 @@
 				"Cape Verdean Creole"
 			]
 		},
-		"snippets": 2,
+		"snippets": 4,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg"
 	},
@@ -2508,7 +2508,7 @@
 				"French"
 			]
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Mossaka_%28Congo%29.JPG"
 	},
@@ -2687,7 +2687,7 @@
 				"French"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg"
 	},
@@ -5081,7 +5081,7 @@
 			],
 			"currency": "HNL"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG"
 	},
@@ -5971,7 +5971,7 @@
 				"Italian"
 			]
 		},
-		"snippets": 11,
+		"snippets": 12,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg"
 	},
@@ -8046,7 +8046,7 @@
 				"Albanian"
 			]
 		},
-		"snippets": 14,
+		"snippets": 15,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Budva6.jpg"
 	},
@@ -8475,7 +8475,7 @@
 				"English"
 			]
 		},
-		"snippets": 5,
+		"snippets": 6,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kinderdijk11.JPG"
 	},
@@ -8923,7 +8923,7 @@
 			],
 			"currency": "NOK"
 		},
-		"snippets": 2,
+		"snippets": 10,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Atlanterhavsvegen4.jpg"
 	},
@@ -9621,7 +9621,7 @@
 			],
 			"currency": "PLN"
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_Principal%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_01.jpg"
 	},
 	"Portugal": {
@@ -9702,7 +9702,7 @@
 				"Mirandese"
 			]
 		},
-		"snippets": 10,
+		"snippets": 13,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Praia_da_Marinha_%282012-09-27%29%2C_by_Klugschnacker_in_Wikipedia_%2886%29.JPG"
 	},
@@ -9856,7 +9856,7 @@
 			],
 			"currency": "RON"
 		},
-		"snippets": 1,
+		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg"
 	},
 	"Russia": {
@@ -10418,7 +10418,7 @@
 			],
 			"currency": "RSD"
 		},
-		"snippets": 13,
+		"snippets": 14,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Subotica%2C_radnice.jpg"
 	},
 	"Seychelles": {
@@ -10690,7 +10690,7 @@
 			],
 			"currency": "SKK"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Levice_Castle.jpg"
 	},
 	"Slovenia": {
@@ -10764,7 +10764,7 @@
 				"Hungarian"
 			]
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Celje_starowka.jpg"
 	},
@@ -11200,7 +11200,7 @@
 				"Occitan"
 			]
 		},
-		"snippets": 9,
+		"snippets": 10,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_de_Segovia%2C_situado_en_la_Ciudad_vieja_de_Segovia._Patrimonio_Mundial_por_la_UNESCO.jpg"
 	},
@@ -11460,7 +11460,7 @@
 				"Yiddish"
 			]
 		},
-		"snippets": 0,
+		"snippets": 3,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ice_Hotel_Church_Jukkasj%C3%A4rvi.jpg"
 	},
@@ -11549,7 +11549,7 @@
 				"Swiss Standard German"
 			]
 		},
-		"snippets": 1,
+		"snippets": 5,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:5297_-_Wengernalp_-_Wengernalpbahn.JPG"
 	},
@@ -12302,7 +12302,7 @@
 			],
 			"currency": "UAH"
 		},
-		"snippets": 4,
+		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Czarnohora.jpg"
 	},
 	"United Arab Emirates": {

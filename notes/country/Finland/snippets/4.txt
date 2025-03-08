@@ -1,4 +1,4 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG/320px-Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG
 Savonlinna Opera Festival
 https://en.wikipedia.org/wiki/Savonlinna_Opera_Festival
-<small>[Wikipedia]:</from> Savonlinna Opera Festival is held annually in the city of Savonlinna in Finland. The Festival takes place at the medieval Olavinlinna, built in 1475. The castle is located amid spectacular lake scenery.
+<small>[from en.wikipedia.org]:</small> Savonlinna Opera Festival is held annually in the city of Savonlinna in Finland. The Festival takes place at the medieval Olavinlinna, built in 1475. The castle is located amid spectacular lake scenery.

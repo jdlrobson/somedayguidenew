@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Lesio-Louna Reserve is found in the Republic of the Congo. It was established on 28 December 1993. This site is 440.00 km2.",
+			"src": "null",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lesio Louna Reserve",
+			"url": "https://en.wikipedia.org/wiki/Lesio_Louna_Reserve"
+		}
+	],
 	"places": {
 		"Brazzaville": {
 			"climate": [

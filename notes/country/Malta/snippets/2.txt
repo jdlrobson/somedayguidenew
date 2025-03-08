@@ -1,4 +1,4 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Malte%2C_Gozo%2C_port_de_Mgarr_%26_ferrys_%26_Comino.jpg/320px-Malte%2C_Gozo%2C_port_de_Mgarr_%26_ferrys_%26_Comino.jpg
 Mġarr, Gozo
 https://en.wikipedia.org/wiki/M%C4%A1arr,_Gozo
-<small>[Wikipedia]:</from> Mġarr is a harbour town in south-eastern Gozo, Malta.
+<small>[from en.wikipedia.org]:</small> Mġarr is a harbour town in south-eastern Gozo, Malta.

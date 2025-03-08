@@ -2,7 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"text": "<small>[Wikipedia]:</from> The Iwokrama Forest is a 3,716 square kilometres (1,435 sq mi) nature reserve of central Guyana located in the heart of the Guiana Shield, one of the four last pristine tropical forests in the world. It represents an important transition zone in rainfall, landforms, human histories and biological communities.",
+			"text": "<small>[from en.wikipedia.org]:</small> The Iwokrama Forest is a 3,716 square kilometres (1,435 sq mi) nature reserve of central Guyana located in the heart of the Guiana Shield, one of the four last pristine tropical forests in the world. It represents an important transition zone in rainfall, landforms, human histories and biological communities.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Iwokrama_Rainforest%2C_Guyana_%2812179378186%29.jpg/320px-Iwokrama_Rainforest%2C_Guyana_%2812179378186%29.jpg",
 			"source": "",
 			"type": "url",
@@ -11,7 +11,7 @@
 			"url": "https://en.wikipedia.org/wiki/Iwokrama_Forest"
 		},
 		{
-			"text": "<small>[Wikipedia]:</from> Kaieteur Falls is one of the most powerful single-drop waterfalls in the world.",
+			"text": "<small>[from en.wikipedia.org]:</small> Kaieteur Falls is one of the most powerful single-drop waterfalls in the world.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GuyanaKaieteurFalls2004.jpg/320px-GuyanaKaieteurFalls2004.jpg",
 			"source": "",
 			"type": "url",
@@ -20,7 +20,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kaieteur_Falls"
 		},
 		{
-			"text": "<small>[Wikipedia]:</from> Mashramani, often abbreviated to \"Mash\", is an annual festival that celebrates Guyana becoming a Republic in 1970.",
+			"text": "<small>[from en.wikipedia.org]:</small> Mashramani, often abbreviated to \"Mash\", is an annual festival that celebrates Guyana becoming a Republic in 1970.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mashramani-in-Guyana-2007-by-GuyaneseTavern.jpg/320px-Mashramani-in-Guyana-2007-by-GuyaneseTavern.jpg",
 			"source": "",
 			"type": "url",

@@ -2,7 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"text": "<small>[Wikipedia]:</from> Skaftafell is a preservation area in Öræfi, southeast Iceland. It was once a major farm, later being named a national park. Originally known as Skaftafell National Park, it was subsequently joined together with other nearby regions to form the larger Vatnajökull National Park.",
+			"text": "<small>[from en.wikipedia.org]:</small> Skaftafell is a preservation area in Öræfi, southeast Iceland. It was once a major farm, later being named a national park. Originally known as Skaftafell National Park, it was subsequently joined together with other nearby regions to form the larger Vatnajökull National Park.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Skaftafell_Aerial_2023.jpg/320px-Skaftafell_Aerial_2023.jpg",
 			"source": "",
 			"type": "url",
@@ -11,7 +11,7 @@
 			"url": "https://en.wikipedia.org/wiki/Skaftafell"
 		},
 		{
-			"text": "<small>[Wikipedia]:</from> Strokkur is a fountain-type geyser located in a geothermal area beside the Hvítá River in Iceland in the southwest part of the country, east of Reykjavík. It typically erupts every 6–10 minutes. Its usual height is 15–20 metres (49–66 ft), although it can sometimes erupt up to 40 metres (130 ft) high.",
+			"text": "<small>[from en.wikipedia.org]:</small> Strokkur is a fountain-type geyser located in a geothermal area beside the Hvítá River in Iceland in the southwest part of the country, east of Reykjavík. It typically erupts every 6–10 minutes. Its usual height is 15–20 metres (49–66 ft), although it can sometimes erupt up to 40 metres (130 ft) high.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Strokkur_eruption.jpg/320px-Strokkur_eruption.jpg",
 			"source": "",
 			"type": "url",

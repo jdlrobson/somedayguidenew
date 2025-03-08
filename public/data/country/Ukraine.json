@@ -3,7 +3,7 @@
 	"snippets": [
 		{
 			"text": "Fascinating blog that I read in my teens about a motorcyclists journeys through Chernobyl.",
-			"src": "",
+			"src": "http://www.kiddofspeed.com/367img/image16.2.jpg",
 			"source": "",
 			"type": "url",
 			"embed": false,
@@ -15,7 +15,7 @@
 			"source": "",
 			"type": "url",
 			"embed": false,
-			"title": "Kyiv Pechersk Lavra",
+			"title": "Kyiv Pechersk Lavra (Monastery of Caves)",
 			"url": "https://en.wikipedia.org/wiki/Kyiv_Pechersk_Lavra"
 		},
 		{
@@ -26,6 +26,15 @@
 			"embed": false,
 			"title": "Mother Kiev",
 			"url": "https://en.wikipedia.org/wiki/Mother_Ukraine"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Saint Sophia Cathedral in Kyiv, Ukraine, is an architectural monument of Kievan Rus'. The former cathedral is one of the city's best known landmarks and the first heritage site in Ukraine to be inscribed on the World Heritage List along with the Kyiv Cave Monastery complex. Aside from its main building, the cathedral includes an ensemble of supporting structures such as a bell tower and the House of Metropolitan. In 2011 the historic site was reassigned from the jurisdiction of the Ministry of Regional Development of Ukraine to the Ministry of Culture of Ukraine. One of the reasons for the move was that both Saint Sophia Cathedral and Kyiv Pechersk Lavra are recognized by the UNESCO World Heritage Program as one complex, while in Ukraine the two were governed by different government entities. The cathedral is a museum.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg/320px-80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Saint Sophia Cathedral, Kyiv",
+			"url": "https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv"
 		}
 	],
 	"places": {

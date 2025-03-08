@@ -1,4 +1,4 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/GuyanaKaieteurFalls2004.jpg/320px-GuyanaKaieteurFalls2004.jpg
 Kaieteur Falls
 https://en.wikipedia.org/wiki/Kaieteur_Falls
-<small>[Wikipedia]:</from> Kaieteur Falls is one of the most powerful single-drop waterfalls in the world.
+<small>[from en.wikipedia.org]:</small> Kaieteur Falls is one of the most powerful single-drop waterfalls in the world.

@@ -1,4 +1,4 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Turaida_Castle.JPG/320px-Turaida_Castle.JPG
 Turaida Castle
 https://en.wikipedia.org/wiki/Turaida_Castle
-<small>[Wikipedia]:</from> Turaida Castle is a recently reconstructed medieval castle in Turaida, in the Vidzeme region of Latvia, on the opposite bank of the Gauja River from Sigulda.
+<small>[from en.wikipedia.org]:</small> Turaida Castle is a recently reconstructed medieval castle in Turaida, in the Vidzeme region of Latvia, on the opposite bank of the Gauja River from Sigulda.

@@ -1,6 +1,40 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Together with Krištof the shepherd boy, you will follow the tracks of his lost sheep, making twenty unforgettable stops across a large portion of the Solčava region: Podolševa, Matkov kot, the Logar Valley and Robanov kot.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Klemensek_farm.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The lookout point and the Klemenšek excursion farm - Solčava Panoramic Road",
+			"url": "https://www.solcavska-panoramska-cesta.si/en/points-of-interest/the-lookout-point-and-the-klemensek-excursion-farm"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Soča or Isonzo is a 138-kilometre (86 mi) long river that flows through western Slovenia and northeastern Italy.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Soca_4.jpg/320px-Soca_4.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Soča",
+			"url": "https://en.wikipedia.org/wiki/So%C4%8Da"
+		},
+		{
+			"src": "https://www.instagram.com/dtreskanica/p/Cj-vNYesGD6/",
+			"source": "",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Lake Bled is a lake in the Julian Alps of the Upper Carniolan region of northwestern Slovenia, where it adjoins the town of Bled. The area is a tourist destination. The lake is 35 km (22 mi) from Ljubljana International Airport and 55 km (34 mi) from the capital city, Ljubljana. Lake Bled is 4.2 km (2.6 mi) from the Lesce–Bled train station.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lake_Bled_from_the_Mountain.jpg/320px-Lake_Bled_from_the_Mountain.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lake Bled",
+			"url": "https://en.wikipedia.org/wiki/Lake_Bled"
+		}
+	],
 	"places": {
 		"Ljubljana": {
 			"climate": [

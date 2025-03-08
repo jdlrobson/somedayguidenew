@@ -8,6 +8,77 @@
 			"embed": false,
 			"title": "the world's best train ride",
 			"url": "https://www.visitnorway.com/en/Articles/Theme/Getting-here-and-around/The-worlds-best-train-ride/"
+		},
+		{
+			"text": "The polar bear is one of the world’s largest carnivores and can attack quickly without warning. Learn about polar bears and safety in Svalbard here! <small>[image from Visit Svalbard]</small>",
+			"src": "https://eu-assets.simpleview-europe.com/svalbard/imageresizer/?image=%2Fdbimgs%2F1750%20x%20540%20isbj%C3%B8rn%20stian%20klo.jpg&action=Open_Graph_img",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Polar bears in Svalbard",
+			"url": "https://en.visitsvalbard.com/visitor-information/polar-bears"
+		},
+		{
+			"src": "Reindeer | Wildlife in Norway | Hurtigruten US",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "https://www.hurtigruten.com/en-us/inspiration/wildlife/reindeer",
+			"url": " <small>[image from www.hurtigruten.com]</small>"
+		},
+		{
+			"text": " <small>[image from Svalbard by Sea]</small>",
+			"src": "https://secure.gravatar.com/blavatar/b2b1d1d7fb4efd4c2e60889af72262414fa3ae060f25933accf8ff84553b786b?s=200&ts=1741451409",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "aurora – Svalbard by Sea",
+			"url": "https://svalbardbysea.wordpress.com/tag/aurora/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Frogner Park is a public park in the central West End borough of Frogner in Oslo, Norway. The park is historically part of Frogner Manor and is Oslo's largest park, open to the public at all times. It includes the manor house which is the seat of Oslo Museum, the nearby Henriette Wegner Pavilion, the Vigeland installation of sculptures created by sculptor Gustav Vigeland, Frogner Baths, Frogner stadion, Frognerparken Café, the restaurant Herregårdskroen and the largest collection of roses in the country with 14,000 plants of 150 species. Frogner Park is the most visited tourist attraction in Norway.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/NOR-2016-Frogner_Park-Vigeland_Installation-View_from_the_monolith.jpg/320px-NOR-2016-Frogner_Park-Vigeland_Installation-View_from_the_monolith.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Frogner Park",
+			"url": "https://en.wikipedia.org/wiki/Frogner_Park"
+		},
+		{
+			"text": "The Bergen - Oslo takes roughly seven hours, has a family car and play room for kids, and is ridiculously scenic. Here's what you should know. <small>[image from A Little Adrift Travel Blog]</small>",
+			"src": "https://alittleadrift.com/wp-content/uploads/2024/03/olso-bergen-train-family.jpeg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Oslo to Bergen Train: Worth the Time and Expense?",
+			"url": "https://alittleadrift.com/oslo-to-bergen-family/"
+		},
+		{
+			"text": "Having lived in Northern Norway for over four years, I now get so many questions from people planning winter trips to Norway to see the northern lights. And after telling them my picks for the <small>[image from Heart My Backpack]</small>",
+			"src": "https://www.heartmybackpack.com/wp-content/uploads/2019/04/DJI_0022.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Dog Sledding in Norway",
+			"url": "https://www.heartmybackpack.com/norway/dog-sledding-in-norway/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Seven Sisters is the 39th tallest waterfall in Norway. The 410-metre (1,350 ft) tall waterfall consists of seven separate streams, and the tallest of the seven has a free fall that measures 250 metres (820 ft).",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Geirangerfjord_sieben_Schwestern.jpg/320px-Geirangerfjord_sieben_Schwestern.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Seven Sisters Waterfall (Norway)",
+			"url": "https://en.wikipedia.org/wiki/Seven_Sisters_Waterfall_(Norway)"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> SV Noorderlicht is a two-masted schooner built in 1910 as a light sailing vessel for the Imperial German Navy. Since the 1990s, she has served as one of the expedition cruise vessels for Oceanwide Expeditions, and from 2021 she is owned by Swan Expeditions, sailing to some of the most remote locations in the Arctic, particularly the archipelago of Svalbard.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Norderlicht.jpg/320px-Norderlicht.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "SV Noorderlicht",
+			"url": "https://en.wikipedia.org/wiki/SV_Noorderlicht"
 		}
 	],
 	"places": {

@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Showcasing the merits of the hillside near Slovakia's capital.",
+			"src": "https://www.jakubstepanovic.com/wp-content/uploads/2021/05/DSCF4041-14.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "JS › Little Carpathians",
+			"url": "https://www.jakubstepanovic.com/little-carpathians/"
+		}
+	],
 	"places": {
 		"Bratislava": {
 			"climate": [

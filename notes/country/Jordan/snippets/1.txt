@@ -1,4 +1,4 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Urn_Tomb%2C_Petra_01.jpg/320px-Urn_Tomb%2C_Petra_01.jpg
 Petra
 https://en.wikipedia.org/wiki/Petra
-<small>[Wikipedia]:</from> Petra, originally known to its inhabitants as Raqmu, is a historic and archaeological city in southern Jordan. Famous for its rock-cut architecture and water conduit systems, Petra is also called the "Rose City" because of the colour of the sandstone from which it is carved. The city is one of the New 7 Wonders of the World and a UNESCO World Heritage Site.
+<small>[from en.wikipedia.org]:</small> Petra, originally known to its inhabitants as Raqmu, is a historic and archaeological city in southern Jordan. Famous for its rock-cut architecture and water conduit systems, Petra is also called the "Rose City" because of the colour of the sandstone from which it is carved. The city is one of the New 7 Wonders of the World and a UNESCO World Heritage Site.

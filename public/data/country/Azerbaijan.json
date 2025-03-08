@@ -2,7 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"text": "<small>[Wikipedia]:</from> Quba is a city and the administrative centre of the Quba District of Azerbaijan. The city lies on the north-eastern slopes of Shahdag mountain, at an altitude of 600 metres above sea level, on the right bank of the Kudyal river. It has a population of 47,200 (2023).",
+			"text": "<small>[from en.wikipedia.org]:</small> Quba is a city and the administrative centre of the Quba District of Azerbaijan. The city lies on the north-eastern slopes of Shahdag mountain, at an altitude of 600 metres above sea level, on the right bank of the Kudyal river. It has a population of 47,200 (2023).",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%9A%D1%83%D0%B1%D0%B0_291.jpg/320px-%D0%9A%D1%83%D0%B1%D0%B0_291.jpg",
 			"source": "",
 			"type": "url",
@@ -11,7 +11,7 @@
 			"url": "https://en.wikipedia.org/wiki/Quba"
 		},
 		{
-			"text": "<small>[Wikipedia]:</from> Shaki is a city in northwestern Azerbaijan, surrounded by the district of the same name. It is located in the southern part of the Greater Caucasus mountain range, 240 km (150 mi) from Baku. As of 2020, it has a population of 68,400. The center of the city and the Palace of Shaki Khans were inscribed in the UNESCO World Heritage List in 2019 because of their unique architecture and history as an important trading center along the Silk Road.",
+			"text": "<small>[from en.wikipedia.org]:</small> Shaki is a city in northwestern Azerbaijan, surrounded by the district of the same name. It is located in the southern part of the Greater Caucasus mountain range, 240 km (150 mi) from Baku. As of 2020, it has a population of 68,400. The center of the city and the Palace of Shaki Khans were inscribed in the UNESCO World Heritage List in 2019 because of their unique architecture and history as an important trading center along the Silk Road.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Shaki_montage2.jpg/320px-Shaki_montage2.jpg",
 			"source": "",
 			"type": "url",
