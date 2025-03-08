@@ -20,16 +20,34 @@ let pendingRequests = [];
  * Expands a Wikipedia snippet URL.
  * @param {string} filePath of snippet
  * @param {string} wikiTitle of wikipedia page
+ * @param {string} host e.g. en.wikipedia.org
  */
-function expandWikipediaSnippet( filePath, wikiTitle ) {
-    return fetch( `https://en.wikipedia.org/api/rest_v1/page/summary/${wikiTitle}` ).then((r) => r.json())
+function expandWikimediaSnippet( filePath, wikiTitle, host ) {
+    return fetch( `https://${host}/api/rest_v1/page/summary/${wikiTitle}` ).then((r) => r.json())
         .then((json) => {
             const src = json.thumbnail ? json.thumbnail.source : null;
             saveSnippet(filePath, json.titles.normalized,
-                `https://en.wikipedia.org/wiki/${wikiTitle}`, src, `<small>[Wikipedia]:</from> ${json.extract}` );
+                `https://${host}/wiki/${wikiTitle}`, src, `<small>[from ${host}]:</small> ${json.extract}` );
         });
 }
 
+/**
+ * Expands a Wikipedia snippet URL.
+ * @param {string} filePath of snippet
+ * @param {string} wikiTitle of wikipedia page
+ */
+function expandWikipediaSnippet( filePath, wikiTitle ) {
+    return expandWikimediaSnippet( filePath, wikiTitle, 'en.wikipedia.org' );
+}
+
+/**
+ * Expands a Wikipedia snippet URL.
+ * @param {string} filePath of snippet
+ * @param {string} wikiTitle of wikipedia page
+ */
+function expandWikivoyageSnippet( filePath, wikiTitle ) {
+    return expandWikimediaSnippet( filePath, wikiTitle, 'en.wikivoyage.org' );
+}
 /**
  * Expands a generic snippet URL.
  * @param {string} filePath of snippet
@@ -61,7 +79,11 @@ function expandURLSnippet( filePath, url ) {
                     break;
             }
         } );
-        description += ` <small>[image from ${author}]</small>`
+        if ( imageSrc ) {
+            description += ` <small>[image from ${author}]</small>`
+        } else {
+            imageSrc = '-';
+        }
         saveSnippet( filePath, title, url, imageSrc, description );
     })
 }
@@ -102,6 +124,10 @@ function transformSnippet( filePath ) {
             } else if ( srcOrUrl.indexOf( 'wikipedia.org' ) > -1 ) {
                 const wikiTitle = srcOrUrl.split('/').slice(-1)[0];
                 pendingRequests.push( expandWikipediaSnippet( filePath, wikiTitle ) );
+                return false;
+            } else if ( srcOrUrl.indexOf( 'wikivoyage.org' ) > -1 ) {
+                const wikiTitle = srcOrUrl.split('/').slice(-1)[0];
+                pendingRequests.push( expandWikivoyageSnippet( filePath, wikiTitle ) );
                 return false;
             } else if ( isEmbedSite( srcOrUrl ) ) {
                 // permit.
