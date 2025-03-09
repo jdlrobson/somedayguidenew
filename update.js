@@ -309,6 +309,7 @@ function prepareFromNotes() {
     } );
 }
 
+const destinationCoordinates = {};
 /**
  * Updates the public country JSON with information collected in prepareFromNotes
  */
@@ -317,6 +318,15 @@ function updateCountries() {
         const countryDataPath = `public/data/country/${c}.json`;
         const country = JSON.parse( fs.readFileSync( countryDataPath ).toString() );
         country.note = countryNotes[c];
+        if ( !country.places ) {
+            country.places = {};
+        }
+        Object.keys(country.places).forEach((key) => {
+            const coord = destinationCoordinates[key];
+            if ( coord ) {
+                country.places[key] = Object.assign( country.places[key], coord )
+            }
+        });
         const hasNote = !countryNotes[c].includes('n/a');   
         let snippetTotal = country.snippets.length;
         if ( hasNote ) {
@@ -364,12 +374,48 @@ function importBlogs() {
         })
 }
 
+function pullLocations() {
+    const promises = [];
+    Object.keys(json).forEach((countryName) => {
+        // Limit requests at a time.
+        if ( promises.length > 5 ) {
+            return;
+        }
+        const countryDataPath = `public/data/country/${countryName}.json`;
+        const country = JSON.parse( fs.readFileSync(countryDataPath).toString() );
+        const places = Object.keys( country.places );
+        const destination = country.places[places[0]];
+        // no need to pull for this country if already known.
+        if ( destination.lat && destination.lon ) {
+            return;
+        }
+        console.log(`Pulling remote information for country: ${countryName}`);
+        promises.push(
+            fetch( `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=coordinates&titles=${places.join('|')}&formatversion=2&colimit=max` )
+            .then((r) => r.json())
+            .then((json) => {
+                json.query.pages.forEach((page) => {
+                    const c = page.coordinates ? page.coordinates[0] : null;
+                    if ( c ) {
+                        destinationCoordinates[page.title] = {
+                            lat: c.lat,
+                            lon: c.lon
+                        };
+                    }
+                });
+            })
+        );
+    } );
+    return Promise.all(promises);
+}
+
 /**
  * Performs remote updates, pulling new information
  * from known sources like blogs etc...
  */
 function remoteUpdates() {
     return Promise.all( [
+        pullLocations(),
         importBlogs()
     ] );
 }
@@ -377,7 +423,7 @@ function remoteUpdates() {
 /**
  * Updates countries.json file.
  */
-function updateContriesAndSave() {
+function updateCountriesAndSave() {
     console.log('update countries and save');
     updateCountries();
     fs.writeFileSync(
@@ -395,9 +441,9 @@ function updateContriesAndSave() {
 function localUpdates() {
     prepareFromNotes();
     Promise.all( pendingRequests ).then( () => {
-        updateContriesAndSave();
+        updateCountriesAndSave();
     }, () => {
-        updateContriesAndSave();
+        updateCountriesAndSave();
     } );
 }
 
