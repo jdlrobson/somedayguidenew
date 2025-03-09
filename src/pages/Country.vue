@@ -39,6 +39,7 @@ const loadInstagram = () => {
 onUpdated(() => {
     loadInstagram();
 } );
+const mapReady = ref( false );
 onMounted(() => {
     fetch(`/data/country/${countryName}.json`).then((r) => r.json())
         .then(( country ) => {
@@ -53,6 +54,7 @@ onMounted(() => {
                     path: '#'
                 };
             })
+            mapReady.value = true;
             snippets.value = country.snippets;
             loadInstagram();
         })
@@ -77,7 +79,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     </div>
                 </note>
                 <note>
-                    <Map
+                    <Map v-if="mapReady"
                         :places="destinationCoordinates"
                         :center="[ country.lat, country.lon ]" :zoom="country.zoom || 8"></Map>
                 </note>
