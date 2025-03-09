@@ -384,14 +384,14 @@ function pullLocations() {
         const countryDataPath = `public/data/country/${countryName}.json`;
         const country = JSON.parse( fs.readFileSync(countryDataPath).toString() );
         const places = Object.keys( country.places );
-        const destination = country.places[places[0]];
+        const lackingLonLat = places.filter((p) => !country.places[p].lat);
         // no need to pull for this country if already known.
-        if ( destination.lat && destination.lon ) {
+        if ( lackingLonLat.length === 0 ) {
             return;
         }
-        console.log(`Pulling remote information for country: ${countryName}`);
+        console.log(`Pulling remote information for country: ${countryName}, lacking coords for: ${lackingLonLat.join(',')}`);
         promises.push(
-            fetch( `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=coordinates&titles=${places.join('|')}&formatversion=2&colimit=max` )
+            fetch( `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=coordinates&titles=${lackingLonLat.join('|')}&formatversion=2&colimit=max` )
             .then((r) => r.json())
             .then((json) => {
                 json.query.pages.forEach((page) => {
