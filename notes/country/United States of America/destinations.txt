@@ -8,31 +8,18 @@ New York City
 San Francisco
 San Diego
 Seattle
-Denali National Park
-Grand Canyon
-Great Smoky Mountains National Park
-Mesa Verde National Park
-Yellowstone National Park
-Yosemite National Park
 Las Vegas
 Zion National Park
-Mesquite (Nevada)
-Calistoga
-Thousand Islands
 Atlanta
 Savannah
 Honolulu
 Kailua
-Sacramento
 Reno
 Portland, Oregon
 Santa Fe (New Mexico)
 Denver
-Lassen Volcanic National Park
 Anchorage
-Rocky Mountain National Park
 Tucson
-Chattanooga
 Philadelphia
 Indianapolis
 Charlotte
@@ -43,7 +30,6 @@ Phoenix
 Austin
 Asheville
 San Antonio
-Fort Worth
 Salt Lake City
 Little Rock
 Memphis
