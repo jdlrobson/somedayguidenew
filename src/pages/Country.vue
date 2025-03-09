@@ -32,6 +32,7 @@ const places = ref( {} );
 const snippets = ref( {} );
 const note = ref( '' );
 
+const destinationCoordinates = ref( [] );
 const loadInstagram = () => {
     if (window.instgrm) window.instgrm.Embeds.process();
 }
@@ -43,7 +44,15 @@ onMounted(() => {
         .then(( country ) => {
             note.value = country.note;
             places.value = country.places;
-            console.log(country);
+            const placeKeys = Object.keys(country.places);
+            destinationCoordinates.value = placeKeys.filter((p)=>places.value[p].lat).map((title) => {
+                const p = places.value[title];
+                return {
+                    title,
+                    coordinates: [ p.lat, p.lon ],
+                    path: '#'
+                };
+            })
             snippets.value = country.snippets;
             loadInstagram();
         })
@@ -68,7 +77,9 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     </div>
                 </note>
                 <note>
-                    <Map :center="[ country.lat, country.lon ]" :zoom="country.zoom || 8"></Map>
+                    <Map
+                        :places="destinationCoordinates"
+                        :center="[ country.lat, country.lon ]" :zoom="country.zoom || 8"></Map>
                 </note>
                 <note>
                     <h2>Nearby countries</h2>
