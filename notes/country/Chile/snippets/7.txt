@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Salar_de_Atacama.jpg/320px-Salar_de_Atacama.jpg
+Salar de Atacama
+https://en.wikipedia.org/wiki/Salar_de_Atacama#:~:text=Salar%20de%20Atacama%2C%20located%2055,range%20called%20Cordillera%20de%20Domeyko.
+<small>[from en.wikipedia.org]:</small> Salar de Atacama, located 55 km (34 mi) south of San Pedro de Atacama, is the largest salt flat in Chile. It is surrounded by mountains and lacks drainage outlets. To the east, it is enclosed by the main chain of the Andes, while to the west lies a secondary mountain range called Cordillera de Domeyko. The landscape is dominated by imposing volcanoes such as Licancabur, Acamarachi, Aguas Calientes, and Láscar, the latter being one of Chile's most active volcanoes. These volcanoes are situated along the eastern side of the Salar de Atacama, forming a north–south trending line that separates it from smaller endorheic basins.
+<location lat="-23.5" lon="-68.25"></location>

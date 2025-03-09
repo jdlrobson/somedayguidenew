@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Bathsheba is the main fishing village in the parish of Saint Joseph with some 5,000 inhabitants on the east coastline of Barbados. The town has a number of quaint churches; Saint Joseph Anglican Church was built on Horse Hill in the town as early as 1640 but was rebuilt in 1839 following a hurricane in 1831. Little Saint Joseph chapel was built nearby in 1837 but was restored and dedicated to Saint Aiden in 1904 following a landslide. It has a number of attractions including the Flower Forest and Cotton Tower which is renowned for its dramatic scenery and views of Scotland District. The ecologically rich Joe's River Tropical Rainforest is located on the outskirts of the town with some 85 acres (340,000 m2) of woodland and rainforest with giant ficus, citrifolia, fid woods, white woods, cabbage palm trees and mahogany trees. Bathsheba beach is known as the Soup Bowl where local and international surfing competitions take place annually. Another notable feature of Bathsheba beach is the large boulder that sits slightly offshore, known by some as Bathsheba Rock.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bathsheba%2C_Barbados_08.jpg/320px-Bathsheba%2C_Barbados_08.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Bathsheba, Barbados",
+			"url": "https://en.wikipedia.org/wiki/Bathsheba,_Barbados"
+		}
+	],
 	"places": {
 		"Bridgetown": {
 			"climate": [

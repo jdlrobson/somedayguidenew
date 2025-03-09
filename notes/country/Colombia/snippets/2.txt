@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/YAEL_PHOTOS_898.jpg/320px-YAEL_PHOTOS_898.jpg
+Ciudad Perdida
+https://en.wikipedia.org/wiki/Ciudad_Perdida
+<small>[from en.wikipedia.org]:</small> Ciudad Perdida is the archaeological site of an ancient city in the Sierra Nevada de Santa Marta of Colombia, within the jurisdiction of the municipality of Santa Marta. This city is believed to have been founded about 800 AD. If so, Ciudad Perdida predates Machu Picchu by about 650 years.
+<location lat="11.03799722" lon="-73.92519167"></location>

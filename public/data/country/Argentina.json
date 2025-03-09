@@ -8,6 +8,15 @@
 			"embed": true
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> Penitentes, or nieves penitentes, are snow formations found at high altitudes. They take the form of elongated, thin blades of hardened snow or ice, closely spaced and pointing towards the general direction of the sun.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Penitentes_Upper_Rio_Blanco_Argentine.jpg/320px-Penitentes_Upper_Rio_Blanco_Argentine.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Penitente (snow formation)",
+			"url": "https://en.wikipedia.org/wiki/Penitente_(snow_formation)"
+		},
+		{
 			"src": "https://www.instagram.com/p/DELxnoOu-_E",
 			"source": "",
 			"type": "instagram",
@@ -21,6 +30,57 @@
 			"embed": false,
 			"title": "Cueva de las Manos",
 			"url": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos"
+		},
+		{
+			"src": "https://www.instagram.com/p/DEDUx_WR3e2/",
+			"source": "",
+			"type": "instagram",
+			"embed": true
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the heart of the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the border between Argentina and Brazil.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cataratas.jpg/320px-Cataratas.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Iguazu Falls",
+			"url": "https://en.wikipedia.org/wiki/Iguazu_Falls"
+		},
+		{
+			"text": "The Glorieta of  Belgrano is an open-air milonga, held in the charming kiosk in the pretty Barrancas Park in Buenos Aires. It was my place to go dancing on a whim when I wanted to. Fifteen minutes of walk and I was there. What a luxury!The Glorieta is a neighborhood milonga. It is while walking through the alleys of the park that we perceive the kiosk and its blue lights, as well as the sweet melody of the tangos which follow one another. Many of us already know this feeling, that of letting our <small>[image from Malvón Tango]</small>",
+			"src": "https://static.wixstatic.com/media/626f03_8b177353c4c34617be1105140cc36bab~mv2.jpg/v1/fill/w_1000,h_663,al_c,q_85,usm_0.66_1.00_0.01/626f03_8b177353c4c34617be1105140cc36bab~mv2.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The Glorieta of Belgrano, beautiful and mysterious",
+			"url": "https://www.malvontango.com/post/the-glorieta-of-belgrano"
+		},
+		{
+			"text": "Every November is the time of jacaranda trees in bloom, and Buenos Aires gets painted in lavender blue. Jacaranda trees are scattered all around the c <small>[image from www.batravelguide.com]</small>",
+			"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqRn419j9UlN68LBYZKocexgf9SbecCFLnJykt7elNvhVbGQ4Jbhpy8WTDnoDKyhovY6qseqpSvWGSTfdmk0_Ow4iS2JSASbteAdikwmRs7EPBPH5RPJSCT8g68lzKIHbAnVFNKGSWFI/w1200-h630-p-k-no-nu/DSC06169.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "November in Buenos Aires, Jacaranda trees in bloom",
+			"url": "https://www.batravelguide.com/2007/11/november-in-buenos-aires-jacarands-in.html"
+		},
+		{
+			"text": "Discover exclusive wine tours in Mendoza! Taste premium wines, visit top wineries, and enjoy immersive experiences with expert guides. Book your adventure today! <small>[image from Mendoza Wine Camp | Mendoza Wine Camp]</small>",
+			"src": "https://mendozawinecamp.com/wp-content/uploads/2024/11/mendoza-wine-camp-social.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Mendoza Wine Camp | Exclusive Wine Tours in Argentina",
+			"url": "https://mendozawinecamp.com/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Perito Moreno, Francisco Gormaz or Bismarck Glacier is a glacier located in Los Glaciares National Park in southwest Santa Cruz Province, Argentina, and originated in the Magallanes Region in Chile, being also part of the Bernardo O'Higgins National Park. It is one of the most important tourist attractions in the Argentine Patagonia.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Perito_Moreno_Glacier_2023.jpg/320px-Perito_Moreno_Glacier_2023.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Perito Moreno Glacier",
+			"url": "https://en.wikipedia.org/wiki/Perito_Moreno_Glacier"
 		}
 	],
 	"places": {

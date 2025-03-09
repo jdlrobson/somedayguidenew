@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg/320px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg
+Valparaíso
+https://en.wikipedia.org/wiki/Valpara%C3%ADso
+<small>[from en.wikipedia.org]:</small> Valparaíso is a major city, commune, seaport and naval base facility in Valparaíso Region, Chile.
+<location lat="-33.04611111" lon="-71.61972222"></location>

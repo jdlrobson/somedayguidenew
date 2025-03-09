@@ -68,6 +68,24 @@
 			"embed": true
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the heart of the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the border between Argentina and Brazil.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cataratas.jpg/320px-Cataratas.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Iguazu Falls",
+			"url": "https://en.wikipedia.org/wiki/Iguazu_Falls"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Pantanal is a natural region encompassing the world's largest tropical wetland area, and the world's largest flooded grasslands. It is located mostly within the Brazilian state of Mato Grosso do Sul, but it extends into Mato Grosso and portions of Bolivia and Paraguay. It sprawls over an area estimated at between 140,000 and 195,000 km2. Various subregional ecosystems exist, each with distinct hydrological, geological, and ecological characteristics; up to 12 of them have been defined.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pantanal%2C_south-central_South_America_5170.jpg/320px-Pantanal%2C_south-central_South_America_5170.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Pantanal",
+			"url": "https://en.wikipedia.org/wiki/Pantanal"
+		},
+		{
 			"src": "https://www.instagram.com/p/yz9m2ls2JS/",
 			"source": "",
 			"type": "instagram",

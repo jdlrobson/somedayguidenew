@@ -2,22 +2,49 @@
 	"note": "<p>If you like hot sauce, here is the home of Marie Sharp&#39;s hot sauce.By the bus stop grab some of Belize&#39;s best salbutes so plan for lunch!If you like hot sauce, here is the home of Marie Sharp&#39;s hot sauce.By the bus stop grab some of Belize&#39;s best salbutes so plan for lunch!</p>\n",
 	"snippets": [
 		{
-			"text": "To get to **Tobacco Caye** via Riverside Cafe here (US$15) show up at 9am for the 45 minute ride. **Hopkins**, a tiny fishing village off the beaten track is also nearby.",
+			"text": "To get to **Tobacco Caye** via Riverside Cafe here (US$15) show up at 9am for the 45 minute ride. **Hopkins**, a tiny fishing village off the beaten track is also nearby. There is not much to do here except eat meals at the hotel and play beach volleyball.",
 			"src": "",
 			"source": "",
 			"type": "url",
 			"embed": false,
 			"title": "Tobacco Caye",
-			"url": "-"
+			"url": "https://www.tobaccocaye.com/"
 		},
 		{
 			"text": "Best cave experience I ever had.",
-			"src": "",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Actun_Tunichil_Muknal.jpg/320px-Actun_Tunichil_Muknal.jpg",
 			"source": "",
 			"type": "url",
 			"embed": false,
-			"title": "ATM Cave",
-			"url": "https://belizing.com/ATM-Cave-Belize/"
+			"title": "Actun Tunichil Muknal",
+			"url": "https://en.wikipedia.org/wiki/Actun_Tunichil_Muknal"
+		},
+		{
+			"text": "This is probably the trip that got me into birding back in 2011 before iNaturalist was a thing.  <small>[image from Flickr]</small>",
+			"src": "https://live.staticflickr.com/5255/5557835211_e36eabdfd6_b.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lamanai Temple Wildlife River Cruise",
+			"url": "https://www.flickr.com/photos/jdlrobson/5557835211/in/dateposted-public/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Cockscomb Basin Wildlife Sanctuary is a nature reserve in the Stann Creek District of south-central Belize. It was established to protect the forests, fauna and watersheds of an approximately 400 square kilometres (150 sq mi) area of the eastern slopes of the Maya Mountains.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CB_Upper_Falls.png/320px-CB_Upper_Falls.png",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Cockscomb Basin Wildlife Sanctuary",
+			"url": "https://en.wikipedia.org/wiki/Cockscomb_Basin_Wildlife_Sanctuary"
+		},
+		{
+			"text": "Learn more about this beautiful spot in Belize, how to get there (with geo-tracking data) and how to take your perfect picture of this place with our photo tips. <small>[image from Locationscout.net]</small>",
+			"src": "https://images.locationscout.net/2023/07/jaguar-reserve-plane-crash-belize-amcq.jpg?w=1080&q=60",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Jaguar Reserve Plane Crash, Belize",
+			"url": "https://www.locationscout.net/belize/45578-jaguar-reserve-plane-crash"
 		}
 	],
 	"places": {

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_01-02_HDR.JPG/320px-G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_01-02_HDR.JPG
+El Tatio
+https://en.wikipedia.org/wiki/El_Tatio
+<small>[from en.wikipedia.org]:</small> El Tatio is a geothermal field with many geysers located in the Andes Mountains of northern Chile at 4,320 metres (14,170 ft) above mean sea level. It is the third-largest geyser field in the world and the largest in the Southern Hemisphere. Various meanings have been proposed for the name "El Tatio", including "oven" or "grandfather". The geothermal field has many geysers, hot springs, and associated sinter deposits. These hot springs eventually form the Rio Salado, a major tributary of the Rio Loa, and are a major source of arsenic pollution in the river. The vents are sites of populations of extremophile microorganisms such as hyperthermophiles, and El Tatio has been studied as an analogue for the early Earth and possible past life on Mars.
+<location lat="-22.33138889" lon="-68.01027778"></location>

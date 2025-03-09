@@ -85,7 +85,9 @@
 					"low": -4.7,
 					"precipitation": 21.6
 				}
-			]
+			],
+			"lat": 34.52527778,
+			"lon": 69.17833333
 		},
 		"Bamiyan": {
 			"climate": [
@@ -237,7 +239,9 @@
 					"low": -6.6,
 					"precipitation": 25.8
 				}
-			]
+			],
+			"lat": 33.54916667,
+			"lon": 68.42333333
 		},
 		"Herat": {
 			"climate": [
@@ -313,7 +317,9 @@
 					"low": -1.4,
 					"precipitation": 35.8
 				}
-			]
+			],
+			"lat": 34.34194444,
+			"lon": 62.20305556
 		},
 		"Jalalabad": {
 			"climate": [
@@ -389,7 +395,9 @@
 					"low": 3.5,
 					"precipitation": 12.1
 				}
-			]
+			],
+			"lat": 34.43416667,
+			"lon": 70.44777778
 		},
 		"Kandahar": {
 			"climate": [
@@ -465,7 +473,9 @@
 					"low": 1,
 					"precipitation": 20
 				}
-			]
+			],
+			"lat": 31.62,
+			"lon": 65.71583333
 		},
 		"Kunduz": {
 			"climate": [
@@ -541,7 +551,9 @@
 					"low": 0,
 					"precipitation": 28.4
 				}
-			]
+			],
+			"lat": 36.72861111,
+			"lon": 68.86805556
 		},
 		"Mazar-e Sharif": {
 			"climate": [
@@ -693,7 +705,9 @@
 					"high": -5,
 					"low": -17
 				}
-			]
+			],
+			"lat": 34.83972222,
+			"lon": 67.23083333
 		}
 	}
 }

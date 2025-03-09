@@ -415,7 +415,7 @@
 				"Spanish"
 			]
 		},
-		"snippets": 3,
+		"snippets": 10,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:El_Faro_de_C%C3%B3rdoba.jpg"
 	},
@@ -908,7 +908,7 @@
 			],
 			"currency": "BBD"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:ABC_Highway_at_BET_Hill%2C_Barbados_%282000%29.jpg"
 	},
@@ -1175,7 +1175,7 @@
 			],
 			"currency": "BZD"
 		},
-		"snippets": 3,
+		"snippets": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Altunha.jpg"
 	},
 	"Benin": {
@@ -1336,7 +1336,7 @@
 				"Guarani"
 			]
 		},
-		"snippets": 12,
+		"snippets": 14,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vista_Posterior_de_la_Puerta_del_Sol.jpg"
 	},
@@ -1526,8 +1526,7 @@
 			"Suriname",
 			"Uruguay",
 			"Venezuela",
-			"Colombia",
-			"France"
+			"Colombia"
 		],
 		"commons": "Brazil",
 		"info": {
@@ -1539,7 +1538,7 @@
 			],
 			"currency": "BRL"
 		},
-		"snippets": 19,
+		"snippets": 21,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Igua%C3%A7u_falls1_11-11-13.JPG"
 	},
@@ -2015,7 +2014,7 @@
 			],
 			"currency": "CAD"
 		},
-		"snippets": 3,
+		"snippets": 11,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:False_Creek_morning.jpg"
 	},
 	"Cape Verde": {
@@ -2198,7 +2197,7 @@
 				"Spanish"
 			]
 		},
-		"snippets": 2,
+		"snippets": 10,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg"
 	},
@@ -2312,7 +2311,7 @@
 			],
 			"currency": "CNY"
 		},
-		"snippets": 39,
+		"snippets": 40,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG"
 	},
@@ -2409,7 +2408,7 @@
 			],
 			"currency": "COP"
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Nevado_del_Ruiz_Valle_de_los_muertos.JPG"
 	},
@@ -4303,9 +4302,7 @@
 			"Italy",
 			"Monaco",
 			"Brazil",
-			"Suriname",
-			"United Kingdom",
-			"Venezuela"
+			"Suriname"
 		],
 		"commons": "France",
 		"info": {
@@ -11300,7 +11297,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Albarkal_Mountain_%2C_Northern_sudan%2C.JPG"
 	},
 	"Suriname": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_c_c1_Upper-Suriname_river_(33496731746)_jpg_2880px-Upper-Suriname_river_(33496731746).jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c1_Upper-Suriname_river_(33496731746)_jpg_2880px-Upper-Suriname_river_(33496731746).jpg",
 		"lat": 4,
 		"lon": -56,
 		"title": "Suriname",
@@ -12140,7 +12137,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Central_Asia_100.jpg"
 	},
 	"Tuvalu": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_b_b3_Funafuti_Plage_w_jpg_2560px-Funafuti_Plage_w.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b3_Funafuti_Plage_w_jpg_2560px-Funafuti_Plage_w.jpg",
 		"lat": -8.5167,
 		"lon": 179.2167,
 		"title": "Tuvalu",
@@ -12177,7 +12174,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Funafuti_Plage_w.jpg"
 	},
 	"Uganda": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_5_59_Lions_in_tree_uganda_Queen_eliznp_jpg_600px-Lions_in_tree_uganda_Queen_eliznp.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_59_Lions_in_tree_uganda_Queen_eliznp_jpg_600px-Lions_in_tree_uganda_Queen_eliznp.jpg",
 		"lat": 1.28,
 		"lon": 32.39,
 		"title": "Uganda",
@@ -12307,7 +12304,7 @@
 	},
 	"United Arab Emirates": {
 		"seenL": 7,
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_1_14_Hotel_-_panoramio_(24)_jpg_2560px-Hotel_-_panoramio_(24).jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_14_Hotel_-_panoramio_(24)_jpg_2560px-Hotel_-_panoramio_(24).jpg",
 		"lat": 24.4,
 		"lon": 54.3,
 		"title": "United Arab Emirates",
@@ -12353,7 +12350,7 @@
 		"zoom": 4,
 		"seen": 1,
 		"seenL": 14,
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_9_91_Edinburgh__View_from_Calton_Hill_jpg_440px-Edinburgh__View_from_Calton_Hill.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_91_Edinburgh__View_from_Calton_Hill_jpg_440px-Edinburgh__View_from_Calton_Hill.jpg",
 		"lat": 54.6,
 		"lon": -2,
 		"title": "United Kingdom",
@@ -12451,8 +12448,7 @@
 		"neighbors": [
 			"Ireland",
 			"France",
-			"Denmark",
-			"Venezuela"
+			"Denmark"
 		],
 		"commons": "United Kingdom",
 		"info": {
@@ -12470,7 +12466,7 @@
 		"zoom": 3,
 		"seen": 6,
 		"seenL": 8,
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_a_af_WhiteHouseSouthFacade_JPG_500px-WhiteHouseSouthFacade.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_af_WhiteHouseSouthFacade_JPG_500px-WhiteHouseSouthFacade.JPG",
 		"lat": 45,
 		"lon": -104,
 		"title": "United States of America",
@@ -12655,7 +12651,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG"
 	},
 	"Uruguay": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_b_b9_Uruguay_(5886752274)_jpg_2560px-Uruguay_(5886752274).jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b9_Uruguay_(5886752274)_jpg_2560px-Uruguay_(5886752274).jpg",
 		"lat": -32.8833,
 		"lon": -56.1667,
 		"title": "Uruguay",
@@ -12729,7 +12725,7 @@
 	},
 	"Uzbekistan": {
 		"zoom": 5,
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_3_39_Kalon-Ensemble_Buchara_jpg_440px-Kalon-Ensemble_Buchara.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_39_Kalon-Ensemble_Buchara_jpg_440px-Kalon-Ensemble_Buchara.jpg",
 		"lat": 41,
 		"lon": 66,
 		"title": "Uzbekistan",
@@ -12776,7 +12772,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kalon-Ensemble_Buchara.jpg"
 	},
 	"Vanuatu": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_5_56_Malakula_funeral_masks_jpg_440px-Malakula_funeral_masks.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_56_Malakula_funeral_masks_jpg_440px-Malakula_funeral_masks.jpg",
 		"lat": -16.7,
 		"lon": 168.4,
 		"title": "Vanuatu",
@@ -12815,7 +12811,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Malakula_funeral_masks.jpg"
 	},
 	"Venezuela": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_e_ea_Salto_Angel_desde_la_curiara_jpg_440px-Salto_Angel_desde_la_curiara.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_ea_Salto_Angel_desde_la_curiara_jpg_440px-Salto_Angel_desde_la_curiara.jpg",
 		"lat": 8,
 		"lon": -67,
 		"title": "Venezuela",
@@ -12864,9 +12860,7 @@
 			"Dominica",
 			"Saint Lucia",
 			"Saint Vincent and the Grenadines",
-			"Grenada",
-			"France",
-			"United Kingdom"
+			"Grenada"
 		],
 		"commons": "Venezuela",
 		"info": {
@@ -12885,7 +12879,7 @@
 		"zoom": 4,
 		"seen": 14,
 		"seenL": 5,
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_f_fe_Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01_jpg_440px-Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fe_Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01_jpg_440px-Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg",
 		"lat": 16,
 		"lon": 108,
 		"title": "Vietnam",
@@ -12958,7 +12952,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg"
 	},
 	"Yemen": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_3_31_Shaharah_bridge_jpg_440px-Shaharah_bridge.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_31_Shaharah_bridge_jpg_440px-Shaharah_bridge.jpg",
 		"lat": 15.5,
 		"lon": 48,
 		"title": "Yemen",
@@ -12996,7 +12990,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Shaharah_bridge.jpg"
 	},
 	"Zambia": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_thumb_9_95_Mfuwe_Downtown_JPG_480px-Mfuwe_Downtown.JPG",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_95_Mfuwe_Downtown_JPG_480px-Mfuwe_Downtown.JPG",
 		"lat": -14,
 		"lon": 28,
 		"title": "Zambia",
@@ -13058,7 +13052,7 @@
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mfuwe_Downtown.JPG"
 	},
 	"Zimbabwe": {
-		"thumbnail": "images/upload_wikimedia_org_wikipedia_commons_c_c1_Lion-hwange.jpg",
+		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_c_c1_Lion-hwange.jpg",
 		"lat": -19,
 		"lon": 30,
 		"title": "Zimbabwe",

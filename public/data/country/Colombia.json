@@ -1,6 +1,43 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Tayrona National Natural Park is a protected area in the Colombian northern Caribbean region and within the jurisdiction of the city of Santa Marta, 34 kilometres (21 mi) from the city centre. The park presents a biodiversity endemic to the area of the Sierra Nevada de Santa Marta mountain range, featuring a variety of climates and geography that ranges from arid sea level to 900 meters above sea level. The park covers approximately 30 square kilometres (12 sq mi) of maritime area in the Caribbean Sea and approximately 150 square kilometres (58 sq mi) of land.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Arrecifes.jpg/320px-Arrecifes.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Tayrona National Natural Park",
+			"url": "https://en.wikipedia.org/wiki/Tayrona_National_Natural_Park"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Ciudad Perdida is the archaeological site of an ancient city in the Sierra Nevada de Santa Marta of Colombia, within the jurisdiction of the municipality of Santa Marta. This city is believed to have been founded about 800 AD. If so, Ciudad Perdida predates Machu Picchu by about 650 years.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/YAEL_PHOTOS_898.jpg/320px-YAEL_PHOTOS_898.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Ciudad Perdida",
+			"url": "https://en.wikipedia.org/wiki/Ciudad_Perdida"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Cali Fair is a cultural event held in Cali, Colombia from December 25 to December 30. It is a celebration of the region's cultural identity, famous for the Salsa marathon, horse riding parades and dance parties.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sals%C3%B3dromo%2C_Feria_de_Cali%2C_Colombia.JPG/320px-Sals%C3%B3dromo%2C_Feria_de_Cali%2C_Colombia.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Cali Fair",
+			"url": "https://en.wikipedia.org/wiki/Cali_Fair"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Cartagena, known since the colonial era as Cartagena de Indias, is a city and one of the major ports on the northern coast of Colombia in the Caribbean Coast Region, along the Caribbean Sea. Cartagena's past role as a link in the route to the West Indies provides it with important historical value for world exploration and preservation of heritage from the great commercial maritime routes. As a former Spanish colony, it was a key port for the export of Bolivian silver to Spain and for the import of enslaved Africans under the asiento system. It was defensible against pirate attacks in the Caribbean. The city's strategic location between the Magdalena and Sinú rivers also gave it easy access to the interior of New Granada and made it a main port for trade between Spain and its overseas empire, establishing its importance by the early 1540s.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Montaje_Cartagena%2C_Colombia.jpg/320px-Montaje_Cartagena%2C_Colombia.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Cartagena, Colombia",
+			"url": "https://en.wikipedia.org/wiki/Cartagena,_Colombia"
+		}
+	],
 	"places": {
 		"Bogotá": {
 			"climate": [

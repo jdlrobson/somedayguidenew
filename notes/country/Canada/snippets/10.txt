@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Western_Brook_Pond.JPG/320px-Western_Brook_Pond.JPG
+Western Brook Pond
+https://en.wikipedia.org/wiki/Western_Brook_Pond
+<small>[from en.wikipedia.org]:</small> Western Brook Pond is a Canadian fjord or lake located in Gros Morne National Park on the west coast of the island of Newfoundland. It is in the Long Range Mountains, the most northern section of the Appalachian Mountains.
+<location lat="49.76888889" lon="-57.82055556"></location>

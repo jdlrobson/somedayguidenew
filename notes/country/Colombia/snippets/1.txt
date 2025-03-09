@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Arrecifes.jpg/320px-Arrecifes.jpg
+Tayrona National Natural Park
+https://en.wikipedia.org/wiki/Tayrona_National_Natural_Park
+<small>[from en.wikipedia.org]:</small> The Tayrona National Natural Park is a protected area in the Colombian northern Caribbean region and within the jurisdiction of the city of Santa Marta, 34 kilometres (21 mi) from the city centre. The park presents a biodiversity endemic to the area of the Sierra Nevada de Santa Marta mountain range, featuring a variety of climates and geography that ranges from arid sea level to 900 meters above sea level. The park covers approximately 30 square kilometres (12 sq mi) of maritime area in the Caribbean Sea and approximately 150 square kilometres (58 sq mi) of land.
+<location lat="11.26666667" lon="-74.05"></location>

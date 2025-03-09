@@ -76,7 +76,9 @@
 					"low": 23.5,
 					"precipitation": 31
 				}
-			]
+			],
+			"lat": -8.83833333,
+			"lon": 13.23444444
 		},
 		"Benguela": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"high": 37,
 					"low": 22
 				}
-			]
+			],
+			"lat": -12.55,
+			"lon": 13.41666667
 		},
 		"Cabinda (city)": {
 			"climate": [
@@ -228,7 +232,9 @@
 					"high": 23,
 					"low": 20
 				}
-			]
+			],
+			"lat": -5.56,
+			"lon": 12.19
 		},
 		"Huambo": {
 			"climate": [
@@ -304,7 +310,9 @@
 					"low": 14.3,
 					"precipitation": 234
 				}
-			]
+			],
+			"lat": -12.77666667,
+			"lon": 15.73472222
 		},
 		"Lobito": {
 			"climate": [
@@ -380,7 +388,9 @@
 					"low": 22.2,
 					"precipitation": 61
 				}
-			]
+			],
+			"lat": -12.35,
+			"lon": 13.54638889
 		},
 		"M'banza-Kongo": {
 			"climate": [
@@ -456,7 +466,9 @@
 					"low": 20.1,
 					"precipitation": 183
 				}
-			]
+			],
+			"lat": -6.26777778,
+			"lon": 14.24805556
 		}
 	}
 }
