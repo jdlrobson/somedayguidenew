@@ -104,7 +104,7 @@ const filterByName = ( ev ) => {
         </Header>
         <article>
             <note :isSmall="true">
-                <p>This website is a digital scrapbook meant to inspire exploring the world. It is made with love by <a href="https://jdlrobson.com">Jon</a> and <a href="https://linzlim.fyi">Linzy</a>.</p>
+                <p>This website is a digital scrapbook meant to inspire exploring the world. The list of countries is limited to <a href="https://www.un.org/en/about-us/member-states#gotoV">UN recognized states</a>. It is made with love by <a href="https://jdlrobson.com">Jon</a> and <a href="https://linzlim.fyi">Linzy</a>.</p>
                 <p>Where shall we dream about today?</p>
                 <div>
                     <span>filter by</span>
