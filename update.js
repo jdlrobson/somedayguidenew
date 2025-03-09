@@ -27,7 +27,7 @@ function expandWikimediaSnippet( filePath, wikiTitle, host ) {
         .then((json) => {
             const src = json.thumbnail ? json.thumbnail.source : null;
             saveSnippet(filePath, json.titles.normalized,
-                `https://${host}/wiki/${wikiTitle}`, src, `<small>[from ${host}]:</small> ${json.extract}` );
+                `https://${host}/wiki/${wikiTitle}`, src, `<small>[from ${host}]:</small> ${json.extract}`, json.coordinates );
         });
 }
 
@@ -174,14 +174,16 @@ function transformSnippet( filePath ) {
  * @param {string} url of the snippet
  * @param {string} [imageSrc] of the snippet
  * @param {string} [description] of the snippet
+ * @param {null|object} [coords] of the snippet
  * @return {void}
  */
-function saveSnippet( snippetPath, title, url, imageSrc = '', description = '' ) {
+function saveSnippet( snippetPath, title, url, imageSrc = '', description = '', coords = null ) {
+    const coordString = coords ? `<location lat="${coords.lat}" lon="${coords.lon}"></location>` : '';
     const text = `${imageSrc}
 ${title}
 ${url}
 ${description}
-`
+${coordString}`
     fs.writeFileSync( snippetPath, text );
 }
 
