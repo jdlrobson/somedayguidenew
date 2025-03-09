@@ -155,6 +155,7 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
 }
 .postit:hover .postit-text {
   border: 0;
+  font-size: 0.6rem;
 }
 .postit-text {
   z-index: 2;
@@ -165,11 +166,18 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   width: 100%;
   opacity: 0.8;
   border: solid 5px transparent;
+  transition: font-size 100ms ease-in-out;
 }
 .postit-text span {
   background: black;
-    color: white;
-    padding: 8px;
+  color: white;
+  padding: 8px;
+  max-height: 270px;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  margin-bottom: -10px;
+  overflow: hidden;
 }
 .postit .thumbSource {
   bottom: 0;
