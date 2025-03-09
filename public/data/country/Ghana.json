@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "This brief history of fabrics in Ghana gives insight into the intricate artistry, cultural significance, and timeless beauty of this craft. <small>[image from Albion Gould]</small>",
+			"src": "https://albiongould.com/wp-content/uploads/2024/08/Untitled-design.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "A Brief History of Fabrics in Ghana",
+			"url": "https://albiongould.com/a-brief-history-of-fabrics-in-ghana/"
+		}
+	],
 	"places": {
 		"Accra": {
 			"climate": [

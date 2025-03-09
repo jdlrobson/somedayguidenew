@@ -1,6 +1,43 @@
 {
 	"note": "<p>Jon has been to Cairo but hasn&#39;t got round to sharing anything... someday!</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Deir el-Bahari or Dayr al-Bahri is a complex of mortuary temples and tombs located on the west bank of the Nile, opposite the city of Luxor, Egypt. This is a part of the Theban Necropolis.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tempel_der_Hatschepsut_%28Deir_el-Bahari%29.jpg/320px-Tempel_der_Hatschepsut_%28Deir_el-Bahari%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Deir el-Bahari",
+			"url": "https://en.wikipedia.org/wiki/Deir_el-Bahari"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I in the Middle Kingdom and continued into the Ptolemaic Kingdom, although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet-isut and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes, and in 1979 it was added to the UNESCO World Heritage List along with the rest of the city. Karnak gets its name from the nearby, and partly surrounded, modern village of El-Karnak, 2.5 kilometres north of Luxor.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/320px-Temple_de_Louxor_68.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Karnak",
+			"url": "https://en.wikipedia.org/wiki/Karnak"
+		},
+		{
+			"text": "Part palace, part eco retreat, this iconic resort in Luxor promises many more reasons to visit with a brand-new expansion <small>[image from AD Middle East]</small>",
+			"src": "https://media.admiddleeast.com/photos/66bc4ba479f3fe3f3ab880ae/16:9/w_1280,c_limit/DSCF4103.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Paradise Found: Al Moudira Hotel, One of Egypt’s Best-Kept Secrets, Enters a New Chapter",
+			"url": "https://www.admiddleeast.com/story/paradise-found-al-moudira-hotel-one-of-egypts-best-kept-secrets-enters-a-new-chapter"
+		},
+		{
+			"text": "After living in Saudi Arabia for years, we're here to show you the best kept secret in the Middle East - The Red Sea is one of the best places in the world for snorkeling and diving - come see why! <small>[image from Adventure Travel Family]</small>",
+			"src": "https://adventuretravelfamily.com/wp-content/uploads/2023/03/Swamp-Canyon-Sheep-Trail-12.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The Ultimate Guide To Red Sea Snorkeling: Saudi, Egypt, Jordan and Israel - Adventure Travel Family",
+			"url": "https://adventuretravelfamily.com/you-havent-been-snorkeling-until-youve-been-in-the-red-sea/"
+		}
+	],
 	"places": {
 		"Cairo": {
 			"climate": [

@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": " <small>[image from commons.wikimedia.org]</small>",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mauritius_%C3%8Ele_aux_Cerfs.jpg/640px-Mauritius_%C3%8Ele_aux_Cerfs.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "File:Mauritius Île aux Cerfs.jpg - Wikimedia Commons",
+			"url": "https://commons.wikimedia.org/wiki/File:Mauritius_%C3%8Ele_aux_Cerfs.jpg"
+		}
+	],
 	"places": {
 		"Port Louis": {
 			"climate": [

@@ -36,6 +36,33 @@
 			"source": "",
 			"type": "instagram",
 			"embed": true
+		},
+		{
+			"text": "The prehistoric heritage of Morocco is primarily found in the Draa Valley, with numerous sites of rock engravings. <small>[image from Southeast-morocco.com]</small>",
+			"src": "https://southeast-morocco.com/wp-content/uploads/2024/03/tete-rupestre.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The rock heritage of Southeastern Morocco",
+			"url": "https://southeast-morocco.com/the-rock-heritage-of-southeastern-morocco/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Fez Festival of World Sacred Music is an annual music festival that is held for a week in Fez, Morocco. It was first held in 1994 and usually held over 10 days in early June. The festival includes concerts, debates, and joint performances of Muslim and Christian devotional music from artists from all over the world.",
+			"src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Sacredmusic.jpg/320px-Sacredmusic.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Fez Festival of World Sacred Music",
+			"url": "https://en.wikipedia.org/wiki/Fez_Festival_of_World_Sacred_Music"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Atlas Mountains are a mountain range in the Maghreb in North Africa. It separates the Sahara Desert from the Mediterranean Sea and the Atlantic Ocean; the name \"Atlantic\" is derived from the mountain range, which stretches around 2,500 km (1,600 mi) through Morocco, Algeria and Tunisia. The range's highest peak is Toubkal, which is in central Morocco, with an elevation of 4,167 metres (13,671 ft). The Atlas Mountains are primarily inhabited by Berber populations.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AtlasOasis.jpg/450px-AtlasOasis.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Atlas Mountains",
+			"url": "https://en.wikipedia.org/wiki/Atlas_Mountains"
 		}
 	],
 	"places": {

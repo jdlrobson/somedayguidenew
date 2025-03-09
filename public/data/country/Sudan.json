@@ -1,6 +1,42 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D.  ... <small>[image from whc.unesco.org]</small>",
+			"src": "https://whc.unesco.org/uploads/thumbs/site_1336_0004-1200-630-20221125095708.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Archaeological Sites of the Island of Meroe",
+			"url": "https://whc.unesco.org/en/list/1336/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Western Deffufa, located in pre historic city of Kerma, Sudan, is a temple dating back to circa 1750 BC. It is considered the oldest man made structure in Sub-Saharan Africa. Rising about 65 feet high, it was built entirely from sun-dried mudbricks. Inside, the structure consists of a series of chambers and courtyards, thought to have been used for religious activities, rituals, and ceremonies central to the Kerma civilization. The word \"Deffufa\" comes from the Nubian language, referring to buildings made of mudbrick, which were common Kerma’s architectural style.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Western_Deffufa_-_Kerma.jpg/320px-Western_Deffufa_-_Kerma.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Western Deffufa",
+			"url": "https://en.wikipedia.org/wiki/Western_Deffufa"
+		},
+		{
+			"text": "The Archaeological Mission to Musawwarat",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The Lion Temple",
+			"url": "https://www.musawwarat.com/about-musawwarat/the-lion-temple/"
+		},
+		{
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Saudi Aramco World : Riding the Forty Days' Road",
+			"url": "https://archive.aramcoworld.com/issue/199705/riding.the.forty.days.road.htm#:~:text=The%20historic%20Forty%20Days'%20Road,back%20at%20least%20700%20years."
+		}
+	],
 	"places": {
 		"Khartoum": {
 			"climate": [

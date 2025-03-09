@@ -1,6 +1,22 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikivoyage.org]:</small> ",
+			"src": "null",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Majete Wildlife Reserve",
+			"url": "https://en.wikivoyage.org/wiki/Majete_Wildlife_Reserve"
+		},
+		{
+			"src": "https://www.instagram.com/p/Bv6GOevAW47/",
+			"source": "",
+			"type": "instagram",
+			"embed": true
+		}
+	],
 	"places": {
 		"Lilongwe": {
 			"climate": [
