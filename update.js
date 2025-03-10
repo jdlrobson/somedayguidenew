@@ -321,7 +321,13 @@ function updateCountries() {
         if ( !country.places ) {
             country.places = {};
         }
+
+        const destinations = json[c].destinations || [];
         Object.keys(country.places).forEach((key) => {
+            if ( !destinations.includes(key) ) {
+                // @todo: delete once worked out how to merge places.
+                console.log(`${key} is an unknown destination`);
+            }
             const coord = destinationCoordinates[key];
             if ( coord ) {
                 country.places[key] = Object.assign( country.places[key], coord )
@@ -387,6 +393,11 @@ function pullLocations() {
         const lackingLonLat = places.filter((p) => !country.places[p].lat);
         // no need to pull for this country if already known.
         if ( lackingLonLat.length === 0 ) {
+            return;
+        }
+        // @Todo: remove block when all countries have been pulled.
+        if ( lackingLonLat.length !== places.length ) {
+            // we'll do this later.
             return;
         }
         console.log(`Pulling remote information for country: ${countryName}, lacking coords for: ${lackingLonLat.join(',')}`);
