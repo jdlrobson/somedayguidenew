@@ -13,8 +13,11 @@ const props = defineProps({
   text: String,
   style: String
 })
+const hasImage = !props.embed && props.thumbnail;
 const className = {
   postit: true,
+  postitImage: hasImage,
+  postitNoImage: !hasImage,
   postitLarge: props.big,
   postitEmbedInstagram: props.embed && ( props.thumbnail || '' ).includes( 'instagram.com') ,
   postitWithNote: props.text
@@ -54,7 +57,7 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   <div :class="className" :style="style">
     <Thumbtack></Thumbtack>
     <h2 v-if="title">{{ title }}</h2>
-    <img v-if="!embed && thumbnail" :src="thumbnail" loading="lazy">
+    <img v-if="hasImage" :src="thumbnail" loading="lazy">
     <div class="postit-text" v-if="text">
       <span v-html="text"></span>
     </div>
@@ -153,7 +156,7 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   width: 40px;
   height: 40px;
 }
-.postit:hover .postit-text {
+.postitImage:hover .postit-text {
   border: 0;
   font-size: 0.6rem;
 }
@@ -166,18 +169,26 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   width: 100%;
   opacity: 0.8;
   border: solid 5px transparent;
-  transition: font-size 100ms ease-in-out;
+}
+.postitNoImage .postit-text {
+  align-items: center;
 }
 .postit-text span {
   background: black;
   color: white;
   padding: 8px;
-  max-height: 270px;
   -webkit-box-orient: vertical;
+}
+.postitImage .postit-text span {
   display: -webkit-box;
+  max-height: 270px;
   -webkit-line-clamp: 7;
   margin-bottom: -10px;
   overflow: hidden;
+  transition: font-size 100ms ease-in-out;
+}
+.postitNoImage .postit-text span {
+  max-height: none;
 }
 .postit .thumbSource {
   bottom: 0;
