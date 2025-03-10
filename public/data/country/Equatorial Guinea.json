@@ -76,7 +76,9 @@
 					"low": 22.7,
 					"precipitation": 39.6
 				}
-			]
+			],
+			"lat": 3.74555556,
+			"lon": 8.77444444
 		},
 		"Bata": {
 			"climate": [

@@ -76,7 +76,9 @@
 					"low": 17.5,
 					"precipitation": 9
 				}
-			]
+			],
+			"lat": 13.69888889,
+			"lon": -89.19138889
 		},
 		"Santa Ana (El Salvador)": {
 			"climate": [
