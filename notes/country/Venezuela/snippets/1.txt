@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Catatumbo_Lightning_%28141677107%29.jpeg/320px-Catatumbo_Lightning_%28141677107%29.jpeg
+Catatumbo lightning
+https://en.wikipedia.org/wiki/Catatumbo_lightning
+<small>[from en.wikipedia.org]:</small> Catatumbo lightning is an atmospheric phenomenon that occurs over the mouth of the Catatumbo River where it empties into Lake Maracaibo in Venezuela. Catatumbo means "House of Thunder" in the language of the Bari people. It originates from a mass of storm clouds at an altitude of more than 1 km (0.6 mi), and occurs for 140 to 160 nights a year, nine hours per day, and with lightning flashes from 16 to 40 times per minute. It occurs over and around Lake Maracaibo, typically over a bog area formed where the Catatumbo River flows into the lake. The phenomenon sees the highest density of lightning in the world, at 250 per km2. In summers, the phenomenon may even occur as dry lightning without rainfall.
+<location lat="9.34416667" lon="-71.71055556"></location>

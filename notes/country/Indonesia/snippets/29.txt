@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lake_Batur_%26_Mount_Abang_2013-11-10_%2810849153196%29.jpg/320px-Lake_Batur_%26_Mount_Abang_2013-11-10_%2810849153196%29.jpg
+Lake Batur
+https://en.wikipedia.org/wiki/Lake_Batur
+<small>[from en.wikipedia.org]:</small> Lake Batur is a volcanic crater lake in Kintamani, Bali, Bangli Regency of Bali, located about 30 km (19 mi) northeast of Ubud in Bali. The lake is inside of the caldera of an active volcano, Mount Batur, located along the Ring of Fire of volcanic activity.
+<location lat="-8.25833333" lon="115.40833333"></location>

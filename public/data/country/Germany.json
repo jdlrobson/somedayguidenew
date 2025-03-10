@@ -24,6 +24,15 @@
 			"source": "",
 			"type": "instagram",
 			"embed": true
+		},
+		{
+			"text": "RIP artists. <small>[image from Flickr]</small>",
+			"src": "https://live.staticflickr.com/7077/7340690924_5acbc1ddca_b.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Kunsthaus Tacheles, Berlin",
+			"url": "https://www.flickr.com/photos/jdlrobson/7340690924/in/dateposted-public/"
 		}
 	],
 	"places": {

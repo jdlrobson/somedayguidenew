@@ -122,7 +122,9 @@
 					"high": 28,
 					"low": 19
 				}
-			]
+			],
+			"lat": 17.25222222,
+			"lon": -88.76388889
 		},
 		"Belize City": {
 			"climate": [
@@ -198,7 +200,9 @@
 					"low": 20.7,
 					"precipitation": 144.7
 				}
-			]
+			],
+			"lat": 17.49861111,
+			"lon": -88.18861111
 		},
 		"Corozal Town": {
 			"climate": [
@@ -274,7 +278,9 @@
 					"low": 18.2,
 					"precipitation": 64.8
 				}
-			]
+			],
+			"lat": 18.4,
+			"lon": -88.4
 		},
 		"Dangriga": {
 			"climate": [
@@ -350,7 +356,9 @@
 					"high": 25,
 					"low": 22
 				}
-			]
+			],
+			"lat": 16.96666667,
+			"lon": -88.21666667
 		},
 		"Orange Walk Town": {
 			"climate": [
@@ -426,7 +434,9 @@
 					"low": 18.5,
 					"precipitation": 69.4
 				}
-			]
+			],
+			"lat": 18.075,
+			"lon": -88.55833333
 		},
 		"Punta Gorda (Belize)": {
 			"climate": [
@@ -654,7 +664,9 @@
 					"high": 26,
 					"low": 24
 				}
-			]
+			],
+			"lat": 16.89833333,
+			"lon": -88.06194444
 		},
 		"Stann Creek": {
 			"climate": [

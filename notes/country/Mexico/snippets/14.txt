@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ek-Balam_Overview_picture_-_view_North.jpg/320px-Ek-Balam_Overview_picture_-_view_North.jpg
+Ekʼ Balam
+https://en.wikipedia.org/wiki/Ek%CA%BC_Balam
+<small>[from en.wikipedia.org]:</small> Ekʼ Balam is a Yucatec-Maya archaeological site within the municipality of Temozón, Yucatán, Mexico. It lies in the Northern Maya lowlands, 25 kilometres (16 mi) north of Valladolid and 56 kilometres (35 mi) northeast of Chichen Itza. From the Preclassic until the Postclassic period, it was the seat of a Mayan kingdom.
+<location lat="20.89111111" lon="-88.13638889"></location>

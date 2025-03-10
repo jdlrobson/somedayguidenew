@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/320px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG
+Nazca lines
+https://en.wikipedia.org/wiki/Nazca_lines
+<small>[from en.wikipedia.org]:</small> The Nazca lines are a group of over 700 geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures had been found with the use of drones, and archaeologists believe that there are more to be found.
+<location lat="-14.6975" lon="-75.135"></location>

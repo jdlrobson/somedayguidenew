@@ -119,7 +119,9 @@
 					"high": 4,
 					"low": 0
 				}
-			]
+			],
+			"lat": 55.67611111,
+			"lon": 12.56833333
 		},
 		"Aalborg": {
 			"climate": [
@@ -195,7 +197,9 @@
 					"low": -1,
 					"precipitation": 52.8
 				}
-			]
+			],
+			"lat": 57.05,
+			"lon": 9.91666667
 		},
 		"Aarhus": {
 			"climate": [
@@ -271,7 +275,9 @@
 					"high": 4,
 					"low": null
 				}
-			]
+			],
+			"lat": 56.1572,
+			"lon": 10.2107
 		},
 		"Esbjerg": {
 			"climate": [
@@ -347,7 +353,9 @@
 					"low": 0.3,
 					"precipitation": 72
 				}
-			]
+			],
+			"lat": 55.48333333,
+			"lon": 8.45
 		},
 		"Nykøbing Falster": {
 			"climate": [
@@ -423,7 +431,9 @@
 					"high": -1,
 					"low": -5
 				}
-			]
+			],
+			"lat": 54.76542,
+			"lon": 11.87549
 		},
 		"Odense": {
 			"climate": [
@@ -499,7 +509,9 @@
 					"low": 0.2,
 					"precipitation": 47.7
 				}
-			]
+			],
+			"lat": 55.39583333,
+			"lon": 10.38861111
 		},
 		"Skagen": {
 			"climate": [
@@ -575,7 +587,9 @@
 					"low": 1,
 					"precipitation": 58.5
 				}
-			]
+			],
+			"lat": 57.71666667,
+			"lon": 10.58333333
 		},
 		"Anholt": {
 			"climate": [
@@ -727,7 +741,9 @@
 					"low": -0.2,
 					"precipitation": 67.9
 				}
-			]
+			],
+			"lat": 57.11666667,
+			"lon": 12.21666667
 		}
 	}
 }

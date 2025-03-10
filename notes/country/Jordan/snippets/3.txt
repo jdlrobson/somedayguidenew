@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/320px-Mountain_in_Wadi_Rum%2C_Jordan.jpg
+Wadi Rum
+https://en.wikipedia.org/wiki/Wadi_Rum
+<small>[from en.wikipedia.org]:</small> Wadi Rum, known also as the Valley of the Moon, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60 km (37 mi) to the east of the city of Aqaba. With an area of 720 km2 (280 sq mi) it is the largest wadi in Jordan.
+<location lat="29.59305556" lon="35.42"></location>

@@ -10,6 +10,15 @@
 			"url": "https://somedaywewillseetheworld.wordpress.com/2009/02/20/kuching-is-a-real-life-pokemon-adventure/"
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Perhentian Islands are a group of islands off the coast of Besut District, Terengganu, Malaysia.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PulauPerhentian2.JPG/360px-PulauPerhentian2.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Perhentian Islands",
+			"url": "https://en.wikipedia.org/wiki/Perhentian_Islands"
+		},
+		{
 			"text": "I visited Penang in Chinese New Year (CNY). Chinese New Year is the festival that gathers relatives together, dead and alive. A family portrait is usually a typical ritual of such events. In the temples the longest incense sticks I've ever seen in my life burned. In the temples everything that could be burnt was",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/p2120247.jpg?h=200&crop=1",
 			"source": "",
@@ -17,6 +26,24 @@
 			"embed": false,
 			"title": "How to drive a Rickshaw in Penang",
 			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1029"
+		},
+		{
+			"text": "Discover Taman Negara National Park with this complete guide, featuring practical tips and personal insights. <small>[image from Off To Get Lost]</small>",
+			"src": "https://offtogetlost.com/wp-content/uploads/2024/10/Taman-Negara-National-Park-6.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Complete Guide to Taman Negara National Park",
+			"url": "https://offtogetlost.com/taman-negara-national-park-guide/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Tiga Island is one of a group of small uninhabited volcanic islands in Kimanis Bay off the western coast of Sabah, Malaysia. The islands were formed on 21 September 1897, when an earthquake on Mindanao caused a volcanic eruption near Borneo. The island is 607 hectares in size and has a couple of active mud volcanos at the highest part of the island.",
+			"src": "null",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Tiga Island, Malaysia",
+			"url": "https://en.wikipedia.org/wiki/Tiga_Island,_Malaysia"
 		},
 		{
 			"src": "https://somedaywewillseetheworld.wordpress.com/wp-content/uploads/2019/10/p2120247.jpg",
@@ -65,6 +92,24 @@
 			"embed": false,
 			"title": "Kuching is a real life Pokemon adventure",
 			"url": "https://somedaywewillseetheworld.wordpress.com/?p=702"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Orangutans are great apes native to the rainforests of Indonesia and Malaysia. They are now found only in parts of Borneo and Sumatra, but during the Pleistocene they ranged throughout Southeast Asia and South China. Classified in the genus Pongo, orangutans were originally considered to be one species. In 1996, they were divided into two species: the Bornean orangutan and the Sumatran orangutan ; a third species, the Tapanuli orangutan, was identified definitively in 2017. The orangutans are the only surviving members of the subfamily Ponginae, which diverged genetically from the other hominids between 19.3 and 15.7 million years ago.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG/320px-Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Orangutan",
+			"url": "https://en.wikipedia.org/wiki/Orangutan"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Sipadan is the only oceanic island in Malaysia, rising 600 metres (2,000 ft) from the seabed. It is located in the Celebes Sea off the east coast of Sabah, Malaysia. It was formed by living corals growing on top of an extinct volcanic cone that took thousands of years to develop. Sipadan is located at the heart of the Indo-Pacific basin, the centre of one of the richest marine habitats in the world. More than 400 species of fish and hundreds of coral species have been classified in this ecosystem. Sipadan Island was at the top of Rodale's Scuba Diving Magazine Gold List for 'The Top Dive Destination in the World'. In fact it shared its top spot with 2 other destinations known for the diversity of their marine life — the Galápagos Islands of Ecuador and Truk in Micronesia. Furthermore, one of the dive operators; Scuba Junkie was voted by the public the \"Best Dive Resort in the World 2020\" at DiveMagazine's annual Dive Travel Awards.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sipadan_island.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sipadan",
+			"url": "https://en.wikipedia.org/wiki/Sipadan"
 		}
 	],
 	"places": {
@@ -1205,82 +1250,6 @@
 					"high": 31.1,
 					"low": 23.4,
 					"precipitation": 113.5
-				}
-			]
-		},
-		"Kota Tinggi": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 192,
-					"high": 24,
-					"low": 21
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 240,
-					"high": 24,
-					"low": 21
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 215,
-					"high": 25,
-					"low": 21
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 306,
-					"high": 27,
-					"low": 22
-				},
-				{
-					"heading": "May",
-					"precipitation": 291,
-					"high": 26,
-					"low": 22
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 145,
-					"high": 24,
-					"low": 22
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 197,
-					"high": 23,
-					"low": 21
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 226,
-					"high": 24,
-					"low": 22
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 207,
-					"high": 25,
-					"low": 21
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 206,
-					"high": 25,
-					"low": 22
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 335,
-					"high": 24,
-					"low": 21
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 370,
-					"high": 24,
-					"low": 20
 				}
 			]
 		}

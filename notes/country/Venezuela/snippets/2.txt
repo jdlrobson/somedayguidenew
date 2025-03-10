@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bosque_Nublado%2C_fila_Infiernito.jpg/320px-Bosque_Nublado%2C_fila_Infiernito.jpg
+El Ávila National Park
+https://en.wikipedia.org/wiki/El_%C3%81vila_National_Park
+<small>[from en.wikipedia.org]:</small> The Ávila National Park, officially known as Waraira Repano National Park for its indigenous Cariban name, protects part of the Cordillera de la Costa Central mountain range, in the coastal region of central-northern Venezuela. The area's highest elevation is Pico Naiguatá, at 2,765 meters (9,072 ft) above sea level.
+<location lat="10.53333333" lon="-66.86666667"></location>

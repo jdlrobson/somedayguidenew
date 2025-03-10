@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/320px-Monte_Alban_West_Side_Platform.jpg
+Monte Albán
+https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n
+<small>[from en.wikipedia.org]:</small> Monte Albán is a large pre-Columbian archaeological site in the Santa Cruz Xoxocotlán Municipality in the southern Mexican state of Oaxaca. The site is located on a low mountainous range rising above the plain in the central section of the Valley of Oaxaca, where the latter's northern Etla, eastern Tlacolula, and southern Zimatlán and Ocotlán branches meet. The present-day state capital Oaxaca City is located approximately 9 km (6 mi) east of Monte Albán.
+<location lat="17.04388889" lon="-96.76777778"></location>

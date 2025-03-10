@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/320px-Beauty_of_Kaziranga_National_Park.jpg
+Kaziranga National Park
+https://en.wikipedia.org/wiki/Kaziranga_National_Park
+<small>[from en.wikipedia.org]:</small> Kaziranga National Park is a national park in the Golaghat, Sonitpur, Biswanath and Nagaon districts of the state of Assam, India. KNP has 5 ranges. The park, which hosts two-thirds of the world's Indian rhinoceroses, is a UNESCO World Heritage Site. According to a March 2018 census conducted jointly by the Forest Department of the Government of Assam and some recognized wildlife NGOs, the rhino population in Kaziranga National Park is 2,613. It comprises 1,641 adult rhinos and 385 calves.
+<location lat="26.66666667" lon="93.35"></location>

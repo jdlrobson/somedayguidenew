@@ -230,6 +230,50 @@
 			"url": "https://www.flickr.com/photos/jdlrobson/5576973658/in/dateposted-public/"
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> Gulangyu, Gulang or Kulangsu is a pedestrian-only island off the coast of Xiamen, Fujian Province in southeastern China. A UNESCO World Cultural Heritage Site, the island is about 2 km2 (0.77 sq mi) in area, and is reached by an 8-minute ferry ride from downtown Xiamen. Although only about 20,000 people live on the island, Gulangyu is a major domestic tourist destination, attracting more than 10 million visitors per year, and making it one of China's most visited tourist attractions. Gulangyu not only bans cars, but also bicycles. The only vehicles permitted are small electric buggies and electric government service vehicles.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg/320px-%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Gulangyu",
+			"url": "https://en.wikipedia.org/wiki/Gulangyu"
+		},
+		{
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Reddit - Dive into anything",
+			"url": "https://www.reddit.com/r/pics/comments/1itmb8/the_beauty_of_yangshuo_china_as_seen_from_a_hot/"
+		},
+		{
+			"text": "Why walk on this historical site when you can zoom down instead? <small>[image from Atlas Obscura]</small>",
+			"src": "https://img.atlasobscura.com/nXpuq6Ly0sMafW3vIJE40K-gh_SmKtuyb_p1bimKzHs/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNGJh/NDE3ZWY2NjBiNjRk/NGVfVG9ib2dnYW5f/cmlkZV9hdF9NdXRp/YW55dV9zZWN0aW9u/X29mX0dyZWF0X1dh/bGxfb2ZfQ2hpbmEg/KDEpLmpwZw.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Slide Down the Great Wall of China",
+			"url": "https://www.atlasobscura.com/places/great-wall-slide"
+		},
+		{
+			"text": "Sichuan Giant Panda Sanctuaries, home to more than 30% of the world's pandas which are classed as highly endangered, covers 924,500 ha with seven nature reserves and nine scenic parks in the Qionglai and Jiajin  ... <small>[image from whc.unesco.org]</small>",
+			"src": "https://whc.unesco.org/uploads/thumbs/site_1213_0001-1200-630-20090928160826.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains",
+			"url": "https://whc.unesco.org/en/list/1213/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Water Towns, also called Canal Towns, are certain ancient and historic towns in China known for their bridges, rivers, and canals. Such towns exist in many regions in China, although those in Jiangsu and Zhejiang provinces are often the most renowned.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Luzhi_Canal_Town_7.jpg/320px-Luzhi_Canal_Town_7.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Water town (China)",
+			"url": "https://en.wikipedia.org/wiki/Water_town_(China)"
+		},
+		{
 			"src": "https://www.instagram.com/p/BdWY_scA3iu",
 			"source": "",
 			"type": "instagram",
@@ -350,7 +394,9 @@
 					"high": 4,
 					"low": null
 				}
-			]
+			],
+			"lat": 39.90666667,
+			"lon": 116.3975
 		},
 		"Chengdu": {
 			"climate": [
@@ -426,7 +472,9 @@
 					"high": 11,
 					"low": 4
 				}
-			]
+			],
+			"lat": 30.66,
+			"lon": 104.06333333
 		},
 		"Guangzhou": {
 			"climate": [
@@ -502,7 +550,9 @@
 					"high": 21,
 					"low": 12
 				}
-			]
+			],
+			"lat": 23.13,
+			"lon": 113.26
 		},
 		"Guilin": {
 			"climate": [
@@ -578,7 +628,9 @@
 					"low": 7.4,
 					"precipitation": 46.8
 				}
-			]
+			],
+			"lat": 25.275,
+			"lon": 110.296
 		},
 		"Hangzhou": {
 			"climate": [
@@ -654,7 +706,9 @@
 					"low": 3.7,
 					"precipitation": 48.6
 				}
-			]
+			],
+			"lat": 30.267,
+			"lon": 120.153
 		},
 		"Harbin": {
 			"climate": [
@@ -730,7 +784,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 45.7576,
+			"lon": 126.6409
 		},
 		"Nanjing": {
 			"climate": [
@@ -806,7 +862,9 @@
 					"high": 10,
 					"low": 0
 				}
-			]
+			],
+			"lat": 32.06083333,
+			"lon": 118.77888889
 		},
 		"Shanghai": {
 			"climate": [
@@ -882,7 +940,9 @@
 					"high": 11,
 					"low": 3
 				}
-			]
+			],
+			"lat": 31.22861111,
+			"lon": 121.47472222
 		},
 		"Xi'an": {
 			"climate": [
@@ -958,7 +1018,9 @@
 					"low": -2.2,
 					"precipitation": 7.3
 				}
-			]
+			],
+			"lat": 34.26111111,
+			"lon": 108.94222222
 		},
 		"Leshan": {
 			"climate": [
@@ -1034,7 +1096,9 @@
 					"low": 6.7,
 					"precipitation": 11.8
 				}
-			]
+			],
+			"lat": 29.552,
+			"lon": 103.766
 		},
 		"Tibet": {
 			"climate": [
@@ -1186,7 +1250,9 @@
 					"low": -9.6,
 					"precipitation": 1
 				}
-			]
+			],
+			"lat": 42.9512,
+			"lon": 89.1895
 		},
 		"Dali": {
 			"climate": [
@@ -1338,7 +1404,9 @@
 					"high": 15,
 					"low": 3
 				}
-			]
+			],
+			"lat": 25.0464,
+			"lon": 102.7094
 		},
 		"Shangrila": {
 			"climate": [
@@ -1490,7 +1558,9 @@
 					"high": 20,
 					"low": 16
 				}
-			]
+			],
+			"lat": 22.3,
+			"lon": 114.2
 		},
 		"Zhuhai": {
 			"climate": [
@@ -1566,7 +1636,9 @@
 					"low": 13.9,
 					"precipitation": 31
 				}
-			]
+			],
+			"lat": 22.27416667,
+			"lon": 113.57194444
 		},
 		"Shenzhen": {
 			"climate": [
@@ -1642,7 +1714,9 @@
 					"low": 13.8,
 					"precipitation": 26.9
 				}
-			]
+			],
+			"lat": 22.5415,
+			"lon": 114.0596
 		},
 		"Chuxiong": {
 			"climate": [
@@ -1870,7 +1944,9 @@
 					"low": 0.3,
 					"precipitation": 3.4
 				}
-			]
+			],
+			"lat": 26.8552,
+			"lon": 100.2259
 		},
 		"Deqin": {
 			"climate": [
@@ -2022,7 +2098,9 @@
 					"low": 13,
 					"precipitation": 18.3
 				}
-			]
+			],
+			"lat": 22.009,
+			"lon": 100.797
 		},
 		"Yuxi": {
 			"climate": [
@@ -2098,7 +2176,9 @@
 					"low": 4.4,
 					"precipitation": 15.1
 				}
-			]
+			],
+			"lat": 24.347,
+			"lon": 102.527
 		},
 		"Dongguan": {
 			"climate": [
@@ -2174,7 +2254,9 @@
 					"low": 13.1,
 					"precipitation": 30
 				}
-			]
+			],
+			"lat": 23.021,
+			"lon": 113.752
 		},
 		"Qingyuan": {
 			"climate": [
@@ -2250,7 +2332,9 @@
 					"low": 11.2,
 					"precipitation": 36.7
 				}
-			]
+			],
+			"lat": 23.682,
+			"lon": 113.056
 		},
 		"Shantou": {
 			"climate": [
@@ -2326,7 +2410,9 @@
 					"low": 13.2,
 					"precipitation": 33.2
 				}
-			]
+			],
+			"lat": 23.354,
+			"lon": 116.682
 		},
 		"Shaoguan": {
 			"climate": [
@@ -2402,7 +2488,9 @@
 					"low": 7.9,
 					"precipitation": 41.7
 				}
-			]
+			],
+			"lat": 24.811,
+			"lon": 113.597
 		},
 		"Zhongshan": {
 			"climate": [
@@ -2478,7 +2566,9 @@
 					"low": 11.3,
 					"precipitation": 32.3
 				}
-			]
+			],
+			"lat": 22.517,
+			"lon": 113.3925
 		},
 		"Zhanjiang": {
 			"climate": [
@@ -2554,7 +2644,9 @@
 					"low": 14.7,
 					"precipitation": 28.6
 				}
-			]
+			],
+			"lat": 21.2701,
+			"lon": 110.3575
 		},
 		"Kaiping": {
 			"climate": [
@@ -2630,7 +2722,9 @@
 					"low": 13.7,
 					"precipitation": 29.7
 				}
-			]
+			],
+			"lat": 22.3773,
+			"lon": 112.6982
 		},
 		"Xiamen": {
 			"climate": [
@@ -2706,7 +2800,9 @@
 					"low": 12,
 					"precipitation": 28
 				}
-			]
+			],
+			"lat": 24.4796,
+			"lon": 118.0889
 		}
 	}
 }

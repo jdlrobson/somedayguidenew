@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/320px-ULURU.jpg
+Uluru
+https://en.wikipedia.org/wiki/Uluru
+<small>[from en.wikipedia.org]:</small> Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs.
+<location lat="-25.345" lon="131.03611111"></location>

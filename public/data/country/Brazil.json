@@ -355,7 +355,9 @@
 					"high": 31,
 					"low": 25
 				}
-			]
+			],
+			"lat": -3.7275,
+			"lon": -38.5275
 		},
 		"Manaus": {
 			"climate": [
@@ -431,7 +433,9 @@
 					"low": 23.5,
 					"precipitation": 245.6
 				}
-			]
+			],
+			"lat": -3.11888889,
+			"lon": -60.02166667
 		},
 		"Porto Alegre": {
 			"climate": [
@@ -507,7 +511,9 @@
 					"low": 19,
 					"precipitation": 99.6
 				}
-			]
+			],
+			"lat": -30.03305556,
+			"lon": -51.23
 		},
 		"Recife": {
 			"climate": [
@@ -583,7 +589,9 @@
 					"high": 30,
 					"low": 22
 				}
-			]
+			],
+			"lat": -8.05,
+			"lon": -34.9
 		},
 		"Rio de Janeiro": {
 			"climate": [
@@ -659,7 +667,9 @@
 					"high": 29,
 					"low": 22
 				}
-			]
+			],
+			"lat": -22.91111111,
+			"lon": -43.20555556
 		},
 		"Salvador": {
 			"climate": [
@@ -811,7 +821,9 @@
 					"high": 26,
 					"low": 18
 				}
-			]
+			],
+			"lat": -23.55,
+			"lon": -46.63333333
 		},
 		"Amazonas (Brazil)": {
 			"climate": [
@@ -963,7 +975,9 @@
 					"high": 26,
 					"low": 18
 				}
-			]
+			],
+			"lat": -12.88027778,
+			"lon": -41.37222222
 		},
 		"Fernando de Noronha": {
 			"climate": [
@@ -1039,7 +1053,9 @@
 					"low": 24.9,
 					"precipitation": 17.8
 				}
-			]
+			],
+			"lat": -3.855,
+			"lon": -32.425
 		},
 		"Iguaçu Falls": {
 			"climate": [
@@ -1191,7 +1207,9 @@
 					"low": 18.1,
 					"precipitation": 241.5
 				}
-			]
+			],
+			"lat": -15.79388889,
+			"lon": -47.88277778
 		},
 		"Alto Paraíso de Goiás": {
 			"climate": [
@@ -1267,7 +1285,9 @@
 					"high": 28,
 					"low": 17
 				}
-			]
+			],
+			"lat": -14.13333333,
+			"lon": -47.51666667
 		},
 		"Belém": {
 			"climate": [
@@ -1343,7 +1363,9 @@
 					"low": 22,
 					"precipitation": 216.4
 				}
-			]
+			],
+			"lat": -1.45583333,
+			"lon": -48.50388889
 		},
 		"Natal": {
 			"climate": [

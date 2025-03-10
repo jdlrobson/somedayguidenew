@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mexico-Popocatepetl.jpg/320px-Mexico-Popocatepetl.jpg
+Popocatépetl
+https://en.wikipedia.org/wiki/Popocat%C3%A9petl
+<small>[from en.wikipedia.org]:</small> Popocatépetl is an active stratovolcano located in the states of Puebla, Morelos, and Mexico in central Mexico. It lies in the eastern half of the Trans-Mexican Volcanic Belt. At 5,393 m (17,694 ft) it is the second highest peak in Mexico, after Citlaltépetl at 5,636 m (18,491 ft).
+<location lat="19.02222222" lon="-98.62777778"></location>

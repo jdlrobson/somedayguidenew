@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20100922_qasralazrak42.JPG/320px-20100922_qasralazrak42.JPG
+Azraq, Jordan
+https://en.wikipedia.org/wiki/Azraq,_Jordan
+<small>[from en.wikipedia.org]:</small> Azraq is a small town in Zarqa Governorate in central-eastern Jordan, 100 kilometres (62 mi) east of Amman. The population of Azraq was 9,021 in 2004. The Muwaffaq Salti Air Base is located in Azraq.
+<location lat="31.83416667" lon="36.815"></location>

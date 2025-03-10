@@ -1,0 +1,6 @@
+null
+Tiga Island, Malaysia
+https://en.wikipedia.org/wiki/Tiga_Island,_Malaysia
+<small>[from en.wikipedia.org]:</small> Tiga Island is one of a group of small uninhabited volcanic islands in Kimanis Bay off the western coast of Sabah, Malaysia. The islands were formed on 21 September 1897, when an earthquake on Mindanao caused a volcanic eruption near Borneo. The island is 607 hectares in size and has a couple of active mud volcanos at the highest part of the island.
+Tiga Island is one of the three islands that make up Tiga Island National Park. The Park Headquarters are on the island, comprising an office complex, and accommodation for the park staff and visiting scientists.
+<location lat="5.72194444" lon="115.64972222"></location>

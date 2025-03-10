@@ -162,7 +162,9 @@
 					"low": -5.6,
 					"precipitation": 40
 				}
-			]
+			],
+			"lat": 52.44527778,
+			"lon": 30.98416667
 		},
 		"Grodno": {
 			"climate": [
@@ -238,7 +240,9 @@
 					"high": -8,
 					"low": -9
 				}
-			]
+			],
+			"lat": 53.66666667,
+			"lon": 23.83333333
 		},
 		"Mogilev": {
 			"climate": [
@@ -314,7 +318,9 @@
 					"low": -6.6,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 53.91666667,
+			"lon": 30.35
 		},
 		"Nesvizh": {
 			"climate": [
@@ -466,7 +472,9 @@
 					"low": -6.5,
 					"precipitation": 55
 				}
-			]
+			],
+			"lat": 55.19166667,
+			"lon": 30.20555556
 		},
 		"Belovezhskaya Pushcha National Park": {
 			"climate": [
@@ -542,7 +550,9 @@
 					"high": -7,
 					"low": -9
 				}
-			]
+			],
+			"lat": 52.58546111,
+			"lon": 23.87912778
 		}
 	}
 }

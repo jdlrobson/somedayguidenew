@@ -319,7 +319,9 @@
 					"low": 17.8,
 					"precipitation": 0.1
 				}
-			]
+			],
+			"lat": -20.21666667,
+			"lon": -70.15
 		},
 		"Punta Arenas": {
 			"climate": [
@@ -395,7 +397,9 @@
 					"low": 5.9,
 					"precipitation": 31.6
 				}
-			]
+			],
+			"lat": -53.16666667,
+			"lon": -70.93333333
 		},
 		"San Pedro de Atacama": {
 			"climate": [
@@ -471,7 +475,9 @@
 					"low": 7.3,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": -22.91666667,
+			"lon": -68.2
 		},
 		"Valdivia": {
 			"climate": [
@@ -547,7 +553,9 @@
 					"low": 8.4,
 					"precipitation": 59.8
 				}
-			]
+			],
+			"lat": -39.81388889,
+			"lon": -73.24583333
 		},
 		"Valparaíso": {
 			"climate": [
@@ -623,7 +631,9 @@
 					"low": 12.8,
 					"precipitation": 1.3
 				}
-			]
+			],
+			"lat": -33.04611111,
+			"lon": -71.61972222
 		},
 		"Chiloé Island": {
 			"climate": [
@@ -699,7 +709,9 @@
 					"high": 17,
 					"low": 6
 				}
-			]
+			],
+			"lat": -42.67666667,
+			"lon": -73.99333333
 		},
 		"Laguna San Rafael National Park": {
 			"climate": [
@@ -775,7 +787,9 @@
 					"low": 7.6,
 					"precipitation": 142.2
 				}
-			]
+			],
+			"lat": -46.66666667,
+			"lon": -73.91666667
 		},
 		"Viña del Mar": {
 			"climate": [
@@ -851,7 +865,9 @@
 					"high": 23,
 					"low": 16
 				}
-			]
+			],
+			"lat": -33.02444444,
+			"lon": -71.55166667
 		},
 		"Juan Fernández Islands": {
 			"climate": [
@@ -927,7 +943,9 @@
 					"low": 14.7,
 					"precipitation": 24.1
 				}
-			]
+			],
+			"lat": -33.64138889,
+			"lon": -78.84111111
 		}
 	}
 }

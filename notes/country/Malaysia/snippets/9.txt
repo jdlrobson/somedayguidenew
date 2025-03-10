@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/2/2c/Sipadan_island.jpg
+Sipadan
+https://en.wikipedia.org/wiki/Sipadan
+<small>[from en.wikipedia.org]:</small> Sipadan is the only oceanic island in Malaysia, rising 600 metres (2,000 ft) from the seabed. It is located in the Celebes Sea off the east coast of Sabah, Malaysia. It was formed by living corals growing on top of an extinct volcanic cone that took thousands of years to develop. Sipadan is located at the heart of the Indo-Pacific basin, the centre of one of the richest marine habitats in the world. More than 400 species of fish and hundreds of coral species have been classified in this ecosystem. Sipadan Island was at the top of Rodale's Scuba Diving Magazine Gold List for 'The Top Dive Destination in the World'. In fact it shared its top spot with 2 other destinations known for the diversity of their marine life — the Galápagos Islands of Ecuador and Truk in Micronesia. Furthermore, one of the dive operators; Scuba Junkie was voted by the public the "Best Dive Resort in the World 2020" at DiveMagazine's annual Dive Travel Awards.
+<location lat="4.11468333" lon="118.62875556"></location>

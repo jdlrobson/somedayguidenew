@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canyon_sumidero_entrada.jpg/320px-Canyon_sumidero_entrada.jpg
+Sumidero Canyon
+https://en.wikipedia.org/wiki/Sumidero_Canyon
+<small>[from en.wikipedia.org]:</small> Sumidero Canyon is a deep natural canyon located just north of the city of Chiapa de Corzo in the state of Chiapas, in southern Mexico. The canyon's creation began around the same time as the Grand Canyon in the U.S. state of Arizona, by a crack in the area's crust and subsequent erosion by the Grijalva River, which still runs through it. Sumidero Canyon has vertical walls which reach as high as 1,000 metres (3,300 ft), with the river turning up to 90 degrees during the 13-kilometre (8 mi) length of the narrow passage.
+<location lat="16.83166667" lon="-93.09388889"></location>

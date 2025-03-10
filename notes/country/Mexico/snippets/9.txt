@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bec%C3%A1n_-_Structure_IX.jpg/320px-Bec%C3%A1n_-_Structure_IX.jpg
+Becan
+https://en.wikipedia.org/wiki/Becan
+<small>[from en.wikipedia.org]:</small> Becan is an archaeological site of the Maya civilization in pre-Columbian Mesoamerica. Becan is located near the center of the Yucatán Peninsula, in the present-day Mexican state of Campeche, about 150 km (93.2 mi) north of Tikal. The Maya sites of Balamku, Calakmul, Chicanna and Xpuhil are nearby. The name Becan was bestowed on the site by archaeologists who rediscovered the site, meaning "ravine or canyon formed by water" in Yukatek Maya, after the site's most prominent and unusual feature, its surrounding ditch.
+<location lat="18.51666667" lon="-89.46666667"></location>

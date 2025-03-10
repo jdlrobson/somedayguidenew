@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Arenal_volcano_%2870785p%29_%28cropped%29.jpg/320px-Arenal_volcano_%2870785p%29_%28cropped%29.jpg
+Arenal Volcano
+https://en.wikipedia.org/wiki/Arenal_Volcano
+<small>[from en.wikipedia.org]:</small> Arenal Volcano is an active andesitic stratovolcano in north-western Costa Rica around 90 km (56 mi) northwest of San José, in the province of Alajuela, canton of San Carlos, and district of La Fortuna. The Arenal volcano measures at least 1,633 metres (5,358 ft) high. It is conically shaped with a crater 140 metres (460 ft) in diameter. Geologically, Arenal is considered a young volcano and it is estimated to be less than 7,500 years old. It is also known as "Pan de Azúcar", "Canaste", "Volcan Costa Rica", "Volcan Río Frío" or "Guatusos Peak".
+<location lat="10.46333333" lon="-84.70333333"></location>

@@ -1,6 +1,70 @@
 {
-	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"note": "<p>Being a permanent resident of USA makes visiting the Cuba a little harder than it should be.. but someday we&#39;ll go!</p>\n",
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Havana is the capital and largest city of Cuba. The heart of the La Habana Province, Havana is the country's main port and commercial center. It is the most populous city, the largest by area, and the second largest metropolitan area in the Caribbean region. The population in 2012 was 2,106,146 inhabitants, and its area is 728.26 km2 (281.18 sq mi) for the capital city side and 8,475.57 km2 for the metropolitan zone. Its official population was 1,814,207 inhabitants in 2023.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DJI_0197_crp_wiki.jpg/320px-DJI_0197_crp_wiki.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Havana",
+			"url": "https://en.wikipedia.org/wiki/Havana"
+		},
+		{
+			"text": "How to Cruise Through the Streets of Havana in a 1956 Chevy Convertible",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Cuba Classic Car Tours – Quirky Travel Guy",
+			"url": "https://quirkytravelguy.com/cruising-streets-havana-1956-chevy-convertible/"
+		},
+		{
+			"text": "Image by <a href=\"https://commons.wikimedia.org/wiki/File:A_line_up_of_cars_(10108428906).jpg\">Christopher Holt</a>",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/A_line_up_of_cars_%2810108428906%29.jpg/640px-A_line_up_of_cars_%2810108428906%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Category:Chevrolet classic cars in Havana - Wikimedia Commons",
+			"url": "https://commons.wikimedia.org/wiki/Category:Chevrolet_classic_cars_in_Havana"
+		},
+		{
+			"text": "Like many a Chinatown around the world, a giant archway or paifang  (牌坊) welcomes visitors to Havana's Barrio Chino . Sadly, this is just a ... <small>[image from eatlovenoodles.blogspot.com]</small>",
+			"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij38oWKfDnXrIY7lEm2ZIUPTGsd-99krlQnWArz0f_T1dIWKeZd2Ugfs2rioC4zSpD16-x1bclG2NL-pJDnhV1D2nlmfJM0kA-ZFwOTmpRybGH_iq7I0vkMH59Xrtj5HHnGNj_a1TeiI4/w1200-h630-p-k-no-nu/2011-08-06+13.59.04.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Barrio Chino - Havana's Chinatown",
+			"url": "https://eatlovenoodles.blogspot.com/2011/08/barrio-chino-havanas-chinatown.html"
+		},
+		{
+			"text": " <small>[image from commons.wikimedia.org]</small>",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Old_Havana_back_street.JPG/640px-Old_Havana_back_street.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "File:Old Havana back street.JPG - Wikimedia Commons",
+			"url": "https://commons.wikimedia.org/wiki/File:Old_Havana_back_street.JPG"
+		},
+		{
+			"text": " <small>[image from commons.wikimedia.org]</small>",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cuban_musician_in_Trinidad.JPG/640px-Cuban_musician_in_Trinidad.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "File:Cuban musician in Trinidad.JPG - Wikimedia Commons",
+			"url": "https://commons.wikimedia.org/wiki/File:Cuban_musician_in_Trinidad.JPG"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Sancti Spíritus is a municipality and capital city of the province of Sancti Spíritus in central Cuba and one of the oldest Cuban European settlements. Sancti Spíritus is the genitive case of Latin Sanctus Spiritus.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Puente_Yayabo_Sancti_Spiritus_Cuba.jpg/320px-Puente_Yayabo_Sancti_Spiritus_Cuba.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sancti Spíritus",
+			"url": "https://en.wikipedia.org/wiki/Sancti_Sp%C3%ADritus"
+		}
+	],
 	"places": {
 		"Havana": {
 			"climate": [
@@ -76,7 +140,9 @@
 					"high": 27,
 					"low": 20
 				}
-			]
+			],
+			"lat": 23.13666667,
+			"lon": -82.35888889
 		},
 		"Camagüey": {
 			"climate": [
@@ -152,7 +218,9 @@
 					"low": 17.8,
 					"precipitation": 50.8
 				}
-			]
+			],
+			"lat": 21.38388889,
+			"lon": -77.9075
 		},
 		"Cienfuegos": {
 			"climate": [
@@ -228,7 +296,9 @@
 					"low": 17.8,
 					"precipitation": 23
 				}
-			]
+			],
+			"lat": 22.14555556,
+			"lon": -80.43638889
 		},
 		"Santa Clara (Cuba)": {
 			"climate": [
@@ -380,7 +450,9 @@
 					"low": 22,
 					"precipitation": 81.3
 				}
-			]
+			],
+			"lat": 20.02166667,
+			"lon": -75.82944444
 		},
 		"Trinidad (Cuba)": {
 			"climate": [
@@ -532,7 +604,9 @@
 					"low": 16.6,
 					"precipitation": 50
 				}
-			]
+			],
+			"lat": 22.61527778,
+			"lon": -83.71583333
 		}
 	}
 }

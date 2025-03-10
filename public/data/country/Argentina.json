@@ -162,7 +162,7 @@
 			"lat": -34.60361111,
 			"lon": -58.38138889
 		},
-		"Córdoba, Argentina": {
+		"Córdoba": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -551,82 +551,6 @@
 			],
 			"lat": -24.78333333,
 			"lon": -65.41666667
-		},
-		"San Juan (city, Argentina)": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 34.9,
-					"low": 19.5,
-					"precipitation": 15.7
-				},
-				{
-					"heading": "Feb",
-					"high": 33.4,
-					"low": 18.2,
-					"precipitation": 18.9
-				},
-				{
-					"heading": "Mar",
-					"high": 30.3,
-					"low": 16.2,
-					"precipitation": 11.2
-				},
-				{
-					"heading": "Apr",
-					"high": 25.2,
-					"low": 10.7,
-					"precipitation": 4.4
-				},
-				{
-					"heading": "May",
-					"high": 20.5,
-					"low": 5.8,
-					"precipitation": 4.4
-				},
-				{
-					"heading": "Jun",
-					"high": 16.9,
-					"low": 1.5,
-					"precipitation": 1.6
-				},
-				{
-					"heading": "Jul",
-					"high": 16.5,
-					"low": 0.7,
-					"precipitation": 3.5
-				},
-				{
-					"heading": "Aug",
-					"high": 19.9,
-					"low": 2.9,
-					"precipitation": 3.2
-				},
-				{
-					"heading": "Sep",
-					"high": 23.2,
-					"low": 6.5,
-					"precipitation": 5.6
-				},
-				{
-					"heading": "Oct",
-					"high": 28.1,
-					"low": 11.4,
-					"precipitation": 3.6
-				},
-				{
-					"heading": "Nov",
-					"high": 31.6,
-					"low": 14.8,
-					"precipitation": 7
-				},
-				{
-					"heading": "Dec",
-					"high": 34.2,
-					"low": 18,
-					"precipitation": 11.6
-				}
-			]
 		},
 		"San Carlos de Bariloche": {
 			"climate": [

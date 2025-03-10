@@ -76,7 +76,9 @@
 					"low": 14.6,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 8.56666667,
+			"lon": 16.08333333
 		},
 		"Abéché": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 17.8,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 13.83305556,
+			"lon": 20.83472222
 		},
 		"Faya": {
 			"climate": [

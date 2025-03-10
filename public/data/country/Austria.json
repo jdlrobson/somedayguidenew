@@ -444,7 +444,7 @@
 			"lat": 47.26833333,
 			"lon": 11.39333333
 		},
-		"Klagenfurt": {
+		"Klagenfurt am Wörthersee": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -909,82 +909,6 @@
 			],
 			"lat": 47.54416667,
 			"lon": 10.67305556
-		},
-		"Igls": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 3.5,
-					"low": -5.2,
-					"precipitation": 43.9
-				},
-				{
-					"heading": "Feb",
-					"high": 6.3,
-					"low": -3.7,
-					"precipitation": 41.4
-				},
-				{
-					"heading": "Mar",
-					"high": 11.3,
-					"low": 0.2,
-					"precipitation": 55.9
-				},
-				{
-					"heading": "Apr",
-					"high": 14.8,
-					"low": 3.4,
-					"precipitation": 57.7
-				},
-				{
-					"heading": "May",
-					"high": 20.3,
-					"low": 7.8,
-					"precipitation": 87.1
-				},
-				{
-					"heading": "Jun",
-					"high": 22.6,
-					"low": 10.8,
-					"precipitation": 110.3
-				},
-				{
-					"heading": "Jul",
-					"high": 24.7,
-					"low": 12.8,
-					"precipitation": 137.2
-				},
-				{
-					"heading": "Aug",
-					"high": 24.4,
-					"low": 12.7,
-					"precipitation": 111.3
-				},
-				{
-					"heading": "Sep",
-					"high": 20.8,
-					"low": 9.3,
-					"precipitation": 78.1
-				},
-				{
-					"heading": "Oct",
-					"high": 15.8,
-					"low": 4.8,
-					"precipitation": 57.3
-				},
-				{
-					"heading": "Nov",
-					"high": 8.2,
-					"low": -0.5,
-					"precipitation": 63.2
-				},
-				{
-					"heading": "Dec",
-					"high": 3.7,
-					"low": -4.2,
-					"precipitation": 53.1
-				}
-			]
 		},
 		"Zell am See": {
 			"climate": [

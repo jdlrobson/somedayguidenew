@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cristales_cueva_de_Naica.JPG/320px-Cristales_cueva_de_Naica.JPG
+Cave of the Crystals
+https://en.wikipedia.org/wiki/Cave_of_the_Crystals
+<small>[from en.wikipedia.org]:</small> Cave of the Crystals or Giant Crystal Cave is a cave connected to the Naica Mine at a depth of 300 metres (980 ft), in Naica, Chihuahua, Mexico. It takes the form of a chamber within the limestone host rock of the mine, and is about 109 metres (358 ft) long with a volume of 5,000 to 6,000 cubic metres.
+<location lat="27.85083333" lon="-105.49638889"></location>

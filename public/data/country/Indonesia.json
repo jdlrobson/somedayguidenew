@@ -95,6 +95,42 @@
 			"embed": true
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Komodo dragon, also known as the Komodo monitor, is a large reptile of the monitor lizard family Varanidae that is endemic to the Indonesian islands of Komodo, Rinca, Flores, Gili Dasami, and Gili Motang. It is the largest extant species of lizard, with the males growing to a maximum length of 3 m (10 ft) and weighing up to 150 kg (330 lb).",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/320px-202306_Varanus_komodoensis.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Komodo dragon",
+			"url": "https://en.wikipedia.org/wiki/Komodo_dragon"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Bromo Tengger Semeru National Park is a national park located in East Java, Indonesia, to the east of Malang and Lumajang, to the south of Pasuruan and Probolinggo, and to the southeast of Surabaya, the capital of East Java. It is the only conservation area in Indonesia that has a sand sea, the Tengger Sand Sea, across which is the caldera of an ancient volcano (Tengger) from which four new volcanic cones have emerged. This unique feature covers a total area of 5,250 hectares at an altitude of about 2,100 meters (6,900 ft). The massif also contains the highest mountain in Java, Mount Semeru, four lakes and 50 rivers. It is named after the Tenggerese people. The explosion of the volcano that created the caldera, happened ca. 45.000 years ago, in an event similar to the Krakatau eruption.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg/320px-Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Bromo Tengger Semeru National Park",
+			"url": "https://en.wikipedia.org/wiki/Bromo_Tengger_Semeru_National_Park"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Borobudur, also transcribed Barabudur, is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the city of Magelang and the town of Muntilan, in Central Java, Indonesia.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/320px-Pradaksina.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Borobudur",
+			"url": "https://en.wikipedia.org/wiki/Borobudur"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Lake Batur is a volcanic crater lake in Kintamani, Bali, Bangli Regency of Bali, located about 30 km (19 mi) northeast of Ubud in Bali. The lake is inside of the caldera of an active volcano, Mount Batur, located along the Ring of Fire of volcanic activity.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lake_Batur_%26_Mount_Abang_2013-11-10_%2810849153196%29.jpg/320px-Lake_Batur_%26_Mount_Abang_2013-11-10_%2810849153196%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lake Batur",
+			"url": "https://en.wikipedia.org/wiki/Lake_Batur"
+		},
+		{
 			"src": "https://www.instagram.com/p/-jY3Nds2Mo/",
 			"source": "",
 			"type": "instagram",

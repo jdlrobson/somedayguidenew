@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pitons-aerial.jpg/320px-Pitons-aerial.jpg
+Pitons (Saint Lucia)
+https://en.wikipedia.org/wiki/Pitons_(Saint_Lucia)
+<small>[from en.wikipedia.org]:</small> The Pitons are two mountainous volcanic plugs, volcanic spires, located in Saint Lucia. Petit Piton is 743 m (2,438 ft) high and Gros Piton is 798.25 m (2,618.9 ft) high; they are linked by the Piton Mitan ridge. Piton means mountain peak in French; Petit Piton means small mountain peak and Gros Piton means large mountain peak. The Pitons are a World Heritage Site, 2,909 ha in size, and located near the town of Soufrière.
+<location lat="13.81" lon="-61.06555556"></location>

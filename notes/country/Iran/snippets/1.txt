@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arg.karimkhan.jpg/320px-Arg.karimkhan.jpg
+Arg of Karim Khan
+https://en.wikipedia.org/wiki/Arg_of_Karim_Khan
+<small>[from en.wikipedia.org]:</small> The Arg of Karim Khan or Karim Khan Citadel, is a citadel located in downtown Shiraz, Iran. It was built as part of a complex during the Zand dynasty. It is named after Karim Khan, and served as his living quarters. It is rectangular in shape and resembles a medieval fortress. In the past, the citadel was sometimes used as a prison. Today, it is a museum operated by Iran's Cultural Heritage Organization.
+<location lat="29.6174" lon="52.5446"></location>

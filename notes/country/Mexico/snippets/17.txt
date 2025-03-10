@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vista_del_r%C3%ADo_Xanil_en_Agua_Azul.jpg/640px-Vista_del_r%C3%ADo_Xanil_en_Agua_Azul.jpg
+Agua Azul
+https://en.wikipedia.org/wiki/Agua_Azul
+<small>[from en.wikipedia.org]:</small> The Cascadas de Agua Azul are a series of waterfalls found on the Xanil River in the southern Mexican state of Chiapas. They are located in the Municipality of Tumbalá, 69 kilometres (43 mi) from Palenque, near Mexican Federal Highway 199.
+<location lat="17.255704" lon="-92.115951"></location>

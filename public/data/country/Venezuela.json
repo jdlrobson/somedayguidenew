@@ -1,6 +1,25 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Catatumbo lightning is an atmospheric phenomenon that occurs over the mouth of the Catatumbo River where it empties into Lake Maracaibo in Venezuela. Catatumbo means \"House of Thunder\" in the language of the Bari people. It originates from a mass of storm clouds at an altitude of more than 1 km (0.6 mi), and occurs for 140 to 160 nights a year, nine hours per day, and with lightning flashes from 16 to 40 times per minute. It occurs over and around Lake Maracaibo, typically over a bog area formed where the Catatumbo River flows into the lake. The phenomenon sees the highest density of lightning in the world, at 250 per km2. In summers, the phenomenon may even occur as dry lightning without rainfall.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Catatumbo_Lightning_%28141677107%29.jpeg/320px-Catatumbo_Lightning_%28141677107%29.jpeg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Catatumbo lightning",
+			"url": "https://en.wikipedia.org/wiki/Catatumbo_lightning"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Ávila National Park, officially known as Waraira Repano National Park for its indigenous Cariban name, protects part of the Cordillera de la Costa Central mountain range, in the coastal region of central-northern Venezuela. The area's highest elevation is Pico Naiguatá, at 2,765 meters (9,072 ft) above sea level.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bosque_Nublado%2C_fila_Infiernito.jpg/320px-Bosque_Nublado%2C_fila_Infiernito.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "El Ávila National Park",
+			"url": "https://en.wikipedia.org/wiki/El_%C3%81vila_National_Park"
+		}
+	],
 	"places": {
 		"Caracas": {
 			"climate": [

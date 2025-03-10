@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg/320px-%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg
+Gulangyu
+https://en.wikipedia.org/wiki/Gulangyu
+<small>[from en.wikipedia.org]:</small> Gulangyu, Gulang or Kulangsu is a pedestrian-only island off the coast of Xiamen, Fujian Province in southeastern China. A UNESCO World Cultural Heritage Site, the island is about 2 km2 (0.77 sq mi) in area, and is reached by an 8-minute ferry ride from downtown Xiamen. Although only about 20,000 people live on the island, Gulangyu is a major domestic tourist destination, attracting more than 10 million visitors per year, and making it one of China's most visited tourist attractions. Gulangyu not only bans cars, but also bicycles. The only vehicles permitted are small electric buggies and electric government service vehicles.
+<location lat="24.4475" lon="118.0625"></location>

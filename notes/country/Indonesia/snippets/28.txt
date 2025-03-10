@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/320px-Pradaksina.jpg
+Borobudur
+https://en.wikipedia.org/wiki/Borobudur
+<small>[from en.wikipedia.org]:</small> Borobudur, also transcribed Barabudur, is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the city of Magelang and the town of Muntilan, in Central Java, Indonesia.
+<location lat="-7.608" lon="110.204"></location>

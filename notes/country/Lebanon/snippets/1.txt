@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/320px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg
+Baalbek
+https://en.wikipedia.org/wiki/Baalbek
+<small>[from en.wikipedia.org]:</small> Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608. Most of the population consists of Shia Muslims, followed by Sunni Muslims and Christians; in 2017, there was also a large presence of Syrian refugees.
+<location lat="34.00633611" lon="36.20732222"></location>

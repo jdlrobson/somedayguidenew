@@ -86,7 +86,9 @@
 					"high": 4,
 					"low": null
 				}
-			]
+			],
+			"lat": 43.85638889,
+			"lon": 18.41305556
 		},
 		"Banja Luka": {
 			"climate": [
@@ -162,7 +164,9 @@
 					"low": -0.7,
 					"precipitation": 100.8
 				}
-			]
+			],
+			"lat": 44.7725,
+			"lon": 17.1925
 		},
 		"Mostar": {
 			"climate": [
@@ -238,7 +242,9 @@
 					"low": 3.3,
 					"precipitation": 178.9
 				}
-			]
+			],
+			"lat": 43.34361111,
+			"lon": 17.8075
 		},
 		"Neum": {
 			"climate": [
@@ -314,7 +320,9 @@
 					"high": 12,
 					"low": 6
 				}
-			]
+			],
+			"lat": 42.925,
+			"lon": 17.61666667
 		},
 		"Tuzla": {
 			"climate": [
@@ -390,7 +398,9 @@
 					"low": -1.8,
 					"precipitation": 67.2
 				}
-			]
+			],
+			"lat": 44.53805556,
+			"lon": 18.67611111
 		},
 		"Teslic": {
 			"climate": [

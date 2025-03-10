@@ -44,6 +44,42 @@
 			"embed": true
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Nazca lines are a group of over 700 geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures had been found with the use of drones, and archaeologists believe that there are more to be found.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/320px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Nazca lines",
+			"url": "https://en.wikipedia.org/wiki/Nazca_lines"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Uru or Uros are an indigenous people of Bolivia and Peru. They live on a still-growing group of about 120 self-fashioned floating islands in Lake Titicaca near Puno. They form three main groups: the Uru-Chipaya, Uru-Murato, and Uru-Iruito. The Uru-Iruito still inhabit the Bolivian side of Lake Titicaca and the Desaguadero River.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Indigenous_woman_of_Peru_showing_her_traditional_textiles.png/320px-Indigenous_woman_of_Peru_showing_her_traditional_textiles.png",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Uru people",
+			"url": "https://en.wikipedia.org/wiki/Uru_people"
+		},
+		{
+			"text": "Inti Raymi or Festival of the Sun, is the most important festival of the Inca Empire to celebrate the winter solstice. Koricancha, the Plaza de Armas, and Sacsayhuaman <small>[image from www.cuscoperu.com]</small>",
+			"src": "https://cuscoperu.b-cdn.net/wp-content/uploads/2023/01/FIESTA-DEL-SOL-INTI-RAYMI.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sun Festival, Feast of the Incas",
+			"url": "https://www.cuscoperu.com/en/festivities-events/may-june/inti-raymi/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Reed boats and rafts, along with dugout canoes and other rafts, are among the oldest known types of boats. Often used as traditional fishing boats, they are still used in a few places around the world, though they have generally been replaced with planked boats. Reed boats can be distinguished from reed rafts, since reed boats are usually waterproofed with some form of tar. As well as boats and rafts, small floating islands have also been constructed from reeds.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Peruvian_fishing_boats.jpg/320px-Peruvian_fishing_boats.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Reed boat",
+			"url": "https://en.wikipedia.org/wiki/Reed_boat"
+		},
+		{
 			"src": "https://www.instagram.com/p/knse5pM2GV/",
 			"source": "",
 			"type": "instagram",

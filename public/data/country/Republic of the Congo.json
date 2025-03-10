@@ -95,7 +95,9 @@
 					"low": 21.5,
 					"precipitation": 172
 				}
-			]
+			],
+			"lat": -4.26666667,
+			"lon": 15.26666667
 		},
 		"Dolisie": {
 			"climate": [
@@ -247,7 +249,9 @@
 					"high": 23,
 					"low": 19
 				}
-			]
+			],
+			"lat": 2.46666667,
+			"lon": 16.45
 		},
 		"Pointe-Noire": {
 			"climate": [

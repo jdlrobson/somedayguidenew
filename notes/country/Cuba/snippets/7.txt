@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Puente_Yayabo_Sancti_Spiritus_Cuba.jpg/320px-Puente_Yayabo_Sancti_Spiritus_Cuba.jpg
+Sancti Spíritus
+https://en.wikipedia.org/wiki/Sancti_Sp%C3%ADritus
+<small>[from en.wikipedia.org]:</small> Sancti Spíritus is a municipality and capital city of the province of Sancti Spíritus in central Cuba and one of the oldest Cuban European settlements. Sancti Spíritus is the genitive case of Latin Sanctus Spiritus.
+<location lat="21.93388889" lon="-79.44388889"></location>

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Thar_desert_Rajasthan_India.jpg/320px-Thar_desert_Rajasthan_India.jpg
+Thar Desert
+https://en.wikipedia.org/wiki/Thar_Desert
+<small>[from en.wikipedia.org]:</small> The Thar Desert, also known as the Great Indian Desert, is an arid region in the north-western part of the Indian subcontinent that covers an area of 200,000 km2 (77,000 sq mi) in India and Pakistan. It is the world's 18th-largest desert, and the world's 9th-largest hot subtropical desert.
+<location lat="27" lon="71"></location>

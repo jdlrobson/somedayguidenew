@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PulauPerhentian2.JPG/360px-PulauPerhentian2.JPG
+Perhentian Islands
+https://en.wikipedia.org/wiki/Perhentian_Islands
+<small>[from en.wikipedia.org]:</small> The Perhentian Islands are a group of islands off the coast of Besut District, Terengganu, Malaysia.
+<location lat="5.91666667" lon="102.73333333"></location>

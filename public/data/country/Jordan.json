@@ -9,6 +9,24 @@
 			"embed": false,
 			"title": "Petra",
 			"url": "https://en.wikipedia.org/wiki/Petra"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Azraq is a small town in Zarqa Governorate in central-eastern Jordan, 100 kilometres (62 mi) east of Amman. The population of Azraq was 9,021 in 2004. The Muwaffaq Salti Air Base is located in Azraq.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20100922_qasralazrak42.JPG/320px-20100922_qasralazrak42.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Azraq, Jordan",
+			"url": "https://en.wikipedia.org/wiki/Azraq,_Jordan"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Wadi Rum, known also as the Valley of the Moon, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60 km (37 mi) to the east of the city of Aqaba. With an area of 720 km2 (280 sq mi) it is the largest wadi in Jordan.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/320px-Mountain_in_Wadi_Rum%2C_Jordan.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Wadi Rum",
+			"url": "https://en.wikipedia.org/wiki/Wadi_Rum"
 		}
 	],
 	"places": {

@@ -1,6 +1,34 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Photo from <a href=\"https://commons.wikimedia.org/wiki/File:AMA_AR_PN_ANDES_CUENCA_ROSAS_047_(14475721228).jpg\">commons</a>.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/AMA_AR_PN_ANDES_CUENCA_ROSAS_047_%2814475721228%29.jpg/640px-AMA_AR_PN_ANDES_CUENCA_ROSAS_047_%2814475721228%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Category:Flower markets in Ecuador - Wikimedia Commons",
+			"url": "https://commons.wikimedia.org/wiki/Category:Flower_markets_in_Ecuador"
+		},
+		{
+			"text": "Explore the Amazon Rainforest in Ecuador! A guide for first-timers with essential packing tips, costs, exciting activities, when to visit, and what to expect.",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Complete Guide to Visiting the Amazon Rainforest in Ecuador",
+			"url": "https://curioussparrowtravel.com/a-complete-guide-to-visiting-the-amazon-rainforest-in-ecuador/"
+		},
+		{
+			"text": " <small>[image from commons.wikimedia.org]</small>",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Giant_tortoise_of_the_galapagos_islands.jpg/640px-Giant_tortoise_of_the_galapagos_islands.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Category:Galápagos Islands - Wikimedia Commons",
+			"url": "https://commons.wikimedia.org/wiki/Category:Gal%C3%A1pagos_Islands"
+		}
+	],
 	"places": {
 		"Quito": {
 			"climate": [
@@ -76,7 +104,9 @@
 					"high": 19,
 					"low": 10
 				}
-			]
+			],
+			"lat": -0.22,
+			"lon": -78.5125
 		},
 		"Baños": {
 			"climate": [
@@ -304,7 +334,9 @@
 					"low": 22.4,
 					"precipitation": 68
 				}
-			]
+			],
+			"lat": -2.19,
+			"lon": -79.8875
 		},
 		"Esmeraldas": {
 			"climate": [

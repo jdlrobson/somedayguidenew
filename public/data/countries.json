@@ -12,13 +12,13 @@
 		"links": [],
 		"destinations": [
 			"Kabul",
-			"Bamiyan",
+			"Bamyan",
 			"Ghazni",
 			"Herat",
 			"Jalalabad",
 			"Kandahar",
 			"Kunduz",
-			"Mazar-e Sharif",
+			"Mazar-i-Sharif",
 			"Bagram",
 			"Balkh",
 			"Band-e Amir",
@@ -44,7 +44,7 @@
 				"Dari"
 			]
 		},
-		"snippets": 1,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lake_Band-e-Amir.jpg"
 	},
 	"Albania": {
@@ -135,7 +135,8 @@
 			"Annaba",
 			"Batna",
 			"Bechar",
-			"Constantine",
+			"Constantine, Algeria",
+			"",
 			"Oran",
 			"Sétif",
 			"Timimoun",
@@ -276,7 +277,6 @@
 		],
 		"links": [],
 		"destinations": [
-			"Saint John's",
 			"Codrington",
 			"Dickenson Bay",
 			"English Harbour",
@@ -388,13 +388,11 @@
 		],
 		"destinations": [
 			"Buenos Aires",
-			"Córdoba (city, Argentina)",
+			"Córdoba",
 			"Rosario",
 			"Mendoza",
 			"La Plata",
 			"Salta",
-			"San Juan (city, Argentina)",
-			"San Carlos de Bariloche",
 			"El Calafate",
 			"Nahuel Huapi National Park",
 			"Quebrada de Humahuaca"
@@ -512,7 +510,7 @@
 			"Adelaide",
 			"Brisbane",
 			"Cairns",
-			"Darwin",
+			"Darwin, Northern Territory",
 			"Hobart",
 			"Melbourne",
 			"Perth",
@@ -521,7 +519,6 @@
 			"Dandenong Ranges",
 			"Great Ocean Road",
 			"Kakadu National Park",
-			"Katherine",
 			"Sunshine Coast (Queensland)",
 			"Uluru-Kata Tjuta National Park",
 			"Watarrka National Park",
@@ -543,7 +540,7 @@
 				false
 			]
 		},
-		"snippets": 3,
+		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg"
 	},
 	"Austria": {
@@ -586,14 +583,13 @@
 			"Eisenstadt",
 			"Graz",
 			"Innsbruck",
-			"Klagenfurt",
+			"Klagenfurt am Wörthersee",
 			"Linz",
 			"Salzburg",
 			"Villach",
 			"Kaprun",
 			"Pinswang",
 			"Salzkammergut",
-			"Igls",
 			"Thermenland",
 			"Zell am See",
 			"Eng",
@@ -1799,7 +1795,7 @@
 				"Khmer"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:PreahTineahChanchhaya.JPG"
 	},
 	"Cameroon": {
@@ -2311,7 +2307,7 @@
 			],
 			"currency": "CNY"
 		},
-		"snippets": 40,
+		"snippets": 45,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG"
 	},
@@ -2647,7 +2643,7 @@
 			],
 			"currency": "CRC"
 		},
-		"snippets": 1,
+		"snippets": 7,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cartago%2C_costa_rica_-_panoramio.jpg"
 	},
@@ -2914,7 +2910,11 @@
 			"Varadero"
 		],
 		"wb": "Q241",
-		"neighbors": [],
+		"neighbors": [
+			"Bahamas",
+			"Jamaica",
+			"Haiti"
+		],
 		"commons": "Cuba",
 		"info": {
 			"tel": "+53",
@@ -2923,7 +2923,7 @@
 			],
 			"currency": "CUP"
 		},
-		"snippets": 0,
+		"snippets": 8,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG"
 	},
@@ -3505,7 +3505,7 @@
 				"Shuar"
 			]
 		},
-		"snippets": 0,
+		"snippets": 3,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:EC_Cotopaxi_NRouteISlope_2012.jpg"
 	},
@@ -4008,7 +4008,7 @@
 				"Hindustani"
 			]
 		},
-		"snippets": 1,
+		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Denarau_Island_in_Fiji%2C_2013.jpg"
 	},
@@ -4588,7 +4588,7 @@
 				"German"
 			]
 		},
-		"snippets": 4,
+		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberger_Burg_im_Herbst_2013.jpg"
 	},
 	"Ghana": {
@@ -4770,7 +4770,7 @@
 			1584,
 			1575
 		],
-		"snippets": 9,
+		"snippets": 10,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:The_Colors_of_Grenada_-_panoramio.jpg"
 	},
@@ -4865,7 +4865,7 @@
 			],
 			"currency": "GTQ"
 		},
-		"snippets": 0,
+		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg"
 	},
 	"Guinea": {
@@ -5078,7 +5078,7 @@
 			],
 			"currency": "HNL"
 		},
-		"snippets": 2,
+		"snippets": 4,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG"
 	},
@@ -5397,7 +5397,7 @@
 			],
 			"currency": "INR"
 		},
-		"snippets": 2,
+		"snippets": 13,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Varanasikedarghat.JPG"
 	},
 	"Indonesia": {
@@ -5476,7 +5476,7 @@
 			],
 			"currency": "IDR"
 		},
-		"snippets": 23,
+		"snippets": 27,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WayangKulit_Scene_Zoom.JPG"
 	},
 	"Iran": {
@@ -5534,7 +5534,7 @@
 				"Persian"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Yazd_panorama.jpg"
 	},
 	"Iraq": {
@@ -5859,7 +5859,7 @@
 			],
 			"currency": "ILS"
 		},
-		"snippets": 5,
+		"snippets": 6,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WikiAir_IL-13-06_035_-_Old_City_%28Jerusalem%29.JPG"
 	},
@@ -5968,7 +5968,7 @@
 				"Italian"
 			]
 		},
-		"snippets": 12,
+		"snippets": 13,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg"
 	},
@@ -6016,7 +6016,7 @@
 			],
 			"currency": "JMD"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunny_lodge_walderston_jamaica.jpg"
 	},
@@ -6101,7 +6101,7 @@
 			],
 			"currency": "JPY"
 		},
-		"snippets": 22,
+		"snippets": 23,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Benzaitendo_Temple2.JPG"
 	},
@@ -6151,7 +6151,7 @@
 				"Arabic"
 			]
 		},
-		"snippets": 1,
+		"snippets": 3,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:As_Salt_Castle.JPG"
 	},
@@ -6399,7 +6399,7 @@
 				"Kyrgyz"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Osh_-_Ak-Buura_river_%282%29_%2830507316675%29.jpg"
 	},
 	"Laos": {
@@ -6449,7 +6449,7 @@
 				"Lao"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WatSen.jpg"
 	},
 	"Latvia": {
@@ -6618,7 +6618,7 @@
 				"French"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Baalbek-Bacchus.jpg"
 	},
@@ -7245,7 +7245,7 @@
 				"Malay"
 			]
 		},
-		"snippets": 10,
+		"snippets": 14,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:PetronasKLCC.jpg"
 	},
 	"Maldives": {
@@ -7793,7 +7793,7 @@
 			],
 			"currency": "MXN"
 		},
-		"snippets": 4,
+		"snippets": 17,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg"
 	},
 	"Federated States of Micronesia": {
@@ -9120,7 +9120,7 @@
 			],
 			"currency": "PAB"
 		},
-		"snippets": 22,
+		"snippets": 24,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lock_-_panoramio_-_---%3DXEON%3D---_%281%29.jpg"
 	},
@@ -9382,7 +9382,7 @@
 			],
 			"currency": "PEN"
 		},
-		"snippets": 16,
+		"snippets": 20,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_%2815181518852%29.jpg"
 	},
@@ -10090,7 +10090,7 @@
 				"English"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kreuzf-Hafen-st-lucia.jpg"
 	},
@@ -11921,7 +11921,7 @@
 			],
 			"currency": "TTD"
 		},
-		"snippets": 11,
+		"snippets": 12,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Paria_Arch.JPG"
 	},
@@ -12623,7 +12623,9 @@
 			"Little Rock",
 			"Memphis",
 			"Nashville",
-			"St. Louis"
+			"St. Louis",
+			"Minneapolis",
+			"Hot Springs (Arkansas)"
 		],
 		"wb": "Q30",
 		"neighbors": [
@@ -12719,7 +12721,7 @@
 			],
 			"currency": "UYU"
 		},
-		"snippets": 2,
+		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Uruguay_%285886752274%29.jpg"
 	},
@@ -12871,7 +12873,7 @@
 			],
 			"currency": "VEB"
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Salto_Angel_desde_la_curiara.jpg"
 	},

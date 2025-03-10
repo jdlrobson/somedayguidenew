@@ -228,7 +228,9 @@
 					"low": 22.3,
 					"precipitation": 78.5
 				}
-			]
+			],
+			"lat": 18.53333333,
+			"lon": -68.36666667
 		},
 		"Santiago de los Caballeros": {
 			"climate": [
@@ -304,7 +306,9 @@
 					"low": 18.7,
 					"precipitation": 80.2
 				}
-			]
+			],
+			"lat": 19.45722222,
+			"lon": -70.68888889
 		},
 		"La Romana": {
 			"climate": [

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Abies_religiosa_Chincua_5.jpg/320px-Abies_religiosa_Chincua_5.jpg
+Monarch Butterfly Biosphere Reserve
+https://en.wikipedia.org/wiki/Monarch_Butterfly_Biosphere_Reserve
+<small>[from en.wikipedia.org]:</small> The Monarch Butterfly Biosphere Reserve is a World Heritage Site containing most of the overwintering sites of the eastern population of the monarch butterfly. The reserve is located in the Trans-Mexican Volcanic Belt pine-oak forests ecoregion on the border of Michoacán and State of Mexico, 100 km, northwest of Mexico City. Millions of butterflies arrive in the reserve annually. Butterflies only inhabit a fraction of the 56,000 hectares of the reserve from October–March. The biosphere's mission is to protect the butterfly species and its habitat.
+<location lat="19.60638889" lon="-100.24166667"></location>

@@ -86,7 +86,9 @@
 					"low": 23.8,
 					"precipitation": 75.1
 				}
-			]
+			],
+			"lat": 5.31666667,
+			"lon": -4.03333333
 		},
 		"Korhogo": {
 			"climate": [
@@ -238,7 +240,9 @@
 					"low": 20.3,
 					"precipitation": 14.6
 				}
-			]
+			],
+			"lat": 7.68333333,
+			"lon": -5.01666667
 		},
 		"Yamoussoukro": {
 			"climate": [
@@ -314,7 +318,9 @@
 					"low": 19,
 					"precipitation": 15
 				}
-			]
+			],
+			"lat": 6.81611111,
+			"lon": -5.27416667
 		},
 		"Grand-Bassam": {
 			"climate": [
@@ -390,7 +396,9 @@
 					"high": 25,
 					"low": 21
 				}
-			]
+			],
+			"lat": 5.2,
+			"lon": -3.73333333
 		}
 	}
 }

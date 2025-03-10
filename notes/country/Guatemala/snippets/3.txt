@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lago_de_Atitlan_seen_from_orbit.jpg/320px-Lago_de_Atitlan_seen_from_orbit.jpg
+Lake Atitlán
+https://en.wikipedia.org/wiki/Lake_Atitl%C3%A1n
+<small>[from en.wikipedia.org]:</small> Lake Atitlán is a lake in the Guatemalan Highlands of the Sierra Madre mountain range. The lake is located in the Sololá Department of southwestern Guatemala. It is known as the deepest lake in Central America.
+<location lat="14.7" lon="-91.2"></location>

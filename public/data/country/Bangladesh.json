@@ -76,7 +76,9 @@
 					"high": 26,
 					"low": 14
 				}
-			]
+			],
+			"lat": 23.80416667,
+			"lon": 90.41527778
 		},
 		"Barisal": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 13.6,
 					"precipitation": 5.9
 				}
-			]
+			],
+			"lat": 22.7,
+			"lon": 90.36666667
 		},
 		"Chittagong": {
 			"climate": [
@@ -228,7 +232,9 @@
 					"high": 27,
 					"low": 16
 				}
-			]
+			],
+			"lat": 22.335,
+			"lon": 91.8325
 		},
 		"Khulna": {
 			"climate": [
@@ -380,7 +386,9 @@
 					"low": 13.5,
 					"precipitation": 2
 				}
-			]
+			],
+			"lat": 24.75388889,
+			"lon": 90.40305556
 		},
 		"Rajshahi": {
 			"climate": [
@@ -456,7 +464,9 @@
 					"low": 12.8,
 					"precipitation": 2
 				}
-			]
+			],
+			"lat": 24.36666667,
+			"lon": 88.6
 		},
 		"Rangpur (Bangladesh)": {
 			"climate": [
@@ -608,7 +618,9 @@
 					"low": 14,
 					"precipitation": 13
 				}
-			]
+			],
+			"lat": 24.9,
+			"lon": 91.86666667
 		},
 		"Cox's Bazar": {
 			"climate": [
@@ -684,7 +696,9 @@
 					"low": 16.5,
 					"precipitation": 13
 				}
-			]
+			],
+			"lat": 21.42722222,
+			"lon": 92.005
 		}
 	}
 }

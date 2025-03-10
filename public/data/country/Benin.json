@@ -52,7 +52,9 @@
 					"heading": "Dec",
 					"precipitation": 16
 				}
-			]
+			],
+			"lat": 6.49722222,
+			"lon": 2.605
 		},
 		"Abomey": {
 			"climate": [
@@ -128,7 +130,9 @@
 					"high": 31,
 					"low": 22
 				}
-			]
+			],
+			"lat": 7.18555556,
+			"lon": 1.98805556
 		},
 		"Cotonou": {
 			"climate": [
@@ -204,7 +208,9 @@
 					"low": 23.8,
 					"precipitation": 19.6
 				}
-			]
+			],
+			"lat": 6.36666667,
+			"lon": 2.43333333
 		},
 		"Parakou": {
 			"climate": [
@@ -280,7 +286,9 @@
 					"low": 18.5,
 					"precipitation": 6.6
 				}
-			]
+			],
+			"lat": 9.35,
+			"lon": 2.61666667
 		},
 		"Pendjari National Park": {
 			"climate": [
@@ -356,7 +364,9 @@
 					"high": 37,
 					"low": 16
 				}
-			]
+			],
+			"lat": 11.05,
+			"lon": 1.51666667
 		}
 	}
 }

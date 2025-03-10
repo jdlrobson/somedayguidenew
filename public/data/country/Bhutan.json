@@ -25,7 +25,7 @@
 			"source": "",
 			"type": "url",
 			"embed": false,
-			"title": "Bhutan",
+			"title": "Bhutan birding",
 			"url": "https://www.alvarosadventures.com/bhutan1.html"
 		}
 	],
@@ -104,7 +104,9 @@
 					"high": 15,
 					"low": null
 				}
-			]
+			],
+			"lat": 27.47222222,
+			"lon": 89.63611111
 		},
 		"Jakar": {
 			"climate": [
@@ -156,7 +158,9 @@
 					"heading": "Dec",
 					"precipitation": 3
 				}
-			]
+			],
+			"lat": 27.55,
+			"lon": 90.73333333
 		},
 		"Phuentsholing": {
 			"climate": [
@@ -308,7 +312,9 @@
 					"high": 9,
 					"low": -1
 				}
-			]
+			],
+			"lat": 27.51666667,
+			"lon": 90.5
 		}
 	}
 }

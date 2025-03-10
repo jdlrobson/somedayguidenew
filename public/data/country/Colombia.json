@@ -113,7 +113,9 @@
 					"high": 20,
 					"low": 8
 				}
-			]
+			],
+			"lat": 4.71111111,
+			"lon": -74.07222222
 		},
 		"Cali": {
 			"climate": [
@@ -189,7 +191,9 @@
 					"low": 18.9,
 					"precipitation": 67.9
 				}
-			]
+			],
+			"lat": 3.42055556,
+			"lon": -76.52222222
 		},
 		"Cartagena (Colombia)": {
 			"climate": [
@@ -341,7 +345,9 @@
 					"low": 12.2,
 					"precipitation": 131.5
 				}
-			]
+			],
+			"lat": 5.0675,
+			"lon": -75.51
 		},
 		"Medellín": {
 			"climate": [
@@ -417,7 +423,9 @@
 					"high": 27,
 					"low": 17
 				}
-			]
+			],
+			"lat": 6.23083333,
+			"lon": -75.59055556
 		},
 		"Pereira": {
 			"climate": [
@@ -569,7 +577,9 @@
 					"low": 22.7,
 					"precipitation": 15.2
 				}
-			]
+			],
+			"lat": 11.24194444,
+			"lon": -74.20527778
 		},
 		"Zipaquirá": {
 			"climate": [
@@ -645,7 +655,9 @@
 					"low": 7,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": 5.03333333,
+			"lon": -74
 		},
 		"Islas del Rosario": {
 			"climate": [

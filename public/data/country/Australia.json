@@ -26,6 +26,50 @@
 			"embed": false,
 			"title": "Nanguluwurr",
 			"url": "https://kakadu.gov.au/things-do/activities/rock-art/nanguluwurr/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The quokka is a small macropod about the size of a domestic cat. It is the only member of the genus Setonix. Like other marsupials in the macropod family, the quokka is herbivorous and mainly nocturnal.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quokka_at_rottnest_%28cropped%29.jpg/320px-Quokka_at_rottnest_%28cropped%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Quokka",
+			"url": "https://en.wikipedia.org/wiki/Quokka"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Twelve Apostles are a collection of limestone stacks off the shore of Port Campbell National Park, by the Great Ocean Road in Victoria, Australia.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Twelve_Apostles_2011.jpg/320px-The_Twelve_Apostles_2011.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The Twelve Apostles (Victoria)",
+			"url": "https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/320px-ULURU.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Uluru",
+			"url": "https://en.wikipedia.org/wiki/Uluru"
+		},
+		{
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Mark David | A few unusual trees in Australia",
+			"url": "https://www.mdavid.com.au/trees/unusualtrees.shtml"
+		},
+		{
+			"text": "Encountering Australia's wildlife in its natural habitat is a magical experience. Observing animals in the wild, where they explore freely and behave naturally, offers a unique and unforgettable connection to nature. One of the most sought-after wildlife experiences in Australia is spotting the elusive platypus in the wild. This semiaquatic,... <small>[image from Australian Wildlife Journeys]</small>",
+			"src": "https://australianwildlifejourneys.com/files/1494_fnq_nature_tours_platypus.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Best Places to See Platypuses in the Wild",
+			"url": "https://australianwildlifejourneys.com/blog/2024/08/01/223/best-places-to-see-platypuses-in-the-wild"
 		}
 	],
 	"places": {

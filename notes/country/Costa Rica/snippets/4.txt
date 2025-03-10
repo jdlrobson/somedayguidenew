@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Turrialba_volcano_eruption_2014._Costa_Rica_%281%29.jpg/320px-Turrialba_volcano_eruption_2014._Costa_Rica_%281%29.jpg
+Turrialba Volcano National Park
+https://en.wikipedia.org/wiki/Turrialba_Volcano_National_Park
+<small>[from en.wikipedia.org]:</small> Turrialba Volcano National Park, or in Spanish the Parque Nacional Volcan Turrialba is a national park in the Central Conservation Area of Costa Rica that encompasses the area around the Turrialba Volcano in Cartago Province.
+<location lat="10.03" lon="-83.77"></location>

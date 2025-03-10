@@ -167,7 +167,9 @@
 					"low": 11.7,
 					"precipitation": 70.1
 				}
-			]
+			],
+			"lat": -17.38833333,
+			"lon": -66.15972222
 		},
 		"Potosí": {
 			"climate": [
@@ -243,7 +245,9 @@
 					"low": 3,
 					"precipitation": 75
 				}
-			]
+			],
+			"lat": -19.58916667,
+			"lon": -65.75333333
 		},
 		"Santa Cruz (city, Bolivia)": {
 			"climate": [
@@ -395,7 +399,9 @@
 					"high": 23,
 					"low": 11
 				}
-			]
+			],
+			"lat": -19.0475,
+			"lon": -65.26
 		},
 		"Chacaltaya": {
 			"climate": [
@@ -471,7 +477,9 @@
 					"low": -3.6,
 					"precipitation": 77.8
 				}
-			]
+			],
+			"lat": -16.35333333,
+			"lon": -68.13138889
 		},
 		"Isla del Sol": {
 			"climate": [
@@ -547,7 +555,9 @@
 					"low": 4.5,
 					"precipitation": 96.6
 				}
-			]
+			],
+			"lat": -16.02055556,
+			"lon": -69.17638889
 		},
 		"Noel Kempff Mercado National Park": {
 			"climate": [
@@ -623,7 +633,9 @@
 					"high": 25,
 					"low": 20
 				}
-			]
+			],
+			"lat": -14.26666667,
+			"lon": -60.86666667
 		},
 		"Salar de Uyuni": {
 			"climate": [
@@ -699,7 +711,9 @@
 					"high": 18,
 					"low": 7
 				}
-			]
+			],
+			"lat": -20.133775,
+			"lon": -67.48913333
 		},
 		"La Paz": {
 			"climate": [
@@ -775,7 +789,9 @@
 					"low": 7.5,
 					"precipitation": 82.3
 				}
-			]
+			],
+			"lat": -16.49583333,
+			"lon": -68.13333333
 		}
 	}
 }
