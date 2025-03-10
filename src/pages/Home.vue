@@ -148,7 +148,7 @@ const filterByName = ( ev ) => {
   color: black;
   width: 38px;
   height: 20px;
-  bottom: 0;
+  bottom: 21px;
   padding: 4px;
   opacity: 0.8;
   font-size: 0.75rem;
@@ -158,11 +158,11 @@ const filterByName = ( ev ) => {
   justify-content: center;
 }
 .postit .noL {
-  bottom: 21px;
+  bottom: 41px;
   background: #afaff3;
 }
 .postit .noSnip {
     background: #ccc;
-    bottom: 41px;
+    bottom: 61px;
 }
 </style>
