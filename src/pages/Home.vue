@@ -100,12 +100,26 @@ const filterByName = ( ev ) => {
 <template>
     <div class="page-home">
         <Header>
-            <input class="search" placeholder="Filter" @input="filterByName">
         </Header>
         <article>
             <note :isSmall="true">
                 <p>This website is a digital scrapbook meant to inspire exploring the world. The list of countries is limited to <a href="https://www.un.org/en/about-us/member-states#gotoV">UN recognized states</a>. It is made with love by <a href="https://jdlrobson.com">Jon</a> and <a href="https://linzlim.fyi">Linzy</a>.</p>
-                <p>Where shall we dream about today?</p>
+                <p>Where in the world shall we dream about today?</p>
+                <a href="#search">search</a>
+            </note>
+            <InspirationBoard>
+                <Postit v-for="(c, i) in countries"
+                    :title="c.title" :thumbnail="c.thumbnail"
+                    :href="c.href"
+                    :thumbnailSource="c.thumbnailSource"
+                    :style="i % 2 === 0 ? `transform: rotate(3deg)` : `transform: rotate(-3deg)`">
+                    <span class="no noL" v-if="c.seenL">✔️{{ c.seenL }}</span>
+                    <span class="no" v-if="c.seen">✔️{{ c.seen }}</span>
+                    <span class="no noSnip">✂{{ c.snippets }}</span>
+                </Postit>
+            </InspirationBoard>
+            <note>
+                <input name="search" id="search" class="search" placeholder="Type a country name to filter the post-its" @input="filterByName">
                 <div>
                     <span>filter by</span>
                     <button @click="filter('seen')">seen</button>
@@ -124,23 +138,16 @@ const filterByName = ( ev ) => {
                 </div>
                 <div>{{  countries.length }} / {{ ALL_COUNTRIES.length }} countries</div>
             </note>
-            <InspirationBoard>
-                <Postit v-for="(c, i) in countries"
-                    :title="c.title" :thumbnail="c.thumbnail"
-                    :href="c.href"
-                    :thumbnailSource="c.thumbnailSource"
-                    :style="i % 2 === 0 ? `transform: rotate(3deg)` : `transform: rotate(-3deg)`">
-                    <span class="no noL" v-if="c.seenL">✔️{{ c.seenL }}</span>
-                    <span class="no" v-if="c.seen">✔️{{ c.seen }}</span>
-                    <span class="no noSnip">✂{{ c.snippets }}</span>
-                </Postit>
-            </InspirationBoard>
         </article>
     </div>
 </template>
 
 <style scoped>
-
+.search {
+    height: 40px;
+    margin: 10px 0;
+    width: 100%;
+}
 .postit .no {
   position: absolute;
   right: 0;
@@ -156,6 +163,9 @@ const filterByName = ( ev ) => {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+section.note {
+    margin-top: 10px;
 }
 .postit .noL {
   bottom: 41px;

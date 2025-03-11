@@ -36,10 +36,6 @@ section.noteChart {
     line-height: 43px;
     padding-top: 16px;
 }
-.note p {
-    display: flex;
-    flex-wrap: wrap;
-}
 section.note img {
     width: 100%;
     height: auto;

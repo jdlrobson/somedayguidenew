@@ -43,11 +43,11 @@ const center = props.center || [ 0, 0 ];
     z-index: 10000;
 }
 .page-header {
-    height: 290px;
     background-color: #fcfbe8;
     max-width: 500px;
-    margin: auto;
+    margin: auto auto 20px;
     position: relative;
+    padding-bottom: 20px;
 }
 .page-header > .map {
   width: 100%;
