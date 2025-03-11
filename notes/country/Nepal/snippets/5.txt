@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Basantapurpalace.JPG/320px-Basantapurpalace.JPG
+Kathmandu Durbar Square
+https://en.wikipedia.org/wiki/Kathmandu_Durbar_Square
+<small>[from en.wikipedia.org]:</small> Kathmandu Durbar Square is a historically and culturally significant site in Kathmandu, Nepal. It is one of the three Durbar Squares in the Kathmandu Valley in Nepal that are UNESCO World Heritage Sites.
+<location lat="27.70415" lon="85.30647"></location>

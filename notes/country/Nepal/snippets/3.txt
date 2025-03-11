@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Boudhanath_Panorama_2016.jpg/640px-Boudhanath_Panorama_2016.jpg
+Kathmandu
+https://en.wikipedia.org/wiki/Kathmandu
+<small>[from en.wikipedia.org]:</small> Kathmandu, officially the Kathmandu Metropolitan City, is the seat of federal government and the most populous city in Nepal. As of the 2021 Nepal census, there were 845,767 inhabitants living in 105,649 households and approximately 4 million people in its surrounding agglomeration. It is located in the Kathmandu Valley, a large valley surrounded by hills in central Nepal, at an altitude of 4,344 feet above sea level.
+<location lat="27.71" lon="85.32"></location>

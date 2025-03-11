@@ -2,13 +2,13 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"src": "https://www.youtube.com/watch?v=fM8MmBCN-gA",
+			"src": "https://www.youtube.com/embed/fM8MmBCN-gA",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
-			"src": "https://www.youtube.com/watch?v=r40TuTkt9y4",
+			"src": "https://www.youtube.com/embed/r40TuTkt9y4",
 			"source": "",
 			"type": "url",
 			"embed": true

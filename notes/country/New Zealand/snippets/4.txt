@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Whakatane_Heads_15_3_2006.JPG/320px-Whakatane_Heads_15_3_2006.JPG
+Bay of Plenty
+https://en.wikipedia.org/wiki/Bay_of_Plenty
+<small>[from en.wikipedia.org]:</small> The Bay of Plenty is a large bight along the northern coast of New Zealand's North Island. It stretches 260 kilometres (160 mi) from the Coromandel Peninsula in the west to Cape Runaway in the east. Called Te Moana-a-Toitehuatahi in the Māori language after Toi-te-huatahi, an early ancestor, the name 'Bay of Plenty' was bestowed by James Cook in 1769 when he noticed the abundant food supplies at several Māori villages there, in stark contrast to observations he had made earlier in Poverty Bay.
+<location lat="-37.66666667" lon="177"></location>

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Franz_josef_Glacier_LC0250.jpg/320px-Franz_josef_Glacier_LC0250.jpg
+Franz Josef Glacier
+https://en.wikipedia.org/wiki/Franz_Josef_Glacier
+<small>[from en.wikipedia.org]:</small> The Franz Josef Glacier is a 12-kilometre-long (7.5 mi) temperate maritime glacier in Westland Tai Poutini National Park on the West Coast of New Zealand's South Island. Together with the Fox Glacier 20 kilometres (12 mi) to the south, and a third glacier, it descends from the Southern Alps to less than 300 metres (980 ft) above sea level.
+<location lat="-43.46694444" lon="170.19166667"></location>

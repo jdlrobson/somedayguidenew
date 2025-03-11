@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mount_Aoraki_%28Mt._Cook%29_%26_Mount_Tasman_-_Lake_Matheson_%28New_Zealand%29.jpg/320px-Mount_Aoraki_%28Mt._Cook%29_%26_Mount_Tasman_-_Lake_Matheson_%28New_Zealand%29.jpg
+Lake Matheson
+https://en.wikipedia.org/wiki/Lake_Matheson
+<small>[from en.wikipedia.org]:</small> Lake Matheson is a small glacial lake in South Westland, New Zealand, near the township of Fox Glacier. It was a traditional food-gathering place for local Māori. An easy walking track circles the lake, which is famous for its reflected views of Aoraki / Mount Cook and Mount Tasman.
+<location lat="-43.43805556" lon="169.96305556"></location>

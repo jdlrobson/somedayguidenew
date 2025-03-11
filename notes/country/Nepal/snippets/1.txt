@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tiger_in_chitwan.jpg/640px-Tiger_in_chitwan.jpg
+Chitwan National Park
+https://en.wikipedia.org/wiki/Chitwan_National_Park
+<small>[from en.wikipedia.org]:</small> Chitwan National Park is the first national park of Nepal. It was established in 1973 as the Royal Chitwan National Park and was granted the status of a World Heritage Site in 1984. It covers an area of 952.63 km2 (367.81 sq mi) in the subtropical Inner Terai lowlands of south-central Nepal in Nawalpur, Chitwan, Makwanpur and Parsa Districts. It ranges in elevation from about 100 m (330 ft) in the river valleys to 815 m (2,674 ft) in the Sivalik Hills.
+<location lat="27.5" lon="84.33333333"></location>

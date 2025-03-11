@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gobi_Desert_dunes.jpg/320px-Gobi_Desert_dunes.jpg
+Gobi Desert
+https://en.wikipedia.org/wiki/Gobi_Desert
+<small>[from en.wikipedia.org]:</small> The Gobi Desert is a large, cold desert and grassland region located in northern China and southern Mongolia. It is the sixth largest desert in the world. The name of the desert comes from the Mongolian word gobi, used to refer to all of the waterless regions in the Mongolian Plateau; in Chinese, gobi is used to refer to rocky, semi-deserts such as the Gobi itself rather than sandy deserts.
+<location lat="42.59" lon="103.43"></location>

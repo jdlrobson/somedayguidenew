@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongolian_arats_at_the_lake.jpg/359px-Mongolian_arats_at_the_lake.jpg
+Lake Khövsgöl
+https://en.wikipedia.org/wiki/Lake_Kh%C3%B6vsg%C3%B6l
+<small>[from en.wikipedia.org]:</small> Lake Khövsgöl is a lake in Khövsgöl Province, Mongolia. It is the largest freshwater lake in the country by volume and second largest by area after Uvs Lake. It is nicknamed the "Younger sister" of those two "sister lakes".
+<location lat="51.1" lon="100.5"></location>

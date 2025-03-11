@@ -113,7 +113,9 @@
 					"high": 23,
 					"low": 7
 				}
-			]
+			],
+			"lat": 9.03,
+			"lon": 38.74
 		},
 		"Axum": {
 			"climate": [
@@ -189,7 +191,9 @@
 					"low": 6.7,
 					"precipitation": 1
 				}
-			]
+			],
+			"lat": 14.12083333,
+			"lon": 38.72777778
 		},
 		"Bahir Dar": {
 			"climate": [
@@ -341,7 +345,9 @@
 					"low": 14.4,
 					"precipitation": 13
 				}
-			]
+			],
+			"lat": 9.6,
+			"lon": 41.86666667
 		},
 		"Gondar": {
 			"climate": [
@@ -417,7 +423,9 @@
 					"low": 12,
 					"precipitation": 4
 				}
-			]
+			],
+			"lat": 12.6075,
+			"lon": 37.45916667
 		},
 		"Harar": {
 			"climate": [
@@ -493,7 +501,9 @@
 					"low": 12,
 					"precipitation": 6
 				}
-			]
+			],
+			"lat": 9.31111111,
+			"lon": 42.12777778
 		},
 		"Mekele": {
 			"climate": [
@@ -721,7 +731,9 @@
 					"high": 37,
 					"low": 26
 				}
-			]
+			],
+			"lat": 14.2417,
+			"lon": 40.3
 		}
 	}
 }

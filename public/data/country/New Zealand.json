@@ -2,13 +2,13 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"text": "Rotorua, on New Zealand's North Island,  is well-known for its fascinating geothermal activity, Māori culture, hot springs and mud pools. A must-visit stop in New Zealand, full of attractions and things to do. <small>[image from www.newzealand.com]</small>",
-			"src": "null",
+			"text": "Visit some of New Zealand’s most unique geothermal and volcanic features - in Rotorua.  <small>[image from WAI-O-TAPU]</small>",
+			"src": "http://www.waiotapu.co.nz/images/waiotapu-01.png",
 			"source": "",
 			"type": "url",
 			"embed": false,
-			"title": "Rotorua | 100% Pure New Zealand",
-			"url": "https://www.newzealand.com/us/rotorua/"
+			"title": "Wai-o-tapau, Rotorau hot springs",
+			"url": "https://www.waiotapu.co.nz/"
 		},
 		{
 			"text": " <small>[image from www.waitomo.com]</small>",
@@ -18,6 +18,66 @@
 			"embed": false,
 			"title": "Waitomo Glowworm Caves",
 			"url": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Lake Matheson is a small glacial lake in South Westland, New Zealand, near the township of Fox Glacier. It was a traditional food-gathering place for local Māori. An easy walking track circles the lake, which is famous for its reflected views of Aoraki / Mount Cook and Mount Tasman.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mount_Aoraki_%28Mt._Cook%29_%26_Mount_Tasman_-_Lake_Matheson_%28New_Zealand%29.jpg/320px-Mount_Aoraki_%28Mt._Cook%29_%26_Mount_Tasman_-_Lake_Matheson_%28New_Zealand%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Lake Matheson",
+			"url": "https://en.wikipedia.org/wiki/Lake_Matheson"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Bay of Plenty is a large bight along the northern coast of New Zealand's North Island. It stretches 260 kilometres (160 mi) from the Coromandel Peninsula in the west to Cape Runaway in the east. Called Te Moana-a-Toitehuatahi in the Māori language after Toi-te-huatahi, an early ancestor, the name 'Bay of Plenty' was bestowed by James Cook in 1769 when he noticed the abundant food supplies at several Māori villages there, in stark contrast to observations he had made earlier in Poverty Bay.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Whakatane_Heads_15_3_2006.JPG/320px-Whakatane_Heads_15_3_2006.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Bay of Plenty",
+			"url": "https://en.wikipedia.org/wiki/Bay_of_Plenty"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Tongariro Alpine Crossing in Tongariro National Park is a tramping track in New Zealand, and is among the most popular day hikes in the country. The Tongariro National Park is a World Heritage site which has the distinction of dual status, as it has been acknowledged for both its natural and cultural significance.",
+			"src": "null",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Tongariro Alpine Crossing",
+			"url": "https://en.wikipedia.org/wiki/Tongariro_Alpine_Crossing"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Franz Josef Glacier is a 12-kilometre-long (7.5 mi) temperate maritime glacier in Westland Tai Poutini National Park on the West Coast of New Zealand's South Island. Together with the Fox Glacier 20 kilometres (12 mi) to the south, and a third glacier, it descends from the Southern Alps to less than 300 metres (980 ft) above sea level.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Franz_josef_Glacier_LC0250.jpg/320px-Franz_josef_Glacier_LC0250.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Franz Josef Glacier",
+			"url": "https://en.wikipedia.org/wiki/Franz_Josef_Glacier"
+		},
+		{
+			"src": "https://www.youtube.com/embed/C-CjdtenS10",
+			"source": "",
+			"type": "url",
+			"embed": true
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Hobbiton Movie Set is a significant location used for The Lord of the Rings film trilogy and The Hobbit film trilogy, serving as a stand-in for the town of Hobbiton in the Shire in both trilogies. It is situated on a family-run farm about 8 kilometres (5.0 mi) west of Hinuera and 10 kilometres (6.2 mi) southwest of Matamata, in Waikato, New Zealand, and is now a Tolkien tourism destination, offering a guided tour of the set.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waterhouse_Lake_Front.jpg/320px-Waterhouse_Lake_Front.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Hobbiton Movie Set",
+			"url": "https://en.wikipedia.org/wiki/Hobbiton_Movie_Set"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Kiwi are flightless birds endemic to New Zealand of the order Apterygiformes. The five extant species fall into the family Apterygidae and genus Apteryx. Approximately the size of a domestic chicken, kiwi are the smallest ratites.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeTuatahianui.jpg/320px-TeTuatahianui.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Kiwi (bird)",
+			"url": "https://en.wikipedia.org/wiki/Kiwi_(bird)"
 		}
 	],
 	"places": {

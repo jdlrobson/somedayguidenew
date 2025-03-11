@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waterhouse_Lake_Front.jpg/320px-Waterhouse_Lake_Front.jpg
+Hobbiton Movie Set
+https://en.wikipedia.org/wiki/Hobbiton_Movie_Set
+<small>[from en.wikipedia.org]:</small> The Hobbiton Movie Set is a significant location used for The Lord of the Rings film trilogy and The Hobbit film trilogy, serving as a stand-in for the town of Hobbiton in the Shire in both trilogies. It is situated on a family-run farm about 8 kilometres (5.0 mi) west of Hinuera and 10 kilometres (6.2 mi) southwest of Matamata, in Waikato, New Zealand, and is now a Tolkien tourism destination, offering a guided tour of the set.
+<location lat="-37.8575" lon="175.67972222"></location>
