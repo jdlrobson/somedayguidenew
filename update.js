@@ -31,6 +31,11 @@ function expandWikimediaSnippet( filePath, wikiTitle, host ) {
         });
 }
 
+function fixYoutubeUrl( filePath ) {
+    let file = fs.readFileSync(filePath).toString();
+    file = file.replace(/youtube\.com\/watch\?v=(.*)/g, 'youtube.com/embed/$1');
+    fs.writeFileSync(filePath, file);
+}
 /**
  * Expands a Wikipedia snippet URL.
  * @param {string} filePath of snippet
@@ -121,6 +126,8 @@ function transformSnippet( filePath ) {
             if ( srcOrUrl.charAt( 0 ) !== 'h' ) {
                 console.log( `Snippet was not a URL, please check ${filePath}!` );
                 return false;
+            } else if ( srcOrUrl.indexOf( 'youtube.com' ) > -1 ) {
+                pendingRequests.push( fixYoutubeUrl( filePath ) );
             } else if ( srcOrUrl.indexOf( 'wikipedia.org' ) > -1 ) {
                 const wikiTitle = srcOrUrl.split('/').slice(-1)[0];
                 pendingRequests.push( expandWikipediaSnippet( filePath, wikiTitle ) );
