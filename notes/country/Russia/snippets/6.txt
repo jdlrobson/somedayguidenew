@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/320px-Saint_Basil%27s_Cathedral_in_Moscow.jpg
+Saint Basil's Cathedral
+https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral
+<small>[from en.wikipedia.org]:</small> The Cathedral of Vasily the Blessed, known in English as Saint Basil's Cathedral, is an Orthodox church in Red Square of Moscow, and is one of the most popular cultural symbols of Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat, or Pokrovsky Cathedral. It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. Its completion, with its colours, was made in 1683. It was the city's tallest building until the completion of the Ivan the Great Bell Tower in 1600.
+<location lat="55.7525" lon="37.62305556"></location>

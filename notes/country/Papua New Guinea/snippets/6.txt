@@ -1,0 +1,6 @@
+null
+Cape Nelson (Papua New Guinea)
+https://en.wikipedia.org/wiki/Cape_Nelson_(Papua_New_Guinea)
+<small>[from en.wikipedia.org]:</small> 
+Cape Nelson is a cape on the north coast of Oro Province, Papua New Guinea. The cape was named by Captain John Moresby in 1874 commanding HMS Basilisk after Lord Horatio Nelson.
+<location lat="-8.9975" lon="149.25027778"></location>

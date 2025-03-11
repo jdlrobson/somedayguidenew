@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Sultan_Qaboos_Grand_Mosque_RB.jpg/320px-Sultan_Qaboos_Grand_Mosque_RB.jpg
+Sultan Qaboos Grand Mosque
+https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque
+<small>[from en.wikipedia.org]:</small> The Sultan Qaboos Grand Mosque is the largest mosque in Oman, located in the capital city of Muscat.
+<location lat="23.58388889" lon="58.38916667"></location>

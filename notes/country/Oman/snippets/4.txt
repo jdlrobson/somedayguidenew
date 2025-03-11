@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mutrah_%282%29.jpg/640px-Mutrah_%282%29.jpg
+Muttrah
+https://en.wikipedia.org/wiki/Muttrah
+<small>[from en.wikipedia.org]:</small> Muttrah, administratively a wilayah (province), is located in the Muscat Governorate of Oman. Before the discovery of oil in Oman, Muttrah was the center of commerce in Oman (Muscat). It is still a center of commerce as one of the largest seaports of the region is located there. Other landmarks include Souq Muttrah, a traditional bazaar and Sour Al-Lawatiah, a small community of houses surrounded by an old wall. To the south lies Muscat District.
+<location lat="23.61666667" lon="58.56666667"></location>

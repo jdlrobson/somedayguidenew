@@ -1,6 +1,78 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Used for millennia as a perfume and panacea, frankincense was once prized more than gold. <small>[image from www.bbc.com]</small>",
+			"src": "https://ychef.files.bbci.co.uk/624x351/p07k7b5k.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Oman’s ancient biblical scent",
+			"url": "https://www.bbc.com/travel/article/20190813-omans-ancient-biblical-scent"
+		},
+		{
+			"src": "https://lh3.googleusercontent.com/pw/AM-JKLX7V2clYKrnZDsj8WLRTbXPoo4wlCOkTKjGmbLQAxUrQZMbRJSmU6WJapG6Q1UTsbpeV3FTB0w3kGDVPgeFKOBivOQfNCEpyPhuRc6YyoCHxF6In6qg4bwo_ZpyXNoJmp7BxJWi1obU9Y6QNo61CV3dqw=w800-h600-no",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Exploring Al Fazayah Beach – Salalah Trip Pt. #2",
+			"url": "https://theblogofdimi.com/exploring-al-fazayah-beach-salalah-trip/"
+		},
+		{
+			"text": "Travel guide to the Wadi Ghul canyon in Oman, known as the Omani Grand Canyon. Where to stay and how to get there from Muscat and Dubai. <small>[image from Urban Travel Blog]</small>",
+			"src": "https://www.urbantravelblog.com/wp-content/uploads/2017/09/oman-grand-canyon-visiting.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Oman's Wadi Nakhar (Wadi Ghul) Canyon",
+			"url": "https://www.urbantravelblog.com/feature/wadi-ghul-canyon-oman/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Muttrah, administratively a wilayah (province), is located in the Muscat Governorate of Oman. Before the discovery of oil in Oman, Muttrah was the center of commerce in Oman (Muscat). It is still a center of commerce as one of the largest seaports of the region is located there. Other landmarks include Souq Muttrah, a traditional bazaar and Sour Al-Lawatiah, a small community of houses surrounded by an old wall. To the south lies Muscat District.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mutrah_%282%29.jpg/640px-Mutrah_%282%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Muttrah",
+			"url": "https://en.wikipedia.org/wiki/Muttrah"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Sultan Qaboos Grand Mosque is the largest mosque in Oman, located in the capital city of Muscat.",
+			"src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Sultan_Qaboos_Grand_Mosque_RB.jpg/320px-Sultan_Qaboos_Grand_Mosque_RB.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Sultan Qaboos Grand Mosque",
+			"url": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Nakhal Fort is a large fortification in Al Batinah Region of Oman. It is named after the Wilayah of Nakhal. The fort houses a museum, operated by the Ministry of Tourism, which has exhibits of historic guns, and the fort also hosts a weekly goat market.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nakhal_Fort_%282%29.jpg/320px-Nakhal_Fort_%282%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Nakhal Fort",
+			"url": "https://en.wikipedia.org/wiki/Nakhal_Fort"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Wadi Dawan is a desert valley in central Yemen. Located in Hadhramaut Governorate, it is noted for its mud brick buildings and honey production.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Baeshen_rebat.png/640px-Baeshen_rebat.png",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Wadi Dawan",
+			"url": "https://en.wikipedia.org/wiki/Wadi_Dawan"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Al Hamra is a 400-year-old town in the region Ad Dakhiliyah, in northeastern Oman. As a province (wilayat), it is home to a number of villages including the mountainside village of Misfat Al Abryeen, with the village of Ghul to the northwest of the town, and Bimah to the north-northeast. The town and province lie on the southern slopes of the Akhdar Mountains.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Al_Hamra_%285%29.jpg/320px-Al_Hamra_%285%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Al Hamra, Oman",
+			"url": "https://en.wikipedia.org/wiki/Al_Hamra,_Oman"
+		}
+	],
 	"places": {
 		"Muscat": {
 			"climate": [

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mud_Fest_2008_%282679028799%29.jpg/320px-Mud_Fest_2008_%282679028799%29.jpg
+Boryeong Mud Festival
+https://en.wikipedia.org/wiki/Boryeong_Mud_Festival
+<small>[from en.wikipedia.org]:</small> The Boryeong Mud Festival (Korean: 보령머드축제) is an annual festival which takes place during the summer on Daecheon Beach (대천해수욕장) near Boryeong, a town some 200 km south of Seoul, South Korea. The first Mud Festival was staged in 1998 and, by 2007, the festival attracted 2.2 million visitors to Boryeong.
+<location lat="36.304" lon="126.517"></location>

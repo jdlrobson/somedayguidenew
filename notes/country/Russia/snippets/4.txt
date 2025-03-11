@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D1%8D%D0%BB%D0%BB.jpg/640px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D1%8D%D0%BB%D0%BB.jpg
+Franz Josef Land
+https://en.wikipedia.org/wiki/Franz_Josef_Land
+<small>[from en.wikipedia.org]:</small> Franz Josef Land is a Russian archipelago in the Arctic Ocean. It is inhabited only by military personnel. It constitutes the northernmost part of Arkhangelsk Oblast and consists of 192 islands, which cover an area of 16,134 square kilometers (6,229 sq mi), stretching 375 kilometers (233 mi) from east to west and 234 kilometers (145 mi) from north to south. The islands are categorized in three groups separated by the British Channel and the Austrian Strait. The central group is further divided into a northern and southern section by the Markham Sound. The largest island is Prince George Land, which measures 2,741 square kilometers (1,058 sq mi), followed by Wilczek Land, Graham Bell Island and Alexandra Land.
+<location lat="81" lon="55"></location>

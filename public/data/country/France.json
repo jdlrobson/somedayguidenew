@@ -172,7 +172,9 @@
 					"high": 7,
 					"low": 4
 				}
-			]
+			],
+			"lat": 48.85666667,
+			"lon": 2.35222222
 		},
 		"Bordeaux": {
 			"climate": [
@@ -248,7 +250,9 @@
 					"low": 3.2,
 					"precipitation": 79.7
 				}
-			]
+			],
+			"lat": 44.84,
+			"lon": -0.58
 		},
 		"Nice": {
 			"climate": [
@@ -324,7 +328,9 @@
 					"low": 5.7,
 					"precipitation": 67.1
 				}
-			]
+			],
+			"lat": 43.7034,
+			"lon": 7.2663
 		},
 		"Lille": {
 			"climate": [
@@ -400,7 +406,9 @@
 					"low": 1.9,
 					"precipitation": 67.8
 				}
-			]
+			],
+			"lat": 50.6278,
+			"lon": 3.0583
 		},
 		"Lyon": {
 			"climate": [
@@ -476,7 +484,9 @@
 					"high": 7,
 					"low": 2
 				}
-			]
+			],
+			"lat": 45.76,
+			"lon": 4.84
 		},
 		"Marseille": {
 			"climate": [
@@ -552,7 +562,9 @@
 					"low": 4,
 					"precipitation": 56.3
 				}
-			]
+			],
+			"lat": 43.2964,
+			"lon": 5.37
 		},
 		"Nantes": {
 			"climate": [
@@ -628,7 +640,9 @@
 					"high": 9,
 					"low": 3
 				}
-			]
+			],
+			"lat": 47.2181,
+			"lon": -1.5528
 		},
 		"Strasbourg": {
 			"climate": [
@@ -704,7 +718,9 @@
 					"low": 0.3,
 					"precipitation": 50
 				}
-			]
+			],
+			"lat": 48.58333333,
+			"lon": 7.74583333
 		},
 		"Toulouse": {
 			"climate": [
@@ -780,7 +796,9 @@
 					"low": 3.4,
 					"precipitation": 52.5
 				}
-			]
+			],
+			"lat": 43.6045,
+			"lon": 1.444
 		},
 		"French Riviera": {
 			"climate": [
@@ -856,7 +874,9 @@
 					"low": 6.3,
 					"precipitation": 92.7
 				}
-			]
+			],
+			"lat": 43.32,
+			"lon": 6.665
 		},
 		"Loire Valley": {
 			"climate": [
@@ -908,7 +928,9 @@
 					"heading": "Dec",
 					"precipitation": 63.4
 				}
-			]
+			],
+			"lat": 47.21638889,
+			"lon": 0.06222222
 		},
 		"Saint-Tropez": {
 			"climate": [
@@ -984,7 +1006,9 @@
 					"low": 6,
 					"precipitation": 72.2
 				}
-			]
+			],
+			"lat": 43.273296,
+			"lon": 6.639621
 		},
 		"Annecy": {
 			"climate": [
@@ -1060,7 +1084,9 @@
 					"low": -0.7,
 					"precipitation": 109.9
 				}
-			]
+			],
+			"lat": 45.916,
+			"lon": 6.133
 		},
 		"Rouen": {
 			"climate": [
@@ -1136,7 +1162,9 @@
 					"low": 1.7,
 					"precipitation": 90.9
 				}
-			]
+			],
+			"lat": 49.44277778,
+			"lon": 1.08861111
 		},
 		"Caen": {
 			"climate": [
@@ -1212,7 +1240,9 @@
 					"low": 3,
 					"precipitation": 78.1
 				}
-			]
+			],
+			"lat": 49.18138889,
+			"lon": -0.36361111
 		},
 		"Dieppe": {
 			"climate": [
@@ -1288,7 +1318,9 @@
 					"low": 3.4,
 					"precipitation": 87.8
 				}
-			]
+			],
+			"lat": 49.925,
+			"lon": 1.075
 		},
 		"Le Havre": {
 			"climate": [
@@ -1364,7 +1396,9 @@
 					"low": 4,
 					"precipitation": 88.2
 				}
-			]
+			],
+			"lat": 49.49,
+			"lon": 0.1
 		},
 		"Montpellier": {
 			"climate": [
@@ -1440,7 +1474,9 @@
 					"low": 3.7,
 					"precipitation": 66.7
 				}
-			]
+			],
+			"lat": 43.6119,
+			"lon": 3.8772
 		},
 		"Aix-en-Provence": {
 			"climate": [
@@ -1516,7 +1552,9 @@
 					"low": 1.9,
 					"precipitation": 54
 				}
-			]
+			],
+			"lat": 43.526304,
+			"lon": 5.445429
 		},
 		"Nîmes": {
 			"climate": [
@@ -1592,7 +1630,9 @@
 					"low": 3.3,
 					"precipitation": 60.1
 				}
-			]
+			],
+			"lat": 43.83833333,
+			"lon": 4.35972222
 		},
 		"Avignon": {
 			"climate": [
@@ -1668,7 +1708,9 @@
 					"low": 2.7,
 					"precipitation": 49
 				}
-			]
+			],
+			"lat": 43.95,
+			"lon": 4.8075
 		},
 		"Alpes-Maritimes": {
 			"climate": [
@@ -1744,7 +1786,9 @@
 					"low": 6.3,
 					"precipitation": 92.7
 				}
-			]
+			],
+			"lat": 43.83333333,
+			"lon": 7.16666667
 		}
 	}
 }

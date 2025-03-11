@@ -122,7 +122,9 @@
 					"high": 0,
 					"low": null
 				}
-			]
+			],
+			"lat": 60.17083333,
+			"lon": 24.9375
 		},
 		"Jyväskylä": {
 			"climate": [
@@ -198,7 +200,9 @@
 					"low": -9.5,
 					"precipitation": 47
 				}
-			]
+			],
+			"lat": 62.24166667,
+			"lon": 25.74166667
 		},
 		"Oulu": {
 			"climate": [
@@ -274,7 +278,9 @@
 					"low": -10.8,
 					"precipitation": 30
 				}
-			]
+			],
+			"lat": 65.01416667,
+			"lon": 25.47194444
 		},
 		"Rovaniemi": {
 			"climate": [
@@ -350,7 +356,9 @@
 					"low": -15.6,
 					"precipitation": 37
 				}
-			]
+			],
+			"lat": 66.5,
+			"lon": 25.73333333
 		},
 		"Tampere": {
 			"climate": [
@@ -426,7 +434,9 @@
 					"low": -7.6,
 					"precipitation": 42
 				}
-			]
+			],
+			"lat": 61.49805556,
+			"lon": 23.76
 		},
 		"Turku": {
 			"climate": [
@@ -502,7 +512,9 @@
 					"low": -5.6,
 					"precipitation": 70
 				}
-			]
+			],
+			"lat": 60.45166667,
+			"lon": 22.26694444
 		},
 		"Vaasa": {
 			"climate": [
@@ -578,7 +590,9 @@
 					"low": -9.4,
 					"precipitation": 39
 				}
-			]
+			],
+			"lat": 63.1,
+			"lon": 21.61666667
 		},
 		"Kilpisjärvi": {
 			"climate": [
@@ -654,7 +668,9 @@
 					"low": -16.7,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": 69.04722222,
+			"lon": 20.79722222
 		},
 		"Vyborg": {
 			"climate": [
@@ -730,7 +746,9 @@
 					"low": -7.1,
 					"precipitation": 61
 				}
-			]
+			],
+			"lat": 60.71666667,
+			"lon": 28.76666667
 		},
 		"Petrozavodsk": {
 			"climate": [
@@ -806,7 +824,9 @@
 					"low": -9.9,
 					"precipitation": 43
 				}
-			]
+			],
+			"lat": 61.78333333,
+			"lon": 34.33333333
 		}
 	}
 }

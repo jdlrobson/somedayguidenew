@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nakhal_Fort_%282%29.jpg/320px-Nakhal_Fort_%282%29.jpg
+Nakhal Fort
+https://en.wikipedia.org/wiki/Nakhal_Fort
+<small>[from en.wikipedia.org]:</small> Nakhal Fort is a large fortification in Al Batinah Region of Oman. It is named after the Wilayah of Nakhal. The fort houses a museum, operated by the Ministry of Tourism, which has exhibits of historic guns, and the fort also hosts a weekly goat market.
+<location lat="23.395" lon="57.829"></location>

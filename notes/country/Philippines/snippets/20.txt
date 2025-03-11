@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Town_of_Banaue.jpg/320px-Town_of_Banaue.jpg
+Banaue
+https://en.wikipedia.org/wiki/Banaue
+<small>[from en.wikipedia.org]:</small> Banaue, officially the Municipality of Banaue, is a municipality in the province of Ifugao, Philippines. According to the 2020 census, it has a population of 20,652 people.
+<location lat="16.9119" lon="121.0614"></location>

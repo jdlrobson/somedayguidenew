@@ -41,6 +41,42 @@
 			"embed": true
 		},
 		{
+			"text": "Philippine Tarsier in July 2013 by Jon Robson <small>[image from iNaturalist]</small>",
+			"src": "https://inaturalist-open-data.s3.amazonaws.com/photos/131647763/large.jpeg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Philippine Tarsier (Carlito syrichta)",
+			"url": "https://www.inaturalist.org/observations/80325798"
+		},
+		{
+			"text": "This year marks six decades since the first Pahiyas, but its origin dates back much further. Here's everything you need to know about the Philippines' most colourful harvest festival... <small>[image from Wanderlust]</small>",
+			"src": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/10/a34dw9.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "What is Pahiyas? Everything you need to know about the Filipino festival - Wanderlust",
+			"url": "https://www.wanderlustmagazine.com/inspiration/pahiyas-philippines-festival/"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> A jeepney, or simply a jeep, is a type of public utility vehicle (PUV) that serves as the most popular means of public transportation in the Philippines. Known for its crowded seating and kitsch decorations, it is a cultural icon of the Philippines and has its own art, \"Jeepney art\". At the 1964 New York World's Fair, a Sarao jeepney was exhibited in the Philippine pavilion as a national symbol for Filipinos.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jeepney%2C_Magallanes_Drive%2C_Intramuros%2C_2018_%2802%29.jpg/320px-Jeepney%2C_Magallanes_Drive%2C_Intramuros%2C_2018_%2802%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Jeepney",
+			"url": "https://en.wikipedia.org/wiki/Jeepney"
+		},
+		{
+			"text": "Hundreds of wooden coffins dangle from cliffs and caves in the Philippines. <small>[image from Atlas Obscura]</small>",
+			"src": "https://img.atlasobscura.com/-hpDbkr4yh90HO0JUynX_99nkUpyR2Hs1NYKOC9LIQM/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNDBk/ODk5ZGQ1ODA5MTQ2/YmFfNjU0ODMyNjc1/NV83YzYxMGE2YjU0/X2IuanBn.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Hanging Coffins of Sagada",
+			"url": "https://www.atlasobscura.com/places/hanging-coffins-of-sagada"
+		},
+		{
 			"text": "This is the real Tall volcano... its different from what the post cards show.  There was sulfur in the air here... and they say when you swim there, it will instantly bleach your clothes. <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/3267/3100730196_7d72224918_b.jpg",
 			"source": "",
@@ -48,6 +84,24 @@
 			"embed": false,
 			"title": "The Mouth of Taal Volcano",
 			"url": "https://www.flickr.com/photos/deckchua/3100730196"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Banaue, officially the Municipality of Banaue, is a municipality in the province of Ifugao, Philippines. According to the 2020 census, it has a population of 20,652 people.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Town_of_Banaue.jpg/320px-Town_of_Banaue.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Banaue",
+			"url": "https://en.wikipedia.org/wiki/Banaue"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Palawan, officially the Province of Palawan, is an archipelagic province of the Philippines that is located in the region of Mimaropa. It is the largest province in the country in terms of total area of 14,649.73 km2 (5,656.29 sq mi). The capital and largest city is Puerto Princesa which is geographically grouped with but administered independently from the province. Palawan is known as the Philippines' Last Frontier and as the Philippines' Best Island.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kayangan_Lake%2C_Coron_-_Palawan.jpg/320px-Kayangan_Lake%2C_Coron_-_Palawan.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Palawan",
+			"url": "https://en.wikipedia.org/wiki/Palawan"
 		},
 		{
 			"text": "The only remains of the town of Cagsawa after the eruption of the Mayon volcano in 1814.  Mayon is an active volcano found in Albay in the Philippines. <small>[image from Flickr]</small>",

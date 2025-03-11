@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duke-of-York-Islands_%28Landsat%29.JPG/320px-Duke-of-York-Islands_%28Landsat%29.JPG
+Duke of York Islands
+https://en.wikipedia.org/wiki/Duke_of_York_Islands
+<small>[from en.wikipedia.org]:</small> The Duke of York Islands are a group of islands located in East New Britain Province, Papua New Guinea. They are found in St George's Channel between New Britain and New Ireland islands and form part of the Bismarck Archipelago. The Duke of York Islands were named in 1767 by Philip Carteret to honour Prince Edward, son of Frederick, Prince of Wales and younger brother of George III of the United Kingdom.
+<location lat="-4.166667" lon="152.45"></location>

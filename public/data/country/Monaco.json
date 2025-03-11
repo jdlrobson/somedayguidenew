@@ -76,7 +76,9 @@
 					"low": 6.3,
 					"precipitation": 92.7
 				}
-			]
+			],
+			"lat": 43.83333333,
+			"lon": 7.16666667
 		},
 		"Monaco": {
 			"climate": [

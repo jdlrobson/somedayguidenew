@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rabaul_from_Vulcanology_Observatory.jpg/320px-Rabaul_from_Vulcanology_Observatory.jpg
+Rabaul
+https://en.wikipedia.org/wiki/Rabaul
+<small>[from en.wikipedia.org]:</small> Rabaul is a township in the East New Britain province of Papua New Guinea, on the island of New Britain. It lies about 600 kilometres to the east of the island of New Guinea. Rabaul was the provincial capital and most important settlement in the province until it was destroyed in 1994 by falling ash from a volcanic eruption in its harbor. During the eruption, ash was sent thousands of metres into the air, and the subsequent rain of ash caused 80% of the buildings in Rabaul to collapse. After the eruption the capital was moved to Kokopo, about 20 kilometres (12 mi) away. Rabaul is continually threatened by volcanic activity, because it is on the edge of the Rabaul caldera, a flooded caldera of a large pyroclastic shield volcano.
+<location lat="-4.2" lon="152.18333333"></location>

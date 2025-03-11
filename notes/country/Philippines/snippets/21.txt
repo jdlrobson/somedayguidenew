@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kayangan_Lake%2C_Coron_-_Palawan.jpg/320px-Kayangan_Lake%2C_Coron_-_Palawan.jpg
+Palawan
+https://en.wikipedia.org/wiki/Palawan
+<small>[from en.wikipedia.org]:</small> Palawan, officially the Province of Palawan, is an archipelagic province of the Philippines that is located in the region of Mimaropa. It is the largest province in the country in terms of total area of 14,649.73 km2 (5,656.29 sq mi). The capital and largest city is Puerto Princesa which is geographically grouped with but administered independently from the province. Palawan is known as the Philippines' Last Frontier and as the Philippines' Best Island.
+<location lat="10" lon="118.83"></location>

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Al_Hamra_%285%29.jpg/320px-Al_Hamra_%285%29.jpg
+Al Hamra, Oman
+https://en.wikipedia.org/wiki/Al_Hamra,_Oman
+<small>[from en.wikipedia.org]:</small> Al Hamra is a 400-year-old town in the region Ad Dakhiliyah, in northeastern Oman. As a province (wilayat), it is home to a number of villages including the mountainside village of Misfat Al Abryeen, with the village of Ghul to the northwest of the town, and Bimah to the north-northeast. The town and province lie on the southern slopes of the Akhdar Mountains.
+<location lat="23.11666667" lon="57.29305556"></location>

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Entrance_of_Amiri_Diwan_of_Qatar.jpg/320px-Entrance_of_Amiri_Diwan_of_Qatar.jpg
+Doha
+https://en.wikipedia.org/wiki/Doha
+<small>[from en.wikipedia.org]:</small> Doha is the capital city and main financial hub of Qatar. Located on the Persian Gulf coast in the east of the country, north of Al Wakrah and south of Al Khor and Lusail, it is home to most of the country's population. It is also Qatar's fastest growing city, with over 80% of the nation's population living in Doha or its surrounding suburbs, known collectively as the Doha Metropolitan Area.
+<location lat="25.28666667" lon="51.53333333"></location>

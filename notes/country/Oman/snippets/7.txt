@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Baeshen_rebat.png/640px-Baeshen_rebat.png
+Wadi Dawan
+https://en.wikipedia.org/wiki/Wadi_Dawan
+<small>[from en.wikipedia.org]:</small> Wadi Dawan is a desert valley in central Yemen. Located in Hadhramaut Governorate, it is noted for its mud brick buildings and honey production.
+<location lat="15.26416667" lon="48.34083333"></location>
