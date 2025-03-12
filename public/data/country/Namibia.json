@@ -120,7 +120,9 @@
 					"high": 32,
 					"low": 17
 				}
-			]
+			],
+			"lat": -22.57,
+			"lon": 17.08361111
 		},
 		"Keetmanshoop": {
 			"climate": [
@@ -196,7 +198,9 @@
 					"low": 17.6,
 					"precipitation": 13
 				}
-			]
+			],
+			"lat": -26.57861111,
+			"lon": 18.13333333
 		},
 		"Lüderitz": {
 			"climate": [
@@ -272,7 +276,9 @@
 					"low": 13.5,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": -26.64583333,
+			"lon": 15.15388889
 		},
 		"Swakopmund": {
 			"climate": [
@@ -348,7 +354,9 @@
 					"high": 22,
 					"low": 15
 				}
-			]
+			],
+			"lat": -22.68333333,
+			"lon": 14.53333333
 		},
 		"Etosha National Park": {
 			"climate": [
@@ -424,7 +432,9 @@
 					"low": 18.8,
 					"precipitation": 79
 				}
-			]
+			],
+			"lat": -18.94527778,
+			"lon": 15.89777778
 		},
 		"Sossusvlei": {
 			"climate": [
@@ -500,7 +510,9 @@
 					"low": 15.8,
 					"precipitation": 4.1
 				}
-			]
+			],
+			"lat": -24.73983056,
+			"lon": 15.28765
 		}
 	}
 }

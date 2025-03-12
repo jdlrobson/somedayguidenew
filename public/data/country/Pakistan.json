@@ -95,7 +95,9 @@
 					"high": 20,
 					"low": 3
 				}
-			]
+			],
+			"lat": 33.69305556,
+			"lon": 73.06388889
 		},
 		"Faisalabad": {
 			"climate": [
@@ -171,7 +173,9 @@
 					"low": 6.1,
 					"precipitation": 20.4
 				}
-			]
+			],
+			"lat": 31.41666667,
+			"lon": 73.09111111
 		},
 		"Karachi": {
 			"climate": [
@@ -247,7 +251,9 @@
 					"high": 27,
 					"low": 16
 				}
-			]
+			],
+			"lat": 24.86,
+			"lon": 67.01
 		},
 		"Lahore": {
 			"climate": [
@@ -323,7 +329,9 @@
 					"high": 22,
 					"low": 7
 				}
-			]
+			],
+			"lat": 31.54972222,
+			"lon": 74.34361111
 		},
 		"Multan": {
 			"climate": [
@@ -399,7 +407,9 @@
 					"low": 5.5,
 					"precipitation": 6.9
 				}
-			]
+			],
+			"lat": 30.19777778,
+			"lon": 71.46972222
 		},
 		"Muzaffarabad": {
 			"climate": [
@@ -475,7 +485,9 @@
 					"low": 4.1,
 					"precipitation": 69
 				}
-			]
+			],
+			"lat": 34.35833333,
+			"lon": 73.47222222
 		},
 		"Peshawar": {
 			"climate": [
@@ -551,7 +563,9 @@
 					"low": 4.9,
 					"precipitation": 23.3
 				}
-			]
+			],
+			"lat": 34.01444444,
+			"lon": 71.5675
 		},
 		"Quetta": {
 			"climate": [
@@ -627,7 +641,9 @@
 					"low": -3.2,
 					"precipitation": 30.5
 				}
-			]
+			],
+			"lat": 30.18333333,
+			"lon": 67
 		},
 		"Murree": {
 			"climate": [
@@ -703,7 +719,9 @@
 					"high": 10,
 					"low": 2
 				}
-			]
+			],
+			"lat": 33.90416667,
+			"lon": 73.39027778
 		},
 		"Swat": {
 			"climate": [
@@ -855,7 +873,9 @@
 					"low": 9,
 					"precipitation": 12
 				}
-			]
+			],
+			"lat": 31.75277778,
+			"lon": 72.92222222
 		}
 	}
 }

@@ -135,7 +135,9 @@
 					"low": 2.7,
 					"precipitation": 53
 				}
-			]
+			],
+			"lat": 40.41694444,
+			"lon": -3.70333333
 		},
 		"Barcelona": {
 			"climate": [
@@ -211,7 +213,9 @@
 					"high": 15,
 					"low": 10
 				}
-			]
+			],
+			"lat": 41.38333333,
+			"lon": 2.18333333
 		},
 		"Bilbao": {
 			"climate": [
@@ -287,7 +291,9 @@
 					"low": 5.9,
 					"precipitation": 122
 				}
-			]
+			],
+			"lat": 43.25694444,
+			"lon": -2.92361111
 		},
 		"Málaga": {
 			"climate": [
@@ -363,7 +369,9 @@
 					"high": 18,
 					"low": 9
 				}
-			]
+			],
+			"lat": 36.71944444,
+			"lon": -4.42
 		},
 		"Córdoba (city, Spain)": {
 			"climate": [
@@ -515,7 +523,9 @@
 					"high": 13,
 					"low": 3
 				}
-			]
+			],
+			"lat": 37.17805556,
+			"lon": -3.60083333
 		},
 		"Seville": {
 			"climate": [
@@ -591,7 +601,9 @@
 					"low": 7.3,
 					"precipitation": 99
 				}
-			]
+			],
+			"lat": 37.39,
+			"lon": -5.99
 		},
 		"Valencia": {
 			"climate": [
@@ -667,7 +679,9 @@
 					"low": 8.1,
 					"precipitation": 48
 				}
-			]
+			],
+			"lat": 39.47,
+			"lon": -0.37638889
 		},
 		"Zaragoza": {
 			"climate": [
@@ -743,7 +757,9 @@
 					"low": 3.2,
 					"precipitation": 21.4
 				}
-			]
+			],
+			"lat": 41.65,
+			"lon": -0.88333333
 		},
 		"Galicia": {
 			"climate": [
@@ -865,7 +881,9 @@
 					"high": 22,
 					"low": 17
 				}
-			]
+			],
+			"lat": 27.96666667,
+			"lon": -15.6
 		},
 		"Ibiza": {
 			"climate": [
@@ -1017,7 +1035,9 @@
 					"high": 17,
 					"low": 10
 				}
-			]
+			],
+			"lat": 39.61666667,
+			"lon": 2.98333333
 		},
 		"Sierra Nevada (Spain)": {
 			"climate": [
@@ -1093,7 +1113,9 @@
 					"low": -4,
 					"precipitation": 93.1
 				}
-			]
+			],
+			"lat": 37.05333333,
+			"lon": -3.31138889
 		},
 		"Tenerife": {
 			"climate": [
@@ -1169,7 +1191,9 @@
 					"high": 20,
 					"low": 15
 				}
-			]
+			],
+			"lat": 28.26861111,
+			"lon": -16.60555556
 		},
 		"Cádiz": {
 			"climate": [
@@ -1245,7 +1269,9 @@
 					"low": 10.9,
 					"precipitation": 92.3
 				}
-			]
+			],
+			"lat": 36.535,
+			"lon": -6.2975
 		},
 		"Girona": {
 			"climate": [
@@ -1321,7 +1347,9 @@
 					"low": 2,
 					"precipitation": 56
 				}
-			]
+			],
+			"lat": 41.98444444,
+			"lon": 2.82111111
 		},
 		"Valladolid (Spain)": {
 			"climate": [

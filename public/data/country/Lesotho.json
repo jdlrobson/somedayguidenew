@@ -76,7 +76,9 @@
 					"low": 13,
 					"precipitation": 93
 				}
-			]
+			],
+			"lat": -29.31,
+			"lon": 27.48
 		},
 		"Sehlabathebe National Park": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"high": 25,
 					"low": 9
 				}
-			]
+			],
+			"lat": -29.899,
+			"lon": 29.121
 		}
 	}
 }

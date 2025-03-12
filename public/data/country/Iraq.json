@@ -76,7 +76,9 @@
 					"low": 5,
 					"precipitation": 26
 				}
-			]
+			],
+			"lat": 33.31527778,
+			"lon": 44.36611111
 		},
 		"Ar Rutba": {
 			"climate": [
@@ -228,7 +230,9 @@
 					"low": 8.7,
 					"precipitation": 33
 				}
-			]
+			],
+			"lat": 30.515,
+			"lon": 47.81
 		},
 		"Erbil": {
 			"climate": [
@@ -304,7 +308,9 @@
 					"high": 14,
 					"low": 9
 				}
-			]
+			],
+			"lat": 36.191188,
+			"lon": 44.009189
 		},
 		"Karbala": {
 			"climate": [
@@ -380,7 +386,9 @@
 					"low": 6.9,
 					"precipitation": 15.3
 				}
-			]
+			],
+			"lat": 32.61666667,
+			"lon": 44.03333333
 		},
 		"Kirkuk": {
 			"climate": [
@@ -456,7 +464,9 @@
 					"low": 6.3,
 					"precipitation": 59
 				}
-			]
+			],
+			"lat": 35.46666667,
+			"lon": 44.31666667
 		},
 		"Mosul": {
 			"climate": [
@@ -532,7 +542,9 @@
 					"low": 3.8,
 					"precipitation": 57.9
 				}
-			]
+			],
+			"lat": 36.34,
+			"lon": 43.13
 		},
 		"Hatra": {
 			"climate": [
@@ -608,7 +620,9 @@
 					"low": 4.1,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": 35.58805556,
+			"lon": 42.71833333
 		},
 		"Dahuk": {
 			"climate": [

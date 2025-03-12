@@ -156,7 +156,9 @@
 					"high": 0,
 					"low": null
 				}
-			]
+			],
+			"lat": 59.91333333,
+			"lon": 10.73888889
 		},
 		"Bergen": {
 			"climate": [
@@ -232,7 +234,9 @@
 					"high": 5,
 					"low": 2
 				}
-			]
+			],
+			"lat": 60.38944444,
+			"lon": 5.33
 		},
 		"Bodø": {
 			"climate": [
@@ -372,7 +376,9 @@
 					"high": -0.3,
 					"low": -6.5
 				}
-			]
+			],
+			"lat": 59.73777778,
+			"lon": 10.205
 		},
 		"Kristiansand": {
 			"climate": [
@@ -448,7 +454,9 @@
 					"high": 3,
 					"low": null
 				}
-			]
+			],
+			"lat": 58.14722222,
+			"lon": 7.99722222
 		},
 		"Stavanger": {
 			"climate": [
@@ -524,7 +532,9 @@
 					"low": 1,
 					"precipitation": 110
 				}
-			]
+			],
+			"lat": 58.97,
+			"lon": 5.73138889
 		},
 		"Tromsø": {
 			"climate": [
@@ -600,7 +610,9 @@
 					"low": -4.8,
 					"precipitation": 112.3
 				}
-			]
+			],
+			"lat": 69.68277778,
+			"lon": 18.94277778
 		},
 		"Trondheim": {
 			"climate": [
@@ -676,7 +688,9 @@
 					"high": 2,
 					"low": null
 				}
-			]
+			],
+			"lat": 63.42972222,
+			"lon": 10.39333333
 		},
 		"Lofoten": {
 			"climate": [
@@ -752,7 +766,9 @@
 					"high": 2,
 					"low": null
 				}
-			]
+			],
+			"lat": 68.33333333,
+			"lon": 14.66666667
 		},
 		"Nordkapp": {
 			"climate": [

@@ -139,7 +139,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 55.75055556,
+			"lon": 37.6175
 		},
 		"Irkutsk": {
 			"climate": [
@@ -215,7 +217,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 52.28916667,
+			"lon": 104.28
 		},
 		"Kazan": {
 			"climate": [
@@ -291,7 +295,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 55.79638889,
+			"lon": 49.10888889
 		},
 		"Nizhny Novgorod": {
 			"climate": [
@@ -367,7 +373,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 56.32694444,
+			"lon": 44.0075
 		},
 		"Saint Petersburg": {
 			"climate": [
@@ -443,7 +451,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 59.9375,
+			"lon": 30.30861111
 		},
 		"Sochi": {
 			"climate": [
@@ -519,7 +529,9 @@
 					"high": 11,
 					"low": 5
 				}
-			]
+			],
+			"lat": 43.58527778,
+			"lon": 39.72027778
 		},
 		"Vladivostok": {
 			"climate": [
@@ -595,7 +607,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 43.115,
+			"lon": 131.88527778
 		},
 		"Volgograd": {
 			"climate": [
@@ -671,7 +685,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 48.70861111,
+			"lon": 44.51472222
 		},
 		"Yekaterinburg": {
 			"climate": [
@@ -747,7 +763,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 56.83555556,
+			"lon": 60.61277778
 		},
 		"Kamchatka": {
 			"climate": []
@@ -902,7 +920,9 @@
 					"low": -13.3,
 					"precipitation": 64
 				}
-			]
+			],
+			"lat": 46.96666667,
+			"lon": 142.73333333
 		},
 		"Alexandrovsk-Sakhalinsky": {
 			"climate": [
@@ -1054,7 +1074,9 @@
 					"high": -11,
 					"low": -14
 				}
-			]
+			],
+			"lat": 47.05,
+			"lon": 142.05
 		},
 		"Nogliki": {
 			"climate": [
@@ -1130,7 +1152,9 @@
 					"low": -20.9,
 					"precipitation": 38.2
 				}
-			]
+			],
+			"lat": 51.8125,
+			"lon": 143.16666667
 		},
 		"Okha": {
 			"climate": [
@@ -1282,7 +1306,9 @@
 					"low": -17.9,
 					"precipitation": 29
 				}
-			]
+			],
+			"lat": 54.98333333,
+			"lon": 73.36666667
 		},
 		"Novosibirsk": {
 			"climate": [
@@ -1358,7 +1384,9 @@
 					"low": -16.4,
 					"precipitation": 24
 				}
-			]
+			],
+			"lat": 55.05,
+			"lon": 82.95
 		}
 	}
 }

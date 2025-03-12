@@ -76,7 +76,9 @@
 					"low": 22.5,
 					"precipitation": 122
 				}
-			]
+			],
+			"lat": 6.31333333,
+			"lon": -10.80138889
 		},
 		"Robertsport": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 22,
 					"precipitation": 84
 				}
-			]
+			],
+			"lat": 6.75,
+			"lon": -11.36666667
 		}
 	}
 }

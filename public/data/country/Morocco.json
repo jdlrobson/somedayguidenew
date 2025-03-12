@@ -140,7 +140,9 @@
 					"low": 8.7,
 					"precipitation": 100.9
 				}
-			]
+			],
+			"lat": 34.020882,
+			"lon": -6.84165
 		},
 		"Agadir": {
 			"climate": [
@@ -216,7 +218,9 @@
 					"low": 8.5,
 					"precipitation": 60.7
 				}
-			]
+			],
+			"lat": 30.42138889,
+			"lon": -9.58305556
 		},
 		"Casablanca": {
 			"climate": [
@@ -292,7 +296,9 @@
 					"high": 19,
 					"low": 11
 				}
-			]
+			],
+			"lat": 33.53333333,
+			"lon": -7.58333333
 		},
 		"Fez": {
 			"climate": [
@@ -520,7 +526,9 @@
 					"low": 5.8,
 					"precipitation": 81.2
 				}
-			]
+			],
+			"lat": 33.895,
+			"lon": -5.55472222
 		},
 		"Ouarzazate": {
 			"climate": [
@@ -596,7 +604,9 @@
 					"low": 2.4,
 					"precipitation": 9.7
 				}
-			]
+			],
+			"lat": 30.91666667,
+			"lon": -6.91666667
 		},
 		"Tangier": {
 			"climate": [
@@ -672,7 +682,9 @@
 					"high": 17,
 					"low": 10
 				}
-			]
+			],
+			"lat": 35.77666667,
+			"lon": -5.80388889
 		},
 		"Essaouira": {
 			"climate": [
@@ -748,7 +760,9 @@
 					"low": 11.8,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 31.51305556,
+			"lon": -9.76972222
 		},
 		"Tinerhir": {
 			"climate": [
@@ -900,7 +914,9 @@
 					"low": 10.2,
 					"precipitation": 140
 				}
-			]
+			],
+			"lat": 35.56666667,
+			"lon": -5.36666667
 		},
 		"Moulay Idriss": {
 			"climate": [

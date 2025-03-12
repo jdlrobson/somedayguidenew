@@ -95,7 +95,9 @@
 					"high": 24,
 					"low": 17
 				}
-			]
+			],
+			"lat": 10.48055556,
+			"lon": -66.90361111
 		},
 		"Coro": {
 			"climate": [
@@ -247,7 +249,9 @@
 					"low": 23.3,
 					"precipitation": 16.9
 				}
-			]
+			],
+			"lat": 10.63333333,
+			"lon": -71.63333333
 		},
 		"San Cristóbal (Venezuela)": {
 			"climate": [
@@ -399,7 +403,9 @@
 					"high": 27,
 					"low": 21
 				}
-			]
+			],
+			"lat": 10.98694444,
+			"lon": -63.93555556
 		},
 		"Mochima National Park": {
 			"climate": [
@@ -475,7 +481,9 @@
 					"high": 24,
 					"low": 20
 				}
-			]
+			],
+			"lat": 10.26138889,
+			"lon": -64.48
 		},
 		"Mérida (city, Venezuela)": {
 			"climate": [

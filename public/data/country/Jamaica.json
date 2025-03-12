@@ -168,7 +168,9 @@
 					"low": 22.9,
 					"precipitation": 102
 				}
-			]
+			],
+			"lat": 18.46666667,
+			"lon": -77.91666667
 		},
 		"Negril": {
 			"climate": [
@@ -244,7 +246,9 @@
 					"high": 26,
 					"low": 22
 				}
-			]
+			],
+			"lat": 18.3110182,
+			"lon": -78.339386
 		},
 		"Blue Mountains (Jamaica)": {
 			"climate": [
@@ -320,7 +324,9 @@
 					"low": 12.9,
 					"precipitation": 235
 				}
-			]
+			],
+			"lat": 18.1,
+			"lon": -76.66666667
 		}
 	}
 }

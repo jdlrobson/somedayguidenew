@@ -189,7 +189,9 @@
 					"low": 9.9,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 32.11666667,
+			"lon": 20.06666667
 		},
 		"Ghadamis": {
 			"climate": [
@@ -341,7 +343,9 @@
 					"low": 10,
 					"precipitation": 59
 				}
-			]
+			],
+			"lat": 32.37753333,
+			"lon": 15.09201667
 		},
 		"Ghat (Libya)": {
 			"climate": [

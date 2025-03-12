@@ -155,7 +155,9 @@
 					"high": 19,
 					"low": 12
 				}
-			]
+			],
+			"lat": -41.28888889,
+			"lon": 174.77722222
 		},
 		"Auckland": {
 			"climate": [
@@ -231,7 +233,9 @@
 					"high": 22,
 					"low": 14
 				}
-			]
+			],
+			"lat": -36.84916667,
+			"lon": 174.76527778
 		},
 		"Christchurch": {
 			"climate": [
@@ -307,7 +311,9 @@
 					"high": 21,
 					"low": 11
 				}
-			]
+			],
+			"lat": -43.53111111,
+			"lon": 172.63611111
 		},
 		"Dunedin": {
 			"climate": [
@@ -383,7 +389,9 @@
 					"low": 10.4,
 					"precipitation": 80.2
 				}
-			]
+			],
+			"lat": -45.87416667,
+			"lon": 170.50361111
 		},
 		"Hamilton (New Zealand)": {
 			"climate": [
@@ -763,7 +771,9 @@
 					"low": 11.5,
 					"precipitation": 114.2
 				}
-			]
+			],
+			"lat": -38.13777778,
+			"lon": 176.25138889
 		},
 		"Aoraki Mount Cook National Park": {
 			"climate": [
@@ -915,7 +925,9 @@
 					"high": 18,
 					"low": 10
 				}
-			]
+			],
+			"lat": -44.64805556,
+			"lon": 167.90555556
 		},
 		"Taupo": {
 			"climate": [

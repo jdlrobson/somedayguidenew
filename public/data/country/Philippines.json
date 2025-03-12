@@ -227,7 +227,9 @@
 					"high": 23,
 					"low": 14
 				}
-			]
+			],
+			"lat": 16.4119,
+			"lon": 120.5933
 		},
 		"Cagayan de Oro": {
 			"climate": [
@@ -303,7 +305,9 @@
 					"high": 30,
 					"low": 22
 				}
-			]
+			],
+			"lat": 8.48,
+			"lon": 124.65
 		},
 		"Cebu (city)": {
 			"climate": [
@@ -531,7 +535,9 @@
 					"low": 23,
 					"precipitation": 153.6
 				}
-			]
+			],
+			"lat": 9.65,
+			"lon": 123.85
 		},
 		"Vigan": {
 			"climate": [
@@ -607,7 +613,9 @@
 					"low": 21.8,
 					"precipitation": 2.9
 				}
-			]
+			],
+			"lat": 17.57472,
+			"lon": 120.38694
 		},
 		"Zamboanga (city)": {
 			"climate": [
@@ -759,7 +767,9 @@
 					"low": 14,
 					"precipitation": 42.1
 				}
-			]
+			],
+			"lat": 16.9119,
+			"lon": 121.0614
 		},
 		"Boracay": {
 			"climate": [
@@ -835,7 +845,9 @@
 					"low": 28,
 					"precipitation": 253
 				}
-			]
+			],
+			"lat": 11.96888889,
+			"lon": 121.92388889
 		},
 		"Donsol": {
 			"climate": [
@@ -911,7 +923,9 @@
 					"low": 23,
 					"precipitation": 100
 				}
-			]
+			],
+			"lat": 12.9083,
+			"lon": 123.5981
 		},
 		"Tagaytay": {
 			"climate": [
@@ -987,7 +1001,9 @@
 					"high": 27,
 					"low": 19
 				}
-			]
+			],
+			"lat": 14.1,
+			"lon": 120.93
 		},
 		"Brooke's Point": {
 			"climate": [
@@ -1063,7 +1079,9 @@
 					"low": 24,
 					"precipitation": 115
 				}
-			]
+			],
+			"lat": 8.78,
+			"lon": 117.83
 		},
 		"Busuanga": {
 			"climate": [
@@ -1367,7 +1385,9 @@
 					"low": 26,
 					"precipitation": 618
 				}
-			]
+			],
+			"lat": 13.7707,
+			"lon": 123.8631
 		},
 		"Roxas (Palawan)": {
 			"climate": [
@@ -1899,7 +1919,9 @@
 					"low": 24,
 					"precipitation": 539
 				}
-			]
+			],
+			"lat": 12.9742,
+			"lon": 124.0058
 		},
 		"Naga": {
 			"climate": [
@@ -2127,7 +2149,9 @@
 					"low": 25,
 					"precipitation": 76.3
 				}
-			]
+			],
+			"lat": 14.38,
+			"lon": 121.05
 		},
 		"Dumaguete": {
 			"climate": [
@@ -2203,7 +2227,9 @@
 					"low": 24.8,
 					"precipitation": 107.3
 				}
-			]
+			],
+			"lat": 9.31028,
+			"lon": 123.30806
 		},
 		"Angeles": {
 			"climate": [
@@ -2355,7 +2381,9 @@
 					"low": 21.4,
 					"precipitation": 78.7
 				}
-			]
+			],
+			"lat": 14.65,
+			"lon": 121.0475
 		},
 		"Manila": {
 			"climate": [
@@ -2431,7 +2459,9 @@
 					"low": 21.6,
 					"precipitation": 67.4
 				}
-			]
+			],
+			"lat": 14.5958,
+			"lon": 120.9772
 		}
 	}
 }

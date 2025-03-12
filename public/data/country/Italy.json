@@ -170,7 +170,9 @@
 					"high": 13,
 					"low": 4
 				}
-			]
+			],
+			"lat": 41.9,
+			"lon": 12.48333333
 		},
 		"Bologna": {
 			"climate": [
@@ -246,7 +248,9 @@
 					"low": 0.4,
 					"precipitation": 48.5
 				}
-			]
+			],
+			"lat": 44.49388889,
+			"lon": 11.34277778
 		},
 		"Florence": {
 			"climate": [
@@ -322,7 +326,9 @@
 					"low": 2.6,
 					"precipitation": 81.3
 				}
-			]
+			],
+			"lat": 43.77138889,
+			"lon": 11.25416667
 		},
 		"Genoa": {
 			"climate": [
@@ -398,7 +404,9 @@
 					"low": 6.5,
 					"precipitation": 93.1
 				}
-			]
+			],
+			"lat": 44.41111111,
+			"lon": 8.93277778
 		},
 		"Milan": {
 			"climate": [
@@ -474,7 +482,9 @@
 					"high": 6,
 					"low": 0
 				}
-			]
+			],
+			"lat": 45.46694444,
+			"lon": 9.19
 		},
 		"Naples": {
 			"climate": [
@@ -550,7 +560,9 @@
 					"high": 13,
 					"low": 5
 				}
-			]
+			],
+			"lat": 40.83583333,
+			"lon": 14.24861111
 		},
 		"Pisa": {
 			"climate": [
@@ -626,7 +638,9 @@
 					"low": 3.4,
 					"precipitation": 74.4
 				}
-			]
+			],
+			"lat": 43.71666667,
+			"lon": 10.4
 		},
 		"Turin": {
 			"climate": [
@@ -702,7 +716,9 @@
 					"low": -2.3,
 					"precipitation": 41.6
 				}
-			]
+			],
+			"lat": 45.07916667,
+			"lon": 7.67611111
 		},
 		"Venice": {
 			"climate": [
@@ -778,7 +794,9 @@
 					"low": 0.6,
 					"precipitation": 50.6
 				}
-			]
+			],
+			"lat": 45.4375,
+			"lon": 12.33583333
 		},
 		"Lake Como": {
 			"climate": [
@@ -854,7 +872,9 @@
 					"low": 1.5,
 					"precipitation": 63
 				}
-			]
+			],
+			"lat": 46,
+			"lon": 9.26666667
 		},
 		"Grado": {
 			"climate": [
@@ -1006,7 +1026,9 @@
 					"low": 5,
 					"precipitation": 88.5
 				}
-			]
+			],
+			"lat": 45.65027778,
+			"lon": 13.77027778
 		},
 		"Palermo": {
 			"climate": [
@@ -1082,7 +1104,9 @@
 					"low": 11.5,
 					"precipitation": 80
 				}
-			]
+			],
+			"lat": 38.11111111,
+			"lon": 13.35166667
 		},
 		"Agrigento": {
 			"climate": [
@@ -1158,7 +1182,9 @@
 					"high": 17,
 					"low": 8
 				}
-			]
+			],
+			"lat": 37.3125,
+			"lon": 13.575
 		},
 		"Catania": {
 			"climate": [
@@ -1234,7 +1260,9 @@
 					"low": 6.7,
 					"precipitation": 85.9
 				}
-			]
+			],
+			"lat": 37.5,
+			"lon": 15.09027778
 		},
 		"Gela": {
 			"climate": [
@@ -1310,7 +1338,9 @@
 					"low": 10.2,
 					"precipitation": 67.3
 				}
-			]
+			],
+			"lat": 37.06666667,
+			"lon": 14.25
 		},
 		"Marsala": {
 			"climate": [
@@ -1386,7 +1416,9 @@
 					"low": 9.1,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 37.79805556,
+			"lon": 12.43416667
 		},
 		"Messina": {
 			"climate": [
@@ -1462,7 +1494,9 @@
 					"low": 11.6,
 					"precipitation": 102.9
 				}
-			]
+			],
+			"lat": 38.19361111,
+			"lon": 15.55416667
 		},
 		"Ragusa": {
 			"climate": [
@@ -1690,7 +1724,9 @@
 					"low": 9.3,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 38.0175,
+			"lon": 12.515
 		},
 		"Aegadian Islands": {
 			"climate": [
@@ -1766,7 +1802,9 @@
 					"high": 15,
 					"low": 12
 				}
-			]
+			],
+			"lat": 37.96666667,
+			"lon": 12.2
 		},
 		"Segesta": {
 			"climate": [
@@ -1842,7 +1880,9 @@
 					"high": 12,
 					"low": 5
 				}
-			]
+			],
+			"lat": 37.94138889,
+			"lon": 12.83222222
 		},
 		"Sciacca": {
 			"climate": [
@@ -1970,7 +2010,9 @@
 					"high": 13,
 					"low": 4
 				}
-			]
+			],
+			"lat": 37.2375,
+			"lon": 14.5125
 		},
 		"Militello in Val di Catania": {
 			"climate": [
@@ -2350,7 +2392,9 @@
 					"high": 15,
 					"low": 8
 				}
-			]
+			],
+			"lat": 36.78805556,
+			"lon": 14.69777778
 		},
 		"Verona": {
 			"climate": [
@@ -2426,7 +2470,9 @@
 					"low": -0.4,
 					"precipitation": 52.5
 				}
-			]
+			],
+			"lat": 45.43861111,
+			"lon": 10.99277778
 		},
 		"Rimini": {
 			"climate": [
@@ -2502,7 +2548,9 @@
 					"low": 1.5,
 					"precipitation": 46.6
 				}
-			]
+			],
+			"lat": 44.05944444,
+			"lon": 12.56833333
 		},
 		"Pennabilli": {
 			"climate": [

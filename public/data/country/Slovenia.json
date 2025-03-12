@@ -110,7 +110,9 @@
 					"low": -1.1,
 					"precipitation": 107
 				}
-			]
+			],
+			"lat": 46.05138889,
+			"lon": 14.50611111
 		},
 		"Celje": {
 			"climate": [
@@ -186,7 +188,9 @@
 					"low": -3,
 					"precipitation": 78
 				}
-			]
+			],
+			"lat": 46.23583333,
+			"lon": 15.2675
 		},
 		"Koper": {
 			"climate": [
@@ -262,7 +266,9 @@
 					"low": 4.8,
 					"precipitation": 88
 				}
-			]
+			],
+			"lat": 45.55,
+			"lon": 13.73333333
 		},
 		"Maribor": {
 			"climate": [
@@ -338,7 +344,9 @@
 					"low": -2,
 					"precipitation": 61
 				}
-			]
+			],
+			"lat": 46.5575,
+			"lon": 15.64555556
 		},
 		"Postojna": {
 			"climate": [
@@ -414,7 +422,9 @@
 					"low": -2,
 					"precipitation": 130
 				}
-			]
+			],
+			"lat": 45.77586389,
+			"lon": 14.21366111
 		},
 		"Divača": {
 			"climate": [
@@ -490,7 +500,9 @@
 					"high": 1,
 					"low": -4
 				}
-			]
+			],
+			"lat": 45.68197222,
+			"lon": 13.97016667
 		},
 		"Skocjan Caves": {
 			"climate": [

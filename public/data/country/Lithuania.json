@@ -104,7 +104,9 @@
 					"low": -5.2,
 					"precipitation": 52.6
 				}
-			]
+			],
+			"lat": 54.68722222,
+			"lon": 25.28
 		},
 		"Kaunas": {
 			"climate": [
@@ -180,7 +182,9 @@
 					"high": 0,
 					"low": null
 				}
-			]
+			],
+			"lat": 54.89722222,
+			"lon": 23.88611111
 		},
 		"Klaipėda": {
 			"climate": [
@@ -256,7 +260,9 @@
 					"low": -1.5,
 					"precipitation": 72
 				}
-			]
+			],
+			"lat": 55.7125,
+			"lon": 21.135
 		},
 		"Šiauliai": {
 			"climate": [
@@ -332,7 +338,9 @@
 					"low": -5,
 					"precipitation": 44.6
 				}
-			]
+			],
+			"lat": 55.93333333,
+			"lon": 23.31666667
 		}
 	}
 }

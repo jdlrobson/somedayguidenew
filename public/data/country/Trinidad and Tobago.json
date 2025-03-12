@@ -146,7 +146,9 @@
 					"high": 24,
 					"low": 21
 				}
-			]
+			],
+			"lat": 10.51666667,
+			"lon": -61.4
 		},
 		"Point Fortin": {
 			"climate": [
@@ -222,7 +224,9 @@
 					"high": 23,
 					"low": 21
 				}
-			]
+			],
+			"lat": 10.16666667,
+			"lon": -61.66666667
 		},
 		"Scarborough (Trinidad and Tobago)": {
 			"climate": [
@@ -374,7 +378,9 @@
 					"high": 31,
 					"low": 21
 				}
-			]
+			],
+			"lat": 10.66666667,
+			"lon": -61.51666667
 		}
 	}
 }

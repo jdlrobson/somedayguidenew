@@ -76,7 +76,9 @@
 					"low": 10.6,
 					"precipitation": 14.6
 				}
-			]
+			],
+			"lat": 24.63333333,
+			"lon": 46.71666667
 		},
 		"Abha": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 7.3,
 					"precipitation": 4.8
 				}
-			]
+			],
+			"lat": 18.21694444,
+			"lon": 42.50527778
 		},
 		"Dhahran": {
 			"climate": [
@@ -228,7 +232,9 @@
 					"low": 12.4,
 					"precipitation": 15.7
 				}
-			]
+			],
+			"lat": 26.26666667,
+			"lon": 50.15
 		},
 		"Jeddah": {
 			"climate": [
@@ -304,7 +310,9 @@
 					"high": 31,
 					"low": 18
 				}
-			]
+			],
+			"lat": 21.54333333,
+			"lon": 39.17277778
 		},
 		"Jubail": {
 			"climate": [
@@ -368,7 +376,9 @@
 					"high": 24,
 					"low": 14
 				}
-			]
+			],
+			"lat": 27,
+			"lon": 49.65444444
 		},
 		"Mecca": {
 			"climate": [
@@ -444,7 +454,9 @@
 					"low": 20.3,
 					"precipitation": 22.1
 				}
-			]
+			],
+			"lat": 21.4225,
+			"lon": 39.82333333
 		},
 		"Medina": {
 			"climate": [
@@ -520,7 +532,9 @@
 					"low": 13.5,
 					"precipitation": 7.8
 				}
-			]
+			],
+			"lat": 24.47,
+			"lon": 39.61
 		},
 		"Najran": {
 			"climate": [
@@ -596,7 +610,9 @@
 					"low": 9.5,
 					"precipitation": 1
 				}
-			]
+			],
+			"lat": 17.49166667,
+			"lon": 44.13222222
 		},
 		"Ta'if": {
 			"climate": [
@@ -748,7 +764,9 @@
 					"low": 11.5,
 					"precipitation": 23
 				}
-			]
+			],
+			"lat": 26.43333333,
+			"lon": 50.1
 		}
 	}
 }

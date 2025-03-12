@@ -176,7 +176,9 @@
 					"high": 6,
 					"low": 0
 				}
-			]
+			],
+			"lat": 44.81777778,
+			"lon": 20.45694444
 		},
 		"Kragujevac": {
 			"climate": [
@@ -252,7 +254,9 @@
 					"low": -1.1,
 					"precipitation": 45.8
 				}
-			]
+			],
+			"lat": 44.01008333,
+			"lon": 20.91719444
 		},
 		"Kraljevo": {
 			"climate": [
@@ -328,7 +332,9 @@
 					"low": -1.7,
 					"precipitation": 56.1
 				}
-			]
+			],
+			"lat": 43.72361111,
+			"lon": 20.6875
 		},
 		"Niš": {
 			"climate": [
@@ -404,7 +410,9 @@
 					"low": -0.8,
 					"precipitation": 51.5
 				}
-			]
+			],
+			"lat": 43.32083333,
+			"lon": 21.89583333
 		},
 		"Novi Sad": {
 			"climate": [
@@ -480,7 +488,9 @@
 					"low": -1.5,
 					"precipitation": 48.8
 				}
-			]
+			],
+			"lat": 45.25416667,
+			"lon": 19.8425
 		},
 		"Sremska Mitrovica": {
 			"climate": [
@@ -556,7 +566,9 @@
 					"low": -1.6,
 					"precipitation": 45.6
 				}
-			]
+			],
+			"lat": 44.97,
+			"lon": 19.6125
 		},
 		"Kopaonik National Park": {
 			"climate": [
@@ -708,7 +720,9 @@
 					"low": -1.9,
 					"precipitation": 46.5
 				}
-			]
+			],
+			"lat": 46.10305556,
+			"lon": 19.75861111
 		},
 		"Zlatibor": {
 			"climate": [
@@ -784,7 +798,9 @@
 					"low": -4,
 					"precipitation": 82.6
 				}
-			]
+			],
+			"lat": 43.64833333,
+			"lon": 19.67916667
 		}
 	}
 }

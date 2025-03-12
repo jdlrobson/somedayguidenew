@@ -217,7 +217,9 @@
 					"high": 21,
 					"low": 7
 				}
-			]
+			],
+			"lat": 19.43333333,
+			"lon": -99.13333333
 		},
 		"Acapulco": {
 			"climate": [
@@ -293,7 +295,9 @@
 					"low": 24.1,
 					"precipitation": 10.8
 				}
-			]
+			],
+			"lat": 16.86361111,
+			"lon": -99.8825
 		},
 		"Cancún": {
 			"climate": [
@@ -369,7 +373,9 @@
 					"high": 29,
 					"low": 21
 				}
-			]
+			],
+			"lat": 21.16055556,
+			"lon": -86.8475
 		},
 		"Guadalajara": {
 			"climate": [
@@ -445,7 +451,9 @@
 					"low": 10.3,
 					"precipitation": 10
 				}
-			]
+			],
+			"lat": 20.67666667,
+			"lon": -103.3475
 		},
 		"Mazatlan": {
 			"climate": [
@@ -597,7 +605,9 @@
 					"low": 9.1,
 					"precipitation": 14.1
 				}
-			]
+			],
+			"lat": 25.68444444,
+			"lon": -100.31805556
 		},
 		"San Luis Potosi": {
 			"climate": [
@@ -749,7 +759,9 @@
 					"low": 16.1,
 					"precipitation": 10.5
 				}
-			]
+			],
+			"lat": 18.55638889,
+			"lon": -99.605
 		},
 		"Tijuana": {
 			"climate": [
@@ -825,7 +837,9 @@
 					"high": 21,
 					"low": 7
 				}
-			]
+			],
+			"lat": 32.525,
+			"lon": -117.03333333
 		},
 		"Puerto Peñasco": {
 			"climate": [
@@ -901,7 +915,9 @@
 					"low": 9.8,
 					"precipitation": 15
 				}
-			]
+			],
+			"lat": 31.31666667,
+			"lon": -113.53694444
 		},
 		"Tulum": {
 			"climate": [
@@ -977,7 +993,9 @@
 					"low": 18.2,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 20.21472222,
+			"lon": -87.42888889
 		},
 		"Guanajuato": {
 			"climate": [
@@ -1053,7 +1071,9 @@
 					"high": 23,
 					"low": 8
 				}
-			]
+			],
+			"lat": 21.01666667,
+			"lon": -101.26666667
 		},
 		"Chetumal": {
 			"climate": [
@@ -1129,7 +1149,9 @@
 					"low": 18.9,
 					"precipitation": 65.4
 				}
-			]
+			],
+			"lat": 18.50361111,
+			"lon": -88.30527778
 		},
 		"Puerto Morelos": {
 			"climate": [
@@ -1205,7 +1227,9 @@
 					"low": 19,
 					"precipitation": 74.7
 				}
-			]
+			],
+			"lat": 20.8536,
+			"lon": -86.8753
 		},
 		"Valladolid (Mexico)": {
 			"climate": [
@@ -1357,7 +1381,9 @@
 					"low": 18.2,
 					"precipitation": 73.1
 				}
-			]
+			],
+			"lat": 20.6281425,
+			"lon": -87.0755
 		},
 		"Cozumel": {
 			"climate": [
@@ -1433,7 +1459,9 @@
 					"low": 20.3,
 					"precipitation": 106.8
 				}
-			]
+			],
+			"lat": 20.42,
+			"lon": -86.92
 		},
 		"Merida (Mexico)": {
 			"climate": [

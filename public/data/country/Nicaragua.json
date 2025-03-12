@@ -101,7 +101,9 @@
 					"high": 31,
 					"low": 20
 				}
-			]
+			],
+			"lat": 12.13638889,
+			"lon": -86.25138889
 		},
 		"Bluefields": {
 			"climate": [
@@ -177,7 +179,9 @@
 					"low": 22.6,
 					"precipitation": 328
 				}
-			]
+			],
+			"lat": 12,
+			"lon": -83.75
 		},
 		"San Juan del Sur": {
 			"climate": [
@@ -253,7 +257,9 @@
 					"low": 23,
 					"precipitation": 28
 				}
-			]
+			],
+			"lat": 11.25,
+			"lon": -85.86666667
 		}
 	}
 }

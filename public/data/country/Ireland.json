@@ -113,7 +113,9 @@
 					"low": 2.8,
 					"precipitation": 72.7
 				}
-			]
+			],
+			"lat": 53.35,
+			"lon": -6.26027778
 		},
 		"Cork": {
 			"climate": [
@@ -265,7 +267,9 @@
 					"low": 3.6,
 					"precipitation": 120.9
 				}
-			]
+			],
+			"lat": 53.27194444,
+			"lon": -9.04888889
 		},
 		"Kilkenny": {
 			"climate": [
@@ -341,7 +345,9 @@
 					"low": 2.4,
 					"precipitation": 90.4
 				}
-			]
+			],
+			"lat": 52.6477,
+			"lon": -7.2561
 		},
 		"Letterkenny": {
 			"climate": [
@@ -417,7 +423,9 @@
 					"low": 4,
 					"precipitation": 114.2
 				}
-			]
+			],
+			"lat": 54.9566,
+			"lon": -7.7203
 		},
 		"Limerick": {
 			"climate": [
@@ -493,7 +501,9 @@
 					"low": 3.6,
 					"precipitation": 104
 				}
-			]
+			],
+			"lat": 52.6653,
+			"lon": -8.6238
 		},
 		"Sligo": {
 			"climate": [
@@ -545,7 +555,9 @@
 					"heading": "Dec",
 					"precipitation": 125.7
 				}
-			]
+			],
+			"lat": 54.2667,
+			"lon": -8.4833
 		},
 		"Waterford": {
 			"climate": [
@@ -621,7 +633,9 @@
 					"low": 3.8,
 					"precipitation": 100.8
 				}
-			]
+			],
+			"lat": 52.25666667,
+			"lon": -7.12916667
 		}
 	}
 }

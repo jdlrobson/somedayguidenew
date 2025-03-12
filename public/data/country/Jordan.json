@@ -104,7 +104,9 @@
 					"low": 5.8,
 					"precipitation": 46.3
 				}
-			]
+			],
+			"lat": 31.94972222,
+			"lon": 35.93277778
 		},
 		"Aqaba": {
 			"climate": [
@@ -180,7 +182,9 @@
 					"low": 10.8,
 					"precipitation": 4.9
 				}
-			]
+			],
+			"lat": 29.53194444,
+			"lon": 35.00555556
 		},
 		"Jerash": {
 			"climate": [
@@ -256,7 +260,9 @@
 					"low": 5.6,
 					"precipitation": 75
 				}
-			]
+			],
+			"lat": 32.28055556,
+			"lon": 35.89722222
 		},
 		"Kerak": {
 			"climate": [
@@ -408,7 +414,9 @@
 					"low": 4.6,
 					"precipitation": 66
 				}
-			]
+			],
+			"lat": 31.71666667,
+			"lon": 35.8
 		},
 		"Ajlun": {
 			"climate": [

@@ -71,7 +71,9 @@
 					"heading": "Dec",
 					"precipitation": 39
 				}
-			]
+			],
+			"lat": 48.16666667,
+			"lon": 28.3
 		},
 		"Ungheni": {
 			"climate": [
@@ -147,7 +149,9 @@
 					"high": -5,
 					"low": -8
 				}
-			]
+			],
+			"lat": 47.21666667,
+			"lon": 27.81666667
 		},
 		"Comrat": {
 			"climate": [
@@ -223,7 +227,9 @@
 					"low": -2.5,
 					"precipitation": 35
 				}
-			]
+			],
+			"lat": 46.31666667,
+			"lon": 28.66666667
 		},
 		"Cahul": {
 			"climate": [
@@ -299,7 +305,9 @@
 					"low": -2.7,
 					"precipitation": 40
 				}
-			]
+			],
+			"lat": 45.91666667,
+			"lon": 28.18361111
 		},
 		"Chișinău": {
 			"climate": [
@@ -375,7 +383,9 @@
 					"low": -3,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 47.02277778,
+			"lon": 28.83527778
 		}
 	}
 }

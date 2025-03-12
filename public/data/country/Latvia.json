@@ -113,7 +113,9 @@
 					"low": -4.4,
 					"precipitation": 46
 				}
-			]
+			],
+			"lat": 56.94888889,
+			"lon": 24.10638889
 		},
 		"Daugavpils": {
 			"climate": [
@@ -189,7 +191,9 @@
 					"low": -6.7,
 					"precipitation": 46
 				}
-			]
+			],
+			"lat": 55.875,
+			"lon": 26.53555556
 		},
 		"Liepāja": {
 			"climate": [
@@ -265,7 +269,9 @@
 					"low": -1.8,
 					"precipitation": 73.7
 				}
-			]
+			],
+			"lat": 56.51166667,
+			"lon": 21.01388889
 		}
 	}
 }

@@ -95,7 +95,9 @@
 					"high": 5,
 					"low": null
 				}
-			]
+			],
+			"lat": 42.87472222,
+			"lon": 74.61222222
 		},
 		"Karakol": {
 			"climate": [
@@ -171,7 +173,9 @@
 					"low": -12.9,
 					"precipitation": 14
 				}
-			]
+			],
+			"lat": 42.49027778,
+			"lon": 78.39166667
 		},
 		"Naryn": {
 			"climate": [
@@ -247,7 +251,9 @@
 					"low": -16.1,
 					"precipitation": 9.5
 				}
-			]
+			],
+			"lat": 41.43333333,
+			"lon": 76
 		},
 		"Osh": {
 			"climate": [
@@ -323,7 +329,9 @@
 					"low": -5.1,
 					"precipitation": 32
 				}
-			]
+			],
+			"lat": 40.53,
+			"lon": 72.8
 		},
 		"Talas": {
 			"climate": [

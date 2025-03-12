@@ -76,7 +76,9 @@
 					"high": 32,
 					"low": 22
 				}
-			]
+			],
+			"lat": -25.3,
+			"lon": -57.63333333
 		},
 		"Areguá": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"high": 29,
 					"low": 21
 				}
-			]
+			],
+			"lat": -25.29527778,
+			"lon": -57.41472222
 		},
 		"Ciudad del Este": {
 			"climate": [
@@ -228,7 +232,9 @@
 					"low": 20.1,
 					"precipitation": 139.9
 				}
-			]
+			],
+			"lat": -25.51666667,
+			"lon": -54.61666667
 		},
 		"Concepción (Paraguay)": {
 			"climate": [
@@ -456,7 +462,9 @@
 					"high": 35,
 					"low": 22
 				}
-			]
+			],
+			"lat": -22.34,
+			"lon": -60.03
 		},
 		"San Bernardino (Paraguay)": {
 			"climate": [

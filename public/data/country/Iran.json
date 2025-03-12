@@ -95,7 +95,9 @@
 					"low": 1,
 					"precipitation": 66.3
 				}
-			]
+			],
+			"lat": 35.68888889,
+			"lon": 51.38972222
 		},
 		"Isfahan": {
 			"climate": [
@@ -171,7 +173,9 @@
 					"low": -0.9,
 					"precipitation": 19.6
 				}
-			]
+			],
+			"lat": 32.66527778,
+			"lon": 51.67027778
 		},
 		"Kerman": {
 			"climate": [
@@ -247,7 +251,9 @@
 					"low": -3.6,
 					"precipitation": 18.4
 				}
-			]
+			],
+			"lat": 30.2625,
+			"lon": 57.0575
 		},
 		"Qom": {
 			"climate": [
@@ -323,7 +329,9 @@
 					"low": -0.1,
 					"precipitation": 19.4
 				}
-			]
+			],
+			"lat": 34.64,
+			"lon": 50.87638889
 		},
 		"Shiraz": {
 			"climate": [
@@ -399,7 +407,9 @@
 					"low": 0.5,
 					"precipitation": 63.2
 				}
-			]
+			],
+			"lat": 29.61,
+			"lon": 52.5425
 		},
 		"Tabriz": {
 			"climate": [
@@ -475,7 +485,9 @@
 					"low": -2.9,
 					"precipitation": 24.1
 				}
-			]
+			],
+			"lat": 38.08166667,
+			"lon": 46.29916667
 		},
 		"Yazd": {
 			"climate": [
@@ -551,7 +563,9 @@
 					"low": -0.1,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 31.88222222,
+			"lon": 54.33972222
 		},
 		"Mashhad": {
 			"climate": [
@@ -627,7 +641,9 @@
 					"low": -1.7,
 					"precipitation": 24.3
 				}
-			]
+			],
+			"lat": 36.32638889,
+			"lon": 59.54333333
 		},
 		"Hamadan": {
 			"climate": [
@@ -703,7 +719,9 @@
 					"low": -6.6,
 					"precipitation": 40.9
 				}
-			]
+			],
+			"lat": 34.79833333,
+			"lon": 48.51472222
 		},
 		"Zahedan": {
 			"climate": [
@@ -779,7 +797,9 @@
 					"low": 0.5,
 					"precipitation": 7.2
 				}
-			]
+			],
+			"lat": 29.5025,
+			"lon": 60.85583333
 		}
 	}
 }

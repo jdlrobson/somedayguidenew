@@ -146,7 +146,9 @@
 					"low": 23.7,
 					"precipitation": 97.8
 				}
-			]
+			],
+			"lat": -9.47888889,
+			"lon": 147.14944444
 		},
 		"Goroka": {
 			"climate": [
@@ -222,7 +224,9 @@
 					"high": 24,
 					"low": 9
 				}
-			]
+			],
+			"lat": -6.08333333,
+			"lon": 145.38333333
 		},
 		"Mount Hagen": {
 			"climate": [
@@ -298,7 +302,9 @@
 					"low": 12,
 					"precipitation": 279
 				}
-			]
+			],
+			"lat": -5.86,
+			"lon": 144.24
 		},
 		"Rabaul": {
 			"climate": [
@@ -362,7 +368,9 @@
 					"high": 31,
 					"low": 23
 				}
-			]
+			],
+			"lat": -4.2,
+			"lon": 152.18333333
 		},
 		"Vanimo": {
 			"climate": [
@@ -514,7 +522,9 @@
 					"low": 23,
 					"precipitation": 157
 				}
-			]
+			],
+			"lat": -3.55,
+			"lon": 143.63333333
 		},
 		"Madang": {
 			"climate": [
@@ -590,7 +600,9 @@
 					"low": 23.9,
 					"precipitation": 382
 				}
-			]
+			],
+			"lat": -5.21666667,
+			"lon": 145.8
 		}
 	}
 }

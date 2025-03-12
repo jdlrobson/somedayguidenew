@@ -152,7 +152,9 @@
 					"low": 20,
 					"precipitation": 3
 				}
-			]
+			],
+			"lat": 11.28861111,
+			"lon": 49.18194444
 		},
 		"Mogadishu": {
 			"climate": [
@@ -228,7 +230,9 @@
 					"low": 23.5,
 					"precipitation": 9
 				}
-			]
+			],
+			"lat": 2.03916667,
+			"lon": 45.34194444
 		},
 		"Kismayo": {
 			"climate": [
@@ -304,7 +308,9 @@
 					"low": 24.4,
 					"precipitation": 3
 				}
-			]
+			],
+			"lat": -0.35805556,
+			"lon": 42.54527778
 		},
 		"Las Anod": {
 			"climate": [
@@ -380,7 +386,9 @@
 					"low": 15.1,
 					"precipitation": 2
 				}
-			]
+			],
+			"lat": 8.476,
+			"lon": 47.357
 		}
 	}
 }

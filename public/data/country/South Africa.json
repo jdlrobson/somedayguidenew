@@ -140,7 +140,9 @@
 					"low": 16.8,
 					"precipitation": 108
 				}
-			]
+			],
+			"lat": -25.74611111,
+			"lon": 28.18805556
 		},
 		"Cape Town": {
 			"climate": [
@@ -216,7 +218,9 @@
 					"high": 24,
 					"low": 14
 				}
-			]
+			],
+			"lat": -33.92527778,
+			"lon": 18.42388889
 		},
 		"Bloemfontein": {
 			"climate": [
@@ -292,7 +296,9 @@
 					"low": 13.8,
 					"precipitation": 60
 				}
-			]
+			],
+			"lat": -29.11666667,
+			"lon": 26.21666667
 		},
 		"Durban": {
 			"climate": [
@@ -368,7 +374,9 @@
 					"low": 20,
 					"precipitation": 102
 				}
-			]
+			],
+			"lat": -29.88333333,
+			"lon": 31.05
 		},
 		"Johannesburg": {
 			"climate": [
@@ -444,7 +452,9 @@
 					"low": 13.9,
 					"precipitation": 105
 				}
-			]
+			],
+			"lat": -26.20444444,
+			"lon": 28.04555556
 		},
 		"Polokwane": {
 			"climate": [
@@ -520,7 +530,9 @@
 					"low": 16.4,
 					"precipitation": 81
 				}
-			]
+			],
+			"lat": -23.9,
+			"lon": 29.45
 		},
 		"Port Elizabeth": {
 			"climate": [
@@ -672,7 +684,9 @@
 					"low": 18.6,
 					"precipitation": 17
 				}
-			]
+			],
+			"lat": -28.45,
+			"lon": 21.25
 		},
 		"Kruger National Park": {
 			"climate": [
@@ -748,7 +762,9 @@
 					"high": 32,
 					"low": 20
 				}
-			]
+			],
+			"lat": -24.01138889,
+			"lon": 31.48527778
 		},
 		"Kimberley (Northern Cape)": {
 			"climate": [

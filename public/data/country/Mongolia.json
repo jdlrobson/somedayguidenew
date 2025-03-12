@@ -180,7 +180,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 47.92194444,
+			"lon": 106.91527778
 		},
 		"Erdenet": {
 			"climate": [
@@ -256,7 +258,9 @@
 					"low": -21.9,
 					"precipitation": 4
 				}
-			]
+			],
+			"lat": 49.02777778,
+			"lon": 104.04444444
 		},
 		"Hovd": {
 			"climate": [
@@ -408,7 +412,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 49.63555556,
+			"lon": 100.15555556
 		},
 		"Ölgii": {
 			"climate": [
@@ -712,7 +718,9 @@
 					"low": -21.8,
 					"precipitation": 1.1
 				}
-			]
+			],
+			"lat": 43.71694444,
+			"lon": 111.90555556
 		},
 		"Dalanzadgad": {
 			"climate": [
@@ -788,7 +796,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 43.57,
+			"lon": 104.42583333
 		}
 	}
 }

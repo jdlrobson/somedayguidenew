@@ -152,7 +152,9 @@
 					"low": -6.4,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 43.24,
+			"lon": 76.915
 		},
 		"Atyrau": {
 			"climate": [
@@ -228,7 +230,9 @@
 					"low": -7,
 					"precipitation": 14
 				}
-			]
+			],
+			"lat": 47.11666667,
+			"lon": 51.88333333
 		},
 		"Pavlodar": {
 			"climate": [
@@ -304,7 +308,9 @@
 					"low": -17.4,
 					"precipitation": 21
 				}
-			]
+			],
+			"lat": 52.3,
+			"lon": 76.95
 		},
 		"Semey": {
 			"climate": [
@@ -380,7 +386,9 @@
 					"low": -15.7,
 					"precipitation": 22
 				}
-			]
+			],
+			"lat": 50.43333333,
+			"lon": 80.26666667
 		},
 		"Shymkent": {
 			"climate": [
@@ -456,7 +464,9 @@
 					"low": -3.1,
 					"precipitation": 75
 				}
-			]
+			],
+			"lat": 42.31666667,
+			"lon": 69.59583333
 		},
 		"Turkestan": {
 			"climate": [
@@ -684,7 +694,9 @@
 					"low": -9.3,
 					"precipitation": 16
 				}
-			]
+			],
+			"lat": 45.61666667,
+			"lon": 63.31666667
 		}
 	}
 }

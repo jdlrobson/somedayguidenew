@@ -112,7 +112,9 @@
 					"low": 17,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 15.6,
+			"lon": 32.5
 		},
 		"Kassala": {
 			"climate": [
@@ -188,7 +190,9 @@
 					"low": 17.9,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 15.45,
+			"lon": 36.4
 		},
 		"Port Sudan": {
 			"climate": [
@@ -264,7 +268,9 @@
 					"low": 21.3,
 					"precipitation": 10
 				}
-			]
+			],
+			"lat": 19.61666667,
+			"lon": 37.21666667
 		},
 		"Merowe": {
 			"climate": [

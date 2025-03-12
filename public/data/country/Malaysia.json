@@ -187,7 +187,9 @@
 					"high": 32,
 					"low": 23
 				}
-			]
+			],
+			"lat": 3.14777778,
+			"lon": 101.69527778
 		},
 		"George Town (Malaysia)": {
 			"climate": [
@@ -339,7 +341,9 @@
 					"low": 22.6,
 					"precipitation": 123.8
 				}
-			]
+			],
+			"lat": 2.2,
+			"lon": 102.25
 		},
 		"Ipoh": {
 			"climate": [
@@ -415,7 +419,9 @@
 					"high": 32,
 					"low": 23
 				}
-			]
+			],
+			"lat": 4.59722222,
+			"lon": 101.075
 		},
 		"Johor Bahru": {
 			"climate": [
@@ -491,7 +497,9 @@
 					"low": 22.4,
 					"precipitation": 244.5
 				}
-			]
+			],
+			"lat": 1.45555556,
+			"lon": 103.76111111
 		},
 		"Kuantan": {
 			"climate": [
@@ -567,7 +575,9 @@
 					"low": 22.1,
 					"precipitation": 563.9
 				}
-			]
+			],
+			"lat": 3.81666667,
+			"lon": 103.33333333
 		},
 		"Kota Kinabalu": {
 			"climate": [
@@ -643,7 +653,9 @@
 					"low": 23.3,
 					"precipitation": 242.3
 				}
-			]
+			],
+			"lat": 5.975,
+			"lon": 116.0725
 		},
 		"Kuching": {
 			"climate": [
@@ -719,7 +731,9 @@
 					"low": 22.9,
 					"precipitation": 498.1
 				}
-			]
+			],
+			"lat": 1.5575,
+			"lon": 110.34388889
 		},
 		"Miri": {
 			"climate": [
@@ -795,7 +809,9 @@
 					"low": 23.3,
 					"precipitation": 349.2
 				}
-			]
+			],
+			"lat": 4.3925,
+			"lon": 113.98611111
 		},
 		"Cameron Highlands": {
 			"climate": [
@@ -871,7 +887,9 @@
 					"low": 14.9,
 					"precipitation": 203.1
 				}
-			]
+			],
+			"lat": 4.5,
+			"lon": 101.5
 		},
 		"Perhentian Islands": {
 			"climate": [
@@ -947,7 +965,9 @@
 					"high": 23,
 					"low": 20
 				}
-			]
+			],
+			"lat": 5.91666667,
+			"lon": 102.73333333
 		},
 		"Langkawi": {
 			"climate": [
@@ -1023,7 +1043,9 @@
 					"low": 24.4,
 					"precipitation": 57.5
 				}
-			]
+			],
+			"lat": 6.35,
+			"lon": 99.8
 		},
 		"Redang": {
 			"climate": [
@@ -1251,7 +1273,9 @@
 					"low": 23.4,
 					"precipitation": 113.5
 				}
-			]
+			],
+			"lat": 5.41444444,
+			"lon": 100.32916667
 		}
 	}
 }

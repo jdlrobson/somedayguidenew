@@ -76,7 +76,9 @@
 					"high": 9,
 					"low": null
 				}
-			]
+			],
+			"lat": 41.31111111,
+			"lon": 69.27972222
 		},
 		"Andijan": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": -2.8,
 					"precipitation": 25
 				}
-			]
+			],
+			"lat": 40.78333333,
+			"lon": 72.33333333
 		},
 		"Nukus": {
 			"climate": [
@@ -228,7 +232,9 @@
 					"low": -5.5,
 					"precipitation": 12.1
 				}
-			]
+			],
+			"lat": 42.46666667,
+			"lon": 59.6
 		},
 		"Samarkand": {
 			"climate": [
@@ -304,7 +310,9 @@
 					"high": 9,
 					"low": null
 				}
-			]
+			],
+			"lat": 39.65472222,
+			"lon": 66.97583333
 		},
 		"Termez": {
 			"climate": [
@@ -380,7 +388,9 @@
 					"low": 1,
 					"precipitation": 21
 				}
-			]
+			],
+			"lat": 37.21666667,
+			"lon": 67.28333333
 		}
 	}
 }

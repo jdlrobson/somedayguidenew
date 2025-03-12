@@ -86,7 +86,9 @@
 					"low": 23.2,
 					"precipitation": 85
 				}
-			]
+			],
+			"lat": -20.16444444,
+			"lon": 57.50416667
 		},
 		"Vacoas-Phoenix": {
 			"climate": [
@@ -138,7 +140,9 @@
 					"high": 27.1,
 					"low": 19.4
 				}
-			]
+			],
+			"lat": -20.30004722,
+			"lon": 57.47450833
 		},
 		"Rodrigues": {
 			"climate": [
@@ -214,7 +218,9 @@
 					"low": 22.8,
 					"precipitation": 71
 				}
-			]
+			],
+			"lat": -19.71666667,
+			"lon": 63.41666667
 		},
 		"Mahebourg": {
 			"climate": [

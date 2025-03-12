@@ -127,7 +127,9 @@
 					"low": 18.8,
 					"precipitation": 123.28
 				}
-			]
+			],
+			"lat": -6.17305556,
+			"lon": 35.74194444
 		},
 		"Arusha": {
 			"climate": [
@@ -203,7 +205,9 @@
 					"low": 10,
 					"precipitation": 100
 				}
-			]
+			],
+			"lat": -3.36666667,
+			"lon": 36.68333333
 		},
 		"Dar es Salaam": {
 			"climate": [
@@ -279,7 +283,9 @@
 					"high": 31,
 					"low": 24
 				}
-			]
+			],
+			"lat": -6.81611111,
+			"lon": 39.28027778
 		},
 		"Kigoma": {
 			"climate": [
@@ -355,7 +361,9 @@
 					"low": 19,
 					"precipitation": 130
 				}
-			]
+			],
+			"lat": -4.88333333,
+			"lon": 29.63333333
 		},
 		"Morogoro": {
 			"climate": [
@@ -431,7 +439,9 @@
 					"low": 21,
 					"precipitation": 71
 				}
-			]
+			],
+			"lat": -6.82416667,
+			"lon": 37.66333333
 		},
 		"Mwanza": {
 			"climate": [
@@ -507,7 +517,9 @@
 					"low": 17.9,
 					"precipitation": 138.9
 				}
-			]
+			],
+			"lat": -2.51666667,
+			"lon": 32.9
 		},
 		"Stone Town": {
 			"climate": [
@@ -571,7 +583,9 @@
 					"high": 32,
 					"low": 24
 				}
-			]
+			],
+			"lat": -6.1624,
+			"lon": 39.1913
 		},
 		"Tanga": {
 			"climate": [
@@ -723,7 +737,9 @@
 					"low": 22.5,
 					"precipitation": 131
 				}
-			]
+			],
+			"lat": -5.16666667,
+			"lon": 39.78333333
 		}
 	}
 }

@@ -113,7 +113,9 @@
 					"low": 17.8,
 					"precipitation": 208.1
 				}
-			]
+			],
+			"lat": -15.41666667,
+			"lon": 28.28333333
 		},
 		"Chipata": {
 			"climate": [
@@ -189,7 +191,9 @@
 					"low": 18.6,
 					"precipitation": 220.7
 				}
-			]
+			],
+			"lat": -13.64527778,
+			"lon": 32.64638889
 		},
 		"Livingstone": {
 			"climate": [

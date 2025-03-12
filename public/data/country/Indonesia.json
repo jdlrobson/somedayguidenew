@@ -248,7 +248,9 @@
 					"high": 31,
 					"low": 23
 				}
-			]
+			],
+			"lat": -6.175,
+			"lon": 106.8275
 		},
 		"Bandung": {
 			"climate": [
@@ -324,7 +326,9 @@
 					"low": 19.4,
 					"precipitation": 215.1
 				}
-			]
+			],
+			"lat": -6.912,
+			"lon": 107.6097
 		},
 		"Banjarmasin": {
 			"climate": [
@@ -400,7 +404,9 @@
 					"low": 24,
 					"precipitation": 290
 				}
-			]
+			],
+			"lat": -3.32,
+			"lon": 114.5925
 		},
 		"Makassar": {
 			"climate": [
@@ -476,7 +482,9 @@
 					"low": 23,
 					"precipitation": 549
 				}
-			]
+			],
+			"lat": -5.13305556,
+			"lon": 119.41361111
 		},
 		"Medan": {
 			"climate": [
@@ -552,7 +560,9 @@
 					"low": 22.5,
 					"precipitation": 228
 				}
-			]
+			],
+			"lat": 3.58944444,
+			"lon": 98.67388889
 		},
 		"Surabaya": {
 			"climate": [
@@ -628,7 +638,9 @@
 					"low": 23.8,
 					"precipitation": 219
 				}
-			]
+			],
+			"lat": -7.24583333,
+			"lon": 112.73777778
 		},
 		"Yogyakarta": {
 			"climate": [
@@ -704,7 +716,9 @@
 					"low": 22.8,
 					"precipitation": 278
 				}
-			]
+			],
+			"lat": -7.80138889,
+			"lon": 110.36444444
 		},
 		"Bromo-Tengger-Semeru National Park": {
 			"climate": [
@@ -856,7 +870,9 @@
 					"high": 26,
 					"low": 22
 				}
-			]
+			],
+			"lat": 1.61666667,
+			"lon": 124.75
 		}
 	}
 }

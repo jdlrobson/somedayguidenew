@@ -164,7 +164,9 @@
 					"low": 1.7,
 					"precipitation": 21
 				}
-			]
+			],
+			"lat": 33.51305556,
+			"lon": 36.30944444
 		},
 		"Aleppo": {
 			"climate": [
@@ -240,7 +242,9 @@
 					"low": 3.4,
 					"precipitation": 58.4
 				}
-			]
+			],
+			"lat": 36.2,
+			"lon": 37.16
 		},
 		"Deir-az-Zur": {
 			"climate": [
@@ -392,7 +396,9 @@
 					"low": 3.8,
 					"precipitation": 80.7
 				}
-			]
+			],
+			"lat": 34.73083333,
+			"lon": 36.70944444
 		},
 		"Latakia": {
 			"climate": [
@@ -468,7 +474,9 @@
 					"low": 10,
 					"precipitation": 160.7
 				}
-			]
+			],
+			"lat": 35.51666667,
+			"lon": 35.78333333
 		},
 		"Bosra": {
 			"climate": [
@@ -544,7 +552,9 @@
 					"low": 3.5,
 					"precipitation": 47
 				}
-			]
+			],
+			"lat": 32.51833333,
+			"lon": 36.48055556
 		}
 	}
 }

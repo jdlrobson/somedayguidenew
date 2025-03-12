@@ -122,7 +122,9 @@
 					"low": 16.7,
 					"precipitation": 311
 				}
-			]
+			],
+			"lat": -18.91,
+			"lon": 47.525
 		},
 		"Antsirabe": {
 			"climate": [
@@ -198,7 +200,9 @@
 					"low": 13.9,
 					"precipitation": 249
 				}
-			]
+			],
+			"lat": -19.86666667,
+			"lon": 47.03333333
 		},
 		"Nosy Be": {
 			"climate": [
@@ -274,7 +278,9 @@
 					"low": 22.5,
 					"precipitation": 371.6
 				}
-			]
+			],
+			"lat": -13.315,
+			"lon": 48.2675
 		}
 	}
 }

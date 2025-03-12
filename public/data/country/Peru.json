@@ -203,7 +203,9 @@
 					"high": 29,
 					"low": 18
 				}
-			]
+			],
+			"lat": -12.06,
+			"lon": -77.0375
 		},
 		"Arequipa": {
 			"climate": [
@@ -279,7 +281,9 @@
 					"low": 7.6,
 					"precipitation": 4.7
 				}
-			]
+			],
+			"lat": -16.39888889,
+			"lon": -71.53694444
 		},
 		"Cajamarca": {
 			"climate": [
@@ -355,7 +359,9 @@
 					"low": 5.9,
 					"precipitation": 72.6
 				}
-			]
+			],
+			"lat": -7.1575,
+			"lon": -78.5175
 		},
 		"Cuzco": {
 			"climate": [
@@ -507,7 +513,9 @@
 					"high": 32,
 					"low": 23
 				}
-			]
+			],
+			"lat": -3.75,
+			"lon": -73.25
 		},
 		"Puno": {
 			"climate": [
@@ -583,7 +591,9 @@
 					"low": 5.3,
 					"precipitation": 87.2
 				}
-			]
+			],
+			"lat": -15.84333333,
+			"lon": -70.02361111
 		},
 		"Trujillo (Peru)": {
 			"climate": [
@@ -735,7 +745,9 @@
 					"low": 3,
 					"precipitation": 85.9
 				}
-			]
+			],
+			"lat": -15.825,
+			"lon": -69.325
 		},
 		"Machu Picchu": {
 			"climate": [
@@ -811,7 +823,9 @@
 					"high": 16,
 					"low": 1
 				}
-			]
+			],
+			"lat": -13.16333333,
+			"lon": -72.54555556
 		},
 		"Manú National Park": {
 			"climate": [
@@ -963,7 +977,9 @@
 					"low": 15.9,
 					"precipitation": 0.1
 				}
-			]
+			],
+			"lat": -14.82888889,
+			"lon": -74.94361111
 		},
 		"Tarapoto": {
 			"climate": [
@@ -1039,7 +1055,9 @@
 					"low": 20,
 					"precipitation": 86.8
 				}
-			]
+			],
+			"lat": -6.48333333,
+			"lon": -76.36666667
 		},
 		"Pucallpa": {
 			"climate": [
@@ -1115,7 +1133,9 @@
 					"low": 22.4,
 					"precipitation": 180
 				}
-			]
+			],
+			"lat": -8.38333333,
+			"lon": -74.55
 		}
 	}
 }

@@ -188,7 +188,9 @@
 					"low": -6.1,
 					"precipitation": 45.5
 				}
-			]
+			],
+			"lat": 51.49388889,
+			"lon": 31.29472222
 		},
 		"Chernivtsi": {
 			"climate": [
@@ -264,7 +266,9 @@
 					"high": 1,
 					"low": null
 				}
-			]
+			],
+			"lat": 48.3,
+			"lon": 25.93333333
 		},
 		"Dnipro": {
 			"climate": [
@@ -340,7 +344,9 @@
 					"low": -4.7,
 					"precipitation": 47
 				}
-			]
+			],
+			"lat": 48.4675,
+			"lon": 35.04
 		},
 		"Donetsk": {
 			"climate": [
@@ -416,7 +422,9 @@
 					"low": -5.4,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 48.00277778,
+			"lon": 37.80527778
 		},
 		"Kharkiv": {
 			"climate": [
@@ -492,7 +500,9 @@
 					"low": -5.9,
 					"precipitation": 36
 				}
-			]
+			],
+			"lat": 49.9925,
+			"lon": 36.23111111
 		},
 		"Lviv": {
 			"climate": [
@@ -568,7 +578,9 @@
 					"high": 1,
 					"low": null
 				}
-			]
+			],
+			"lat": 49.8425,
+			"lon": 24.03222222
 		},
 		"Odessa": {
 			"climate": [
@@ -720,7 +732,9 @@
 					"low": -5,
 					"precipitation": 46.3
 				}
-			]
+			],
+			"lat": 51.27222222,
+			"lon": 30.22416667
 		},
 		"Uman": {
 			"climate": [
@@ -796,7 +810,9 @@
 					"high": 0,
 					"low": -5
 				}
-			]
+			],
+			"lat": 48.75,
+			"lon": 30.21666667
 		}
 	}
 }

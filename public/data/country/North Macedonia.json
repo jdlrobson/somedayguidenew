@@ -86,7 +86,9 @@
 					"high": 8,
 					"low": 1
 				}
-			]
+			],
+			"lat": 41.99611111,
+			"lon": 21.43166667
 		},
 		"Bitola": {
 			"climate": [
@@ -162,7 +164,9 @@
 					"low": -2.6,
 					"precipitation": 68
 				}
-			]
+			],
+			"lat": 41.03194444,
+			"lon": 21.33472222
 		},
 		"Kruševo": {
 			"climate": [
@@ -238,7 +242,9 @@
 					"high": 1,
 					"low": -5
 				}
-			]
+			],
+			"lat": 41.37,
+			"lon": 21.24833333
 		},
 		"Ohrid": {
 			"climate": [
@@ -314,7 +320,9 @@
 					"low": 0,
 					"precipitation": 71.3
 				}
-			]
+			],
+			"lat": 41.11694444,
+			"lon": 20.80166667
 		},
 		"Prilep": {
 			"climate": [
@@ -390,7 +398,9 @@
 					"low": -1,
 					"precipitation": 61
 				}
-			]
+			],
+			"lat": 41.34444444,
+			"lon": 21.55277778
 		},
 		"Strumica": {
 			"climate": [
@@ -466,7 +476,9 @@
 					"low": 0.3,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": 41.43888889,
+			"lon": 22.63888889
 		},
 		"Mavrovo National Park": {
 			"climate": [
@@ -542,7 +554,9 @@
 					"high": -2,
 					"low": -9
 				}
-			]
+			],
+			"lat": 41.68333333,
+			"lon": 20.7
 		}
 	}
 }

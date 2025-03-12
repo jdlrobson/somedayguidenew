@@ -112,7 +112,9 @@
 					"high": 28,
 					"low": 18
 				}
-			]
+			],
+			"lat": 0.31361111,
+			"lon": 32.58111111
 		},
 		"Arua": {
 			"climate": [
@@ -188,7 +190,9 @@
 					"low": 17,
 					"precipitation": 29.8
 				}
-			]
+			],
+			"lat": 3.03527778,
+			"lon": 30.91083333
 		},
 		"Entebbe": {
 			"climate": [
@@ -264,7 +268,9 @@
 					"high": 26,
 					"low": 17
 				}
-			]
+			],
+			"lat": 0.05,
+			"lon": 32.46
 		},
 		"Gulu": {
 			"climate": [
@@ -340,7 +346,9 @@
 					"low": 16.1,
 					"precipitation": 36
 				}
-			]
+			],
+			"lat": 2.78166667,
+			"lon": 32.29916667
 		},
 		"Kisoro": {
 			"climate": [
@@ -416,7 +424,9 @@
 					"high": 19,
 					"low": 7
 				}
-			]
+			],
+			"lat": -1.285,
+			"lon": 29.685
 		},
 		"Bwindi Impenetrable National Park": {
 			"climate": [
@@ -492,7 +502,9 @@
 					"high": 19,
 					"low": 9
 				}
-			]
+			],
+			"lat": -1.01666667,
+			"lon": 29.68333333
 		},
 		"Queen Elizabeth National Park": {
 			"climate": [
@@ -568,7 +580,9 @@
 					"high": 22,
 					"low": 16
 				}
-			]
+			],
+			"lat": -0.13722222,
+			"lon": 30.04111111
 		}
 	}
 }

@@ -3266,7 +3266,7 @@
 		],
 		"links": [],
 		"destinations": [
-			"Djibouti (city)",
+			"Djibouti City",
 			"Galafi",
 			"Obock",
 			"Tadjoura",
@@ -11601,7 +11601,7 @@
 				"Arabic"
 			]
 		},
-		"snippets": 10,
+		"snippets": 11,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Old_Damascus_8.jpg"
 	},

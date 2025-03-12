@@ -76,7 +76,9 @@
 					"high": 10,
 					"low": 3
 				}
-			]
+			],
+			"lat": 37.9375,
+			"lon": 58.38
 		},
 		"Konye Urgench": {
 			"climate": [

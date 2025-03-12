@@ -76,7 +76,9 @@
 					"low": 15.5,
 					"precipitation": 1.2
 				}
-			]
+			],
+			"lat": 9.06666667,
+			"lon": 7.48333333
 		},
 		"Benin City": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 21.2,
 					"precipitation": 15
 				}
-			]
+			],
+			"lat": 6.33333333,
+			"lon": 5.62222222
 		},
 		"Kano": {
 			"climate": [
@@ -304,7 +308,9 @@
 					"low": 22.5,
 					"precipitation": 14.8
 				}
-			]
+			],
+			"lat": 6.455027,
+			"lon": 3.384082
 		},
 		"Osogbo": {
 			"climate": [
@@ -380,7 +386,9 @@
 					"low": 20.1,
 					"precipitation": 12
 				}
-			]
+			],
+			"lat": 7.76666667,
+			"lon": 4.56666667
 		}
 	}
 }

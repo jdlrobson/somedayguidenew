@@ -195,7 +195,9 @@
 					"low": 0.1,
 					"precipitation": 66
 				}
-			]
+			],
+			"lat": 47.55472222,
+			"lon": 7.59055556
 		},
 		"Geneva": {
 			"climate": [
@@ -271,7 +273,9 @@
 					"low": -1.1,
 					"precipitation": 82
 				}
-			]
+			],
+			"lat": 46.20166667,
+			"lon": 6.14694444
 		},
 		"Interlaken": {
 			"climate": [
@@ -347,7 +351,9 @@
 					"low": -2.2,
 					"precipitation": 86
 				}
-			]
+			],
+			"lat": 46.68333333,
+			"lon": 7.85
 		},
 		"Lausanne": {
 			"climate": [
@@ -423,7 +429,9 @@
 					"low": 1.4,
 					"precipitation": 92
 				}
-			]
+			],
+			"lat": 46.52,
+			"lon": 6.63333333
 		},
 		"Lucerne": {
 			"climate": [
@@ -499,7 +507,9 @@
 					"high": 3,
 					"low": null
 				}
-			]
+			],
+			"lat": 47.05,
+			"lon": 8.3
 		},
 		"Lugano": {
 			"climate": [
@@ -575,7 +585,9 @@
 					"low": 1,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 46.005,
+			"lon": 8.9525
 		},
 		"Zurich": {
 			"climate": [
@@ -651,7 +663,9 @@
 					"low": -1.4,
 					"precipitation": 75
 				}
-			]
+			],
+			"lat": 47.37444444,
+			"lon": 8.54111111
 		},
 		"Davos": {
 			"climate": [
@@ -727,7 +741,9 @@
 					"low": -7.5,
 					"precipitation": 62
 				}
-			]
+			],
+			"lat": 46.8,
+			"lon": 9.83333333
 		},
 		"St. Moritz": {
 			"climate": [
@@ -803,7 +819,9 @@
 					"low": -13.8,
 					"precipitation": 36
 				}
-			]
+			],
+			"lat": 46.49722222,
+			"lon": 9.83777778
 		},
 		"Zermatt": {
 			"climate": [
@@ -879,7 +897,9 @@
 					"low": -7.1,
 					"precipitation": 48
 				}
-			]
+			],
+			"lat": 46.01666667,
+			"lon": 7.75
 		},
 		"Saint Gallen": {
 			"climate": [

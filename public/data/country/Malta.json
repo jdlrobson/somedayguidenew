@@ -103,7 +103,9 @@
 					"high": 17,
 					"low": 11
 				}
-			]
+			],
+			"lat": 35.89833333,
+			"lon": 14.5125
 		},
 		"Victoria (Malta)": {
 			"climate": [

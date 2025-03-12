@@ -179,7 +179,9 @@
 					"high": 15,
 					"low": 9
 				}
-			]
+			],
+			"lat": 38.72527778,
+			"lon": -9.15
 		},
 		"Aveiro": {
 			"climate": [
@@ -331,7 +333,9 @@
 					"low": 6.4,
 					"precipitation": 129
 				}
-			]
+			],
+			"lat": 40.20277778,
+			"lon": -8.41388889
 		},
 		"Évora": {
 			"climate": [
@@ -407,7 +411,9 @@
 					"low": 6.6,
 					"precipitation": 85
 				}
-			]
+			],
+			"lat": 38.56666667,
+			"lon": -7.9
 		},
 		"Funchal": {
 			"climate": [
@@ -483,7 +489,9 @@
 					"high": 21,
 					"low": 15
 				}
-			]
+			],
+			"lat": 32.65,
+			"lon": -16.91666667
 		},
 		"Guimarães": {
 			"climate": [
@@ -559,7 +567,9 @@
 					"high": 9,
 					"low": 3
 				}
-			]
+			],
+			"lat": 41.445,
+			"lon": -8.29083333
 		},
 		"Porto": {
 			"climate": [
@@ -635,7 +645,9 @@
 					"low": 5.9,
 					"precipitation": 176
 				}
-			]
+			],
+			"lat": 41.16214167,
+			"lon": -8.62195278
 		},
 		"Viana do Castelo": {
 			"climate": [
@@ -699,7 +711,9 @@
 					"high": 15.2,
 					"low": 6.4
 				}
-			]
+			],
+			"lat": 41.7,
+			"lon": -8.83333333
 		},
 		"Azores": {
 			"climate": [
@@ -775,7 +789,9 @@
 					"low": 12.9,
 					"precipitation": 146.9
 				}
-			]
+			],
+			"lat": 38.66,
+			"lon": -28.07
 		},
 		"Machico": {
 			"climate": [

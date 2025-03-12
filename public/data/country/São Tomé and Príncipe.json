@@ -92,7 +92,9 @@
 					"low": 22.1,
 					"precipitation": 108
 				}
-			]
+			],
+			"lat": 0.33611111,
+			"lon": 6.73055556
 		},
 		"Santo António": {
 			"climate": [
@@ -168,7 +170,9 @@
 					"low": 21.8,
 					"precipitation": 142
 				}
-			]
+			],
+			"lat": 1.63666667,
+			"lon": 7.41777778
 		}
 	}
 }

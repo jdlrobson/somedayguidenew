@@ -170,7 +170,9 @@
 					"low": 2,
 					"precipitation": 62.5
 				}
-			]
+			],
+			"lat": 51.9,
+			"lon": -1.15
 		},
 		"Evesham": {
 			"climate": [
@@ -246,7 +248,9 @@
 					"high": 3,
 					"low": -1
 				}
-			]
+			],
+			"lat": 52.092,
+			"lon": -1.947
 		},
 		"Skye": {
 			"climate": [
@@ -398,7 +402,9 @@
 					"low": 3,
 					"precipitation": 67.2
 				}
-			]
+			],
+			"lat": 50.71666667,
+			"lon": -1.98333333
 		},
 		"Tunbridge Wells": {
 			"climate": [
@@ -550,7 +556,9 @@
 					"low": 0.9,
 					"precipitation": 55.8
 				}
-			]
+			],
+			"lat": 53.99194444,
+			"lon": -1.53777778
 		},
 		"Witney": {
 			"climate": [
@@ -626,7 +634,9 @@
 					"low": 2.3,
 					"precipitation": 66.17
 				}
-			]
+			],
+			"lat": 51.78,
+			"lon": -1.49
 		},
 		"Margate": {
 			"climate": [
@@ -702,7 +712,9 @@
 					"low": 2.9,
 					"precipitation": 56.2
 				}
-			]
+			],
+			"lat": 51.385,
+			"lon": 1.3838
 		},
 		"Wimborne Minster": {
 			"climate": [
@@ -778,7 +790,9 @@
 					"high": 2,
 					"low": -1
 				}
-			]
+			],
+			"lat": 50.804,
+			"lon": -1.978
 		},
 		"Hampshire": {
 			"climate": [
@@ -854,7 +868,9 @@
 					"low": 3,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 51.0575,
+			"lon": -1.3075
 		},
 		"Newbury and Thatcham": {
 			"climate": [
@@ -1006,7 +1022,9 @@
 					"low": 14.1,
 					"precipitation": 127
 				}
-			]
+			],
+			"lat": -37.115,
+			"lon": -12.285
 		},
 		"Warwick (England)": {
 			"climate": [
@@ -1310,7 +1328,9 @@
 					"low": 1.2,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 57.4778,
+			"lon": -4.2247
 		},
 		"Ramsgate": {
 			"climate": [
@@ -1386,7 +1406,9 @@
 					"low": 2.9,
 					"precipitation": 56.2
 				}
-			]
+			],
+			"lat": 51.336,
+			"lon": 1.416
 		},
 		"Lewes": {
 			"climate": [
@@ -1450,7 +1472,9 @@
 					"high": 8,
 					"low": 5
 				}
-			]
+			],
+			"lat": 50.87472222,
+			"lon": 0.01166667
 		},
 		"Chichester": {
 			"climate": [
@@ -1526,7 +1550,9 @@
 					"high": 8,
 					"low": 5
 				}
-			]
+			],
+			"lat": 50.8365,
+			"lon": -0.7792
 		},
 		"Maidstone": {
 			"climate": [
@@ -1602,7 +1628,9 @@
 					"low": 2.1,
 					"precipitation": 65
 				}
-			]
+			],
+			"lat": 51.272,
+			"lon": 0.529
 		},
 		"Kingston upon Hull": {
 			"climate": [
@@ -1678,7 +1706,9 @@
 					"low": 2.2,
 					"precipitation": 62.5
 				}
-			]
+			],
+			"lat": 53.74444444,
+			"lon": -0.3325
 		},
 		"Dover (England)": {
 			"climate": [
@@ -1982,7 +2012,9 @@
 					"low": 2.1,
 					"precipitation": 79.3
 				}
-			]
+			],
+			"lat": 54.59666667,
+			"lon": -5.93
 		},
 		"Cardiff": {
 			"climate": [
@@ -2058,7 +2090,9 @@
 					"low": 2.6,
 					"precipitation": 125.3
 				}
-			]
+			],
+			"lat": 51.48166667,
+			"lon": -3.17916667
 		},
 		"Bristol": {
 			"climate": [
@@ -2134,7 +2168,9 @@
 					"low": 2.5,
 					"precipitation": 85.9
 				}
-			]
+			],
+			"lat": 51.45361111,
+			"lon": -2.5975
 		},
 		"Liverpool": {
 			"climate": [
@@ -2210,7 +2246,9 @@
 					"low": 2.5,
 					"precipitation": 88.8
 				}
-			]
+			],
+			"lat": 53.40722222,
+			"lon": -2.99166667
 		},
 		"Manchester": {
 			"climate": [
@@ -2286,7 +2324,9 @@
 					"high": 7,
 					"low": 2
 				}
-			]
+			],
+			"lat": 53.479,
+			"lon": -2.2452
 		},
 		"Glasgow": {
 			"climate": [
@@ -2362,7 +2402,9 @@
 					"high": 7,
 					"low": 2
 				}
-			]
+			],
+			"lat": 55.86111111,
+			"lon": -4.25
 		},
 		"Birmingham (England)": {
 			"climate": [
@@ -2514,7 +2556,9 @@
 					"high": 7,
 					"low": 1
 				}
-			]
+			],
+			"lat": 55.95,
+			"lon": -3.18333333
 		},
 		"London": {
 			"climate": [
@@ -2590,7 +2634,9 @@
 					"high": 8,
 					"low": 3
 				}
-			]
+			],
+			"lat": 51.50722222,
+			"lon": -0.1275
 		},
 		"Norwich": {
 			"climate": [
@@ -2666,7 +2712,9 @@
 					"high": 2,
 					"low": -2
 				}
-			]
+			],
+			"lat": 52.62861111,
+			"lon": 1.29277778
 		},
 		"Exeter": {
 			"climate": [
@@ -2742,7 +2790,9 @@
 					"low": 2.4,
 					"precipitation": 87.3
 				}
-			]
+			],
+			"lat": 50.72555556,
+			"lon": -3.52694444
 		},
 		"Devon": {
 			"climate": [
@@ -2806,7 +2856,9 @@
 					"high": 9,
 					"low": 5
 				}
-			]
+			],
+			"lat": 50.7,
+			"lon": -3.8
 		},
 		"Cambridge": {
 			"climate": [
@@ -2882,7 +2934,9 @@
 					"low": 1.9,
 					"precipitation": 46.4
 				}
-			]
+			],
+			"lat": 52.205,
+			"lon": 0.1225
 		},
 		"Nottingham": {
 			"climate": [
@@ -2958,7 +3012,9 @@
 					"low": 1.7,
 					"precipitation": 55.9
 				}
-			]
+			],
+			"lat": 52.9561,
+			"lon": -1.1512
 		}
 	}
 }

@@ -95,7 +95,9 @@
 					"low": 15.6,
 					"precipitation": 12.1
 				}
-			]
+			],
+			"lat": 25.28666667,
+			"lon": 51.53333333
 		},
 		"Al Khor": {
 			"climate": [
@@ -171,7 +173,9 @@
 					"low": 14,
 					"precipitation": 22
 				}
-			]
+			],
+			"lat": 25.8,
+			"lon": 51.4
 		},
 		"Al Shamal": {
 			"climate": [
@@ -247,7 +251,9 @@
 					"low": 14,
 					"precipitation": 23
 				}
-			]
+			],
+			"lat": 26.07,
+			"lon": 51.13
 		},
 		"Al Shahaniyah": {
 			"climate": [
@@ -399,7 +405,9 @@
 					"low": 15,
 					"precipitation": 12.7
 				}
-			]
+			],
+			"lat": 25.18,
+			"lon": 51.61
 		},
 		"Dukhan": {
 			"climate": [
@@ -551,7 +559,9 @@
 					"low": 11,
 					"precipitation": 24
 				}
-			]
+			],
+			"lat": 24.98,
+			"lon": 51.55
 		}
 	}
 }

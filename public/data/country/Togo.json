@@ -76,7 +76,9 @@
 					"low": 22.5,
 					"precipitation": 7.8
 				}
-			]
+			],
+			"lat": 6.13083333,
+			"lon": 1.21527778
 		},
 		"Kpalime": {
 			"climate": [

@@ -76,7 +76,9 @@
 					"low": 0.8,
 					"precipitation": 59.8
 				}
-			]
+			],
+			"lat": 38.53666667,
+			"lon": 68.78
 		},
 		"Khujand": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": -0.5,
 					"precipitation": 17.3
 				}
-			]
+			],
+			"lat": 40.28333333,
+			"lon": 69.63333333
 		},
 		"Panjakent": {
 			"climate": [
@@ -204,7 +208,9 @@
 					"heading": "Dec",
 					"precipitation": 48.7
 				}
-			]
+			],
+			"lat": 39.5,
+			"lon": 67.61666667
 		}
 	}
 }

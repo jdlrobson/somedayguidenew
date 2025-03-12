@@ -198,7 +198,9 @@
 					"low": 23.4,
 					"precipitation": 35
 				}
-			]
+			],
+			"lat": -3.22361111,
+			"lon": 40.13
 		},
 		"Lamu": {
 			"climate": [
@@ -274,7 +276,9 @@
 					"low": 24.6,
 					"precipitation": 28
 				}
-			]
+			],
+			"lat": -2.26944444,
+			"lon": 40.90222222
 		},
 		"Kisumu": {
 			"climate": [
@@ -350,7 +354,9 @@
 					"low": 23.5,
 					"precipitation": 101
 				}
-			]
+			],
+			"lat": -0.08333333,
+			"lon": 34.76666667
 		},
 		"Kakamega Rainforest": {
 			"climate": [
@@ -502,7 +508,9 @@
 					"high": 32,
 					"low": 23
 				}
-			]
+			],
+			"lat": -4.05,
+			"lon": 39.66666667
 		},
 		"Nairobi": {
 			"climate": [
@@ -578,7 +586,9 @@
 					"low": 13.5,
 					"precipitation": 79.8
 				}
-			]
+			],
+			"lat": -1.28638889,
+			"lon": 36.81722222
 		},
 		"Nakuru": {
 			"climate": [
@@ -654,7 +664,9 @@
 					"low": 8.9,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": -0.3,
+			"lon": 36.06666667
 		},
 		"Garissa": {
 			"climate": [
@@ -730,7 +742,9 @@
 					"low": 23,
 					"precipitation": 51.9
 				}
-			]
+			],
+			"lat": -0.45694444,
+			"lon": 39.65833333
 		},
 		"Lodwar": {
 			"climate": [
@@ -806,7 +820,9 @@
 					"low": 22.3,
 					"precipitation": 14
 				}
-			]
+			],
+			"lat": 3.11666667,
+			"lon": 35.6
 		},
 		"Embu": {
 			"climate": [
@@ -958,7 +974,9 @@
 					"low": 8,
 					"precipitation": 38
 				}
-			]
+			],
+			"lat": 0.01666667,
+			"lon": 37.06666667
 		},
 		"Voi": {
 			"climate": [
@@ -1034,7 +1052,9 @@
 					"low": 20.4,
 					"precipitation": 119
 				}
-			]
+			],
+			"lat": -3.39055556,
+			"lon": 38.57694444
 		},
 		"Lake Naivasha": {
 			"climate": [
@@ -1110,7 +1130,9 @@
 					"high": 31,
 					"low": 11
 				}
-			]
+			],
+			"lat": -0.76852778,
+			"lon": 36.35064444
 		},
 		"Nyeri": {
 			"climate": [
@@ -1186,7 +1208,9 @@
 					"high": 25,
 					"low": 13
 				}
-			]
+			],
+			"lat": -0.41666667,
+			"lon": 36.95
 		}
 	}
 }

@@ -113,7 +113,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 52.23,
+			"lon": 21.01111111
 		},
 		"Gdańsk": {
 			"climate": [
@@ -189,7 +191,9 @@
 					"low": -1.6,
 					"precipitation": 33.7
 				}
-			]
+			],
+			"lat": 54.3475,
+			"lon": 18.64527778
 		},
 		"Katowice": {
 			"climate": [
@@ -265,7 +269,9 @@
 					"low": -3,
 					"precipitation": 32.8
 				}
-			]
+			],
+			"lat": 50.2625,
+			"lon": 19.02166667
 		},
 		"Kraków": {
 			"climate": [
@@ -341,7 +347,9 @@
 					"high": 2,
 					"low": null
 				}
-			]
+			],
+			"lat": 50.06138889,
+			"lon": 19.93722222
 		},
 		"Lublin": {
 			"climate": [
@@ -417,7 +425,9 @@
 					"low": -3.9,
 					"precipitation": 33.6
 				}
-			]
+			],
+			"lat": 51.25,
+			"lon": 22.56666667
 		},
 		"Łódź": {
 			"climate": [
@@ -493,7 +503,9 @@
 					"low": -1.9,
 					"precipitation": 35.9
 				}
-			]
+			],
+			"lat": 51.77694444,
+			"lon": 19.45472222
 		},
 		"Poznań": {
 			"climate": [
@@ -569,7 +581,9 @@
 					"high": 3,
 					"low": null
 				}
-			]
+			],
+			"lat": 52.40833333,
+			"lon": 16.93361111
 		},
 		"Szczecin": {
 			"climate": [
@@ -645,7 +659,9 @@
 					"low": -1.2,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 53.4325,
+			"lon": 14.54805556
 		},
 		"Wrocław": {
 			"climate": [
@@ -721,7 +737,9 @@
 					"low": -3.1,
 					"precipitation": 34
 				}
-			]
+			],
+			"lat": 51.11,
+			"lon": 17.0325
 		}
 	}
 }

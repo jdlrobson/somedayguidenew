@@ -152,7 +152,9 @@
 					"high": 32,
 					"low": 22
 				}
-			]
+			],
+			"lat": 12.8,
+			"lon": 45.03333333
 		},
 		"Al Mukalla": {
 			"climate": [
@@ -304,7 +306,9 @@
 					"low": 14.3,
 					"precipitation": 8
 				}
-			]
+			],
+			"lat": 15.92694444,
+			"lon": 48.62666667
 		},
 		"Ta'izz": {
 			"climate": [

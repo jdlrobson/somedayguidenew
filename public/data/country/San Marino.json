@@ -76,7 +76,9 @@
 					"low": 1.5,
 					"precipitation": 46.6
 				}
-			]
+			],
+			"lat": 44.05944444,
+			"lon": 12.56833333
 		},
 		"San Marino": {
 			"climate": [

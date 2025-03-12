@@ -180,7 +180,9 @@
 					"high": 23,
 					"low": 9
 				}
-			]
+			],
+			"lat": 28.61,
+			"lon": 77.23
 		},
 		"Bangalore": {
 			"climate": [
@@ -332,7 +334,9 @@
 					"low": 21.9,
 					"precipitation": 177.4
 				}
-			]
+			],
+			"lat": 13.0825,
+			"lon": 80.275
 		},
 		"Hyderabad": {
 			"climate": [
@@ -408,7 +412,9 @@
 					"low": 14.5,
 					"precipitation": 5.9
 				}
-			]
+			],
+			"lat": 17.36166667,
+			"lon": 78.47472222
 		},
 		"Jaipur": {
 			"climate": [
@@ -484,7 +490,9 @@
 					"high": 24,
 					"low": 9
 				}
-			]
+			],
+			"lat": 26.9,
+			"lon": 75.8
 		},
 		"Kochi": {
 			"climate": [
@@ -560,7 +568,9 @@
 					"low": 23.1,
 					"precipitation": 43.2
 				}
-			]
+			],
+			"lat": 9.93119444,
+			"lon": 76.26730556
 		},
 		"Mumbai": {
 			"climate": [
@@ -636,7 +646,9 @@
 					"high": 32,
 					"low": 18
 				}
-			]
+			],
+			"lat": 19.07611111,
+			"lon": 72.8775
 		},
 		"Varanasi": {
 			"climate": [
@@ -712,7 +724,9 @@
 					"low": 10.1,
 					"precipitation": 4.8
 				}
-			]
+			],
+			"lat": 25.31888889,
+			"lon": 83.01277778
 		},
 		"Amritsar": {
 			"climate": [
@@ -788,7 +802,9 @@
 					"high": 21,
 					"low": 4
 				}
-			]
+			],
+			"lat": 31.64,
+			"lon": 74.86
 		},
 		"Madurai": {
 			"climate": [
@@ -864,7 +880,9 @@
 					"low": 21.3,
 					"precipitation": 51.3
 				}
-			]
+			],
+			"lat": 9.9252,
+			"lon": 78.1198
 		},
 		"Agra": {
 			"climate": [
@@ -940,7 +958,9 @@
 					"low": 9.1,
 					"precipitation": 6.1
 				}
-			]
+			],
+			"lat": 27.18,
+			"lon": 78.02
 		},
 		"Aurangabad": {
 			"climate": [
@@ -1016,7 +1036,9 @@
 					"low": 9,
 					"precipitation": 12
 				}
-			]
+			],
+			"lat": 19.88,
+			"lon": 75.32
 		},
 		"Paithan": {
 			"climate": [
@@ -1092,7 +1114,9 @@
 					"high": 30,
 					"low": 14
 				}
-			]
+			],
+			"lat": 19.48,
+			"lon": 75.38
 		},
 		"Goa": {
 			"climate": [
@@ -1168,7 +1192,9 @@
 					"low": 20.6,
 					"precipitation": 16.7
 				}
-			]
+			],
+			"lat": 15.5,
+			"lon": 73.83
 		},
 		"Panaji": {
 			"climate": [
@@ -1244,7 +1270,9 @@
 					"low": 21,
 					"precipitation": 2.5
 				}
-			]
+			],
+			"lat": 15.49888889,
+			"lon": 73.82777778
 		},
 		"Margao": {
 			"climate": [
@@ -1320,7 +1348,9 @@
 					"low": 20.9,
 					"precipitation": 16.2
 				}
-			]
+			],
+			"lat": 15.27361111,
+			"lon": 73.95805556
 		},
 		"Gokarna": {
 			"climate": [
@@ -1472,7 +1502,9 @@
 					"low": 20,
 					"precipitation": 6
 				}
-			]
+			],
+			"lat": 16.99444444,
+			"lon": 73.3
 		},
 		"Kalimpong": {
 			"climate": [
@@ -1548,7 +1580,9 @@
 					"high": 17,
 					"low": 10
 				}
-			]
+			],
+			"lat": 27.06,
+			"lon": 88.47
 		},
 		"Kurseong": {
 			"climate": [
@@ -1624,7 +1658,9 @@
 					"high": 20,
 					"low": 13
 				}
-			]
+			],
+			"lat": 26.87777778,
+			"lon": 88.27722222
 		},
 		"Sikkim": {
 			"climate": [
@@ -1776,7 +1812,9 @@
 					"low": 4,
 					"precipitation": 5
 				}
-			]
+			],
+			"lat": 26.71,
+			"lon": 88.43
 		},
 		"Tirupati": {
 			"climate": [
@@ -1852,7 +1890,9 @@
 					"low": 12.9,
 					"precipitation": 159.1
 				}
-			]
+			],
+			"lat": 13.65,
+			"lon": 79.42
 		},
 		"Tiruchirapalli": {
 			"climate": [

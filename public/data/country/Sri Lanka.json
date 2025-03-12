@@ -233,7 +233,9 @@
 					"low": 23.5,
 					"precipitation": 418.5
 				}
-			]
+			],
+			"lat": 7.71666667,
+			"lon": 81.7
 		},
 		"Colombo": {
 			"climate": [
@@ -309,7 +311,9 @@
 					"high": 30,
 					"low": 23
 				}
-			]
+			],
+			"lat": 6.93444444,
+			"lon": 79.84277778
 		},
 		"Galle": {
 			"climate": [
@@ -385,7 +389,9 @@
 					"low": 23.1,
 					"precipitation": 176.9
 				}
-			]
+			],
+			"lat": 6.03277778,
+			"lon": 80.21555556
 		},
 		"Jaffna": {
 			"climate": [
@@ -461,7 +467,9 @@
 					"low": 23.6,
 					"precipitation": 294.5
 				}
-			]
+			],
+			"lat": 9.66472222,
+			"lon": 80.01666667
 		},
 		"Kandy": {
 			"climate": [
@@ -537,7 +545,9 @@
 					"low": 18,
 					"precipitation": 196
 				}
-			]
+			],
+			"lat": 7.29305556,
+			"lon": 80.635
 		},
 		"Negombo": {
 			"climate": [
@@ -613,7 +623,9 @@
 					"low": 22,
 					"precipitation": 147
 				}
-			]
+			],
+			"lat": 7.21111111,
+			"lon": 79.83861111
 		},
 		"Nuwara Eliya": {
 			"climate": [
@@ -689,7 +701,9 @@
 					"low": 11,
 					"precipitation": 196
 				}
-			]
+			],
+			"lat": 6.96666667,
+			"lon": 80.76666667
 		}
 	}
 }

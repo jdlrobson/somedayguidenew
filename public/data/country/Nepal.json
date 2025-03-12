@@ -155,7 +155,9 @@
 					"high": 20,
 					"low": 4
 				}
-			]
+			],
+			"lat": 27.71,
+			"lon": 85.32
 		},
 		"Biratnagar": {
 			"climate": [
@@ -231,7 +233,9 @@
 					"low": 10.5,
 					"precipitation": 6.6
 				}
-			]
+			],
+			"lat": 26.4542,
+			"lon": 87.2797
 		},
 		"Janakpur": {
 			"climate": [
@@ -307,7 +311,9 @@
 					"low": 10.9,
 					"precipitation": 8.4
 				}
-			]
+			],
+			"lat": 26.72861111,
+			"lon": 85.925
 		},
 		"Namche Bazaar": {
 			"climate": [
@@ -383,7 +389,9 @@
 					"high": 7,
 					"low": null
 				}
-			]
+			],
+			"lat": 27.81666667,
+			"lon": 86.71666667
 		},
 		"Pokhara": {
 			"climate": [
@@ -459,7 +467,9 @@
 					"low": 8,
 					"precipitation": 22
 				}
-			]
+			],
+			"lat": 28.20833333,
+			"lon": 83.98888889
 		}
 	}
 }

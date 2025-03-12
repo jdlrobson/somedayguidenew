@@ -146,7 +146,9 @@
 					"low": 16,
 					"precipitation": 7
 				}
-			]
+			],
+			"lat": 19.7475,
+			"lon": 96.115
 		},
 		"Bago (Myanmar)": {
 			"climate": [
@@ -298,7 +300,9 @@
 					"low": 15.4,
 					"precipitation": 4.9
 				}
-			]
+			],
+			"lat": 21.98305556,
+			"lon": 96.08444444
 		},
 		"Mawlamyine": {
 			"climate": [
@@ -374,7 +378,9 @@
 					"low": 19.1,
 					"precipitation": 16.3
 				}
-			]
+			],
+			"lat": 16.48472222,
+			"lon": 97.62583333
 		},
 		"Pyin U Lwin": {
 			"climate": [
@@ -526,7 +532,9 @@
 					"low": 9.2,
 					"precipitation": 7.1
 				}
-			]
+			],
+			"lat": 20.78363333,
+			"lon": 97.03536111
 		},
 		"Yangon": {
 			"climate": [
@@ -602,7 +610,9 @@
 					"low": 17.8,
 					"precipitation": 6.8
 				}
-			]
+			],
+			"lat": 16.795,
+			"lon": 96.16
 		},
 		"Bagan": {
 			"climate": [
@@ -678,7 +688,9 @@
 					"low": 13,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 21.1725,
+			"lon": 94.86
 		},
 		"Inle Lake": {
 			"climate": [
@@ -754,7 +766,9 @@
 					"low": 10.3,
 					"precipitation": 16
 				}
-			]
+			],
+			"lat": 20.55,
+			"lon": 96.91666667
 		},
 		"Mount Popa": {
 			"climate": [
@@ -830,7 +844,9 @@
 					"high": 28,
 					"low": 17
 				}
-			]
+			],
+			"lat": 20.92416667,
+			"lon": 95.25055556
 		},
 		"Mrauk U": {
 			"climate": [
@@ -906,7 +922,9 @@
 					"low": 14.9,
 					"precipitation": 10.7
 				}
-			]
+			],
+			"lat": 20.59,
+			"lon": 93.1925
 		},
 		"Ngapali": {
 			"climate": [
@@ -1134,7 +1152,9 @@
 					"low": 18.8,
 					"precipitation": 7
 				}
-			]
+			],
+			"lat": 16.78416667,
+			"lon": 94.73333333
 		}
 	}
 }

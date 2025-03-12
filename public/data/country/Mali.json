@@ -76,7 +76,9 @@
 					"low": 16.8,
 					"precipitation": 0.5
 				}
-			]
+			],
+			"lat": 12.63916667,
+			"lon": -8.00277778
 		},
 		"Gao": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 15.8,
 					"precipitation": 0.1
 				}
-			]
+			],
+			"lat": 16.26666667,
+			"lon": -0.05
 		},
 		"Kidal": {
 			"climate": [
@@ -228,7 +232,9 @@
 					"low": 13.7,
 					"precipitation": 0.2
 				}
-			]
+			],
+			"lat": 18.43888889,
+			"lon": 1.40833333
 		},
 		"Mopti": {
 			"climate": [
@@ -304,7 +310,9 @@
 					"low": 16,
 					"precipitation": 0.4
 				}
-			]
+			],
+			"lat": 14.49583333,
+			"lon": -4.19861111
 		},
 		"Timbuktu": {
 			"climate": [
@@ -380,7 +388,9 @@
 					"low": 13.5,
 					"precipitation": 0.2
 				}
-			]
+			],
+			"lat": 16.77583333,
+			"lon": -3.00944444
 		},
 		"Sikasso (city)": {
 			"climate": [
