@@ -391,7 +391,7 @@ function pullLocations() {
     const promises = [];
     Object.keys(json).forEach((countryName) => {
         // Limit requests at a time.
-        if ( promises.length > 5 ) {
+        if ( promises.length > 10 ) {
             return;
         }
         const countryDataPath = `public/data/country/${countryName}.json`;
