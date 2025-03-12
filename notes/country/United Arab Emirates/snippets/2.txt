@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/320px-Dubai_Marina_Skyline.jpg
+Dubai Marina
+https://en.wikipedia.org/wiki/Dubai_Marina
+<small>[from en.wikipedia.org]:</small> Dubai Marina, also known as Marsa Dubai, is a district in Dubai, United Arab Emirates. It is built around an artificially constructed canal along a 3-kilometre (2 mi) stretch of the Persian Gulf shoreline. In 2018 it had a population of 55,052.
+<location lat="25.08135" lon="55.144075"></location>

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Polonnaruwa_Vatadage_Sri_Lanka.jpg/640px-Polonnaruwa_Vatadage_Sri_Lanka.jpg
+Polonnaruwa
+https://en.wikipedia.org/wiki/Polonnaruwa
+<small>[from en.wikipedia.org]:</small> Poḷonnaruwa, also referred as Pulathisipura and Vijayarajapura in ancient times, is the main town of Polonnaruwa District in North Central Province, Sri Lanka. The modern town of Polonnaruwa is also known as New Town, and the other part of Polonnaruwa remains as the royal ancient city of the Kingdom of Polonnaruwa.
+<location lat="7.93333333" lon="81"></location>

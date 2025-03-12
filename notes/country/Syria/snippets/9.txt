@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Azem_Palace_02.jpg/320px-Azem_Palace_02.jpg
+Al-Azm Palace
+https://en.wikipedia.org/wiki/Al-Azm_Palace
+<small>[from en.wikipedia.org]:</small> Al-Azm Palace is a palace in Damascus, Syria, built in 1749. Located north of Al-Buzuriyah Souq in the Ancient City of Damascus, the palace was built in 1749 to be the private residence for As'ad Pasha al-Azm, the governor of Damascus; during the French Mandate for Syria and the Lebanon, it housed the French Institute.
+<location lat="33.51027778" lon="36.30694444"></location>

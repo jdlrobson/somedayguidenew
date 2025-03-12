@@ -12,6 +12,42 @@
 			"source": "",
 			"type": "instagram",
 			"embed": true
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Göbekli Tepe is a Neolithic archaeological site in Upper Mesopotamia (al-Jazira) in modern-day Turkey. The settlement was inhabited from around 9500 BCE to at least 8000 BCE, during the Pre-Pottery Neolithic. It is famous for its large circular structures that contain massive stone pillars – among the world's oldest known megaliths. Many of these pillars are decorated with anthropomorphic details, clothing, and sculptural reliefs of wild animals, providing archaeologists rare insights into prehistoric religion and the particular iconography of the period. The 15 m (50 ft) high, 8 ha (20-acre) tell is densely covered with ancient domestic structures and other small buildings, quarries, and stone-cut cisterns from the Neolithic, as well as some traces of activity from later periods.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vulture_Stone%2C_Gobekli_Tepe%2C_Sanliurfa%2C_South-east_Anatolia%2C_Turkey_%28cropped%29.jpg/414px-Vulture_Stone%2C_Gobekli_Tepe%2C_Sanliurfa%2C_South-east_Anatolia%2C_Turkey_%28cropped%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Göbekli Tepe",
+			"url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Pergamon or Pergamum, also referred to by its modern Greek form Pergamos (Πέργαμος), was a rich and powerful ancient Greek city in Aeolis. It is located 26 kilometres (16 mi) from the modern coastline of the Aegean Sea on a promontory on the north side of the river Caicus and northwest of the modern city of Bergama, Turkey.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg/320px-Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Pergamon",
+			"url": "https://en.wikipedia.org/wiki/Pergamon"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Antalya is the fifth-most populous city in Turkey and the capital of Antalya Province. Recognized as the \"capital of tourism\" in Turkey and a pivotal part of the Turkish Riviera, Antalya sits on Anatolia's southwest coast, flanked by the Taurus Mountains. With over 2.6 million people in its metropolitan area, it is the largest city in Turkey's Mediterranean Region, situated along the Mediterranean Sea.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Antalya_kalei%C3%A7i_2.jpg/640px-Antalya_kalei%C3%A7i_2.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Antalya",
+			"url": "https://en.wikipedia.org/wiki/Antalya"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Rock-cut architecture in Cappadocia in Central Turkey includes living and work spaces as well as sacred buildings like churches and monasteries, that were carved out of the soft tuff landscape.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ZelveWohnungen.jpg/640px-ZelveWohnungen.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Rock-cut architecture of Cappadocia",
+			"url": "https://en.wikipedia.org/wiki/Rock-cut_architecture_of_Cappadocia"
 		}
 	],
 	"places": {

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hama.jpg/320px-Hama.jpg
+Hama
+https://en.wikipedia.org/wiki/Hama
+<small>[from en.wikipedia.org]:</small> Hama is a city on the banks of the Orontes River in west-central Syria. It is located 213 kilometres (132 mi) north of Damascus and 46 km (29 mi) north of Homs. It is the provincial capital of the Hama Governorate. With a population of 996,000, Hama is one of the four largest cities in Syria, with Damascus, Aleppo and Homs, it is also home to the dessert of Halawet el Jibn.
+<location lat="35.135" lon="36.75"></location>

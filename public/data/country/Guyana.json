@@ -180,7 +180,9 @@
 					"low": 22,
 					"precipitation": 320
 				}
-			]
+			],
+			"lat": 8.2,
+			"lon": -59.78333333
 		},
 		"Lethem": {
 			"climate": [

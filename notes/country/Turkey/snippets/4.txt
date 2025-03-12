@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg/320px-Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg
+Pergamon
+https://en.wikipedia.org/wiki/Pergamon
+<small>[from en.wikipedia.org]:</small> Pergamon or Pergamum, also referred to by its modern Greek form Pergamos (Πέργαμος), was a rich and powerful ancient Greek city in Aeolis. It is located 26 kilometres (16 mi) from the modern coastline of the Aegean Sea on a promontory on the north side of the river Caicus and northwest of the modern city of Bergama, Turkey.
+<location lat="39.1325" lon="27.18416667"></location>

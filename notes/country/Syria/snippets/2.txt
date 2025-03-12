@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Damascus_coll.jpg/320px-Damascus_coll.jpg
+Damascus
+https://en.wikipedia.org/wiki/Damascus
+<small>[from en.wikipedia.org]:</small> Damascus is the capital and largest city of Syria. It is the oldest capital in the world and, according to some, the fourth holiest city in Islam. Known colloquially in Syria as aš-Šām (الشَّام) and dubbed, poetically, the "City of Jasmine", Damascus is a major cultural center of the Levant and the Arab world.
+<location lat="33.51305556" lon="36.30944444"></location>

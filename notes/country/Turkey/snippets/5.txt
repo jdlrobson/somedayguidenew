@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Antalya_kalei%C3%A7i_2.jpg/640px-Antalya_kalei%C3%A7i_2.jpg
+Antalya
+https://en.wikipedia.org/wiki/Antalya
+<small>[from en.wikipedia.org]:</small> Antalya is the fifth-most populous city in Turkey and the capital of Antalya Province. Recognized as the "capital of tourism" in Turkey and a pivotal part of the Turkish Riviera, Antalya sits on Anatolia's southwest coast, flanked by the Taurus Mountains. With over 2.6 million people in its metropolitan area, it is the largest city in Turkey's Mediterranean Region, situated along the Mediterranean Sea.
+<location lat="36.8874" lon="30.7075"></location>

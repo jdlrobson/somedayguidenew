@@ -192,7 +192,9 @@
 					"high": 14,
 					"low": 7
 				}
-			]
+			],
+			"lat": 37.98416667,
+			"lon": 23.72805556
 		},
 		"Thessaloniki": {
 			"climate": [
@@ -268,7 +270,9 @@
 					"low": 3,
 					"precipitation": 48.5
 				}
-			]
+			],
+			"lat": 40.64027778,
+			"lon": 22.93555556
 		},
 		"Chania": {
 			"climate": [
@@ -344,7 +348,9 @@
 					"high": 16,
 					"low": 9
 				}
-			]
+			],
+			"lat": 35.51666667,
+			"lon": 24.01666667
 		},
 		"Heraklion": {
 			"climate": [
@@ -420,7 +426,9 @@
 					"high": 17,
 					"low": 11
 				}
-			]
+			],
+			"lat": 35.34027778,
+			"lon": 25.13444444
 		},
 		"Patra": {
 			"climate": [
@@ -572,7 +580,9 @@
 					"low": 1.8,
 					"precipitation": 52.3
 				}
-			]
+			],
+			"lat": 39.64166667,
+			"lon": 22.41666667
 		},
 		"Rhodes (city)": {
 			"climate": [
@@ -648,7 +658,9 @@
 					"low": 10.4,
 					"precipitation": 157.4
 				}
-			]
+			],
+			"lat": 36.43333333,
+			"lon": 28.21666667
 		},
 		"Volos": {
 			"climate": [
@@ -724,7 +736,9 @@
 					"low": 6.3,
 					"precipitation": 47.2
 				}
-			]
+			],
+			"lat": 39.36666667,
+			"lon": 22.93333333
 		},
 		"Corfu": {
 			"climate": [
@@ -800,7 +814,9 @@
 					"high": 15,
 					"low": 7
 				}
-			]
+			],
+			"lat": 39.6,
+			"lon": 19.87
 		},
 		"Mykonos": {
 			"climate": [
@@ -876,7 +892,9 @@
 					"high": 15,
 					"low": 11
 				}
-			]
+			],
+			"lat": 37.45888889,
+			"lon": 25.36416667
 		},
 		"Olympia (Greece)": {
 			"climate": [
@@ -1028,7 +1046,9 @@
 					"low": 10.4,
 					"precipitation": 157.4
 				}
-			]
+			],
+			"lat": 36.17,
+			"lon": 27.92
 		},
 		"Santorini": {
 			"climate": [
@@ -1104,7 +1124,9 @@
 					"high": 15,
 					"low": 11
 				}
-			]
+			],
+			"lat": 36.415,
+			"lon": 25.4325
 		},
 		"Attica": {
 			"climate": [
@@ -1256,7 +1278,9 @@
 					"high": 16,
 					"low": 14
 				}
-			]
+			],
+			"lat": 37.2575,
+			"lon": 23.14
 		},
 		"Alonissos": {
 			"climate": [

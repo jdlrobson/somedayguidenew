@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg/320px-KRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg
+Krak des Chevaliers
+https://en.wikipedia.org/wiki/Krak_des_Chevaliers
+<small>[from en.wikipedia.org]:</small> Krak des Chevaliers is a medieval castle in Syria and one of the most important preserved medieval castles in the world. The site was first inhabited in the 11th century by Kurdish troops garrisoned there by the Mirdasids. In 1142 it was given by Raymond II, Count of Tripoli, to the order of the Knights Hospitaller. It remained occupied by them until it was reconquered by the Muslims in 1271.
+<location lat="34.757" lon="36.2947"></location>

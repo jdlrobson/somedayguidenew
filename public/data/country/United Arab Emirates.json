@@ -1,6 +1,34 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "Inhabitants of the desert <small>[image from nicolas-shin.myportfolio.com]</small>",
+			"src": "https://cdn.myportfolio.com/8f797722-f1b8-4c3f-944c-d8c3a5a6a199/a9d8b5bd-05f6-4722-a355-8d24112ce5a1_rwc_0x0x1500x1000x1500.jpg?h=604f6acf158633a3c8ed1f1595f7bfc9",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Nicolas Shin photography - Gazelles in the UAE",
+			"url": "https://nicolas-shin.myportfolio.com/gazelles-in-the-uae"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Dubai Marina, also known as Marsa Dubai, is a district in Dubai, United Arab Emirates. It is built around an artificially constructed canal along a 3-kilometre (2 mi) stretch of the Persian Gulf shoreline. In 2018 it had a population of 55,052.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/320px-Dubai_Marina_Skyline.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Dubai Marina",
+			"url": "https://en.wikipedia.org/wiki/Dubai_Marina"
+		},
+		{
+			"text": "Everyone needs to experience a Camel Desert Safari at least once in their lifetime! Powder soft sand, camel rides in the desert, dreamy sunsets and dinner at an authentic Bedouin camp offer an experience of a lifetime that you cannot have anywhere else in the world. So when I started planning my trip, I knew … <small>[image from Mia's Travel Memoirs]</small>",
+			"src": "https://miastravelmemoirs.com/wp-content/uploads/2019/04/DSC00402-957x1024.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "A Camel Desert Safari in Dubai - Mia's Travel Memoirs",
+			"url": "https://miastravelmemoirs.com/a-camel-desert-safari-in-dubai/"
+		}
+	],
 	"places": {
 		"Abu Dhabi": {
 			"climate": [

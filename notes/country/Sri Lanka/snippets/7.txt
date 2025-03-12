@@ -1,0 +1,6 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dambulla-buddhastupa.jpg/320px-Dambulla-buddhastupa.jpg
+Dambulla cave temple
+https://en.wikipedia.org/wiki/Dambulla_cave_temple
+<small>[from en.wikipedia.org]:</small> Dambulla cave temple, also known as the Golden Temple of Dambulla, is a World Heritage Site (1991) in Sri Lanka, situated in the central part of the country. This site is situated 148 kilometres (92 mi) east of Colombo, 72 kilometres (45 mi) north of Kandy and
+43 kilometres (27 mi) north of Matale.
+<location lat="7.85666667" lon="80.64916667"></location>

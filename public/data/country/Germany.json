@@ -110,7 +110,9 @@
 					"high": 4,
 					"low": 0
 				}
-			]
+			],
+			"lat": 52.52,
+			"lon": 13.405
 		},
 		"Bremen": {
 			"climate": [
@@ -186,7 +188,9 @@
 					"low": 0.3,
 					"precipitation": 61.6
 				}
-			]
+			],
+			"lat": 53.07583333,
+			"lon": 8.80722222
 		},
 		"Cologne": {
 			"climate": [
@@ -262,7 +266,9 @@
 					"low": 0.4,
 					"precipitation": 71.1
 				}
-			]
+			],
+			"lat": 50.93638889,
+			"lon": 6.95277778
 		},
 		"Dresden": {
 			"climate": [
@@ -338,7 +344,9 @@
 					"low": -1.2,
 					"precipitation": 52.1
 				}
-			]
+			],
+			"lat": 51.05,
+			"lon": 13.74
 		},
 		"Düsseldorf": {
 			"climate": [
@@ -414,7 +422,9 @@
 					"low": 1.7,
 					"precipitation": 71.1
 				}
-			]
+			],
+			"lat": 51.22555556,
+			"lon": 6.77666667
 		},
 		"Frankfurt": {
 			"climate": [
@@ -490,7 +500,9 @@
 					"low": -0.1,
 					"precipitation": 53.9
 				}
-			]
+			],
+			"lat": 50.11055556,
+			"lon": 8.68222222
 		},
 		"Hamburg": {
 			"climate": [
@@ -566,7 +578,9 @@
 					"high": 4,
 					"low": 1
 				}
-			]
+			],
+			"lat": 53.55,
+			"lon": 10
 		},
 		"Munich": {
 			"climate": [
@@ -642,7 +656,9 @@
 					"high": 2,
 					"low": null
 				}
-			]
+			],
+			"lat": 48.1375,
+			"lon": 11.575
 		},
 		"Nuremberg": {
 			"climate": [
@@ -718,7 +734,9 @@
 					"low": -1.7,
 					"precipitation": 51.4
 				}
-			]
+			],
+			"lat": 49.45388889,
+			"lon": 11.0775
 		},
 		"North Frisian Islands": {
 			"climate": [
@@ -794,7 +812,9 @@
 					"high": 4,
 					"low": 1
 				}
-			]
+			],
+			"lat": 54.91666667,
+			"lon": 8.33333333
 		},
 		"Weinheim": {
 			"climate": [
@@ -870,7 +890,9 @@
 					"high": -1,
 					"low": -6
 				}
-			]
+			],
+			"lat": 49.55,
+			"lon": 8.66666667
 		},
 		"Augsburg": {
 			"climate": [
@@ -946,7 +968,9 @@
 					"low": -2.5,
 					"precipitation": 53.5
 				}
-			]
+			],
+			"lat": 48.36888889,
+			"lon": 10.89777778
 		},
 		"Bamberg": {
 			"climate": [
@@ -1022,7 +1046,9 @@
 					"low": -1.8,
 					"precipitation": 55
 				}
-			]
+			],
+			"lat": 49.89138889,
+			"lon": 10.88694444
 		},
 		"Ulm": {
 			"climate": [
@@ -1098,7 +1124,9 @@
 					"high": -2,
 					"low": -8
 				}
-			]
+			],
+			"lat": 48.4,
+			"lon": 9.98333333
 		},
 		"Stuttgart": {
 			"climate": [
@@ -1174,7 +1202,9 @@
 					"low": -1.6,
 					"precipitation": 50.4
 				}
-			]
+			],
+			"lat": 48.7775,
+			"lon": 9.18
 		},
 		"Bayreuth": {
 			"climate": [
@@ -1250,7 +1280,9 @@
 					"low": -3,
 					"precipitation": 48
 				}
-			]
+			],
+			"lat": 49.94805556,
+			"lon": 11.57833333
 		},
 		"Leipzig": {
 			"climate": [
@@ -1326,7 +1358,9 @@
 					"low": -1.2,
 					"precipitation": 39.8
 				}
-			]
+			],
+			"lat": 51.34,
+			"lon": 12.375
 		},
 		"Memmingen": {
 			"climate": [
@@ -1402,7 +1436,9 @@
 					"high": -4,
 					"low": -9
 				}
-			]
+			],
+			"lat": 47.98777778,
+			"lon": 10.18111111
 		}
 	}
 }

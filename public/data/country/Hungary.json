@@ -107,7 +107,9 @@
 					"high": 4,
 					"low": 2
 				}
-			]
+			],
+			"lat": 47.4925,
+			"lon": 19.05138889
 		},
 		"Debrecen": {
 			"climate": [
@@ -183,7 +185,9 @@
 					"low": -2.9,
 					"precipitation": 43.1
 				}
-			]
+			],
+			"lat": 47.53166667,
+			"lon": 21.62444444
 		},
 		"Győr": {
 			"climate": [
@@ -259,7 +263,9 @@
 					"low": -1.4,
 					"precipitation": 38
 				}
-			]
+			],
+			"lat": 47.6842,
+			"lon": 17.6344
 		},
 		"Miskolc": {
 			"climate": [
@@ -335,7 +341,9 @@
 					"low": -6.7,
 					"precipitation": 36
 				}
-			]
+			],
+			"lat": 48.10416667,
+			"lon": 20.79166667
 		},
 		"Nyíregyháza": {
 			"climate": [
@@ -411,7 +419,9 @@
 					"high": -1,
 					"low": -8
 				}
-			]
+			],
+			"lat": 47.95306,
+			"lon": 21.72713
 		},
 		"Pécs": {
 			"climate": [
@@ -487,7 +497,9 @@
 					"low": -1.7,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": 46.07083333,
+			"lon": 18.23305556
 		},
 		"Szeged": {
 			"climate": [
@@ -563,7 +575,9 @@
 					"low": -2,
 					"precipitation": 39
 				}
-			]
+			],
+			"lat": 46.255,
+			"lon": 20.145
 		}
 	}
 }

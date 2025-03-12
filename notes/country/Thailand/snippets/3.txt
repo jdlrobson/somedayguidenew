@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/View_from_New_Heaven.JPG/320px-View_from_New_Heaven.JPG
+Ko Tao
+https://en.wikipedia.org/wiki/Ko_Tao
+<small>[from en.wikipedia.org]:</small> Ko Tao is an island in Thailand and is part of the Chumphon Archipelago on the western shore of the Gulf of Thailand. It covers an area of about 21 km2. Administratively it is a subdistrict (tambon) of Ko Pha-ngan District (amphoe) of Surat Thani Province. As of 2006, its official population was 1,382. The main settlement is Ban Mae Haad.
+<location lat="10.09" lon="99.83805556"></location>

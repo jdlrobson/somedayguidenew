@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Resafa%2C_Sergiopolis%2C_Panoramic_view%2C_Syria.jpg/640px-Resafa%2C_Sergiopolis%2C_Panoramic_view%2C_Syria.jpg
+Resafa
+https://en.wikipedia.org/wiki/Resafa
+<small>[from en.wikipedia.org]:</small> Resafa, sometimes spelled Rusafa, and known in the Byzantine era as Sergiopolis and briefly as Anastasiopolis, was a city located in the Roman province of Euphratensis, in modern-day Syria. It is an archaeological site situated southwest of the city of Raqqa and the Euphrates.
+<location lat="35.62777778" lon="38.75638889"></location>

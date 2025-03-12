@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Koh_Lipe_island_coast.jpg/320px-Koh_Lipe_island_coast.jpg
+Ko Lipe
+https://en.wikipedia.org/wiki/Ko_Lipe
+<small>[from en.wikipedia.org]:</small> Ko Lipe is a small island in the Adang-Rawi Archipelago of the Strait of Malacca. I visited long ago when the electricity cut off at 9pm and I ate the freshest galangal curries. I wonder how much it has changed.
+<location lat="6.48938889" lon="99.30177778"></location>

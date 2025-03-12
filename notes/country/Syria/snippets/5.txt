@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Umayyad_Mosque%2C_Damascus.jpg/320px-Umayyad_Mosque%2C_Damascus.jpg
+Umayyad Mosque
+https://en.wikipedia.org/wiki/Umayyad_Mosque
+<small>[from en.wikipedia.org]:</small> The Umayyad Mosque, also known as the Great Mosque of Damascus, located in the old city of Damascus, the capital of Syria, is one of the largest and oldest mosques in the world. Its religious importance stems from the eschatological reports concerning the mosque and historic events associated with it. Christian and Muslim tradition alike consider it the burial place of John the Baptist's head, a tradition originating in the 6th century. Two shrines inside the premises commemorate the Islamic prophet Muhammad's grandson Husayn ibn Ali, whose martyrdom is frequently compared to that of John the Baptist.
+<location lat="33.51138889" lon="36.30666667"></location>

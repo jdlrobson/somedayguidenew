@@ -113,7 +113,9 @@
 					"high": 2,
 					"low": null
 				}
-			]
+			],
+			"lat": 64.14583333,
+			"lon": -21.9425
 		},
 		"Akureyri": {
 			"climate": [
@@ -189,7 +191,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 65.68333333,
+			"lon": -18.1
 		},
 		"Egilsstaðir": {
 			"climate": [
@@ -265,7 +269,9 @@
 					"high": 1,
 					"low": null
 				}
-			]
+			],
+			"lat": 65.28333333,
+			"lon": -14.38333333
 		},
 		"Hafnarfjörður": {
 			"climate": [
@@ -341,7 +347,9 @@
 					"low": -1.8,
 					"precipitation": 10.9
 				}
-			]
+			],
+			"lat": 64.02,
+			"lon": -21.97
 		},
 		"Höfn": {
 			"climate": [
@@ -493,7 +501,9 @@
 					"low": -4,
 					"precipitation": 77.1
 				}
-			]
+			],
+			"lat": 66.05,
+			"lon": -17.31666667
 		}
 	}
 }
