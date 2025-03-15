@@ -112,7 +112,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     <h2>Note to self</h2>
                     <div v-if="note">
                         <div v-html="note"></div>
-                        <a :href="editUrl">edit</a>
+                        <a :href="editUrl" class="editLink">edit</a>
                         <p>
                             More information on <a :href="wikivoyage" target="_blank">Wikivoyage</a>.
                         </p>
@@ -189,5 +189,15 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
     display: inline-block;
     padding: 8px;
     color: white;
+    margin: 10px 0 0;
+    justify-content: end;
+    justify-self: end;
+    display: flex;
+}
+.editLink {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    color: gray;
 }
 </style>
