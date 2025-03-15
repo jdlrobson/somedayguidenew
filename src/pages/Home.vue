@@ -191,4 +191,10 @@ label {
 select ~ label {
     margin-left: 8px;
 }
+@media ( max-width: 700px ) {
+    .page-home .postit {
+        width: 49vw;
+        height: 200px;
+    }
+}
 </style>
