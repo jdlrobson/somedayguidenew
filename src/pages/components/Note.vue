@@ -25,11 +25,16 @@ const noteClass = computed( () => {
 <style>
 section.note {
     background: white;
-    padding: 16px 40px 32px;
+    padding: 16px 10px 32px;
     position: relative;
     width: 100%;
     text-align: left;
     margin: auto;
+}
+@media screen and ( min-width: 500px ) {
+    section.note {
+        padding: 16px 40px 32px;
+    }
 }
 section.noteChart {
     background-image: url( ./chart.png );

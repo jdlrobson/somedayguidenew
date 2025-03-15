@@ -96,6 +96,12 @@ const filterByName = ( ev ) => {
     applyFilter();
 }
 
+const changeFilter = ( ev ) => {
+    filter(ev.target.value);
+};
+const changeSort = ( ev ) => {
+    sortBy(ev.target.value);
+};
 </script>
 <template>
     <div class="page-home">
@@ -103,9 +109,29 @@ const filterByName = ( ev ) => {
         </Header>
         <article>
             <note :isSmall="true">
-                <p>This website is a digital scrapbook meant to inspire exploring the world. The list of countries is limited to <a href="https://www.un.org/en/about-us/member-states#gotoV">UN recognized states</a>. It is made with love by <a href="https://jdlrobson.com">Jon</a> and <a href="https://linzlim.fyi">Linzy</a>.</p>
+                <p>This website is a digital scrapbook meant to inspire exploring the world. The list of countries is currently limited to <a href="https://www.un.org/en/about-us/member-states#gotoV">UN recognized states</a>, but we hope to expand it later. It is made with love by <a href="https://jdlrobson.com">Jon</a> and <a href="https://linzlim.fyi">Linzy</a>.</p>
                 <p>Where in the world shall we dream about today?</p>
-                <a href="#search">search</a>
+                <div>
+                    <span>filter by</span>
+                    <select @change="changeFilter">
+                        <option value="none">all</option>
+                        <option value="seen">seen</option>
+                        <option value="dream">dream</option>
+                    </select>
+                    sort by
+                    <select @change="changeSort">
+                        <option value="name">name</option>
+                        <option value="linz">Linzy</option>
+                        <option value="jon">Jon</option>
+                        <option value="notes">snippets</option>
+                    </select>
+                </div>
+                <div>
+                    <p>
+                        <a href="#search">search</a> {{  countries.length }} / {{ ALL_COUNTRIES.length }} countries
+
+                    </p>
+                </div>
             </note>
             <InspirationBoard>
                 <Postit v-for="(c, i) in countries"
@@ -120,23 +146,6 @@ const filterByName = ( ev ) => {
             </InspirationBoard>
             <note>
                 <input name="search" id="search" class="search" placeholder="Type a country name to filter the post-its" @input="filterByName">
-                <div>
-                    <span>filter by</span>
-                    <button @click="filter('seen')">seen</button>
-                    <button @click="filter('dream')">dream</button>
-                    <button @click="filter('none')">all</button>
-                </div>
-                <div>
-                    <span>sort by</span>
-                    <button @click="sortBy('name')">name</button>
-                    <button v-if="currentFilter !== 'dream'"
-                        @click="sortBy('linz')">Linzy</button>
-                    <button v-if="currentFilter !== 'dream'"
-                        @click="sortBy('jon')">Jon</button>
-                    <button
-                        @click="sortBy('notes')">notes</button>
-                </div>
-                <div>{{  countries.length }} / {{ ALL_COUNTRIES.length }} countries</div>
             </note>
         </article>
     </div>
@@ -174,5 +183,8 @@ section.note {
 .postit .noSnip {
     background: #ccc;
     bottom: 61px;
+}
+p {
+    margin-bottom: 0;
 }
 </style>
