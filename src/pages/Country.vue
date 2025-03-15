@@ -79,7 +79,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
             :hero="hero"></Header>
         <article>
             <note>
-                <p>{{ country.description }}</p>
+                <p>From <a :href="`https://en.wikipedia.org/wiki/${countryName}`">Wikipedia</a>: {{ country.description }}</p>
                 <RouterLink to="/#search">find another country</RouterLink>
             </note>
             <StoryBoard>
