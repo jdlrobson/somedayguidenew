@@ -316,6 +316,9 @@ function prepareFromNotes() {
         const destinationsPath = `notes/country/${ c }/destinations.txt`;
         if ( fs.existsSync( destinationsPath ) ) {
             const destinations = fs.readFileSync( destinationsPath ).toString().trim().split("\n")
+            if ( json[c].destinations.length !== destinations.length ) {
+                touchCountryUpdatedTime( c );
+            }
             json[c].destinations = destinations;
         }
     } );
@@ -341,8 +344,9 @@ function updateCountries() {
                 console.log(`${key} is an unknown destination`);
             }
             const coord = destinationCoordinates[key];
-            if ( coord ) {
-                country.places[key] = Object.assign( country.places[key], coord )
+            if ( coord && !country.places[key].latitude ) {
+                country.places[key] = Object.assign( country.places[key], coord );
+                touchCountryUpdatedTime( c );
             }
         });
         const hasNote = !countryNotes[c].includes('n/a');   
@@ -396,6 +400,17 @@ function importBlogs() {
         })
 }
 
+function pullLocationFromProjects( lackingLonLat ) {
+    return Promise.all( [
+        fetch( `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=coordinates&titles=${lackingLonLat.join('|')}&formatversion=2&colimit=max` )
+            .then((r) => r.json()),
+        fetch( `https://en.wikivoyage.org/w/api.php?origin=*&action=query&format=json&prop=coordinates&titles=${lackingLonLat.join('|')}&formatversion=2&colimit=max` )
+            .then((r) => r.json())
+    ] ).then( ( [ json, json2 ] ) => {
+        return json.query.pages.concat( json2.query.pages );
+    });
+}
+
 function pullLocations() {
     const promises = [];
     Object.keys(json).forEach((countryName) => {
@@ -413,10 +428,9 @@ function pullLocations() {
         }
         console.log(`Pulling remote information for country: ${countryName}, lacking coords for: ${lackingLonLat.join(',')}`);
         promises.push(
-            fetch( `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=coordinates&titles=${lackingLonLat.join('|')}&formatversion=2&colimit=max` )
-            .then((r) => r.json())
-            .then((json) => {
-                json.query.pages.forEach((page) => {
+            pullLocationFromProjects( lackingLonLat )
+            .then((pages) => {
+                pages.forEach((page) => {
                     const c = page.coordinates ? page.coordinates[0] : null;
                     if ( c ) {
                         destinationCoordinates[page.title] = {
@@ -436,10 +450,15 @@ function pullLocations() {
  * from known sources like blogs etc...
  */
 function remoteUpdates() {
-    return Promise.all( [
-        pullLocations(),
-        importBlogs()
-    ] );
+    const promises = [ Promise.resolve() ];
+    if ( hrsSinceLastUpdate > 24 ) {
+        promises.push( importBlogs() );
+    }
+    if ( hrsSinceLastUpdate > 1 ) {
+        promises.push( pullLocations() );
+    }
+
+    return Promise.all( promises );
 }
 
 /**
@@ -472,10 +491,6 @@ function localUpdates() {
 const now = new Date();
 const hrsSinceLastUpdate = update.lastUpdated ?
     ( now - new Date( update.lastUpdated ) ) / ( 1000 * 60 * 60 ) : 2;
-if ( hrsSinceLastUpdate > 1 ) {
-    pendingRequests.push( remoteUpdates() );
-} else {
-    console.log( 'Skipping remote update' );
-}
+pendingRequests.push( remoteUpdates( hrsSinceLastUpdate ) );
 
 localUpdates();
