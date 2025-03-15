@@ -93,7 +93,7 @@
 		}
 	],
 	"places": {
-		"Santiago de Chile": {
+		"Santiago": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -167,7 +167,9 @@
 					"high": 28,
 					"low": 11
 				}
-			]
+			],
+			"lat": -33.43674,
+			"lon": -70.64999
 		},
 		"Concepción": {
 			"climate": [
@@ -243,7 +245,9 @@
 					"low": 10.1,
 					"precipitation": 21.3
 				}
-			]
+			],
+			"lat": -36.828194,
+			"lon": -73.051369
 		},
 		"Iquique": {
 			"climate": [

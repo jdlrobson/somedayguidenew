@@ -76,7 +76,9 @@
 					"high": 30,
 					"low": 20
 				}
-			]
+			],
+			"lat": 18.47188,
+			"lon": -69.891418
 		},
 		"Puerto Plata": {
 			"climate": [
@@ -152,7 +154,9 @@
 					"low": 18.1,
 					"precipitation": 231.8
 				}
-			]
+			],
+			"lat": 19.795833,
+			"lon": -70.694444
 		},
 		"Punta Cana": {
 			"climate": [
@@ -384,7 +388,9 @@
 					"low": 20.2,
 					"precipitation": 47.6
 				}
-			]
+			],
+			"lat": 18.43,
+			"lon": -68.97
 		},
 		"Santa Barbara de Samana": {
 			"climate": [
@@ -460,7 +466,9 @@
 					"low": 19.6,
 					"precipitation": 202.9
 				}
-			]
+			],
+			"lat": 19.205278,
+			"lon": -69.336389
 		}
 	}
 }

@@ -119,7 +119,9 @@
 					"low": -2.3,
 					"precipitation": 74
 				}
-			]
+			],
+			"lat": 46.94821,
+			"lon": 7.45165
 		},
 		"Basel": {
 			"climate": [
@@ -975,7 +977,9 @@
 					"low": -1.9,
 					"precipitation": 80
 				}
-			]
+			],
+			"lat": 47.4167,
+			"lon": 9.3667
 		}
 	}
 }

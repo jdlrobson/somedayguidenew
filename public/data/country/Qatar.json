@@ -329,7 +329,9 @@
 					"low": 17,
 					"precipitation": 19.5
 				}
-			]
+			],
+			"lat": 25.371265,
+			"lon": 51.227279
 		},
 		"Al Wakrah": {
 			"climate": [
@@ -483,7 +485,9 @@
 					"low": 17,
 					"precipitation": 19.5
 				}
-			]
+			],
+			"lat": 25.42178,
+			"lon": 50.78344
 		},
 		"Mesaieed": {
 			"climate": [

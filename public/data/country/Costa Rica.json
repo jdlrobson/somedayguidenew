@@ -136,7 +136,9 @@
 					"high": 26,
 					"low": 18
 				}
-			]
+			],
+			"lat": 9.9333,
+			"lon": -84.0833
 		},
 		"Alajuela": {
 			"climate": [
@@ -290,7 +292,9 @@
 					"high": 28,
 					"low": 23
 				}
-			]
+			],
+			"lat": 9.61539,
+			"lon": -84.62837
 		},
 		"Heredia": {
 			"climate": [
@@ -366,7 +370,9 @@
 					"low": 15.4,
 					"precipitation": 54.5
 				}
-			]
+			],
+			"lat": 9.9964,
+			"lon": -84.1167
 		},
 		"Liberia (Costa Rica)": {
 			"climate": [
@@ -442,7 +448,9 @@
 					"low": 21,
 					"precipitation": 12.3
 				}
-			]
+			],
+			"lat": 10.6333,
+			"lon": -85.4333
 		},
 		"Quesada": {
 			"climate": [
@@ -518,7 +526,9 @@
 					"high": 15,
 					"low": 11
 				}
-			]
+			],
+			"lat": 10.333,
+			"lon": -84.433
 		},
 		"Manuel Antonio National Park": {
 			"climate": [
@@ -672,7 +682,9 @@
 					"high": 29,
 					"low": 22
 				}
-			]
+			],
+			"lat": 10.5833,
+			"lon": -83.5167
 		},
 		"Cartago (Costa Rica)": {
 			"climate": [
@@ -748,7 +760,9 @@
 					"low": 15.4,
 					"precipitation": 54.5
 				}
-			]
+			],
+			"lat": 9.8667,
+			"lon": -83.9167
 		}
 	}
 }

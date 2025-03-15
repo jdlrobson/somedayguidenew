@@ -232,7 +232,9 @@
 					"low": 14.2,
 					"precipitation": 0
 				}
-			]
+			],
+			"lat": 12,
+			"lon": 8.5167
 		},
 		"Lagos": {
 			"climate": [

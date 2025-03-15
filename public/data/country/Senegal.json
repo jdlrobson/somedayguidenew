@@ -154,7 +154,9 @@
 					"low": 16.4,
 					"precipitation": 0.7
 				}
-			]
+			],
+			"lat": 16.0333,
+			"lon": -16.5
 		},
 		"Kaolack": {
 			"climate": [

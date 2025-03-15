@@ -430,7 +430,7 @@
 			"lat": 35.34027778,
 			"lon": 25.13444444
 		},
-		"Patra": {
+		"Patras": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -504,7 +504,9 @@
 					"low": 7.6,
 					"precipitation": 116.1
 				}
-			]
+			],
+			"lat": 38.25,
+			"lon": 21.7333
 		},
 		"Larissa": {
 			"climate": [
@@ -970,7 +972,9 @@
 					"high": 10,
 					"low": 5
 				}
-			]
+			],
+			"lat": 37.638,
+			"lon": 21.63
 		},
 		"Rhodes": {
 			"climate": [
@@ -1202,7 +1206,9 @@
 					"low": 4.9,
 					"precipitation": 83.9
 				}
-			]
+			],
+			"lat": 38.0027,
+			"lon": 23.81
 		},
 		"Spetses": {
 			"climate": [
@@ -1356,7 +1362,9 @@
 					"high": 14,
 					"low": 11
 				}
-			]
+			],
+			"lat": 39.21044,
+			"lon": 23.91483
 		}
 	}
 }

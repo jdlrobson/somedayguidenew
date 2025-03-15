@@ -110,7 +110,9 @@
 					"high": 31,
 					"low": 21
 				}
-			]
+			],
+			"lat": 13.752222,
+			"lon": 100.493889
 		},
 		"Ayutthaya": {
 			"climate": [
@@ -186,7 +188,9 @@
 					"low": 17.4,
 					"precipitation": 0.8
 				}
-			]
+			],
+			"lat": 14.355,
+			"lon": 100.565
 		},
 		"Chiang Mai": {
 			"climate": [
@@ -262,7 +266,9 @@
 					"high": 28,
 					"low": 15
 				}
-			]
+			],
+			"lat": 18.795278,
+			"lon": 98.998611
 		},
 		"Chiang Rai": {
 			"climate": [
@@ -338,7 +344,9 @@
 					"low": 13.5,
 					"precipitation": 14
 				}
-			]
+			],
+			"lat": 19.90241,
+			"lon": 99.83875
 		},
 		"Kanchanaburi": {
 			"climate": [
@@ -414,7 +422,9 @@
 					"low": 19.6,
 					"precipitation": 6.2
 				}
-			]
+			],
+			"lat": 14.019444,
+			"lon": 99.531111
 		},
 		"Nakhon Ratchasima": {
 			"climate": [
@@ -490,7 +500,9 @@
 					"high": 29,
 					"low": 18
 				}
-			]
+			],
+			"lat": 14.97095,
+			"lon": 102.08706
 		},
 		"Pattaya": {
 			"climate": [
@@ -566,7 +578,9 @@
 					"low": 22.5,
 					"precipitation": 8.3
 				}
-			]
+			],
+			"lat": 12.95,
+			"lon": 100.8833
 		},
 		"Surat Thani": {
 			"climate": [
@@ -642,7 +656,9 @@
 					"low": 22,
 					"precipitation": 129.4
 				}
-			]
+			],
+			"lat": 9.14142,
+			"lon": 99.32945
 		},
 		"Khao Sok National Park": {
 			"climate": [
@@ -723,7 +739,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 8.90407,
+			"lon": 98.535
 		},
 		"Ko Chang": {
 			"climate": [
@@ -799,7 +817,9 @@
 					"high": 30,
 					"low": 25
 				}
-			]
+			],
+			"lat": 12.03697,
+			"lon": 102.37095
 		},
 		"Ko Samui": {
 			"climate": [
@@ -875,7 +895,9 @@
 					"high": 33,
 					"low": 24
 				}
-			]
+			],
+			"lat": 9.49986,
+			"lon": 99.99825
 		},
 		"Phuket": {
 			"climate": [
@@ -951,7 +973,9 @@
 					"high": 31,
 					"low": 24
 				}
-			]
+			],
+			"lat": 7.98376,
+			"lon": 98.33107
 		},
 		"Singapore": {
 			"climate": [
@@ -1105,7 +1129,9 @@
 					"high": 30,
 					"low": 25
 				}
-			]
+			],
+			"lat": 9.73,
+			"lon": 100.04
 		}
 	}
 }

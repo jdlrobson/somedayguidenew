@@ -309,7 +309,7 @@
 			"lat": 8.48,
 			"lon": 124.65
 		},
-		"Cebu (city)": {
+		"Cebu City": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -383,7 +383,9 @@
 					"low": 24.3,
 					"precipitation": 139.7
 				}
-			]
+			],
+			"lat": 10.3093,
+			"lon": 123.8931
 		},
 		"Davao": {
 			"climate": [
@@ -459,7 +461,9 @@
 					"low": 23.7,
 					"precipitation": 112.6
 				}
-			]
+			],
+			"lat": 7.1,
+			"lon": 125.6
 		},
 		"Tagbilaran": {
 			"climate": [
@@ -617,7 +621,7 @@
 			"lat": 17.57472,
 			"lon": 120.38694
 		},
-		"Zamboanga (city)": {
+		"Zamboanga City": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -691,7 +695,9 @@
 					"low": 23.7,
 					"precipitation": 66.8
 				}
-			]
+			],
+			"lat": 6.9,
+			"lon": 122.08
 		},
 		"Banaue": {
 			"climate": [
@@ -1083,7 +1089,7 @@
 			"lat": 8.78,
 			"lon": 117.83
 		},
-		"Busuanga": {
+		"Busuanga, Palawan": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1157,7 +1163,9 @@
 					"low": 22,
 					"precipitation": 56
 				}
-			]
+			],
+			"lat": 12.133519,
+			"lon": 119.936314
 		},
 		"Quezon (Palawan)": {
 			"climate": [
@@ -1233,7 +1241,9 @@
 					"low": 24,
 					"precipitation": 144
 				}
-			]
+			],
+			"lat": 9.241111,
+			"lon": 118.031389
 		},
 		"Narra": {
 			"climate": [
@@ -1309,7 +1319,9 @@
 					"low": 24,
 					"precipitation": 144
 				}
-			]
+			],
+			"lat": 9.28333333,
+			"lon": 118.41666667
 		},
 		"Caramoan": {
 			"climate": [
@@ -1463,7 +1475,9 @@
 					"low": 24,
 					"precipitation": 107
 				}
-			]
+			],
+			"lat": 10.33333333,
+			"lon": 119.33333333
 		},
 		"San Vicente": {
 			"climate": [
@@ -1539,9 +1553,11 @@
 					"low": 23,
 					"precipitation": 107
 				}
-			]
+			],
+			"lat": 10.53,
+			"lon": 119.28
 		},
-		"Taytay": {
+		"Taytay (Palawan)": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1615,7 +1631,9 @@
 					"low": 24,
 					"precipitation": 88
 				}
-			]
+			],
+			"lat": 10.8167,
+			"lon": 119.5167
 		},
 		"Coron": {
 			"climate": [
@@ -1691,7 +1709,9 @@
 					"low": 23.2,
 					"precipitation": 74
 				}
-			]
+			],
+			"lat": 12,
+			"lon": 120.2
 		},
 		"El Nido": {
 			"climate": [
@@ -1767,7 +1787,9 @@
 					"low": 23,
 					"precipitation": 12
 				}
-			]
+			],
+			"lat": 11.1795,
+			"lon": 119.3914
 		},
 		"Subic": {
 			"climate": [
@@ -1843,7 +1865,9 @@
 					"low": 23.2,
 					"precipitation": 21.9
 				}
-			]
+			],
+			"lat": 14.9,
+			"lon": 120.2333
 		},
 		"Sorsogon City": {
 			"climate": [
@@ -1997,7 +2021,9 @@
 					"low": 21.6,
 					"precipitation": 48.8
 				}
-			]
+			],
+			"lat": 13.62,
+			"lon": 123.17
 		},
 		"Legazpi": {
 			"climate": [
@@ -2073,7 +2099,9 @@
 					"low": 23.7,
 					"precipitation": 520.2
 				}
-			]
+			],
+			"lat": 13.1333,
+			"lon": 123.7333
 		},
 		"Muntinlupa": {
 			"climate": [
@@ -2305,7 +2333,9 @@
 					"low": 22,
 					"precipitation": 23
 				}
-			]
+			],
+			"lat": 15.16056,
+			"lon": 120.58641
 		},
 		"Quezon City": {
 			"climate": [

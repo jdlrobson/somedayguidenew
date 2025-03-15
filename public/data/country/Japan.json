@@ -614,7 +614,9 @@
 					"low": 1.9,
 					"precipitation": 47.3
 				}
-			]
+			],
+			"lat": 34.6833,
+			"lon": 135.8
 		},
 		"Osaka": {
 			"climate": [
@@ -1146,7 +1148,9 @@
 					"low": -8.9,
 					"precipitation": 51.1
 				}
-			]
+			],
+			"lat": 43.888056,
+			"lon": 144.78
 		},
 		"Wakkanai": {
 			"climate": [
@@ -1612,7 +1616,9 @@
 					"low": 2.7,
 					"precipitation": 171.1
 				}
-			]
+			],
+			"lat": 35.5,
+			"lon": 134.2333
 		}
 	}
 }

@@ -76,7 +76,9 @@
 					"low": 23,
 					"precipitation": 5
 				}
-			]
+			],
+			"lat": 8.4,
+			"lon": 48.483333
 		},
 		"Bosaso": {
 			"climate": [

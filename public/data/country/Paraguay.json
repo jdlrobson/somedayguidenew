@@ -310,7 +310,9 @@
 					"low": 21.7,
 					"precipitation": 163.5
 				}
-			]
+			],
+			"lat": -23.4,
+			"lon": -57.43
 		},
 		"Encarnación": {
 			"climate": [
@@ -386,7 +388,9 @@
 					"low": 18.3,
 					"precipitation": 150
 				}
-			]
+			],
+			"lat": -27.333333,
+			"lon": -55.9
 		},
 		"Filadelfia": {
 			"climate": [
@@ -540,7 +544,9 @@
 					"high": 29,
 					"low": 21
 				}
-			]
+			],
+			"lat": -25.310556,
+			"lon": -57.296111
 		}
 	}
 }

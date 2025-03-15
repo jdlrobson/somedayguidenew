@@ -329,7 +329,9 @@
 					"low": 10.8,
 					"precipitation": 176
 				}
-			]
+			],
+			"lat": 34.433333,
+			"lon": 35.85
 		},
 		"Zahle": {
 			"climate": [
@@ -405,7 +407,9 @@
 					"low": -2,
 					"precipitation": 135
 				}
-			]
+			],
+			"lat": 33.833333,
+			"lon": 35.916667
 		},
 		"Deir el Qamar": {
 			"climate": [
@@ -481,7 +485,9 @@
 					"high": 11,
 					"low": 3
 				}
-			]
+			],
+			"lat": 33.7,
+			"lon": 35.5667
 		},
 		"North Lebanon": {
 			"climate": [
@@ -557,7 +563,9 @@
 					"high": 8,
 					"low": -1
 				}
-			]
+			],
+			"lat": 34.433,
+			"lon": 35.85
 		}
 	}
 }

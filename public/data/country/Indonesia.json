@@ -794,7 +794,9 @@
 					"low": 9.2,
 					"precipitation": 315
 				}
-			]
+			],
+			"lat": -8.0167,
+			"lon": 112.9167
 		},
 		"Bunaken": {
 			"climate": [

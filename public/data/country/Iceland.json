@@ -425,7 +425,9 @@
 					"low": -2.7,
 					"precipitation": 145.9
 				}
-			]
+			],
+			"lat": 64.25,
+			"lon": -15.2
 		},
 		"Húsavík": {
 			"climate": [

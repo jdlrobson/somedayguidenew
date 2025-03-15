@@ -248,7 +248,9 @@
 					"low": 22.4,
 					"precipitation": 149
 				}
-			]
+			],
+			"lat": -9.93333333,
+			"lon": 33.93333333
 		},
 		"Nkhata Bay": {
 			"climate": [
@@ -402,7 +404,9 @@
 					"low": 18,
 					"precipitation": 280
 				}
-			]
+			],
+			"lat": -15.3833,
+			"lon": 35.3333
 		},
 		"Liwonde National Park": {
 			"climate": [

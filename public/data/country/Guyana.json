@@ -104,7 +104,9 @@
 					"low": 23.8,
 					"precipitation": 261.9
 				}
-			]
+			],
+			"lat": 6.8,
+			"lon": -58.1667
 		},
 		"Mabaruma": {
 			"climate": [
@@ -258,7 +260,9 @@
 					"low": 23,
 					"precipitation": 33
 				}
-			]
+			],
+			"lat": 3.3833,
+			"lon": -59.8
 		}
 	}
 }

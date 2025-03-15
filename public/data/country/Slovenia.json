@@ -33,6 +33,15 @@
 			"embed": false,
 			"title": "Lake Bled",
 			"url": "https://en.wikipedia.org/wiki/Lake_Bled"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Škocjan Caves is a cave system located in Slovenia. Škocjan Caves was included on UNESCO’s list of natural and cultural World Heritage Sites in 1986. Škocjan Caves is a significant underground phenomenon on the Karst Plateau and in Slovenia. After gaining independence from Yugoslavia in 1991, Slovenia made a commitment to actively protect the Škocjan Caves area. To fulfill this commitment, Škocjan Caves Regional Park was established, along with its managing authority, the Škocjan Caves Park Public Service Agency.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SkocjanskeJame_2013jpg.jpg/320px-SkocjanskeJame_2013jpg.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Škocjan Caves",
+			"url": "https://en.wikipedia.org/wiki/%C5%A0kocjan_Caves"
 		}
 	],
 	"places": {
@@ -503,82 +512,6 @@
 			],
 			"lat": 45.68197222,
 			"lon": 13.97016667
-		},
-		"Skocjan Caves": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 213,
-					"high": 1,
-					"low": -3
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 280,
-					"high": 5,
-					"low": -2
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 146,
-					"high": 11,
-					"low": -1
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 146,
-					"high": 16,
-					"low": 4
-				},
-				{
-					"heading": "May",
-					"precipitation": 192,
-					"high": 20,
-					"low": 9
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 129,
-					"high": 24,
-					"low": 13
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 111,
-					"high": 24,
-					"low": 16
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 158,
-					"high": 24,
-					"low": 15
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 233,
-					"high": 18,
-					"low": 11
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 208,
-					"high": 14,
-					"low": 8
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 338,
-					"high": 8,
-					"low": 1
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 153,
-					"high": 1,
-					"low": -4
-				}
-			]
 		}
 	}
 }

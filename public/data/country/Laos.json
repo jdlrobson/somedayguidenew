@@ -90,7 +90,7 @@
 			"lat": 17.98,
 			"lon": 102.63
 		},
-		"Houay Xai": {
+		"Houayxay": {
 			"climate": [
 				{
 					"heading": "Jan"
@@ -128,7 +128,9 @@
 				{
 					"heading": "Dec"
 				}
-			]
+			],
+			"lat": 20.26305556,
+			"lon": 100.43361111
 		},
 		"Luang Prabang": {
 			"climate": [
@@ -438,9 +440,11 @@
 					"high": 28,
 					"low": 15
 				}
-			]
+			],
+			"lat": 16.55,
+			"lon": 104.75
 		},
-		"Tha Khaek": {
+		"Thakhek": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -514,7 +518,9 @@
 					"low": 14,
 					"precipitation": 7.6
 				}
-			]
+			],
+			"lat": 17.4,
+			"lon": 104.8
 		},
 		"Vang Vieng": {
 			"climate": [

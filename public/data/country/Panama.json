@@ -302,7 +302,9 @@
 					"high": 19,
 					"low": 14
 				}
-			]
+			],
+			"lat": 8.78,
+			"lon": -82.44
 		},
 		"Colon (Panama)": {
 			"climate": [
@@ -378,7 +380,9 @@
 					"low": 24,
 					"precipitation": 320
 				}
-			]
+			],
+			"lat": 9.3333,
+			"lon": -79.9
 		},
 		"David (Panama)": {
 			"climate": [
@@ -454,7 +458,9 @@
 					"low": 19.3,
 					"precipitation": 77.4
 				}
-			]
+			],
+			"lat": 8.433333,
+			"lon": -82.433333
 		}
 	}
 }

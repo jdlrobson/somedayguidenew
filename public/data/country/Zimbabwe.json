@@ -263,7 +263,9 @@
 					"low": 22.1,
 					"precipitation": 175
 				}
-			]
+			],
+			"lat": -16.516667,
+			"lon": 28.8
 		},
 		"Victoria Falls": {
 			"climate": [

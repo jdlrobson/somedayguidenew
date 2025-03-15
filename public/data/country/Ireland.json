@@ -191,7 +191,9 @@
 					"low": 3.7,
 					"precipitation": 133.1
 				}
-			]
+			],
+			"lat": 51.89784,
+			"lon": -8.4705
 		},
 		"Galway": {
 			"climate": [

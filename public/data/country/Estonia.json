@@ -568,7 +568,9 @@
 					"low": -5.8,
 					"precipitation": 56
 				}
-			]
+			],
+			"lat": 57.783333,
+			"lon": 26.033333
 		},
 		"Hiiumaa": {
 			"climate": [

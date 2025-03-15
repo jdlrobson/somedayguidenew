@@ -447,7 +447,9 @@
 					"low": 5.5,
 					"precipitation": 111
 				}
-			]
+			],
+			"lat": 37.8833,
+			"lon": -4.7667
 		},
 		"Granada": {
 			"climate": [
@@ -805,7 +807,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 42.9,
+			"lon": -8.1
 		},
 		"Gran Canaria": {
 			"climate": [
@@ -959,7 +963,9 @@
 					"low": 9.5,
 					"precipitation": 52
 				}
-			]
+			],
+			"lat": 38.98,
+			"lon": 1.43
 		},
 		"Mallorca": {
 			"climate": [
@@ -1425,7 +1431,9 @@
 					"low": 1.3,
 					"precipitation": 53
 				}
-			]
+			],
+			"lat": 41.6333,
+			"lon": -4.7167
 		}
 	}
 }

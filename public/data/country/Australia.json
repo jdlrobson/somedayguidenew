@@ -459,7 +459,9 @@
 					"low": 25.6,
 					"precipitation": 241.8
 				}
-			]
+			],
+			"lat": -12.45,
+			"lon": 130.8333
 		},
 		"Hobart": {
 			"climate": [
@@ -773,83 +775,7 @@
 			"lat": -33.86666667,
 			"lon": 151.2
 		},
-		"Katherine": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 34.6,
-					"low": 24.2,
-					"precipitation": 264.4
-				},
-				{
-					"heading": "Feb",
-					"high": 33.9,
-					"low": 23.9,
-					"precipitation": 235.4
-				},
-				{
-					"heading": "Mar",
-					"high": 34.2,
-					"low": 23.1,
-					"precipitation": 202.2
-				},
-				{
-					"heading": "Apr",
-					"high": 34,
-					"low": 20.8,
-					"precipitation": 43.5
-				},
-				{
-					"heading": "May",
-					"high": 32.1,
-					"low": 16.8,
-					"precipitation": 5
-				},
-				{
-					"heading": "Jun",
-					"high": 30.1,
-					"low": 13.8,
-					"precipitation": 0.4
-				},
-				{
-					"heading": "Jul",
-					"high": 30.4,
-					"low": 13,
-					"precipitation": 1
-				},
-				{
-					"heading": "Aug",
-					"high": 32.3,
-					"low": 14.6,
-					"precipitation": 1.6
-				},
-				{
-					"heading": "Sep",
-					"high": 35.8,
-					"low": 20.1,
-					"precipitation": 6.4
-				},
-				{
-					"heading": "Oct",
-					"high": 37.7,
-					"low": 23.7,
-					"precipitation": 30.2
-				},
-				{
-					"heading": "Nov",
-					"high": 37.7,
-					"low": 24.6,
-					"precipitation": 89.3
-				},
-				{
-					"heading": "Dec",
-					"high": 35.9,
-					"low": 24.5,
-					"precipitation": 223.9
-				}
-			]
-		},
-		"Uluru-Kata Tjuta National Park": {
+		"Uluṟu-Kata Tjuṯa National Park": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -923,7 +849,9 @@
 					"high": 43,
 					"low": 22
 				}
-			]
+			],
+			"lat": -25.33255,
+			"lon": 131.01282
 		},
 		"Watarrka National Park": {
 			"climate": [
@@ -1077,7 +1005,9 @@
 					"high": 26,
 					"low": 19
 				}
-			]
+			],
+			"lat": -16.8197,
+			"lon": 145.6381
 		}
 	}
 }

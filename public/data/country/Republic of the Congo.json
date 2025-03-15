@@ -173,7 +173,9 @@
 					"low": 22,
 					"precipitation": 170
 				}
-			]
+			],
+			"lat": -4.2,
+			"lon": 12.66666667
 		},
 		"Nouabalé-Ndoki National Park": {
 			"climate": [
@@ -327,7 +329,9 @@
 					"low": 24,
 					"precipitation": 153.9
 				}
-			]
+			],
+			"lat": -4.78888889,
+			"lon": 11.86527778
 		}
 	}
 }

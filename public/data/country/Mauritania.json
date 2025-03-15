@@ -154,7 +154,9 @@
 					"low": 16,
 					"precipitation": 1
 				}
-			]
+			],
+			"lat": 20.5167,
+			"lon": -13.05
 		},
 		"Chinguetti": {
 			"climate": [

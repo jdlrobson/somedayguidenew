@@ -494,7 +494,9 @@
 					"low": 18,
 					"precipitation": 5
 				}
-			]
+			],
+			"lat": 24.12012,
+			"lon": 52.73129
 		},
 		"Umm al Quwain": {
 			"climate": [
@@ -570,9 +572,11 @@
 					"high": 26,
 					"low": 15
 				}
-			]
+			],
+			"lat": 25.5,
+			"lon": 55.6
 		},
-		"Ra's al Khaymah": {
+		"Ras Al Khaimah": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -646,7 +650,9 @@
 					"low": 13.5,
 					"precipitation": 17.4
 				}
-			]
+			],
+			"lat": 25.76666667,
+			"lon": 55.95
 		}
 	}
 }

@@ -310,7 +310,9 @@
 					"low": 13.9,
 					"precipitation": 6.6
 				}
-			]
+			],
+			"lat": 22.8167,
+			"lon": 89.55
 		},
 		"Mymensingh": {
 			"climate": [
@@ -542,7 +544,9 @@
 					"low": 12.2,
 					"precipitation": 3
 				}
-			]
+			],
+			"lat": 25.755,
+			"lon": 89.241
 		},
 		"Sylhet": {
 			"climate": [

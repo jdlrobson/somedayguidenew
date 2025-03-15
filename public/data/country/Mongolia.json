@@ -336,7 +336,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 48.004167,
+			"lon": 91.640556
 		},
 		"Mörön": {
 			"climate": [
@@ -490,7 +492,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 48.968333,
+			"lon": 89.968611
 		},
 		"Tsetserleg": {
 			"climate": [
@@ -566,7 +570,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 47.47694444,
+			"lon": 101.45027778
 		},
 		"Ulan Ude": {
 			"climate": [
@@ -642,7 +648,9 @@
 					"high": null,
 					"low": null
 				}
-			]
+			],
+			"lat": 51.8333,
+			"lon": 107.6
 		},
 		"Zamyn-Üüd": {
 			"climate": [

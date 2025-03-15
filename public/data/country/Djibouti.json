@@ -2,7 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Djibouti": {
+		"Djibouti City": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -76,7 +76,9 @@
 					"low": 21.6,
 					"precipitation": 11.2
 				}
-			]
+			],
+			"lat": 11.5,
+			"lon": 43
 		}
 	}
 }

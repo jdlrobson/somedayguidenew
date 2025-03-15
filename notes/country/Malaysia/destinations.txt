@@ -1,5 +1,5 @@
 Kuala Lumpur
-George Town (Malaysia)
+George Town
 Malacca
 Ipoh
 Johor Bahru
@@ -10,6 +10,6 @@ Miri
 Cameron Highlands
 Perhentian Islands
 Langkawi
-Redang
-Tioman
+Redang Island
+Tioman Island
 Penang

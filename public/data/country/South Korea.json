@@ -1127,7 +1127,9 @@
 					"low": -9.1,
 					"precipitation": 36.8
 				}
-			]
+			],
+			"lat": 37.5617,
+			"lon": 128.487455
 		},
 		"South Jeolla": {
 			"climate": [
@@ -1203,7 +1205,9 @@
 					"high": 7,
 					"low": null
 				}
-			]
+			],
+			"lat": 34.75,
+			"lon": 127
 		},
 		"Daebudo": {
 			"climate": [

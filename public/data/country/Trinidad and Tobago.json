@@ -302,7 +302,9 @@
 					"high": 29,
 					"low": 23
 				}
-			]
+			],
+			"lat": 11.1833,
+			"lon": -60.7333
 		},
 		"Port of Spain": {
 			"climate": [

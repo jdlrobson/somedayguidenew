@@ -467,7 +467,9 @@
 					"low": 11.9,
 					"precipitation": 100.7
 				}
-			]
+			],
+			"lat": -37.7833,
+			"lon": 175.2833
 		},
 		"Napier": {
 			"climate": [
@@ -543,7 +545,9 @@
 					"low": 13,
 					"precipitation": 53.5
 				}
-			]
+			],
+			"lat": -39.4833,
+			"lon": 176.9167
 		},
 		"Nelson (New Zealand)": {
 			"climate": [
@@ -619,7 +623,9 @@
 					"low": 12,
 					"precipitation": 83.6
 				}
-			]
+			],
+			"lat": -41.2709,
+			"lon": 173.2839
 		},
 		"Queenstown (New Zealand)": {
 			"climate": [
@@ -695,7 +701,9 @@
 					"high": 20,
 					"low": 8
 				}
-			]
+			],
+			"lat": -45.031111,
+			"lon": 168.6625
 		},
 		"Rotorua": {
 			"climate": [
@@ -775,7 +783,7 @@
 			"lat": -38.13777778,
 			"lon": 176.25138889
 		},
-		"Aoraki Mount Cook National Park": {
+		"Aoraki / Mount Cook National Park": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -849,7 +857,9 @@
 					"low": 7.3,
 					"precipitation": 487.2
 				}
-			]
+			],
+			"lat": -43.7333,
+			"lon": 170.1
 		},
 		"Milford Sound": {
 			"climate": [
@@ -929,7 +939,7 @@
 			"lat": -44.64805556,
 			"lon": 167.90555556
 		},
-		"Taupo": {
+		"Taupō": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1003,7 +1013,9 @@
 					"high": 21,
 					"low": 10
 				}
-			]
+			],
+			"lat": -38.6875,
+			"lon": 176.0694
 		}
 	}
 }

@@ -182,7 +182,9 @@
 					"high": 23,
 					"low": 13
 				}
-			]
+			],
+			"lat": -1.396389,
+			"lon": -78.424722
 		},
 		"Cuenca (Ecuador)": {
 			"climate": [
@@ -258,7 +260,9 @@
 					"low": 10.6,
 					"precipitation": 67
 				}
-			]
+			],
+			"lat": -2.899167,
+			"lon": -79.015278
 		},
 		"Guayaquil": {
 			"climate": [
@@ -412,7 +416,9 @@
 					"low": 24,
 					"precipitation": 23
 				}
-			]
+			],
+			"lat": 0.95,
+			"lon": -79.666667
 		},
 		"Salinas (Ecuador)": {
 			"climate": [
@@ -488,7 +494,9 @@
 					"low": 21.8,
 					"precipitation": 1
 				}
-			]
+			],
+			"lat": -2.2167,
+			"lon": -80.950067
 		}
 	}
 }

@@ -2,7 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Nur-Sultan": {
+		"Astana": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -76,7 +76,9 @@
 					"low": -16.1,
 					"precipitation": 22
 				}
-			]
+			],
+			"lat": 51.166667,
+			"lon": 71.416667
 		},
 		"Almaty": {
 			"climate": [
@@ -542,7 +544,9 @@
 					"low": -5.7,
 					"precipitation": 27
 				}
-			]
+			],
+			"lat": 43.3,
+			"lon": 68.24361111
 		},
 		"Ust-Kamenogorsk": {
 			"climate": [
@@ -618,7 +622,9 @@
 					"high": -14,
 					"low": -19
 				}
-			]
+			],
+			"lat": 49.95,
+			"lon": 82.61666667
 		},
 		"Baikonur": {
 			"climate": [

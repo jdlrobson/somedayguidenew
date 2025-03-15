@@ -476,7 +476,9 @@
 					"low": 20.3,
 					"precipitation": 3
 				}
-			]
+			],
+			"lat": 9.4075,
+			"lon": -0.853333
 		},
 		"Tema": {
 			"climate": [

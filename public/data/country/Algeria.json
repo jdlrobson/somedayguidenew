@@ -95,7 +95,9 @@
 					"low": 7.2,
 					"precipitation": 91
 				}
-			]
+			],
+			"lat": 36.7,
+			"lon": 3.2167
 		},
 		"Annaba": {
 			"climate": [
@@ -249,7 +251,9 @@
 					"low": 1.7,
 					"precipitation": 28.7
 				}
-			]
+			],
+			"lat": 35.55,
+			"lon": 6.1667
 		},
 		"Bechar": {
 			"climate": [
@@ -325,7 +329,9 @@
 					"low": 4.8,
 					"precipitation": 8.2
 				}
-			]
+			],
+			"lat": 31.63333333,
+			"lon": -2.2
 		},
 		"Constantine, Algeria": {
 			"climate": [
@@ -401,7 +407,9 @@
 					"low": 3.4,
 					"precipitation": 71.1
 				}
-			]
+			],
+			"lat": 36.35,
+			"lon": 6.6
 		},
 		"Oran": {
 			"climate": [

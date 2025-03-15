@@ -326,7 +326,9 @@
 					"low": 3.6,
 					"precipitation": 142
 				}
-			]
+			],
+			"lat": 57.333,
+			"lon": -6.266
 		},
 		"Poole": {
 			"climate": [
@@ -406,7 +408,7 @@
 			"lat": 50.71666667,
 			"lon": -1.98333333
 		},
-		"Tunbridge Wells": {
+		"Royal Tunbridge Wells": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -480,7 +482,9 @@
 					"high": 2,
 					"low": -1
 				}
-			]
+			],
+			"lat": 51.13698,
+			"lon": 0.26771
 		},
 		"Harrogate": {
 			"climate": [
@@ -946,7 +950,9 @@
 					"high": 3,
 					"low": -1
 				}
-			]
+			],
+			"lat": 51.4009,
+			"lon": -1.3235
 		},
 		"Tristan da Cunha": {
 			"climate": [
@@ -1100,7 +1106,9 @@
 					"low": 1.7,
 					"precipitation": 57.77
 				}
-			]
+			],
+			"lat": 52.28,
+			"lon": -1.59
 		},
 		"Rochester (England)": {
 			"climate": [
@@ -1176,7 +1184,9 @@
 					"low": 2.4,
 					"precipitation": 53.8
 				}
-			]
+			],
+			"lat": 51.388,
+			"lon": 0.4982
 		},
 		"Somerset (England)": {
 			"climate": [
@@ -1252,7 +1262,9 @@
 					"low": 2.4,
 					"precipitation": 83.3
 				}
-			]
+			],
+			"lat": 51.18,
+			"lon": -3
 		},
 		"Inverness": {
 			"climate": [
@@ -1784,7 +1796,9 @@
 					"low": 4,
 					"precipitation": 85.3
 				}
-			]
+			],
+			"lat": 51.1295,
+			"lon": 1.3089
 		},
 		"Canterbury (England)": {
 			"climate": [
@@ -1860,7 +1874,9 @@
 					"low": 2.5,
 					"precipitation": 63.4
 				}
-			]
+			],
+			"lat": 51.27833333,
+			"lon": 1.0775
 		},
 		"Bath": {
 			"climate": [
@@ -1936,7 +1952,9 @@
 					"low": 2.3,
 					"precipitation": 87.1
 				}
-			]
+			],
+			"lat": 51.38,
+			"lon": -2.36
 		},
 		"Belfast": {
 			"climate": [
@@ -2406,7 +2424,7 @@
 			"lat": 55.86111111,
 			"lon": -4.25
 		},
-		"Birmingham (England)": {
+		"Birmingham": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -2480,7 +2498,9 @@
 					"high": 6,
 					"low": 1
 				}
-			]
+			],
+			"lat": 52.48,
+			"lon": -1.89
 		},
 		"Edinburgh": {
 			"climate": [

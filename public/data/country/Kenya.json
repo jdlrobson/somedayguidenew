@@ -122,7 +122,9 @@
 					"low": 17.1,
 					"precipitation": 142.9
 				}
-			]
+			],
+			"lat": 0.05,
+			"lon": 37.65
 		},
 		"Malindi": {
 			"climate": [
@@ -432,7 +434,9 @@
 					"high": 29,
 					"low": 12
 				}
-			]
+			],
+			"lat": 0.265,
+			"lon": 34.891
 		},
 		"Mombasa": {
 			"climate": [
@@ -898,7 +902,9 @@
 					"low": 14.7,
 					"precipitation": 45
 				}
-			]
+			],
+			"lat": -0.53333333,
+			"lon": 37.45
 		},
 		"Nanyuki": {
 			"climate": [

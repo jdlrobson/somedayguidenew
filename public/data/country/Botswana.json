@@ -251,7 +251,9 @@
 					"low": 19.3,
 					"precipitation": 81
 				}
-			]
+			],
+			"lat": -19.99417,
+			"lon": 23.418399
 		},
 		"Okavango Delta": {
 			"climate": [

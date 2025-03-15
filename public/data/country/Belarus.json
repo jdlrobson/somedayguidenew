@@ -86,7 +86,9 @@
 					"high": 1,
 					"low": null
 				}
-			]
+			],
+			"lat": 52.1333,
+			"lon": 23.6667
 		},
 		"Gomel": {
 			"climate": [
@@ -396,7 +398,9 @@
 					"high": -8,
 					"low": -10
 				}
-			]
+			],
+			"lat": 53.2167,
+			"lon": 26.6667
 		},
 		"Vitebsk": {
 			"climate": [

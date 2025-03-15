@@ -518,7 +518,9 @@
 					"low": -5.2,
 					"precipitation": 48.9
 				}
-			]
+			],
+			"lat": 46.61666667,
+			"lon": 14.3
 		},
 		"Linz": {
 			"climate": [

@@ -149,7 +149,9 @@
 					"low": 24.4,
 					"precipitation": 54.61
 				}
-			]
+			],
+			"lat": 12.128611,
+			"lon": -61.686944
 		},
 		"Carriacou": {
 			"climate": [

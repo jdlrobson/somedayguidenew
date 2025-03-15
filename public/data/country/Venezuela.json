@@ -173,7 +173,9 @@
 					"low": 23.9,
 					"precipitation": 54.1
 				}
-			]
+			],
+			"lat": 11.416667,
+			"lon": -69.666667
 		},
 		"Maracaibo": {
 			"climate": [
@@ -327,7 +329,9 @@
 					"high": 21,
 					"low": 14
 				}
-			]
+			],
+			"lat": 7.75,
+			"lon": -72.21666667
 		},
 		"Margarita Island": {
 			"climate": [
@@ -559,7 +563,9 @@
 					"low": 13.4,
 					"precipitation": 78.8
 				}
-			]
+			],
+			"lat": 8.58333333,
+			"lon": -71.1333333
 		}
 	}
 }

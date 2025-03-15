@@ -203,7 +203,9 @@
 					"high": 26,
 					"low": 18
 				}
-			]
+			],
+			"lat": -15.844,
+			"lon": -47.8353
 		},
 		"Florianopolis": {
 			"climate": [
@@ -279,7 +281,9 @@
 					"low": 20.3,
 					"precipitation": 172.5
 				}
-			]
+			],
+			"lat": -27.5717,
+			"lon": -48.6256
 		},
 		"Fortaleza": {
 			"climate": [
@@ -745,7 +749,9 @@
 					"low": 23.2,
 					"precipitation": 116.1
 				}
-			]
+			],
+			"lat": -12.98014,
+			"lon": -38.48236
 		},
 		"São Paulo": {
 			"climate": [
@@ -899,7 +905,9 @@
 					"high": 24,
 					"low": 23
 				}
-			]
+			],
+			"lat": -5,
+			"lon": -63
 		},
 		"Chapada Diamantina National Park": {
 			"climate": [
@@ -1131,7 +1139,9 @@
 					"high": 33,
 					"low": 19
 				}
-			]
+			],
+			"lat": -25.695,
+			"lon": -54.436
 		},
 		"Brasília": {
 			"climate": [
@@ -1441,7 +1451,9 @@
 					"low": 24.4,
 					"precipitation": 25.5
 				}
-			]
+			],
+			"lat": -5.795,
+			"lon": -35.20888889
 		},
 		"Santarém (Brazil)": {
 			"climate": [
@@ -1505,7 +1517,9 @@
 					"low": 22.2,
 					"precipitation": 139.7
 				}
-			]
+			],
+			"lat": -2.44277778,
+			"lon": -54.70777778
 		},
 		"São Luís": {
 			"climate": [
@@ -1581,7 +1595,9 @@
 					"low": 24,
 					"precipitation": 77.4
 				}
-			]
+			],
+			"lat": -2.4862,
+			"lon": -44.242
 		}
 	}
 }

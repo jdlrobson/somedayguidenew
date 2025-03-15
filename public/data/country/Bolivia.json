@@ -323,7 +323,9 @@
 					"low": 20.9,
 					"precipitation": 185
 				}
-			]
+			],
+			"lat": -17.8,
+			"lon": -63.1667
 		},
 		"Sucre": {
 			"climate": [

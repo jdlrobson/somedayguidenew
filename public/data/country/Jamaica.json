@@ -92,7 +92,9 @@
 					"low": 23.1,
 					"precipitation": 31
 				}
-			]
+			],
+			"lat": 17.97097,
+			"lon": -76.788239
 		},
 		"Montego Bay": {
 			"climate": [

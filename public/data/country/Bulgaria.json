@@ -137,7 +137,9 @@
 					"low": -2.4,
 					"precipitation": 41.7
 				}
-			]
+			],
+			"lat": 42.7,
+			"lon": 23.3333
 		},
 		"Burgas": {
 			"climate": [
@@ -373,7 +375,7 @@
 			"lat": 42.15,
 			"lon": 24.75
 		},
-		"Rousse": {
+		"Ruse": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -447,7 +449,9 @@
 					"low": -1.3,
 					"precipitation": 46.9
 				}
-			]
+			],
+			"lat": 43.82305556,
+			"lon": 25.95388889
 		},
 		"Varna": {
 			"climate": [
@@ -523,7 +527,9 @@
 					"low": 0.5,
 					"precipitation": 42
 				}
-			]
+			],
+			"lat": 43.2167,
+			"lon": 27.9167
 		},
 		"Veliko Tarnovo": {
 			"climate": [

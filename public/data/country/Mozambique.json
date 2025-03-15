@@ -154,7 +154,9 @@
 					"low": 23,
 					"precipitation": 231.6
 				}
-			]
+			],
+			"lat": -19.8333,
+			"lon": 34.85
 		},
 		"Ilha de Mozambique": {
 			"climate": [
@@ -230,7 +232,9 @@
 					"high": 28,
 					"low": 25
 				}
-			]
+			],
+			"lat": -15.03955,
+			"lon": 40.73443
 		},
 		"Inhambane": {
 			"climate": [
@@ -462,9 +466,11 @@
 					"low": 23.5,
 					"precipitation": 124.5
 				}
-			]
+			],
+			"lat": -12.96666667,
+			"lon": 40.55
 		},
-		"Bazaruto National Sea Park": {
+		"Bazaruto Archipelago National Park": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -538,7 +544,9 @@
 					"high": 29,
 					"low": 24
 				}
-			]
+			],
+			"lat": -21.6333333,
+			"lon": 35.5
 		}
 	}
 }

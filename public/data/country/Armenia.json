@@ -95,7 +95,9 @@
 					"high": 5,
 					"low": null
 				}
-			]
+			],
+			"lat": 40.1774,
+			"lon": 44.5126
 		},
 		"Alaverdi": {
 			"climate": [
@@ -147,7 +149,9 @@
 					"heading": "Dec",
 					"precipitation": 22
 				}
-			]
+			],
+			"lat": 41.095,
+			"lon": 44.661
 		},
 		"Dilijan": {
 			"climate": [
@@ -223,7 +227,9 @@
 					"high": 4,
 					"low": null
 				}
-			]
+			],
+			"lat": 40.740833,
+			"lon": 44.863056
 		},
 		"Echmiadzin": {
 			"climate": [
@@ -299,7 +305,9 @@
 					"low": -3.6,
 					"precipitation": 20
 				}
-			]
+			],
+			"lat": 40.16666667,
+			"lon": 44.3
 		},
 		"Gyumri": {
 			"climate": [

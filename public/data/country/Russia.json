@@ -768,7 +768,9 @@
 			"lon": 60.61277778
 		},
 		"Kamchatka": {
-			"climate": []
+			"climate": [],
+			"lat": 57,
+			"lon": 160
 		},
 		"Kizhi": {
 			"climate": [
@@ -844,7 +846,9 @@
 					"low": -9,
 					"precipitation": 30
 				}
-			]
+			],
+			"lat": 62.066667,
+			"lon": 35.225
 		},
 		"Yuzhno-Sakhalinsk": {
 			"climate": [
@@ -998,7 +1002,9 @@
 					"low": -15.9,
 					"precipitation": 63
 				}
-			]
+			],
+			"lat": 50.9,
+			"lon": 142.15
 		},
 		"Kholmsk": {
 			"climate": [
@@ -1230,7 +1236,9 @@
 					"high": -12,
 					"low": -14
 				}
-			]
+			],
+			"lat": 53.583333,
+			"lon": 142.933333
 		},
 		"Omsk": {
 			"climate": [

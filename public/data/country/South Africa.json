@@ -608,7 +608,9 @@
 					"low": 16.4,
 					"precipitation": 34
 				}
-			]
+			],
+			"lat": -33.9667,
+			"lon": 25.6
 		},
 		"Upington": {
 			"climate": [
@@ -840,7 +842,9 @@
 					"low": 16.6,
 					"precipitation": 46
 				}
-			]
+			],
+			"lat": -28.75,
+			"lon": 24.7667
 		}
 	}
 }

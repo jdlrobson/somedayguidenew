@@ -173,7 +173,9 @@
 					"low": 2.1,
 					"precipitation": 7
 				}
-			]
+			],
+			"lat": 40.682778,
+			"lon": 46.360556
 		},
 		"Lankaran": {
 			"climate": [
@@ -249,7 +251,9 @@
 					"low": 2.5,
 					"precipitation": 88
 				}
-			]
+			],
+			"lat": 38.753611,
+			"lon": 48.851111
 		},
 		"Qabala": {
 			"climate": [
@@ -325,7 +329,9 @@
 					"low": -1.4,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 40.98138889,
+			"lon": 47.84583333
 		},
 		"Sheki": {
 			"climate": [
@@ -401,7 +407,9 @@
 					"high": 6,
 					"low": -4
 				}
-			]
+			],
+			"lat": 41.199,
+			"lon": 47.1674
 		},
 		"Qobustan": {
 			"climate": [
@@ -477,7 +485,9 @@
 					"high": 8,
 					"low": 4
 				}
-			]
+			],
+			"lat": 40.08416667,
+			"lon": 49.41583333
 		},
 		"Göygöl National Park": {
 			"climate": [
@@ -787,7 +797,9 @@
 					"high": 6,
 					"low": -2
 				}
-			]
+			],
+			"lat": 40.853056,
+			"lon": 48.393056
 		},
 		"Qax": {
 			"climate": [
@@ -863,7 +875,9 @@
 					"high": 7,
 					"low": -5
 				}
-			]
+			],
+			"lat": 41.4225,
+			"lon": 46.924167
 		},
 		"Shamakhi": {
 			"climate": [

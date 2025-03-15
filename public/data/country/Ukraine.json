@@ -38,7 +38,7 @@
 		}
 	],
 	"places": {
-		"Kiev": {
+		"Kyiv": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -112,7 +112,9 @@
 					"high": 0,
 					"low": null
 				}
-			]
+			],
+			"lat": 50.45,
+			"lon": 30.52
 		},
 		"Chernihiv": {
 			"climate": [
@@ -582,7 +584,7 @@
 			"lat": 49.8425,
 			"lon": 24.03222222
 		},
-		"Odessa": {
+		"Odesa": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -656,7 +658,9 @@
 					"low": -1.2,
 					"precipitation": 35
 				}
-			]
+			],
+			"lat": 46.4667,
+			"lon": 30.7333
 		},
 		"Chernobyl": {
 			"climate": [

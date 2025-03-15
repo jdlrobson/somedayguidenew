@@ -154,7 +154,9 @@
 					"low": 2.7,
 					"precipitation": 19
 				}
-			]
+			],
+			"lat": 33.0381,
+			"lon": 40.2844
 		},
 		"Basra": {
 			"climate": [
@@ -698,7 +700,9 @@
 					"low": 6,
 					"precipitation": 108
 				}
-			]
+			],
+			"lat": 36.866667,
+			"lon": 43
 		},
 		"Sulemania": {
 			"climate": [
@@ -774,7 +778,9 @@
 					"low": 2.3,
 					"precipitation": 110
 				}
-			]
+			],
+			"lat": 35.55,
+			"lon": 45.433333
 		}
 	}
 }

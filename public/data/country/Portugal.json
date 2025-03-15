@@ -257,7 +257,9 @@
 					"low": 7.8,
 					"precipitation": 134.5
 				}
-			]
+			],
+			"lat": 40.633333,
+			"lon": -8.65
 		},
 		"Coimbra": {
 			"climate": [
@@ -867,7 +869,9 @@
 					"low": 15,
 					"precipitation": 90
 				}
-			]
+			],
+			"lat": 32.7,
+			"lon": -16.7667
 		}
 	}
 }

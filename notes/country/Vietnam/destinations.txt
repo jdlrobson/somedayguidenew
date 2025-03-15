@@ -1,7 +1,7 @@
 Hanoi
 Ho Chi Minh City
 Da Nang
-Dalat
+Da Lat
 Haiphong
 Hoi An
 Hue
@@ -10,8 +10,7 @@ Vinh
 Con Dao
 Cu Chi
 Cuc Phuong National Park
-DMZ (Vietnam)
-Kontum
+Kon Tum
 Sa Pa
 Tam Coc
 Tay Ninh

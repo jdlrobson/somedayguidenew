@@ -2,7 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Port-Vila": {
+		"Port Vila": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -76,7 +76,9 @@
 					"low": 21.7,
 					"precipitation": 187.2
 				}
-			]
+			],
+			"lat": -17.75,
+			"lon": 168.3
 		},
 		"Luganville": {
 			"climate": [

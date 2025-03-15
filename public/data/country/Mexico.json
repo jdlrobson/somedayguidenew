@@ -529,7 +529,9 @@
 					"low": 12.6,
 					"precipitation": 20
 				}
-			]
+			],
+			"lat": 23.1833,
+			"lon": -106.4167
 		},
 		"Monterrey": {
 			"climate": [
@@ -683,7 +685,9 @@
 					"low": 6.4,
 					"precipitation": 9.8
 				}
-			]
+			],
+			"lat": 22.1518,
+			"lon": -100.98
 		},
 		"Taxco": {
 			"climate": [
@@ -1305,7 +1309,9 @@
 					"low": 17.6,
 					"precipitation": 53.5
 				}
-			]
+			],
+			"lat": 20.689444,
+			"lon": -88.201667
 		},
 		"Playa del Carmen": {
 			"climate": [
@@ -1463,7 +1469,7 @@
 			"lat": 20.42,
 			"lon": -86.92
 		},
-		"Merida (Mexico)": {
+		"Mérida, Yucatán": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1537,7 +1543,9 @@
 					"low": 17.5,
 					"precipitation": 45.1
 				}
-			]
+			],
+			"lat": 20.96666667,
+			"lon": -89.61666667
 		}
 	}
 }

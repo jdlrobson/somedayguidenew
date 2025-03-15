@@ -1,4 +1,4 @@
-Kiev
+Kyiv
 Chernihiv
 Chernivtsi
 Dnipro
@@ -6,7 +6,7 @@ Donetsk
 Kamianets-Podilskyi
 Kharkiv
 Lviv
-Odessa
+Odesa
 Carpathians
 Chernobyl
 Uman

@@ -258,7 +258,9 @@
 					"low": 16.2,
 					"precipitation": 15.7
 				}
-			]
+			],
+			"lat": 12.97662,
+			"lon": 77.60013
 		},
 		"Chennai": {
 			"climate": [
@@ -1426,7 +1428,9 @@
 					"low": 20.9,
 					"precipitation": 9
 				}
-			]
+			],
+			"lat": 14.55,
+			"lon": 74.31667
 		},
 		"Ratnagiri": {
 			"climate": [
@@ -1736,7 +1740,9 @@
 					"high": 14,
 					"low": 5
 				}
-			]
+			],
+			"lat": 27.317,
+			"lon": 88.46
 		},
 		"Siliguri": {
 			"climate": [
@@ -1894,7 +1900,7 @@
 			"lat": 13.65,
 			"lon": 79.42
 		},
-		"Tiruchirapalli": {
+		"Tiruchirappalli": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1968,7 +1974,9 @@
 					"low": 21.2,
 					"precipitation": 90.2
 				}
-			]
+			],
+			"lat": 10.79048,
+			"lon": 78.70467
 		}
 	}
 }

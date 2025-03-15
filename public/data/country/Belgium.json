@@ -640,7 +640,9 @@
 					"low": 1.4,
 					"precipitation": 76.5
 				}
-			]
+			],
+			"lat": 50.45,
+			"lon": 3.95
 		},
 		"Kraainem": {
 			"climate": [
@@ -794,7 +796,9 @@
 					"low": -0.6,
 					"precipitation": 113.9
 				}
-			]
+			],
+			"lat": 50.49203,
+			"lon": 5.86262
 		},
 		"Ypres": {
 			"climate": [

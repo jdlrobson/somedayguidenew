@@ -13,7 +13,7 @@ Selby
 Skye
 Poole
 Chertsey
-Tunbridge Wells
+Royal Tunbridge Wells
 Harrogate
 Witney
 Margate
@@ -46,7 +46,7 @@ Bristol
 Liverpool
 Manchester
 Glasgow
-Birmingham (England)
+Birmingham
 Edinburgh
 London
 Norwich

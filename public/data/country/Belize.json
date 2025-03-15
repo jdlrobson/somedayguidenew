@@ -438,7 +438,7 @@
 			"lat": 18.075,
 			"lon": -88.55833333
 		},
-		"Punta Gorda (Belize)": {
+		"Punta Gorda": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -512,9 +512,11 @@
 					"low": 19.8,
 					"precipitation": 186.8
 				}
-			]
+			],
+			"lat": 16.1,
+			"lon": -88.8
 		},
-		"San Ignacio (Belize)": {
+		"San Ignacio": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -588,7 +590,9 @@
 					"high": 24,
 					"low": 17
 				}
-			]
+			],
+			"lat": 17.160125,
+			"lon": -89.05999722
 		},
 		"Tobacco Caye": {
 			"climate": [
@@ -742,7 +746,9 @@
 					"high": 23,
 					"low": 19
 				}
-			]
+			],
+			"lat": 16.8667,
+			"lon": -88.2167
 		}
 	}
 }

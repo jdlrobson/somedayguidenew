@@ -1174,7 +1174,9 @@
 					"low": -6.8,
 					"precipitation": 0.3
 				}
-			]
+			],
+			"lat": 31.705556,
+			"lon": 86.940278
 		},
 		"Turpan": {
 			"climate": [
@@ -1328,7 +1330,9 @@
 					"high": 16,
 					"low": 3
 				}
-			]
+			],
+			"lat": 25.700278,
+			"lon": 100.156389
 		},
 		"Kunming": {
 			"climate": [
@@ -1482,7 +1486,9 @@
 					"low": -9.6,
 					"precipitation": 4.7
 				}
-			]
+			],
+			"lat": 27.83333,
+			"lon": 99.701667
 		},
 		"Hong Kong": {
 			"climate": [
@@ -1792,7 +1798,9 @@
 					"high": 16,
 					"low": 3
 				}
-			]
+			],
+			"lat": 25.045556,
+			"lon": 101.528056
 		},
 		"Yuanmou": {
 			"climate": [
@@ -1868,7 +1876,9 @@
 					"high": 19,
 					"low": 8
 				}
-			]
+			],
+			"lat": 25.70785147,
+			"lon": 101.87264245
 		},
 		"Lijiang": {
 			"climate": [
@@ -2022,7 +2032,9 @@
 					"low": -5,
 					"precipitation": 6.9
 				}
-			]
+			],
+			"lat": 28.5,
+			"lon": 98.9
 		},
 		"Jinghong": {
 			"climate": [

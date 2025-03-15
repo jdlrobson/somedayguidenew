@@ -191,7 +191,7 @@
 			"lat": 3.14777778,
 			"lon": 101.69527778
 		},
-		"George Town (Malaysia)": {
+		"George Town": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -265,7 +265,9 @@
 					"high": 31,
 					"low": 24
 				}
-			]
+			],
+			"lat": 5.41646,
+			"lon": 100.33041
 		},
 		"Malacca": {
 			"climate": [
@@ -1047,7 +1049,7 @@
 			"lat": 6.35,
 			"lon": 99.8
 		},
-		"Redang": {
+		"Redang Island": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1121,9 +1123,11 @@
 					"low": 23.8,
 					"precipitation": 534.8
 				}
-			]
+			],
+			"lat": 5.775,
+			"lon": 103.015
 		},
-		"Tioman": {
+		"Tioman Island": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -1197,7 +1201,9 @@
 					"low": 23.3,
 					"precipitation": 625
 				}
-			]
+			],
+			"lat": 2.81666667,
+			"lon": 104.18333333
 		},
 		"Penang": {
 			"climate": [

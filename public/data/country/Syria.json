@@ -320,7 +320,9 @@
 					"low": 3.2,
 					"precipitation": 24.1
 				}
-			]
+			],
+			"lat": 35.33333333,
+			"lon": 40.15
 		},
 		"Homs": {
 			"climate": [

@@ -1,10 +1,10 @@
 Baguio
 Cagayan de Oro
-Cebu (city)
+Cebu City
 Davao
 Tagbilaran
 Vigan
-Zamboanga (city)
+Zamboanga City
 Banaue
 Batangas
 Boracay
@@ -22,7 +22,7 @@ Bicol
 Corregidor Island
 Samar Island
 Brooke's Point
-Busuanga
+Busuanga, Palawan
 Calabarzon
 Quezon (Palawan)
 Narra
@@ -30,7 +30,7 @@ Caramoan
 Carmen (Bohol)
 Roxas (Palawan)
 San Vicente
-Taytay
+Taytay (Palawan)
 Anda
 Oslob
 Loboc

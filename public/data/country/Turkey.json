@@ -515,7 +515,9 @@
 					"low": 7.5,
 					"precipitation": 143.1
 				}
-			]
+			],
+			"lat": 38.43333333,
+			"lon": 27.15
 		},
 		"Konya": {
 			"climate": [

@@ -157,7 +157,9 @@
 					"low": 22.8,
 					"precipitation": 153
 				}
-			]
+			],
+			"lat": 6.910833,
+			"lon": 79.887836
 		},
 		"Batticaloa": {
 			"climate": [

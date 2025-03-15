@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SkocjanskeJame_2013jpg.jpg/320px-SkocjanskeJame_2013jpg.jpg
+Škocjan Caves
+https://en.wikipedia.org/wiki/%C5%A0kocjan_Caves
+<small>[from en.wikipedia.org]:</small> Škocjan Caves is a cave system located in Slovenia. Škocjan Caves was included on UNESCO’s list of natural and cultural World Heritage Sites in 1986. Škocjan Caves is a significant underground phenomenon on the Karst Plateau and in Slovenia. After gaining independence from Yugoslavia in 1991, Slovenia made a commitment to actively protect the Škocjan Caves area. To fulfill this commitment, Škocjan Caves Regional Park was established, along with its managing authority, the Škocjan Caves Park Public Service Agency.
+<location lat="45.66666667" lon="14"></location>

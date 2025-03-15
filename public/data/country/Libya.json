@@ -113,7 +113,9 @@
 					"low": 9.9,
 					"precipitation": 67.5
 				}
-			]
+			],
+			"lat": 32.683333,
+			"lon": 13.166667
 		},
 		"Benghazi": {
 			"climate": [
@@ -267,7 +269,9 @@
 					"low": 4.4,
 					"precipitation": 3.4
 				}
-			]
+			],
+			"lat": 30.1333,
+			"lon": 9.5
 		},
 		"Misrata": {
 			"climate": [
@@ -421,7 +425,9 @@
 					"low": 8.9,
 					"precipitation": 1
 				}
-			]
+			],
+			"lat": 24.95,
+			"lon": 10.316667
 		}
 	}
 }

@@ -461,7 +461,9 @@
 					"low": -3.1,
 					"precipitation": 42
 				}
-			]
+			],
+			"lat": 41.978,
+			"lon": 44.109
 		},
 		"Kutaisi": {
 			"climate": [

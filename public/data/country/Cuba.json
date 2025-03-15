@@ -374,7 +374,9 @@
 					"low": 18,
 					"precipitation": 23
 				}
-			]
+			],
+			"lat": 22.4,
+			"lon": -79.95
 		},
 		"Santiago de Cuba": {
 			"climate": [
@@ -528,7 +530,9 @@
 					"high": 26,
 					"low": 23
 				}
-			]
+			],
+			"lat": 21.804167,
+			"lon": -79.983056
 		},
 		"Viñales": {
 			"climate": [

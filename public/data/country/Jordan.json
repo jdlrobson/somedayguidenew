@@ -338,7 +338,9 @@
 					"low": 2.4,
 					"precipitation": 72
 				}
-			]
+			],
+			"lat": 31.180556,
+			"lon": 35.701389
 		},
 		"Madaba": {
 			"climate": [
@@ -492,7 +494,9 @@
 					"low": 6,
 					"precipitation": 89
 				}
-			]
+			],
+			"lat": 32.33361111,
+			"lon": 35.75222222
 		},
 		"Petra": {
 			"climate": [
@@ -568,7 +572,9 @@
 					"low": 3.4,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 30.3333,
+			"lon": 35.4333
 		}
 	}
 }

@@ -273,7 +273,7 @@
 			"lat": 16.06944444,
 			"lon": 108.20972222
 		},
-		"Dalat": {
+		"Da Lat": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -347,7 +347,9 @@
 					"low": 12.8,
 					"precipitation": 36
 				}
-			]
+			],
+			"lat": 11.941667,
+			"lon": 108.438333
 		},
 		"Haiphong": {
 			"climate": [
@@ -501,7 +503,9 @@
 					"high": 26,
 					"low": 18
 				}
-			]
+			],
+			"lat": 15.8833,
+			"lon": 108.3333
 		},
 		"Hue": {
 			"climate": [
@@ -577,7 +581,9 @@
 					"low": 18.4,
 					"precipitation": 311
 				}
-			]
+			],
+			"lat": 16.4728,
+			"lon": 107.57864
 		},
 		"Nha Trang": {
 			"climate": [
@@ -735,7 +741,7 @@
 			"lat": 18.66666667,
 			"lon": 105.66666667
 		},
-		"Kontum": {
+		"Kon Tum": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -809,7 +815,9 @@
 					"low": 15.5,
 					"precipitation": 9
 				}
-			]
+			],
+			"lat": 14.75,
+			"lon": 107.9167
 		},
 		"Sa Pa": {
 			"climate": [
@@ -1041,7 +1049,9 @@
 					"low": 22.9,
 					"precipitation": 59
 				}
-			]
+			],
+			"lat": 10.2167,
+			"lon": 103.9667
 		},
 		"Rach Gia": {
 			"climate": [
@@ -1117,7 +1127,9 @@
 					"low": 22.8,
 					"precipitation": 44
 				}
-			]
+			],
+			"lat": 10.02638889,
+			"lon": 105.1055556
 		}
 	}
 }

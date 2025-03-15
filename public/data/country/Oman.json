@@ -460,7 +460,9 @@
 					"low": 14.4,
 					"precipitation": 15.9
 				}
-			]
+			],
+			"lat": 24.342,
+			"lon": 56.729889
 		},
 		"Sur": {
 			"climate": [
@@ -536,7 +538,9 @@
 					"high": 28,
 					"low": 19
 				}
-			]
+			],
+			"lat": 22.566667,
+			"lon": 59.528889
 		},
 		"Masirah Island": {
 			"climate": [

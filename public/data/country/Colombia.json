@@ -269,7 +269,9 @@
 					"high": 31,
 					"low": 23
 				}
-			]
+			],
+			"lat": 10.4,
+			"lon": -75.5
 		},
 		"Manizales": {
 			"climate": [
@@ -501,7 +503,9 @@
 					"low": 17.4,
 					"precipitation": 199.4
 				}
-			]
+			],
+			"lat": 4.814278,
+			"lon": -75.694558
 		},
 		"Santa Marta": {
 			"climate": [
@@ -733,7 +737,9 @@
 					"high": 27,
 					"low": 26
 				}
-			]
+			],
+			"lat": 10.175,
+			"lon": -75.75
 		},
 		"Providencia": {
 			"climate": [
@@ -809,7 +815,9 @@
 					"high": 25,
 					"low": 23
 				}
-			]
+			],
+			"lat": 13.3489,
+			"lon": -81.3747
 		},
 		"San Agustin": {
 			"climate": [
@@ -885,9 +893,11 @@
 					"high": 21,
 					"low": 9
 				}
-			]
+			],
+			"lat": 1.9,
+			"lon": -76.2833
 		},
-		"Popayan": {
+		"Popayán": {
 			"climate": [
 				{
 					"heading": "Jan",
@@ -961,7 +971,9 @@
 					"high": 24,
 					"low": 14
 				}
-			]
+			],
+			"lat": 2.45,
+			"lon": -76.6167
 		}
 	}
 }

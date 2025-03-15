@@ -269,7 +269,9 @@
 					"low": 8,
 					"precipitation": 6
 				}
-			]
+			],
+			"lat": 11.6,
+			"lon": 37.3833
 		},
 		"Dire Dawa": {
 			"climate": [
@@ -579,7 +581,9 @@
 					"low": 15,
 					"precipitation": 41
 				}
-			]
+			],
+			"lat": 13.4833,
+			"lon": 39.4667
 		},
 		"Simien National Park": {
 			"climate": [
@@ -655,7 +659,9 @@
 					"high": 31,
 					"low": 3
 				}
-			]
+			],
+			"lat": 13.18,
+			"lon": 38.06
 		},
 		"Danakil Depression": {
 			"climate": [
