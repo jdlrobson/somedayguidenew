@@ -16,7 +16,7 @@ const ALL_COUNTRIES = Object.keys( countryData ).map( ( title ) => {
     return Object.assign( {
         href: `/country/${ title }`
     }, countryData[ title ] );
-}).sort((c, c2) => c.title < c2.title ? -1 : 1);
+});
 
 const countries = ref(
     ALL_COUNTRIES
@@ -44,13 +44,18 @@ const applySort = () => {
                 .sort(sortByField('seen'))
                 .sort(sortByField('seenL'));
             break;
-        default:
+        case 'name':
             countries.value = countries.value
                 .sort((a,a1) => a.title < a1.title ? -1 : 1 );
             break;
+        case 'updated':
+        default:
+            console.log('go');
+            countries.value = countries.value
+                    .sort(sortByField('updated', 1));
+            break;
     };
 };
-
 const applyFilter = () => {
     switch ( currentFilter.value ) {
         case 'seen':
@@ -102,6 +107,7 @@ const changeFilter = ( ev ) => {
 const changeSort = ( ev ) => {
     sortBy(ev.target.value);
 };
+applySort();
 </script>
 <template>
     <div class="page-home">
@@ -123,6 +129,7 @@ const changeSort = ( ev ) => {
                     </select>
                     <label>sort by</label>
                     <select @change="changeSort">
+                        <option value="updated">updated</option>
                         <option value="name">name</option>
                         <option value="linz">Linzy</option>
                         <option value="jon">Jon</option>
