@@ -27,6 +27,7 @@ const center = ref( [
 const zoom = ref( country.value.zoom );
 const getOpacity = ( seen ) => seen ? '' : 'opacity: 0.5'
 const editUrl = `https://github.com/jdlrobson/somedayguidenew/tree/master/notes/country/${countryName}/note.txt`;
+const addSnippetUrl = `https://github.com/jdlrobson/somedayguidenew/new/main/notes/country/${countryName}/snippets`;
 
 const places = ref( {} );
 const snippets = ref( {} );
@@ -129,7 +130,9 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     </div>
                 </Postit>
             </InspirationBoard>
-
+            <a target="_blank" :href="addSnippetUrl" class="snipLink">
+                ✂ Add snippet
+            </a>
             <InspirationBoard>
                 <Postit v-for="(d, i) in Object.keys(places)"
                     :title="d"
@@ -170,5 +173,11 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
     flex-flow: row;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+.snipLink {
+    background: black;
+    display: inline-block;
+    padding: 8px;
+    color: white;
 }
 </style>
