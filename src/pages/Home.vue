@@ -111,27 +111,24 @@ const changeSort = ( ev ) => {
             <note :isSmall="true">
                 <p>Two drifters off to see the world. There's such a lot of world to see. Someday guide provides a jumping off point for finding the highlights, hopefully some day you'll see some of those.</p>
                 <p>Where in the world shall we dream about today?</p>
-                <div>
-                    <span>filter by</span>
+                <p>
+                    <a href="#search">search</a> {{  countries.length }} / {{ ALL_COUNTRIES.length }} countries
+                </p>
+                <p>
+                    <label>filter by</label>
                     <select @change="changeFilter">
                         <option value="none">all</option>
                         <option value="seen">seen</option>
                         <option value="dream">dream</option>
                     </select>
-                    sort by
+                    <label>sort by</label>
                     <select @change="changeSort">
                         <option value="name">name</option>
                         <option value="linz">Linzy</option>
                         <option value="jon">Jon</option>
                         <option value="notes">snippets</option>
                     </select>
-                </div>
-                <div>
-                    <p>
-                        <a href="#search">search</a> {{  countries.length }} / {{ ALL_COUNTRIES.length }} countries
-
-                    </p>
-                </div>
+                </p>
             </note>
             <InspirationBoard>
                 <Postit v-for="(c, i) in countries"
@@ -186,5 +183,12 @@ section.note {
 }
 p {
     margin-bottom: 0;
+}
+label {
+    margin-right: 8px;
+    font-style: italic;
+}
+select ~ label {
+    margin-left: 8px;
 }
 </style>
