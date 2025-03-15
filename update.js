@@ -259,6 +259,11 @@ const urlToRelativeThumbPath = ( url ) => {
     return `images/${decodeURIComponent(path)}`;
 }
 
+function touchCountryUpdatedTime( countryName ) {
+    console.log(`Bump updated on ${countryName}`);
+    json[countryName ].updated = new Date();
+}
+
 /**
  * @param {string} url
  * @return {boolean}
@@ -345,6 +350,10 @@ function updateCountries() {
         if ( hasNote ) {
             snippetTotal++;
         }
+        // If number of snippets changed or no updated date, add updated.
+        if ( !json[c].updated || country.snippets.length !== countrySnippets[c].length ) {
+            touchCountryUpdatedTime(c);
+        }
         country.snippets = countrySnippets[c];
         json[c].snippets = snippetTotal;
         fs.writeFileSync( countryDataPath, JSON.stringify( country, null, "\t"))
@@ -400,11 +409,6 @@ function pullLocations() {
         const lackingLonLat = places.filter((p) => !country.places[p].lat);
         // no need to pull for this country if already known.
         if ( lackingLonLat.length === 0 ) {
-            return;
-        }
-        // @Todo: remove block when all countries have been pulled.
-        if ( lackingLonLat.length !== places.length ) {
-            // we'll do this later.
             return;
         }
         console.log(`Pulling remote information for country: ${countryName}, lacking coords for: ${lackingLonLat.join(',')}`);
