@@ -2,7 +2,6 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Skaftafell is a preservation area in Öræfi, southeast Iceland. It was once a major farm, later being named a national park. Originally known as Skaftafell National Park, it was subsequently joined together with other nearby regions to form the larger Vatnajökull National Park.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Skaftafell_Aerial_2023.jpg/320px-Skaftafell_Aerial_2023.jpg",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://en.wikipedia.org/wiki/Skaftafell"
 		},
 		{
-			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Strokkur is a fountain-type geyser located in a geothermal area beside the Hvítá River in Iceland in the southwest part of the country, east of Reykjavík. It typically erupts every 6–10 minutes. Its usual height is 15–20 metres (49–66 ft), although it can sometimes erupt up to 40 metres (130 ft) high.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Strokkur_eruption.jpg/320px-Strokkur_eruption.jpg",
 			"source": "",
@@ -22,7 +20,6 @@
 			"url": "https://en.wikipedia.org/wiki/Strokkur"
 		},
 		{
-			"id": "3",
 			"text": "Curious about puffins in Iceland? Find out when’s best to spot them and how to find these adorable, funny birds whilst traveling in Iceland! <small>[image from Arctic Adventures]</small>",
 			"src": "https://adventures.is/media/69702/puffins-in-iceland-1-2.jpg",
 			"source": "",
@@ -32,7 +29,6 @@
 			"url": "https://adventures.is/blog/puffins-in-iceland/"
 		},
 		{
-			"id": "4",
 			"text": " <small>[image from www.visiticeland.com]</small>",
 			"src": "https://images.prismic.io/visiticeland/548bd104-353b-4327-b86a-cd846c487f4d_Northern%20Lights_Snowy%20Mountains_Photographer-Snorri%20Thor%20Tryggvason%20(1)_x-large4800x2346.jpg?ixlib=gatsbyFP&auto=format%2Ccompress&fit=max&rect=141%2C0%2C3988%2C2346&w=320",
 			"source": "",

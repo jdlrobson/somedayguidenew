@@ -340,8 +340,8 @@ function updateCountries() {
         const destinations = json[c].destinations || [];
         Object.keys(country.places).forEach((key) => {
             if ( !destinations.includes(key) ) {
-                // @todo: delete once worked out how to merge places.
-                console.log(`${key} is an unknown destination`);
+                console.log(`${key} is an unknown destination (deleting)`);
+                delete country.places[key];
             }
             const coord = destinationCoordinates[key];
             if ( coord && !country.places[key].latitude ) {
@@ -349,6 +349,14 @@ function updateCountries() {
                 touchCountryUpdatedTime( c );
             }
         });
+        // Check for newly added destinations
+        destinations.forEach( ( p ) => {
+            if ( !country.places[p] ) {
+                // let's create it!
+                console.log(`Adding ${p} to destinations. Please re-run to pull location information.`);
+                country.places[p] = {};
+            }
+        } );
         const hasNote = !countryNotes[c].includes('n/a');   
         let snippetTotal = country.snippets.length;
         if ( hasNote ) {
@@ -454,7 +462,7 @@ function remoteUpdates() {
     if ( hrsSinceLastUpdate > 24 ) {
         promises.push( importBlogs() );
     }
-    if ( hrsSinceLastUpdate > 1 ) {
+    if ( hrsSinceLastUpdate > 0 ) {
         promises.push( pullLocations() );
     }
 

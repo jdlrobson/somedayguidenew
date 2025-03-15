@@ -2,7 +2,6 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "<small>[from en.wikivoyage.org]:</small> ",
 			"src": "null",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://en.wikivoyage.org/wiki/Majete_Wildlife_Reserve"
 		},
 		{
-			"id": "2",
 			"src": "https://www.instagram.com/p/Bv6GOevAW47/",
 			"source": "",
 			"type": "instagram",

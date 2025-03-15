@@ -2,7 +2,6 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Pitons are two mountainous volcanic plugs, volcanic spires, located in Saint Lucia. Petit Piton is 743 m (2,438 ft) high and Gros Piton is 798.25 m (2,618.9 ft) high; they are linked by the Piton Mitan ridge. Piton means mountain peak in French; Petit Piton means small mountain peak and Gros Piton means large mountain peak. The Pitons are a World Heritage Site, 2,909 ha in size, and located near the town of Soufrière.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pitons-aerial.jpg/320px-Pitons-aerial.jpg",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://en.wikipedia.org/wiki/Pitons_(Saint_Lucia)"
 		},
 		{
-			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Saint Lucia amazon, also known as the St. Lucia amazon and St. Lucia parrot, is a Vulnerable species of bird in subfamily Arinae of the family Psittacidae, the African and New World parrots. It is endemic to Saint Lucia in the Lesser Antilles and is the country's national bird.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amazona_versicolor_-St_Lucia-5a.jpg/320px-Amazona_versicolor_-St_Lucia-5a.jpg",
 			"source": "",

@@ -2,14 +2,12 @@
 	"note": "<p>Why don&#39;t you go find the magical tree on the lake in Vancouver island?</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.instagram.com/p/UT8_bfs2Pe",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "10",
 			"text": "<small>[from en.wikipedia.org]:</small> Western Brook Pond is a Canadian fjord or lake located in Gros Morne National Park on the west coast of the island of Newfoundland. It is in the Long Range Mountains, the most northern section of the Appalachian Mountains.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Western_Brook_Pond.JPG/320px-Western_Brook_Pond.JPG",
 			"source": "",
@@ -19,14 +17,12 @@
 			"url": "https://en.wikipedia.org/wiki/Western_Brook_Pond"
 		},
 		{
-			"id": "2",
 			"src": "https://www.instagram.com/p/UT9AF7s2Pf",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "3",
 			"text": "Explore Capilano Suspension Bridge Park, Vancouver's iconic tourist attraction, known for its famous bridge, and family-friendly activities. <small>[image from Capilano]</small>",
 			"src": "https://www.capbridge.com/wp-content/uploads/2024/05/OutdoorAdventures-card-e1663478782963-2.jpg",
 			"source": "",
@@ -36,7 +32,6 @@
 			"url": "https://www.capbridge.com/"
 		},
 		{
-			"id": "4",
 			"text": "Explore Canada’s first national park. Rocky Mountain peaks, turquoise glacial lakes, wildlife and a picture-perfect mountain town.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DSC2528_Morraine_Lake_Banff_National_Park%2C_Alberta.jpg/640px-DSC2528_Morraine_Lake_Banff_National_Park%2C_Alberta.jpg",
 			"source": "",
@@ -46,7 +41,6 @@
 			"url": "https://parks.canada.ca/pn-np/ab/banff"
 		},
 		{
-			"id": "5",
 			"text": "Journey to a floating lodge in the remote wilderness of coastal British Columbia to watch and photograph grizzly bears in their natural habitat. <small>[image from Great Bear Lodge]</small>",
 			"src": "https://greatbeartours.com/wp-content/uploads/2020/06/Great_Bear_IMG_0202-scaled.jpg",
 			"source": "",
@@ -56,7 +50,6 @@
 			"url": "https://greatbeartours.com/"
 		},
 		{
-			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> The Bay of Fundy is a bay between the Canadian provinces of New Brunswick and Nova Scotia, with a small portion touching the U.S. state of Maine. It is an arm of the Gulf of Maine. Its tidal range is the highest in the world. The name is probably a corruption of the French word fendu, meaning 'split'.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandstone_in_Canada_-_IMG_0791_%2811385934064%29.jpg/320px-Sandstone_in_Canada_-_IMG_0791_%2811385934064%29.jpg",
 			"source": "",
@@ -66,7 +59,6 @@
 			"url": "https://en.wikipedia.org/wiki/Bay_of_Fundy"
 		},
 		{
-			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> The Palais des congrès de Montréal is a convention centre in Montreal's Quartier international at the north end of Old Montreal. Its borough is Ville-Marie. Construction began in 1977 and completed in 1983; the Palais opened on 21 May 1983. Victor Prus designed the original building.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Palais_des_congr%C3%A8s.jpg/320px-Palais_des_congr%C3%A8s.jpg",
 			"source": "",
@@ -76,7 +68,6 @@
 			"url": "https://en.wikipedia.org/wiki/Palais_des_congr%C3%A8s_de_Montr%C3%A9al"
 		},
 		{
-			"id": "8",
 			"text": "Image from <a href=\"https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg\">Wikimedia Commons</a>.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/640px-3Falls_Niagara.jpg",
 			"source": "",
@@ -86,7 +77,6 @@
 			"url": "https://www.niagarafallstourism.com/"
 		},
 		{
-			"id": "9",
 			"text": "Churchill, Canada is well known for its polar bears -- but why do the bears congregate there?",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Polar_Bear%2C_Churchill%2C_Manitoba%2C_Canada..jpg/604px-Polar_Bear%2C_Churchill%2C_Manitoba%2C_Canada..jpg",
 			"source": "",

@@ -2,7 +2,6 @@
 	"note": "<p>A Carribean island we&#39;d love to relax in one day.</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Pig Beach located on Big Major Cay is a beach on an uninhabited island located in Exuma, the Bahamas. The island takes its unofficial name from the fact that it is populated by a colony of feral pigs which live on the island. It has become a tourist attraction in modern times.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vorobek_Bahamas_-_swimming_pigs.jpg/320px-Vorobek_Bahamas_-_swimming_pigs.jpg",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://en.wikipedia.org/wiki/Pig_Beach"
 		},
 		{
-			"id": "2",
 			"text": " <small>[image from commons.wikimedia.org]</small>",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pink_Sands_Beach%2C_Harbour_Island%2C_Bahamas_%285279465868%29.jpg/640px-Pink_Sands_Beach%2C_Harbour_Island%2C_Bahamas_%285279465868%29.jpg",
 			"source": "",

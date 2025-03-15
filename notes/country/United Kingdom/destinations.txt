@@ -1,38 +1,23 @@
-Bodmin
-Helston
-Dartford
-Sandwich (England)
-Sevenoaks
-Otford
 Penzance
-Woodstock (Oxfordshire)
-Bicester
-Evesham
-Haslemere
+Oxford
 Selby
 Skye
 Poole
 Chertsey
 Royal Tunbridge Wells
 Harrogate
-Witney
-Margate
-Skipton
-Wimborne Minster
 Hampshire
-Worthing
-Newbury and Thatcham
+Isle of Wight
+Isle of Man
 Tristan da Cunha
-Warwick (England)
 Rochester (England)
-Somerset (England)
 Banbury
 Abingdon
 Inverness
-Ramsgate
 Lewes
+York
+Newcastle upon Tyne
 Dorchester
-Chichester
 Maidstone
 Outer Hebrides
 Dorset
@@ -50,7 +35,6 @@ Birmingham
 Edinburgh
 London
 Norwich
-Exeter
 Devon
 Cambridge
 Nottingham

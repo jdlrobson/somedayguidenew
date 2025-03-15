@@ -2,7 +2,6 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "Got 6 months free?",
 			"src": "",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://madventure.co.uk/london-to-sydney-overlandtour/"
 		},
 		{
-			"id": "2",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg/560px-Cradle_Mountain_Behind_Dove_Lake.jpg",
 			"source": "",
 			"type": "url",
@@ -21,7 +19,6 @@
 			"url": "https://en.wikipedia.org/wiki/Cradle_Mountain"
 		},
 		{
-			"id": "3",
 			"text": "-",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Aboriginal_rock_art_-Ubirr_Art_Site%2C_Kakadu_National_Park%2C_Northern_Territory%2C_Australia-9June2012_%281%29.jpg/1600px-Aboriginal_rock_art_-Ubirr_Art_Site%2C_Kakadu_National_Park%2C_Northern_Territory%2C_Australia-9June2012_%281%29.jpg?20121013200537",
 			"source": "",
@@ -31,7 +28,6 @@
 			"url": "https://kakadu.gov.au/things-do/activities/rock-art/nanguluwurr/"
 		},
 		{
-			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The quokka is a small macropod about the size of a domestic cat. It is the only member of the genus Setonix. Like other marsupials in the macropod family, the quokka is herbivorous and mainly nocturnal.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quokka_at_rottnest_%28cropped%29.jpg/320px-Quokka_at_rottnest_%28cropped%29.jpg",
 			"source": "",
@@ -41,7 +37,6 @@
 			"url": "https://en.wikipedia.org/wiki/Quokka"
 		},
 		{
-			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> The Twelve Apostles are a collection of limestone stacks off the shore of Port Campbell National Park, by the Great Ocean Road in Victoria, Australia.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Twelve_Apostles_2011.jpg/320px-The_Twelve_Apostles_2011.jpg",
 			"source": "",
@@ -51,7 +46,6 @@
 			"url": "https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)"
 		},
 		{
-			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/320px-ULURU.jpg",
 			"source": "",
@@ -61,7 +55,6 @@
 			"url": "https://en.wikipedia.org/wiki/Uluru"
 		},
 		{
-			"id": "7",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -70,7 +63,6 @@
 			"url": "https://www.mdavid.com.au/trees/unusualtrees.shtml"
 		},
 		{
-			"id": "8",
 			"text": "Encountering Australia's wildlife in its natural habitat is a magical experience. Observing animals in the wild, where they explore freely and behave naturally, offers a unique and unforgettable connection to nature. One of the most sought-after wildlife experiences in Australia is spotting the elusive platypus in the wild. This semiaquatic,... <small>[image from Australian Wildlife Journeys]</small>",
 			"src": "https://australianwildlifejourneys.com/files/1494_fnq_nature_tours_platypus.jpg",
 			"source": "",

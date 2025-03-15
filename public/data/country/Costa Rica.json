@@ -2,14 +2,12 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.instagram.com/p/WGHZ7VM2Mq/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "2",
 			"text": "Sustainable Rainforest Lodging, and Wildlife Refuge near Corcovado, Osa Peninsula, Costa Rica. For nature lovers, birders, hikers. Guiding is our passion. <small>[image from Bosque del Río Tigre Lodge]</small>",
 			"src": "http://bosquedelriotigre.com/wp-content/uploads/2016/07/DSC_4737-1024x728.jpg",
 			"source": "",
@@ -19,7 +17,6 @@
 			"url": "https://bosquedelriotigre.com/"
 		},
 		{
-			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Arenal Volcano is an active andesitic stratovolcano in north-western Costa Rica around 90 km (56 mi) northwest of San José, in the province of Alajuela, canton of San Carlos, and district of La Fortuna. The Arenal volcano measures at least 1,633 metres (5,358 ft) high. It is conically shaped with a crater 140 metres (460 ft) in diameter. Geologically, Arenal is considered a young volcano and it is estimated to be less than 7,500 years old. It is also known as \"Pan de Azúcar\", \"Canaste\", \"Volcan Costa Rica\", \"Volcan Río Frío\" or \"Guatusos Peak\".",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Arenal_volcano_%2870785p%29_%28cropped%29.jpg/320px-Arenal_volcano_%2870785p%29_%28cropped%29.jpg",
 			"source": "",
@@ -29,7 +26,6 @@
 			"url": "https://en.wikipedia.org/wiki/Arenal_Volcano"
 		},
 		{
-			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Turrialba Volcano National Park, or in Spanish the Parque Nacional Volcan Turrialba is a national park in the Central Conservation Area of Costa Rica that encompasses the area around the Turrialba Volcano in Cartago Province.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Turrialba_volcano_eruption_2014._Costa_Rica_%281%29.jpg/320px-Turrialba_volcano_eruption_2014._Costa_Rica_%281%29.jpg",
 			"source": "",
@@ -39,7 +35,6 @@
 			"url": "https://en.wikipedia.org/wiki/Turrialba_Volcano_National_Park"
 		},
 		{
-			"id": "5",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -48,7 +43,6 @@
 			"url": "https://costa-rica-guide.com/nature/national-parks/tortuguero/"
 		},
 		{
-			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Agalychnis callidryas, commonly known as the red-eyed tree frog or red-eyed leaf frog, is a species of frog in the subfamily Phyllomedusinae. It is one of the most recognizable frogs. It is native to forests from Central America to north-western South America. This species is known for its bright coloration, namely its vibrant green body with blue and yellow stripes on the side. It has a white underside, brightly red and orange colored feet, and is named after its distinctive bright red eyes. One particular and special feature of the frogs coloration is its exceptional high reflectance in the near-infrared.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png/320px-Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png",
 			"source": "",
@@ -58,7 +52,6 @@
 			"url": "https://en.wikipedia.org/wiki/Agalychnis_callidryas"
 		},
 		{
-			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> The crested quetzal /ketSAHL/ is a species of bird in the family Trogonidae native to South America. The best places to see the Resplendent Quetzal include Monteverde Cloud Forest Reserve in Costa Rica between February and July.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crested_Quetzal.jpg/320px-Crested_Quetzal.jpg",
 			"source": "",

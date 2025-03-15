@@ -2,7 +2,6 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -11,7 +10,6 @@
 			"url": "https://www.cycleblaze.com/journals/2022biketrip/noordoewer-to-near-aussenkehr/"
 		},
 		{
-			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Namib is a coastal desert in Southern Africa. According to the broadest definition, the Namib stretches for more than 2,000 kilometres (1,200 mi) along the Atlantic coasts of Angola, Namibia, and northwest South Africa, extending southward from the Carunjamba River in Angola, through Namibia and to the Olifants River in Western Cape, South Africa. The Namib's northernmost portion, which extends 450 kilometres (280 mi) from the Angola-Namibia border, is known as Moçâmedes Desert, while its southern portion approaches the neighboring Kalahari Desert. From the Atlantic coast eastward, the Namib gradually ascends in elevation, reaching up to 200 kilometres (120 mi) inland to the foot of the Great Escarpment. Annual precipitation ranges from 2 millimetres (0.079 in) in the aridest regions to 200 millimetres (7.9 in) at the escarpment, making the Namib the only true desert in southern Africa. Having endured arid or semi-arid conditions for roughly 55–80 million years, the Namib may be the oldest desert in the world and contains some of the world's driest regions, with only western South America's Atacama Desert to challenge it for age and aridity benchmarks.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sossuvlei%2C_Deadvlei_%282017%29.jpg/640px-Sossuvlei%2C_Deadvlei_%282017%29.jpg",
 			"source": "",
@@ -21,7 +19,6 @@
 			"url": "https://en.wikipedia.org/wiki/Namib"
 		},
 		{
-			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Sossusvlei is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia. The name \"Sossusvlei\" is often used in an extended meaning to refer to the surrounding area. These landmarks are some of the major visitor attractions of Namibia.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sossusvlei.jpg/320px-Sossusvlei.jpg",
 			"source": "",
@@ -31,7 +28,6 @@
 			"url": "https://en.wikipedia.org/wiki/Sossusvlei"
 		},
 		{
-			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Etosha National Park is a national park in northwestern Namibia and one of the largest national parks in Africa. It was proclaimed a game reserve in March 1907 in Ordinance 88 by the Governor of German South West Africa, Friedrich von Lindequist. It was designated as Wildschutzgebiet in 1958, and was awarded the status of national park in 1967, by an act of parliament of the Republic of South Africa. It spans an area of 22,270 km2 (8,600 sq mi) and was named after the large Etosha pan which is almost entirely within the park. With an area of 4,760 km2 (1,840 sq mi), the Etosha pan covers 23% of the total area of the national park. The area is home to hundreds of species of mammals, birds and reptiles, including several threatened and endangered species such as the black rhinoceros. Sixty-one black rhinoceros were killed during poaching in Namibia during 2022, 46 of which were killed in Etosha.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dust_Cloud_in_Etosha_National_Park.jpg/320px-Dust_Cloud_in_Etosha_National_Park.jpg",
 			"source": "",
@@ -41,7 +37,6 @@
 			"url": "https://en.wikipedia.org/wiki/Etosha_National_Park"
 		},
 		{
-			"id": "5",
 			"src": "",
 			"source": "",
 			"type": "url",

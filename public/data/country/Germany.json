@@ -2,7 +2,6 @@
 	"note": "<p>On a sunny day visit Englischer Garten. There was a nice stream running through the park where everyone was jumping in.I recommend visiting 11th November - for Cologne Carnival festivities. Lots of Kölsch to drink!</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "Eat pretzels and drink beer at Augustiner Bierhalle",
 			"src": "",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://www.augustiner-restaurant.com/html/film.html"
 		},
 		{
-			"id": "2",
 			"text": "The Cologne Carnival is a carnival that takes place every year in Cologne, Germany.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dreigestirn_72.jpg/320px-Dreigestirn_72.jpg",
 			"source": "",
@@ -22,14 +20,12 @@
 			"url": "https://en.wikipedia.org/wiki/Cologne_Carnival"
 		},
 		{
-			"id": "3",
 			"src": "https://www.instagram.com/p/C7FaE52yS41/?img_index=1",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "4",
 			"text": "RIP artists. <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/7077/7340690924_5acbc1ddca_b.jpg",
 			"source": "",

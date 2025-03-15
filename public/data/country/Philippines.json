@@ -2,7 +2,6 @@
 	"note": "<p>Only 2.5 hours away from <strong>Manila</strong>, Batangas has a large port with boats going almost everywhere in the Philippines. Boracay is a tropical island about an hour&#39;s flight from Manila in the Philippines. Its long white sand beaches rival the best beaches of more popular destinations such as the Caribbean, the South Pacific as well as neighbouring Thailand, Malaysia and Indonesia. Someday, I&#39;ll give it a try.Be overshadowed by a beautiful volcano. The <strong>Mayon Volcano</strong> is &#39;&#39;active&#39;&#39;. Bohol is the home of the Chocolate Hills.\nThe whale sharks of Oslob are lured by fishermen who feed them. There&#39;s not much else to do here but swim with them. It&#39;s not exactly a natural experience, but you&#39;ll likely never be up so close to such magnificent creatures.. and if they were not a tourist attraction they&#39;d be food instead...</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Taal Volcano is a large caldera filled by Taal Lake in the Philippines. Located in the province of Batangas about 50 kilometers (31 mi) south of Manila, the volcano is the second most active volcano in the country with 38 recorded historical eruptions, all of which were concentrated on Volcano Island, near the middle of Taal Lake. The caldera was formed by prehistoric eruptions between 140,000 and 5,380 BP.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taal_Volcano_from_Tagaytay_%28001%29_2024-06-09.jpg/320px-Taal_Volcano_from_Tagaytay_%28001%29_2024-06-09.jpg",
 			"source": "",
@@ -12,42 +11,36 @@
 			"url": "https://en.wikipedia.org/wiki/Taal_Volcano"
 		},
 		{
-			"id": "10",
 			"src": "https://www.instagram.com/p/cdvoA-M2ES",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "12",
 			"src": "https://www.instagram.com/p/cbzZJis2L9",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "13",
 			"src": "https://www.instagram.com/p/camDX6s2ED",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "14",
 			"src": "https://www.instagram.com/p/caeul8s2KA",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "15",
 			"src": "https://www.instagram.com/p/cWjgyGM2KN",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "16",
 			"text": "Philippine Tarsier in July 2013 by Jon Robson <small>[image from iNaturalist]</small>",
 			"src": "https://inaturalist-open-data.s3.amazonaws.com/photos/131647763/large.jpeg",
 			"source": "",
@@ -57,7 +50,6 @@
 			"url": "https://www.inaturalist.org/observations/80325798"
 		},
 		{
-			"id": "17",
 			"text": "This year marks six decades since the first Pahiyas, but its origin dates back much further. Here's everything you need to know about the Philippines' most colourful harvest festival... <small>[image from Wanderlust]</small>",
 			"src": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/10/a34dw9.jpg",
 			"source": "",
@@ -67,7 +59,6 @@
 			"url": "https://www.wanderlustmagazine.com/inspiration/pahiyas-philippines-festival/"
 		},
 		{
-			"id": "18",
 			"text": "<small>[from en.wikipedia.org]:</small> A jeepney, or simply a jeep, is a type of public utility vehicle (PUV) that serves as the most popular means of public transportation in the Philippines. Known for its crowded seating and kitsch decorations, it is a cultural icon of the Philippines and has its own art, \"Jeepney art\". At the 1964 New York World's Fair, a Sarao jeepney was exhibited in the Philippine pavilion as a national symbol for Filipinos.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jeepney%2C_Magallanes_Drive%2C_Intramuros%2C_2018_%2802%29.jpg/320px-Jeepney%2C_Magallanes_Drive%2C_Intramuros%2C_2018_%2802%29.jpg",
 			"source": "",
@@ -77,7 +68,6 @@
 			"url": "https://en.wikipedia.org/wiki/Jeepney"
 		},
 		{
-			"id": "19",
 			"text": "Hundreds of wooden coffins dangle from cliffs and caves in the Philippines. <small>[image from Atlas Obscura]</small>",
 			"src": "https://img.atlasobscura.com/-hpDbkr4yh90HO0JUynX_99nkUpyR2Hs1NYKOC9LIQM/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNDBk/ODk5ZGQ1ODA5MTQ2/YmFfNjU0ODMyNjc1/NV83YzYxMGE2YjU0/X2IuanBn.jpg",
 			"source": "",
@@ -87,7 +77,6 @@
 			"url": "https://www.atlasobscura.com/places/hanging-coffins-of-sagada"
 		},
 		{
-			"id": "2",
 			"text": "This is the real Tall volcano... its different from what the post cards show.  There was sulfur in the air here... and they say when you swim there, it will instantly bleach your clothes. <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/3267/3100730196_7d72224918_b.jpg",
 			"source": "",
@@ -97,7 +86,6 @@
 			"url": "https://www.flickr.com/photos/deckchua/3100730196"
 		},
 		{
-			"id": "20",
 			"text": "<small>[from en.wikipedia.org]:</small> Banaue, officially the Municipality of Banaue, is a municipality in the province of Ifugao, Philippines. According to the 2020 census, it has a population of 20,652 people.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Town_of_Banaue.jpg/320px-Town_of_Banaue.jpg",
 			"source": "",
@@ -107,7 +95,6 @@
 			"url": "https://en.wikipedia.org/wiki/Banaue"
 		},
 		{
-			"id": "21",
 			"text": "<small>[from en.wikipedia.org]:</small> Palawan, officially the Province of Palawan, is an archipelagic province of the Philippines that is located in the region of Mimaropa. It is the largest province in the country in terms of total area of 14,649.73 km2 (5,656.29 sq mi). The capital and largest city is Puerto Princesa which is geographically grouped with but administered independently from the province. Palawan is known as the Philippines' Last Frontier and as the Philippines' Best Island.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kayangan_Lake%2C_Coron_-_Palawan.jpg/320px-Kayangan_Lake%2C_Coron_-_Palawan.jpg",
 			"source": "",
@@ -117,7 +104,6 @@
 			"url": "https://en.wikipedia.org/wiki/Palawan"
 		},
 		{
-			"id": "3",
 			"text": "The only remains of the town of Cagsawa after the eruption of the Mayon volcano in 1814.  Mayon is an active volcano found in Albay in the Philippines. <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/4101/4781470828_f4fdb03d7f_b.jpg",
 			"source": "",
@@ -127,7 +113,6 @@
 			"url": "https://www.flickr.com/photos/zaldy_fabia/4781470828/"
 		},
 		{
-			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Mayon, also known as Mount Mayon and Mayon Volcano is an active stratovolcano in the province of Albay in Bicol, Philippines. A popular tourist spot, it is renowned for its \"perfect cone\" because of its symmetric conical shape, and is regarded as sacred in Philippine mythology.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mayon_Volcano_and_the_Sleeping_Lion.jpg/320px-Mayon_Volcano_and_the_Sleeping_Lion.jpg",
 			"source": "",
@@ -137,35 +122,30 @@
 			"url": "https://en.wikipedia.org/wiki/Mayon_Volcano"
 		},
 		{
-			"id": "5",
 			"src": "https://www.instagram.com/p/cbNM4MM2Ja/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "6",
 			"src": "https://www.instagram.com/p/cdkdFNM2Ld/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "7",
 			"src": "https://www.instagram.com/p/cfbfd2M2O7",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "8",
 			"src": "https://www.instagram.com/p/cdSVu-s2In/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "9",
 			"src": "https://www.instagram.com/p/cnL9LYs2M2",
 			"source": "",
 			"type": "instagram",

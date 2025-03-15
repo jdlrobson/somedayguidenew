@@ -2,14 +2,12 @@
 	"note": "<p>Talliin was a cute little town I got to explore. I was surprised by the &quot;antique&quot; stores selling Soviet and Nazi memorabilia and enjoyed hiking along the coastline.</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.instagram.com/p/C6zQYx7rZGr",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "2",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -18,7 +16,6 @@
 			"url": "https://visiteurope.com/en/experience/bear-watching-in-estonia/"
 		},
 		{
-			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Lahemaa National Park is a park in northern Estonia, 70 kilometers east from the capital Tallinn. The Gulf of Finland is to the north of the park and the Tallinn-Narva highway (E20) to the south. Its area covers 747 km2. It was the first area to be designated a national park of the former Soviet Union. It is the largest park in Estonia and one of Europe's biggest national parks. Its charter calls for the preservation, research and promotion of North-Estonian landscapes, ecosystems, biodiversity and national heritage.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Viru_Bog%2C_Parque_Nacional_Lahemaa%2C_Estonia%2C_2012-08-12%2C_DD_26.JPG/320px-Viru_Bog%2C_Parque_Nacional_Lahemaa%2C_Estonia%2C_2012-08-12%2C_DD_26.JPG",
 			"source": "",

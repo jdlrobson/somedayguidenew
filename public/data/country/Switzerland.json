@@ -2,14 +2,12 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.instagram.com/p/n5lwdas2Gd",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Lucerne or Luzern is a city in central Switzerland, in the German-speaking portion of the country. Lucerne is the capital of the canton of Lucerne and part of the district of the same name. With a population of approximately 82,000 people, Lucerne is the most populous city in Central Switzerland, and a nexus of economics, transport, culture, and media in the region. The city's urban area consists of 19 municipalities and towns with an overall population of about 220,000 people.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2009_08_24_06262_Lucerne.jpg/320px-2009_08_24_06262_Lucerne.jpg",
 			"source": "",
@@ -19,7 +17,6 @@
 			"url": "https://en.wikipedia.org/wiki/Lucerne"
 		},
 		{
-			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Splügen is a former municipality in the Viamala Region in the Swiss canton of Graubünden. On 1 January 2006 Splügen incorporated its neighbouring municipality of Medels im Rheinwald. On 1 January 2019 the former municipalities of Hinterrhein, Nufenen and Splügen merged to form the new municipality of Rheinwald.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spl%C3%BCgen01.JPG/320px-Spl%C3%BCgen01.JPG",
 			"source": "",
@@ -29,7 +26,6 @@
 			"url": "https://en.wikipedia.org/wiki/Spl%C3%BCgen"
 		},
 		{
-			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Engelberg is a village resort and a municipality in the canton of Obwalden in Switzerland. Alongside the central village of Engelberg, the municipality encompasses additional settlements, including Grafenort, Oberberg and Schwand.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Engelberg.jpg/320px-Engelberg.jpg",
 			"source": "",
@@ -39,7 +35,6 @@
 			"url": "https://en.wikipedia.org/wiki/Engelberg"
 		},
 		{
-			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> A Giger Bar is a bar themed and modelled by the Swiss artist H. R. Giger. There are two Giger Bars: the first, the H.R. Giger Bar in Chur, Switzerland, which opened in 1992, and the second is The Museum HR Giger Bar, located in Château St. Germain, Gruyères, Switzerland, which opened on April 12, 2003.",
 			"src": "https://upload.wikimedia.org/wikipedia/en/3/32/GigerBarLogo.png",
 			"source": "",

@@ -3,7 +3,7 @@ Banlung
 Battambang
 Kampot
 Koh Kong
-Kompong Thom
+Kampong Thom city
 Kratie
 Siem Reap
 Sihanoukville
@@ -11,7 +11,6 @@ Angkor Archaeological Park
 Bokor National Park
 Kampong Cham
 Kep
-Krek
 Poipet
 Tonle Sap Lake
 Laos

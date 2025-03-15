@@ -2,35 +2,30 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.instagram.com/p/CtHK_Idrj9H/?img_index=1",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "2",
 			"src": "https://www.instagram.com/p/Cs3W8HQIBFe/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "3",
 			"src": "https://www.instagram.com/jdlrobson/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "4",
 			"src": "https://www.instagram.com/p/Csuxkm-I_gk/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "5",
 			"text": "Who knew?!",
 			"src": "https://inaturalist-open-data.s3.amazonaws.com/photos/284923455/large.jpeg",
 			"source": "",
@@ -40,7 +35,6 @@
 			"url": "https://www.inaturalist.org/observations/164660608"
 		},
 		{
-			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Veliko Tarnovo is a city in north central Bulgaria and the administrative centre of Veliko Tarnovo Province. It is the historical and cultural capital of Bulgaria.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Collage_of_views_of_VT_G.png/320px-Collage_of_views_of_VT_G.png",
 			"source": "",
@@ -50,7 +44,6 @@
 			"url": "https://en.wikipedia.org/wiki/Veliko_Tarnovo"
 		},
 		{
-			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> Sinemorets is a village and seaside resort on the Black Sea coast of Bulgaria.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Veleka-sinemorets-mouth-dinev.jpg/320px-Veleka-sinemorets-mouth-dinev.jpg",
 			"source": "",
@@ -60,7 +53,6 @@
 			"url": "https://en.wikipedia.org/wiki/Sinemorets"
 		},
 		{
-			"id": "8",
 			"text": "<small>[from en.wikipedia.org]:</small> Aladzha Monastery is a medieval Orthodox Christian cave monastery complex in northeastern Bulgaria, 17 km north of central Varna and 3 km west of Golden Sands beach resort, in a protected forest area adjacent to the Golden Sands Nature Park.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Monasterio_de_Aladzha%2C_provincia_de_Varna%2C_Bulgaria%2C_2016-05-27%2C_DD_121.jpg/320px-Monasterio_de_Aladzha%2C_provincia_de_Varna%2C_Bulgaria%2C_2016-05-27%2C_DD_121.jpg",
 			"source": "",

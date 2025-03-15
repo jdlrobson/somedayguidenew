@@ -2,14 +2,12 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.youtube.com/embed/hHZVMgHu4nw",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
-			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Pico Cão Grande is a landmark needle-shaped volcanic plug peak in São Tomé and Príncipe, in the Caué District of São Tomé Island in Parque Natural Obô de São Tomé. Its summit is 663 m (2,175 ft) above sea level, and it rises about 370 m (1,210 ft) over the surrounding terrain. The volcanic plug was formed by magma solidifying in the vent of an active volcano. The nearest village is Vila Clotilde, 3 km to the east. The district seat São João dos Angolares is 9 km to the east.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pico_C%C3%A3o_Grande.jpg/320px-Pico_C%C3%A3o_Grande.jpg",
 			"source": "",

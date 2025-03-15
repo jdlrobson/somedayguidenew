@@ -2,21 +2,18 @@
 	"note": "<p>Hallstatt in Austria is something out of a dream but it gets overwhelmed (ruined?) by day trippers. Don&#39;t do that. Stay the night and explore the neighbouring mountains and give this beautiful place the time it deserves.\nSomeday we will go on more wonderful hikes in Austria into alpine forests.</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"src": "https://www.instagram.com/p/BUPa2gOg77w",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "2",
 			"src": "https://www.instagram.com/p/BUNVd3tg_Fh",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "3",
 			"src": "https://farm5.static.flickr.com/4120/4763454922_ed92c97094.jpg",
 			"source": "",
 			"type": "url",
@@ -25,7 +22,6 @@
 			"url": "https://www.flickr.com/photos/jdlrobson/4763454922/"
 		},
 		{
-			"id": "4",
 			"src": "https://farm5.static.flickr.com/4140/4763456400_70c73659a8.jpg",
 			"source": "",
 			"type": "url",
@@ -34,7 +30,6 @@
 			"url": "https://www.flickr.com/photos/jdlrobson/4763456400"
 		},
 		{
-			"id": "5",
 			"text": "I lost my wallet in Hallstatt. When retracing my steps, the nice lady in the supermarket told me a wallet had been handed in to City Hall by a young child. The lady took me there and all 100+ euros, credit cards and driving license were still in there.",
 			"src": "",
 			"source": "",
@@ -44,14 +39,12 @@
 			"url": "https://en.wikipedia.org/wiki/Hallstatt"
 		},
 		{
-			"id": "6",
 			"src": "https://www.instagram.com/p/BUPa73_giCc",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
-			"id": "7",
 			"src": "Dachstein Giant Ice Cave",
 			"source": "",
 			"type": "url",

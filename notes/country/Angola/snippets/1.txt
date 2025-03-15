@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG/320px-Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG
+Kalandula Falls
+https://en.wikipedia.org/wiki/Kalandula_Falls
+<small>[from en.wikipedia.org]:</small> Kalandula Falls or Calandula Falls are waterfalls in the municipality of Calandula, Malanje Province, Angola. On the Lucala River, the falls are 105 meters high and 400 meters wide. They are one of the largest waterfalls by volume in Africa. The distance from Luanda is 360 km.
+<location lat="-9.07583333" lon="16.00333333"></location>

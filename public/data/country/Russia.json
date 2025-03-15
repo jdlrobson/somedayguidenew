@@ -2,7 +2,6 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
-			"id": "1",
 			"text": "Hi folks! It seems a bit strange looking at my Kurils photos from quite a while back (summer) and editing them, especially when they don’t even relate directly to the Kurils, even though they were taken on our Kurils-2019 adventure! But we’d gotten to the end of the Kurils, so there were no more of <small>[image from eugene.kaspersky.com]</small>",
 			"src": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/67/2019/10/23120144/ostrov-u-tyulenikov-v-okeane-est-2.jpg",
 			"source": "",
@@ -12,7 +11,6 @@
 			"url": "https://eugene.kaspersky.com/2019/11/11/tyuleny-the-resort-island-for-seals/"
 		},
 		{
-			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Moscow Metro is a metro system serving the Russian capital of Moscow as well as the neighbouring cities of Krasnogorsk, Reutov, Lyubertsy and Kotelniki in Moscow Oblast. Opened in 1935 with one 11-kilometre (6.8 mi) line and 13 stations, it was the first underground railway system in the Soviet Union.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Metro_MSK_Collage_2016.png/362px-Metro_MSK_Collage_2016.png",
 			"source": "",
@@ -22,7 +20,6 @@
 			"url": "https://en.wikipedia.org/wiki/Moscow_Metro"
 		},
 		{
-			"id": "3",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/4A7A3069_Moika%2C_Saint_Petersburg_%2835468573803%29.jpg/640px-4A7A3069_Moika%2C_Saint_Petersburg_%2835468573803%29.jpg",
 			"source": "",
 			"type": "url",
@@ -31,7 +28,6 @@
 			"url": "https://en.wikipedia.org/wiki/Saint_Petersburg"
 		},
 		{
-			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Franz Josef Land is a Russian archipelago in the Arctic Ocean. It is inhabited only by military personnel. It constitutes the northernmost part of Arkhangelsk Oblast and consists of 192 islands, which cover an area of 16,134 square kilometers (6,229 sq mi), stretching 375 kilometers (233 mi) from east to west and 234 kilometers (145 mi) from north to south. The islands are categorized in three groups separated by the British Channel and the Austrian Strait. The central group is further divided into a northern and southern section by the Markham Sound. The largest island is Prince George Land, which measures 2,741 square kilometers (1,058 sq mi), followed by Wilczek Land, Graham Bell Island and Alexandra Land.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D1%8D%D0%BB%D0%BB.jpg/640px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D1%8D%D0%BB%D0%BB.jpg",
 			"source": "",
@@ -41,7 +37,6 @@
 			"url": "https://en.wikipedia.org/wiki/Franz_Josef_Land"
 		},
 		{
-			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Novy God or Noviy God is a New Year celebration observed in Russia, in post-Soviet states, and globally by the diasporas of post-Soviet states.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Moscow%27s_christmas_markets_December_2013_15.jpg/320px-Moscow%27s_christmas_markets_December_2013_15.jpg",
 			"source": "",
@@ -51,7 +46,6 @@
 			"url": "https://en.wikipedia.org/wiki/Novy_God"
 		},
 		{
-			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> The Cathedral of Vasily the Blessed, known in English as Saint Basil's Cathedral, is an Orthodox church in Red Square of Moscow, and is one of the most popular cultural symbols of Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat, or Pokrovsky Cathedral. It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. Its completion, with its colours, was made in 1683. It was the city's tallest building until the completion of the Ivan the Great Bell Tower in 1600.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/320px-Saint_Basil%27s_Cathedral_in_Moscow.jpg",
 			"source": "",
@@ -61,7 +55,6 @@
 			"url": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral"
 		},
 		{
-			"id": "7",
 			"text": "My journey across Russia on the Trans-Siberian Railway. <small>[image from Derek Low]</small>",
 			"src": "https://dereklow.co/content/images/2018/09/32-1.jpg",
 			"source": "",
