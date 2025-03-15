@@ -43,8 +43,8 @@ onUpdated(() => {
 const mapReady = ref( false );
 
 let hero = ref( '' );
-const makeHero = () => {
-    const count = snippets.value.length || '■';
+const makeHero = ( isLoaded ) => {
+    const count = isLoaded ? snippets.value.length : '■';
     hero.value = `${ count } hand curated things to see in ${countryName}`;
 };
 makeHero();
@@ -65,7 +65,7 @@ onMounted(() => {
             })
             mapReady.value = true;
             snippets.value = country.snippets;
-            makeHero();
+            makeHero( true );
             loadInstagram();
         })
 })
