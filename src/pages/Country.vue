@@ -30,7 +30,7 @@ const editUrl = `https://github.com/jdlrobson/somedayguidenew/tree/master/notes/
 const addSnippetUrl = `https://github.com/jdlrobson/somedayguidenew/new/main/notes/country/${countryName}/snippets`;
 
 const places = ref( {} );
-const snippets = ref( {} );
+const snippets = ref( [] );
 const note = ref( '' );
 
 const destinationCoordinates = ref( [] );
@@ -41,6 +41,14 @@ onUpdated(() => {
     loadInstagram();
 } );
 const mapReady = ref( false );
+
+let hero = ref( '' );
+const makeHero = () => {
+    const count = snippets.value.length || '■';
+    hero.value = `${ count } hand curated things to see in ${countryName}`;
+};
+makeHero();
+
 onMounted(() => {
     fetch(`/data/country/${countryName}.json`).then((r) => r.json())
         .then(( country ) => {
@@ -57,6 +65,7 @@ onMounted(() => {
             })
             mapReady.value = true;
             snippets.value = country.snippets;
+            makeHero();
             loadInstagram();
         })
 })
@@ -66,7 +75,8 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
 </script>
 <template>
     <div class="page-country">
-        <Header :title="countryName" :center="center" :zoom="zoom"></Header>
+        <Header :title="countryName" :center="center" :zoom="zoom"
+            :hero="hero"></Header>
         <article>
             <note>
                 <p>{{ country.description }}</p>

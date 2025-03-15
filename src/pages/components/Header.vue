@@ -4,6 +4,7 @@ import { ref } from 'vue'
 import Map from './Map.vue'
 const props = defineProps({
   title: String,
+  hero: String,
   zoom: Number,
   center: Array
 });
@@ -29,6 +30,7 @@ const center = props.center || [ 0, 0 ];
     <img class="hero" alt="someday" src="./someday-map.png">
     <p>we will see</p>
     <h1>{{ title }}</h1>
+    <span>{{  hero }}</span>
     <img @click="toggleMap" class="mapBtn" src="./mapicon.png">
     </div>
     <slot />
