@@ -108,6 +108,13 @@ const changeSort = ( ev ) => {
     sortBy(ev.target.value);
 };
 applySort();
+if ( location.hash === '#search' ) {
+    setTimeout( () => {
+        const search = document.querySelector('#search');
+        search.scrollIntoView();
+        search.focus();
+    }, 300 );
+}
 </script>
 <template>
     <div class="page-home">

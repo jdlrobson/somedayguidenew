@@ -80,6 +80,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
         <article>
             <note>
                 <p>{{ country.description }}</p>
+                <RouterLink to="/#search">find another country</RouterLink>
             </note>
             <StoryBoard>
                 <note>
