@@ -107,7 +107,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                         </ImageCircle>
                     </div>
                     <p v-if="country.airports.length">
-                        Airports:
+                        International Airports:
                         <span v-for="a in country.airports">
                             <a target="_blank"
                             :href="`https://www.flightaware.com/live/airport/${ a }`">{{ a }}</a>&nbsp;

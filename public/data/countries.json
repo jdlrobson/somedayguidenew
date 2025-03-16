@@ -7,7 +7,10 @@
 		"title": "Afghanistan",
 		"description": "Afghanistan is a landlocked and mountainous country in the heart of Asia, bordered by Pakistan to the south and east, Iran to the west, Turkmenistan, Uzbekistan and Tajikistan to the north. There is a short border with China to the far northeast, but in extremely inaccessible terrain. The country has great many valleys.",
 		"airports": [
-			"KBL"
+			"KBL",
+			"HEA",
+			"KDH",
+			"MZR"
 		],
 		"links": [],
 		"destinations": [
@@ -56,7 +59,8 @@
 		"title": "Albania",
 		"description": "   \nAlbania (Albanian: Shqipëria) is a country in the Balkans with nearly 3 million inhabitants. The country has been part of Ancient Greece, the Roman Empire and the Ottoman Empire until its first declaration of independence in 1912, and is one of few traditionally Muslim nations in Europe.",
 		"airports": [
-			"TIA"
+			"TIA",
+			"KFZ"
 		],
 		"links": [
 			{
@@ -115,7 +119,17 @@
 		"title": "Algeria",
 		"description": "   \nAlgeria (Arabic: الجزائر) is a country in North Africa. It has a Mediterranean Sea coastline in the north. It is surrounded by Morocco to the northwest, Tunisia to the northeast, Libya to the east, Niger to the southeast, Mali to the southwest, Mauritania and Western Sahara to the west. After the secession of South Sudan from Sudan in 2011, Algeria became the largest country in Africa. It is also the most developed country in continental Africa according to the United Nations' Human Development Index.",
 		"airports": [
-			"ALG"
+			"ALG",
+			"AAE",
+			"BLJ",
+			"BJA",
+			"CFK",
+			"CZL",
+			"GJL",
+			"ORN",
+			"BSK",
+			"QSF",
+			"TLM"
 		],
 		"links": [
 			{
@@ -222,7 +236,10 @@
 		"lon": 17.35,
 		"title": "Angola",
 		"description": "Angola, a country in Central Africa, is bordered by Namibia in the south, Zambia in the east, and the Republic of Congo and the Democratic Republic of the Congo in the north. This country is rich in natural resources with large reserves of oil and diamonds, hydroelectric potential, and rich agricultural land. Despite this, Angola remains a very poor country, having been ravaged by a bloody civil war from 1975 to 2002.",
-		"airports": [],
+		"airports": [
+			"LAD",
+			"SDD"
+		],
 		"links": [
 			{
 				"href": "http://www.mail-archive.com/ugandanet@kym.net/msg04791.html",
@@ -312,7 +329,30 @@
 		"description": "Argentina, officially the Argentine Republic (Spanish: República Argentina) is a large country in the southern part of South America, bordering Bolivia, Brazil, and Paraguay to the north, Uruguay to the north-east and Chile to the west. It offers a great diversity of climates and landscapes from jungles in the north, great grass plains in the centre and frozen mountains in the south.",
 		"airports": [
 			"EZE",
-			"AEP"
+			"BRC",
+			"CRD",
+			"COR",
+			"CNQ",
+			"FTE",
+			"EPA",
+			"EQS",
+			"FMA",
+			"MDQ",
+			"MDZ",
+			"NQN",
+			"PSS",
+			"IGR",
+			"RES",
+			"RGL",
+			"RGA",
+			"ROS",
+			"SLA",
+			"TUC",
+			"JUJ",
+			"RLO",
+			"RHD",
+			"REL",
+			"USH"
 		],
 		"links": [
 			{
@@ -557,11 +597,12 @@
 		"title": "Austria",
 		"description": "Austria (German: Österreich, literally \"the Eastern Realm\" or \"Eastern Empire\") is a landlocked alpine German-speaking country in Central Europe bordering Switzerland and Liechtenstein to the west, Germany and the Czech Republic to the north, Slovakia and Hungary to the east and Slovenia and Italy to the south. Austria, along with neighboring Switzerland, is the winter sports center of Europe. However, it is just as popular for summer tourists who visit its historic cities and villages and hike in the magnificent scenery of the Alps.",
 		"airports": [
-			"VIE",
-			"MUC",
-			"BTS",
-			"FDH",
-			"ZRH"
+			"GRZ",
+			"KLU",
+			"INN",
+			"LNZ",
+			"SZG",
+			"VIE"
 		],
 		"links": [
 			{
@@ -634,9 +675,11 @@
 		"description": "Azerbaijan (Azerbaijani: Azərbaycan) is a former Soviet republic in the Caucasus and variously considered part of Europe or Asia. The country lies on the Caspian Sea between Russia and Iran and is bordered to the west by Georgia and Armenia. The autonomous exclave of Nakhchivan lies between Armenia and Iran with a short border with Turkey. It is nicknamed the Land of Fire.",
 		"airports": [
 			"GYD",
-			"NAJ",
 			"KVD",
-			"LLK"
+			"NAJ",
+			"GBB",
+			"LLK",
+			"ZTU"
 		],
 		"links": [
 			{
@@ -745,8 +788,7 @@
 		"title": "Bahrain",
 		"description": "The Kingdom of Bahrain (Arabic: البحرين‎ , al-Baḥrayn) is a Middle Eastern archipelago in the Persian Gulf, tucked into a pocket of the sea flanked by Saudi Arabia and Qatar. It displays relatively social liberalism compared with more conservative neighboring countries, where Islamic law is applied in a much stricter way. Case in point: alcohol is legal here. Although Bahrain has a heavily petroleum-based economy, its political, social, and cultural peculiarities helped it develop a fairly cosmopolitan middle class and a politically conscious working class.",
 		"airports": [
-			"BAH",
-			"SHJ"
+			"BAH"
 		],
 		"links": [
 			{
@@ -796,9 +838,14 @@
 		"title": "Bangladesh",
 		"description": "   \nThe People's Republic of Bangladesh is a nation in South Asia, on the edge of the Indian subcontinent. It is nearly completely surrounded by India, having a small land border with Myanmar in the southeast and a coastline facing the Bay of Bengal in the south. Other than city-states, Bangladesh has the world's highest population density, with 163 million inhabitants (more people than Russia) in a land area smaller than the American state of Florida.",
 		"airports": [
-			"DAC",
 			"CGP",
-			"ZYL"
+			"DAC",
+			"ZYL",
+			"BZL",
+			"CXB",
+			"KLN",
+			"RJH",
+			"SPD"
 		],
 		"links": [
 			{
@@ -880,7 +927,7 @@
 		"title": "Barbados",
 		"description": "   \nBarbados is an island in the Caribbean region, but which lies out in the Atlantic many miles east of the Caribbean Sea. Its nearest neighbours, some 100 miles west, are Saint Vincent and Saint Lucia, part of the arc of the Lesser Antilles that separate Atlantic and Caribbean. Those islands look like and are a partly-submerged chain of mountains. By contrast Barbados has formed from deposits of coral and has a gentler landscape. It's fertile, and is sometimes called \"Bimshire\" or the \"Little Britain\" of the Caribbean because of its long and uniquely unbroken history of British colonisation and settlement. It became independent in 1966 and tourism is nowadays its main industry.",
 		"airports": [
-			"BGI "
+			"BGI"
 		],
 		"links": [],
 		"destinations": [
@@ -913,6 +960,8 @@
 		"title": "Belarus",
 		"description": "   \nBelarus (Belarusian: Белару́сь) is a country in eastern Europe with 9.5 million inhabitants. It's bordered to the west by Poland, to the south by Ukraine, to the north by Lithuania and Latvia, and to the east by Russia. ",
 		"airports": [
+			"GNA",
+			"GME",
 			"MSQ"
 		],
 		"links": [
@@ -1003,10 +1052,11 @@
 		"title": "Belgium",
 		"description": "A low-lying country in the Benelux, Belgium (Dutch: België, French: Belgique, German: Belgien) sits at the crossroads of Western Europe. It marries the historical landmarks for which the continent is famous with spectacular modern architecture and rural idylls. Its capital, Brussels, is home to the headquarters of the European Union.",
 		"airports": [
+			"ANR",
 			"BRU",
 			"CRL",
-			"ANR",
-			"LGG"
+			"LGG",
+			"OST"
 		],
 		"links": [
 			{
@@ -1177,7 +1227,9 @@
 		"lon": 2.2,
 		"title": "Benin",
 		"description": "   \nBenin is a country in West Africa. It borders Togo to the west, Nigeria to the east and Burkina Faso and Niger to the north.",
-		"airports": [],
+		"airports": [
+			"COO"
+		],
 		"links": [],
 		"destinations": [
 			"Porto-Novo",
@@ -1220,8 +1272,7 @@
 		"title": "Bhutan",
 		"description": "Bhutan (officially The Kingdom of Bhutan) (Dzongkha: འབྲུག་ཡུལ་) is a small country in the Himalayas between Tibet and India.\nBesides the stunning natural scenery, the enduring image of the country for most visitors is the strong sense of culture and tradition that binds the kingdom and clearly distinguishes it from its larger neighbors. Bhutan is the only Vajrayana Buddhist nation in the world, and the profound teachings of this tradition remain well preserved and exert a strong influence in all aspects of life.  Due to its pristine environment and harmonious society, the tiny Kingdom of Bhutan has been called \"The Last Shangrila.\"",
 		"airports": [
-			"PBH",
-			"IXB"
+			"PBH"
 		],
 		"links": [
 			{
@@ -1275,7 +1326,11 @@
 		"lon": -65,
 		"title": "Bolivia",
 		"description": "Bolivia is a beautiful, geographically rich in diversity, and multiethnic country in the heart of South America. It is surrounded by Brazil to the northeast, Peru to the northwest, Paraguay to the southeast, Argentina and Chile to the south. It shares with Peru control of Lake Titicaca (Lago Titicaca), the world's highest navigable lake (elevation 3,821 m).",
-		"airports": [],
+		"airports": [
+			"LPB",
+			"VVI",
+			"CBB"
+		],
 		"links": [
 			{
 				"href": "http://www.fca.com.bo/servicioPasajero.php",
@@ -1339,10 +1394,10 @@
 		"title": "Bosnia and Herzegovina",
 		"description": "Bosnia and Herzegovina (Bosnian: Bosna i Hercegovina, Босна и Херцеговина, usually shortened to BiH) is a European country located on the Balkan Peninsula. It used to be part of Yugoslavia but gained independence in 1992. It borders Croatia to the north, west and southwest, Serbia to the east and Montenegro to the southeast. Mostly mountainous, it has access to a tiny portion of the Adriatic Sea coastline in the south.",
 		"airports": [
+			"BNX",
 			"SJJ",
-			"OMO",
 			"TZL",
-			"BNX"
+			"OMO"
 		],
 		"links": [
 			{
@@ -1390,7 +1445,12 @@
 		"lon": 23.7,
 		"title": "Botswana",
 		"description": "   \nBotswana is a land-locked country located in Southern Africa and bordering on Namibia, South Africa, Zimbabwe and Zambia. Formerly the British protectorate of Bechuanaland, Botswana adopted its new name upon independence in 1966. Its economy, one of the most robust on the continent, is dominated by diamond mining and tourism.",
-		"airports": [],
+		"airports": [
+			"GBE",
+			"MUB",
+			"FRW",
+			"BBK"
+		],
 		"links": [
 			{
 				"href": "http://www.seabelo.bw",
@@ -1445,16 +1505,35 @@
 		"title": "Brazil",
 		"description": "Brazil (Portuguese: Brasil) is the largest country in South America and the fifth largest in the world. Brazil is an incredibly diverse country, in people, culture, and landscapes—from the famous summer carnaval in Rio de Janeiro, Salvador, Olinda, and Recife to the wild power of nature in the Amazon and Iguaçu Falls. You'll find bustling cities, laid-back beaches, and traditional lifestyles, often right next to each other. Brazilian culture, which varies substantially across the country, comes from an international mix of European colonizers, African and Asian communities (notably in Salvador and São Paulo, respectively), and indigenous influence throughout the country.",
 		"airports": [
-			"GRU",
-			"GIG",
-			"NAT",
-			"REC",
-			"SSA",
-			"FOR",
-			"BSB",
+			"AJU",
+			"BEL",
 			"CNF",
+			"BVB",
+			"BSB",
 			"VCP",
-			"POA"
+			"CGR",
+			"CGB",
+			"CWB",
+			"FLN",
+			"FOR",
+			"IGU",
+			"GYN",
+			"JPA",
+			"MCZ",
+			"MAO",
+			"NAT",
+			"PNZ",
+			"POA",
+			"PVH",
+			"REC",
+			"RBR",
+			"GIG",
+			"SSA",
+			"SLZ",
+			"CGH",
+			"THE",
+			"UDI",
+			"VIX"
 		],
 		"links": [
 			{
@@ -1541,7 +1620,7 @@
 		"title": "Brunei",
 		"description": "   \nThe Sultanate of Brunei (Full name: Negara Brunei Darussalam, with Darussalam meaning \"Abode of Peace\")  is a small but — thanks to natural gas and petroleum resources — very rich country in Southeast Asia. It is surrounded by Malaysia and has two parts physically separated by Malaysia, almost being an enclave. Strategically positioned on the South China Sea, close to vital sea lanes linking the Indian and Pacific Oceans, it is a country of tranquil mosques, pristine jungle, and friendly inhabitants.undefined",
 		"airports": [
-			"BWN "
+			"BWN"
 		],
 		"links": [
 			{
@@ -1586,10 +1665,10 @@
 		"title": "Bulgaria",
 		"description": "Bulgaria, officially the Republic of Bulgaria (Bulgarian: Република България), is a country in the Balkans, west of the Black Sea. It borders Romania to the north, Serbia to the northwest, North Macedonia to the southwest, Greece to the south, and Turkey to the southeast.",
 		"airports": [
-			"SOF",
-			"VAR",
 			"BOJ",
-			"PDV"
+			"PDV",
+			"SOF",
+			"VAR"
 		],
 		"links": [
 			{
@@ -1662,7 +1741,10 @@
 		"lon": -1.6667,
 		"title": "Burkina Faso",
 		"description": "Burkina Faso, formerly Upper Volta, is a landlocked country in West Africa. It is surrounded by six countries: Mali to the north, Niger to the east, Benin to the south east, Togo and Ghana to the south, and Côte d'Ivoire to the south west.",
-		"airports": [],
+		"airports": [
+			"BOY",
+			"OUA"
+		],
 		"links": [],
 		"destinations": [
 			"Ouagadougou",
@@ -1752,7 +1834,7 @@
 		"airports": [
 			"PNH",
 			"REP",
-			"DMK"
+			"KOS"
 		],
 		"links": [],
 		"destinations": [
@@ -1858,9 +1940,30 @@
 		"title": "Canada",
 		"description": "   \nCanada is the world's second largest country by area, only behind Russia. Known as the Great White North, Canada is renowned for its vast, untouched landscape, and its multicultural heritage. While much of Canada consists of forests, it has more lakes than any other country, the Rocky Mountains, the Prairies, and a sparsely populated archipelago extending into the Arctic.",
 		"airports": [
+			"YXX",
+			"YYC",
+			"YEG",
+			"YFC",
+			"YQX",
+			"YHZ",
+			"YHM",
+			"YKF",
+			"YXU",
+			"YQM",
+			"YUL",
+			"YOW",
+			"YQB",
+			"YQR",
+			"YSJ",
+			"YYT",
+			"YQT",
 			"YYZ",
+			"YTZ",
 			"YVR",
-			"YUL"
+			"YYJ",
+			"YXY",
+			"YQG",
+			"YWG"
 		],
 		"links": [
 			{
@@ -1993,7 +2096,12 @@
 		"lon": -24.083333,
 		"title": "Cape Verde",
 		"description": "Cape Verde (Portuguese: Cabo Verde, Kriolu: Kabu Verdi) is a country in West Africa. It comprises a group of islands of the Atlantic Ocean, west of Senegal. It is part of the region of islands collectively known as Macaronesia. The government declared in 2013 that its official name would not be translated into foreign languages and the country is now the Republic of Cabo Verde or simply Cabo Verde, although only time will tell if this change will enter common usage.",
-		"airports": [],
+		"airports": [
+			"BVC",
+			"SID",
+			"RAI",
+			"VXE"
+		],
 		"links": [],
 		"destinations": [
 			"Praia",
@@ -2071,7 +2179,9 @@
 		"lon": 19.4,
 		"title": "Chad",
 		"description": "Chad (Arabic: تشاد, French: Tchad) is one of the poorest and most corruptly mis-governed countries in the world, with most of its inhabitants living in poverty as subsistence herders and farmers.",
-		"airports": [],
+		"airports": [
+			"NDJ"
+		],
 		"links": [],
 		"destinations": [
 			"N'Djamena",
@@ -2109,6 +2219,10 @@
 		"title": "Chile",
 		"description": "   \nChile narrowly stretches along the southern half of the west coast of South America, between the Andes and the Pacific Ocean. The bordering countries are Peru in the north and Argentina and Bolivia to the east. Chile has over 5,000 km (3,100 miles) of coast on the South Pacific Ocean.\nIt is an amazing country, from the dry Atacama Desert to the cold of Chilean Patagonia.",
 		"airports": [
+			"ANF",
+			"CCP",
+			"PMC",
+			"PUQ",
 			"SCL"
 		],
 		"links": [
@@ -2181,7 +2295,93 @@
 		"lon": 103,
 		"title": "China",
 		"description": "China (中国; Zhōngguó), officially the People's Republic of China (中华人民共和国 Zhōnghuá Rénmín Gònghéguó), is a vast country in East Asia. With 1.4 billion inhabitants, it is home to nearly a fifth of the world's population and is the most populous country in the world. It has a land area of 9.6 million km2, about the same as the United States.",
-		"airports": [],
+		"airports": [
+			"BAV",
+			"BHY",
+			"PEK",
+			"CGQ",
+			"CSX",
+			"CZX",
+			"CTU",
+			"CKG",
+			"DLC",
+			"DDG",
+			"DAT",
+			"DNH",
+			"ENH",
+			"FOC",
+			"KOW",
+			"CAN",
+			"KWL",
+			"KWE",
+			"HAK",
+			"HGH",
+			"HRB",
+			"HFE",
+			"HEK",
+			"HET",
+			"HIA",
+			"TXN",
+			"HLD",
+			"JMU",
+			"SWA",
+			"TNA",
+			"KMG",
+			"LHW",
+			"LXA",
+			"LYG",
+			"LJG",
+			"LYI",
+			"LYA",
+			"LUM",
+			"NZH",
+			"MXZ",
+			"MDG",
+			"KHN",
+			"NKG",
+			"NNG",
+			"NTG",
+			"NGB",
+			"DSN",
+			"TAO",
+			"BPE",
+			"NDG",
+			"JJN",
+			"SYX",
+			"SHA",
+			"SHE",
+			"SZX",
+			"SJW",
+			"TYN",
+			"TSN",
+			"UCB",
+			"URC",
+			"WXN",
+			"WEH",
+			"WNZ",
+			"WUH",
+			"WUX",
+			"WUS",
+			"XMN",
+			"XIY",
+			"XNN",
+			"WUT",
+			"JHG",
+			"XUZ",
+			"YNZ",
+			"YTY",
+			"YNJ",
+			"YNT",
+			"YIH",
+			"INC",
+			"YIW",
+			"YCU",
+			"DYG",
+			"ZHA",
+			"CGO",
+			"ZUH",
+			"ZYI"
+		],
 		"links": [
 			{
 				"href": "http://news.huochepiao.com/2017-6/2017621404433.htm",
@@ -2295,8 +2495,38 @@
 		"title": "Colombia",
 		"description": "Colombia occupies the northwest corner of South America. It has an area twice that of France and almost twice Texas, with long coasts on the Caribbean and the Pacific oceans, mountainous regions, and  Amazon jungle areas inland. The ethnic groups and cultures are diverse. The country has something to offer almost any traveller.",
 		"airports": [
+			"AXM",
+			"BAQ",
+			"BOG",
+			"BGA",
+			"BUN",
+			"CLO",
+			"CTG",
+			"CUC",
+			"IBE",
+			"IPI",
+			"FLA",
+			"LET",
+			"MCJ",
+			"MZL",
 			"MDE",
-			"EOH"
+			"MVP",
+			"MTR",
+			"NVA",
+			"PSO",
+			"PEI",
+			"PPN",
+			"PVA",
+			"UIB",
+			"RCH",
+			"ADZ",
+			"TLU",
+			"TCO",
+			"SMR",
+			"CZU",
+			"VUP",
+			"VVC",
+			"EYP"
 		],
 		"links": [
 			{
@@ -2392,7 +2622,9 @@
 		"lon": 43.86,
 		"title": "Comoros",
 		"description": "   \nThe Comoros (Arabic: جزر القمر Juzur al-Qumur) are an island nation off the coast of East Africa, in the Indian Ocean between northern Mozambique and northern Madagascar.",
-		"airports": [],
+		"airports": [
+			"HAH"
+		],
 		"links": [],
 		"destinations": [
 			"Grand Comore",
@@ -2436,10 +2668,10 @@
 		"title": "Democratic Republic of the Congo",
 		"description": "The Democratic Republic of the Congo (French: République Démocratique du Congo (or RDC); often shortened to DRC or D.R. Congo) is the largest and most populous country in Central Africa. It straddles the Equator and is surrounded by Angola to the southwest; Angola's Cabinda exclave and the Republic of the Congo to the northwest; the Central African Republic to the north; South Sudan to the northeast; Uganda, Rwanda, Burundi, and Tanzania in the east from north to south; and Zambia to the southeast.",
 		"airports": [
-			"FIH",
-			"FBM",
 			"GOM",
-			"FKI"
+			"FIH",
+			"FKI",
+			"FBM"
 		],
 		"links": [],
 		"destinations": [
@@ -2493,7 +2725,8 @@
 		"title": "Republic of the Congo",
 		"description": "       \nThe Republic of the Congo is in Central Africa. The country is also known as Congo-Brazzaville to distinguish it from its giant eastern neighbour, the Democratic Republic of the Congo (Congo-Kinshasa). It is bordered by Gabon, Cameroon, the Central African Republic, the Democratic Republic of the Congo and Angola (the exclave of Cabinda).",
 		"airports": [
-			"BZV"
+			"BZV",
+			"PNR"
 		],
 		"links": [],
 		"destinations": [
@@ -2582,9 +2815,8 @@
 		"title": "Costa Rica",
 		"description": "   \nCosta Rica is a small country in Central America bordered by Nicaragua to the north, Panama to the south, the Pacific Ocean to the west, and the Caribbean Sea to the east.",
 		"airports": [
-			"SJO",
 			"LIR",
-			"SYQ"
+			"SJO"
 		],
 		"links": [
 			{
@@ -2634,7 +2866,9 @@
 		"lon": -6,
 		"title": "Côte d'Ivoire",
 		"description": "   \nCôte d'Ivoire (Ivory Coast) is a country in West Africa. It has a southerly facing North Atlantic Ocean coast, and is surrounded by Ghana to the east, Liberia to the west, Guinea to the northwest, Mali to the north, and Burkina Faso to the northeast.",
-		"airports": [],
+		"airports": [
+			"ABJ"
+		],
 		"links": [],
 		"destinations": [
 			"Abidjan",
@@ -2677,7 +2911,9 @@
 		"title": "Croatia",
 		"description": "   \nCroatia (Croatian: Hrvatska) is a Mediterranean country that bridges Central Europe and the Balkans. It is on the eastern side of the Adriatic Sea, across from Italy on the western side. Croatia is bordered by Hungary to the north, Slovenia to the northwest, Serbia to the east, Bosnia and Herzegovina to the southeast, and Montenegro to the south.",
 		"airports": [
+			"BWK",
 			"DBV",
+			"LSZ",
 			"OSI",
 			"PUY",
 			"RJK",
@@ -2864,7 +3100,17 @@
 		"lon": -79.5,
 		"title": "Cuba",
 		"description": "Cuba is the largest Caribbean island, between the Caribbean Sea and the North Atlantic Ocean. It lies 145 km (90 miles) south of Key West, Florida, between the Cayman Islands and the Bahamas, to the west of Haiti, and northwest of Jamaica.",
-		"airports": [],
+		"airports": [
+			"CMW",
+			"CCC",
+			"CYO",
+			"CFG",
+			"HAV",
+			"HOG",
+			"SNU",
+			"SCU",
+			"VRA"
+		],
 		"links": [
 			{
 				"href": "http://www.windward-islands.net/",
@@ -2918,8 +3164,8 @@
 		"description": "   \nCyprus (Greek: Κύπρος, Turkish: Kıbrıs) is an island in the Mediterranean Sea, south of Turkey. After Sicily and Sardinia, Cyprus is the third largest island in the Mediterranean Sea. It is geographically part of Asia.",
 		"airports": [
 			"LCA",
-			"NIC",
-			"PFO"
+			"PFO",
+			"ECN"
 		],
 		"links": [
 			{
@@ -3014,7 +3260,12 @@
 		"title": "Czech Republic",
 		"description": "   \nThe Czech Republic (Czech: Česká republika), or Czechia (Česko) is a landlocked country in Central Europe, bordering Austria to the south, Germany to the west, Poland to the north and Slovakia to the south-east.",
 		"airports": [
-			"PRG"
+			"BRQ",
+			"JCL",
+			"KLV",
+			"OSR",
+			"PRG",
+			"PED"
 		],
 		"links": [
 			{
@@ -3095,11 +3346,10 @@
 		"title": "Denmark",
 		"description": "Denmark (Danish: Danmark) is the smallest of the Nordic countries. Denmark, the Faroe Islands and Greenland are collectively and formally known as The Danish Realm (Det Danske Rige). While all three have their own constituent parliaments, they are also part of The Kingdom of Denmark with Queen Margrethe II as symbolic monarch.",
 		"airports": [
-			"CPH",
-			"BLL",
 			"AAL",
 			"AAR",
-			"MMX"
+			"BLL",
+			"CPH"
 		],
 		"links": [
 			{
@@ -3283,8 +3533,7 @@
 		"title": "Dominica",
 		"description": "Dominica is a Caribbean island country between the Caribbean Sea and the North Atlantic Ocean, about one-half of the way from Puerto Rico to Trinidad and Tobago. It is often known as \"The Nature Island of the Caribbean\" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system.  The most mountainous island of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest thermally active lake in the world.",
 		"airports": [
-			"DOM",
-			"DCF"
+			"DOM"
 		],
 		"links": [
 			{
@@ -3324,19 +3573,13 @@
 		"title": "Dominican Republic",
 		"description": "The Dominican Republic (Spanish: República Dominicana) is a Caribbean country that occupies the eastern five-eighths of the Caribbean island of Hispaniola. The western three-eighths of Hispaniola is occupied by the country of Haiti. To the north lies the North Atlantic Ocean, while the Caribbean Sea lies to the south.",
 		"airports": [
-			"AZS",
-			"EPS",
-			"JBQ",
-			"LRM",
-			"POP",
-			"PUJ",
-			"SDQ",
-			"STI",
-			"COZ",
 			"BRX",
-			"CBJ",
-			"MAD",
-			"CDG"
+			"LRM",
+			"PUJ",
+			"AZS",
+			"POP",
+			"STI",
+			"SDQ"
 		],
 		"links": [
 			{
@@ -3434,7 +3677,15 @@
 		"lon": -78,
 		"title": "Ecuador",
 		"description": "Ecuador is a country in northwestern South America, with a Pacific Ocean coastline, lying on the Equator between Colombia, to the north and east, and Peru, to the south and east.",
-		"airports": [],
+		"airports": [
+			"CUE",
+			"ESM",
+			"GYE",
+			"ETR",
+			"MEC",
+			"UIO",
+			"TUA"
+		],
 		"links": [
 			{
 				"href": "http://trenecuador.com",
@@ -3501,13 +3752,20 @@
 		"title": "Egypt",
 		"description": "The Arab Republic of Egypt (Arabic: مصر, màSr) is in north-eastern Africa. Egypt is perhaps best known as the home of the ancient Egyptian civilization, with its art, temples, hieroglyphs, mummies, and above all, its pyramids. Less well-known is Egypt's Coptic Christian and Muslim heritage, with ancient churches, monasteries and mosques dotted across the landscape. Egypt stimulates the imagination of western tourists like few other countries and is probably one of the most popular tourist destinations world-wide.",
 		"airports": [
-			"CAI",
 			"HBE",
-			"HRG",
-			"SSH",
-			"LXR",
+			"ATZ",
 			"ASW",
-			"RMF"
+			"CAI",
+			"AAC",
+			"DBB",
+			"HRG",
+			"LXR",
+			"RMF",
+			"MUH",
+			"SKV",
+			"SSH",
+			"HMB",
+			"TCP"
 		],
 		"links": [
 			{
@@ -3659,7 +3917,9 @@
 		"lon": 10,
 		"title": "Equatorial Guinea",
 		"description": "   \nEquatorial Guinea is a small country in West Africa, divided into two parts, the mainland and the islands. The mainland is wedged between Cameroon and Gabon. Unique among sub-Saharan countries, it was a Spanish colony, whose only other African colony was Western Sahara. It is one of the largest oil producers in Sub-Sahara, behind Angola and Nigeria.",
-		"airports": [],
+		"airports": [
+			"SSG"
+		],
 		"links": [],
 		"destinations": [
 			"Malabo",
@@ -3698,7 +3958,9 @@
 		"lon": 38.7,
 		"title": "Eritrea",
 		"description": "   \nEritrea is in East Africa, bordering the Red Sea, between Djibouti and Sudan, with a long border with Ethiopia.",
-		"airports": [],
+		"airports": [
+			"ASM"
+		],
 		"links": [],
 		"destinations": [
 			"Asmara",
@@ -3741,7 +4003,9 @@
 		"title": "Estonia",
 		"description": "   \nEstonia (Estonian: Eesti) is the northernmost and smallest of the Baltic states. While the country has charming old towns and heritage back to the Hanseatic League, it is a leader in technology.",
 		"airports": [
-			"TLL"
+			"TLL",
+			"TAY",
+			"EPU"
 		],
 		"links": [
 			{
@@ -3864,7 +4128,9 @@
 		"lon": 31.492,
 		"title": "Eswatini",
 		"description": "   \nEswatini, officially the Kingdom of Eswatini and formerly known as Swaziland, is a country in Southern Africa, landlocked between South Africa in the west and Mozambique in the east. Eswatini's absolute monarchy is one of the oldest in Africa.",
-		"airports": [],
+		"airports": [
+			"SHO"
+		],
 		"links": [
 			{
 				"href": "http://www.goswaziland.co.sz/",
@@ -3909,7 +4175,10 @@
 		"lon": 40,
 		"title": "Ethiopia",
 		"description": "Ethiopia (Amharic: ኢትዮጵያ ʾĪtyōp yā) is the second-most populous country in Africa (after Nigeria) and is Africa's oldest independent country and the only one never to be colonized, save for a short Italian occupation in the 1930s and 1940s.",
-		"airports": [],
+		"airports": [
+			"ADD",
+			"DIR"
+		],
 		"links": [
 			{
 				"href": "http://www.sheratonaddis.com",
@@ -4011,7 +4280,18 @@
 		"title": "Finland",
 		"description": "   \nFinland (Finnish: Suomi, Swedish: Finland) is one of the Nordic countries in northern Europe.",
 		"airports": [
-			"HEL"
+			"MHQ",
+			"HEL",
+			"KTT",
+			"KUO",
+			"KAO",
+			"LPP",
+			"OUL",
+			"RVN",
+			"SVL",
+			"TMP",
+			"TKU",
+			"VAA"
 		],
 		"links": [
 			{
@@ -4145,8 +4425,39 @@
 		"title": "France",
 		"description": "   \nFrance, officially the French Republic (French: République française), is a country with which almost every traveller has a relationship. Many dream of its joie de vivre shown by the countless cafés, picturesque villages and world-famous gastronomy. Some come to follow the trail of France's great philosophers, writers and artists, or to immerse in the beautiful language it gave the world. And others still are drawn to the country's geographical diversity, with its long coastlines, massive mountain ranges and breathtaking farmland vistas.",
 		"airports": [
+			"AJA",
+			"BIA",
+			"BVA",
+			"EGC",
+			"BZR",
+			"BIQ",
+			"BOD",
+			"BES",
+			"CCF",
+			"XCR",
+			"CMF",
+			"DNR",
+			"FSC",
+			"GNB",
+			"LRH",
+			"LIL",
+			"LIG",
+			"LYS",
+			"MRS",
+			"BSL",
+			"NTE",
+			"NCE",
+			"FNI",
 			"CDG",
-			"ORY"
+			"PUF",
+			"PGF",
+			"PIS",
+			"RDZ",
+			"EBU",
+			"SXB",
+			"TLN",
+			"TLS",
+			"TUF"
 		],
 		"links": [
 			{
@@ -4316,7 +4627,9 @@
 		"title": "Gabon",
 		"description": "   \nGabon  is a country in Western Central Africa. It lies on the Equator, on the Atlantic Ocean coast, between the Republic of the Congo to the south and east, Equatorial Guinea to the northwest and Cameroon to the north.",
 		"airports": [
-			"LBV"
+			"MVB",
+			"LBV",
+			"POG"
 		],
 		"links": [],
 		"destinations": [
@@ -4413,7 +4726,12 @@
 		"title": "Georgia",
 		"wikivoyageTitle": "Georgia (country)",
 		"description": "   \nGeorgia (Georgian: საქართველო, Sakartvelo) is a country in the Caucasus. Sandwiched between Russia in the north and Turkey in the south, it sits along the coast of the Black Sea. It is a rather mountainous country and is home to some of Europe’s highest mountain peaks. Despite its modest size, Georgia presents a large mix of other landscapes and micro-climates, ranging from dry wine-growing valleys in the east, to lush Black Sea resorts in the west. In Greek mythology, Georgia was the site of the famous Golden Fleece sought by Jason and the Argonauts. The tales of Georgia's ancient history are not without foundation; modern archaeological evidence suggests that Georgia is the oldest winemaking country in the world, with some wine samples dating back to 6,000 years BC. In testament to this rich heritage, Georgia's cities and countryside are complete with medieval churches, several of which are UNESCO World Heritage Sites. Enjoying low levels of crime and corruption, since the mid-2000s Georgia has developed into a fast-growing destination. The country's tourist infrastructure continues to expand. ",
-		"airports": [],
+		"airports": [
+			"BUS",
+			"KUT",
+			"SUI",
+			"TBS"
+		],
 		"links": [
 			{
 				"href": "http://geometro.ge/en/",
@@ -4498,18 +4816,24 @@
 		"title": "Germany",
 		"description": "Germany (German: Deutschland), officially the Federal Republic of Germany (Bundesrepublik Deutschland) is the largest country in Central Europe and the most populous EU state.  It's bordered to the east by the Czech Republic and Poland, to the north by Denmark, to the west by Belgium, Luxembourg, the Netherlands and France and to the south by Austria and Switzerland. Germany is subdivided into 16 politically powerful states that sometimes correspond to historic regions predating a unified German state, while they sometimes randomly throw vastly different peoples into the same state while separating them from their more similar kin across state lines. ",
 		"airports": [
-			"FRA",
-			"MUC",
-			"DUS",
-			"TXL",
+			"FKB",
+			"BER",
+			"BRE",
 			"CGN",
+			"DTM",
+			"DUS",
+			"FRA",
+			"MLH/BSL/EAP",
+			"FDH",
 			"HAM",
-			"STR",
+			"HAJ",
 			"LEJ",
-			"SXF",
-			"HHN",
-			"NRN",
-			"FMM"
+			"LBC",
+			"FMM",
+			"MUC",
+			"NUE",
+			"STR",
+			"NRN"
 		],
 		"links": [
 			{
@@ -4595,7 +4919,15 @@
 		"lon": -0.5,
 		"title": "Ghana",
 		"description": "   \nGhana is a country in West Africa. It borders the countries of Côte d'Ivoire to the west, Burkina Faso to the north and Togo to the east and the Atlantic Ocean Gulf of Guinea to the south.",
-		"airports": [],
+		"airports": [
+			"ACC",
+			"KMS",
+			"TKD",
+			"NYI",
+			"HZO",
+			"WZA",
+			"TML"
+		],
 		"links": [
 			{
 				"href": "http://www.abctransport.com",
@@ -4645,7 +4977,29 @@
 		"lon": 23,
 		"title": "Greece",
 		"description": "   \nGreece (Greek: Ελλάς, Hellas or Ελλάδα, Ellada) is a country in southeastern Europe, on the southern tip of the Balkan peninsula. Ancient Greece was one of Europe's first urban civilizations, and the origin of much of the arts, language, philosophy, politics, and sports of western society. The cultural heritage and spectacular mountains and beaches draw tourists from far away.",
-		"airports": [],
+		"airports": [
+			"ATH",
+			"EFL",
+			"CHQ",
+			"JKH",
+			"CFU",
+			"HER",
+			"KLX",
+			"AOK",
+			"KVA",
+			"KGS",
+			"JMK",
+			"MJT",
+			"PVK",
+			"RHO",
+			"SMI",
+			"JTR",
+			"JSI",
+			"SKU",
+			"SKG",
+			"VOL",
+			"ZTH"
+		],
 		"links": [
 			{
 				"href": "http://www.trainose.gr",
@@ -4784,8 +5138,8 @@
 		"title": "Guatemala",
 		"description": "Guatemala is a country in Central America. It has borders to Mexico in the north/northwest, to Belize in the northeast, to Honduras in the southeast, to El Salvador in the south. It has a Pacific coastline to the southwest, and a tiny piece of Caribbean coastline to the east. Guatemala is very tough land. You can experience volcanic activity, seismic activity (earthquakes, mudslides), and hurricanes.",
 		"airports": [
-			"GUA",
-			"FRS"
+			"FRS",
+			"GUA"
 		],
 		"links": [
 			{
@@ -4876,7 +5230,9 @@
 		"lon": -11,
 		"title": "Guinea",
 		"description": "   \nGuinea (officially the Republic of Guinea; French: République de Guinée) is a former French colony that borders Guinea-Bissau and Senegal to the north, Mali on the north and north-east, Côte d'Ivoire to the east and Liberia and Sierra Leone to the south. Unrest in Sierra Leone has spilled across the border, creating humanitarian emergencies and threatening the stability of this country. The country is often sometimes called Guinea-Conakry to distinguish it from Guinea-Bissau and Equatorial Guinea.",
-		"airports": [],
+		"airports": [
+			"CKY"
+		],
 		"links": [],
 		"destinations": [
 			"Conakry",
@@ -4919,7 +5275,9 @@
 		"lon": -15,
 		"title": "Guinea-Bissau",
 		"description": "   \nGuinea-Bissau, (website in French), is a former Portuguese colony bordered by Senegal to the north and Guinea to the south and east.",
-		"airports": [],
+		"airports": [
+			"OXB"
+		],
 		"links": [],
 		"destinations": [
 			"Bissau",
@@ -4959,8 +5317,7 @@
 		"title": "Guyana",
 		"description": "   \nThe country of Guyana is in north-eastern South America. It has an Atlantic Ocean coastline in the northeast, and lies between Suriname to the east and Venezuela to the west, with Brazil to the south.",
 		"airports": [
-			"GEO",
-			"OGL"
+			"GEO"
 		],
 		"links": [],
 		"destinations": [
@@ -5005,6 +5362,7 @@
 		"title": "Haiti",
 		"description": "Haiti (Haitian Creole: Ayiti, French: Haïti) is a Caribbean country that occupies the western three-eighths of the island of Hispaniola. The eastern five-eighths of Hispaniola is occupied by the Dominican Republic. The North Atlantic Ocean lies to the north, while the Caribbean Sea lies to the south. Haiti is a country with a troubled past, and its future still remains uncertain. Decades of poverty, environmental degradation, violence, instability, dictatorship and coups, and a devastating earthquake, among other things, have left it the poorest nation in the western hemisphere.",
 		"airports": [
+			"CAP",
 			"PAP"
 		],
 		"links": [],
@@ -5045,7 +5403,13 @@
 		"lon": -86.7,
 		"title": "Honduras",
 		"description": "   \nHonduras is the second-biggest country in Central America. It has colonial villages (Gracias, Comayagua), ancient Maya ruins (Copán), natural parks (Moskitia), and a Pacific and Caribbean coastline and the Bay Islands, with great beaches and coral reefs where snorkeling and diving are exceptional by any standard.",
-		"airports": [],
+		"airports": [
+			"LCE",
+			"RTB",
+			"SAP",
+			"TGU",
+			"XPL"
+		],
 		"links": [
 			{
 				"href": "http://www.hedmanalas.com",
@@ -5101,7 +5465,9 @@
 		"airports": [
 			"BUD",
 			"DEB",
-			"SOB"
+			"SOB",
+			"QGY",
+			"QPJ"
 		],
 		"links": [
 			{
@@ -5221,6 +5587,8 @@
 		"title": "Iceland",
 		"description": "   \nIceland (Icelandic: Ísland) is an island nation in the north Atlantic Ocean. Iceland is one of the Nordic countries, and therefore culturally part of Europe. The name Iceland is a misnomer: while glaciers cover 10% of the land, climate is mild, and volcanic activity keeps the country warm. Settled during the Viking Age, Iceland has the world's oldest surviving parliament, the Alþingi. It is known as the Land of Fire and Ice.",
 		"airports": [
+			"AEY",
+			"EGS",
 			"KEF"
 		],
 		"links": [
@@ -5309,7 +5677,51 @@
 		"lon": 77,
 		"title": "India",
 		"description": "   \nIndia (Hindi: भारत or Bharat) is the largest country in the Indian subcontinent and shares borders with Pakistan to the northwest, China and Nepal to the north, Bhutan to the northeast, and Bangladesh and Myanmar to the east. Nearby island countries in the Indian Ocean are Sri Lanka to the southeast and the Maldives to the southwest.",
-		"airports": [],
+		"airports": [
+			"IXA",
+			"AMD",
+			"ATQ",
+			"AYJ",
+			"BLR",
+			"BHO",
+			"BBI",
+			"MAA",
+			"CJB",
+			"DEL",
+			"JWR",
+			"GAY",
+			"GOX",
+			"GOI",
+			"GAU",
+			"HYD",
+			"IMF",
+			"IDR",
+			"JAI",
+			"IXJ",
+			"CNN",
+			"COK",
+			"CCU",
+			"CCJ",
+			"LKO",
+			"IXM",
+			"IXE",
+			"BOM",
+			"NMI",
+			"NAG",
+			"ISK",
+			"PNQ",
+			"IXR",
+			"IXB",
+			"SXR",
+			"STV",
+			"TRV",
+			"TRZ",
+			"TIR",
+			"BDQ",
+			"VNS",
+			"VGA",
+			"VTZ"
+		],
 		"links": [
 			{
 				"href": "http://www.indianrail.gov.in",
@@ -5420,8 +5832,22 @@
 		"title": "Indonesia",
 		"description": "   \nIndonesia is a huge archipelago of diverse islands scattered over both sides of the Equator between the Indian Ocean and the Pacific Ocean. With more than 260 million people, Indonesia is the fourth most populous country in the world — after China, India and the USA — and by far the largest in Southeast Asia. While it has land borders with Malaysia to the north and East Timor and Papua New Guinea to the east, its exclusive economic zone also abuts Australia to the south; Palau, the Philippines, Vietnam, Singapore, and Thailand to the north; and India to the northwest. With an extensive, but quickly carved out amount of green forests on all of its islands and half way between the poles, Indonesia is nicknamed The Emerald of the Equator.",
 		"airports": [
+			"BPN",
+			"BTJ",
+			"KJT",
+			"BTH",
 			"DPS",
-			"CGK"
+			"HLP",
+			"DJJ",
+			"LBJ",
+			"UPG",
+			"MDC",
+			"LOP",
+			"KNO",
+			"PDG",
+			"PKU",
+			"SUB",
+			"YIA"
 		],
 		"links": [
 			{
@@ -5498,7 +5924,34 @@
 		"title": "Iran",
 		"description": "Iran (Persian: ایران) is a large country between the Gulf of Oman, the Persian Gulf, and the Caspian Sea. It was renamed Iran in the early 20th century; before that it was known as Persia. It is bordered by Iraq to the west, Turkey, Azerbaijan's Nakhchivan enclave, Armenia, and Azerbaijan to the northwest, Turkmenistan to the northeast,  and Afghanistan and Pakistan to the east.",
 		"airports": [
-			"IKA"
+			"ABD",
+			"AWZ",
+			"AJK",
+			"ADU",
+			"PGU",
+			"BND",
+			"XBJ",
+			"BUZ",
+			"GBT",
+			"HDM",
+			"IIL",
+			"IFN",
+			"KER",
+			"KSH",
+			"KIH",
+			"ZBR",
+			"LFM",
+			"LRR",
+			"MHD",
+			"GSM",
+			"RAS",
+			"SRY",
+			"SYZ",
+			"TBZ",
+			"IKA",
+			"OMH",
+			"AZD",
+			"ZAH"
 		],
 		"links": [
 			{
@@ -5556,9 +6009,13 @@
 		"title": "Iraq",
 		"description": "Iraq (Arabic: العراق Al-Irāq) is a republic in the Middle East, north-west of the Persian Gulf. It borders Iran to the east, Kuwait to the south, Saudi Arabia to the southwest, Jordan to the west, Syria to the northwest, and Turkey to the north.",
 		"airports": [
-			"VIE",
-			"IST",
-			"AMM"
+			"NJF",
+			"BGW",
+			"BSR",
+			"EBL",
+			"OSM",
+			"XNH",
+			"ISU"
 		],
 		"links": [
 			{
@@ -5623,17 +6080,11 @@
 		"title": "Ireland",
 		"description": "Ireland (Irish: Éire), also known as the Republic of Ireland (Irish: Poblacht na hÉireann), has a rich culture that, along with its people, has been exported around the world.",
 		"airports": [
-			"DUB",
-			"SNN",
 			"ORK",
-			"NOC",
-			"CFN",
+			"DUB",
 			"KIR",
-			"SXL",
-			"WAT",
-			"LDY",
-			"BHD",
-			"BFS"
+			"NOC",
+			"SNN"
 		],
 		"links": [
 			{
@@ -5787,8 +6238,9 @@
 		"title": "Israel",
 		"description": "   \nThe State of Israel (Hebrew: מדינת ישראל; Arabic: دولة إسرائيل) is a small yet diverse Middle Eastern country bordered by Egypt and the Gaza Strip to the southwest, by the West Bank and Jordan to the east, and by Syria and Lebanon to the north. The country has a long coastline on the eastern Mediterranean Sea, and very limited access to the Red Sea at the Gulf of Aqaba (often called the Gulf of Eilat in Israel). Since 1967, Israel has controlled most of the West Bank (often called \"Judea and Samaria\" in Israel) as well as the Golan Heights. Israel has annexed East Jerusalem and the Golan, but most other countries, except the United States, reject the annexation, and consider these areas and the West Bank (which Israel did not annex, and Israeli law does not apply to the area) to be occupied Palestinian territory. Wikivoyage takes no stance on these political issues, but notes that in practice, current visitors to these areas will need Israeli visas and permits.",
 		"airports": [
-			"TLV",
-			"ETM"
+			"ETM",
+			"HFA",
+			"TLV"
 		],
 		"links": [
 			{
@@ -5887,8 +6339,34 @@
 		"title": "Italy",
 		"description": "   \nItaly (Italian: Italia), officially the Italian Republic (Repubblica italiana), is a country in Southern Europe, occupying the Italian Peninsula and the Po Valley south of the Alps. Once the core of the mighty Roman Empire, and the cradle of the Renaissance, it is also home to the greatest number of UNESCO World Heritage Sites in the world, including high art and monuments.",
 		"airports": [
+			"AHO",
+			"AOI",
+			"BRI",
+			"BGY",
+			"BLQ",
+			"VBS",
+			"BDS",
+			"CAG",
+			"CTA",
+			"CUF",
+			"FLR",
+			"GOA",
+			"SUF",
+			"LIN",
+			"NAP",
+			"OLB",
+			"PMO",
+			"PMF",
+			"PEG",
+			"PSR",
+			"PSA",
+			"RMI",
 			"FCO",
-			"MXP"
+			"TPS",
+			"TRS",
+			"TRN",
+			"VCE",
+			"VRN"
 		],
 		"links": [
 			{
@@ -6047,9 +6525,24 @@
 		"title": "Japan",
 		"description": "Japan, known as Nihon or Nippon (日本) in Japanese, is an island nation in East Asia. Its insular character has allowed it to develop a unique and very intricate culture, while its closeness to other ancient Far Eastern cultures, in particular China, has left lasting influence. Despite belonging to a forever warring nation, both internally and overseas, Japan's people had historically always placed emphasis on inner balance, tranquility and natural beauty. These traditional values have become increasingly important now that Japan has grown to be one of the world's most densely-populated countries, and its legendary work ethic makes life in its cities quite hectic.",
 		"airports": [
-			"NRT",
-			"KIX",
+			"AXT",
+			"AOJ",
+			"FUK",
+			"HKD",
+			"KOJ",
+			"KMQ",
+			"HIJ",
+			"KKJ",
+			"NGS",
+			"OKA",
 			"NGO",
+			"KIJ",
+			"OIT",
+			"OKJ",
+			"KIX",
+			"CTS",
+			"SDJ",
+			"FSZ",
 			"HND"
 		],
 		"links": [
@@ -6129,7 +6622,10 @@
 		"lon": 36.5,
 		"title": "Jordan",
 		"description": "Jordan (Arabic: الأردنّ al-Urdunn) is an Arab kingdom in Western Asia, on the East Bank of the Jordan River. Jordan is bordered by Saudi Arabia to the east and south, Iraq to the north-east, Syria to the north, Israel, the West Bank and the Dead Sea to the west and the Red Sea in its extreme south-west. Jordan is located at the crossroads of Asia, Africa and Europe. The capital, Amman, is Jordan's most populous city and the country's economic and cultural centre.",
-		"airports": [],
+		"airports": [
+			"AQJ",
+			"AMM"
+		],
 		"links": [
 			{
 				"href": "http://www.jhr.gov.jo/",
@@ -6181,7 +6677,24 @@
 		"lon": 68,
 		"title": "Kazakhstan",
 		"description": "   \nKazakhstan is the largest landlocked country and, as the world's ninth biggest country by area, is the largest of the former states of the former Soviet Union apart from Russia itself. It has borders with Russia, China, and the Central Asian countries of Turkmenistan, Kyrgyzstan and Uzbekistan, which it dwarfs.",
-		"airports": [],
+		"airports": [
+			"SCO",
+			"AKX",
+			"ALA",
+			"GUW",
+			"KGF",
+			"KOV",
+			"KSN",
+			"KZO",
+			"NQZ",
+			"URA",
+			"UKK",
+			"PWQ",
+			"PPK",
+			"PLX",
+			"CIT",
+			"DMB"
+		],
 		"links": [],
 		"destinations": [
 			"Astana",
@@ -6226,6 +6739,9 @@
 		"title": "Kenya",
 		"description": "   \nBordered by the Indian Ocean to the east, the Eastern African country of Kenya is surrounded by Ethiopia and South Sudan to the north and Uganda to the west, Somalia to the north east and Tanzania to the south",
 		"airports": [
+			"EDL",
+			"MBA",
+			"KIS",
 			"NBO"
 		],
 		"links": [
@@ -6328,7 +6844,7 @@
 		"title": "Kuwait",
 		"description": "   \nKuwait (Arabic: الكويت) is a monarchy at the Persian Gulf, bordering Iraq and Saudi Arabia.",
 		"airports": [
-			"KWI "
+			"KWI"
 		],
 		"links": [],
 		"destinations": [
@@ -6374,7 +6890,12 @@
 		"lon": 75,
 		"title": "Kyrgyzstan",
 		"description": "   \nKyrgyzstan (Кыргызстан, formally the Kyrgyz Republic (Кыргыз Республикасы) is a Central Asian country of incredible natural beauty and proud nomadic traditions. Landlocked and mountainous, it borders Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the southwest and China to the southeast. Annexed by Russia in 1876, it achieved independence from the Soviet Union in 1991. It has the most liberal tourist visa policy in Central Asia and one of the more progressive post-Soviet governments in the region. It is called the Switzerland of Central Asia.",
-		"airports": [],
+		"airports": [
+			"FRU",
+			"IKU",
+			"",
+			"OSS"
+		],
 		"links": [
 			{
 				"href": "http://evisa.e-gov.kg/",
@@ -6435,9 +6956,10 @@
 		"title": "Laos",
 		"description": "   \nLaos (ສປປ ລາວ), officially known as the Lao People's Democratic Republic (ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ) (Lao PDR), is a nation in Southeast Asia, known for its mountainous terrain, French colonial architecture, hill tribe settlements, and Buddhist monasteries. A mountainous and landlocked country, Laos shares borders with Vietnam to the east, Cambodia to the south, Thailand to the west, and Myanmar and China to the north.",
 		"airports": [
-			"VTE",
 			"LPQ",
-			"PKZ"
+			"PKZ",
+			"ZVK",
+			"VTE"
 		],
 		"links": [],
 		"destinations": [
@@ -6484,7 +7006,8 @@
 		"title": "Latvia",
 		"description": "   \nLatvia (Latvian: Latvija) is a European country with a coastline on the Baltic Sea. Being one of the three Baltic states, it shares its border with Estonia to the north and Lithuania to the south. It is also bordered by Russia on the east, Belarus on the south east and the Baltic Sea on the west.",
 		"airports": [
-			"RIX"
+			"RIX",
+			"VNT"
 		],
 		"links": [
 			{
@@ -6612,7 +7135,9 @@
 		"lon": 35.5333,
 		"title": "Lebanon",
 		"description": "The Republic of Lebanon (Arabic: لبنان) is a country in the Middle East at the Mediterranean Sea. It borders Syria to the north and the east, and Israel to the south.",
-		"airports": [],
+		"airports": [
+			"BEY"
+		],
 		"links": [],
 		"destinations": [
 			"Beirut",
@@ -6654,7 +7179,9 @@
 		"lon": 27.9,
 		"title": "Lesotho",
 		"description": "   \nLesotho is a small country that is totally surrounded by South Africa. It's known as the Kingdom in the Sky because the entire country is at a high altitude. Its lowest point is 1,400 m above sea level – no other country in the world has its lowest point above 1000 m (3,280 ft)! Lesotho is a fantastic adventure holiday destination because of its smiling and resourceful people and bracing climate.",
-		"airports": [],
+		"airports": [
+			"MSU"
+		],
 		"links": [
 			{
 				"href": "http://www.vaalmaseru.co.za/",
@@ -6705,7 +7232,9 @@
 		"lon": -9.75,
 		"title": "Liberia",
 		"description": "Liberia is in West Africa and is bordered by Sierra Leone, Guinea, and Côte d'Ivoire. Along with Ethiopia, it was one of the only two countries to be uncolonized during the Scramble for Africa.",
-		"airports": [],
+		"airports": [
+			"ROB"
+		],
 		"links": [
 			{
 				"href": "http://www.internationalsteam.co.uk/trains/liberia01.htm",
@@ -6748,18 +7277,10 @@
 		"title": "Libya",
 		"description": "Libya (Arabic: ‏ليبيا Lībyā) is a country in North Africa. In the north it has a Mediterranean Sea coast, with Egypt to the east and Tunisia to the west. It also has land borders with Algeria, Chad, Niger and Sudan. More than 90% of the country is desert or semidesert.",
 		"airports": [
-			"TIP",
-			"MRA",
 			"BEN",
-			"LAQ ",
-			"LTD ",
-			"GHT ",
-			"AKF ",
-			"MJI",
-			"SEB ",
-			"SRX ",
-			"TOB ",
-			"QUB "
+			"SEB",
+			"TIP",
+			"MJI"
 		],
 		"links": [],
 		"destinations": [
@@ -6847,7 +7368,12 @@
 		"lon": 24,
 		"title": "Lithuania",
 		"description": "   \nLithuania (Lithuanian: Lietuva) is a Baltic country in northeastern Europe. It has a Baltic Sea coastline in the west and borders with Latvia to the north, Belarus to the east, Poland to the southwest, and Russia (Kaliningrad Oblast) to the west.",
-		"airports": [],
+		"airports": [
+			"KUN",
+			"PLQ",
+			"SQQ",
+			"VNO"
+		],
 		"links": [
 			{
 				"href": "http://eng.rzd.ru",
@@ -6936,10 +7462,7 @@
 		"title": "Luxembourg",
 		"description": "The Grand Duchy of Luxembourg (Luxembourgish: Groussherzogtum Lëtzebuerg, French: Grand-Duché de Luxembourg, German: Großherzogtum Luxemburg), is a landlocked Benelux country bordered by Belgium, France and Germany at the crossroads of Germanic and Latin cultures. It is the only Grand Duchy in the world and is the second-smallest of the European Union member states by area. A founding member of the European Community of Coal and Steel, Luxembourg has produced a number of prominent EU level politicians. ",
 		"airports": [
-			"LUX",
-			"HHN",
-			"CRL",
-			"FRA"
+			"LUX"
 		],
 		"links": [
 			{
@@ -7025,10 +7548,8 @@
 		"title": "North Macedonia",
 		"description": "The Republic of North Macedonia (Macedonian: Северна Македонија, Severna Makedonija; formerly the Republic of Macedonia, also FYROM and FYR Macedonia, Macedonian: Македонија, Makedonija) is a landlocked country in the heart of the Balkans. It is bordered by Serbia and Kosovo to the north, Albania to the west, Bulgaria to the east, and Greece to the south.",
 		"airports": [
-			"SKP",
 			"OHD",
-			"SKG",
-			"SOF"
+			"SKP"
 		],
 		"links": [
 			{
@@ -7086,7 +7607,12 @@
 		"description": "   \nMadagascar, formerly the Malagasy Republic, is a country in the Indian Ocean off the eastern coast of Africa. It is the fourth largest island in the world.",
 		"airports": [
 			"TNR",
-			"NOS"
+			"DIE",
+			"MJN",
+			"NOS",
+			"TMM",
+			"FTU",
+			"TLE"
 		],
 		"links": [
 			{
@@ -7139,7 +7665,10 @@
 		"lon": 34,
 		"title": "Malawi",
 		"description": "   \nMalawi (Chichewa: Malaŵi) is a country in Africa, bordered by Mozambique to the south and east, Tanzania to the north, Zambia to the west. Lake Malawi, the third largest lake in Africa, runs along most of its eastern border. It's described as the \"Warm Heart of Africa\", referring to the friendliness of the people.",
-		"airports": [],
+		"airports": [
+			"BLZ",
+			"LLW"
+		],
 		"links": [
 			{
 				"href": "http://www.cear.mw",
@@ -7202,8 +7731,18 @@
 		"title": "Malaysia",
 		"description": "   \nMalaysia is a country in Southeast Asia, on the Malay peninsula, as well as on northern Borneo. The country is one of Asia's new tiger economies, having seen great economic and human development during the last decades. While the capital Kuala Lumpur is a cosmopolitan city, deep jungles cover some of the land.",
 		"airports": [
+			"AOR",
+			"IPH",
+			"JHB",
+			"KBR",
+			"BKI",
 			"KUL",
-			"SZB"
+			"TGG",
+			"KUA",
+			"KCH",
+			"LGK",
+			"PEN",
+			"LBU"
 		],
 		"links": [
 			{
@@ -7292,7 +7831,10 @@
 		"description": "   \nThe Maldives (Dhivehi: ދިވެހިރާއްޖެ Dhivehi Raajje)  are an archipelago of 1,192 coral islands grouped into 26 coral atolls (200 inhabited islands, plus 80 islands with tourist resorts) in the Indian Ocean. They lie south-southwest of India and are considered part of South Asia.",
 		"airports": [
 			"MLE",
-			"GAN"
+			"GAN",
+			"HAQ",
+			"VAM",
+			"NMF"
 		],
 		"links": [
 			{
@@ -7338,7 +7880,9 @@
 		"lon": -4,
 		"title": "Mali",
 		"description": "A landlocked country in the Sahel, Mali is  bordered by Algeria, Niger, Burkina Faso, Cote d'Ivoire, Guinea, Senegal and Mauritania. Mali remains one of the poorest countries in the world, but it has wonderful musicians and some incredible sights, including four UNESCO World Heritage sites, and the historic city of Timbuktu.",
-		"airports": [],
+		"airports": [
+			"BKO"
+		],
 		"links": [
 			{
 				"href": "http://www.seat61.com/Senegal.htm",
@@ -7388,7 +7932,7 @@
 		"title": "Malta",
 		"description": "   \nMalta is an island country in the Mediterranean Sea that lies south of the island of Sicily, Italy.  The country is an archipelago, with only the three largest islands (Malta, Għawdex or Gozo, and Kemmuna or Comino) being inhabited.",
 		"airports": [
-			"MLA "
+			"MLA"
 		],
 		"links": [
 			{
@@ -7480,7 +8024,8 @@
 		"description": "   \nMauritania is the least developed and poorest country in northwest Africa. Geographically part of the Maghreb, Mauritania borders Algeria, Senegal and Mali, along with the disputed territory of Western Sahara.",
 		"airports": [
 			"NKC",
-			"NDB"
+			"NDB",
+			"ATR"
 		],
 		"links": [],
 		"destinations": [
@@ -7520,7 +8065,7 @@
 		"title": "Mauritius",
 		"description": "   \nMauritius (French: Maurice, Mauritian Creole: Moris) is an island nation in the Indian Ocean about 2,000 km (1,200 mi) from the African continent. The country consists of the main island of Mauritius and the smaller islands of Rodrigues, the Agalegas and the Cargados Carajos shoals. Mauritius is mostly appreciated by visitors for its natural beauty and man-made attractions, multi-ethnic and cultural diversity, tropical climate, beautiful beaches and water sports.",
 		"airports": [
-			"MRU "
+			"MRU"
 		],
 		"links": [
 			{
@@ -7588,13 +8133,47 @@
 		"title": "Mexico",
 		"description": "Mexico (Spanish: México),  the United Mexican States (Spanish: Estados Unidos Mexicanos), is a country in North America, between the United States of America to the north, and Guatemala and Belize to the southeast. Its coastlines include the Gulf of Mexico and Caribbean Sea to the east and the Pacific Ocean to the west.",
 		"airports": [
-			"MEX",
+			"ACA",
+			"AGU",
 			"CUN",
-			"CDG",
-			"LON",
-			"MAD",
-			"AMS",
-			"FRA"
+			"CUU",
+			"CME",
+			"CZM",
+			"CUL",
+			"DGO",
+			"GDL",
+			"HMO",
+			"HUX",
+			"ZIH",
+			"BJX",
+			"LTO",
+			"SJD",
+			"ZLO",
+			"MZT",
+			"MID",
+			"MXL",
+			"MEX",
+			"Mexico",
+			"MTY",
+			"MLM",
+			"OAX",
+			"PBC",
+			"PXM",
+			"PVR",
+			"QRO",
+			"REX",
+			"SLW",
+			"SLP",
+			"TAM",
+			"TIJ",
+			"TLC",
+			"TRC",
+			"TQO",
+			"TGZ",
+			"UPN",
+			"VER",
+			"VSA",
+			"ZCL"
 		],
 		"links": [
 			{
@@ -7991,7 +8570,7 @@
 		"title": "Mongolia",
 		"description": "Mongolia, known as Mongol uls (Cyrillic: Монгол улс, Script: ᠮᠣᠩᠭ᠋ᠣᠯ\nᠤᠯᠤᠰ) in Mongolian, is a landlocked country located between China and Russia. It's a vast emptiness that links land and sky, and is one of the last few places on the planet where nomadic life is still a living tradition.",
 		"airports": [
-			"ULN"
+			"UBN"
 		],
 		"links": [],
 		"destinations": [
@@ -8102,7 +8681,20 @@
 		"lon": -6,
 		"title": "Morocco",
 		"description": "   \nMorocco (Arabic: المغرب Al-Maghrib; Berber: ⵍⵎⴰⵖⵔⵉⴱ Elmaɣrib) is a kingdom in North Africa, at the Atlantic Ocean and the Mediterranean Sea. Morocco has 34 million inhabitants, and a rich heritage from the Islamic Golden Age. For Europeans, Morocco has been, and remains, the gateway to Africa.",
-		"airports": [],
+		"airports": [
+			"AGA",
+			"CMN",
+			"FEZ",
+			"RAK",
+			"NDR",
+			"OZZ",
+			"OUD",
+			"RBA",
+			"TNG",
+			"TTU",
+			"VIL",
+			"EUN"
+		],
 		"links": [
 			{
 				"href": "https://www.oncf.ma/en/",
@@ -8174,7 +8766,15 @@
 		"lon": 35,
 		"title": "Mozambique",
 		"description": "Mozambique (Portuguese: Moçambique) is a country on the Indian Ocean coast of Southern Africa. It is bordered by South Africa to the south, Tanzania to the north and has inland borders with Eswatini (Swaziland), Malawi, Zambia, Zimbabwe. Mozambique's eastern coastline along the Indian Ocean is more than 1,000 km long, a fantastic draw for scuba divers, fishermen, sailors and beach lovers.",
-		"airports": [],
+		"airports": [
+			"MPM",
+			"BEW",
+			"INH",
+			"APL",
+			"POL",
+			"TET",
+			"VNX"
+		],
 		"links": [],
 		"destinations": [
 			"Maputo",
@@ -8275,7 +8875,8 @@
 		"title": "Namibia",
 		"description": "   \nNamibia is in Southern Africa, bordering South Africa, Botswana, Angola, Zambia and the Atlantic Ocean. Namibia boasts remarkable natural attractions such as the Namib Desert, the Fish River Canyon Park, Etosha National Park and the Kalahari desert. Thanks to both a wealth of indigenous cultures and a tumultuous colonial history, its people speak nine different languages, including some of the Khoisan languages which include the 'clicks' that present an enigma to most native English speakers. It is also one of the few places in Africa where German, although not official, remains a commonly spoken language, while Afrikaans, shared with its southern neighbour, is also prevalent.",
 		"airports": [
-			"WDH"
+			"WDH",
+			"WVB"
 		],
 		"links": [
 			{
@@ -8382,7 +8983,9 @@
 		"title": "Nepal",
 		"description": "   \nNepal (Nepali: नेपाल) is a landlocked country in the Himalayas in South Asia, bordering India and the Tibet autonomous region of China. It has eight of the world's 10 highest peaks, including Mount Everest, the world's tallest, on the border with Tibet, as well as Lumbini, the birthplace of Gautama Buddha, the founder of Buddhism. In 2008, Nepal was declared a republic and abolished its monarchy.",
 		"airports": [
-			"KTM"
+			"KTM",
+			"BWA",
+			"PKR"
 		],
 		"links": [],
 		"destinations": [
@@ -8431,8 +9034,10 @@
 		"description": "The Netherlands (Dutch: Nederland) is a charming small country in the low-lying river delta of northwestern Europe. Its landscape of famously flat lands, much of it reclaimed from the sea, is dotted with windmills, blooming tulip fields and picturesque villages. With over 17 million people living in a relatively small area, this is a densely populated modern European country. Still, even the largest of its cities have retained a rather laid-back small-town atmosphere and many are packed with historic heritage.",
 		"airports": [
 			"AMS",
-			"FMO",
-			"NRN"
+			"EIN",
+			"GRQ",
+			"MST",
+			"RTM"
 		],
 		"links": [
 			{
@@ -8671,8 +9276,8 @@
 		"description": "Nicaragua is the largest country in Central America by area at 130,373 km2 and the least densely populated. It has coastlines on the Caribbean Sea in the East and the Pacific Ocean in the west. It borders Costa Rica in the south and Honduras in the north. Nicaraguans (or \"Nicas\" as they are often called) like to refer to their country as the \"país de lagos y volcanes\"; the country of lakes and volcanoes. And those are indeed striking features as Nicaragua contains the largest freshwater body in Central America, Lake Nicaragua or Cocibolca. Inside Lake Nicaragua the famed Volcano Concepcion on Ometepe rises to about a mile in altitude, but other volcanoes such as Momotombo or Mombacho are also impressive.",
 		"airports": [
 			"MGA",
-			"LIR",
-			"SJO"
+			"BEF",
+			"RNI"
 		],
 		"links": [
 			{
@@ -8733,7 +9338,9 @@
 		"lon": 10,
 		"title": "Niger",
 		"description": "Niger (pronounced: nee-ZHAIR) is an arid, landlocked country of the Sahel with a population of 20 million.  It is bordered by Algeria, Mali, Burkina Faso, Benin, Nigeria, Chad and Libya.  Niger is a former French colony which was granted independence in 1960.  The land is mostly desert plains and dunes, with rolling savanna in the southeast with nothing much to see.",
-		"airports": [],
+		"airports": [
+			"NIM"
+		],
 		"links": [],
 		"destinations": [
 			"Niamey",
@@ -8778,7 +9385,16 @@
 		"lon": 8,
 		"title": "Nigeria",
 		"description": "Nigeria (Hausa: Nijeriya, Igbo: Naíjíríà, Yoruba: Nàìjíríà) is a large country in equatorial West Africa. It is the continent's most populous nation.  It has a southern coastline on the Gulf of Guinea, and has Benin to the west, Cameroon to the southeast, Chad to the northeast, and Niger to the north. It is Africa's most populous country and the world's 7th most populous, and also the largest oil producer and largest economy in Africa. Often regarded as the giant of Africa, Nigeria along with South Africa is also one of the most important countries on the African continent, with delicious cuisines and great tourist attractions. Although the northern parts of the country may be dangerous due to the influence of an Islamist rebel group ISWAP, also called Boko Haram.",
-		"airports": [],
+		"airports": [
+			"ABV",
+			"CBQ",
+			"ABB",
+			"KAN",
+			"LOS",
+			"PHC",
+			"ENU",
+			"SKO"
+		],
 		"links": [
 			{
 				"href": "http://nrc.gov.ng/",
@@ -8882,13 +9498,16 @@
 		"title": "Norway",
 		"description": "   \nNorway (Norwegian: Norge or Noreg) is the westernmost, northernmost — and surprisingly also the easternmost — of the three Scandinavian countries. Norway is known for the complex and deep fjords along its west coast, as well as the midnight sun and Northern Lights. Mainland Norway stretches from the North Sea near Denmark and Scotland to borders with northern Finland and the northwestern tip of Russia, and has a long border with Sweden to the east. Norway also includes the Svalbard islands in the Arctic.",
 		"airports": [
-			"OSL",
-			"TRF",
-			"SVG",
+			"AES",
 			"BGO",
+			"BOO",
+			"HAU",
 			"KRS",
-			"TRD",
-			"TOS"
+			"KSU",
+			"OSL",
+			"SVG",
+			"TOS",
+			"TRD"
 		],
 		"links": [
 			{
@@ -8991,7 +9610,11 @@
 		"lon": 55,
 		"title": "Oman",
 		"description": "   \nThe Middle East Sultanate of Oman (Arabic: سلطنة عُمان) is on the eastern side of the Arabian Peninsula. It borders the United Arab Emirates in the northwest, Saudi Arabia in the west, and Yemen in the southwest. Oman has two exclaves separated from it by the United Arab Emirates, the Musandam Peninsula and Madha.",
-		"airports": [],
+		"airports": [
+			"MCT",
+			"SLL",
+			"OHS"
+		],
 		"links": [
 			{
 				"href": "http://www.ontcoman.com",
@@ -9043,7 +9666,20 @@
 		"lon": 71,
 		"title": "Pakistan",
 		"description": "The Islamic Republic of  Pakistan (Urdu: پاکستان) is in South Asia and is the world's 34th largest country by size. With a population exceeding 180 million people, it is the sixth most populous country in the world. Pakistan is strategically located astride the ancient trade routes of the Khyber and Bolan passes between South Asia and Central Asia. Another pass, which now has the Karakoram Highway through it, leads to Western China. All these passes, and some ports in Pakistan, formed part of the ancient Silk Road which linked Asia and Europe.",
-		"airports": [],
+		"airports": [
+			"BHV",
+			"LYP",
+			"GWD",
+			"ISB",
+			"KHI",
+			"LHE",
+			"MUX",
+			"PEW",
+			"UET",
+			"RYK",
+			"SKT",
+			"TUK"
+		],
 		"links": [
 			{
 				"href": "http://dtc.nic.in/lahorebus.htm",
@@ -9137,7 +9773,10 @@
 		"title": "Panama",
 		"description": "Panama is a country in Central America with coastlines on the Caribbean Sea and the North Pacific Ocean. It has land borders with Colombia (and South America) to the southeast and Costa Rica to the northwest. Its location on the isthmus that forms the land bridge connecting North and South America has been militarily strategic through history. It controls the Panama Canal that links the North Atlantic Ocean via the Caribbean Sea with the North Pacific Ocean, one of the most important shipping routes in the world.",
 		"airports": [
-			"PTY"
+			"BOC",
+			"DAV",
+			"PAC",
+			"RIH"
 		],
 		"links": [
 			{
@@ -9244,7 +9883,10 @@
 		"lon": -58,
 		"title": "Paraguay",
 		"description": "   \nParaguay is a landlocked country situated in central South America, surrounded by Argentina, Bolivia, and Brazil. A country of big rivers, green landscapes, folklore and a rich indigenous culture, it's relatively small compared to its neighbours, with an area of 406,752 km2 – about the same size as Germany. Paraguay is lacking in world-famous attractions, and tourist-oriented establishments are few and far between. But those visitors who do come will be rewarded with an experience of the real South America: colonial history, ruins of missions, vast wilderness, and a strong mix of European and indigenous cultures.",
-		"airports": [],
+		"airports": [
+			"ASU",
+			"AGT"
+		],
 		"links": [
 			{
 				"href": "http://guyra.org.py/pantanal-paraguayo/",
@@ -9312,7 +9954,11 @@
 		"title": "Peru",
 		"description": "Peru (Spanish: Perú) is without a doubt one of the most captivating countries in South America. Home of the epic lost Inca citadel of Machu Picchu and the mind-blowing Nazca Lines, this country's unique past awakens the adventurer in travellers of all sorts. Its awe-inspiring scenery varies from the wild Amazon jungles to vast coastal deserts and the icy peaks of the Andes. Peru hosts a biodiversity rarely seen within the limits of a single country, with a list of spectacular wildlife far beyond the well-known llamas and circling condors. On top of all that, Peru's friendly, multi-ethnic people are a cultural treasure on their own. The enchanting mix of dozens of distinct indigenous groups and mestizos, all with their own colourful traditions and food delicacies, is an encounter you won't easily forget.",
 		"airports": [
-			"LIM"
+			"AQP",
+			"CIX",
+			"CUZ",
+			"LIM",
+			"TRU"
 		],
 		"links": [
 			{
@@ -9463,14 +10109,20 @@
 		"title": "Philippines",
 		"description": "   \nThe Philippines (Filipino: Pilipinas) is an archipelago of more than 7,100 islands in Southeast Asia between the Philippine Sea and the South China Sea.",
 		"airports": [
-			"MNL",
-			"CRK",
+			"DRP",
+			"LLC",
 			"CEB",
+			"CRK",
 			"DVO",
-			"KLO",
+			"GES",
 			"ILO",
+			"KLO",
+			"LAO",
+			"MNL",
+			"TAG",
 			"PPS",
-			"TAG"
+			"SFS",
+			"ZAM"
 		],
 		"links": [
 			{
@@ -9572,18 +10224,18 @@
 		"title": "Poland",
 		"description": "Poland (Polish: Polska) is a Central European country that has, for the last few centuries, sat at the crossroads of three of Europe's great empires. As a result, it has a rich and eventful history, and a strong basis for its booking tourism industry. ",
 		"airports": [
-			"WAW",
-			"WMI",
-			"KRK",
-			"KTW",
-			"GDN",
-			"POZ",
-			"WRO",
-			"RZE",
-			"LCJ",
 			"BZG",
+			"GDN",
+			"KTW",
+			"KRK",
+			"LUZ",
+			"LCJ",
+			"SZY",
+			"POZ",
+			"RZE",
 			"SZZ",
-			"LUZ"
+			"WAW",
+			"WRO"
 		],
 		"links": [
 			{
@@ -9699,11 +10351,14 @@
 		"title": "Portugal",
 		"description": "   \nPortugal is a country on the western edge of the Iberian peninsula, bordering Spain. Despite its small land area, it has many landforms and climates between the Atlantic coast and the mountains. Portugal has plenty of prehistoric sites, as well as remnants from the Roman Empire, and the Age of Exploration, when Portuguese explorers found the Cape Route around Africa, and completed the world's first circumnavigation.",
 		"airports": [
-			"LIS",
-			"OPO",
+			"BYJ",
 			"FAO",
 			"FNC",
-			"PDL"
+			"PXO",
+			"LIS",
+			"OPO",
+			"PDL",
+			"TER"
 		],
 		"links": [
 			{
@@ -9824,9 +10479,21 @@
 		"title": "Romania",
 		"description": "   \nRomania (Romanian: România) is a country on the western shores of the Black Sea; except for Dobruja, it is north of the Balkan Peninsula. It is a country of great natural beauty and diversity and a rich cultural heritage, including a variety of ethnic, linguistic, and confessional groups. Romania enchants visitors with its scenic mountain landscapes and unspoilt rural areas, but also with its historic cities and busy capital. It has seen significant development and is one of the most recent members of the European Union. Still, it may surprise some of its visitors who are used to western Europe. It has six cultural and one natural UNESCO world heritage sites.",
 		"airports": [
+			"ARW",
+			"BCM",
+			"BAY",
+			"GHV",
 			"OTP",
-			"TSR",
-			"CLJ"
+			"CLJ",
+			"CND",
+			"CRA",
+			"IAS",
+			"OMR",
+			"SUJ",
+			"SBZ",
+			"SCV",
+			"TGM",
+			"TSR"
 		],
 		"links": [
 			{
@@ -9937,10 +10604,71 @@
 		"title": "Russia",
 		"description": "   \nRussia (Russian: Россия, Rossiya)  is by far the largest country in the world, covering more than one-eighth of the Earth's inhabited land area, spanning Eastern Europe and northern Asia, sharing land borders with Norway, Finland, Estonia, Latvia, Lithuania and Poland (by administering the Kaliningrad Oblast exclave on the  Baltic coast), Belarus, and Ukraine to the west, Georgia (including the disputed regions of Abkhazia and South Ossetia) and Azerbaijan to the southwest, and Kazakhstan, China, Mongolia, and North Korea to the east and much of the south. While geographically mostly in Asia, the bulk of Russia's population is concentrated in the European part and, culturally, Russia is unmistakably European. Much of the Asian part, however, has more in common with Kazakhstan, Mongolia or Northeast China than with Eastern Europe. It boasts a rich history and culture.",
 		"airports": [
-			"SVO",
+			"ABA",
+			"DYR",
+			"AAQ",
+			"ARH",
+			"ASF",
+			"BAX",
+			"EGO",
+			"BQS",
+			"BTK",
+			"BZK",
+			"CSY",
+			"CEK",
+			"CEE",
+			"HTA",
+			"ESL",
+			"IKT",
+			"GRV",
+			"KGD",
+			"KZN",
+			"KHV",
+			"KXK",
+			"KRR",
+			"KJA",
+			"URS",
+			"GDX",
+			"MQF",
+			"MCX",
+			"MRV",
 			"DME",
-			"VKO",
-			"ZIA"
+			"MMK",
+			"NAL",
+			"NJC",
+			"NBC",
+			"GOJ",
+			"NOZ",
+			"OVB",
+			"OMS",
+			"REN",
+			"OSW",
+			"PEE",
+			"PES",
+			"PVS",
+			"PKC",
+			"PKV",
+			"ROV",
+			"LED",
+			"KUF",
+			"GSV",
+			"AER",
+			"STW",
+			"SGC",
+			"SCW",
+			"TOF",
+			"TJM",
+			"UUD",
+			"ULV",
+			"UFA",
+			"VVO",
+			"OGZ",
+			"VOG",
+			"VOZ",
+			"YKS",
+			"IAR",
+			"SVX",
+			"UUS"
 		],
 		"links": [
 			{
@@ -10094,7 +10822,9 @@
 		"lon": -62.7333,
 		"title": "Saint Kitts and Nevis",
 		"description": "Saint Kitts and Nevis are a pair of tropical islands in the Caribbean, about one-third of the way from Puerto Rico to Trinidad and Tobago. It is called \"The Mother Colony of the West Indies\".",
-		"airports": [],
+		"airports": [
+			"SKB"
+		],
 		"links": [
 			{
 				"href": "http://www.nevisisland.com/getting-here/arriving-by-sea",
@@ -10138,7 +10868,6 @@
 		"title": "Saint Lucia",
 		"description": "Saint Lucia is a British Commonwealth country that is an island in the Caribbean, off the coast of Central America. It lies between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago. It is called the \"Helen of the West Indies\".",
 		"airports": [
-			"SLU",
 			"UVF"
 		],
 		"links": [
@@ -10178,7 +10907,8 @@
 		"title": "Saint Vincent and the Grenadines",
 		"description": "   \nSaint Vincent and the Grenadines is an island nation in the Caribbean, north of Trinidad and Tobago. It shares the southernmost Grenadines Islands with the independent island nation of Grenada.",
 		"airports": [
-			"SVD"
+			"SVD",
+			"CIW"
 		],
 		"links": [
 			{
@@ -10289,8 +11019,7 @@
 		"title": "São Tomé and Príncipe",
 		"description": "   \nSão Tomé and Príncipe (often called \"São Tomé\" or STP for short) is a nation of about 202,000 people (2018) living on two main islands that are about 259 km apart off the Atlantic coast of Central Africa. The islands straddle the Equator in the Gulf of Guinea, west of Gabon. It sees few tourists: in 2016, there were an estimated 13,000 visitors to the country.",
 		"airports": [
-			"TMS",
-			"PCP"
+			"TMS"
 		],
 		"links": [],
 		"destinations": [
@@ -10322,7 +11051,22 @@
 		"lon": 44.116667,
 		"title": "Saudi Arabia",
 		"description": "   \nSaudi Arabia is a kingdom which geographically dominates the Arabian peninsula, with coastlines on the Persian Gulf and the Red Sea. It borders Jordan, Iraq, Kuwait, Bahrain, Qatar, the United Arab Emirates, Oman and Yemen.",
-		"airports": [],
+		"airports": [
+			"AHB",
+			"HOF",
+			"AJF",
+			"ELQ",
+			"DMM",
+			"HAS",
+			"JED",
+			"GIZ",
+			"MED",
+			"EAM",
+			"RUH",
+			"TUU",
+			"TIF",
+			"YNB"
+		],
 		"links": [
 			{
 				"href": "http://www.saptco.com.sa/",
@@ -10385,7 +11129,9 @@
 		"lon": -14.5167,
 		"title": "Senegal",
 		"description": "   \nSenegal is an officially Francophone country in Western Africa. With the Atlantic Ocean to the west, Senegal has Guinea-Bissau to the south, Guinea to the southeast, Mali to the east, and Mauritania to the north. The Gambia is almost an enclave of Senegal in the middle of the western coast.",
-		"airports": [],
+		"airports": [
+			"DSS"
+		],
 		"links": [],
 		"destinations": [
 			"Dakar",
@@ -10433,7 +11179,8 @@
 		"description": "   \nSerbia (Serbian: Србија, Srbija) is a country at the crossroads of Central Europe and the Balkans, on one of the major land routes from Central Europe to the Near East. It is bordered by Montenegro to the south, Bosnia and Herzegovina to the west, Bulgaria to the southeast, Croatia to the northwest, Hungary to the north, North Macedonia and Kosovo to the south, and Romania to the northeast. ",
 		"airports": [
 			"BEG",
-			"INI"
+			"INI",
+			"KVO"
 		],
 		"links": [
 			{
@@ -10552,7 +11299,9 @@
 		"lon": -11.916667,
 		"title": "Sierra Leone",
 		"description": "   \nSierra Leone is on the West Coast of Africa. The Republic of Guinea is to the north and northeast; Liberia is to the east and southeast, and the Atlantic Ocean on the west and south. It has 402 km (250 mi) of coastline.",
-		"airports": [],
+		"airports": [
+			"FNA"
+		],
 		"links": [],
 		"destinations": [
 			"Freetown",
@@ -10594,11 +11343,7 @@
 		"title": "Singapore",
 		"description": "Singapore (Chinese: 新加坡; Malay: Singapura; Tamil: சிங்கப்பூர்) is a city-state in Southeast Asia. Singapore was founded as a British trading colony in 1819, and since independence, it has become one of the world's most prosperous countries and boasts one of the world's busiest ports. Singaporean food is legendary, with bustling hawker centres and 24-hour coffee shops offering affordable food from all parts of Asia. Combining the skyscrapers and subways of a modern, affluent city with a medley of Chinese, Malay and Indian influences and a tropical climate, with tasty food, good shopping and a vibrant nightlife scene, this Garden City makes a great stopover or springboard into the region.",
 		"airports": [
-			"JHB",
-			"BTH",
-			"TNJ",
-			"SIN",
-			"XSP "
+			"SIN"
 		],
 		"links": [
 			{
@@ -10700,11 +11445,10 @@
 		"description": "   \nSlovakia (Slovak: Slovensko) or the Slovak Republic  (Slovenská republika) is a landlocked country in Central Europe. It is surrounded by Austria to the west, Czech Republic to the northwest, Hungary to the south, Poland to the north and Ukraine to the east. Slovakia is a modern democratic country and is a member of the European Union.",
 		"airports": [
 			"BTS",
-			"VIE",
-			"TAT",
 			"KSC",
-			"SLD",
-			"PRG"
+			"PZY",
+			"TAT",
+			"ILZ"
 		],
 		"links": [
 			{
@@ -10786,7 +11530,11 @@
 		"lon": 14.9,
 		"title": "Slovenia",
 		"description": "Slovenia (Slovenian: Slovenija) is a country in Central Europe that lies in the eastern Alps at the northern end of the Adriatic Sea, with Austria to the north, Italy to the southwest, Hungary to the northeast and Croatia to the south. Despite its small size, Slovenia has a surprising variety of terrain, ranging from the beaches of the Mediterranean to the peaks of the Julian Alps, to the rolling hills of the south. Slovenia was already more economically advanced than other nations behind the iron curtain prior to European integration and the powerhouse of Tito's Yugoslavia. Contrary to the popular misconception, Slovenia was not a part of the Eastern bloc (not after the Yugoslavian notorious split with the Soviet Union in 1948). Added the fact that Slovenia is also home to some of the finest scenery in the \"New Europe\", the transition from socialism to the European common market economy has gone well and serves as a model for other nations on the same track to follow.",
-		"airports": [],
+		"airports": [
+			"LJU",
+			"MBX",
+			"POW"
+		],
 		"links": [
 			{
 				"href": "http://www.slo-zeleznice.si/en/",
@@ -10893,6 +11641,11 @@
 		"title": "Somalia",
 		"description": "Somalia (Somali: Soomaaliya; Arabic: الصومال‎ aṣ-Ṣūmāl) is on the Horn of Africa and is shaped like the number seven. It is bordered by Ethiopia to the west, Djibouti to the north-west, and Kenya on its south-west. This is a country with a troubled past. Civil war, military coups, border disputes and warlordism have been the general course of events here since government collapsed in 1991. Things improved in 2012 when the Al-Shabaab jihadist group was driven out of the cities and a permanent (rather than transitional) central government was formed for the first time since 1991.",
 		"airports": [
+			"BSA",
+			"GLK",
+			"GGR",
+			"HGA",
+			"KMU",
 			"MGQ"
 		],
 		"links": [],
@@ -10929,7 +11682,15 @@
 		"lon": 24,
 		"title": "South Africa",
 		"description": "   \nSouth Africa is Africa's southernmost country. It is bordered by Namibia, Botswana, Zimbabwe, Mozambique, Eswatini (Swaziland) and Lesotho (which is completely surrounded by South Africa). It is a large country with widely varying landscapes, 11 official languages, and an equally diverse population.",
-		"airports": [],
+		"airports": [
+			"BFN",
+			"CPT",
+			"DUR",
+			"ELS",
+			"JNB",
+			"MQP",
+			"PTG"
+		],
 		"links": [
 			{
 				"href": "http://www.princess.com/ports/CPT_X.html",
@@ -11049,10 +11810,13 @@
 		"title": "South Korea",
 		"description": "   \nSouth Korea (Korean: 한국, 韓國 Hanguk), officially the Republic of Korea (대한민국, 大韓民國 Daehan Minguk) is a country in East Asia.  South Korea occupies the southern half of the Korean Peninsula, with North Korea to the north, China across the sea to the west and Japan a short ferry ride to the southeast.",
 		"airports": [
-			"ICN",
-			"GMP",
 			"PUS",
-			"CJU"
+			"TAE",
+			"CJU",
+			"GMP",
+			"CJJ",
+			"MWX",
+			"YNY"
 		],
 		"links": [
 			{
@@ -11144,7 +11908,10 @@
 		"lon": 29.90479,
 		"title": "South Sudan",
 		"description": "South Sudan is a country in Central Africa. It was a region of Sudan until it became an independent country on 9 July 2011 after a referendum was held in January that year. It borders Sudan, Ethiopia, Uganda, Kenya, Democratic Republic of the Congo, and the Central African Republic.",
-		"airports": [],
+		"airports": [
+			"JUB",
+			"MAK"
+		],
 		"links": [
 			{
 				"href": "http://www.sudanrailways.gov.sd",
@@ -11196,9 +11963,39 @@
 		"title": "Spain",
 		"description": "   \nSpain (Spanish: España) shares the Iberian Peninsula with Andorra, Gibraltar, and Portugal. It has the second-largest number of UNESCO World Heritage Sites after Italy and the largest number of World Heritage Cities.",
 		"airports": [
-			"MAD",
+			"LCG",
+			"ALC",
+			"LEI",
+			"OVD",
 			"BCN",
-			"AGP"
+			"BIO",
+			"CDT",
+			"FUE",
+			"GRO",
+			"LPA",
+			"GRX",
+			"HSK",
+			"IBZ",
+			"XRY",
+			"SPC",
+			"ACE",
+			"ILD",
+			"MAD",
+			"AGP",
+			"MAH",
+			"RMU",
+			"PMI",
+			"PNA",
+			"REU",
+			"SDR",
+			"SCQ",
+			"SVQ",
+			"TFN",
+			"VLC",
+			"VLL",
+			"VGO",
+			"VIT",
+			"ZAZ"
 		],
 		"links": [
 			{
@@ -11302,8 +12099,10 @@
 		"title": "Sri Lanka",
 		"description": "   \nSri Lanka (Sinhalese: ශ්‍රී ලංකා Śrī Laṃkā; Tamil: இலங்கை Ilaṅkai), formerly known as Ceylon, is in Southern Asia. It is an island country in the Indian Ocean, south of India.",
 		"airports": [
+			"BTC",
 			"CMB",
-			" HRI"
+			"HRI",
+			"JAF"
 		],
 		"links": [],
 		"destinations": [
@@ -11348,7 +12147,10 @@
 		"lon": 32,
 		"title": "Sudan",
 		"description": "Sudan (Arabic: السودان Al-Sudan) is the third largest country in Africa and sixteenth largest in the world, bordering Egypt, Eritrea, Central African Republic, Chad, Ethiopia, Libya, and South Sudan. Getting a visa for Sudan is an expensive hit-and-miss affair, but if you do manage to get in, and you stick to the safe areas, you will probably have a memorable experience.  The Sudanese people are very hospitable, and you can visit some awesome tourist attractions without even seeing another tourist.",
-		"airports": [],
+		"airports": [
+			"KRT",
+			"PZU"
+		],
 		"links": [
 			{
 				"href": "http://www.sudanrailways.gov.sd",
@@ -11399,8 +12201,7 @@
 		"title": "Suriname",
 		"description": "   \nSuriname (pronounced \"surinam\") is a small republic on the northeast coast of South America. It prides itself on its thoroughly multi-ethnic culture, a colourful blend of indigenous Indian traditions and those of its former Dutch colonisers and the African, Javanese and Hindustan workers they once brought with them. It's a country with a fabulous and largely untouched Amazon inland, slowly discovering its chances as an ecotourism destination. International visitors are steadily following Dutch travellers who have long been drawn to this friendly, tropical country to explore its spectacular nature, captivating cultural heritage and meet its ever smiling people.",
 		"airports": [
-			"PBM",
-			"ORG"
+			"PBM"
 		],
 		"links": [],
 		"destinations": [
@@ -11436,15 +12237,16 @@
 		"title": "Sweden",
 		"description": "Sweden (Swedish: Sverige) is the largest of the Nordic countries by size and population, with about 10 million inhabitants. It borders Norway and Finland and is connected to Denmark via a bridge-tunnel across Öresund.",
 		"airports": [
-			"ARN",
 			"GOT",
-			"CPH",
-			"OSL",
-			"NYO",
-			"BMA",
-			"VST",
+			"LLA",
 			"MMX",
-			"JKG"
+			"NRK",
+			"OSD",
+			"ARN",
+			"SDL",
+			"UME",
+			"VXO",
+			"VBY"
 		],
 		"links": [
 			{
@@ -11569,16 +12371,12 @@
 		"title": "Switzerland",
 		"description": "   \nSwitzerland (German: Schweiz, French: Suisse, Italian: Svizzera, Romansch: Svizra), officially the Swiss Confederation (Latin: Confoederatio Helvetica, hence the abbreviation \"CH\") is a landlocked country in Central Europe. It has borders with France to the west, Italy to the south, Austria and Liechtenstein to the east and Germany to the north.",
 		"airports": [
-			"ZRH",
-			"GVA",
 			"BSL",
-			"LUG",
 			"BRN",
-			"EAP",
-			"STR",
-			"MUC",
-			"FMM",
-			"FRA"
+			"GVA",
+			"LUG",
+			"ACH",
+			"ZRH"
 		],
 		"links": [
 			{
@@ -11656,9 +12454,10 @@
 		"title": "Syria",
 		"description": "Syria (الجمهوريّة العربيّة السّوريّة Al-Jumhuriya al-`Arabiya as-Suriya, the Syrian Arab Republic) is one of the larger states of the Middle East. Its capital, and second largest city after Aleppo, is Damascus, the world's oldest continuously inhabited city. Syria is bordered to the north by Turkey, to the east by Iraq, by Jordan and Israel to the south, and by Lebanon to the south-west. In addition, the western part of the country has a short coastline on the Mediterranean Sea.",
 		"airports": [
+			"ALP",
 			"DAM",
-			"ALP ",
-			"LTK"
+			"LTK",
+			"KAC"
 		],
 		"links": [
 			{
@@ -11712,7 +12511,12 @@
 		"lon": 71,
 		"title": "Tajikistan",
 		"description": "   \nTajikistan is a landlocked country in Central Asia that borders Afghanistan to the south, China to the east, Kyrgyzstan to the north, and Uzbekistan to the west and northwest. The ancient Silk Road passed through it. The nation is unique in that the majority culture is non-Turkic, unlike its neighbors to the north and west and east. Tajikistan is the poorest country out of the former Soviet states, the poorest country in Central Asia and one of the world's poorest, largely owing to a devastating civil war that broke out shortly after independence in 1991.",
-		"airports": [],
+		"airports": [
+			"KQT",
+			"DYU",
+			"LBD",
+			"TJU"
+		],
 		"links": [],
 		"destinations": [
 			"Dushanbe",
@@ -11753,8 +12557,12 @@
 		"title": "Tanzania",
 		"description": "Tanzania is the largest country in East Africa. It is bordered by Kenya and Uganda to the north; Rwanda, Burundi and the Democratic Republic of the Congo to the west; and Zambia, Malawi and Mozambique to the south.",
 		"airports": [
+			"ARK",
 			"DAR",
-			"JRO"
+			"JRO",
+			"MWZ",
+			"TGT",
+			"ZNZ"
 		],
 		"links": [
 			{
@@ -11828,8 +12636,15 @@
 		"description": "   \nThailand (Thai: ประเทศไทย Prathet Thai), officially the Kingdom of Thailand (ราชอาณาจักรไทย Ratcha-anachak Thai), is a monarchy in Southeast Asia with coasts on the Andaman Sea and the Gulf of Thailand.",
 		"airports": [
 			"BKK",
+			"CNX",
+			"CEI",
+			"UTP",
+			"HDY",
+			"KBV",
 			"HKT",
-			"DMK"
+			"URT",
+			"USM",
+			"UTH"
 		],
 		"links": [
 			{
@@ -12039,14 +12854,13 @@
 		"title": "Tunisia",
 		"description": "Tunisia (Arabic: تونس‎ Tūnis), officially the Republic of Tunisia (Arabic: الجمهورية التونسية‎ al-Jumhūriyyah at-Tūnisiyyah), is a country in North Africa at the  Mediterranean Sea. The turmoil of the Arab Spring began in Tunisia in 2010, and the country is today an island of stability in a chaotic region.",
 		"airports": [
-			"TUN",
-			"MIR",
+			"DJE",
 			"NBE",
+			"MIR",
 			"SFA",
-			"TOE",
-			"GAF",
 			"TBJ",
-			"DJE"
+			"TOE",
+			"TUN"
 		],
 		"links": [
 			{
@@ -12105,8 +12919,27 @@
 		"title": "Turkey",
 		"description": "Turkey (Turkish: Türkiye) is a bi-continental country, consisting of the Anatolian region of West Asia, and Eastern Thrace on the Balkan peninsula in Europe. These lands are separated by the Turkish Straits (Bosphorus, Sea of Marmara, and Dardanelles). With the Black Sea to the north and the Aegean Sea in the west and Mediterranean Sea to the southwest, Turkey borders Bulgaria and Greece in the west, Armenia, Azerbaijan and Georgia to the northeast, and Syria, Iraq and Iran to the southeast. While geographically most of the country is situated in Asia, most Turkish people consider themselves to be Europeans.",
 		"airports": [
+			"ADA",
+			"GZP",
+			"ESB",
+			"AYT",
+			"BJV",
+			"YEI",
+			"DLM",
+			"DNZ",
+			"DIY",
+			"EZS",
+			"GZT",
 			"IST",
-			"SAW"
+			"ADB",
+			"ASR",
+			"KYA",
+			"KZR",
+			"MLX",
+			"NAV",
+			"SZF",
+			"TZX",
+			"ONQ"
 		],
 		"links": [
 			{
@@ -12198,7 +13031,13 @@
 		"lon": 60,
 		"title": "Turkmenistan",
 		"description": "   \nTurkmenistan is a country in Central Asia with a population of about 5 million, and an area around half a million km2, or almost the size of Spain. Neighbouring countries are Iran and Afghanistan to the south, and Uzbekistan and Kazakhstan to the north. It has a coast on the Caspian Sea, but is otherwise landlocked. Nearly 80% of the country is part of the Karakum Desert.",
-		"airports": [],
+		"airports": [
+			"ASB",
+			"TAZ",
+			"MYP",
+			"KRW",
+			"CRZ"
+		],
 		"links": [
 			{
 				"href": "http://railway.gov.tm/en/schedule",
@@ -12289,7 +13128,11 @@
 		"lon": 32.39,
 		"title": "Uganda",
 		"description": "   \nUganda is a country in East Africa. It is bordered to the east by Kenya, to the north by South Sudan, to the west by the Democratic Republic of the Congo, to the southwest by Rwanda, and to the south by Tanzania. Famously called the Pearl of Africa by Winston Churchill, it is home to one of the most diverse and concentrated ranges of African fauna including the highly endangered mountain gorilla and the endangered common chimpanzee.",
-		"airports": [],
+		"airports": [
+			"RUA",
+			"EBB",
+			"ULU"
+		],
 		"links": [
 			{
 				"href": "http://www.link.co.ug",
@@ -12347,7 +13190,20 @@
 		"lon": 32,
 		"title": "Ukraine",
 		"description": "   \nUkraine (Ukrainian: Україна) is a large country in Eastern Europe. It lies at the northwest end of the Black Sea, with Russia to the east, Belarus to the north, Poland to the northwest, Slovakia and Hungary to the west, and Romania to the south west and south, with Moldova in between.",
-		"airports": [],
+		"airports": [
+			"CWC",
+			"IFO",
+			"HRK",
+			"KWG",
+			"KBP",
+			"LWO",
+			"NLV",
+			"ODS",
+			"PLV",
+			"SIP",
+			"UDJ",
+			"OZH"
+		],
 		"links": [
 			{
 				"href": "http://www.uz.gov.ua/en/passengers/",
@@ -12422,8 +13278,11 @@
 		"title": "United Arab Emirates",
 		"description": "   \nThe United Arab Emirates (Arabic: دولة الإمارات العربية المتحدة) or simply the Emirates, is a federation of seven emirates on the eastern side of the Arabian peninsula, at the entrance to the Persian Gulf. It has coastlines on the Gulf of Oman and the Persian Gulf. The neighboring states are Saudi Arabia to the west and southwest, and Oman to the east and southeast, including Omani enclaves on the Musandam Peninsula and at Madha. It is a country rich in history and culture and an easy starting point for travels in the Middle East.",
 		"airports": [
-			"DXB",
-			"AUH"
+			"AUH",
+			"AAN",
+			"DWC",
+			"RKT",
+			"SHJ"
 		],
 		"links": [],
 		"destinations": [
@@ -12747,7 +13606,7 @@
 				"American English"
 			]
 		},
-		"snippets": 58,
+		"snippets": 49,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG",
 		"updated": "2025-03-16T01:50:40.893Z"
 	},
@@ -12757,7 +13616,11 @@
 		"lon": -56.1667,
 		"title": "Uruguay",
 		"description": "   \nUruguay is the second-smallest country in South America (after Suriname), bordered by Argentina to the west, Brazil to the northeast, and the Atlantic Ocean to the southeast. The country is known for its colonial-era historic districts in Colonia and Montevideo, popular beaches on the Atlantic Coast, and beef production—a former meat processing plant in Fray Bentos is a world heritage site. Calmer and safer than its neighbors, Uruguay is a friendly, easygoing destination.",
-		"airports": [],
+		"airports": [
+			"MVD",
+			"PDP",
+			"RVY"
+		],
 		"links": [
 			{
 				"href": "http://www.trescruces.com.uy",
@@ -12833,7 +13696,17 @@
 		"title": "Uzbekistan",
 		"description": "   \nUzbekistan has borders with  Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan and Turkmenistan. It has the largest population among all the Central Asian countries, and a heritage of the Silk Road.",
 		"airports": [
-			"TAS"
+			"AZN",
+			"BHK",
+			"FEG",
+			"KSQ",
+			"NMA",
+			"NVI",
+			"NCU",
+			"SKD",
+			"TAS",
+			"TMJ",
+			"UGC"
 		],
 		"links": [
 			{
@@ -12921,7 +13794,9 @@
 		"title": "Venezuela",
 		"description": "Venezuela is a country in South America. Having a shoreline along the Caribbean Sea and the North Atlantic Ocean, Venezuela borders  Colombia to the west, Guyana to the east and Brazil to the south, and is situated on the major sea and air routes linking North and South America. Off the Venezuelan coast are the Caribbean islands of Aruba, Bonaire, Curaçao and Trinidad and Tobago.",
 		"airports": [
-			"CCS"
+			"CCS",
+			"MAR",
+			"VLN"
 		],
 		"links": [
 			{
@@ -12990,9 +13865,16 @@
 		"title": "Vietnam",
 		"description": "   \nVietnam (Vietnamese: Việt Nam), officially the Socialist Republic of Vietnam (Cộng hòa xã hội chủ nghĩa Việt Nam) is a country in Southeast Asia. Its neighboring countries are China to the north, Laos and Cambodia to the west.",
 		"airports": [
-			"PQC",
+			"DAD",
 			"HAN",
-			"SGN"
+			"SGN",
+			"VCA",
+			"HPH",
+			"HUI",
+			"PQC",
+			"CXR",
+			"VCL",
+			"VDO"
 		],
 		"links": [
 			{
@@ -13062,7 +13944,12 @@
 		"lon": 48,
 		"title": "Yemen",
 		"description": "Yemen is on the southern tip of the Arabian Peninsula, and sharing borders with Saudi Arabia and Oman.  Since at least 2011, Yemen has endured a bloody civil war, and tribal conflicts are ongoing.",
-		"airports": [],
+		"airports": [
+			"ADE",
+			"SAH",
+			"GXF",
+			"SCT"
+		],
 		"links": [],
 		"destinations": [
 			"Sana'a",
@@ -13101,7 +13988,12 @@
 		"lon": 28,
 		"title": "Zambia",
 		"description": "   \nZambia is a state in Southern Africa.  Roughly the size of Texas or France, Zambia is a landlocked country, bordered by Tanzania to the northeast, Malawi to the east, Mozambique to the southeast, Zimbabwe and Botswana to the south, a narrow strip of Namibia known as the Caprivi Strip to the southwest, Angola to the west, and the Democratic Republic of the Congo to the northwest.",
-		"airports": [],
+		"airports": [
+			"LVI",
+			"LUN",
+			"MFU",
+			"NLA"
+		],
 		"links": [
 			{
 				"href": "http://www.tazara.co.tz",
@@ -13164,7 +14056,11 @@
 		"lon": 30,
 		"title": "Zimbabwe",
 		"description": "A landlocked country in Southern Africa, \nZimbabwe  is bordered by South Africa to the south, Botswana to the southwest, Zambia to the northwest, and Mozambique to the east and north. \nThe border with Zambia is formed by the Zambezi River which when in full flood drops as the world's largest curtain of falling water at the mighty Victoria Falls which is a major tourist attraction.",
-		"airports": [],
+		"airports": [
+			"HRE",
+			"VFA",
+			"BUQ"
+		],
 		"links": [
 			{
 				"href": "http://www.nrz.co.zw",
