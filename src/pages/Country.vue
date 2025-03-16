@@ -26,9 +26,9 @@ const center = ref( [
 ] );
 const zoom = ref( country.value.zoom );
 const getOpacity = ( seen ) => seen ? '' : 'opacity: 0.5'
-const editUrl = `https://github.com/jdlrobson/somedayguidenew/tree/master/notes/country/${countryName}/note.txt`;
+const editUrl = `https://github.com/jdlrobson/somedayguidenew/edit/main/notes/country/${countryName}/note.txt`;
 const addSnippetUrl = `https://github.com/jdlrobson/somedayguidenew/new/main/notes/country/${countryName}/snippets`;
-
+const editDestinationsUrl = `https://github.com/jdlrobson/somedayguidenew/edit/main/notes/country/${countryName}/destinations.txt`
 const places = ref( {} );
 const snippets = ref( [] );
 const note = ref( '' );
@@ -94,6 +94,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     <Map v-if="mapReady"
                         :places="destinationCoordinates"
                         :center="[ country.lat, country.lon ]" :zoom="country.zoom || 8"></Map>
+                    <a :href="editDestinationsUrl" class="editLink">edit</a>
                 </note>
                 <note>
                     <h2>Nearby countries</h2>
@@ -130,6 +131,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     :embed="s.embed"
                     :href="s.url"
                     :thumbnailSource="s.source"
+                    :editUrl="`https://github.com/jdlrobson/somedayguidenew/edit/main/notes/country/${countryName}/snippets/${s.id}.txt`"
                     :thumbnail="s.src">
                     <div class="embed">
                         <EmbedYoutube
@@ -200,5 +202,6 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
     top: 8px;
     right: 8px;
     color: gray;
+    z-index: 2000;
 }
 </style>

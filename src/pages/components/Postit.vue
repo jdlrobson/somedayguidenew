@@ -11,7 +11,8 @@ const props = defineProps({
   thumbnailSource: String,
   href: String,
   text: String,
-  style: String
+  style: String,
+  editUrl: Boolean
 })
 const hasImage = !props.embed && props.thumbnail;
 const className = {
@@ -56,13 +57,14 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
 <template>
   <div :class="className" :style="style">
     <Thumbtack></Thumbtack>
+    <a v-if="editUrl" class="editLink" :href="editUrl">edit</a>
     <h2 v-if="title">{{ title }}</h2>
     <img v-if="hasImage" :src="thumbnail" loading="lazy">
     <div class="postit-text" v-if="text">
       <span v-html="text"></span>
     </div>
-    <a v-if="target" class="a-internal" :target="target" :href="href"></a>
-    <router-link v-else-if="href" class="a-external" :to="href"></router-link>
+    <a v-if="target" class="a-internal postit-link" :target="target" :href="href"></a>
+    <router-link v-else-if="href" class="a-external postit-link" :to="href"></router-link>
     <slot></slot>
     <link-logo v-if="href" :href="href"></link-logo>
     <a class="thumbSource" :target="thumbnailTarget"
@@ -81,7 +83,7 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   background: #ffffc1;
   justify-content: center;
 }
-.postit > a {
+.postit .postit-link {
   position: absolute;
   left: 0;
   right: 0;
@@ -191,7 +193,10 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   max-height: none;
 }
 .postit .thumbSource {
+  position: absolute;
   bottom: 0;
+  left: 0;
+  right: 0;
   top: auto;
   background: white;
   opacity: 0.8;
@@ -199,5 +204,13 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   font-size: 0.825rem;
   text-align: right;
   padding: 3px;
+}
+
+.editLink {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    color: black;
+    z-index: 2000;
 }
 </style>
