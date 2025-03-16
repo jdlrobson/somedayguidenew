@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "The Bosfor leaves Bucharest Gara de Nord at 10:11 and arrives Halkali (Istanbul) at 06:34 next morning.",
 			"src": "",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.seat61.com/trains-and-routes/bucharest-and-sofia-to-istanbul-by-train.htm"
 		},
 		{
+			"id": "2",
 			"text": "Join us in this episode as we travel through Romania. We explore the Carpathian Mountains, see bears and wild nature. <small>[image from Reisenomaden]</small>",
 			"src": "https://reisenomaden.com/wp-content/uploads/2023/08/IMG_4429.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://reisenomaden.com/romania-bears-carpathians/?lang=en"
 		},
 		{
+			"id": "3",
 			"text": "Sighisoara is one of the most popular places to travel in Romania to explore the history and culture and get a taste of Transylvania. <small>[image from The Hangry Backpacker]</small>",
 			"src": "https://i0.wp.com/hangrybackpacker.com/wp-content/uploads/2023/03/Hangry-Backpacker-Sighisoara-Romania-Travel-Guide.png?fit=1366%2C1024&ssl=1",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://hangrybackpacker.com/sighisoara-romania-travel-guide/"
 		},
 		{
+			"id": "4",
 			"text": "It was a long drive from our hotel in Sighisoara to Guru Humorului in the Romanian province of Bucovina. Our morning drive involved two stops that broke the journey. The first stop was at Red Lake … <small>[image from FOGTRAVEL]</small>",
 			"src": "https://fogtravel.blog/wp-content/uploads/2018/09/bucovina1.jpg",
 			"source": "",
@@ -974,6 +978,18 @@
 			],
 			"lat": 44.24638889,
 			"lon": 28.62277778
-		}
+		},
+		"Suceava": {},
+		"Hunedoara (city)": {},
+		"Poiana Brașov": {},
+		"Băile Herculane": {},
+		"Transylvanian Alps": {},
+		"Biertan": {},
+		"Câlnic": {},
+		"Dârjiu": {},
+		"Prejmer": {},
+		"Viscri": {},
+		"Transylvania": {},
+		"Turda": {}
 	}
 }

@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D.  ... <small>[image from whc.unesco.org]</small>",
 			"src": "https://whc.unesco.org/uploads/thumbs/site_1336_0004-1200-630-20221125095708.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://whc.unesco.org/en/list/1336/"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Western Deffufa, located in pre historic city of Kerma, Sudan, is a temple dating back to circa 1750 BC. It is considered the oldest man made structure in Sub-Saharan Africa. Rising about 65 feet high, it was built entirely from sun-dried mudbricks. Inside, the structure consists of a series of chambers and courtyards, thought to have been used for religious activities, rituals, and ceremonies central to the Kerma civilization. The word \"Deffufa\" comes from the Nubian language, referring to buildings made of mudbrick, which were common Kerma’s architectural style.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Western_Deffufa_-_Kerma.jpg/320px-Western_Deffufa_-_Kerma.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Western_Deffufa"
 		},
 		{
+			"id": "3",
 			"text": "The Archaeological Mission to Musawwarat",
 			"src": "",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://www.musawwarat.com/about-musawwarat/the-lion-temple/"
 		},
 		{
+			"id": "4",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -349,6 +353,10 @@
 			],
 			"lat": 18.483333,
 			"lon": 31.816667
-		}
+		},
+		"Al Ubayyid": {},
+		"Gedaref": {},
+		"Nyala": {},
+		"Jebel Barkal": {}
 	}
 }

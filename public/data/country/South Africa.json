@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Bo-Kaap is an area of Cape Town, South Africa formerly known as the Malay Quarter. It is a former racially segregated area, situated on the slopes of Signal Hill above the city centre and is a historical centre of Cape Malay culture in Cape Town. The Nurul Islam Mosque, established in 1844, is located in the area.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Boe-Kaap.jpg/320px-Boe-Kaap.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Bo-Kaap"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Cape of Good Hope is a rocky headland on the Atlantic coast of the Cape Peninsula in South Africa.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg/320px-Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Cape_of_Good_Hope"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> KwaZulu-Natal is a province of South Africa that was created in 1994 when the government merged the Zulu bantustan of KwaZulu and Natal Province.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Upland_South_Africa_Savanna.jpg/640px-Upland_South_Africa_Savanna.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/KwaZulu-Natal"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Table Mountain is a flat-topped mountain forming a prominent landmark overlooking the city of Cape Town in South Africa. It is a significant tourist attraction, with many visitors using the cableway or hiking to the top. Table Mountain National Park is the most visited national park in South Africa, attracting 4.2 million people every year for various activities. The mountain has 8,200 plant species, of which around 80% are fynbos, meaning fine bush. It forms part of the Table Mountain National Park, and part of the lands formerly ranged by Khoe-speaking clans, such as the !Uriǁʼaes. It is home to a large array of mostly endemic fauna and flora. Its top elevates about 1,000 m above the surrounding city, making the popular hike upwards on a large variety of different, often steep and rocky pathways a serious mountain tour which requires fitness, preparation and hiking equipment.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/320px-Table_Mountain_DanieVDM.jpg",
 			"source": "",
@@ -38,6 +42,7 @@
 			"url": "https://en.wikipedia.org/wiki/Table_Mountain"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Knysna is a town with 76,150 inhabitants in the Western Cape province of South Africa. It is one of the destinations on the loosely defined Garden Route tourist route. It is situated 60 kilometres east of the city of George on the N2 highway, and 33 kilometres west of the Plettenberg Bay on the same road.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Knysna_waterfront.jpg/320px-Knysna_waterfront.jpg",
 			"source": "",
@@ -47,6 +52,7 @@
 			"url": "https://en.wikipedia.org/wiki/Knysna"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Ithala Game Reserve is situated in 290 km2 of rugged, mountainous thornveld, about 400 km north of Durban, in northern KwaZulu-Natal, South Africa. It is one of the youngest game parks in South Africa. The altitude varies from 400 m along the Phongolo River to 1,450 m along the Ngotshe Mountain escarpment. The reserve consequently encompasses a great variation of terrain, from densely vegetated river valleys and lowveld to sourveld, high-lying grassland plateaus, mountain ridges and cliff faces.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ithala_Game_Reserve.jpg/320px-Ithala_Game_Reserve.jpg",
 			"source": "",
@@ -56,6 +62,7 @@
 			"url": "https://en.wikipedia.org/wiki/Ithala_Game_Reserve"
 		},
 		{
+			"id": "7",
 			"text": "It happens every year…the first signs of spring start showing up and I immediately run around celebrating the end of winter. Packing away my warm clothes, shaving my legs and digging out my s… <small>[image from tailsofamermaid.com]</small>",
 			"src": "https://i0.wp.com/tailsofamermaid.com/wp-content/uploads/2017/08/Screenshot-2018-11-06-at-09.34.15.png?resize=1200%2C1200&ssl=1",
 			"source": "",
@@ -845,6 +852,18 @@
 			],
 			"lat": -28.75,
 			"lon": 24.7667
-		}
+		},
+		"Kimberley (South Africa)": {},
+		"Hluhluwe-iMfolozi Park": {},
+		"Addo Elephant National Park": {},
+		"Marakele National Park": {},
+		"Cradle of Humankind": {},
+		"Robben Island": {},
+		"Ukhahlamba Drakensberg Park": {},
+		"Vredefort": {},
+		"Western Cape": {},
+		"North-West (South Africa)": {},
+		"Northern Cape": {},
+		"North West Province": {}
 	}
 }

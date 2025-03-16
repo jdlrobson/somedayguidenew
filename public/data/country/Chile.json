@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "The condor is the national bird of Chile and a sight worth seeing on your holiday. Here's where to find one.  <small>[image from www.cascada.travel]</small>",
 			"src": "https://www.cascada.travel/hubfs/condor%20%281%29.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.cascada.travel/blog/wildlife-in-chile-where-to-see-a-condor"
 		},
 		{
+			"id": "10",
 			"text": "<small>[from en.wikipedia.org]:</small> Aconcagua is one of the five principal wine regions of Chile. It encompasses all winegrowing areas in Valparaíso Region. The Aconcagua wine region is composed of four minor wine districts; Casablanca Valley, Aconcagua Costa, Aconcagua Valley and Leyda Valley.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/View_of_Aconcagua_Valley.jpg/320px-View_of_Aconcagua_Valley.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Aconcagua_(wine_region)"
 		},
 		{
+			"id": "2",
 			"text": "Here's what you need to know for the perfect stargazing trip in Chile’s Atacama Desert. <small>[image from Lonely Planet]</small>",
 			"src": "https://lp-cms-production.imgix.net/2020-12/GettyRF_590981231.jpg?w=600&h=400",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://www.lonelyplanet.com/articles/stargazing-atacama-desert-chile"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Moai or moʻai are monolithic human figures carved by the Rapa Nui people on Rapa Nui in eastern Polynesia between the years 1250 and 1500. Nearly half are still at Rano Raraku, the main moai quarry, but hundreds were transported from there and set on stone platforms called ahu around the island's perimeter. Almost all moai have overly large heads, which account for three-eighths of the size of the whole statue. They also have no legs. The moai are chiefly the living faces of deified ancestors.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/AhuTongariki.JPG/320px-AhuTongariki.JPG",
 			"source": "",
@@ -38,6 +42,7 @@
 			"url": "https://en.wikipedia.org/wiki/Moai"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Torres del Paine National Park is a national park encompassing mountains, glaciers, lakes, and rivers in southern Chilean Patagonia. The Cordillera del Paine is the centerpiece of the park. It lies in a transition area between the Magellanic subpolar forests and the Patagonian Steppes. The park is located 112 km (70 mi) north of Puerto Natales and 312 km (194 mi) north of Punta Arenas. The park borders Bernardo O'Higgins National Park to the west and the Los Glaciares National Park to the north in Argentine territory. Paine means \"blue\" in the native Tehuelche (Aonikenk) language and is pronounced PIE-neh. It was established as a National Park in 1959.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg/320px-Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg",
 			"source": "",
@@ -47,6 +52,7 @@
 			"url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Valparaíso is a major city, commune, seaport and naval base facility in Valparaíso Region, Chile.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg/320px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg",
 			"source": "",
@@ -56,6 +62,7 @@
 			"url": "https://en.wikipedia.org/wiki/Valpara%C3%ADso"
 		},
 		{
+			"id": "6",
 			"text": "At this beautifully preserved Pre-Hispanic site, you can see ancient petroglyphs with depictions of llamas and alpacas. <small>[image from Atlas Obscura]</small>",
 			"src": "https://img.atlasobscura.com/xL2Y6D3pxLN-MbblQTN8dJi5AuZiGRs-bnSw-bIoRcI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85MTg5/MzUwMC03YTA3LTQ2/NTctYmEwZC05YTI0/M2IyMDk0Y2E3NjM5/ZDJiZDMyZjFiNzMy/MzlfMjAxOS0wNy0w/OSAxMi4yMC4wMy5q/cGc.jpg",
 			"source": "",
@@ -65,6 +72,7 @@
 			"url": "https://www.atlasobscura.com/places/yerbas-buenas-petroglyphs"
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> Salar de Atacama, located 55 km (34 mi) south of San Pedro de Atacama, is the largest salt flat in Chile. It is surrounded by mountains and lacks drainage outlets. To the east, it is enclosed by the main chain of the Andes, while to the west lies a secondary mountain range called Cordillera de Domeyko. The landscape is dominated by imposing volcanoes such as Licancabur, Acamarachi, Aguas Calientes, and Láscar, the latter being one of Chile's most active volcanoes. These volcanoes are situated along the eastern side of the Salar de Atacama, forming a north–south trending line that separates it from smaller endorheic basins.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Salar_de_Atacama.jpg/320px-Salar_de_Atacama.jpg",
 			"source": "",
@@ -74,6 +82,7 @@
 			"url": "https://en.wikipedia.org/wiki/Salar_de_Atacama#:~:text=Salar%20de%20Atacama%2C%20located%2055,range%20called%20Cordillera%20de%20Domeyko."
 		},
 		{
+			"id": "8",
 			"text": "<small>[from en.wikipedia.org]:</small> El Tatio is a geothermal field with many geysers located in the Andes Mountains of northern Chile at 4,320 metres (14,170 ft) above mean sea level. It is the third-largest geyser field in the world and the largest in the Southern Hemisphere. Various meanings have been proposed for the name \"El Tatio\", including \"oven\" or \"grandfather\". The geothermal field has many geysers, hot springs, and associated sinter deposits. These hot springs eventually form the Rio Salado, a major tributary of the Rio Loa, and are a major source of arsenic pollution in the river. The vents are sites of populations of extremophile microorganisms such as hyperthermophiles, and El Tatio has been studied as an analogue for the early Earth and possible past life on Mars.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_01-02_HDR.JPG/320px-G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_01-02_HDR.JPG",
 			"source": "",
@@ -83,6 +92,7 @@
 			"url": "https://en.wikipedia.org/wiki/El_Tatio"
 		},
 		{
+			"id": "9",
 			"text": "<small>[from en.wikipedia.org]:</small> There are 16 extant historical elevators in the city of Valparaíso in Chile.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ascensor_Artiller%C3%ADa.jpg/320px-Ascensor_Artiller%C3%ADa.jpg",
 			"source": "",
@@ -950,6 +960,37 @@
 			],
 			"lat": -33.64138889,
 			"lon": -78.84111111
+		},
+		"La Serena": {
+			"lat": -29.9,
+			"lon": -71.25
+		},
+		"Vina del Mar": {},
+		"Lauca National Park": {
+			"lat": -18.2444,
+			"lon": -69.3539
+		},
+		"Pichilemu": {
+			"lat": -34.3833,
+			"lon": -72
+		},
+		"Robinson Crusoe Island": {
+			"lat": -33.64138889,
+			"lon": -78.84111111
+		},
+		"Torres del Paine National Park": {
+			"lat": -51.03,
+			"lon": -73.09
+		},
+		"Valle de Elqui": {},
+		"Valle de la Luna": {},
+		"Villarrica": {
+			"lat": -39.2666,
+			"lon": -72.2166
+		},
+		"Northern Chile": {
+			"lat": -26,
+			"lon": -69.4
 		}
 	}
 }

@@ -2,6 +2,7 @@
 	"note": "<p>A Carribean island we&#39;d love to relax in one day.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Pig Beach located on Big Major Cay is a beach on an uninhabited island located in Exuma, the Bahamas. The island takes its unofficial name from the fact that it is populated by a colony of feral pigs which live on the island. It has become a tourist attraction in modern times.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vorobek_Bahamas_-_swimming_pigs.jpg/320px-Vorobek_Bahamas_-_swimming_pigs.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Pig_Beach"
 		},
 		{
+			"id": "2",
 			"text": " <small>[image from commons.wikimedia.org]</small>",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pink_Sands_Beach%2C_Harbour_Island%2C_Bahamas_%285279465868%29.jpg/640px-Pink_Sands_Beach%2C_Harbour_Island%2C_Bahamas_%285279465868%29.jpg",
 			"source": "",
@@ -176,162 +178,6 @@
 			],
 			"lat": 25.078199,
 			"lon": -77.343849
-		},
-		"Paradise Island": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 25,
-					"low": 17,
-					"precipitation": 39
-				},
-				{
-					"heading": "Feb",
-					"high": null,
-					"low": 17,
-					"precipitation": 42
-				},
-				{
-					"heading": "Mar",
-					"high": null,
-					"low": 18,
-					"precipitation": 30
-				},
-				{
-					"heading": "Apr",
-					"high": null,
-					"low": 19,
-					"precipitation": 46
-				},
-				{
-					"heading": "May",
-					"high": null,
-					"low": 21,
-					"precipitation": 117
-				},
-				{
-					"heading": "Jun",
-					"high": null,
-					"low": 23,
-					"precipitation": 217
-				},
-				{
-					"heading": "Jul",
-					"high": null,
-					"low": 24,
-					"precipitation": 150
-				},
-				{
-					"heading": "Aug",
-					"high": null,
-					"low": 24,
-					"precipitation": 168
-				},
-				{
-					"heading": "Sep",
-					"high": null,
-					"low": 24,
-					"precipitation": 178
-				},
-				{
-					"heading": "Oct",
-					"high": 30,
-					"low": 22,
-					"precipitation": 182
-				},
-				{
-					"heading": "Nov",
-					"high": 28,
-					"low": 20,
-					"precipitation": 60
-				},
-				{
-					"heading": "Dec",
-					"high": 26,
-					"low": 18,
-					"precipitation": 44
-				}
-			],
-			"lat": 25.08333333,
-			"lon": -77.33333333
-		},
-		"Bimini": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 48,
-					"high": 21,
-					"low": 20
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 84,
-					"high": 20,
-					"low": 18
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 56,
-					"high": 24,
-					"low": 23
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 244,
-					"high": 25,
-					"low": 23
-				},
-				{
-					"heading": "May",
-					"precipitation": 215,
-					"high": 27,
-					"low": 24
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 181,
-					"high": 27,
-					"low": 25
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 199,
-					"high": 29,
-					"low": 25
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 216,
-					"high": 29,
-					"low": 26
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 247,
-					"high": 28,
-					"low": 26
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 148,
-					"high": 26,
-					"low": 25
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 89,
-					"high": 25,
-					"low": 24
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 42,
-					"high": 24,
-					"low": 22
-				}
-			],
-			"lat": 25.73333333,
-			"lon": -79.25
 		},
 		"Abacos": {
 			"climate": [
@@ -644,6 +490,53 @@
 			],
 			"lat": 22.38333333,
 			"lon": -72.95
-		}
+		},
+		"Grand Bahama": {
+			"lat": 26.65,
+			"lon": -78.3167
+		},
+		"Eleuthera": {
+			"lat": 25.14901,
+			"lon": -76.27258
+		},
+		"Long Island (Bahamas)": {
+			"lat": 23.2653,
+			"lon": -75.0944
+		},
+		"Cat Island": {
+			"lat": 24.311389,
+			"lon": -75.423056
+		},
+		"Berry Islands": {
+			"lat": 25.56666667,
+			"lon": -77.75
+		},
+		"San Salvador Island": {
+			"lat": 24.1,
+			"lon": -74.48333333
+		},
+		"Rum Cay": {
+			"lat": 23.68222222,
+			"lon": -74.86888889
+		},
+		"Acklins Island": {},
+		"Crooked Island": {},
+		"Inagua": {
+			"lat": 21.506519,
+			"lon": -73.005106
+		},
+		"Freeport (Bahamas)": {
+			"lat": 26.6667,
+			"lon": -78.75
+		},
+		"Matthew Town": {
+			"lat": 20.95,
+			"lon": -73.66666667
+		},
+		"Alice Town": {
+			"lat": 25.727694,
+			"lon": -79.2976
+		},
+		"Disney Cruise Line": {}
 	}
 }

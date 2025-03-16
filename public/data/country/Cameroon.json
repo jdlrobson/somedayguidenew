@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Bafut is a town located in a modern commune in Cameroon, it is also a traditional fondom. It is located in the Mezam Department, which in turn is located in the Northwest Province.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bafut.jpg/320px-Bafut.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Bafut,_Cameroon"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Kribi is a beach resort and sea port in Cameroon.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kribi.jpg/320px-Kribi.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kribi"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikivoyage.org]:</small> ",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ekom_Nkam_01.webm/320px--Ekom_Nkam_01.webm.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikivoyage.org/wiki/Ekom-Nkam_Waterfalls"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Beti people are a Central African ethnic group primarily found in central Cameroon. They are also found in Equatorial Guinea and northern Gabon. They are closely related to the Bulu people, the Fang people and the Yaunde people, who are all sometimes grouped as Ekang.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Branly_Fang-Beti_01.JPG/320px-Branly_Fang-Beti_01.JPG",
 			"source": "",
@@ -350,6 +354,42 @@
 			],
 			"lat": 7.31666667,
 			"lon": 13.58333333
+		},
+		"Bafoussam": {
+			"lat": 5.4667,
+			"lon": 10.4167
+		},
+		"Bamenda": {
+			"lat": 5.9333,
+			"lon": 10.1667
+		},
+		"Buea": {
+			"lat": 4.15,
+			"lon": 9.2333
+		},
+		"Garoua": {
+			"lat": 9.3,
+			"lon": 13.4
+		},
+		"Korup National Park": {
+			"lat": 5.083333,
+			"lon": 8.833333
+		},
+		"Mount Cameroon": {
+			"lat": 4.216667,
+			"lon": 9.1725
+		},
+		"Ngoketunjia": {
+			"lat": 6,
+			"lon": 10.4167
+		},
+		"Waza National Park": {
+			"lat": 11.33333333,
+			"lon": 14.73333333
+		},
+		"Bafia": {
+			"lat": 4.75,
+			"lon": 11.21666667
 		}
 	}
 }

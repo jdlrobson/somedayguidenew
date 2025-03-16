@@ -79,6 +79,39 @@
 			],
 			"lat": -3.38333333,
 			"lon": 29.36666667
-		}
+		},
+		"Bururi": {
+			"lat": -3.9537,
+			"lon": 29.6204
+		},
+		"Cibitoke": {
+			"lat": -2.89,
+			"lon": 29.12
+		},
+		"Gitega": {
+			"lat": -3.4281,
+			"lon": 29.925
+		},
+		"Muyinga": {
+			"lat": -2.85,
+			"lon": 30.33333333
+		},
+		"Ngozi": {},
+		"Bururi Forest Natural Reserve": {
+			"lat": -3.938889,
+			"lon": 29.597222
+		},
+		"Kibira National Park": {
+			"lat": -2.914664,
+			"lon": 29.433611
+		},
+		"Nyakazu Break and the Karera Falls": {},
+		"Rusizi Natural Reserve": {},
+		"Ruvubu National Park": {
+			"lat": -3.111,
+			"lon": 30.373
+		},
+		"Rwihinda Lake Natural Reserve": {},
+		"Vyanda Forest Natural Reserve": {}
 	}
 }

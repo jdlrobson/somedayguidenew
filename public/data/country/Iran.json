@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Arg of Karim Khan or Karim Khan Citadel, is a citadel located in downtown Shiraz, Iran. It was built as part of a complex during the Zand dynasty. It is named after Karim Khan, and served as his living quarters. It is rectangular in shape and resembles a medieval fortress. In the past, the citadel was sometimes used as a prison. Today, it is a museum operated by Iran's Cultural Heritage Organization.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arg.karimkhan.jpg/320px-Arg.karimkhan.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Arg_of_Karim_Khan"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Meybod is a city in the Central District of Meybod County, Yazd province, Iran, serving as capital of both the county and the district. Meybod is a major desert city and the second most populous city in the province.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%D8%B4%D9%87%D8%B1_%D9%82%D8%AF%DB%8C%D9%85%DB%8C_%D9%85%DB%8C%D8%A8%D8%AF.jpg/640px-%D8%B4%D9%87%D8%B1_%D9%82%D8%AF%DB%8C%D9%85%DB%8C_%D9%85%DB%8C%D8%A8%D8%AF.jpg",
 			"source": "",
@@ -800,6 +802,15 @@
 			],
 			"lat": 29.5025,
 			"lon": 60.85583333
-		}
+		},
+		"Hamedan": {},
+		"Mashad": {},
+		"Alamut": {},
+		"Kish Island": {},
+		"Qeshm Island": {},
+		"Pasargad": {},
+		"Persepolis": {},
+		"Shush (Iran)": {},
+		"Qeshm": {}
 	}
 }

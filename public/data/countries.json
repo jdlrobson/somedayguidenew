@@ -21,7 +21,6 @@
 			"Mazar-i-Sharif",
 			"Bagram",
 			"Balkh",
-			"Band-e Amir",
 			"Khyber Pass",
 			"Panjshir Valley",
 			"Gardez",
@@ -46,7 +45,7 @@
 		},
 		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lake_Band-e-Amir.jpg",
-		"updated": "2025-03-15T17:33:09.361Z"
+		"updated": "2025-03-15T18:37:31.419Z"
 	},
 	"Albania": {
 		"zoom": 6,
@@ -107,7 +106,7 @@
 		},
 		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Valbona.jpg",
-		"updated": "2025-03-15T17:33:09.361Z"
+		"updated": "2025-03-15T18:34:21.337Z"
 	},
 	"Algeria": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_16_ALGIERS_HARBOUR_jpg_440px-ALGIERS_HARBOUR.jpg",
@@ -138,7 +137,6 @@
 			"Batna",
 			"Bechar",
 			"Constantine, Algeria",
-			"",
 			"Oran",
 			"Sétif",
 			"Timimoun",
@@ -165,7 +163,7 @@
 		"snippets": 2,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:ALGIERS_HARBOUR.jpg",
-		"updated": "2025-03-15T17:48:38.128Z"
+		"updated": "2025-03-15T18:37:31.422Z"
 	},
 	"Andorra": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_57_Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01_JPG_2560px-Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01.JPG",
@@ -245,11 +243,9 @@
 			"Floresta do Maiombe",
 			"Great Escarpment (Angola)",
 			"Iona National Park",
-			"Kalandula Falls",
 			"Kissama National Park",
 			"Mussulo Island",
-			"Pungo Andongo",
-			"Sumbe Caves"
+			"Pungo Andongo"
 		],
 		"wb": "Q916",
 		"neighbors": [
@@ -266,10 +262,10 @@
 				"Portuguese"
 			]
 		},
-		"snippets": 0,
+		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Namibia_Ruacana_Falls.jpg",
-		"updated": "2025-03-15T17:33:09.362Z"
+		"updated": "2025-03-15T18:47:53.881Z"
 	},
 	"Antigua and Barbuda": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8a_Hafen_von_St_John's_jpg_440px-Hafen_von_St_John's.jpg",
@@ -282,11 +278,11 @@
 		],
 		"links": [],
 		"destinations": [
-			"Codrington",
+			"Codrington, Barbuda",
 			"Dickenson Bay",
 			"English Harbour",
 			"Falmouth (Antigua)",
-			"Half Moon Bay (Antigua)"
+			"Freetown, Antigua and Barbuda"
 		],
 		"wb": "Q781",
 		"neighbors": [
@@ -304,7 +300,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Hafen_von_St_John%27s.jpg",
-		"updated": "2025-03-15T17:33:09.362Z"
+		"updated": "2025-03-15T18:41:02.580Z"
 	},
 	"Argentina": {
 		"seen": 63,
@@ -401,7 +397,6 @@
 			"Salta",
 			"El Calafate",
 			"Nahuel Huapi National Park",
-			"Quebrada de Humahuaca",
 			"San Carlos de Bariloche"
 		],
 		"wb": "Q414",
@@ -423,7 +418,7 @@
 		"snippets": 10,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:El_Faro_de_C%C3%B3rdoba.jpg",
-		"updated": "2025-03-15T17:48:38.130Z"
+		"updated": "2025-03-15T18:40:56.314Z"
 	},
 	"Armenia": {
 		"zoom": 6,
@@ -550,7 +545,7 @@
 		},
 		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg",
-		"updated": "2025-03-15T18:04:58.604Z"
+		"updated": "2025-03-15T18:34:21.340Z"
 	},
 	"Austria": {
 		"zoom": 5,
@@ -601,7 +596,6 @@
 			"Salzkammergut",
 			"Thermenland",
 			"Zell am See",
-			"Eng",
 			"Hallstatt",
 			"Vöcklabruck",
 			"Bad Aussee"
@@ -628,7 +622,7 @@
 		},
 		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:IMG_9037-Innsbruck.JPG",
-		"updated": "2025-03-15T17:41:42.614Z"
+		"updated": "2025-03-15T18:42:10.267Z"
 	},
 	"Azerbaijan": {
 		"zoom": 5,
@@ -695,7 +689,7 @@
 		},
 		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG",
-		"updated": "2025-03-15T17:48:38.131Z"
+		"updated": "2025-03-15T18:34:21.341Z"
 	},
 	"Bahamas": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_Junkanoo_Valleyboys_NewYrs_parade_jpg_440px-Junkanoo_Valleyboys_NewYrs_parade.jpg",
@@ -713,11 +707,8 @@
 		"destinations": [
 			"New Providence",
 			"Nassau",
-			"Paradise Island",
 			"Grand Bahama",
-			"Bimini",
 			"Abacos",
-			"Elbow Cay",
 			"Eleuthera",
 			"Andros (Bahamas)",
 			"Exuma",
@@ -748,7 +739,7 @@
 		"snippets": 3,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Junkanoo_Valleyboys_NewYrs_parade.jpg",
-		"updated": "2025-03-15T17:48:38.132Z"
+		"updated": "2025-03-15T18:45:03.348Z"
 	},
 	"Bahrain": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6a_BahrainInternationalAirport01_jpeg_440px-BahrainInternationalAirport01.jpeg",
@@ -781,7 +772,7 @@
 			"Muharraq",
 			"Riffa",
 			"Sitrah",
-			"Jufair",
+			"Juffair",
 			"Hawar Islands"
 		],
 		"wb": "Q398",
@@ -799,7 +790,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:BahrainInternationalAirport01.jpeg",
-		"updated": "2025-03-15T17:33:09.365Z"
+		"updated": "2025-03-15T18:39:14.634Z"
 	},
 	"Bangladesh": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e3_Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07_jpg_440px-Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg",
@@ -862,7 +853,6 @@
 			"Sylhet",
 			"Cox's Bazar",
 			"Bagerhat",
-			"Char Atra",
 			"Somapura Mahavihara",
 			"Saint Martins Island",
 			"Sundarbans"
@@ -883,7 +873,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg",
-		"updated": "2025-03-15T17:48:38.133Z"
+		"updated": "2025-03-15T18:38:55.927Z"
 	},
 	"Barbados": {
 		"seen": 3,
@@ -897,12 +887,7 @@
 		],
 		"links": [],
 		"destinations": [
-			"Saint Lucia",
-			"Grenada",
-			"Southern Barbados",
-			"Bridgetown",
-			"Central Eastern Barbados",
-			"Western Barbados"
+			"Bridgetown"
 		],
 		"wb": "Q244",
 		"neighbors": [
@@ -918,10 +903,10 @@
 			],
 			"currency": "BBD"
 		},
-		"snippets": 1,
+		"snippets": 2,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:ABC_Highway_at_BET_Hill%2C_Barbados_%282000%29.jpg",
-		"updated": "2025-03-15T17:33:09.366Z"
+		"updated": "2025-03-15T18:36:04.567Z"
 	},
 	"Belarus": {
 		"zoom": 5,
@@ -1010,7 +995,7 @@
 		},
 		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezale%C5%BEna%C5%9Bci.jpg",
-		"updated": "2025-03-15T17:48:38.133Z"
+		"updated": "2025-03-15T18:37:35.563Z"
 	},
 	"Belgium": {
 		"seen": 22,
@@ -1093,7 +1078,6 @@
 			"Kraainem",
 			"Tervuren",
 			"Grimbergen",
-			"Belgian Ardennes",
 			"Dinant",
 			"Pajottenland",
 			"Spa (Belgium)",
@@ -1122,7 +1106,7 @@
 		"snippets": 3,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Notre-Dame_Anvers_7.JPG",
-		"updated": "2025-03-15T17:48:38.134Z"
+		"updated": "2025-03-15T18:38:55.929Z"
 	},
 	"Belize": {
 		"zoom": 5,
@@ -1169,9 +1153,7 @@
 			"San Ignacio",
 			"Ambergris Caye",
 			"Caye Caulker",
-			"Placencia peninsula",
 			"Tobacco Caye",
-			"Placencia Peninsula",
 			"Placencia",
 			"Stann Creek"
 		],
@@ -1190,7 +1172,7 @@
 		},
 		"snippets": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Altunha.jpg",
-		"updated": "2025-03-15T17:48:38.134Z"
+		"updated": "2025-03-15T18:41:02.584Z"
 	},
 	"Benin": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6d_Royal_Palaces_of_Abomey-133477_jpg_2560px-Royal_Palaces_of_Abomey-133477.jpg",
@@ -1204,7 +1186,7 @@
 			"Porto-Novo",
 			"Abomey",
 			"Cotonou",
-			"Grand Popo",
+			"Grand-Popo",
 			"Kétou",
 			"Parakou",
 			"Malanville",
@@ -1230,7 +1212,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Royal_Palaces_of_Abomey-133477.jpg",
-		"updated": "2025-03-15T17:33:09.367Z"
+		"updated": "2025-03-15T18:42:32.333Z"
 	},
 	"Bhutan": {
 		"zoom": 6,
@@ -1287,7 +1269,7 @@
 		},
 		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Jakar_tshechu%2C_Ging_Tsholing_Cham_%2815844504202%29.jpg",
-		"updated": "2025-03-15T17:48:38.135Z"
+		"updated": "2025-03-15T18:39:11.947Z"
 	},
 	"Bolivia": {
 		"seen": 45,
@@ -1355,7 +1337,7 @@
 		"snippets": 14,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vista_Posterior_de_la_Puerta_del_Sol.jpg",
-		"updated": "2025-03-15T17:48:57.924Z"
+		"updated": "2025-03-15T18:39:11.947Z"
 	},
 	"Bosnia and Herzegovina": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_10_Travnik_Panorama_1_JPG_600px-Travnik_Panorama_1.JPG",
@@ -1407,7 +1389,7 @@
 		"snippets": 1,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Travnik_Panorama_1.JPG",
-		"updated": "2025-03-15T17:48:57.924Z"
+		"updated": "2025-03-15T18:39:14.637Z"
 	},
 	"Botswana": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e6_Kalahari_PICT0036_JPG_580px-Kalahari_PICT0036.JPG",
@@ -1460,7 +1442,7 @@
 		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036.JPG",
-		"updated": "2025-03-15T17:48:57.925Z"
+		"updated": "2025-03-15T18:40:56.609Z"
 	},
 	"Brazil": {
 		"seen": 48,
@@ -1560,7 +1542,7 @@
 		"snippets": 21,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Igua%C3%A7u_falls1_11-11-13.JPG",
-		"updated": "2025-03-15T17:48:57.925Z"
+		"updated": "2025-03-16T01:04:32.139Z"
 	},
 	"Brunei": {
 		"zoom": 6,
@@ -1605,7 +1587,7 @@
 		},
 		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:JAME%E2%80%99ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN%2C_BRUNEI.jpg",
-		"updated": "2025-03-15T17:33:09.368Z"
+		"updated": "2025-03-15T18:41:02.586Z"
 	},
 	"Bulgaria": {
 		"zoom": 5,
@@ -1685,7 +1667,7 @@
 		},
 		"snippets": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Plovdiv_Bulgaria.jpg",
-		"updated": "2025-03-15T18:02:40.266Z"
+		"updated": "2025-03-15T18:41:02.587Z"
 	},
 	"Burkina Faso": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b3_Arli_National_Park_Burkina_Faso_png_440px-Arli_National_Park_Burkina_Faso.png",
@@ -1725,7 +1707,7 @@
 		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Arli_National_Park_Burkina_Faso.png",
-		"updated": "2025-03-15T17:33:09.369Z"
+		"updated": "2025-03-15T18:41:09.725Z"
 	},
 	"Burundi": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a5_Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4)_jpg_440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4).jpg",
@@ -1771,7 +1753,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg",
-		"updated": "2025-03-15T17:33:09.369Z"
+		"updated": "2025-03-15T18:41:09.726Z"
 	},
 	"Cambodia": {
 		"zoom": 5,
@@ -1793,7 +1775,7 @@
 			"Battambang",
 			"Kampot",
 			"Koh Kong",
-			"Kompong Thom",
+			"Kampong Thom city",
 			"Kratie",
 			"Siem Reap",
 			"Sihanoukville",
@@ -1801,7 +1783,6 @@
 			"Bokor National Park",
 			"Kampong Cham",
 			"Kep",
-			"Krek",
 			"Poipet",
 			"Tonle Sap Lake",
 			"Laos",
@@ -1825,7 +1806,7 @@
 		},
 		"snippets": 2,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:PreahTineahChanchhaya.JPG",
-		"updated": "2025-03-15T17:48:57.926Z"
+		"updated": "2025-03-15T18:47:51.865Z"
 	},
 	"Cameroon": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fa_Yaoundé_Cathédrale_jpg_440px-Yaoundé_Cathédrale.jpg",
@@ -1851,7 +1832,7 @@
 			"Douala",
 			"Garoua",
 			"Limbe",
-			"Ngaoundere",
+			"Ngaoundéré",
 			"Korup National Park",
 			"Mount Cameroon",
 			"Ngoketunjia",
@@ -1880,7 +1861,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Yaound%C3%A9_Cath%C3%A9drale.jpg",
-		"updated": "2025-03-15T17:48:57.927Z"
+		"updated": "2025-03-15T18:42:13.154Z"
 	},
 	"Canada": {
 		"zoom": 2,
@@ -2042,7 +2023,7 @@
 		},
 		"snippets": 11,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:False_Creek_morning.jpg",
-		"updated": "2025-03-15T17:33:09.418Z"
+		"updated": "2025-03-16T01:04:32.140Z"
 	},
 	"Cape Verde": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a2_Casal_na_Praia_de_Leste_jpg_440px-Casal_na_Praia_de_Leste.jpg",
@@ -2120,7 +2101,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:The_Paddlers_%285229094366%29.jpg",
-		"updated": "2025-03-15T17:33:09.419Z"
+		"updated": "2025-03-15T18:47:53.891Z"
 	},
 	"Chad": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5c_Chadian_delegation_jpg_440px-Chadian_delegation.jpg",
@@ -2157,7 +2138,7 @@
 		"snippets": 0,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chadian_delegation.jpg",
-		"updated": "2025-03-15T17:48:57.928Z"
+		"updated": "2025-03-15T18:47:53.891Z"
 	},
 	"Chile": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a7_Parinacota_volcano_jpg_440px-Parinacota_volcano.jpg",
@@ -2230,7 +2211,7 @@
 		"snippets": 10,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg",
-		"updated": "2025-03-15T18:03:17.853Z"
+		"updated": "2025-03-16T00:47:37.250Z"
 	},
 	"China": {
 		"seen": 47,
@@ -3301,7 +3282,7 @@
 		"snippets": 6,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg",
-		"updated": "2025-03-15T17:57:14.092Z"
+		"updated": "2025-03-15T18:42:35.736Z"
 	},
 	"Djibouti": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_dc_Lake_Assal_3-Djibouti_jpg_440px-Lake_Assal_3-Djibouti.jpg",
@@ -11971,7 +11952,7 @@
 		},
 		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WatRajnadda_Garland.JPG",
-		"updated": "2025-03-15T18:10:33.530Z"
+		"updated": "2025-03-15T18:41:09.865Z"
 	},
 	"Togo": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8d_Lomé-Monument_de_l'Indépendance_jpg_440px-Lomé-Monument_de_l'Indépendance.jpg",
@@ -12569,41 +12550,26 @@
 			}
 		],
 		"destinations": [
-			"Bodmin",
-			"Helston",
-			"Dartford",
-			"Sandwich (England)",
-			"Sevenoaks",
-			"Otford",
 			"Penzance",
-			"Woodstock (Oxfordshire)",
-			"Bicester",
-			"Evesham",
-			"Haslemere",
+			"Oxford",
 			"Selby",
 			"Skye",
 			"Poole",
 			"Chertsey",
 			"Royal Tunbridge Wells",
 			"Harrogate",
-			"Witney",
-			"Margate",
-			"Skipton",
-			"Wimborne Minster",
 			"Hampshire",
-			"Worthing",
-			"Newbury and Thatcham",
+			"Isle of Wight",
+			"Isle of Man",
 			"Tristan da Cunha",
-			"Warwick (England)",
 			"Rochester (England)",
-			"Somerset (England)",
 			"Banbury",
 			"Abingdon",
 			"Inverness",
-			"Ramsgate",
 			"Lewes",
+			"York",
+			"Newcastle upon Tyne",
 			"Dorchester",
-			"Chichester",
 			"Maidstone",
 			"Outer Hebrides",
 			"Dorset",
@@ -12621,7 +12587,6 @@
 			"Edinburgh",
 			"London",
 			"Norwich",
-			"Exeter",
 			"Devon",
 			"Cambridge",
 			"Nottingham"
@@ -12643,7 +12608,7 @@
 		},
 		"snippets": 16,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Edinburgh._View_from_Calton_Hill.jpg",
-		"updated": "2025-03-15T18:24:49.354Z"
+		"updated": "2025-03-15T18:31:39.330Z"
 	},
 	"United States of America": {
 		"zoom": 3,

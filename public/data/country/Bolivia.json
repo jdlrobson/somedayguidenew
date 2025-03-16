@@ -2,30 +2,35 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/reel/kfs2m1s2E5/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/p/kZWyAOM2Ha",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/kZRs3ss2Bk",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "12",
 			"src": "https://www.instagram.com/p/kXwCBjs2BI",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "13",
 			"text": "<small>[from en.wikipedia.org]:</small> Madidi is a national park in the upper Amazon river basin in Bolivia. It was established in 1995 with a total land area of 18,958 km2. Together with the nearby protected areas Manuripi-Heath and Apolobamba and the Manu Biosphere Reserve (Peru), Madidi is part of one of the largest protected areas in the world.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Madidi_park.JPG/320px-Madidi_park.JPG",
 			"source": "",
@@ -35,6 +40,7 @@
 			"url": "https://en.wikipedia.org/wiki/Madidi_National_Park"
 		},
 		{
+			"id": "14",
 			"text": "The Bolivian Amazon: The Jungle vs The Pampas <small>[image from Never Ending Voyage]</small>",
 			"src": "https://www.neverendingvoyage.com/wp-content/uploads/2010/12/squirrel_monkey_pampas.jpg",
 			"source": "",
@@ -44,48 +50,56 @@
 			"url": "https://www.neverendingvoyage.com/the-bolivian-amazon-the-jungle-vs-the-pampas/"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/reel/kaMEZls2PT/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/reel/knse5pM2GV/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/kgBoGLM2Fp",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/kfMpJrs2PA",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/keRxvJs2JG",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/keR_kYs2JX",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/kZ0QPms2GL/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/kS3ZfbM2Gn",
 			"source": "",
 			"type": "instagram",
@@ -794,6 +808,41 @@
 			],
 			"lat": -16.49583333,
 			"lon": -68.13333333
+		},
+		"La Paz (Bolivia)": {},
+		"Oruro": {
+			"lat": -17.9667,
+			"lon": -67.1167
+		},
+		"Quime": {
+			"lat": -16.9814,
+			"lon": -67.2172
+		},
+		"Sorata": {
+			"lat": -15.77361111,
+			"lon": -68.64861111
+		},
+		"Tarija": {
+			"lat": -21.533333,
+			"lon": -64.733333
+		},
+		"Jesuit Missions of the Chiquitos": {},
+		"Madidi National Park": {
+			"lat": -12.5,
+			"lon": -67.5
+		},
+		"Sajama National Park": {
+			"lat": -18.0833,
+			"lon": -68.9167
+		},
+		"Tiwanaku": {
+			"lat": -16.55472,
+			"lon": -68.673
+		},
+		"Yungas and Chapare": {},
+		"La Paz (department, Bolivia)": {
+			"lat": -15,
+			"lon": -68.3333
 		}
 	}
 }

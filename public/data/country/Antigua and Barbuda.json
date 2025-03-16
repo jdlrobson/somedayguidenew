@@ -1,5 +1,26 @@
 {
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
-	"places": {}
+	"places": {
+		"Codrington, Barbuda": {
+			"lat": 17.63333333,
+			"lon": -61.83333333
+		},
+		"Dickenson Bay": {
+			"lat": 17.159,
+			"lon": -61.85
+		},
+		"English Harbour": {
+			"lat": 17,
+			"lon": -61.76666667
+		},
+		"Falmouth (Antigua)": {
+			"lat": 17.021,
+			"lon": -61.7777
+		},
+		"Freetown, Antigua and Barbuda": {
+			"lat": 17.05,
+			"lon": -61.7
+		}
+	}
 }

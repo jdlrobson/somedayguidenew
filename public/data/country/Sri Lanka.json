@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -10,6 +11,7 @@
 			"url": "https://suitcasemag.com/fishing-communities-sri-lanka/"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Poḷonnaruwa, also referred as Pulathisipura and Vijayarajapura in ancient times, is the main town of Polonnaruwa District in North Central Province, Sri Lanka. The modern town of Polonnaruwa is also known as New Town, and the other part of Polonnaruwa remains as the royal ancient city of the Kingdom of Polonnaruwa.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Polonnaruwa_Vatadage_Sri_Lanka.jpg/640px-Polonnaruwa_Vatadage_Sri_Lanka.jpg",
 			"source": "",
@@ -19,6 +21,7 @@
 			"url": "https://en.wikipedia.org/wiki/Polonnaruwa"
 		},
 		{
+			"id": "3",
 			"text": "Steve McCurry captured an iconic image of Sri Lankan stilt fisherman back in 1995. Nowadays, not many remain as photographer Florian Müller found out. <small>[image from WIRED]</small>",
 			"src": "https://media.wired.com/photos/5932477aedfced5820d0f59e/191:100/w_1280,c_limit/sri-fishermen-ft.jpg",
 			"source": "",
@@ -28,6 +31,7 @@
 			"url": "https://www.wired.com/2014/08/florian-muller-sri-lanka-stilt-fishing/"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Sela Cetiya, also known as the Ambastala Dagaba, is a significant stupa located at the Mihintale Royal Rock Temple in Sri Lanka. It is one of five stupas within the temple premises and is considered one of the 16 main places of worship, or Solosmasthana.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ambasthala_Dagoba_in_Mihintale.jpg/320px-Ambasthala_Dagoba_in_Mihintale.jpg",
 			"source": "",
@@ -37,6 +41,7 @@
 			"url": "https://en.wikipedia.org/wiki/Sela_Cetiya"
 		},
 		{
+			"id": "5",
 			"text": "yalasrilanka.lk is the official website of yala national park, sri lanka's most famous wild life park. among a host of animal, yala is especially known as one of the world's best places to stop leopard.",
 			"src": "",
 			"source": "",
@@ -46,6 +51,7 @@
 			"url": "https://www.yalasrilanka.lk/"
 		},
 		{
+			"id": "6",
 			"text": "Palm-tree-lined beaches? Check. Excellent reef breaks? Check. A cool-kid scene complete with surf stays, yoga retreats, and oceanfront cafés? Check, check, check. <small>[image from Condé Nast Traveler]</small>",
 			"src": "https://media.cntraveler.com/photos/65b7fe60436b986761c33d4f/16:9/w_1280,c_limit/00-ID-lede-FULL-BLEED.jpg",
 			"source": "",
@@ -55,6 +61,7 @@
 			"url": "https://www.cntraveler.com/story/sri-lankas-south-coast"
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> Dambulla cave temple, also known as the Golden Temple of Dambulla, is a World Heritage Site (1991) in Sri Lanka, situated in the central part of the country. This site is situated 148 kilometres (92 mi) east of Colombo, 72 kilometres (45 mi) north of Kandy and",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dambulla-buddhastupa.jpg/320px-Dambulla-buddhastupa.jpg",
 			"source": "",
@@ -64,6 +71,7 @@
 			"url": "https://en.wikipedia.org/wiki/Dambulla_cave_temple"
 		},
 		{
+			"id": "8",
 			"text": "<small>[from en.wikipedia.org]:</small> Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180 m (590 ft) high.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sigiriya_%28141688197%29.jpeg/320px-Sigiriya_%28141688197%29.jpeg",
 			"source": "",
@@ -73,6 +81,7 @@
 			"url": "https://en.wikipedia.org/wiki/Sigiriya"
 		},
 		{
+			"id": "9",
 			"text": "<small>[from en.wikipedia.org]:</small> The Sri Lankan elephant is native to Sri Lanka and one of three recognised subspecies of the Asian elephant. It is the type subspecies of the Asian elephant and was first described by Carl Linnaeus under the binomial Elephas maximus in 1758.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Srilankan_tuskelephant.jpg/320px-Srilankan_tuskelephant.jpg",
 			"source": "",
@@ -706,6 +715,13 @@
 			],
 			"lat": 6.96666667,
 			"lon": 80.76666667
-		}
+		},
+		"Anuradhapura": {},
+		"Arugam Bay": {},
+		"Dambulla": {},
+		"Horton Plains": {},
+		"Mirissa": {},
+		"Unawatuna": {},
+		"Yala National Park": {}
 	}
 }

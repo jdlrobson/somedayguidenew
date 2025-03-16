@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608. Most of the population consists of Shia Muslims, followed by Sunni Muslims and Christians; in 2017, there was also a large presence of Syrian refugees.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/320px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Baalbek"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Lebanon is among the oldest sites of wine production in the world. The prophet Hosea is said to have urged his followers to return to God so that \"they shall blossom like the vine; their fame shall be like the wine of Lebanon...\"",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ch%C3%A2teau_Ksara_headquarters%2C_Bekaa%2C_Lebanon.JPG/640px-Ch%C3%A2teau_Ksara_headquarters%2C_Bekaa%2C_Lebanon.JPG",
 			"source": "",
@@ -566,6 +568,12 @@
 			],
 			"lat": 34.433,
 			"lon": 35.85
-		}
+		},
+		"Byblos": {},
+		"Jezzine": {},
+		"Jounieh": {},
+		"Tyre": {},
+		"Jeita": {},
+		"Kadisha Valley": {}
 	}
 }

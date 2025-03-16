@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Showcasing the merits of the hillside near Slovakia's capital.",
 			"src": "https://www.jakubstepanovic.com/wp-content/uploads/2021/05/DSCF4041-14.jpg",
 			"source": "",
@@ -755,6 +756,20 @@
 			],
 			"lat": 48.58416667,
 			"lon": 17.83361111
-		}
+		},
+		"Rajecke Teplice": {},
+		"Slovak Paradise National Park": {},
+		"High Tatras": {},
+		"Vlkolínec": {},
+		"Slovak Karst": {},
+		"Bojnice": {},
+		"Spiš": {},
+		"Bardejov": {},
+		"Slovak Karst National Park": {},
+		"Ruzomberok": {},
+		"Western Tatras": {},
+		"Terchová": {},
+		"Liptovska Mara": {},
+		"Great Fatra": {}
 	}
 }

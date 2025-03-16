@@ -2,84 +2,98 @@
 	"note": "<p>After many years of living in the United Kingdom, there is so many places I never went.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/2ekdz1M2LT",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/p/BjsBZm_l08w",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/Byvwz2WgW_V",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "12",
 			"src": "https://www.instagram.com/p/BMULXS3hNrD",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "13",
 			"src": "https://www.instagram.com/p/BMRrZs5hcKZ",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "15",
 			"src": "https://www.instagram.com/p/BEQ7lDgs2P2",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "16",
 			"src": "https://www.instagram.com/p/BEUGcDkM2Ou",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "17",
 			"src": "https://www.instagram.com/p/oZG2fZM2B1",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/oYWrKyM2F8",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/Y2b-XPM2GF",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/ULWbwVs2C9",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/ByfCZvlgQkY",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/By2lr9Mj_5K",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"text": "This is the one place that has alluded me and now I live in **San Francisco** so far away, I wish I'd taken the opportunity to go. Someday I hope to drive around this dramatic landscape.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Quiraing_Isle_of_Skye_Pano.jpg/640px-Quiraing_Isle_of_Skye_Pano.jpg",
 			"source": "",
@@ -89,6 +103,7 @@
 			"url": "https://www.ricksteves.com/watch-read-listen/read/articles/scotland-isle-of-skye"
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/Cgml5sttAjO/",
 			"source": "",
 			"type": "instagram",
@@ -96,162 +111,6 @@
 		}
 	],
 	"places": {
-		"Bicester": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 7,
-					"low": 1,
-					"precipitation": 56.1
-				},
-				{
-					"heading": "Feb",
-					"high": 7,
-					"low": 1,
-					"precipitation": 39.4
-				},
-				{
-					"heading": "Mar",
-					"high": 10,
-					"low": 3,
-					"precipitation": 49.6
-				},
-				{
-					"heading": "Apr",
-					"high": 13,
-					"low": 4,
-					"precipitation": 42.3
-				},
-				{
-					"heading": "May",
-					"high": 16,
-					"low": 7,
-					"precipitation": 59
-				},
-				{
-					"heading": "Jun",
-					"high": 20,
-					"low": 10,
-					"precipitation": 45.1
-				},
-				{
-					"heading": "Jul",
-					"high": 22,
-					"low": 12,
-					"precipitation": 52.3
-				},
-				{
-					"heading": "Aug",
-					"high": 21,
-					"low": 12,
-					"precipitation": 57.7
-				},
-				{
-					"heading": "Sep",
-					"high": 18,
-					"low": 10,
-					"precipitation": 52.1
-				},
-				{
-					"heading": "Oct",
-					"high": 14,
-					"low": 7,
-					"precipitation": 62.5
-				},
-				{
-					"heading": "Nov",
-					"high": 10,
-					"low": 4,
-					"precipitation": 65.3
-				},
-				{
-					"heading": "Dec",
-					"high": 7,
-					"low": 2,
-					"precipitation": 62.5
-				}
-			],
-			"lat": 51.9,
-			"lon": -1.15
-		},
-		"Evesham": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 0,
-					"high": 3,
-					"low": -3
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 0,
-					"high": 6,
-					"low": -1
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 0,
-					"high": 10,
-					"low": 0
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 0,
-					"high": 15,
-					"low": 3
-				},
-				{
-					"heading": "May",
-					"precipitation": 0,
-					"high": 17,
-					"low": 7
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 0,
-					"high": 18,
-					"low": 8
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 23,
-					"low": 13
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 21,
-					"low": 11
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 0,
-					"high": 18,
-					"low": 8
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 0,
-					"high": 13,
-					"low": 6
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 0,
-					"high": 7,
-					"low": 2
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 0,
-					"high": 3,
-					"low": -1
-				}
-			],
-			"lat": 52.092,
-			"lon": -1.947
-		},
 		"Skye": {
 			"climate": [
 				{
@@ -564,240 +423,6 @@
 			"lat": 53.99194444,
 			"lon": -1.53777778
 		},
-		"Witney": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 6.9,
-					"low": 1.3,
-					"precipitation": 59.84
-				},
-				{
-					"heading": "Feb",
-					"high": 7.3,
-					"low": 1.1,
-					"precipitation": 43.76
-				},
-				{
-					"heading": "Mar",
-					"high": 10,
-					"low": 2.6,
-					"precipitation": 49.75
-				},
-				{
-					"heading": "Apr",
-					"high": 12.5,
-					"low": 3.9,
-					"precipitation": 45.55
-				},
-				{
-					"heading": "May",
-					"high": 16.3,
-					"low": 6.7,
-					"precipitation": 54.96
-				},
-				{
-					"heading": "Jun",
-					"high": 19.2,
-					"low": 9.7,
-					"precipitation": 49.82
-				},
-				{
-					"heading": "Jul",
-					"high": 22,
-					"low": 11.9,
-					"precipitation": 41.82
-				},
-				{
-					"heading": "Aug",
-					"high": 21.6,
-					"low": 11.9,
-					"precipitation": 52.33
-				},
-				{
-					"heading": "Sep",
-					"high": 18.3,
-					"low": 9.8,
-					"precipitation": 59.64
-				},
-				{
-					"heading": "Oct",
-					"high": 14.2,
-					"low": 6.9,
-					"precipitation": 61.67
-				},
-				{
-					"heading": "Nov",
-					"high": 9.9,
-					"low": 3.7,
-					"precipitation": 57.57
-				},
-				{
-					"heading": "Dec",
-					"high": 7.6,
-					"low": 2.3,
-					"precipitation": 66.17
-				}
-			],
-			"lat": 51.78,
-			"lon": -1.49
-		},
-		"Margate": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 7.3,
-					"low": 2.2,
-					"precipitation": 47.5
-				},
-				{
-					"heading": "Feb",
-					"high": 7.4,
-					"low": 1.9,
-					"precipitation": 36.6
-				},
-				{
-					"heading": "Mar",
-					"high": 10.1,
-					"low": 3.6,
-					"precipitation": 38.2
-				},
-				{
-					"heading": "Apr",
-					"high": 12.6,
-					"low": 5.3,
-					"precipitation": 40.8
-				},
-				{
-					"heading": "May",
-					"high": 15.8,
-					"low": 8.4,
-					"precipitation": 50
-				},
-				{
-					"heading": "Jun",
-					"high": 18.9,
-					"low": 11.2,
-					"precipitation": 49
-				},
-				{
-					"heading": "Jul",
-					"high": 21.7,
-					"low": 13.5,
-					"precipitation": 45.2
-				},
-				{
-					"heading": "Aug",
-					"high": 21.9,
-					"low": 13.7,
-					"precipitation": 46.1
-				},
-				{
-					"heading": "Sep",
-					"high": 18.9,
-					"low": 11.8,
-					"precipitation": 46
-				},
-				{
-					"heading": "Oct",
-					"high": 14.9,
-					"low": 8.8,
-					"precipitation": 72.6
-				},
-				{
-					"heading": "Nov",
-					"high": 10.7,
-					"low": 5.3,
-					"precipitation": 64.3
-				},
-				{
-					"heading": "Dec",
-					"high": 7.9,
-					"low": 2.9,
-					"precipitation": 56.2
-				}
-			],
-			"lat": 51.385,
-			"lon": 1.3838
-		},
-		"Wimborne Minster": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 0,
-					"high": 4,
-					"low": 1
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 0,
-					"high": 6,
-					"low": 0
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 0,
-					"high": 10,
-					"low": 1
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 0,
-					"high": 16,
-					"low": 5
-				},
-				{
-					"heading": "May",
-					"precipitation": 0,
-					"high": 19,
-					"low": 5
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 0,
-					"high": 20,
-					"low": 11
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 24,
-					"low": 13
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 21,
-					"low": 14
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 0,
-					"high": 19,
-					"low": 9
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 0,
-					"high": 11,
-					"low": 8
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 0,
-					"high": 9,
-					"low": 3
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 0,
-					"high": 2,
-					"low": -1
-				}
-			],
-			"lat": 50.804,
-			"lon": -1.978
-		},
 		"Hampshire": {
 			"climate": [
 				{
@@ -875,84 +500,6 @@
 			],
 			"lat": 51.0575,
 			"lon": -1.3075
-		},
-		"Newbury and Thatcham": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 0,
-					"high": 3,
-					"low": -2
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 0,
-					"high": 5,
-					"low": -2
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 0,
-					"high": 9,
-					"low": 0
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 0,
-					"high": 14,
-					"low": 4
-				},
-				{
-					"heading": "May",
-					"precipitation": 0,
-					"high": 16,
-					"low": 6
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 0,
-					"high": 19,
-					"low": 9
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 21,
-					"low": 12
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 20,
-					"low": 14
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 0,
-					"high": 18,
-					"low": 8
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 0,
-					"high": 12,
-					"low": 6
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 0,
-					"high": 7,
-					"low": 2
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 0,
-					"high": 3,
-					"low": -1
-				}
-			],
-			"lat": 51.4009,
-			"lon": -1.3235
 		},
 		"Tristan da Cunha": {
 			"climate": [
@@ -1032,84 +579,6 @@
 			"lat": -37.115,
 			"lon": -12.285
 		},
-		"Warwick (England)": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 7,
-					"low": 0.9,
-					"precipitation": 53.84
-				},
-				{
-					"heading": "Feb",
-					"high": 7.5,
-					"low": 0.8,
-					"precipitation": 39.86
-				},
-				{
-					"heading": "Mar",
-					"high": 10.2,
-					"low": 2.4,
-					"precipitation": 45.27
-				},
-				{
-					"heading": "Apr",
-					"high": 12.8,
-					"low": 3.6,
-					"precipitation": 44.86
-				},
-				{
-					"heading": "May",
-					"high": 16.5,
-					"low": 6.2,
-					"precipitation": 49.3
-				},
-				{
-					"heading": "Jun",
-					"high": 19.4,
-					"low": 9.1,
-					"precipitation": 53.57
-				},
-				{
-					"heading": "Jul",
-					"high": 22.4,
-					"low": 11.3,
-					"precipitation": 44.75
-				},
-				{
-					"heading": "Aug",
-					"high": 21.9,
-					"low": 11.2,
-					"precipitation": 56.32
-				},
-				{
-					"heading": "Sep",
-					"high": 18.4,
-					"low": 9.3,
-					"precipitation": 57.58
-				},
-				{
-					"heading": "Oct",
-					"high": 14.1,
-					"low": 6.5,
-					"precipitation": 54.97
-				},
-				{
-					"heading": "Nov",
-					"high": 9.8,
-					"low": 3.2,
-					"precipitation": 50.18
-				},
-				{
-					"heading": "Dec",
-					"high": 7.7,
-					"low": 1.7,
-					"precipitation": 57.77
-				}
-			],
-			"lat": 52.28,
-			"lon": -1.59
-		},
 		"Rochester (England)": {
 			"climate": [
 				{
@@ -1187,84 +656,6 @@
 			],
 			"lat": 51.388,
 			"lon": 0.4982
-		},
-		"Somerset (England)": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 8.1,
-					"low": 1.4,
-					"precipitation": 72
-				},
-				{
-					"heading": "Feb",
-					"high": 8.3,
-					"low": 1.3,
-					"precipitation": 55.6
-				},
-				{
-					"heading": "Mar",
-					"high": 10.6,
-					"low": 2.7,
-					"precipitation": 56.5
-				},
-				{
-					"heading": "Apr",
-					"high": 12.9,
-					"low": 3.7,
-					"precipitation": 47.3
-				},
-				{
-					"heading": "May",
-					"high": 16.5,
-					"low": 6.8,
-					"precipitation": 48.9
-				},
-				{
-					"heading": "Jun",
-					"high": 19.3,
-					"low": 9.7,
-					"precipitation": 57.2
-				},
-				{
-					"heading": "Jul",
-					"high": 21.7,
-					"low": 11.9,
-					"precipitation": 48.9
-				},
-				{
-					"heading": "Aug",
-					"high": 21.5,
-					"low": 11.7,
-					"precipitation": 56.6
-				},
-				{
-					"heading": "Sep",
-					"high": 18.6,
-					"low": 9.6,
-					"precipitation": 64.5
-				},
-				{
-					"heading": "Oct",
-					"high": 14.8,
-					"low": 6.9,
-					"precipitation": 67.9
-				},
-				{
-					"heading": "Nov",
-					"high": 11.1,
-					"low": 3.6,
-					"precipitation": 65.8
-				},
-				{
-					"heading": "Dec",
-					"high": 9,
-					"low": 2.4,
-					"precipitation": 83.3
-				}
-			],
-			"lat": 51.18,
-			"lon": -3
 		},
 		"Inverness": {
 			"climate": [
@@ -1344,84 +735,6 @@
 			"lat": 57.4778,
 			"lon": -4.2247
 		},
-		"Ramsgate": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 7.3,
-					"low": 2.2,
-					"precipitation": 47.5
-				},
-				{
-					"heading": "Feb",
-					"high": 7.4,
-					"low": 1.9,
-					"precipitation": 36.6
-				},
-				{
-					"heading": "Mar",
-					"high": 10.1,
-					"low": 3.6,
-					"precipitation": 38.2
-				},
-				{
-					"heading": "Apr",
-					"high": 12.6,
-					"low": 5.3,
-					"precipitation": 40.8
-				},
-				{
-					"heading": "May",
-					"high": 15.8,
-					"low": 8.4,
-					"precipitation": 50
-				},
-				{
-					"heading": "Jun",
-					"high": 18.9,
-					"low": 11.2,
-					"precipitation": 49
-				},
-				{
-					"heading": "Jul",
-					"high": 21.7,
-					"low": 13.5,
-					"precipitation": 45.2
-				},
-				{
-					"heading": "Aug",
-					"high": 21.9,
-					"low": 13.7,
-					"precipitation": 46.1
-				},
-				{
-					"heading": "Sep",
-					"high": 18.9,
-					"low": 11.8,
-					"precipitation": 46
-				},
-				{
-					"heading": "Oct",
-					"high": 14.9,
-					"low": 8.8,
-					"precipitation": 72.6
-				},
-				{
-					"heading": "Nov",
-					"high": 10.7,
-					"low": 5.3,
-					"precipitation": 64.3
-				},
-				{
-					"heading": "Dec",
-					"high": 7.9,
-					"low": 2.9,
-					"precipitation": 56.2
-				}
-			],
-			"lat": 51.336,
-			"lon": 1.416
-		},
 		"Lewes": {
 			"climate": [
 				{
@@ -1487,84 +800,6 @@
 			],
 			"lat": 50.87472222,
 			"lon": 0.01166667
-		},
-		"Chichester": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 0,
-					"high": 4,
-					"low": -1
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 0,
-					"high": 6,
-					"low": 0
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 0,
-					"high": 9,
-					"low": 1
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 0,
-					"high": 16,
-					"low": 4
-				},
-				{
-					"heading": "May",
-					"precipitation": 0,
-					"high": 17,
-					"low": 6
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 0,
-					"high": 21,
-					"low": 11
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 21,
-					"low": 12
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 18,
-					"low": 12
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 0,
-					"high": 18,
-					"low": 10
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 0,
-					"high": 14,
-					"low": 6
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 0,
-					"high": 6,
-					"low": 5
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 0,
-					"high": 8,
-					"low": 5
-				}
-			],
-			"lat": 50.8365,
-			"lon": -0.7792
 		},
 		"Maidstone": {
 			"climate": [
@@ -2736,84 +1971,6 @@
 			"lat": 52.62861111,
 			"lon": 1.29277778
 		},
-		"Exeter": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 8.8,
-					"low": 2.7,
-					"precipitation": 82.2
-				},
-				{
-					"heading": "Feb",
-					"high": 8.8,
-					"low": 2.4,
-					"precipitation": 60.7
-				},
-				{
-					"heading": "Mar",
-					"high": 11.1,
-					"low": 3.7,
-					"precipitation": 56.8
-				},
-				{
-					"heading": "Apr",
-					"high": 13.3,
-					"low": 4.5,
-					"precipitation": 62.1
-				},
-				{
-					"heading": "May",
-					"high": 16.8,
-					"low": 7.6,
-					"precipitation": 57.2
-				},
-				{
-					"heading": "Jun",
-					"high": 19.8,
-					"low": 10.5,
-					"precipitation": 48.4
-				},
-				{
-					"heading": "Jul",
-					"high": 21.7,
-					"low": 12.4,
-					"precipitation": 45.8
-				},
-				{
-					"heading": "Aug",
-					"high": 21.5,
-					"low": 12.3,
-					"precipitation": 53.4
-				},
-				{
-					"heading": "Sep",
-					"high": 19.2,
-					"low": 10.3,
-					"precipitation": 58.8
-				},
-				{
-					"heading": "Oct",
-					"high": 15.2,
-					"low": 8,
-					"precipitation": 88.9
-				},
-				{
-					"heading": "Nov",
-					"high": 11.7,
-					"low": 4.8,
-					"precipitation": 83.4
-				},
-				{
-					"heading": "Dec",
-					"high": 9.1,
-					"low": 2.4,
-					"precipitation": 87.3
-				}
-			],
-			"lat": 50.72555556,
-			"lon": -3.52694444
-		},
 		"Devon": {
 			"climate": [
 				{
@@ -3035,6 +2192,19 @@
 			],
 			"lat": 52.9561,
 			"lon": -1.1512
-		}
+		},
+		"Penzance": {},
+		"Oxford": {},
+		"Selby": {},
+		"Chertsey": {},
+		"Isle of Wight": {},
+		"Isle of Man": {},
+		"Banbury": {},
+		"Abingdon": {},
+		"York": {},
+		"Newcastle upon Tyne": {},
+		"Dorchester": {},
+		"Outer Hebrides": {},
+		"Dorset": {}
 	}
 }

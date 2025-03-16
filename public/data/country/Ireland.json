@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": " <small>[image from Blarney Castle]</small>",
 			"src": "https://blarneycastle.ie/wp-content/uploads/2022/06/blarney_castle_pic-1.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://blarneycastle.ie/"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Dingle Bay is a bay located in County Kerry, western Ireland. The outer parts of the Dingle Peninsula and Dingle Bay mark one of the westernmost points of mainland Ireland. The harbour town of Dingle lies on the north side of the bay.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dingle_Bay.png/320px-Dingle_Bay.png",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Dingle_Bay"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Kylemore Abbey is a Benedictine Monastery founded in 1920 on the grounds of Kylemore Castle, in Connemara, County Galway, Ireland. The Abbey was founded for Benedictine nuns who fled Belgium in World War 1. Today, Kylemore Abbey, under The Kylemore Trust, continues its mission as a Benedictine monastery, holding Kylemore and its spiritual mission, natural and built heritage in trust for the Irish nation. Kylemore Abbey also operates as one of Ireland's leading visitor attractions.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Connemara_-_Kylemore_Abbey_-_panoramio_%281%29.jpg/320px-Connemara_-_Kylemore_Abbey_-_panoramio_%281%29.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kylemore_Abbey"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Aran Islands or The Arans are a group of three islands at the mouth of Galway Bay, off the west coast of Ireland, with a total area around 46 km2 (18 sq mi). They constitute the historic barony of Aran in County Galway.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aran_Islands_location.svg/320px-Aran_Islands_location.svg.png",
 			"source": "",
@@ -638,6 +642,20 @@
 			],
 			"lat": 52.25666667,
 			"lon": -7.12916667
-		}
+		},
+		"Killarney": {},
+		"Aran Islands": {},
+		"Brú Na Bóinne": {},
+		"Cliffs of Moher": {},
+		"Connemara": {},
+		"County Donegal": {},
+		"Dingle Peninsula": {},
+		"Glendalough": {},
+		"Kinsale": {},
+		"Ring of Kerry": {},
+		"Skellig Michael": {},
+		"West Cork": {},
+		"County Cork": {},
+		"Burren": {}
 	}
 }

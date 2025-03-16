@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "A trek to the Tiger's Nest Monastery in Paro, Bhutan is a once in a lifetime experience. Here's everything you need to know about the climb! <small>[image from www.culturaobscura.com]</small>",
 			"src": "https://www.culturaobscura.com/wp-content/uploads/2019/05/IMG_2030-Version-2-copy.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.culturaobscura.com/climbing-tigers-nest/"
 		},
 		{
+			"id": "2",
 			"text": "Bhutan in the Eastern Himalayas has a reputation for its friendly people, rich cultural heritage, peace-loving society, stunning natural beauty, and commitment  <small>[image from Outlook Traveller]</small>",
 			"src": "https://media.assettype.com/outlooktraveller%2F2025-02-14%2Fhvzuyt0v%2Fshutterstock1520728685.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://www.outlooktraveller.com/editors-picks/5-lessons-in-sustainable-tourism-by-bhutan-the-worlds-first-carbon-negative-country"
 		},
 		{
+			"id": "3",
 			"text": "Download the Bhutan 2024 itinerary.  November 26 - Dec 14, 2024. With optional two-day Bangkok pre-tour with GREAT chance for Spoon-billed Sandpiper.  Price $8800, double occupancy. From Bangkok... <small>[image from Alvaro's Adventures - Birding Tours]</small>",
 			"src": "https://www.alvarosadventures.com/uploads/1/3/2/1/132161724/published/alv-logo-r-rgbweb.jpg?1593837515",
 			"source": "",
@@ -317,6 +320,74 @@
 			],
 			"lat": 27.51666667,
 			"lon": 90.5
+		},
+		"Mongar": {
+			"lat": 27.275,
+			"lon": 91.24
+		},
+		"Paro": {
+			"lat": 27.4333,
+			"lon": 89.4167
+		},
+		"Punakha": {
+			"lat": 27.5833,
+			"lon": 89.8667
+		},
+		"Samdrup Jongkhar": {
+			"lat": 26.8,
+			"lon": 91.5
+		},
+		"Trashigang": {
+			"lat": 27.3333,
+			"lon": 91.55
+		},
+		"Jigme Dorji National Park": {
+			"lat": 27.75,
+			"lon": 89.5167
+		},
+		"Jigme Singye Wangchuck National Park": {
+			"lat": 27.1667,
+			"lon": 90.4333
+		},
+		"Royal Manas National Park": {
+			"lat": 26.8994,
+			"lon": 90.7581
+		},
+		"Phrumsengla National Park": {
+			"lat": 27.2831,
+			"lon": 90.9778
+		},
+		"Wangchuck Centennial National Park": {
+			"lat": 27.81194444,
+			"lon": 90.65777778
+		},
+		"Bumdeling Wildlife Sanctuary": {
+			"lat": 27.7972,
+			"lon": 91.4378
+		},
+		"Jomotsangkha Wildlife Sanctuary": {
+			"lat": 27.7972,
+			"lon": 91.4378
+		},
+		"Phibsoo Wildlife Sanctuary": {
+			"lat": 26.79805556,
+			"lon": 90.04472222
+		},
+		"Sakteng Wildlife Sanctuary": {
+			"lat": 27.28,
+			"lon": 91.95
+		},
+		"Jigme Khesar Strict Nature Reserve": {
+			"lat": 27.3294,
+			"lon": 89.0633
+		},
+		"Nepal": {
+			"lat": 28,
+			"lon": 84
+		},
+		"Thailand": {
+			"lat": 14,
+			"lon": 101
 		}
 	}
 }

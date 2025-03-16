@@ -703,6 +703,26 @@
 			],
 			"lat": 21.42722222,
 			"lon": 92.005
+		},
+		"Jessore": {
+			"lat": 23.1667,
+			"lon": 89.2167
+		},
+		"Bagerhat": {
+			"lat": 22.65,
+			"lon": 89.7833
+		},
+		"Somapura Mahavihara": {
+			"lat": 25.03111111,
+			"lon": 88.97694444
+		},
+		"Saint Martins Island": {
+			"lat": 20.627256,
+			"lon": 92.322578
+		},
+		"Sundarbans": {
+			"lat": 21.75,
+			"lon": 88.75
 		}
 	}
 }

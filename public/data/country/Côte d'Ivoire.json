@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "5",
 			"text": "The Gbofe is mainly performed in the village of Afounkaha in the Tagbana community. The term Gbofe is used both for the transverse horns and for the performance as a whole, which encompasses music, song and dance. The Gbofe horns are made of roots covered by cowhide. Six of these horns are used together, ranging in length from 50 to 70 centimetres. They emit a range of sounds “reproducing” the... <small>[image from ich.unesco.org]</small>",
 			"src": "https://img.youtube.com/vi/C8-Y6HdnQlk/0.jpg",
 			"source": "",
@@ -401,6 +402,11 @@
 			],
 			"lat": 5.2,
 			"lon": -3.73333333
-		}
+		},
+		"Aboisso": {},
+		"Dabou": {},
+		"San Pedro (Côte d'Ivoire)": {},
+		"Taï National Park": {},
+		"Comoe National Park": {}
 	}
 }

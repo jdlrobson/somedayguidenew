@@ -2,72 +2,84 @@
 	"note": "<p>Must go back. Especially to <strong>Fernando de Noronha</strong>.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/y4yRlaM2Hw/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/reel/y3D7EQs2I7/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/zcdrK5M2Cp",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "13",
 			"src": "https://www.instagram.com/p/zap4dws2Ps",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "14",
 			"src": "https://www.instagram.com/p/zYYCmTs2B5",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "15",
 			"src": "https://www.instagram.com/p/zNr-ViM2JD",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "17",
 			"src": "https://www.instagram.com/p/zFq360M2OM",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "18",
 			"src": "https://www.instagram.com/p/zCEFZYM2NY",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "19",
 			"src": "https://www.instagram.com/p/zCDFtJs2MW",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/y4yjvcs2IM",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "20",
 			"src": "https://www.instagram.com/p/y6kdr4s2FM",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "21",
 			"text": "<small>[from en.wikipedia.org]:</small> Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the heart of the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the border between Argentina and Brazil.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cataratas.jpg/320px-Cataratas.jpg",
 			"source": "",
@@ -77,6 +89,7 @@
 			"url": "https://en.wikipedia.org/wiki/Iguazu_Falls"
 		},
 		{
+			"id": "22",
 			"text": "<small>[from en.wikipedia.org]:</small> The Pantanal is a natural region encompassing the world's largest tropical wetland area, and the world's largest flooded grasslands. It is located mostly within the Brazilian state of Mato Grosso do Sul, but it extends into Mato Grosso and portions of Bolivia and Paraguay. It sprawls over an area estimated at between 140,000 and 195,000 km2. Various subregional ecosystems exist, each with distinct hydrological, geological, and ecological characteristics; up to 12 of them have been defined.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pantanal%2C_south-central_South_America_5170.jpg/320px-Pantanal%2C_south-central_South_America_5170.jpg",
 			"source": "",
@@ -86,42 +99,49 @@
 			"url": "https://en.wikipedia.org/wiki/Pantanal"
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/yz9m2ls2JS/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/yuwcTks2Ds/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/y7NqNUs2F1/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/yz9l1Ss2JQ",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/zMEILIM2Hr",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/reel/zSKJUVM2Mu",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/reel/y4yjvcs2IM/",
 			"source": "",
 			"type": "instagram",
@@ -1598,6 +1618,44 @@
 			],
 			"lat": -2.4862,
 			"lon": -44.242
+		},
+		"Chapada dos Veadeiros": {},
+		"Ilha Grande": {
+			"lat": -23.1333,
+			"lon": -44.1667
+		},
+		"Ilha do Marajó": {
+			"lat": -0.94,
+			"lon": -49.45
+		},
+		"Lençóis Maranhenses": {
+			"lat": -2.533333,
+			"lon": -43.116667
+		},
+		"Chapada dos Veadeiros National Park": {
+			"lat": -14.03168,
+			"lon": -47.64118
+		},
+		"Cavalcante": {
+			"lat": -13.79777778,
+			"lon": -47.45777778
+		},
+		"salvador": {},
+		"Ilha do Mosqueiro": {
+			"lat": -1.164,
+			"lon": -48.469
+		},
+		"Salinópolis": {
+			"lat": -0.62888889,
+			"lon": -47.35583333
+		},
+		"Alcântara": {
+			"lat": -2.408889,
+			"lon": -44.415
+		},
+		"Tabatinga": {
+			"lat": -4.2525,
+			"lon": -69.93805556
 		}
 	}
 }

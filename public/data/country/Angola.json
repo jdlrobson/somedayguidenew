@@ -1,6 +1,27 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"id": "1",
+			"text": "<small>[from en.wikipedia.org]:</small> Kalandula Falls or Calandula Falls are waterfalls in the municipality of Calandula, Malanje Province, Angola. On the Lucala River, the falls are 105 meters high and 400 meters wide. They are one of the largest waterfalls by volume in Africa. The distance from Luanda is 360 km.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG/320px-Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Kalandula Falls",
+			"url": "https://en.wikipedia.org/wiki/Kalandula_Falls"
+		},
+		{
+			"id": "2",
+			"text": "The Angola Field Group invites you to explore two caves in Kwanza Sul, outside the city of Sumbe.  We will depart Saturday June 4th at 6:00 AM from our meeting point, to be announced. It’s an appro… <small>[image from Angola Field Group]</small>",
+			"src": "https://angolafieldgroup.com/wp-content/uploads/2011/05/cave-sumbe.jpg?w=300",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Field Trip: Saturday June 4th and 5th",
+			"url": "https://angolafieldgroup.com/2011/05/14/field-trip-saturday-june-4th-and-5th/"
+		}
+	],
 	"places": {
 		"Luanda": {
 			"climate": [
@@ -469,6 +490,31 @@
 			],
 			"lat": -6.26777778,
 			"lon": 14.24805556
-		}
+		},
+		"Malanj": {},
+		"Menongue": {},
+		"Namibe": {},
+		"Cangandala National Park": {
+			"lat": -9.8,
+			"lon": 16.75
+		},
+		"Floresta do Maiombe": {},
+		"Great Escarpment (Angola)": {
+			"lat": -14.9114,
+			"lon": 13.2819
+		},
+		"Iona National Park": {
+			"lat": -16.67,
+			"lon": 12.33
+		},
+		"Kissama National Park": {
+			"lat": -9.75,
+			"lon": 13.58333333
+		},
+		"Mussulo Island": {
+			"lat": -8.96376,
+			"lon": 13.05176
+		},
+		"Pungo Andongo": {}
 	}
 }

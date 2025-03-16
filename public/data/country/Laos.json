@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "All you need to know about the most comfortable and fast train in Laos: tickets, train stations and my experience ! The Laos China Railway (LCR) is a godsend for those short on time. <small>[image from RooWanders]</small>",
 			"src": "https://www.roowanders.com/wp-content/uploads/2023/11/LCR-Luang-Prabang-01.jpg",
 			"source": "",
@@ -599,6 +600,13 @@
 			],
 			"lat": 18.92666667,
 			"lon": 102.44944444
-		}
+		},
+		"Luang Namtha": {},
+		"Pakbeng": {},
+		"Bolaven Plateau": {},
+		"Champasak": {},
+		"Nong Khiaw": {},
+		"Si Phan Don": {},
+		"Vieng Xai": {}
 	}
 }

@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Kuomboka is a word in the Lozi language; it literally means ‘to get out of water’. In today's Zambia it is applied to a traditional ceremony that takes place at the end of the rain season, when the upper Zambezi River floods the plains of the Western Province.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nalikwanda.jpg/320px-Nalikwanda.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kuomboka"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> South Luangwa National Park is a national park in eastern Zambia that was founded as a game reserve in 1938 and became a national park in 1972. It covers 9,050 km2 (3,490 sq mi) in the valley of the Luangwa River, which forms its eastern boundary in the Eastern Province of Zambia. It is bordered to the west by a steep escarpment, the Muchinga Escarpment in Muchinga and Central Provinces. The Luangwa Valley lies at the end of the East African Rift valley.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Luangwa_River_crossing.jpg/320px-Luangwa_River_crossing.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/South_Luangwa_National_Park"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Victoria Falls is a waterfall on the Zambezi River, located on the border between Zambia and Zimbabwe. It is one of the world's largest waterfalls, with a width of 1,708 m (5,604 ft). The region around it has a high degree of biodiversity in both plants and animals.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/320px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/Victoria_Falls"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Lower Zambezi National Park lies on the north bank of the Zambezi River in southeastern Zambia. Until 1983 when the area was declared a national park, the area was the private game reserve of Zambia's president. This meant that the park was protected from mass tourism and now remains one of the few untouched wilderness areas left in Africa. On the opposite bank is Zimbabwe's Mana Pools National Park. The two parks sit on the Zambezi floodplain ringed by mountains. The area is a UNESCO World Heritage Site.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lower_Zambezi%2C_Zambia_%282518067857%29.jpg/320px-Lower_Zambezi%2C_Zambia_%282518067857%29.jpg",
 			"source": "",
@@ -272,6 +276,19 @@
 			],
 			"lat": -17.85,
 			"lon": 25.866667
-		}
+		},
+		"Chingola": {},
+		"Kabwe": {},
+		"Kasama": {},
+		"Kitwe": {},
+		"Ndola": {},
+		"Mongu": {},
+		"Blue Lagoon National Park": {},
+		"Kafue National Park": {},
+		"Lochinvar National Park": {},
+		"Lower Zambezi National Park": {},
+		"North Luangwa National Park": {},
+		"Nsumbu National Park": {},
+		"West Lunga National Park": {}
 	}
 }

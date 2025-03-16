@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "I was lucky enough to interact with a North Korean, and film it!  Spending time with the hairdresser, Kim Hye-Sun was unlike spending time with any of the usual&hellip; <small>[image from Vimeo]</small>",
 			"src": "https://i.vimeocdn.com/video/161216067-fc4fa97a4631a1040685f7bcfb25030e8a46c75f10b8ba75c76749c1010ea34f-d?f=webp",
 			"source": "",
@@ -713,6 +714,7 @@
 			],
 			"lat": 38.65676389,
 			"lon": 128.10490278
-		}
+		},
+		"Kaechon": {}
 	}
 }

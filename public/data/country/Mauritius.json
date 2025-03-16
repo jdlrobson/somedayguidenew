@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": " <small>[image from commons.wikimedia.org]</small>",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mauritius_%C3%8Ele_aux_Cerfs.jpg/640px-Mauritius_%C3%8Ele_aux_Cerfs.jpg",
 			"source": "",
@@ -299,6 +300,23 @@
 			],
 			"lat": -20.4,
 			"lon": 57.7
-		}
+		},
+		"Beau Bassin-Rose Hill": {},
+		"Curepipe": {},
+		"Quatre Bornes": {},
+		"Blue Bay": {},
+		"Centre de Flacq": {},
+		"Chamarel": {},
+		"Grand Bay": {},
+		"Flic en Flac": {},
+		"Mahébourg": {},
+		"Pamplemousses": {},
+		"Souillac": {},
+		"Tamarin (Mauritius)": {},
+		"Triolet": {},
+		"Trou d'Eau Douce": {},
+		"Agaléga": {},
+		"Le Morne": {},
+		"Macchabée - Bel Ombre Nature Preserve": {}
 	}
 }

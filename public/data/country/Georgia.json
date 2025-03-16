@@ -2,72 +2,84 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/BjO7MBulpWW",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/p/BjRMUDYlSoQ",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/Bjaobg1FNhG",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "12",
 			"src": "https://www.instagram.com/p/BjQswv0lEE5",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/BjFnbd7l2KJ",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/BjFi5Tel-RW",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/BjDAtZ3lDRd",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/BjM8I6Yl4FS/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/BjM7iiLFDLl/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/BjKpjOclXGo",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/BjIA3-KFScE",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/BsPNNIQA77w",
 			"source": "",
 			"type": "instagram",
@@ -698,6 +710,19 @@
 			],
 			"lat": 42.6575,
 			"lon": 44.64527778
-		}
+		},
+		"Mtskheta": {},
+		"Sighnaghi": {},
+		"Telavi": {},
+		"Northwestern Georgia": {},
+		"Bakuriani": {},
+		"Georgian Military Highway": {},
+		"Kakheti": {},
+		"Kazbegi": {},
+		"David Gareja Monastery Complex": {},
+		"Pasanauri": {},
+		"Shatili": {},
+		"Mazeri": {},
+		"Vardzia": {}
 	}
 }

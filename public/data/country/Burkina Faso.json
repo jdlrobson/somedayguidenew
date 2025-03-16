@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Notes from a visit to West Africa in January 2015. Third in a series of six articles North of Ouagadougou, Burkina Faso, we entered the Sahel region, the dry plain which becomes the Sahara desert a… <small>[image from A worker at large]</small>",
 			"src": "https://convincingreasons.wordpress.com/wp-content/uploads/2015/03/dscn4201.jpg?w=470",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://convincingreasons.wordpress.com/2015/03/07/the-sahel-the-desert-and-tuareg-refugees-in-burkina-faso/"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Grand Mosque of Bobo-Dioulasso is a mosque in Bobo-Dioulasso, Houet Province, Hauts-Bassins Region, Burkina Faso.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Moschee_von_Bobo-Dioulasso.jpg/320px-Moschee_von_Bobo-Dioulasso.jpg",
 			"source": "",
@@ -254,6 +256,27 @@
 			],
 			"lat": 11.18333333,
 			"lon": -4.28333333
-		}
+		},
+		"Dédougou": {
+			"lat": 12.4667,
+			"lon": -3.4667
+		},
+		"Gaoua": {
+			"lat": 10.3167,
+			"lon": -3.1667
+		},
+		"Koudougou": {
+			"lat": 12.25,
+			"lon": -2.3667
+		},
+		"Ouahigouya": {
+			"lat": 13.5833,
+			"lon": -2.4167
+		},
+		"Arli National Park": {
+			"lat": 11.583333,
+			"lon": 1.466667
+		},
+		"Kabore Tembi National Park": {}
 	}
 }

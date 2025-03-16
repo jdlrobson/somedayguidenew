@@ -2,6 +2,7 @@
 	"note": "<p>We&#39;ve loved exploring the areas around The Black Sea. Hopefully one day we&#39;ll explore here too.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Moldova has a well-established wine industry. With a production of around 2 million hectolitres of wine, it is the 11th largest European wine-producing country. Moldova has a vineyard area of 148,500 hectares of which 107,800 hectares are used for commercial production. The remaining 40,700 hectares are vineyards planted in villages around the houses used to make home-made wine. Many families have their own recipes and strands of grapes that have been passed down through the generations. There are 3 historical wine regions: Valul lui Traian, Stefan Voda and Codru (center), destined for the production of wines with protected geographic indication.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Moldova_Competitiveness_Project%2C_USAID_Moldova_%2848121804303%29.jpg/320px-Moldova_Competitiveness_Project%2C_USAID_Moldova_%2848121804303%29.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Moldovan_wine"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Old Orhei is a Moldovan historical and archaeological complex located in Trebujeni, which is approximately 60 kilometres (37 mi) north-east of Chișinău on the Răut River in the Republic of Moldova.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stanca_deasupra_Rautului_Butuceni.jpg/320px-Stanca_deasupra_Rautului_Butuceni.jpg",
 			"source": "",
@@ -386,6 +388,11 @@
 			],
 			"lat": 47.02277778,
 			"lon": 28.83527778
-		}
+		},
+		"Chişinău": {},
+		"Bălţi": {},
+		"Orhei": {},
+		"Gagauzia": {},
+		"Rîbnița": {}
 	}
 }

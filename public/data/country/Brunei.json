@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "422",
 			"text": "I was alone in Bandar Seri Begawan (BSB) in Brunei. How would I survive? BSB is the capital of the country, and I rarely saw anyone outside. It was like walking through a small town/kampong in the UK. I was also here alone, and BSB and Brunei, are not really popular destinations on the South",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/p2231598.jpg?h=200&crop=1",
 			"source": "",
@@ -89,6 +90,23 @@
 			],
 			"lat": 4.89027778,
 			"lon": 114.94222222
-		}
+		},
+		"Bangar": {
+			"lat": 4.7083,
+			"lon": 115.0736
+		},
+		"Kuala Belait": {
+			"lat": 4.5833,
+			"lon": 114.1833
+		},
+		"Seria": {
+			"lat": 4.614132,
+			"lon": 114.330246
+		},
+		"Tutong": {
+			"lat": 4.804318,
+			"lon": 114.656328
+		},
+		"Temburong": {}
 	}
 }

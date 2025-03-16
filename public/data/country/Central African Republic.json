@@ -157,6 +157,36 @@
 			],
 			"lat": 4.737425,
 			"lon": 22.819462
+		},
+		"Bambari": {
+			"lat": 5.76667,
+			"lon": 20.68333
+		},
+		"Birao": {
+			"lat": 10.2833,
+			"lon": 22.7833
+		},
+		"Bouar": {
+			"lat": 5.95,
+			"lon": 15.6
+		},
+		"Bria": {},
+		"Kaga-Bandoro": {
+			"lat": 7,
+			"lon": 19.18333333
+		},
+		"Mbaiki": {
+			"lat": 3.8833,
+			"lon": 18
+		},
+		"Dzanga Sangha National Reserve": {},
+		"Manovo-Gounda St. Floris National Park": {
+			"lat": 9,
+			"lon": 21.5
+		},
+		"Central African Republic": {
+			"lat": 6.7,
+			"lon": 20.9
 		}
 	}
 }

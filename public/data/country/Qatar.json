@@ -2,6 +2,7 @@
 	"note": "<p>I was in the airport here once but it doesn&#39;t count.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Doha is the capital city and main financial hub of Qatar. Located on the Persian Gulf coast in the east of the country, north of Al Wakrah and south of Al Khor and Lusail, it is home to most of the country's population. It is also Qatar's fastest growing city, with over 80% of the nation's population living in Doha or its surrounding suburbs, known collectively as the Doha Metropolitan Area.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Entrance_of_Amiri_Diwan_of_Qatar.jpg/320px-Entrance_of_Amiri_Diwan_of_Qatar.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Doha"
 		},
 		{
+			"id": "2",
 			"text": "I have been to Qatar on several occasion before this, but did not have the opportunity to visit the sand dunes.  Last Thursday, a colleague of ours invited us to his family camp in the dunes. I&#82… <small>[image from tales from my kitchen]</small>",
 			"src": "https://jennybe11.wordpress.com/wp-content/uploads/2012/03/camp.jpg?w=1200",
 			"source": "",
@@ -566,6 +568,7 @@
 			],
 			"lat": 24.98,
 			"lon": 51.55
-		}
+		},
+		"Umm Salal Mohammed": {}
 	}
 }

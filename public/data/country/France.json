@@ -2,12 +2,14 @@
 	"note": "<p>Lille is for beer and food. Make sure you try something involving Maroille cheese and sample some Mimolette with wine (Linzy&#39;s favorite cheese!). There&#39;s a lot of Belgian influence around here, while Carbonade flamande is a Belgian dish, it&#39;s done very well in Lille.</p>\n<p>Someday we&#39;ll go and visit the <strong>Jardin botanique d&#39;Èze</strong> a garden perched high above overlooking the Mediterranean sea. The garden pathways will teach us about Eze&#39;s artistic heritage.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/UEg5kZs2Pl",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "alltrails.com",
 			"source": "",
 			"type": "url",
@@ -16,30 +18,35 @@
 			"url": " <small>[image from www.alltrails.com]</small>"
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/3JphJTs2Mw",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "12",
 			"src": "https://www.instagram.com/p/3L57upM2OX/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "13",
 			"src": "https://www.instagram.com/p/3Cb1B-M2Fs/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "14",
 			"src": "https://www.instagram.com/p/BxU7CvKjx7i",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "15",
 			"text": "<small>[from en.wikipedia.org]:</small> Carcassonne is a French fortified city in the department of Aude, region of Occitania. It is the prefecture of the department.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/1_carcassonne_aerial_2016.jpg/320px-1_carcassonne_aerial_2016.jpg",
 			"source": "",
@@ -49,6 +56,7 @@
 			"url": "https://en.wikipedia.org/wiki/Carcassonne"
 		},
 		{
+			"id": "16",
 			"text": "<small>[from en.wikipedia.org]:</small> Èze is a seaside commune in the Alpes-Maritimes department in the Provence-Alpes-Côte d'Azur region in Southeastern France. It is located on the French Riviera, 8.5 km (5.2 mi) to the northeast of Nice and 4.5 km (2.7 mi) to the west of Monaco. In 2018, Èze had 2,225 inhabitants known as Ezasques.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C3%88ze_Alpes_Maritimes_France_%28261171069%29.jpeg/320px-%C3%88ze_Alpes_Maritimes_France_%28261171069%29.jpeg",
 			"source": "",
@@ -58,48 +66,56 @@
 			"url": "https://en.wikipedia.org/wiki/%C3%88ze"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/BxT51jpDMqT",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/BxVd4JVnTA2",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/BxS83jBni76",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/3PhgI3M2Ll",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/oDp0s_s2L3",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/oCMVChs2KZ",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/3JfOE4s2Kw",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/3JYI3TM2Po",
 			"source": "",
 			"type": "instagram",
@@ -1798,6 +1814,20 @@
 			],
 			"lat": 43.83333333,
 			"lon": 7.16666667
-		}
+		},
+		"Camargue": {},
+		"Disneyland Paris": {},
+		"Luberon": {},
+		"Mont Saint Michel": {},
+		"Èze": {},
+		"Bayeux": {},
+		"Cherbourg": {},
+		"Honfleur": {},
+		"Giverny": {},
+		"Centre-Val de Loire": {},
+		"Hauts-de-France": {},
+		"Pays de la Loire": {},
+		"Normandy": {},
+		"Réunion": {}
 	}
 }

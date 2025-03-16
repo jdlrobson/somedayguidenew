@@ -2,24 +2,28 @@
 	"note": "<p><a href=\"https://www.flickr.com/photos/jdlrobson/3174097315\">https://www.flickr.com/photos/jdlrobson/3174097315</a></p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/BOljEqPBtoV",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/BOjb1LqhNEB",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/BOevd_qhRLk/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "582",
 			"text": "Phu Quoc – pronounced as Foo Coo·wok – literally means Rich [Phú] Nation [Quốc] in Vietnamese as well as in Chinese [富国]. It is the largest island off the southwestern tip of Vietnam. Since March 2014, all foreigners could visit with a 30-days visa-free period. Although there is an airport on the island, most international",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2016/12/img_3070.jpg?h=200&crop=1",
 			"source": "",
@@ -29,6 +33,7 @@
 			"url": "https://somedaywewillseetheworld.wordpress.com/?p=582"
 		},
 		{
+			"id": "637",
 			"text": "We were highly intoxicated bythe juxtapositions of different cultures, the textured and weathered surfaces,the untold stories of unexpected spacesand the never-ending randomness… At the end of our trip, we were so energised – mostly powered by our own imaginations – and even when our flight got delayed, we found some last-minute amusement at the airport.",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/img_2637.jpg?h=200&crop=1",
 			"source": "",
@@ -1130,6 +1135,13 @@
 			],
 			"lat": 10.02638889,
 			"lon": 105.1055556
-		}
+		},
+		"Con Dao": {},
+		"Cu Chi": {},
+		"Cuc Phuong National Park": {},
+		"Tam Coc": {},
+		"Tay Ninh": {},
+		"Phong Nha-Ke Bang": {},
+		"Ha Tien": {}
 	}
 }

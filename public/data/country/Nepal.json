@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Chitwan National Park is the first national park of Nepal. It was established in 1973 as the Royal Chitwan National Park and was granted the status of a World Heritage Site in 1984. It covers an area of 952.63 km2 (367.81 sq mi) in the subtropical Inner Terai lowlands of south-central Nepal in Nawalpur, Chitwan, Makwanpur and Parsa Districts. It ranges in elevation from about 100 m (330 ft) in the river valleys to 815 m (2,674 ft) in the Sivalik Hills.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tiger_in_chitwan.jpg/640px-Tiger_in_chitwan.jpg",
 			"source": "",
@@ -11,12 +12,14 @@
 			"url": "https://en.wikipedia.org/wiki/Chitwan_National_Park"
 		},
 		{
+			"id": "2",
 			"src": "https://www.youtube.com/embed/z7K5FK4Pv64",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Kathmandu, officially the Kathmandu Metropolitan City, is the seat of federal government and the most populous city in Nepal. As of the 2021 Nepal census, there were 845,767 inhabitants living in 105,649 households and approximately 4 million people in its surrounding agglomeration. It is located in the Kathmandu Valley, a large valley surrounded by hills in central Nepal, at an altitude of 4,344 feet above sea level.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Boudhanath_Panorama_2016.jpg/640px-Boudhanath_Panorama_2016.jpg",
 			"source": "",
@@ -26,6 +29,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kathmandu"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Mount Everest, known locally as Sagarmatha or Qomolangma, is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The China–Nepal border runs across its summit point. Its elevation of 8,848.86 m was most recently established in 2020 by the Chinese and Nepali authorities.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg/320px-Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg",
 			"source": "",
@@ -35,6 +39,7 @@
 			"url": "https://en.wikipedia.org/wiki/Mount_Everest"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Kathmandu Durbar Square is a historically and culturally significant site in Kathmandu, Nepal. It is one of the three Durbar Squares in the Kathmandu Valley in Nepal that are UNESCO World Heritage Sites.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Basantapurpalace.JPG/320px-Basantapurpalace.JPG",
 			"source": "",
@@ -44,6 +49,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kathmandu_Durbar_Square"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> The sculpture of Nepal is best known for small religious figures and ritual objects in bronze or copper alloy, but also has other strengths. The Newar people of Nepal had a long-lasting specialism in casting small bronze figures, mostly religious and especially Buddhist, considerable numbers of which were exported to India and Tibet over many centuries.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/British_Museum_Asia_41-2.jpg/320px-British_Museum_Asia_41-2.jpg",
 			"source": "",
@@ -53,6 +59,7 @@
 			"url": "https://en.wikipedia.org/wiki/Nepalese_sculpture"
 		},
 		{
+			"id": "7",
 			"text": "Contrary to what it might seem, Nepal is not only about mountain trekking but it offers a wide variety of outdoor sports amidst nature. For me, this whole trip smelled like an adventure and on the top... <small>[image from Travel and Keep Fit by Alex Jaskolowska]</small>",
 			"src": "https://travelandkeepfit.com/wp-content/uploads/2018/11/IMG_5536-2-1.jpg",
 			"source": "",
@@ -62,6 +69,7 @@
 			"url": "https://travelandkeepfit.com/en/2018/12/17/whitewater-rafting-on-trishuli-river-in-nepal/"
 		},
 		{
+			"id": "8",
 			"text": "<small>[from en.wikipedia.org]:</small> The Magars, also spelled Mangar and Mongar, are a Tibeto-Burman ethnic group native to Nepal and Northeast India, representing 6.9% of Nepal's total population according to the 2021 Nepal census. They are one of the main Gurkha tribes.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Magar_Cultural_Dress.jpg/320px-Magar_Cultural_Dress.jpg",
 			"source": "",
@@ -71,6 +79,7 @@
 			"url": "https://en.wikipedia.org/wiki/Magars"
 		},
 		{
+			"id": "9",
 			"text": "Besides organizing volunteers to work on projects in the communities, we can also organise retreat and meditation Inside the monastery just for you! <small>[image from Buddhist Monasteries]</small>",
 			"src": "https://www.buddhistmonasteries.org/wp-content/uploads/2025/01/meditation-min-1024x683.jpg",
 			"source": "",
@@ -470,6 +479,18 @@
 			],
 			"lat": 28.20833333,
 			"lon": 83.98888889
-		}
+		},
+		"Bhaktapur": {},
+		"Birgunj": {},
+		"Bharatpur (Nepal)": {},
+		"Nepalgunj": {},
+		"Patan": {},
+		"Chitwan National Park": {},
+		"Daman (Nepal)": {},
+		"Khumbu": {},
+		"Nagarkot": {},
+		"Parping": {},
+		"Tangting": {},
+		"Pharping": {}
 	}
 }

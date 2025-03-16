@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Quba is a city and the administrative centre of the Quba District of Azerbaijan. The city lies on the north-eastern slopes of Shahdag mountain, at an altitude of 600 metres above sea level, on the right bank of the Kudyal river. It has a population of 47,200 (2023).",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%9A%D1%83%D0%B1%D0%B0_291.jpg/320px-%D0%9A%D1%83%D0%B1%D0%B0_291.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Quba"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Shaki is a city in northwestern Azerbaijan, surrounded by the district of the same name. It is located in the southern part of the Greater Caucasus mountain range, 240 km (150 mi) from Baku. As of 2020, it has a population of 68,400. The center of the city and the Palace of Shaki Khans were inscribed in the UNESCO World Heritage List in 2019 because of their unique architecture and history as an important trading center along the Silk Road.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Shaki_montage2.jpg/320px-Shaki_montage2.jpg",
 			"source": "",
@@ -956,6 +958,34 @@
 			],
 			"lat": 40.63027778,
 			"lon": 48.64138889
+		},
+		"Nakhchivan": {},
+		"Shemakha": {},
+		"Sumqayit": {
+			"lat": 40.5897222,
+			"lon": 49.6125
+		},
+		"Sheki Region": {
+			"lat": 41.1,
+			"lon": 47
+		},
+		"Nabran": {
+			"lat": 41.762222,
+			"lon": 48.697778
+		},
+		"Nij": {},
+		"Göygöl": {
+			"lat": 40.5873,
+			"lon": 46.3201
+		},
+		"Shamkir": {},
+		"Naftalan": {
+			"lat": 40.505833,
+			"lon": 46.819167
+		},
+		"Baku Region": {
+			"lat": 40.4931,
+			"lon": 49.3
 		}
 	}
 }

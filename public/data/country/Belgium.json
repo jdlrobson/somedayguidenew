@@ -2,6 +2,7 @@
 	"note": "<p>It&#39;s worth going here simply for the Delirium Cafe with its huge beer menu. We&#39;re also big Tin Tin fans so check out the <strong>Musée Hergé</strong>!</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -10,6 +11,7 @@
 			"url": "https://www.deliriumcafe.be/"
 		},
 		{
+			"id": "2",
 			"text": "This ghost town in Belgium will lose its street art when it ceases to exist. <small>[image from Atlas Obscura]</small>",
 			"src": "https://img.atlasobscura.com/RozTOboNGZsWMYDGmBvJdR9HmNwCoAcvz7x3_aYI0HI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NTc4/OGFhOTk1ZmJjZGJl/OWMyMmNmNTYwZDRm/NWYzNGY0MWViY2Ni/LmpwZw.jpg",
 			"source": "",
@@ -955,6 +957,34 @@
 			],
 			"lat": 50.85,
 			"lon": 2.73333333
+		},
+		"Namur": {
+			"lat": 50.4667,
+			"lon": 4.8667
+		},
+		"Tervuren": {
+			"lat": 50.82419,
+			"lon": 4.514
+		},
+		"Grimbergen": {
+			"lat": 50.9333,
+			"lon": 4.3833
+		},
+		"Dinant": {
+			"lat": 50.2667,
+			"lon": 4.9167
+		},
+		"Pajottenland": {
+			"lat": 50.78333333,
+			"lon": 4.11666667
+		},
+		"Flemish Brabant": {
+			"lat": 50.9167,
+			"lon": 4.5833
+		},
+		"Luxembourg (Belgium)": {
+			"lat": 49.9167,
+			"lon": 5.4167
 		}
 	}
 }

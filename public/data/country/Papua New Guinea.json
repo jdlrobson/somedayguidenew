@@ -2,12 +2,14 @@
 	"note": "<p>This is probably the place I would go if time was not a problem. Home of the Goroka festival.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.youtube.com/embed/42oHjlEnuPM",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Baining people are among the earliest continuously located inhabitants of the Gazelle Peninsula of East New Britain, Papua New Guinea; they currently live in the Baining Mountains, from which they take their name. The Baining are thought to have been driven to this area in comparatively recent times by the Tolai tribes who migrated to the coastal areas. The Baining migration inland may also have been influenced by major volcanic activity taking place over the centuries around the present day town of Rabaul on the north-east coast.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bainingsfiredancer.jpg/640px-Bainingsfiredancer.jpg",
 			"source": "",
@@ -17,6 +19,7 @@
 			"url": "https://en.wikipedia.org/wiki/Baining_people"
 		},
 		{
+			"id": "3",
 			"text": "In May Goroka hosts the PNG Coffee Festival. The renowned Goroka Show is held every year for three days on independence weekend (September 14, 15 and 16th). The Goroka Show is the oldest show in Papua New Guinea, over 50 years of \"keeping the spirit alive\".",
 			"src": "",
 			"source": "",
@@ -26,6 +29,7 @@
 			"url": "http://www.ehptourism.gov.pg/event/png-coffee-festival-trade-fair/"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Duke of York Islands are a group of islands located in East New Britain Province, Papua New Guinea. They are found in St George's Channel between New Britain and New Ireland islands and form part of the Bismarck Archipelago. The Duke of York Islands were named in 1767 by Philip Carteret to honour Prince Edward, son of Frederick, Prince of Wales and younger brother of George III of the United Kingdom.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duke-of-York-Islands_%28Landsat%29.JPG/320px-Duke-of-York-Islands_%28Landsat%29.JPG",
 			"source": "",
@@ -35,6 +39,7 @@
 			"url": "https://en.wikipedia.org/wiki/Duke_of_York_Islands"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Rabaul is a township in the East New Britain province of Papua New Guinea, on the island of New Britain. It lies about 600 kilometres to the east of the island of New Guinea. Rabaul was the provincial capital and most important settlement in the province until it was destroyed in 1994 by falling ash from a volcanic eruption in its harbor. During the eruption, ash was sent thousands of metres into the air, and the subsequent rain of ash caused 80% of the buildings in Rabaul to collapse. After the eruption the capital was moved to Kokopo, about 20 kilometres (12 mi) away. Rabaul is continually threatened by volcanic activity, because it is on the edge of the Rabaul caldera, a flooded caldera of a large pyroclastic shield volcano.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rabaul_from_Vulcanology_Observatory.jpg/320px-Rabaul_from_Vulcanology_Observatory.jpg",
 			"source": "",
@@ -44,6 +49,7 @@
 			"url": "https://en.wikipedia.org/wiki/Rabaul"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> ",
 			"src": "null",
 			"source": "",
@@ -53,6 +59,7 @@
 			"url": "https://en.wikipedia.org/wiki/Cape_Nelson_(Papua_New_Guinea)"
 		},
 		{
+			"id": "7",
 			"text": "Tufi, Papua New Guinea, photograph # 1 — located on the southeastern peninsula of Cape Nelson, Oro Province, Papua New Guinea (PNG), Tufi is located on one of many rias, or drowned river vall… <small>[image from Where in the world is Riccardo?]</small>",
 			"src": "https://richedwardsimagery.wordpress.com/wp-content/uploads/2024/09/tufi-papua-new-guinea-photograph-1-located-on-the-southeastern-peninsula-of-cape-nelson-oro-province-papua-new-guinea-png-tufi-is-located-on-one-of-many-rias-or-drowned-river-valleys-loc.jpg",
 			"source": "",
@@ -62,6 +69,7 @@
 			"url": "https://richedwardsimagery.wordpress.com/2024/09/11/tufi-papua-new-guinea/"
 		},
 		{
+			"id": "8",
 			"text": "List of volcanoes by Country. <small>[image from Smithsonian Institution | Global Volcanism Program]</small>",
 			"src": "https://volcano.si.edu/includes/images/GVP_LogoBanner.jpg",
 			"source": "",
@@ -605,6 +613,15 @@
 			],
 			"lat": -5.21666667,
 			"lon": 145.8
-		}
+		},
+		"Alotau": {},
+		"Lae": {},
+		"Madang (town)": {},
+		"Louisiade Archipelago": {},
+		"Trobriand Islands": {},
+		"Tufi": {},
+		"Indonesia": {},
+		"Australia": {},
+		"Solomon Islands": {}
 	}
 }
