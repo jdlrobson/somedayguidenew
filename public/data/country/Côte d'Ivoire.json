@@ -402,10 +402,19 @@
 			"lat": 5.2,
 			"lon": -3.73333333
 		},
-		"Aboisso": {},
-		"Dabou": {},
+		"Aboisso": {
+			"lat": 5.46666667,
+			"lon": -3.2
+		},
+		"Dabou": {
+			"lat": 5.31666667,
+			"lon": -4.38333333
+		},
 		"San Pedro (Côte d'Ivoire)": {},
-		"Taï National Park": {},
+		"Taï National Park": {
+			"lat": 5.75,
+			"lon": -7.12
+		},
 		"Comoe National Park": {}
 	}
 }

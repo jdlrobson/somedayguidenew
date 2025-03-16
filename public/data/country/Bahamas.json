@@ -517,8 +517,6 @@
 			"lat": 23.68222222,
 			"lon": -74.86888889
 		},
-		"Acklins Island": {},
-		"Crooked Island": {},
 		"Inagua": {
 			"lat": 21.506519,
 			"lon": -73.005106
@@ -534,7 +532,6 @@
 		"Alice Town": {
 			"lat": 25.727694,
 			"lon": -79.2976
-		},
-		"Disney Cruise Line": {}
+		}
 	}
 }

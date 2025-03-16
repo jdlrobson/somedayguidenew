@@ -717,14 +717,11 @@
 			"Berry Islands",
 			"San Salvador Island",
 			"Rum Cay",
-			"Acklins Island",
-			"Crooked Island",
 			"Inagua",
 			"Mayaguana",
 			"Freeport (Bahamas)",
 			"Matthew Town",
-			"Alice Town",
-			"Disney Cruise Line"
+			"Alice Town"
 		],
 		"wb": "Q778",
 		"neighbors": [],
@@ -739,7 +736,7 @@
 		"snippets": 3,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Junkanoo_Valleyboys_NewYrs_parade.jpg",
-		"updated": "2025-03-15T18:45:03.348Z"
+		"updated": "2025-03-16T01:25:53.869Z"
 	},
 	"Bahrain": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_6a_BahrainInternationalAirport01_jpeg_440px-BahrainInternationalAirport01.jpeg",
@@ -1294,7 +1291,7 @@
 			}
 		],
 		"destinations": [
-			"La Paz (Bolivia)",
+			"La Paz",
 			"Cochabamba",
 			"Oruro",
 			"Potosí",
@@ -1305,15 +1302,11 @@
 			"Tarija",
 			"Chacaltaya",
 			"Isla del Sol",
-			"Jesuit Missions of the Chiquitos",
 			"Madidi National Park",
 			"Noel Kempff Mercado National Park",
 			"Sajama National Park",
 			"Salar de Uyuni",
-			"Tiwanaku",
-			"Yungas and Chapare",
-			"La Paz",
-			"La Paz (department, Bolivia)"
+			"Tiwanaku"
 		],
 		"wb": "Q750",
 		"neighbors": [
@@ -1334,10 +1327,10 @@
 				"Guarani"
 			]
 		},
-		"snippets": 14,
+		"snippets": 15,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vista_Posterior_de_la_Puerta_del_Sol.jpg",
-		"updated": "2025-03-15T18:39:11.947Z"
+		"updated": "2025-03-16T01:16:57.159Z"
 	},
 	"Bosnia and Herzegovina": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_10_Travnik_Panorama_1_JPG_600px-Travnik_Panorama_1.JPG",
@@ -1497,20 +1490,15 @@
 			"São Paulo",
 			"Amazonas (Brazil)",
 			"Chapada Diamantina National Park",
-			"Chapada dos Veadeiros",
 			"Fernando de Noronha",
 			"Ilha Grande",
 			"Iguaçu Falls",
-			"Ilha do Marajó",
 			"Lençóis Maranhenses",
-			"Chapada dos Veadeiros National Park",
 			"Brasília",
 			"Alto Paraíso de Goiás",
 			"Cavalcante",
 			"Belém",
 			"Natal",
-			"salvador",
-			"Ilha do Mosqueiro",
 			"Salinópolis",
 			"Santarém (Brazil)",
 			"São Luís",
@@ -1539,10 +1527,10 @@
 			],
 			"currency": "BRL"
 		},
-		"snippets": 21,
+		"snippets": 23,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Igua%C3%A7u_falls1_11-11-13.JPG",
-		"updated": "2025-03-16T01:08:59.148Z"
+		"updated": "2025-03-16T01:22:43.349Z"
 	},
 	"Brunei": {
 		"zoom": 6,
@@ -1566,8 +1554,7 @@
 			"Bangar",
 			"Kuala Belait",
 			"Seria",
-			"Tutong",
-			"Temburong"
+			"Tutong"
 		],
 		"blogs": [
 			422
@@ -1587,7 +1574,7 @@
 		},
 		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:JAME%E2%80%99ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN%2C_BRUNEI.jpg",
-		"updated": "2025-03-15T18:41:02.586Z"
+		"updated": "2025-03-16T01:16:52.375Z"
 	},
 	"Bulgaria": {
 		"zoom": 5,
@@ -1685,8 +1672,7 @@
 			"Gaoua",
 			"Koudougou",
 			"Ouahigouya",
-			"Arli National Park",
-			"Kabore Tembi National Park"
+			"Arli National Park"
 		],
 		"wb": "Q965",
 		"neighbors": [
@@ -1707,7 +1693,7 @@
 		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Arli_National_Park_Burkina_Faso.png",
-		"updated": "2025-03-15T18:41:09.725Z"
+		"updated": "2025-03-16T01:25:56.131Z"
 	},
 	"Burundi": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a5_Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4)_jpg_440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4).jpg",
@@ -2023,7 +2009,7 @@
 		},
 		"snippets": 11,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:False_Creek_morning.jpg",
-		"updated": "2025-03-16T01:08:59.150Z"
+		"updated": "2025-03-16T01:25:56.132Z"
 	},
 	"Cape Verde": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a2_Casal_na_Praia_de_Leste_jpg_440px-Casal_na_Praia_de_Leste.jpg",
@@ -2180,18 +2166,16 @@
 			"San Pedro de Atacama",
 			"Valdivia",
 			"Valparaíso",
-			"Vina del Mar",
+			"Viña del Mar",
 			"Chiloé Island",
 			"Laguna San Rafael National Park",
 			"Lauca National Park",
 			"Pichilemu",
 			"Robinson Crusoe Island",
 			"Torres del Paine National Park",
-			"Valle de Elqui",
 			"Valle de la Luna",
 			"Villarrica",
 			"Northern Chile",
-			"Viña del Mar",
 			"Juan Fernández Islands"
 		],
 		"wb": "Q298",
@@ -2208,10 +2192,10 @@
 				"Spanish"
 			]
 		},
-		"snippets": 10,
+		"snippets": 11,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg",
-		"updated": "2025-03-16T00:47:37.250Z"
+		"updated": "2025-03-16T01:21:28.376Z"
 	},
 	"China": {
 		"seen": 47,
@@ -2326,7 +2310,7 @@
 		"snippets": 45,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG",
-		"updated": "2025-03-15T17:48:57.929Z"
+		"updated": "2025-03-16T01:16:57.164Z"
 	},
 	"Colombia": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e0_Nevado_del_Ruiz_Valle_de_los_muertos_JPG_440px-Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
@@ -2424,7 +2408,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
-		"updated": "2025-03-15T18:04:58.613Z"
+		"updated": "2025-03-16T01:16:57.164Z"
 	},
 	"Comoros": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_51_Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow_JPG_440px-Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
@@ -2444,7 +2428,7 @@
 			"Domoni",
 			"Fomboni",
 			"Nioumachoua",
-			"Moutsamoudou"
+			"Mutsamudu"
 		],
 		"wb": "Q970",
 		"neighbors": [
@@ -2467,7 +2451,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
-		"updated": "2025-03-15T17:49:15.012Z"
+		"updated": "2025-03-16T01:23:20.215Z"
 	},
 	"Democratic Republic of the Congo": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_49_Sunrise_near_Mossaka_(Congo)_JPG_600px-Sunrise_near_Mossaka_(Congo).JPG",
@@ -2493,7 +2477,6 @@
 			"Matadi",
 			"Mbandaka",
 			"Virunga National Park",
-			"Kahuzi-Biega National Park",
 			"Garamba National Park",
 			"Salonga National Park",
 			"Maiko National Park",
@@ -2525,7 +2508,7 @@
 		"snippets": 4,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Mossaka_%28Congo%29.JPG",
-		"updated": "2025-03-15T17:33:09.421Z"
+		"updated": "2025-03-16T01:25:56.135Z"
 	},
 	"Republic of the Congo": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_17_Alima_-_Congo_JPG_440px-Alima_-_Congo.JPG",
@@ -2575,7 +2558,7 @@
 		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alima_-_Congo.JPG",
-		"updated": "2025-03-15T17:49:15.013Z"
+		"updated": "2025-03-16T01:17:42.100Z"
 	},
 	"Cook Islands": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_26_Rarotonga_Airport_Tower_jpg_440px-Rarotonga_Airport_Tower.jpg",
@@ -2613,7 +2596,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rarotonga_Airport_Tower.jpg",
-		"updated": "2025-03-15T17:49:15.013Z"
+		"updated": "2025-03-16T01:23:16.165Z"
 	},
 	"Costa Rica": {
 		"seen": 41,
@@ -2668,7 +2651,7 @@
 		"snippets": 7,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cartago%2C_costa_rica_-_panoramio.jpg",
-		"updated": "2025-03-15T17:49:15.014Z"
+		"updated": "2025-03-16T01:23:20.217Z"
 	},
 	"Côte d'Ivoire": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_34_Rond-point_Liberté_Adjamé_jpg_440px-Rond-point_Liberté_Adjamé.jpg",
@@ -2708,7 +2691,7 @@
 		"snippets": 1,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg",
-		"updated": "2025-03-15T17:49:15.014Z"
+		"updated": "2025-03-16T01:23:28.280Z"
 	},
 	"Croatia": {
 		"seen": 38,
@@ -2900,7 +2883,7 @@
 		"snippets": 9,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Zut_srednji_kanal.jpg",
-		"updated": "2025-03-15T18:04:58.614Z"
+		"updated": "2025-03-16T01:25:56.136Z"
 	},
 	"Cuba": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_6_62_Statue_du_Che_à_Santa_Clara,_Cuba_JPG_400px-Statue_du_Che_à_Santa_Clara,_Cuba.JPG",
@@ -2951,7 +2934,7 @@
 		"snippets": 8,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG",
-		"updated": "2025-03-15T17:49:15.015Z"
+		"updated": "2025-03-16T01:25:56.137Z"
 	},
 	"Cyprus": {
 		"seen": 8,
@@ -3046,7 +3029,7 @@
 		"snippets": 1,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG",
-		"updated": "2025-03-15T17:33:09.423Z"
+		"updated": "2025-03-16T01:25:56.137Z"
 	},
 	"Czech Republic": {
 		"zoom": 5,
@@ -4637,7 +4620,7 @@
 		},
 		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberger_Burg_im_Herbst_2013.jpg",
-		"updated": "2025-03-15T17:33:09.427Z"
+		"updated": "2025-03-16T01:17:24.184Z"
 	},
 	"Ghana": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_cf_Ghana_footbridge1_jpg_440px-Ghana_footbridge1.jpg",
@@ -8081,7 +8064,7 @@
 		"snippets": 14,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg",
-		"updated": "2025-03-15T18:05:01.986Z"
+		"updated": "2025-03-16T01:16:57.186Z"
 	},
 	"Montenegro": {
 		"seen": 59,

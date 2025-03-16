@@ -612,15 +612,39 @@
 			"lat": 22.61527778,
 			"lon": -83.71583333
 		},
-		"Baracoa": {},
-		"Matanzas": {},
-		"Pinar del Rio": {},
-		"Cayo Largo": {},
-		"Isla de la Juventud": {},
-		"Jardines del Rey": {},
-		"Maria la Gorda": {},
+		"Baracoa": {
+			"lat": 20.3486,
+			"lon": -74.5106
+		},
+		"Matanzas": {
+			"lat": 23.051111,
+			"lon": -81.575278
+		},
+		"Pinar del Rio": {
+			"lat": 22.412222,
+			"lon": -83.671944
+		},
+		"Cayo Largo": {
+			"lat": 21.6333,
+			"lon": -81.4667
+		},
+		"Isla de la Juventud": {
+			"lat": 21.75,
+			"lon": -82.85
+		},
+		"Jardines del Rey": {
+			"lat": 22.15,
+			"lon": -77.88333333
+		},
+		"Maria la Gorda": {
+			"lat": 21.82,
+			"lon": -84.4937
+		},
 		"Parque Nacional La Güira": {},
 		"Varadero Beach": {},
-		"Varadero": {}
+		"Varadero": {
+			"lat": 23.139444,
+			"lon": -81.286111
+		}
 	}
 }

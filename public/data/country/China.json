@@ -2816,14 +2816,41 @@
 			"lat": 24.4796,
 			"lon": 118.0889
 		},
-		"Great Wall of China": {},
-		"Hainan": {},
-		"Qomolangma": {},
-		"Yungang Grottoes": {},
-		"Yunnan": {},
-		"Heijing": {},
-		"Ruili": {},
-		"Ürümqi": {},
-		"Erlian": {}
+		"Great Wall of China": {
+			"lat": 40.67693,
+			"lon": 117.23193
+		},
+		"Hainan": {
+			"lat": 19.2,
+			"lon": 109.7
+		},
+		"Qomolangma": {
+			"lat": 28.180981,
+			"lon": 86.802979
+		},
+		"Yungang Grottoes": {
+			"lat": 40.1105,
+			"lon": 113.1259
+		},
+		"Yunnan": {
+			"lat": 25,
+			"lon": 102
+		},
+		"Heijing": {
+			"lat": 25.3782,
+			"lon": 101.7464
+		},
+		"Ruili": {
+			"lat": 24.0167,
+			"lon": 97.85
+		},
+		"Ürümqi": {
+			"lat": 43.8225,
+			"lon": 87.6125
+		},
+		"Erlian": {
+			"lat": 43.648,
+			"lon": 111.973
+		}
 	}
 }

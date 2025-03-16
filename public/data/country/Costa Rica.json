@@ -765,12 +765,30 @@
 			"lon": -83.9167
 		},
 		"Cartago": {},
-		"Puerto Limón": {},
+		"Puerto Limón": {
+			"lat": 9.98333333,
+			"lon": -83.03333333
+		},
 		"Fortuna (Costa Rica)": {},
-		"Cahuita National Park": {},
-		"Chirripo National Park": {},
-		"Cocos Island National Park": {},
-		"Corcovado National Park": {},
-		"La Fortuna": {}
+		"Cahuita National Park": {
+			"lat": 9.7292,
+			"lon": -82.825
+		},
+		"Chirripo National Park": {
+			"lat": 9.48,
+			"lon": -83.48
+		},
+		"Cocos Island National Park": {
+			"lat": 5.518889,
+			"lon": -87.071667
+		},
+		"Corcovado National Park": {
+			"lat": 8.55,
+			"lon": -83.5833
+		},
+		"La Fortuna": {
+			"lat": 10.471396,
+			"lon": -84.645374
+		}
 	}
 }

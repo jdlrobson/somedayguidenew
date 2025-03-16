@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Concepcion_church.JPG/320px-Concepcion_church.JPG
+Jesuit Missions of Chiquitos
+https://en.wikipedia.org/wiki/Jesuit_Missions_of_Chiquitos
+<small>[from en.wikipedia.org]:</small> The Jesuit Missions of Chiquitos are located in the Santa Cruz department in eastern Bolivia. Six of these former missions collectively were designated as a UNESCO World Heritage Site in 1990. Distinguished by a unique fusion of European and Amerindian cultural influences, the missions were founded as reductions or reducciones de indios by Jesuits in the 17th and 18th centuries to convert local tribes to Christianity.
+<location lat="-16.770846" lon="-61.454265"></location>

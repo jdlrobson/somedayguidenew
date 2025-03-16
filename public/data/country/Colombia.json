@@ -975,11 +975,29 @@
 			"lat": 2.45,
 			"lon": -76.6167
 		},
-		"Barranquilla": {},
-		"Amacayacu National Park": {},
-		"Ciudad Perdida": {},
-		"Isla Gorgona": {},
-		"Los Nevados National Park": {},
-		"Leticia": {}
+		"Barranquilla": {
+			"lat": 10.963889,
+			"lon": -74.796389
+		},
+		"Amacayacu National Park": {
+			"lat": -3.4833,
+			"lon": -70.2
+		},
+		"Ciudad Perdida": {
+			"lat": 11.03799722,
+			"lon": -73.92519167
+		},
+		"Isla Gorgona": {
+			"lat": 2.96667,
+			"lon": -78.18333
+		},
+		"Los Nevados National Park": {
+			"lat": 4.8,
+			"lon": -75.3667
+		},
+		"Leticia": {
+			"lat": -4.2917,
+			"lon": -69.844
+		}
 	}
 }

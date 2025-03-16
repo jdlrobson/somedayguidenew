@@ -44,6 +44,15 @@
 			"url": "https://www.neverendingvoyage.com/the-bolivian-amazon-the-jungle-vs-the-pampas/"
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Jesuit Missions of Chiquitos are located in the Santa Cruz department in eastern Bolivia. Six of these former missions collectively were designated as a UNESCO World Heritage Site in 1990. Distinguished by a unique fusion of European and Amerindian cultural influences, the missions were founded as reductions or reducciones de indios by Jesuits in the 17th and 18th centuries to convert local tribes to Christianity.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Concepcion_church.JPG/320px-Concepcion_church.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Jesuit Missions of Chiquitos",
+			"url": "https://en.wikipedia.org/wiki/Jesuit_Missions_of_Chiquitos"
+		},
+		{
 			"src": "https://www.instagram.com/reel/kaMEZls2PT/",
 			"source": "",
 			"type": "instagram",
@@ -795,7 +804,6 @@
 			"lat": -16.49583333,
 			"lon": -68.13333333
 		},
-		"La Paz (Bolivia)": {},
 		"Oruro": {
 			"lat": -17.9667,
 			"lon": -67.1167
@@ -812,7 +820,6 @@
 			"lat": -21.533333,
 			"lon": -64.733333
 		},
-		"Jesuit Missions of the Chiquitos": {},
 		"Madidi National Park": {
 			"lat": -12.5,
 			"lon": -67.5
@@ -824,11 +831,6 @@
 		"Tiwanaku": {
 			"lat": -16.55472,
 			"lon": -68.673
-		},
-		"Yungas and Chapare": {},
-		"La Paz (department, Bolivia)": {
-			"lat": -15,
-			"lon": -68.3333
 		}
 	}
 }

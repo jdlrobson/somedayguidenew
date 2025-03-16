@@ -1444,7 +1444,10 @@
 		"Bavarian Alps": {},
 		"East Frisian Islands": {},
 		"Franconian Switzerland": {},
-		"France": {},
+		"France": {
+			"lat": 47,
+			"lon": 2
+		},
 		"Belgium": {},
 		"Austria": {},
 		"Cruising the Baltic Sea": {},

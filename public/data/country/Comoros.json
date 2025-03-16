@@ -236,12 +236,33 @@
 			"lat": -11.7036111,
 			"lon": 43.2536111
 		},
-		"Moheli": {},
-		"Mayotte": {},
-		"France": {},
-		"Domoni": {},
-		"Fomboni": {},
-		"Nioumachoua": {},
-		"Moutsamoudou": {}
+		"Moheli": {
+			"lat": -12.33,
+			"lon": 43.75
+		},
+		"Mayotte": {
+			"lat": -12.843056,
+			"lon": 45.138333
+		},
+		"France": {
+			"lat": 47,
+			"lon": 2
+		},
+		"Domoni": {
+			"lat": -12.25861111,
+			"lon": 44.53027778
+		},
+		"Fomboni": {
+			"lat": -12.28,
+			"lon": 43.7425
+		},
+		"Nioumachoua": {
+			"lat": -12.361,
+			"lon": 43.715
+		},
+		"Mutsamudu": {
+			"lat": -12.1675,
+			"lon": 44.39388889
+		}
 	}
 }

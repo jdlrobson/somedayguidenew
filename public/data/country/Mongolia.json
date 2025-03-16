@@ -816,7 +816,10 @@
 		"Gorkhi-Terelj National Park": {},
 		"Khustain Nuruu National Park": {},
 		"Gobi Gurvan Saikhan National Park": {},
-		"Erlian": {},
+		"Erlian": {
+			"lat": 43.648,
+			"lon": 111.973
+		},
 		"Jining (Inner Mongolia)": {},
 		"Zamiin-Uud": {}
 	}

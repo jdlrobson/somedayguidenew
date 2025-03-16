@@ -29,6 +29,15 @@
 			"url": "https://petergostelow.com/big-africa-cycle-/general-posts/upriver-a-boat-journey"
 		},
 		{
+			"text": "<small>[from en.wikipedia.org]:</small> The Kahuzi-Biega National Park is a protected area near Bukavu town in eastern Democratic Republic of the Congo. It is situated near the western bank of Lake Kivu and the Rwandan border.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PXL_20230311_111951731.jpg/320px-PXL_20230311_111951731.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Kahuzi-Biéga National Park",
+			"url": "https://en.wikipedia.org/wiki/Kahuzi-Bi%C3%A9ga_National_Park"
+		},
+		{
 			"text": "<small>[from en.wikipedia.org]:</small> Lola ya Bonobo is the world's only sanctuary for orphaned bonobos. Originally founded by Claudine André in 1994, since 2002 the sanctuary has been located just south of the suburb of Kimwenza at the Petites Chutes de la Lukaya, Kinshasa, in the Democratic Republic of the Congo.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lr_new_best_bonobo_pics20.jpg/320px-Lr_new_best_bonobo_pics20.jpg",
 			"source": "",
@@ -429,15 +438,41 @@
 			"lat": 0.04777778,
 			"lon": 18.25583333
 		},
-		"Bukavu": {},
-		"Kananga": {},
-		"Kindu": {},
-		"Matadi": {},
-		"Virunga National Park": {},
-		"Kahuzi-Biega National Park": {},
-		"Garamba National Park": {},
-		"Salonga National Park": {},
-		"Maiko National Park": {},
-		"Kahuzi-Biéga National Park": {}
+		"Bukavu": {
+			"lat": -2.5,
+			"lon": 28.86
+		},
+		"Kananga": {
+			"lat": -5.897,
+			"lon": 22.449
+		},
+		"Kindu": {
+			"lat": -2.95,
+			"lon": 25.95
+		},
+		"Matadi": {
+			"lat": -5.85087,
+			"lon": 13.46274
+		},
+		"Virunga National Park": {
+			"lat": -0.5,
+			"lon": 29.5
+		},
+		"Garamba National Park": {
+			"lat": 4,
+			"lon": 29.25
+		},
+		"Salonga National Park": {
+			"lat": -2,
+			"lon": 21
+		},
+		"Maiko National Park": {
+			"lat": -0.4,
+			"lon": 27.566667
+		},
+		"Kahuzi-Biéga National Park": {
+			"lat": -2.5,
+			"lon": 28.75
+		}
 	}
 }

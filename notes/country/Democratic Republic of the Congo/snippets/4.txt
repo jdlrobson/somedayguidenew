@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PXL_20230311_111951731.jpg/320px-PXL_20230311_111951731.jpg
+Kahuzi-Biéga National Park
+https://en.wikipedia.org/wiki/Kahuzi-Bi%C3%A9ga_National_Park
+<small>[from en.wikipedia.org]:</small> The Kahuzi-Biega National Park is a protected area near Bukavu town in eastern Democratic Republic of the Congo. It is situated near the western bank of Lake Kivu and the Rwandan border.
+<location lat="-2.5" lon="28.75"></location>

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/ChapadaVeadeiros%2C_Alto_Paraiso_GO.jpg/320px-ChapadaVeadeiros%2C_Alto_Paraiso_GO.jpg
+Chapada dos Veadeiros National Park
+https://en.wikipedia.org/wiki/Chapada_dos_Veadeiros_National_Park
+<small>[from en.wikipedia.org]:</small> Chapada dos Veadeiros National Park is a national park of Brazil located in the state of Goiás, on the top of an ancient plateau with an estimated age of 1.8 billion years. The park was created on January 11, 1961, by President Juscelino Kubitschek, and listed as a World Heritage Site by Unesco in 2001. It occupies an area of 2,405 square kilometres (929 sq mi) in the municipalities of Alto Paraíso de Goiás, Cavalcante and Colinas do Sul. The park is maintained by Chico Mendes Institute for Biodiversity Conservation.
+<location lat="-14.00569444" lon="-47.68461111"></location>

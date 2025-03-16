@@ -20,6 +20,15 @@
 			"url": "https://en.wikipedia.org/wiki/Aconcagua_(wine_region)"
 		},
 		{
+			"text": "Get to know the original heart of Chile and discover the cultural influences of indigenous people on your trip to Chile - travelArt <small>[image from travelArt]</small>",
+			"src": "https://www.chile-reise.com/wp-content/uploads/Caravane-ancestral.png",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "INDIGENOUS PEOPLES OF NORTHERN CHILE - travelArt",
+			"url": "https://www.chile-reise.com/en/indigenous-peoples-of-northern-chile/"
+		},
+		{
 			"text": "Here's what you need to know for the perfect stargazing trip in Chile’s Atacama Desert. <small>[image from Lonely Planet]</small>",
 			"src": "https://lp-cms-production.imgix.net/2020-12/GettyRF_590981231.jpg?w=600&h=400",
 			"source": "",
@@ -955,7 +964,6 @@
 			"lat": -29.9,
 			"lon": -71.25
 		},
-		"Vina del Mar": {},
 		"Lauca National Park": {
 			"lat": -18.2444,
 			"lon": -69.3539
@@ -972,8 +980,6 @@
 			"lat": -51.03,
 			"lon": -73.09
 		},
-		"Valle de Elqui": {},
-		"Valle de la Luna": {},
 		"Villarrica": {
 			"lat": -39.2666,
 			"lon": -72.2166
@@ -981,6 +987,10 @@
 		"Northern Chile": {
 			"lat": -26,
 			"lon": -69.4
+		},
+		"Valle de la Luna": {
+			"lat": -22.9112,
+			"lon": -68.32303
 		}
 	}
 }

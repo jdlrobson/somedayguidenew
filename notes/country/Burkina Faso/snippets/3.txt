@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kabore_Tambi_NP_MS_10798.jpg/320px-Kabore_Tambi_NP_MS_10798.jpg
+Kaboré Tambi National Park
+https://en.wikipedia.org/wiki/Kabor%C3%A9_Tambi_National_Park
+<small>[from en.wikipedia.org]:</small> Kaboré Tambi National Park is a national park in Burkina Faso. It is situated between Ouagadougou and the border with Ghana and follows the course of the Nazinon river. Founded in 1976 as Pô National Park, it has been renamed in honor of a park ranger who was killed by poachers in 1991.
+<location lat="11.45" lon="-1.4167"></location>

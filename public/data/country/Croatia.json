@@ -914,12 +914,30 @@
 			"lat": 45.21666667,
 			"lon": 13.58333333
 		},
-		"Krka National Park": {},
-		"Krk": {},
-		"Solta": {},
-		"Makarska": {},
+		"Krka National Park": {
+			"lat": 43.80194444,
+			"lon": 15.97277778
+		},
+		"Krk": {
+			"lat": 45.078888,
+			"lon": 14.600833
+		},
+		"Solta": {
+			"lat": 43.38361111,
+			"lon": 16.29
+		},
+		"Makarska": {
+			"lat": 43.3,
+			"lon": 17.0333
+		},
 		"Plitvice National Park": {},
-		"Žumberak": {},
-		"Plitvice Lakes National Park": {}
+		"Žumberak": {
+			"lat": 45.78333,
+			"lon": 15.38333
+		},
+		"Plitvice Lakes National Park": {
+			"lat": 44.880445,
+			"lon": 15.616035
+		}
 	}
 }

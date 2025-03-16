@@ -334,17 +334,32 @@
 			"lon": 11.86527778
 		},
 		"Abala-Ndolo": {},
-		"Djambala": {},
-		"Mossendjo": {},
+		"Djambala": {
+			"lat": -2.55,
+			"lon": 14.75
+		},
+		"Mossendjo": {
+			"lat": -2.95,
+			"lon": 12.733333
+		},
 		"Ouésso": {},
-		"Owando": {},
+		"Owando": {
+			"lat": -0.48333333,
+			"lon": 15.9
+		},
 		"Pointe-Noire (Republic of the Congo)": {},
 		"Conkouati Reserve": {},
-		"Ile Mbamou": {},
+		"Ile Mbamou": {
+			"lat": -4.2227,
+			"lon": 15.406
+		},
 		"Lefini Reserve": {},
 		"Mount Fouari National Reserve": {},
 		"Odzala National Park": {},
 		"Tiger Fish Congo Camp": {},
-		"Lesio Louna Gorilla Reserve": {}
+		"Lesio Louna Gorilla Reserve": {
+			"lat": -2,
+			"lon": 15
+		}
 	}
 }

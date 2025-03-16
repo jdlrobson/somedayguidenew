@@ -324,9 +324,15 @@
 			"lat": 34.76666667,
 			"lon": 32.41666667
 		},
-		"Ayia Napa": {},
+		"Ayia Napa": {
+			"lat": 34.9833,
+			"lon": 34
+		},
 		"Akamas Peninsula": {},
-		"Lefkara": {},
+		"Lefkara": {
+			"lat": 34.8667,
+			"lon": 33.3
+		},
 		"Kyrenia district": {}
 	}
 }

@@ -80,10 +80,25 @@
 			"lat": -19.983333,
 			"lon": -158.116667
 		},
-		"Aitutaki": {},
-		"Rarotonga": {},
-		"Palmerston Island": {},
-		"Mauke": {},
-		"Mangaia": {}
+		"Aitutaki": {
+			"lat": -18.83,
+			"lon": -159.75
+		},
+		"Rarotonga": {
+			"lat": -21.2333,
+			"lon": -159.7833
+		},
+		"Palmerston Island": {
+			"lat": -18.0667,
+			"lon": -163.1667
+		},
+		"Mauke": {
+			"lat": -20.166667,
+			"lon": -157.333333
+		},
+		"Mangaia": {
+			"lat": -21.921389,
+			"lon": -157.923056
+		}
 	}
 }
