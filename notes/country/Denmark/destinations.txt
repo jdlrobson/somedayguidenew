@@ -15,13 +15,12 @@ Hirsholmene
 Kongernes Nordsjælland National Park
 Læsø
 Samsø
-Stevns Cliff
 Iceland
 Faroe Islands
 Greenland
 Hanstholm
 Jutland
-Torshavn
+Tórshavn
 Seyðisfjörður
 Longyearbyen
 Svalbard
@@ -30,6 +29,5 @@ Frederikshavn
 Grenaa
 Varberg
 Hirtshals
-Hanseatic League
 Stevns
 Grenå

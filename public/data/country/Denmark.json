@@ -42,6 +42,15 @@
 			"embed": false,
 			"title": "Roskilde Festival",
 			"url": "https://en.wikipedia.org/wiki/Roskilde_Festival"
+		},
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Stevns Klint, known as the Cliffs of Stevns in English, is a white chalk cliff located some 6 km (3.7 mi) southeast of Store Heddinge on the Danish island of Zealand. Stretching 17 km (11 mi) along the coast, it is of geological importance as one of the best exposed Cretaceous-Tertiary (K/T) boundaries in the world. Subject to frequent erosion, the cliff rises to a height of up to 40 m (130 ft). Because of its exceptional fossil record, Stevns Klint was inscribed on the UNESCO World Heritage List in 2014.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stevns_Klint_Juli_2019.jpg/320px-Stevns_Klint_Juli_2019.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Stevns Klint",
+			"url": "https://en.wikipedia.org/wiki/Stevns_Klint"
 		}
 	],
 	"places": {
@@ -747,34 +756,101 @@
 			"lat": 57.11666667,
 			"lon": 12.21666667
 		},
-		"Roskilde": {},
-		"Sønderborg": {},
-		"Ertholmene": {},
-		"Femø": {},
-		"Fanø": {},
-		"Hirsholmene": {},
-		"Kongernes Nordsjælland National Park": {},
-		"Læsø": {},
-		"Samsø": {},
-		"Stevns Cliff": {},
-		"Iceland": {},
-		"Faroe Islands": {},
+		"Roskilde": {
+			"lat": 55.641476,
+			"lon": 12.080422
+		},
+		"Sønderborg": {
+			"lat": 54.9139,
+			"lon": 9.7922
+		},
+		"Ertholmene": {
+			"lat": 55.320575,
+			"lon": 15.187525
+		},
+		"Femø": {
+			"lat": 54.96666667,
+			"lon": 11.55
+		},
+		"Fanø": {
+			"lat": 55.40329,
+			"lon": 8.41347
+		},
+		"Hirsholmene": {
+			"lat": 57.48,
+			"lon": 10.62
+		},
+		"Kongernes Nordsjælland National Park": {
+			"lat": 55.97426,
+			"lon": 12.27104
+		},
+		"Læsø": {
+			"lat": 57.27,
+			"lon": 11.03
+		},
+		"Samsø": {
+			"lat": 55.86666667,
+			"lon": 10.61666667
+		},
+		"Iceland": {
+			"lat": 65,
+			"lon": -19
+		},
+		"Faroe Islands": {
+			"lat": 61.9,
+			"lon": -6.7833
+		},
 		"Greenland": {
 			"lat": 72,
 			"lon": -40
 		},
-		"Hanstholm": {},
-		"Jutland": {},
-		"Torshavn": {},
-		"Seyðisfjörður": {},
-		"Longyearbyen": {},
-		"Svalbard": {},
-		"Sweden": {},
-		"Frederikshavn": {},
-		"Grenaa": {},
-		"Hirtshals": {},
-		"Hanseatic League": {},
-		"Stevns": {},
-		"Grenå": {}
+		"Hanstholm": {
+			"lat": 57.1167,
+			"lon": 8.6167
+		},
+		"Jutland": {
+			"lat": 56.12955,
+			"lon": 9.20105
+		},
+		"Seyðisfjörður": {
+			"lat": 65.25,
+			"lon": -14.0167
+		},
+		"Longyearbyen": {
+			"lat": 78.2186,
+			"lon": 15.6488
+		},
+		"Svalbard": {
+			"lat": 78,
+			"lon": 16
+		},
+		"Sweden": {
+			"lat": 63,
+			"lon": 18
+		},
+		"Frederikshavn": {
+			"lat": 57.4333,
+			"lon": 10.5333
+		},
+		"Grenaa": {
+			"lat": 56.41608,
+			"lon": 10.89226
+		},
+		"Hirtshals": {
+			"lat": 57.5833,
+			"lon": 9.95
+		},
+		"Stevns": {
+			"lat": 55.25481,
+			"lon": 12.37979
+		},
+		"Grenå": {
+			"lat": 56.406,
+			"lon": 10.92
+		},
+		"Tórshavn": {
+			"lat": 62.011667,
+			"lon": -6.7675
+		}
 	}
 }

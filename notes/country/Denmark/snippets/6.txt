@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stevns_Klint_Juli_2019.jpg/320px-Stevns_Klint_Juli_2019.jpg
+Stevns Klint
+https://en.wikipedia.org/wiki/Stevns_Klint
+<small>[from en.wikipedia.org]:</small> Stevns Klint, known as the Cliffs of Stevns in English, is a white chalk cliff located some 6 km (3.7 mi) southeast of Store Heddinge on the Danish island of Zealand. Stretching 17 km (11 mi) along the coast, it is of geological importance as one of the best exposed Cretaceous-Tertiary (K/T) boundaries in the world. Subject to frequent erosion, the cliff rises to a height of up to 40 m (130 ft). Because of its exceptional fossil record, Stevns Klint was inscribed on the UNESCO World Heritage List in 2014.
+<location lat="55.26722222" lon="12.42333333"></location>

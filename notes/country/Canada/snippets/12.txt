@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Takakkaw_Falls_-_panoramio_%281%29.jpg/320px-Takakkaw_Falls_-_panoramio_%281%29.jpg
+Yoho National Park
+https://en.wikipedia.org/wiki/Yoho_National_Park
+<small>[from en.wikipedia.org]:</small> Yoho National Park is a national park of Canada. It is located within the Rocky Mountains along the western slope of the Continental Divide of the Americas in southeastern British Columbia, bordered by Kootenay National Park to the south and Banff National Park to the east in Alberta. The word Yoho is a Cree expression of amazement or awe, and it is an apt description for the park's spectacular landscape of massive ice fields and mountain peaks, which rank among the highest in the Canadian Rockies.
+<location lat="51.39527778" lon="-116.48666667"></location>

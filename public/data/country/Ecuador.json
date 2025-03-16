@@ -498,29 +498,86 @@
 			"lat": -2.2167,
 			"lon": -80.950067
 		},
-		"Ambato": {},
-		"Ibarra": {},
-		"Loja": {},
-		"Otavalo": {},
-		"Riobamba": {},
-		"Baeza (Ecuador)": {},
-		"Canoa": {},
-		"Guamote": {},
-		"Guaranda": {},
-		"Mindo": {},
+		"Ambato": {
+			"lat": -1.241667,
+			"lon": -78.619722
+		},
+		"Ibarra": {
+			"lat": 0.362778,
+			"lon": -78.13
+		},
+		"Loja": {
+			"lat": -3.9833,
+			"lon": -79.2
+		},
+		"Otavalo": {
+			"lat": 0.233333,
+			"lon": -78.266667
+		},
+		"Riobamba": {
+			"lat": -1.674347,
+			"lon": -78.648294
+		},
+		"Baeza (Ecuador)": {
+			"lat": -0.4617,
+			"lon": -77.8884
+		},
+		"Canoa": {
+			"lat": -0.4631,
+			"lon": -80.4518
+		},
+		"Guamote": {
+			"lat": -1.9333,
+			"lon": -78.7167
+		},
+		"Guaranda": {
+			"lat": -1.605556,
+			"lon": -79.003056
+		},
+		"Mindo": {
+			"lat": -0.0333,
+			"lon": -78.8
+		},
 		"Montanita": {},
-		"Puerto López": {},
-		"Puyo": {},
+		"Puerto López": {
+			"lat": -1.56666667,
+			"lon": -80.81666667
+		},
+		"Puyo": {
+			"lat": -1.494,
+			"lon": -77.997
+		},
 		"Quilotoa Loop": {},
-		"Tena": {},
-		"Vilcabamba": {},
-		"Cuyabeno Wildlife Reserve": {},
-		"Cotopaxi": {},
+		"Tena": {
+			"lat": -0.989,
+			"lon": -77.8159
+		},
+		"Vilcabamba": {
+			"lat": -4.255833,
+			"lon": -79.218889
+		},
+		"Cuyabeno Wildlife Reserve": {
+			"lat": -0.1167,
+			"lon": -75.8333
+		},
+		"Cotopaxi": {
+			"lat": -0.68055556,
+			"lon": -78.43777778
+		},
 		"Parque Nacional Cajas": {},
-		"Podocarpus National Park": {},
-		"Sangay National Park": {},
+		"Podocarpus National Park": {
+			"lat": -4.28333333,
+			"lon": -79
+		},
+		"Sangay National Park": {
+			"lat": -1.83333333,
+			"lon": -78.33333333
+		},
 		"Yasuni National Park": {},
 		"Coca (Ecuador)": {},
-		"Nuevo Rocafuerte": {}
+		"Nuevo Rocafuerte": {
+			"lat": -0.93,
+			"lon": -75.4
+		}
 	}
 }

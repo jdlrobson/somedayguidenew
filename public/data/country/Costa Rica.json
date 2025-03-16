@@ -764,12 +764,10 @@
 			"lat": 9.8667,
 			"lon": -83.9167
 		},
-		"Cartago": {},
 		"Puerto Limón": {
 			"lat": 9.98333333,
 			"lon": -83.03333333
 		},
-		"Fortuna (Costa Rica)": {},
 		"Cahuita National Park": {
 			"lat": 9.7292,
 			"lon": -82.825
@@ -789,6 +787,10 @@
 		"La Fortuna": {
 			"lat": 10.471396,
 			"lon": -84.645374
+		},
+		"La Fortuna, San Carlos": {
+			"lat": 10.4482962,
+			"lon": -84.6421456
 		}
 	}
 }

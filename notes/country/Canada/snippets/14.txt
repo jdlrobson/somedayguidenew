@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Watertonlake.jpg/320px-Watertonlake.jpg
+Waterton Lakes National Park
+https://en.wikipedia.org/wiki/Waterton_Lakes_National_Park
+<small>[from en.wikipedia.org]:</small> Waterton Lakes National Park is in the southwest corner of Alberta, Canada. The national park borders Glacier National Park in Montana, United States. Waterton was the fourth Canadian national park, formed in 1895 as Kootenay Lakes Forest Reserve. It is named after Waterton Lake, in turn after the Victorian naturalist and conservationist Charles Waterton. Its range is between the Rocky Mountains and the Prairies. This park contains 505 km2 (195 sq mi) of rugged mountains and wilderness. It has a diverse ecosystem.
+<location lat="49.04583333" lon="-113.91527778"></location>

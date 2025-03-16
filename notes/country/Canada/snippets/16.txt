@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/NLC_TerraNova2_tango7174.jpg/320px-NLC_TerraNova2_tango7174.jpg
+Terra Nova National Park
+https://en.wikipedia.org/wiki/Terra_Nova_National_Park
+<small>[from en.wikipedia.org]:</small> Terra Nova National Park is located on the northeast coast of Newfoundland in the Canadian province of Newfoundland and Labrador, along several inlets of Bonavista Bay. The park takes its name from the Latin name for Newfoundland; it is also the original Portuguese name given to the region.
+<location lat="48.53055556" lon="-53.92805556"></location>

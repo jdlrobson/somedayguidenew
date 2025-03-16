@@ -2,15 +2,42 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Dili": {},
-		"Baucau": {},
-		"Ermera": {},
-		"Gleno": {},
+		"Dili": {
+			"lat": -8.55861111,
+			"lon": 125.573611
+		},
+		"Baucau": {
+			"lat": -8.4667,
+			"lon": 126.45
+		},
+		"Ermera": {
+			"lat": -8.752222,
+			"lon": 125.396944
+		},
+		"Gleno": {
+			"lat": -8.723889,
+			"lon": 125.436111
+		},
 		"Liquica": {},
-		"Lospalos": {},
-		"Maliana": {},
-		"Suai": {},
-		"Flores (Indonesia)": {},
-		"West Timor": {}
+		"Lospalos": {
+			"lat": -8.522222,
+			"lon": 126.9975
+		},
+		"Maliana": {
+			"lat": -8.983333,
+			"lon": 125.216667
+		},
+		"Suai": {
+			"lat": -9.3125,
+			"lon": 125.255556
+		},
+		"Flores (Indonesia)": {
+			"lat": -8.67472,
+			"lon": 121.38444
+		},
+		"West Timor": {
+			"lat": -9.7833,
+			"lon": 124.1333
+		}
 	}
 }

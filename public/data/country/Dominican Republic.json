@@ -392,98 +392,61 @@
 			"lat": 18.43,
 			"lon": -68.97
 		},
-		"Santa Barbara de Samana": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 29.2,
-					"low": 19.1,
-					"precipitation": 145.7
-				},
-				{
-					"heading": "Feb",
-					"high": 29.5,
-					"low": 19.3,
-					"precipitation": 109.5
-				},
-				{
-					"heading": "Mar",
-					"high": 30.2,
-					"low": 19.9,
-					"precipitation": 116.6
-				},
-				{
-					"heading": "Apr",
-					"high": 30.7,
-					"low": 20.6,
-					"precipitation": 141.8
-				},
-				{
-					"heading": "May",
-					"high": 31.5,
-					"low": 21.8,
-					"precipitation": 231.5
-				},
-				{
-					"heading": "Jun",
-					"high": 32.5,
-					"low": 22.8,
-					"precipitation": 152.2
-				},
-				{
-					"heading": "Jul",
-					"high": 32.6,
-					"low": 23.1,
-					"precipitation": 185.1
-				},
-				{
-					"heading": "Aug",
-					"high": 32.7,
-					"low": 23,
-					"precipitation": 229.2
-				},
-				{
-					"heading": "Sep",
-					"high": 32.6,
-					"low": 22.7,
-					"precipitation": 193.3
-				},
-				{
-					"heading": "Oct",
-					"high": 32.2,
-					"low": 22.2,
-					"precipitation": 246.9
-				},
-				{
-					"heading": "Nov",
-					"high": 30.6,
-					"low": 20.6,
-					"precipitation": 257.2
-				},
-				{
-					"heading": "Dec",
-					"high": 29.6,
-					"low": 19.6,
-					"precipitation": 202.9
-				}
-			],
-			"lat": 19.205278,
-			"lon": -69.336389
+		"Higüey": {
+			"lat": 18.61805556,
+			"lon": -68.71111111
 		},
-		"Higüey": {},
-		"Juan Dolio": {},
-		"San Pedro de Macoris": {},
-		"Santa Barbara De Samana": {},
-		"Sosua": {},
-		"Rio San Juan": {},
-		"Bayahibe": {},
-		"Bonao": {},
-		"Cabarete": {},
-		"Jarabacoa": {},
-		"Las Terrenas": {},
-		"Las Galeras": {},
-		"Miches": {},
-		"Playa Bonita": {},
-		"Sosúa": {}
+		"Juan Dolio": {
+			"lat": 18.425,
+			"lon": -69.4242
+		},
+		"San Pedro de Macoris": {
+			"lat": 18.457222,
+			"lon": -69.306111
+		},
+		"Rio San Juan": {
+			"lat": 19.64,
+			"lon": -70.08
+		},
+		"Bayahibe": {
+			"lat": 18.3667,
+			"lon": -68.8333
+		},
+		"Bonao": {
+			"lat": 18.9333,
+			"lon": -70.4
+		},
+		"Cabarete": {
+			"lat": 19.751111,
+			"lon": -70.408333
+		},
+		"Jarabacoa": {
+			"lat": 19.11972222,
+			"lon": -70.63833333
+		},
+		"Las Terrenas": {
+			"lat": 19.32,
+			"lon": -69.53
+		},
+		"Las Galeras": {
+			"lat": 19.3,
+			"lon": -69.2
+		},
+		"Miches": {
+			"lat": 18.98,
+			"lon": -69.05
+		},
+		"Playa Bonita": {
+			"lat": 19.313,
+			"lon": -69.568
+		},
+		"Sosúa": {
+			"lat": 19.749444,
+			"lon": -70.517222
+		},
+		"Samaná (town)": {
+			"lat": 19.2,
+			"lon": -69.31666667
+		}
 	}
 }

@@ -834,7 +834,10 @@
 		"Lemmenjoki National Park": {},
 		"Nuuksio National Park": {},
 		"Finnish National Parks": {},
-		"Sweden": {},
+		"Sweden": {
+			"lat": 63,
+			"lon": 18
+		},
 		"Estonia": {},
 		"Norway": {},
 		"Levi": {},

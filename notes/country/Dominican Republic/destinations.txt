@@ -4,9 +4,8 @@ Juan Dolio
 Puerto Plata
 Punta Cana
 San Pedro de Macoris
-Santa Barbara De Samana
+Samaná (town)
 Santiago de los Caballeros
-Sosua
 Rio San Juan
 La Romana
 Bayahibe
@@ -17,5 +16,4 @@ Las Terrenas
 Las Galeras
 Miches
 Playa Bonita
-Santa Barbara de Samana
 Sosúa

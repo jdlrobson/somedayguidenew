@@ -80,10 +80,25 @@
 			"lat": 11.5,
 			"lon": 43
 		},
-		"Galafi": {},
-		"Obock": {},
-		"Tadjoura": {},
-		"Day Forest National Park": {},
-		"Moucha Island": {}
+		"Galafi": {
+			"lat": 11.71666667,
+			"lon": 41.83333333
+		},
+		"Obock": {
+			"lat": 11.966667,
+			"lon": 43.283333
+		},
+		"Tadjoura": {
+			"lat": 11.78333333,
+			"lon": 42.88333333
+		},
+		"Day Forest National Park": {
+			"lat": 11.8,
+			"lon": 42.683333
+		},
+		"Moucha Island": {
+			"lat": 11.7244,
+			"lon": 43.1917
+		}
 	}
 }

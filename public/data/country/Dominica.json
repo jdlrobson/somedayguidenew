@@ -1,6 +1,16 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"text": "<small>[from en.wikipedia.org]:</small> Morne Trois Pitons National Park is a national park in Dominica established in July 1975, the first to be legally established in the country. It became a World Heritage Site in 1997. The park is named after its highest mountain, Morne Trois Pitons, meaning mountain of three peaks. The park is an area of significant volcanic activity. Features within the park include the Valley of Desolation, a region of boiling mud ponds and small geysers; the Boiling Lake; Titou Gorge; and Emerald Pool. The mountain is the second-highest peak in Dominica, being exceeded only by Morne Diablotins.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominica_Hiking_Path.JPG/320px-Dominica_Hiking_Path.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Morne Trois Pitons National Park",
+			"url": "https://en.wikipedia.org/wiki/Morne_Trois_Pitons_National_Park"
+		}
+	],
 	"places": {
 		"Roseau": {
 			"climate": [
@@ -80,12 +90,25 @@
 			"lat": 15.30138889,
 			"lon": -61.38833333
 		},
-		"Portsmouth (Dominica)": {},
-		"Scott's Head": {},
-		"Calibishie": {},
-		"St. Joseph (Dominica)": {},
-		"Marigot (Dominica)": {},
-		"Morne Trois Pitons National Park": {},
-		"Hampstead (Dominica)": {}
+		"Portsmouth (Dominica)": {
+			"lat": 15.57361111,
+			"lon": -61.45972222
+		},
+		"Scott's Head": {
+			"lat": 15.2125,
+			"lon": -61.3667
+		},
+		"Calibishie": {
+			"lat": 15.58333333,
+			"lon": -61.35
+		},
+		"Marigot (Dominica)": {
+			"lat": 15.53679,
+			"lon": -61.27847
+		},
+		"Hampstead (Dominica)": {
+			"lat": 15.5955092,
+			"lon": -61.3684595
+		}
 	}
 }

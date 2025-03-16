@@ -1690,7 +1690,7 @@
 				"French"
 			]
 		},
-		"snippets": 2,
+		"snippets": 3,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Arli_National_Park_Burkina_Faso.png",
 		"updated": "2025-03-16T01:25:56.131Z"
@@ -1947,49 +1947,25 @@
 		"destinations": [
 			"Ottawa",
 			"Calgary",
-			"Halifax (Nova Scotia)",
 			"Montreal",
 			"Quebec City",
 			"Toronto",
 			"Vancouver",
-			"Whitehorse",
 			"Winnipeg",
-			"Algonquin Park",
-			"Banff National Park",
 			"Cape Breton Island",
-			"Jasper National Park",
-			"Terra Nova National Park",
-			"Waterton Lakes National Park",
-			"Yoho National Park",
-			"Saint-Pierre and Miquelon",
-			"Greenland",
 			"Algonquin Provincial Park",
 			"Halifax",
 			"Nova Scotia",
-			"Amherst (Nova Scotia)",
 			"Dartmouth (Nova Scotia)",
 			"Guysborough",
-			"Lunenburg",
 			"Pictou",
 			"Sydney (Nova Scotia)",
-			"Windsor (Nova Scotia)",
-			"Yarmouth (Nova Scotia)",
 			"Kejimkujik National Park",
 			"Newfoundland and Labrador",
-			"Algonquin_Provincial_Park",
-			"Niagara Falls (Ontario)",
-			"Kingston (Ontario)",
-			"Hamilton (Ontario)",
-			"Kitchener",
-			"London (Ontario)",
-			"Windsor (Ontario)",
-			"Niagara Region",
 			"Bruce Peninsula",
-			"St. Joseph Island",
 			"Ontario",
 			"Edmonton",
 			"Clarenville",
-			"Kluane National Park",
 			"Churchill",
 			"Haines Junction"
 		],
@@ -2007,9 +1983,9 @@
 			],
 			"currency": "CAD"
 		},
-		"snippets": 11,
+		"snippets": 17,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:False_Creek_morning.jpg",
-		"updated": "2025-03-16T01:25:56.132Z"
+		"updated": "2025-03-16T01:35:44.948Z"
 	},
 	"Cape Verde": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a2_Casal_na_Praia_de_Leste_jpg_440px-Casal_na_Praia_de_Leste.jpg",
@@ -2505,7 +2481,7 @@
 				"French"
 			]
 		},
-		"snippets": 4,
+		"snippets": 5,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Mossaka_%28Congo%29.JPG",
 		"updated": "2025-03-16T01:25:56.135Z"
@@ -2619,13 +2595,12 @@
 		"destinations": [
 			"San José (Costa Rica)",
 			"Alajuela",
-			"Cartago",
 			"Jacó",
 			"Heredia",
 			"Liberia (Costa Rica)",
 			"Puerto Limón",
 			"Quesada",
-			"Fortuna (Costa Rica)",
+			"La Fortuna, San Carlos",
 			"Cahuita National Park",
 			"Chirripo National Park",
 			"Cocos Island National Park",
@@ -2651,7 +2626,7 @@
 		"snippets": 7,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cartago%2C_costa_rica_-_panoramio.jpg",
-		"updated": "2025-03-16T01:23:20.217Z"
+		"updated": "2025-03-16T01:34:01.555Z"
 	},
 	"Côte d'Ivoire": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_34_Rond-point_Liberté_Adjamé_jpg_440px-Rond-point_Liberté_Adjamé.jpg",
@@ -2667,7 +2642,7 @@
 			"Aboisso",
 			"Bouaké",
 			"Dabou",
-			"San Pedro (Côte d'Ivoire)",
+			"San-Pédro, Ivory Coast",
 			"Yamoussoukro",
 			"Grand-Bassam",
 			"Taï National Park",
@@ -2859,9 +2834,7 @@
 			"Krk",
 			"Solta",
 			"Makarska",
-			"Plitvice National Park",
 			"Žumberak",
-			"Plitvice Lakes National Park",
 			"Poreč"
 		],
 		"wb": "Q224",
@@ -3111,7 +3084,7 @@
 		},
 		"snippets": 15,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_downtown_2..jpg",
-		"updated": "2025-03-15T17:57:14.091Z"
+		"updated": "2025-03-16T01:32:43.299Z"
 	},
 	"Denmark": {
 		"seen": 23,
@@ -3228,13 +3201,12 @@
 			"Kongernes Nordsjælland National Park",
 			"Læsø",
 			"Samsø",
-			"Stevns Cliff",
 			"Iceland",
 			"Faroe Islands",
 			"Greenland",
 			"Hanstholm",
 			"Jutland",
-			"Torshavn",
+			"Tórshavn",
 			"Seyðisfjörður",
 			"Longyearbyen",
 			"Svalbard",
@@ -3243,7 +3215,6 @@
 			"Grenaa",
 			"Varberg",
 			"Hirtshals",
-			"Hanseatic League",
 			"Stevns",
 			"Grenå"
 		],
@@ -3262,10 +3233,10 @@
 			],
 			"currency": "DKK"
 		},
-		"snippets": 6,
+		"snippets": 7,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg",
-		"updated": "2025-03-15T18:42:35.736Z"
+		"updated": "2025-03-16T01:41:34.872Z"
 	},
 	"Djibouti": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_dc_Lake_Assal_3-Djibouti_jpg_440px-Lake_Assal_3-Djibouti.jpg",
@@ -3303,7 +3274,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg",
-		"updated": "2025-03-15T17:33:09.424Z"
+		"updated": "2025-03-16T01:34:14.914Z"
 	},
 	"Dominica": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_3e_Scotts_Head_Dominica_JPG_700px-Scotts_Head_Dominica.JPG",
@@ -3326,9 +3297,7 @@
 			"Portsmouth (Dominica)",
 			"Scott's Head",
 			"Calibishie",
-			"St. Joseph (Dominica)",
 			"Marigot (Dominica)",
-			"Morne Trois Pitons National Park",
 			"Hampstead (Dominica)"
 		],
 		"wb": "Q784",
@@ -3343,10 +3312,10 @@
 				"English"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Scotts_Head_Dominica.JPG",
-		"updated": "2025-03-15T17:33:09.424Z"
+		"updated": "2025-03-16T01:38:56.627Z"
 	},
 	"Dominican Republic": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_eb_SD-006_jpg_440px-SD-006.jpg",
@@ -3386,9 +3355,8 @@
 			"Puerto Plata",
 			"Punta Cana",
 			"San Pedro de Macoris",
-			"Santa Barbara De Samana",
+			"Samaná (town)",
 			"Santiago de los Caballeros",
-			"Sosua",
 			"Rio San Juan",
 			"La Romana",
 			"Bayahibe",
@@ -3399,7 +3367,6 @@
 			"Las Galeras",
 			"Miches",
 			"Playa Bonita",
-			"Santa Barbara de Samana",
 			"Sosúa"
 		],
 		"wb": "Q786",
@@ -3418,7 +3385,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:SD-006.jpg",
-		"updated": "2025-03-15T17:57:14.092Z"
+		"updated": "2025-03-16T01:41:36.638Z"
 	},
 	"East Timor": {
 		"zoom": 6,
@@ -3459,7 +3426,7 @@
 		},
 		"snippets": 0,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Overhead_Manatuto_11_Oct_09.jpg",
-		"updated": "2025-03-15T17:33:09.424Z"
+		"updated": "2025-03-16T01:41:36.638Z"
 	},
 	"Ecuador": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_33_EC_Cotopaxi_NRouteISlope_2012_jpg_440px-EC_Cotopaxi_NRouteISlope_2012.jpg",
@@ -3524,7 +3491,7 @@
 		"snippets": 3,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:EC_Cotopaxi_NRouteISlope_2012.jpg",
-		"updated": "2025-03-15T17:57:14.093Z"
+		"updated": "2025-03-16T01:41:44.037Z"
 	},
 	"Egypt": {
 		"seen": 24,
@@ -4166,7 +4133,7 @@
 		"snippets": 6,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg",
-		"updated": "2025-03-15T17:33:09.426Z"
+		"updated": "2025-03-16T01:33:38.669Z"
 	},
 	"France": {
 		"zoom": 5,
