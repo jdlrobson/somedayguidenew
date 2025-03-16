@@ -462,7 +462,7 @@ function remoteUpdates() {
     if ( hrsSinceLastUpdate > 24 ) {
         promises.push( importBlogs() );
     }
-    if ( hrsSinceLastUpdate > 0 ) {
+    if ( hrsSinceLastUpdate > 1 ) {
         promises.push( pullLocations() );
     }
 
