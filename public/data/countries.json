@@ -740,7 +740,15 @@
 		"lon": -76.4,
 		"title": "Bahamas",
 		"description": "The Bahamas (officially named The Commonwealth of The Bahamas), or The Bahama Islands, is an archipelago consisting of many islands in the Atlantic Ocean east of Florida. The country is made up of about 2,000 islands if you include the cays, which are small islands that are formed on coral reefs. Not densely populated, the Bahamas is renowned for its natural beauty, unique culture, and is a popular tropical vacation destination.",
-		"airports": [],
+		"airports": [
+			"NAS",
+			"CCZ",
+			"GGT",
+			"FPO",
+			"ELH",
+			"RSD",
+			"MHH[1]"
+		],
 		"links": [
 			{
 				"href": "https://www.baleariacaribbean.com",
@@ -6811,7 +6819,9 @@
 		"lon": 179,
 		"title": "Kiribati",
 		"description": "   \nKiribati (mispronounced Kiribahs) is an archipelago nation in Micronesia, at the equator. Kiribati has 3.5 million square kilometres of sea territory, with only 811 square kilometres of land, divided between 33 atolls.",
-		"airports": [],
+		"airports": [
+			"TRW"
+		],
 		"links": [],
 		"destinations": [
 			"Tarawa",
@@ -7988,7 +7998,9 @@
 		"lon": 168.93677,
 		"title": "Marshall Islands",
 		"description": "   \nThe Marshall Islands are a group of atolls and reefs in the Pacific Ocean, about half-way between Hawaii and Australia.",
-		"airports": [],
+		"airports": [
+			"MAJ"
+		],
 		"links": [],
 		"destinations": [
 			"Majuro",
@@ -8424,7 +8436,12 @@
 		"lon": 158.1833,
 		"title": "Federated States of Micronesia",
 		"description": "The Federated States of Micronesia is a country in the northwestern Pacific Ocean. It is composed of four major island groups totaling 607 islands that lie just north of the equator about three-quarters of the way from Hawaii to Indonesia, to the north of Papua New Guinea and the Solomon Islands and to the south of the Marshall Islands, the Northern Mariana Islands and Guam.",
-		"airports": [],
+		"airports": [
+			"TKK",
+			"KSA",
+			"PNI",
+			"YAP"
+		],
 		"links": [],
 		"destinations": [
 			"Palikir",
@@ -8826,7 +8843,11 @@
 		"lon": 96,
 		"title": "Myanmar",
 		"description": "Myanmar (မြန်မာပြည်), or Burma, officially the Republic of the Union of Myanmar (ပြည်ထောင်​စု သမ္မတ မြန်မာ​နိုင်​ငံတော်), is a country in Southeast Asia, bordering Bangladesh, India, China, Laos and Thailand to the east.",
-		"airports": [],
+		"airports": [
+			"MDL",
+			"RGN",
+			"NYT"
+		],
 		"links": [],
 		"destinations": [
 			"Naypyidaw",
@@ -9737,7 +9758,9 @@
 		"lon": 134.4667,
 		"title": "Palau",
 		"description": "   \nPalau (Belau) is a group of more than 500 islands, covering 458km², in the Micronesia area of Oceania, to the southeast of the Philippines.",
-		"airports": [],
+		"airports": [
+			"ROR"
+		],
 		"links": [],
 		"destinations": [
 			"Melekeok",
@@ -11607,7 +11630,9 @@
 		"lon": 160.83984,
 		"title": "Solomon Islands",
 		"description": "   \nThe Solomon Islands are a  South Pacific archipelago east of Papua New Guinea. They occupy a strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea.",
-		"airports": [],
+		"airports": [
+			"HIR"
+		],
 		"links": [],
 		"destinations": [
 			"Guadalcanal"
@@ -12765,7 +12790,9 @@
 		"lon": -175.2,
 		"title": "Tonga",
 		"description": "   \nTonga, the \"Friendly Islands\", is an archipelago in the South Pacific Ocean. ",
-		"airports": [],
+		"airports": [
+			"TBU"
+		],
 		"links": [
 			{
 				"href": "http://www.abc.net.au/news/2018-02-19/high-demand-for-shelter-in-cyclone-battered-tonga/9460374",
@@ -13090,7 +13117,9 @@
 		"lon": 179.2167,
 		"title": "Tuvalu",
 		"description": "   \nTuvalu is a group of low-lying islands and atolls in the South Pacific that form the fourth smallest country in the world.",
-		"airports": [],
+		"airports": [
+			"FUN"
+		],
 		"links": [],
 		"destinations": [
 			"Funafuti",
