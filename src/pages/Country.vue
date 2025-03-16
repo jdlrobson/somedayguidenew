@@ -106,9 +106,13 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                             {{ n }}
                         </ImageCircle>
                     </div>
-                    <p v-if="country.airports.length">Airports: <a v-for="a in country.airports"
-                        target="_blank"
-                        :href="`https://www.flightaware.com/live/airport/${ a }`">{{  a }}<span>&nbsp;</span></a></p>
+                    <p v-if="country.airports.length">
+                        Airports:
+                        <span v-for="a in country.airports">
+                            <a target="_blank"
+                            :href="`https://www.flightaware.com/live/airport/${ a }`">{{ a }}</a>&nbsp;
+                        </span>
+                    </p>
                 </note>
                 <note>
                     <h2>Note to self</h2>
