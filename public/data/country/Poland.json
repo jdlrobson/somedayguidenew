@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Wieliczka Salt Mine is a salt mine in the town of Wieliczka, near Kraków in southern Poland.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg/320px-%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Zakopane is a town in the south of Poland, in the southern part of the Podhale region at the foot of the Tatra Mountains. From 1975 to 1998, it was part of Nowy Sącz Voivodeship; since 1999, it has been part of Lesser Poland Voivodeship. As of 2017 its population was 27,266. Zakopane is a centre of Goral culture and is often referred to as \"the winter capital of Poland\". It is a popular destination for mountaineering, skiing, and tourism.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zakopane_T58.jpg/320px-Zakopane_T58.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Zakopane"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> The Dunajec River Gorge runs through the Pieniny Mountains in the south of Poland and the north of Slovakia. The gorge is characterized by some of the most interesting geological and geomorphological structures and area-specific natural ecosystems with little anthropogenic influence. It is featured on UNESCO's Tentative List of World Heritage Sites in Poland.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prze%C5%82om_Dunajca_a1.jpg/320px-Prze%C5%82om_Dunajca_a1.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/Dunajec_River_Gorge"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Wawel Royal Castle and the Wawel Hill on which it sits constitute the most historically and culturally significant site in Poland. A fortified residency on the Vistula River in Kraków, it was established on the orders of King Casimir III the Great and enlarged over the centuries into a number of structures around an Italian-styled courtyard. It represents nearly all European architectural styles of the Medieval, Renaissance and Baroque periods.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wawel_%284%29.jpg/320px-Wawel_%284%29.jpg",
 			"source": "",

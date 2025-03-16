@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Omo remains are a collection of hominin bones discovered between 1967 and 1974 at the Omo Kibish sites near the Omo River, in Omo National Park in south-western Ethiopia. The bones were recovered by a scientific team from the Kenya National Museums directed by Richard Leakey and others. The remains from Kamoya's Hominid Site (KHS) were called Omo I and those from Paul I. Abell's Hominid Site (PHS) were called Omo II.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Omo_Kibish_-_MCN_4152_%28cropped%29.jpg/320px-Omo_Kibish_-_MCN_4152_%28cropped%29.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Omo_remains"
 		},
 		{
+			"id": "2",
 			"text": " <small>[image from www.siyabona.com]</small>",
 			"src": "https://www.siyabona.com/images/samburu-safari-guide-saruni-lodge-590x390.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://www.siyabona.com/samburu-tribe-kenya-culture.html"
 		},
 		{
+			"id": "3",
 			"text": "The Great Migration explained - follow the wildebeest herds into Kenya and the Masai Mara. <small>[image from masaimara.com]</small>",
 			"src": "https://www.masaimara.com/assets/img/great-migration-kenya.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://www.masaimara.com/great-migration-kenya.php"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Maasai are a Nilotic ethnic group inhabiting northern, central and southern Kenya and northern Tanzania, near the African Great Lakes region. Their native language is the Maasai language, a Nilotic language related to Dinka, Kalenjin and Nuer. Except for some elders living in rural areas, most Maasai people speak the official languages of Kenya and Tanzania—Swahili and English.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Maasai_tribe.jpg/320px-Maasai_tribe.jpg",
 			"source": "",
@@ -38,6 +42,7 @@
 			"url": "https://en.wikipedia.org/wiki/Maasai_people"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Maasai Mara, also sometimes spelt Masai Mara and locally known simply as The Mara, is a large national game reserve in Narok County, Kenya, contiguous with the Serengeti National Park in Tanzania. It is named in honour of the Maasai people, the ancestral inhabitants of the area, who migrated to the area from the Nile Basin. Their description of the area when looked at from afar: \"Mara\" means \"spotted\" in the local Maasai language, because of the short bushy trees which dot the landscape.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cheetah_with_cubs.jpg/640px-Cheetah_with_cubs.jpg",
 			"source": "",

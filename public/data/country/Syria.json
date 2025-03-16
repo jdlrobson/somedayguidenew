@@ -2,6 +2,7 @@
 	"note": "<p>The waterwheels of the Orontes river look like something we should see some day...</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Palmyra is an ancient city in central Syria. It is located in the eastern part of the Levant, and archaeological finds date back to the Neolithic period, and documents first mention the city in the early second millennium BCE. Palmyra changed hands on a number of occasions between different empires before becoming a subject of the Roman Empire in the first century CE.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Palmyra_03.jpg/320px-Palmyra_03.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Palmyra"
 		},
 		{
+			"id": "10",
 			"text": "<small>[from en.wikipedia.org]:</small> Resafa, sometimes spelled Rusafa, and known in the Byzantine era as Sergiopolis and briefly as Anastasiopolis, was a city located in the Roman province of Euphratensis, in modern-day Syria. It is an archaeological site situated southwest of the city of Raqqa and the Euphrates.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Resafa%2C_Sergiopolis%2C_Panoramic_view%2C_Syria.jpg/640px-Resafa%2C_Sergiopolis%2C_Panoramic_view%2C_Syria.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Resafa"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Damascus is the capital and largest city of Syria. It is the oldest capital in the world and, according to some, the fourth holiest city in Islam. Known colloquially in Syria as aš-Šām (الشَّام) and dubbed, poetically, the \"City of Jasmine\", Damascus is a major cultural center of the Levant and the Arab world.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Damascus_coll.jpg/320px-Damascus_coll.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/Damascus"
 		},
 		{
+			"id": "3",
 			"text": "The people of Syria have experienced the bitter taste of the devastating war over the past nine years, yet, they […] <small>[image from Enab Baladi]</small>",
 			"src": "https://cdn.enabbaladi.net/english/wp-content/uploads/2020/01/3-3.jpg",
 			"source": "",
@@ -38,12 +42,14 @@
 			"url": "https://english.enabbaladi.net/archives/2020/01/interesting-story-of-yerba-mate-tea-in-syria/"
 		},
 		{
+			"id": "4",
 			"src": "https://www.youtube.com/embed/sKELzAB8p5I",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> The Umayyad Mosque, also known as the Great Mosque of Damascus, located in the old city of Damascus, the capital of Syria, is one of the largest and oldest mosques in the world. Its religious importance stems from the eschatological reports concerning the mosque and historic events associated with it. Christian and Muslim tradition alike consider it the burial place of John the Baptist's head, a tradition originating in the 6th century. Two shrines inside the premises commemorate the Islamic prophet Muhammad's grandson Husayn ibn Ali, whose martyrdom is frequently compared to that of John the Baptist.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Umayyad_Mosque%2C_Damascus.jpg/320px-Umayyad_Mosque%2C_Damascus.jpg",
 			"source": "",
@@ -53,6 +59,7 @@
 			"url": "https://en.wikipedia.org/wiki/Umayyad_Mosque"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Krak des Chevaliers is a medieval castle in Syria and one of the most important preserved medieval castles in the world. The site was first inhabited in the 11th century by Kurdish troops garrisoned there by the Mirdasids. In 1142 it was given by Raymond II, Count of Tripoli, to the order of the Knights Hospitaller. It remained occupied by them until it was reconquered by the Muslims in 1271.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg/320px-KRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg",
 			"source": "",
@@ -62,6 +69,7 @@
 			"url": "https://en.wikipedia.org/wiki/Krak_des_Chevaliers"
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> The Citadel of Aleppo is a large medieval fortified palace in the centre of the old city of Aleppo, northern Syria. It is considered to be one of the oldest and largest castles in the world. Usage of the Citadel hill dates back at least to the middle of the 3rd millennium BC. Occupied by many civilizations over time – including the Assyrians, Greeks, Armenians, Romans, Byzantines, Ayyubids, Mamluks and Ottomans – the majority of the construction as it stands today is thought to originate from the Ayyubid period. An extensive conservation work took place in the 2000s by the Aga Khan Trust for Culture, in collaboration with Aleppo Archeological Society. Dominating the city, the Citadel is part of the Ancient City of Aleppo, a UNESCO World Heritage Site since 1986. During the 2010s, the Citadel received significant damage during the lengthy Battle of Aleppo. It was reopened to the public in early 2018 with repairs to damaged parts underway, though some of the damage will be purposefully preserved as part of the history of the citadel. The citadel was damaged by the 2023 Turkey–Syria earthquake.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Citadel_of_Aleppo.jpg/320px-Citadel_of_Aleppo.jpg",
 			"source": "",
@@ -71,6 +79,7 @@
 			"url": "https://en.wikipedia.org/wiki/Citadel_of_Aleppo"
 		},
 		{
+			"id": "8",
 			"text": "<small>[from en.wikipedia.org]:</small> Hama is a city on the banks of the Orontes River in west-central Syria. It is located 213 kilometres (132 mi) north of Damascus and 46 km (29 mi) north of Homs. It is the provincial capital of the Hama Governorate. With a population of 996,000, Hama is one of the four largest cities in Syria, with Damascus, Aleppo and Homs, it is also home to the dessert of Halawet el Jibn.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hama.jpg/320px-Hama.jpg",
 			"source": "",
@@ -80,6 +89,7 @@
 			"url": "https://en.wikipedia.org/wiki/Hama"
 		},
 		{
+			"id": "9",
 			"text": "<small>[from en.wikipedia.org]:</small> Al-Azm Palace is a palace in Damascus, Syria, built in 1749. Located north of Al-Buzuriyah Souq in the Ancient City of Damascus, the palace was built in 1749 to be the private residence for As'ad Pasha al-Azm, the governor of Damascus; during the French Mandate for Syria and the Lebanon, it housed the French Institute.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Azem_Palace_02.jpg/320px-Azem_Palace_02.jpg",
 			"source": "",

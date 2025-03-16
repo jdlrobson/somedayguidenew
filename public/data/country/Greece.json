@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/ByTSG46AP5S",
 			"source": "",
 			"type": "instagram",
@@ -9,12 +10,14 @@
 			"title": "Acropolis"
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/p/ByNxbZvAWCr",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "1019",
 			"text": "Hydra / Idra [ Ύδρα ] is a carfree Greek island in the Aegean Sea that is accesible by ferry from various ferry terminals – 1 to 2 hours ride from Pireas [ Πειραιάς ] and 20 to 30 minutes ride from Ermioni [ Ερμιόνη ] / Poros [ Πόρος ]. We flew from Montenegro",
 			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/10/img_20190602_121057122_hdr.jpg?h=200&crop=1",
 			"source": "",
@@ -24,24 +27,28 @@
 			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1019"
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/ByTRPJpD6Zg",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "12",
 			"src": "https://www.instagram.com/p/ByVGHezjvhI",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "13",
 			"src": "https://www.instagram.com/p/ByQfNSejApw",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "14",
 			"text": "One of the best islands in the world.  <small>[image from Bon Traveler]</small>",
 			"src": "https://www.bontraveler.com/wp-content/uploads/2017/08/77c5c-img.jpg",
 			"source": "",
@@ -51,6 +58,7 @@
 			"url": "https://www.bontraveler.com/the-first-timers-guide-to-mykonos/"
 		},
 		{
+			"id": "15",
 			"text": "Karpathos, overlooked even by Greek travelers, balances rising tourism with sustaining its ancient traditions. <small>[image from Travel]</small>",
 			"src": "https://i.natgeofe.com/n/bcf2c8a8-28e4-43cd-90b8-eb2caa4d408f/MM9751_210807_04127_16x9.jpg?w=1200",
 			"source": "",
@@ -60,6 +68,7 @@
 			"url": "https://www.nationalgeographic.com/travel/article/can-this-greek-islands-hidden-treasures-lure-travelers"
 		},
 		{
+			"id": "16",
 			"text": "While approaching the port of Symi, one has the overwhelming feeling of entering a perfectly painted image of a scenic traditional village. As a rule, people remain agape and cannot take their eyes off the spectacular sight. <small>[image from VisitGreece]</small>",
 			"src": "https://www.visitgreece.gr",
 			"source": "",
@@ -69,48 +78,56 @@
 			"url": "https://www.visitgreece.gr/islands/dodecanese/symi/"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/BySagBvjc4i",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/ByUehj6gAIw",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/ByPYs-wjbYI",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/ByLEziKj_Jj",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/ByRmbwBgA1C",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/ByQlQfMgiGN",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/ByPh6FlgngF",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/ByPA32_AGPz",
 			"source": "",
 			"type": "instagram",

@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Together with Krištof the shepherd boy, you will follow the tracks of his lost sheep, making twenty unforgettable stops across a large portion of the Solčava region: Podolševa, Matkov kot, the Logar Valley and Robanov kot.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Klemensek_farm.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.solcavska-panoramska-cesta.si/en/points-of-interest/the-lookout-point-and-the-klemensek-excursion-farm"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Soča or Isonzo is a 138-kilometre (86 mi) long river that flows through western Slovenia and northeastern Italy.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Soca_4.jpg/320px-Soca_4.jpg",
 			"source": "",
@@ -20,12 +22,14 @@
 			"url": "https://en.wikipedia.org/wiki/So%C4%8Da"
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/dtreskanica/p/Cj-vNYesGD6/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Lake Bled is a lake in the Julian Alps of the Upper Carniolan region of northwestern Slovenia, where it adjoins the town of Bled. The area is a tourist destination. The lake is 35 km (22 mi) from Ljubljana International Airport and 55 km (34 mi) from the capital city, Ljubljana. Lake Bled is 4.2 km (2.6 mi) from the Lesce–Bled train station.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lake_Bled_from_the_Mountain.jpg/320px-Lake_Bled_from_the_Mountain.jpg",
 			"source": "",
@@ -35,6 +39,7 @@
 			"url": "https://en.wikipedia.org/wiki/Lake_Bled"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Škocjan Caves is a cave system located in Slovenia. Škocjan Caves was included on UNESCO’s list of natural and cultural World Heritage Sites in 1986. Škocjan Caves is a significant underground phenomenon on the Karst Plateau and in Slovenia. After gaining independence from Yugoslavia in 1991, Slovenia made a commitment to actively protect the Škocjan Caves area. To fulfill this commitment, Škocjan Caves Regional Park was established, along with its managing authority, the Škocjan Caves Park Public Service Agency.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SkocjanskeJame_2013jpg.jpg/320px-SkocjanskeJame_2013jpg.jpg",
 			"source": "",

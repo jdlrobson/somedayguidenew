@@ -2,6 +2,7 @@
 	"note": "<p>Some day I&#39;ll visit. Apparently this is a good jumping off point for <strong>Dornod</strong>, a grassland area with lots of gazelles. you can travel here by jeep or by bus. <strong>The Mongolian Natural History Museum</strong> has dinosaur fossils.Adventurous types can drive here from <strong>Ulaanbaatar,</strong>. The Flaming Cliffs is on route where hundreds of dinosaur fossils were discovered in the 1920s. The area is known as Bayanzag by locals. Some day I&#39;ll visit.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.youtube.com/embed/6iODjVySKW4?si=wh8kn_tBvxEjyoin",
 			"source": "",
 			"type": "url",
@@ -9,12 +10,14 @@
 			"title": "Gazelles in Ulaanbaatar"
 		},
 		{
+			"id": "10",
 			"src": "https://www.youtube.com/embed/ZErBYG3gB1k",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"text": "Mongolia has been home to a unique tradition stretching over a thousand years—the art of eagle hunting. This tradition, once essential for survival, has evolved into a revered cultural practice that showcases the deep bond between humans and the Golden eagle. I look into the world of Eagle Hunters i <small>[image from Kevin Pepper Photography]</small>",
 			"src": "http://static1.squarespace.com/static/531d2a24e4b0baf9a0e963c4/t/66732b9073a7df3e9d162481/1718823840572/_KAP7384-Edit+%281%29.jpg?format=1500w",
 			"source": "",
@@ -24,6 +27,7 @@
 			"url": "https://www.kevinpepperphotography.com/ancient-allies-the-eagle-hunters-and-their-golden-eagles"
 		},
 		{
+			"id": "12",
 			"text": "<small>[from en.wikipedia.org]:</small> The Gobi Desert is a large, cold desert and grassland region located in northern China and southern Mongolia. It is the sixth largest desert in the world. The name of the desert comes from the Mongolian word gobi, used to refer to all of the waterless regions in the Mongolian Plateau; in Chinese, gobi is used to refer to rocky, semi-deserts such as the Gobi itself rather than sandy deserts.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gobi_Desert_dunes.jpg/320px-Gobi_Desert_dunes.jpg",
 			"source": "",
@@ -33,6 +37,7 @@
 			"url": "https://en.wikipedia.org/wiki/Gobi_Desert"
 		},
 		{
+			"id": "13",
 			"text": "Banned for 70 years under communist rule, the ancient practice of shamanism has been protected by Mongolia’s constitution since 1992 <small>[image from the Guardian]</small>",
 			"src": "https://i.guim.co.uk/img/media/e1b8d96820017cc36cb83076ef8e5bff1db20014/0_0_7684_5320/master/7684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=2b82acc4918f38defbb32b925f5c0bd8",
 			"source": "",
@@ -42,6 +47,7 @@
 			"url": "https://www.theguardian.com/world/gallery/2018/jun/29/mongolias-shamanic-rituals-in-pictures"
 		},
 		{
+			"id": "2",
 			"text": "Dornod is the easternmost of the 21 aimags (provinces) of Mongolia. Its capital is Choibalsan.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bars_Hota_Mongolia.jpg/320px-Bars_Hota_Mongolia.jpg",
 			"source": "",
@@ -51,6 +57,7 @@
 			"url": "https://en.wikipedia.org/wiki/Dornod_Province"
 		},
 		{
+			"id": "3",
 			"text": "The Natural History Museum is a repository and research institution located in Chingeltei, Ulaanbaatar, Mongolia. The museum was previously known as the Mongolian National Museum or State Central Museum.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Natural_History_Museum_%28Ulaanbaatar%29.jpg/320px-Natural_History_Museum_%28Ulaanbaatar%29.jpg",
 			"source": "",
@@ -60,6 +67,7 @@
 			"url": "https://en.wikipedia.org/wiki/Mongolian_Natural_History_Museum"
 		},
 		{
+			"id": "4",
 			"text": "The Flaming Cliffs site, with the alternative Mongolian name of Mongolian: Улаан Эрэг, is a region of the Gobi Desert in the Ömnögovi Province of Mongolia, in which important fossil finds have been made. It was given this name by American paleontologist Roy Chapman Andrews, who visited in the 1920s. The area is most famous for yielding the first discovery of dinosaur eggs. Other finds in the area include specimens of Velociraptor and eutherian mammals. It exposes rocks of the Djadochta Formation. It is illegal to remove fossils from the area without appropriate permits.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flaming_cliffs_5.jpg/320px-Flaming_cliffs_5.jpg",
 			"source": "",
@@ -69,18 +77,21 @@
 			"url": "https://en.wikipedia.org/wiki/Flaming_Cliffs"
 		},
 		{
+			"id": "5",
 			"src": "https://www.youtube.com/embed/bY1qYRhqh04?si=gzVuSfUGv7EUgNrf",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.youtube.com/embed/jagKnS2mE7w?si=IbaXEDYpsP_tYqLv",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> Lake Khövsgöl is a lake in Khövsgöl Province, Mongolia. It is the largest freshwater lake in the country by volume and second largest by area after Uvs Lake. It is nicknamed the \"Younger sister\" of those two \"sister lakes\".",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongolian_arats_at_the_lake.jpg/359px-Mongolian_arats_at_the_lake.jpg",
 			"source": "",
@@ -90,12 +101,14 @@
 			"url": "https://en.wikipedia.org/wiki/Lake_Kh%C3%B6vsg%C3%B6l"
 		},
 		{
+			"id": "8",
 			"src": "https://www.youtube.com/embed/9l6UAgOLFk4",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"text": "Today’s first pit-stop is a lookout point where a big ovoo has been constructed. These are from Shamanistic beliefs and are sacred stone heaps that are used as altars or shrines. They are oft… <small>[image from invadercee]</small>",
 			"src": "https://invadercee.wordpress.com/wp-content/uploads/2018/06/mongolia-39.jpg",
 			"source": "",

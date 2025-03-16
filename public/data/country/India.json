@@ -2,6 +2,7 @@
 	"note": "<p>I dream of riding the trains in India again someday.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Kaziranga National Park is a national park in the Golaghat, Sonitpur, Biswanath and Nagaon districts of the state of Assam, India. KNP has 5 ranges. The park, which hosts two-thirds of the world's Indian rhinoceroses, is a UNESCO World Heritage Site. According to a March 2018 census conducted jointly by the Forest Department of the Government of Assam and some recognized wildlife NGOs, the rhino population in Kaziranga National Park is 2,613. It comprises 1,641 adult rhinos and 385 calves.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/320px-Beauty_of_Kaziranga_National_Park.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kaziranga_National_Park"
 		},
 		{
+			"id": "10",
 			"text": "Diwali flower in Hampi town <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/8244/8454412539_a45b93bf9b_b.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://www.flickr.com/photos/jdlrobson/8454412539/in/dateposted-public/"
 		},
 		{
+			"id": "11",
 			"text": "Bangalore, India <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/8243/8454397735_26b2d478f3_b.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://www.flickr.com/photos/jdlrobson/8454397735/in/dateposted-public/"
 		},
 		{
+			"id": "12",
 			"src": "/public/images/personal/IMG_1859.jpeg",
 			"source": "",
 			"type": "url",
@@ -37,6 +41,7 @@
 			"url": "What happens when you love too much and can't let go."
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh. The 2,525-kilometre-long (1,569 mi) river rises in the western Himalayas in the Indian state of Uttarakhand. It flows south and east through the Gangetic plain of North India, receiving the right-bank tributary, the Yamuna, which also rises in the western Indian Himalayas, and several left-bank tributaries from Nepal that account for the bulk of its flow. In West Bengal state, India, a feeder canal taking off from its right bank diverts 50% of its flow southwards, artificially connecting it to the Hooghly River. The Ganges continues into Bangladesh, its name changing to the Padma. It is then joined by the Jamuna, the lower stream of the Brahmaputra, and eventually the Meghna, forming the major estuary of the Ganges Delta, and emptying into the Bay of Bengal. The Ganges–Brahmaputra–Meghna system is the second-largest river on earth by discharge.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Varanasiganga.jpg/320px-Varanasiganga.jpg",
 			"source": "",
@@ -46,12 +51,14 @@
 			"url": "https://en.wikipedia.org/wiki/Ganges"
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/BsPMJJ5gFZl",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Thar Desert, also known as the Great Indian Desert, is an arid region in the north-western part of the Indian subcontinent that covers an area of 200,000 km2 (77,000 sq mi) in India and Pakistan. It is the world's 18th-largest desert, and the world's 9th-largest hot subtropical desert.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Thar_desert_Rajasthan_India.jpg/320px-Thar_desert_Rajasthan_India.jpg",
 			"source": "",
@@ -61,6 +68,7 @@
 			"url": "https://en.wikipedia.org/wiki/Thar_Desert"
 		},
 		{
+			"id": "5",
 			"text": "Darjeeling, Queen of Hill Stations in India, is famous for tea gardens, Raj-era hotels, the toy train, and spectacular views of the Himalayas <small>[image from Breathedreamgo]</small>",
 			"src": "https://breathedreamgo.com/wp-content/uploads/2020/08/himalayas-778418_1280-Pixabay.jpg",
 			"source": "",
@@ -70,6 +78,7 @@
 			"url": "https://breathedreamgo.com/darjeeling-queen-of-hill-stations-india/"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Holi is a major Hindu festival celebrated as the Festival of Colours, Love, and Spring.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Samaj_gathering_during_Lathmar_hoil.jpg/640px-Samaj_gathering_during_Lathmar_hoil.jpg",
 			"source": "",
@@ -79,6 +88,7 @@
 			"url": "https://en.wikipedia.org/wiki/Holi"
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra. Hampi continues as a religious centre, with the Virupaksha Temple, an active Adi Shankara-linked monastery and various monuments belonging to the old city.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hampi_virupaksha_temple.jpg/320px-Hampi_virupaksha_temple.jpg",
 			"source": "",
@@ -88,6 +98,7 @@
 			"url": "https://en.wikipedia.org/wiki/Hampi"
 		},
 		{
+			"id": "8",
 			"src": "/public/images/personal//public/images/personal/IMG_1002.jpeg",
 			"source": "",
 			"type": "url",
@@ -96,6 +107,7 @@
 			"url": "The most memorable haircut."
 		},
 		{
+			"id": "9",
 			"text": "Goa, India <small>[image from Flickr]</small>",
 			"src": "https://live.staticflickr.com/8099/8455513376_7b7accb5d8_b.jpg",
 			"source": "",

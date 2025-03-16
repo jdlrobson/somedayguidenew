@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Lesio-Louna Reserve is found in the Republic of the Congo. It was established on 28 December 1993. This site is 440.00 km2.",
 			"src": "null",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Lesio_Louna_Reserve"
 		},
 		{
+			"id": "4",
 			"text": "Join my personal journey through Odzala-Kokoua National Park in the Congo – rainforest treks, gorilla encounters, and wild celebrations. <small>[image from Rhino Africa Blog]</small>",
 			"src": "https://rhin-blog-production.s3.eu-west-1.amazonaws.com/wp-content/uploads/2024/11/unnamed-17.jpg",
 			"source": "",

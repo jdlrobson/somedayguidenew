@@ -2,18 +2,21 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.youtube.com/embed/fM8MmBCN-gA",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"src": "https://www.youtube.com/embed/r40TuTkt9y4",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"text": "The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which  ... <small>[image from whc.unesco.org]</small>",
 			"src": "https://whc.unesco.org/uploads/thumbs/site_0364_0008-1200-630-20151105163031.jpg",
 			"source": "",
@@ -23,6 +26,7 @@
 			"url": "https://whc.unesco.org/en/list/364/"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Hwange National Park is the largest natural reserve in Zimbabwe. It is around 14,600 sq km in area. It lies in the northwest of the country, just off the main road between Bulawayo and Victoria Falls. The nearest town is Dete.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Down_the_water_hole.jpg/320px-Down_the_water_hole.jpg",
 			"source": "",

@@ -2,6 +2,7 @@
 	"note": "<p>Bangkok was my first entry point to Asia and it will always be memorable for that reason. I still am yet to find pad thai as good as the meal I had from a street vendor on my first day.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Ko Lipe is a small island in the Adang-Rawi Archipelago of the Strait of Malacca. I visited long ago when the electricity cut off at 9pm and I ate the freshest galangal curries. I wonder how much it has changed.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Koh_Lipe_island_coast.jpg/320px-Koh_Lipe_island_coast.jpg",
 			"source": "",
@@ -11,12 +12,14 @@
 			"url": "https://en.wikipedia.org/wiki/Ko_Lipe"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/BRGM5shg5QB",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Ko Tao is an island in Thailand and is part of the Chumphon Archipelago on the western shore of the Gulf of Thailand. It covers an area of about 21 km2. Administratively it is a subdistrict (tambon) of Ko Pha-ngan District (amphoe) of Surat Thani Province. As of 2006, its official population was 1,382. The main settlement is Ban Mae Haad.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/View_from_New_Heaven.JPG/320px-View_from_New_Heaven.JPG",
 			"source": "",
@@ -26,6 +29,7 @@
 			"url": "https://en.wikipedia.org/wiki/Ko_Tao"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Wat Rong Khun, better known as the White Temple, is a Buddhist temple in Pa O Don Chai, Mueang District, Chiang Rai province, Thailand. Situated outside the city of Chiang Rai, the temple attracts a large number of visitors, both Thai and foreign, making it one of Chiang Rai's most visited attractions. The White Temple was created by master Chalermchai Kositpipat, the national artist who designed, constructed, and opened it to visitors in 1997.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wat_Rong_Khun_-_Chiang_Rai.jpg/320px-Wat_Rong_Khun_-_Chiang_Rai.jpg",
 			"source": "",

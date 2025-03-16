@@ -2,12 +2,14 @@
 	"note": "<p>While here, consider travelling the slow way to <strong>Pula</strong> in <strong>Croatia</strong> (boat) or a trip to <strong>San Marino</strong> (overland).A good jumping off point for visits to both <strong>Italy</strong> and <strong>Croatia</strong>. Ryanair flies here.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/n8P-KnM2Ju",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"text": "<small>[from en.wikipedia.org]:</small> The Basilica of San Vitale is a late antique church in Ravenna, Italy. The sixth-century church is an important surviving example of early Byzantine art and architecture, and its mosaics in particular are some of the most-studied works in Byzantine art. It is one of eight structures in Ravenna inscribed on the UNESCO World Heritage List. Its foundational inscription describes the church as a basilica, though its centrally-planned design is not typical of the basilica form. Within the Roman Catholic Church it holds the honorific title of basilica for its historic and ecclesial importance.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Basilica_of_San_Vitale.jpg/320px-Basilica_of_San_Vitale.jpg",
 			"source": "",
@@ -17,6 +19,7 @@
 			"url": "https://en.wikipedia.org/wiki/Basilica_of_San_Vitale"
 		},
 		{
+			"id": "11",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -25,6 +28,7 @@
 			"url": "https://www.fondazioneprada.org/barluce-en/?lang=en"
 		},
 		{
+			"id": "12",
 			"text": "If you're looking for a less touristy diversion with a tranquil ambience, Treviso is only a thirty-minute train ride away from Venice. <small>[image from Margie in Italy | Your Guide to Bella Italia]</small>",
 			"src": "https://margieinitaly.com/wp-content/uploads/2024/09/img_1060-2.jpg",
 			"source": "",
@@ -34,18 +38,21 @@
 			"url": "https://margieinitaly.com/2024/09/treviso-italy-is-it-worth-visiting/"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/n8QSa4M2KI/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/n8PdNJM2I-/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Abbey_of_Thelema_01.jpg/2560px-Abbey_of_Thelema_01.jpg",
 			"source": "",
 			"type": "url",
@@ -54,12 +61,14 @@
 			"url": "https://en.wikipedia.org/wiki/Abbey_of_Thelema"
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/n5nr6os2JC",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"text": "Bonassola is a small, calm town located in East Liguria, just next to Levanto and very, very close to Cinque Terre. Has a fantastic beach and offers an amazing possibility to enjoy your holiday in the most touristic part of Liguria but without crowds! <small>[image from That's Liguria!]</small>",
 			"src": "https://thatsliguria.com/wp-content/uploads/2020/04/view-on-Bonassola.jpg",
 			"source": "",
@@ -69,6 +78,7 @@
 			"url": "https://thatsliguria.com/en/bonassola-the-eighth-cinque-terre/"
 		},
 		{
+			"id": "7",
 			"text": " <small>[image from en.wikivoyage.org]</small>",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Castel_del_monte_2013.jpg/640px-Castel_del_monte_2013.jpg",
 			"source": "",
@@ -78,6 +88,7 @@
 			"url": "https://en.wikivoyage.org/wiki/Apulia"
 		},
 		{
+			"id": "8",
 			"src": "Just a moment...",
 			"source": "",
 			"type": "url",
@@ -86,6 +97,7 @@
 			"url": " <small>[image from www.smithsonianmag.com]</small>"
 		},
 		{
+			"id": "9",
 			"text": "<small>[from en.wikipedia.org]:</small> The Palio di Siena is a horse race held twice each year, on 2 July and 16 August, in Siena, Italy. Ten horses and riders, bareback and dressed in the appropriate colours, represent ten of the seventeen contrade, or city wards, in a tradition dating back to the 17th-century. The Palio held on 2 July is named Palio di Provenzano, in honour of the Madonna of Provenzano, a Marian devotion particular to Siena which developed around an icon from the Terzo Camollia area of the city. The Palio held on 16 August is named Palio dell'Assunta, in honour of the Assumption of Mary.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Palio_di_Siena_2008_%282%29.jpg/320px-Palio_di_Siena_2008_%282%29.jpg",
 			"source": "",

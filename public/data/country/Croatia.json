@@ -2,6 +2,7 @@
 	"note": "<p>Home to lots of Griffon vultures. If you don&#39;t like Game of Thrones or busy walled towns, Dubronvik may not be for you. Just outside the walls is the peaceful <strong>Gradac Park</strong> to escape to.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://inaturalist-open-data.s3.amazonaws.com/photos/422267904/large.jpeg",
 			"source": "",
 			"type": "url",
@@ -10,18 +11,21 @@
 			"url": "https://www.inaturalist.org/observations/237282806"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/ByA2U3Bg8oJ/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/ByGd4F2jNDZ",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Baška Voda is a village and a municipality in Croatia in the Split-Dalmatia County.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Baska_Voda_Kroatien.jpg/320px-Baska_Voda_Kroatien.jpg",
 			"source": "",
@@ -31,6 +35,7 @@
 			"url": "https://en.wikipedia.org/wiki/Ba%C5%A1ka_Voda"
 		},
 		{
+			"id": "5",
 			"text": "The upper town (old part of Zagreb) is full of charm and it gathers a lot of Zagreb interest points such as the Dolac market, St Mark Church, the museum of broken relationships, Kamenita Vrata (Stone gate), and the cathedral (Kaptol). <small>[image from Europe's Best Destinations]</small>",
 			"src": "https://image.jimcdn.com/app/cms/image/transf/none/path/sa6549607c78f5c11/image/i12ac9b53c91ad0d4/version/1476803597/upper-town-zagreb-historical-part.jpg",
 			"source": "",
@@ -40,6 +45,7 @@
 			"url": "https://www.europeanbestdestinations.com/croatia-travel-guide/upper-town-old-part-of-zagreb/"
 		},
 		{
+			"id": "6",
 			"text": "In a previous article about wine, one sentence aroused great interest amongst our readers: \"The island of Hvar is five times smaller than the area of London …\" ",
 			"src": "https://villashvar.com/datastore/imagestore/991x556/991x556_15864925161435618129ARJ_1410.jpg?v=1586513413",
 			"source": "",
@@ -49,6 +55,7 @@
 			"url": "https://villashvar.com/en/blog/hvar-the-lavender-island"
 		},
 		{
+			"id": "7",
 			"text": "I shared a car with some Australians to go check this one out.",
 			"src": "/images/personal/07C7E08C-15ED-43D3-B478-C088CF071706_1_105_c.jpeg",
 			"source": "/",
@@ -58,6 +65,7 @@
 			"url": "-"
 		},
 		{
+			"id": "8",
 			"text": "I rented a bike and got a flat tire and almost missed my bus home. Hence the look of triumph.",
 			"src": "/images/personal/EF623696-202D-4F79-BECE-713DCC096606_1_105_c.jpeg",
 			"source": "/",

@@ -2,12 +2,14 @@
 	"note": "<p>Why don&#39;t you go find the magical tree on the lake in Vancouver island?</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/UT8_bfs2Pe",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"text": "<small>[from en.wikipedia.org]:</small> Western Brook Pond is a Canadian fjord or lake located in Gros Morne National Park on the west coast of the island of Newfoundland. It is in the Long Range Mountains, the most northern section of the Appalachian Mountains.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Western_Brook_Pond.JPG/320px-Western_Brook_Pond.JPG",
 			"source": "",
@@ -17,6 +19,7 @@
 			"url": "https://en.wikipedia.org/wiki/Western_Brook_Pond"
 		},
 		{
+			"id": "11",
 			"text": "<small>[from en.wikipedia.org]:</small> Kluane National Park and Reserve are two protected areas in the southwest corner of the territory of Yukon. The National Park Reserve was set aside in 1972 to become a national park, pending settlement of First Nations land claims. It covered an area of 22,013 square kilometres. When agreement was reached with the Champagne and Aishihik First Nations over an eastern portion of the Reserve, that part—about 5,900 square kilometres —became a national park in 1993, and is a unit of the national park system administered co-operatively with Parks Canada. The larger western section remains a Reserve, awaiting a final land claim settlement with the Kluane First Nation. The park borders British Columbia to the south, while the Reserve borders both British Columbia to the south, and the United States (Alaska) to the south and west.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Quill_Creek%2C_Kluane_National_Park%2C_Yukon%2C_Canada.jpg/320px-Quill_Creek%2C_Kluane_National_Park%2C_Yukon%2C_Canada.jpg",
 			"source": "",
@@ -26,6 +29,7 @@
 			"url": "https://en.wikipedia.org/wiki/Kluane_National_Park_and_Reserve"
 		},
 		{
+			"id": "12",
 			"text": "<small>[from en.wikipedia.org]:</small> Yoho National Park is a national park of Canada. It is located within the Rocky Mountains along the western slope of the Continental Divide of the Americas in southeastern British Columbia, bordered by Kootenay National Park to the south and Banff National Park to the east in Alberta. The word Yoho is a Cree expression of amazement or awe, and it is an apt description for the park's spectacular landscape of massive ice fields and mountain peaks, which rank among the highest in the Canadian Rockies.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Takakkaw_Falls_-_panoramio_%281%29.jpg/320px-Takakkaw_Falls_-_panoramio_%281%29.jpg",
 			"source": "",
@@ -35,6 +39,7 @@
 			"url": "https://en.wikipedia.org/wiki/Yoho_National_Park"
 		},
 		{
+			"id": "13",
 			"text": "<small>[from en.wikipedia.org]:</small> Jasper National Park, in Alberta, Canada, is the largest national park within Alberta's Rocky Mountains, spanning 11,000 km2 (4,200 sq mi). It was established as Jasper Forest Park in 1907, renamed as a national park in 1930, and declared a UNESCO world heritage site in 1984. Its location is north of Banff National Park and west of Edmonton. The park contains the glaciers of the Columbia Icefield, springs, lakes, waterfalls and mountains.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Athabasca_Glacier_on_the_Columbia_Icefield.jpg/320px-Athabasca_Glacier_on_the_Columbia_Icefield.jpg",
 			"source": "",
@@ -44,6 +49,7 @@
 			"url": "https://en.wikipedia.org/wiki/Jasper_National_Park"
 		},
 		{
+			"id": "14",
 			"text": "<small>[from en.wikipedia.org]:</small> Waterton Lakes National Park is in the southwest corner of Alberta, Canada. The national park borders Glacier National Park in Montana, United States. Waterton was the fourth Canadian national park, formed in 1895 as Kootenay Lakes Forest Reserve. It is named after Waterton Lake, in turn after the Victorian naturalist and conservationist Charles Waterton. Its range is between the Rocky Mountains and the Prairies. This park contains 505 km2 (195 sq mi) of rugged mountains and wilderness. It has a diverse ecosystem.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Watertonlake.jpg/320px-Watertonlake.jpg",
 			"source": "",
@@ -53,6 +59,7 @@
 			"url": "https://en.wikipedia.org/wiki/Waterton_Lakes_National_Park"
 		},
 		{
+			"id": "15",
 			"text": "<small>[from en.wikipedia.org]:</small> Algonquin Provincial Park is an Ontario provincial park located between Georgian Bay and the Ottawa River, mostly within the Unorganized South Part of Nipissing District. Established in 1893, it is the oldest provincial park in Canada. Additions since its creation have increased the park to its current size of about 7,653 km2 (2,955 sq mi). The park is contiguous with several smaller, administratively separate provincial parks that protect important rivers in the area, resulting in a larger total protected area.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Algonquin_Cache_Lake_Lookout.JPG/320px-Algonquin_Cache_Lake_Lookout.JPG",
 			"source": "",
@@ -62,6 +69,7 @@
 			"url": "https://en.wikipedia.org/wiki/Algonquin_Provincial_Park"
 		},
 		{
+			"id": "16",
 			"text": "<small>[from en.wikipedia.org]:</small> Terra Nova National Park is located on the northeast coast of Newfoundland in the Canadian province of Newfoundland and Labrador, along several inlets of Bonavista Bay. The park takes its name from the Latin name for Newfoundland; it is also the original Portuguese name given to the region.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/NLC_TerraNova2_tango7174.jpg/320px-NLC_TerraNova2_tango7174.jpg",
 			"source": "",
@@ -71,12 +79,14 @@
 			"url": "https://en.wikipedia.org/wiki/Terra_Nova_National_Park"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/UT9AF7s2Pf",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"text": "Explore Capilano Suspension Bridge Park, Vancouver's iconic tourist attraction, known for its famous bridge, and family-friendly activities. <small>[image from Capilano]</small>",
 			"src": "https://www.capbridge.com/wp-content/uploads/2024/05/OutdoorAdventures-card-e1663478782963-2.jpg",
 			"source": "",
@@ -86,6 +96,7 @@
 			"url": "https://www.capbridge.com/"
 		},
 		{
+			"id": "4",
 			"text": "Explore Canada’s first national park. Rocky Mountain peaks, turquoise glacial lakes, wildlife and a picture-perfect mountain town.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DSC2528_Morraine_Lake_Banff_National_Park%2C_Alberta.jpg/640px-DSC2528_Morraine_Lake_Banff_National_Park%2C_Alberta.jpg",
 			"source": "",
@@ -95,6 +106,7 @@
 			"url": "https://parks.canada.ca/pn-np/ab/banff"
 		},
 		{
+			"id": "5",
 			"text": "Journey to a floating lodge in the remote wilderness of coastal British Columbia to watch and photograph grizzly bears in their natural habitat. <small>[image from Great Bear Lodge]</small>",
 			"src": "https://greatbeartours.com/wp-content/uploads/2020/06/Great_Bear_IMG_0202-scaled.jpg",
 			"source": "",
@@ -104,6 +116,7 @@
 			"url": "https://greatbeartours.com/"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> The Bay of Fundy is a bay between the Canadian provinces of New Brunswick and Nova Scotia, with a small portion touching the U.S. state of Maine. It is an arm of the Gulf of Maine. Its tidal range is the highest in the world. The name is probably a corruption of the French word fendu, meaning 'split'.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandstone_in_Canada_-_IMG_0791_%2811385934064%29.jpg/320px-Sandstone_in_Canada_-_IMG_0791_%2811385934064%29.jpg",
 			"source": "",
@@ -113,6 +126,7 @@
 			"url": "https://en.wikipedia.org/wiki/Bay_of_Fundy"
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> The Palais des congrès de Montréal is a convention centre in Montreal's Quartier international at the north end of Old Montreal. Its borough is Ville-Marie. Construction began in 1977 and completed in 1983; the Palais opened on 21 May 1983. Victor Prus designed the original building.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Palais_des_congr%C3%A8s.jpg/320px-Palais_des_congr%C3%A8s.jpg",
 			"source": "",
@@ -122,6 +136,7 @@
 			"url": "https://en.wikipedia.org/wiki/Palais_des_congr%C3%A8s_de_Montr%C3%A9al"
 		},
 		{
+			"id": "8",
 			"text": "Image from <a href=\"https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg\">Wikimedia Commons</a>.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/640px-3Falls_Niagara.jpg",
 			"source": "",
@@ -131,6 +146,7 @@
 			"url": "https://www.niagarafallstourism.com/"
 		},
 		{
+			"id": "9",
 			"text": "Churchill, Canada is well known for its polar bears -- but why do the bears congregate there?",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Polar_Bear%2C_Churchill%2C_Manitoba%2C_Canada..jpg/604px-Polar_Bear%2C_Churchill%2C_Manitoba%2C_Canada..jpg",
 			"source": "",

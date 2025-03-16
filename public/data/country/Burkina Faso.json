@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Notes from a visit to West Africa in January 2015. Third in a series of six articles North of Ouagadougou, Burkina Faso, we entered the Sahel region, the dry plain which becomes the Sahara desert a… <small>[image from A worker at large]</small>",
 			"src": "https://convincingreasons.wordpress.com/wp-content/uploads/2015/03/dscn4201.jpg?w=470",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://convincingreasons.wordpress.com/2015/03/07/the-sahel-the-desert-and-tuareg-refugees-in-burkina-faso/"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Grand Mosque of Bobo-Dioulasso is a mosque in Bobo-Dioulasso, Houet Province, Hauts-Bassins Region, Burkina Faso.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Moschee_von_Bobo-Dioulasso.jpg/320px-Moschee_von_Bobo-Dioulasso.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bobo-Dioulasso"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Kaboré Tambi National Park is a national park in Burkina Faso. It is situated between Ouagadougou and the border with Ghana and follows the course of the Nazinon river. Founded in 1976 as Pô National Park, it has been renamed in honor of a park ranger who was killed by poachers in 1991.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kabore_Tambi_NP_MS_10798.jpg/320px-Kabore_Tambi_NP_MS_10798.jpg",
 			"source": "",

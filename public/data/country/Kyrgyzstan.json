@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Yurts can be seen all over Kyrgyzstan. Sleeping in a yurt should be experienced for those wanting to be closer to nature. <small>[image from The Culture Map]</small>",
 			"src": "https://theculturemap.com/wp-content/uploads/2023/08/yurt-accommodation-ala-kul-hike-kyrgyzstan.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://theculturemap.com/sleeping-in-a-yurt-in-kyrgyzstan/"
 		},
 		{
+			"id": "2",
 			"text": "Exploring Kyrgyzstan's cultural heritage, from Silk Road monuments and remote yurt camps to the importance of nomadic traditions. <small>[image from Bradt Guides]</small>",
 			"src": "https://www.bradtguides.com/wp-content/uploads/2021/02/Kyrgyzstan_mountains_Bharat_Patel.jpg",
 			"source": "",

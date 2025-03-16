@@ -2,6 +2,7 @@
 	"note": "<p>Grab a boat to the whistling island of Tenerife...One new year I flew into Zaragosa simply because it was cheap and there were trains for not too much to go to <strong>Barcelona</strong>. It turned out to be quite a nice little city. So if you are on a budget, and want to go to Barcelona, consider stopping off at this interesting little city.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.youtube.com/embed/PgEmSb0cKBg?si=npHAD8lt85aP_45h",
 			"source": "",
 			"type": "url",
@@ -9,48 +10,56 @@
 			"title": "Whistled language of the island of La Gomera"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/Bi2WEKalDue",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/Bi2LTRlFrtq",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/Biu12cZlrxt",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/Bi3yDp5Faru",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/2wUHe7M2Cj",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/2uLaLBs2Fi",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/2skE0GM2N8",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"text": "<small>[from en.wikipedia.org]:</small> Gaztelugatxe is an islet on the coast of the Bay of Biscay belonging to the Biscayan municipality of Bermeo, in the Basque Autonomous Community. It is connected to the mainland by a man-made bridge. On top of the island stands a hermitage named Gaztelugatxeko Doniene in Basque, dedicated to John the Baptist, that late discoveries indicate might date back to the 9th century. With another small neighboring island, Aketx, they form a protected biotope that extends from the town of Bakio to Cape Matxitxako, on the Bay of Biscay.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Escalier_de_Gaztelugatxe.jpg/2560px-Escalier_de_Gaztelugatxe.jpg",
 			"source": "",

@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": " <small>[image from commons.wikimedia.org]</small>",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mauritius_%C3%8Ele_aux_Cerfs.jpg/640px-Mauritius_%C3%8Ele_aux_Cerfs.jpg",
 			"source": "",

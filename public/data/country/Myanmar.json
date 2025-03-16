@@ -2,18 +2,21 @@
 	"note": "<p>Don&#39;t feel the need to take a hot air balloon. It&#39;s pretty impressive watching them from the ground.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/p/BQu92jUgKu0",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/p/BQzBBR8A6KO",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"text": "<small>[from en.wikipedia.org]:</small> Phaung Daw U Pagoda, also spelt Phaung Daw Oo or Hpaung Daw Oo, is a notable Buddhist pagoda in Myanmar, located in the village of Ywama on Inle Lake in Shan State. The pagoda is the site of a major annual pagoda festival during which the temple's principal Buddha images are circulated on a royal barge across Inle Lake.",
 			"src": "https://en.wikipedia.org/wiki/Phaung_Daw_U_Pagoda#/media/File:Phaung_Daw_U-Festival-20-Boat-gje.jpg",
 			"source": "",
@@ -23,48 +26,56 @@
 			"url": "https://en.wikipedia.org/wiki/Phaung_Daw_U_Pagoda"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/BQ0H_5AAM9_/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/p/BQ0Gk_2A2zc",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/BQxj8rSAL6e",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/BRE6MiUAFVv",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/BRB5keOA0D4",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/BQ79TszgWxM",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/BQ5IgNvAfez",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/BQ0IZLNA_qE",
 			"source": "",
 			"type": "instagram",

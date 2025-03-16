@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "0 Days / 0 Nights <small>[image from National Geographic Expeditions]</small>",
 			"src": "https://www.nationalgeographic.com/content/dam/expeditions/destinations/africa/land/madagascar-wildlife-tour.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.nationalgeographic.com/expeditions/destinations/africa/land/madagascar-wildlife-tour/"
 		},
 		{
+			"id": "2",
 			"text": "Learn about the species that live inMadagascar! <small>[image from iNaturalist]</small>",
 			"src": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://www.inaturalist.org/places/madagascar"
 		},
 		{
+			"id": "3",
 			"text": "The price of vanilla is 10 times higher than it was a few years ago. That's bringing unimagined wealth to local villages — and problems as well. <small>[image from NPR]</small>",
 			"src": "https://media.npr.org/assets/img/2019/09/06/dscf1738-61_wide-f675a49b23233e94004ac62358fb2466e4070867.jpg?s=1400&c=100&f=jpeg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://www.npr.org/sections/goatsandsoda/2019/09/15/757899271/photos-vanilla-boom-is-making-people-crazy-rich-and-jittery-in-madagascar\\"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Lemurs are wet-nosed primates of the superfamily Lemuroidea, divided into 8 families and consisting of 15 genera and around 100 existing species. They are endemic to the island of Madagascar. Most existing lemurs are small, have a pointed snout, large eyes, and a long tail. They chiefly live in trees and are active at night.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lemuroidea.jpg/320px-Lemuroidea.jpg",
 			"source": "",
@@ -38,6 +42,7 @@
 			"url": "https://en.wikipedia.org/wiki/Lemur"
 		},
 		{
+			"id": "5",
 			"text": "<small>[from en.wikipedia.org]:</small> Mantella baroni is a species of small poisonous frog in the family Mantellidae.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Variegated_golden_frog_%28Mantella_baroni%29_Ranomafana.jpg/320px-Variegated_golden_frog_%28Mantella_baroni%29_Ranomafana.jpg",
 			"source": "",

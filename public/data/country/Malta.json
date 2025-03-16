@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "Home - Popeye Village Malta",
 			"source": "",
 			"type": "url",
@@ -10,6 +11,7 @@
 			"url": " <small>[image from popeyemalta.com]</small>"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Mġarr is a harbour town in south-eastern Gozo, Malta.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Malte%2C_Gozo%2C_port_de_Mgarr_%26_ferrys_%26_Comino.jpg/320px-Malte%2C_Gozo%2C_port_de_Mgarr_%26_ferrys_%26_Comino.jpg",
 			"source": "",
@@ -19,6 +21,7 @@
 			"url": "https://en.wikipedia.org/wiki/M%C4%A1arr,_Gozo"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Mellieħa is a large village in the Northern Region of Malta. It has a population of 10,087 as of March 2014. Mellieħa is also a tourist resort, popular for its sandy beaches, natural environment, and Popeye Village nearby.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mellieha_Church_1.jpg/320px-Mellieha_Church_1.jpg",
 			"source": "",

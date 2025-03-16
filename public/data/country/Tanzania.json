@@ -2,12 +2,14 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.youtube.com/embed/QwbK1GUWN30",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Serengeti National Park is a large national park in northern Tanzania that stretches over 14,763 km2 (5,700 sq mi). It is located in eastern Mara Region and northeastern Simiyu Region and contains over 1.5 million ha of virgin savanna. The park was established in 1940.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tanzania-_Serengeti_National_Park-_elefante.jpg/320px-Tanzania-_Serengeti_National_Park-_elefante.jpg",
 			"source": "",
@@ -17,6 +19,7 @@
 			"url": "https://en.wikipedia.org/wiki/Serengeti_National_Park"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Zanzibar is a Tanzanian archipelago off the coast of East Africa. It is located in the Indian Ocean, and consists of many small islands and two large ones: Unguja and Pemba Island. The capital is Zanzibar City, located on the island of Unguja. Its historic centre, Stone Town, is a World Heritage Site.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ZanzibarBeach.jpg/320px-ZanzibarBeach.jpg",
 			"source": "",
@@ -26,6 +29,7 @@
 			"url": "https://en.wikipedia.org/wiki/Zanzibar"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Ngorongoro Conservation Area is a protected area and a UNESCO World Heritage Site located in Ngorongoro District, 180 km (110 mi) west of Arusha City in Arusha Region, within the Crater Highlands geological area of northeastern Tanzania. The area is named after Ngorongoro Crater, a large volcanic caldera within the area. The Ngorongoro Conservation Area Authority administers the conservation area, an arm of the Tanzanian government, and its boundaries follow the boundary of the Ngorongoro District in Arusha Region. The western portion of the park abuts the Serengeti National Park, and the area comprising the two parks and Kenya's Maasai Mara game reserve is home to Great Migration, a massive annual migration of millions of wildebeest, zebras, gazelles, and other animals. The conservation area also contains Olduvai Gorge, one of the most important paleoanthropological sites in the world.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ngorongoro-1001-2.jpg/640px-Ngorongoro-1001-2.jpg",
 			"source": "",
@@ -35,6 +39,7 @@
 			"url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area"
 		},
 		{
+			"id": "5",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -43,6 +48,7 @@
 			"url": "https://www.planetstillalive.com/africa/north-tanzania/north-tanzania/"
 		},
 		{
+			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> The Arusha National Park is a national park in Tanzania, with the IUCN category II located within Meru District and Arusha Rural District of the Arusha Region of Tanzania that covers Mount Meru, a prominent volcano with an elevation of 4566 m.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Meru_Ashcone.jpg/320px-Meru_Ashcone.jpg",
 			"source": "",

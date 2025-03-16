@@ -2,6 +2,7 @@
 	"note": "<p>Cancun is a cheap city to fly into, however if you are adventurous and on a budget consider the 6 hour bus ride down to <strong>Chetumal</strong> for an adventure in <strong>Belize</strong>.  Once in Belize in <strong>Corozal Town</strong>, consider a trip to <strong>Orange Walk Town</strong> if you like bird watching.To get to <strong>Orange Walk Town</strong> take a cab to the &#39;&#39;New market&#39;&#39; where the buses that come to Belize Park and there get on a bus to Orange Walk Town. If it’s about 4 PM get a taxi (you should not pay more than 80.00 Mexican pesos) to the Mexican Border and there wait for a bus to Orange Walk Town. You can also get to <strong>Flores (Guatemala)</strong> from here.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "For those of you staying in the **Cancún** area, **Puerto Morelos** is a quiet beach town if you don't like noise. If you do like noise head to **Playa del Carmen**.",
 			"src": "",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Puerto_Morelos"
 		},
 		{
+			"id": "10",
 			"text": "<small>[from en.wikipedia.org]:</small> Monte Albán is a large pre-Columbian archaeological site in the Santa Cruz Xoxocotlán Municipality in the southern Mexican state of Oaxaca. The site is located on a low mountainous range rising above the plain in the central section of the Valley of Oaxaca, where the latter's northern Etla, eastern Tlacolula, and southern Zimatlán and Ocotlán branches meet. The present-day state capital Oaxaca City is located approximately 9 km (6 mi) east of Monte Albán.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/320px-Monte_Alban_West_Side_Platform.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n"
 		},
 		{
+			"id": "11",
 			"text": "<small>[from en.wikipedia.org]:</small> Cave of the Crystals or Giant Crystal Cave is a cave connected to the Naica Mine at a depth of 300 metres (980 ft), in Naica, Chihuahua, Mexico. It takes the form of a chamber within the limestone host rock of the mine, and is about 109 metres (358 ft) long with a volume of 5,000 to 6,000 cubic metres.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cristales_cueva_de_Naica.JPG/320px-Cristales_cueva_de_Naica.JPG",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals"
 		},
 		{
+			"id": "12",
 			"text": "<small>[from en.wikipedia.org]:</small> Popocatépetl is an active stratovolcano located in the states of Puebla, Morelos, and Mexico in central Mexico. It lies in the eastern half of the Trans-Mexican Volcanic Belt. At 5,393 m (17,694 ft) it is the second highest peak in Mexico, after Citlaltépetl at 5,636 m (18,491 ft).",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mexico-Popocatepetl.jpg/320px-Mexico-Popocatepetl.jpg",
 			"source": "",
@@ -38,6 +42,7 @@
 			"url": "https://en.wikipedia.org/wiki/Popocat%C3%A9petl"
 		},
 		{
+			"id": "13",
 			"text": "Founded by the Spanish in the early 16th century, Guanajuato became the world's leading silver-extraction centre in the 18th century. This past can be seen in its 'subterranean streets' and the 'Boca del Inferno', a  ... <small>[image from whc.unesco.org]</small>",
 			"src": "https://whc.unesco.org/uploads/thumbs/site_0482_0001-1200-630-20110920201129.jpg",
 			"source": "",
@@ -47,6 +52,7 @@
 			"url": "https://whc.unesco.org/en/list/482/"
 		},
 		{
+			"id": "14",
 			"text": "<small>[from en.wikipedia.org]:</small> Ekʼ Balam is a Yucatec-Maya archaeological site within the municipality of Temozón, Yucatán, Mexico. It lies in the Northern Maya lowlands, 25 kilometres (16 mi) north of Valladolid and 56 kilometres (35 mi) northeast of Chichen Itza. From the Preclassic until the Postclassic period, it was the seat of a Mayan kingdom.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ek-Balam_Overview_picture_-_view_North.jpg/320px-Ek-Balam_Overview_picture_-_view_North.jpg",
 			"source": "",
@@ -56,6 +62,7 @@
 			"url": "https://en.wikipedia.org/wiki/Ek%CA%BC_Balam"
 		},
 		{
+			"id": "15",
 			"text": "Above you see me getting a kiss by a manatee. They are amazing animals and getting kissed by a manatee is a pretty intimate thing. I thought long and hard about <small>[image from Shawna Coronado]</small>",
 			"src": "https://secureservercdn.net/72.167.241.46/w7d.941.myftpupload.com/wp-content/uploads/2012/07/Shawna-Manatee-Kiss-1024x742.jpg",
 			"source": "",
@@ -65,6 +72,7 @@
 			"url": "https://shawnacoronado.com/swimming-with-manatees-in-mexico-eco-park/"
 		},
 		{
+			"id": "16",
 			"text": "After an unforgettable few days celebrating Dia de los Muertos in Oaxaca, it was time to leave the colourful colonial town behind and head to the jungles of Chiapas, Mexico’s southernmost state, known to be more tropical and rugged than its northern neighbours. Chiapas is home to one of the largest indigenous populations in the […] <small>[image from Man Vs Globe]</small>",
 			"src": "https://www.manvsglobe.com/wp-content/uploads/2016/11/DSC_6329-scaled.jpg",
 			"source": "",
@@ -74,6 +82,7 @@
 			"url": "https://www.manvsglobe.com/exploring-the-jungle-ruins-of-palenque/"
 		},
 		{
+			"id": "17",
 			"text": "<small>[from en.wikipedia.org]:</small> The Cascadas de Agua Azul are a series of waterfalls found on the Xanil River in the southern Mexican state of Chiapas. They are located in the Municipality of Tumbalá, 69 kilometres (43 mi) from Palenque, near Mexican Federal Highway 199.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vista_del_r%C3%ADo_Xanil_en_Agua_Azul.jpg/640px-Vista_del_r%C3%ADo_Xanil_en_Agua_Azul.jpg",
 			"source": "",
@@ -83,12 +92,14 @@
 			"url": "https://en.wikipedia.org/wiki/Agua_Azul"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/p/k4ylqus2NO",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"text": "If you want to do more than transit here, visit around March consider the **Carnaval Chetumal**.",
 			"src": "",
 			"source": "",
@@ -98,6 +109,7 @@
 			"url": "https://cookjmex.blogspot.com/2018/09/southern-yucatan-peninsula-part-1.html"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> The Day of the Dead is a holiday traditionally celebrated on November 1 and 2, though other days, such as October 31 or November 6, may be included depending on the locality. The multi-day holiday involves family and friends gathering to pay respects and remember friends and family members who have died. These celebrations can take a humorous tone, as celebrants remember amusing events and anecdotes about the departed. It is widely observed in Mexico, where it largely developed, and is also observed in other places, especially by people of Mexican heritage. The observance falls during the Christian period of Allhallowtide. Some argue that there are Indigenous Mexican or ancient Aztec influences that account for the custom, though others see it as a local expression of the Allhallowtide season that was brought to the region by the Spanish; the Day of the Dead has become a way to remember those forebears of Mexican culture. The Day of the Dead is largely seen as having a festive characteristic.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Altardediademuertos.jpg/320px-Altardediademuertos.jpg",
 			"source": "",
@@ -107,6 +119,7 @@
 			"url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
 		},
 		{
+			"id": "5",
 			"src": "",
 			"source": "",
 			"type": "url",
@@ -115,6 +128,7 @@
 			"url": "https://mexicocitystreets.com/2024/02/06/markets-in-oaxaca-city-oaxaca/"
 		},
 		{
+			"id": "7",
 			"text": "<small>[from en.wikipedia.org]:</small> Sumidero Canyon is a deep natural canyon located just north of the city of Chiapa de Corzo in the state of Chiapas, in southern Mexico. The canyon's creation began around the same time as the Grand Canyon in the U.S. state of Arizona, by a crack in the area's crust and subsequent erosion by the Grijalva River, which still runs through it. Sumidero Canyon has vertical walls which reach as high as 1,000 metres (3,300 ft), with the river turning up to 90 degrees during the 13-kilometre (8 mi) length of the narrow passage.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canyon_sumidero_entrada.jpg/320px-Canyon_sumidero_entrada.jpg",
 			"source": "",
@@ -124,6 +138,7 @@
 			"url": "https://en.wikipedia.org/wiki/Sumidero_Canyon"
 		},
 		{
+			"id": "8",
 			"text": "<small>[from en.wikipedia.org]:</small> The Monarch Butterfly Biosphere Reserve is a World Heritage Site containing most of the overwintering sites of the eastern population of the monarch butterfly. The reserve is located in the Trans-Mexican Volcanic Belt pine-oak forests ecoregion on the border of Michoacán and State of Mexico, 100 km, northwest of Mexico City. Millions of butterflies arrive in the reserve annually. Butterflies only inhabit a fraction of the 56,000 hectares of the reserve from October–March. The biosphere's mission is to protect the butterfly species and its habitat.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Abies_religiosa_Chincua_5.jpg/320px-Abies_religiosa_Chincua_5.jpg",
 			"source": "",
@@ -133,6 +148,7 @@
 			"url": "https://en.wikipedia.org/wiki/Monarch_Butterfly_Biosphere_Reserve"
 		},
 		{
+			"id": "9",
 			"text": "<small>[from en.wikipedia.org]:</small> Becan is an archaeological site of the Maya civilization in pre-Columbian Mesoamerica. Becan is located near the center of the Yucatán Peninsula, in the present-day Mexican state of Campeche, about 150 km (93.2 mi) north of Tikal. The Maya sites of Balamku, Calakmul, Chicanna and Xpuhil are nearby. The name Becan was bestowed on the site by archaeologists who rediscovered the site, meaning \"ravine or canyon formed by water\" in Yukatek Maya, after the site's most prominent and unusual feature, its surrounding ditch.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bec%C3%A1n_-_Structure_IX.jpg/320px-Bec%C3%A1n_-_Structure_IX.jpg",
 			"source": "",

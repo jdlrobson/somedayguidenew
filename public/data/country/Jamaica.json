@@ -2,12 +2,14 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.youtube.com/embed/KLrK_68f_Xk",
 			"source": "",
 			"type": "url",
 			"embed": true
 		},
 		{
+			"id": "2",
 			"text": "Take the plunge into the Blue Hole Cavern <small>[image from activecaribbeantravel.com]</small>",
 			"src": "https://i0.wp.com/activecaribbeantravel.com/wp-content/uploads/2022/04/IMG_3335-Resized.jpg?fit=1200%2C900&ssl=1",
 			"source": "",

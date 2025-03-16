@@ -2,6 +2,7 @@
 	"note": "<p>Finland is a short ferry away from Estonia. Lots to someday explore here.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Lake Inari is the largest lake in Sápmi and the third-largest lake in Finland. It is located in the northern part of Lapland, north of the Arctic Circle. The lake is 117–119 metres (384–390 ft) above sea level, and is regulated at the Kaitakoski power plant in Russia. The freezing period normally extends from November to early June.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Inari_lake.jpg/320px-Inari_lake.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Lake_Inari"
 		},
 		{
+			"id": "2",
 			"text": "Whether you're looking for a place to relax or a historical place to visit, discover some of Finland's many unusual saunas that offer all of this and more. <small>[image from Culture Trip]</small>",
 			"src": "https://cdn-v2.theculturetrip.com/1200x630/wp-content/uploads/2025/02/viikinkisauna--susanna-tervoviikinkisaunafq4a8351.webp",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://theculturetrip.com/europe/finland/articles/10-of-the-best-saunas-in-finland?utm_campaign=FO_EMAIL_03_05_2017_CONTROL&utm_content=Rauhalati_Smoke_Sauna&utm_medium=FOShareEmail&utm_source=facebook"
 		},
 		{
+			"id": "3",
 			"text": "Old Porvoo, with its red-ochre painted riverside warehouses, is one of the most photographed national landscapes in Finland <small>[image from Visit Porvoo]</small>",
 			"src": "https://www.porvoo.fi/app/uploads/sites/4/2022/08/Julia_Kivela_Porvoo_High_Res_IMG_20180805_201454-scaled.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://www.visitporvoo.fi/en/sights/old-porvoo/"
 		},
 		{
+			"id": "4",
 			"text": "<small>[from en.wikipedia.org]:</small> Savonlinna Opera Festival is held annually in the city of Savonlinna in Finland. The Festival takes place at the medieval Olavinlinna, built in 1475. The castle is located amid spectacular lake scenery.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG/320px-Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG",
 			"source": "",
@@ -38,6 +42,7 @@
 			"url": "https://en.wikipedia.org/wiki/Savonlinna_Opera_Festival"
 		},
 		{
+			"id": "5",
 			"text": "This exciting short break, running throughout Finland’s summer months, takes you to a wonderful wilderness centre in the heart of Scandina... <small>[image from Naturetrek]</small>",
 			"src": "https://i.assetzen.net/i/Cw8f4O5EzDEl/w:500/h:0/q:70.jpg",
 			"source": "",

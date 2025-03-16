@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Lake Bunyonyi  is in south-western Uganda between Kisoro and Kabale, close to the border with Rwanda. The lake appeared from 2004 to 2009 on the USh 5,000/= note under the title \"Lake Bunyonyi and terraces\". Scientific literature generally quotes a maximum depth of 40 m (130 ft), but some tourist guides and locals insist that it is much deeper, about 900 m (3,000 ft), which would make it the second-deepest lake in Africa.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Market_day_in_Uganda.jpg/640px-Market_day_in_Uganda.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Lake_Bunyonyi"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Bwindi Impenetrable National Park is a national park in southwestern Uganda. It is part of the Bwindi Impenetrable Forest and is situated along the Democratic Republic of the Congo border next to the Virunga National Park and on the edge of the Albertine Rift. Composed of 321 km2 (124 sq mi) of both lowland and montane forest, it is accessible only on foot. It is a United Nations Educational, Scientific and Cultural Organization-designated World Heritage Site.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bwindi.JPG/320px-Bwindi.JPG",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Bwindi_Impenetrable_National_Park"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> The Rwenzori are a range of mountains in eastern equatorial Africa, located on the border between Uganda and the Democratic Republic of the Congo. The highest peak of the Ruwenzori reaches 5,109 metres (16,762 ft), and the range's upper regions are permanently snow-capped and glaciated. Rivers fed by mountain streams form one of the sources of the Nile. Because of this, European explorers linked the Ruwenzori with the legendary Mountains of the Moon, claimed by the Greek scholar Ptolemy as the source of the Nile. Virunga National Park in eastern DR Congo and Rwenzori Mountains National Park in southwestern Uganda are located within the range.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/House_on_ledge_in_Kasese.jpg/320px-House_on_ledge_in_Kasese.jpg",
 			"source": "",
@@ -29,6 +32,7 @@
 			"url": "https://en.wikipedia.org/wiki/Rwenzori_Mountains"
 		},
 		{
+			"id": "4",
 			"src": "",
 			"source": "",
 			"type": "url",

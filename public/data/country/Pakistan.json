@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "The 1,300km Karakoram Highway cuts through some of the most astounding rock faces on the planet. It's a road trip of dreams, yet few have ever heard of it or how it came to be. <small>[image from www.bbc.com]</small>",
 			"src": "https://ychef.files.bbci.co.uk/624x351/p0g9bzd9.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.bbc.com/travel/article/20230903-the-karakoram-highway-the-road-thats-the-eighth-world-wonder"
 		},
 		{
+			"id": "2",
 			"text": "Rick Steves' 1978 “Hippie Trail” Journal",
 			"src": "",
 			"source": "",

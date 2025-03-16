@@ -2,30 +2,35 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"src": "https://www.instagram.com/reel/kfs2m1s2E5/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "10",
 			"src": "https://www.instagram.com/p/kZWyAOM2Ha",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "11",
 			"src": "https://www.instagram.com/p/kZRs3ss2Bk",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "12",
 			"src": "https://www.instagram.com/p/kXwCBjs2BI",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "13",
 			"text": "<small>[from en.wikipedia.org]:</small> Madidi is a national park in the upper Amazon river basin in Bolivia. It was established in 1995 with a total land area of 18,958 km2. Together with the nearby protected areas Manuripi-Heath and Apolobamba and the Manu Biosphere Reserve (Peru), Madidi is part of one of the largest protected areas in the world.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Madidi_park.JPG/320px-Madidi_park.JPG",
 			"source": "",
@@ -35,6 +40,7 @@
 			"url": "https://en.wikipedia.org/wiki/Madidi_National_Park"
 		},
 		{
+			"id": "14",
 			"text": "The Bolivian Amazon: The Jungle vs The Pampas <small>[image from Never Ending Voyage]</small>",
 			"src": "https://www.neverendingvoyage.com/wp-content/uploads/2010/12/squirrel_monkey_pampas.jpg",
 			"source": "",
@@ -44,6 +50,7 @@
 			"url": "https://www.neverendingvoyage.com/the-bolivian-amazon-the-jungle-vs-the-pampas/"
 		},
 		{
+			"id": "15",
 			"text": "<small>[from en.wikipedia.org]:</small> The Jesuit Missions of Chiquitos are located in the Santa Cruz department in eastern Bolivia. Six of these former missions collectively were designated as a UNESCO World Heritage Site in 1990. Distinguished by a unique fusion of European and Amerindian cultural influences, the missions were founded as reductions or reducciones de indios by Jesuits in the 17th and 18th centuries to convert local tribes to Christianity.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Concepcion_church.JPG/320px-Concepcion_church.JPG",
 			"source": "",
@@ -53,48 +60,56 @@
 			"url": "https://en.wikipedia.org/wiki/Jesuit_Missions_of_Chiquitos"
 		},
 		{
+			"id": "2",
 			"src": "https://www.instagram.com/reel/kaMEZls2PT/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "3",
 			"src": "https://www.instagram.com/reel/knse5pM2GV/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "4",
 			"src": "https://www.instagram.com/p/kgBoGLM2Fp",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "5",
 			"src": "https://www.instagram.com/p/kfMpJrs2PA",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "6",
 			"src": "https://www.instagram.com/p/keRxvJs2JG",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "7",
 			"src": "https://www.instagram.com/p/keR_kYs2JX",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "8",
 			"src": "https://www.instagram.com/p/kZ0QPms2GL/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
 		},
 		{
+			"id": "9",
 			"src": "https://www.instagram.com/p/kS3ZfbM2Gn",
 			"source": "",
 			"type": "instagram",

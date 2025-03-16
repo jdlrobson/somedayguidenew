@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Petra, originally known to its inhabitants as Raqmu, is a historic and archaeological city in southern Jordan. Famous for its rock-cut architecture and water conduit systems, Petra is also called the \"Rose City\" because of the colour of the sandstone from which it is carved. The city is one of the New 7 Wonders of the World and a UNESCO World Heritage Site.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Urn_Tomb%2C_Petra_01.jpg/320px-Urn_Tomb%2C_Petra_01.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://en.wikipedia.org/wiki/Petra"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Azraq is a small town in Zarqa Governorate in central-eastern Jordan, 100 kilometres (62 mi) east of Amman. The population of Azraq was 9,021 in 2004. The Muwaffaq Salti Air Base is located in Azraq.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20100922_qasralazrak42.JPG/320px-20100922_qasralazrak42.JPG",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/Azraq,_Jordan"
 		},
 		{
+			"id": "3",
 			"text": "<small>[from en.wikipedia.org]:</small> Wadi Rum, known also as the Valley of the Moon, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60 km (37 mi) to the east of the city of Aqaba. With an area of 720 km2 (280 sq mi) it is the largest wadi in Jordan.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/320px-Mountain_in_Wadi_Rum%2C_Jordan.jpg",
 			"source": "",

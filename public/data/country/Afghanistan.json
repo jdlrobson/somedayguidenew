@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Pul-e Khishti Bazaar, Kabul's main open-air market, is a cacophony of sight, scent and sound. <small>[image from MONTECRISTO]</small>",
 			"src": "https://montecristomagazine.com/wp-content/uploads/2013/06/6-2-Montecristo-Magazine-Summer-2013-kabul_image_0003.jpg",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://montecristomagazine.com/magazine/summer-2013/the-kabul-markets-afghanistan"
 		},
 		{
+			"id": "11",
 			"src": "https://preview.redd.it/1ejgiud2seo61.jpg?width=1080&crop=smart&auto=webp&s=b29bc017d42f9369b1351a20fd90ce7566341de2",
 			"source": "",
 			"type": "url",

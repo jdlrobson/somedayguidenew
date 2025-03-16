@@ -2,6 +2,7 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "Kiruna is one of our happy places. ",
 			"src": "http://static1.squarespace.com/static/65561afa35d5f77eea3c4a41/t/65ec7b9afb46810c786878ce/1709996954650/IMG_4321.jpeg?format=1500w",
 			"source": "",
@@ -11,6 +12,7 @@
 			"url": "https://www.penguintrampoline.com/blog/swedish-lapland-why-we-love-kiruna"
 		},
 		{
+			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> Fårö or Fåre in Gutnish is a Baltic Sea island just north of the island of Gotland, itself off mainland Sweden's southeastern coast. It is the second-largest island in the county and it is a popular summer resort. It has its own language, Faroymal, a dialect of Gutnish.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rauks_%283881539849%29.jpg/320px-Rauks_%283881539849%29.jpg",
 			"source": "",
@@ -20,6 +22,7 @@
 			"url": "https://en.wikipedia.org/wiki/F%C3%A5r%C3%B6"
 		},
 		{
+			"id": "3",
 			"text": "In this guide we explain facts like where and when to see the northern lights, best places to go for northern lights, tips on how to photograph the northern lights and aurora forecasts. <small>[image from ICEHOTEL]</small>",
 			"src": "https://www.icehotel.com/sites/cb_icehotel/files/icehotel.jpg",
 			"source": "",

@@ -115,7 +115,7 @@ function transformSnippet( filePath ) {
     let title = snip[1];
     let url = snip[2];
     let type = 'url';
-    const queries = [];
+    const id = filePath.match(/\/([0-9]*)\.txt/)[1];
     if ( snip.length === 1 ) {
         if ( snip[ 0 ].charAt( 0 ) === '"') {
             text = snip[0];
@@ -163,6 +163,7 @@ function transformSnippet( filePath ) {
         source = '/';
     }
     return {
+        id,
         text,
         src,
         source,

@@ -2,6 +2,7 @@
 	"note": "<p>Someday, we will take the night train from <strong>Minsk</strong> to <strong>Kiev</strong>.</p>\n",
 	"snippets": [
 		{
+			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> Brest Fortress, formerly known as Brest-Litovsk Fortress, is a 19th-century fortress in Brest, Belarus. In 1965, the title Hero Fortress was given to the fortress to commemorate the defence of the frontier stronghold during the first week of Operation Barbarossa, when Axis forces invaded the Soviet Union on 22 June 1941. The title \"Hero Fortress\" corresponds to the title \"Hero City\" that the Presidium of the Supreme Soviet of the Soviet Union awarded to twelve Soviet cities.",
 			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg/320px-Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg",
 			"source": "",
