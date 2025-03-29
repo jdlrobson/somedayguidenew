@@ -8,7 +8,7 @@ import { Readable } from 'stream';
 import { finished } from 'stream/promises';
 
 let allSrcs  = [];
-const MAX_FILENAME_LENGTH = 190;
+const MAX_FILENAME_LENGTH = 140;
 
 // Make a tmp folder if absent
 if ( !fs.existsSync( 'tmp_public' ) ) {
