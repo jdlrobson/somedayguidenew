@@ -272,6 +272,15 @@ function touchCountryUpdatedTime( countryName ) {
 function isAbsoluteUrl( url ) {
     return url.indexOf( 'https://' ) === 0 || url.indexOf( '//' ) === 0
 }
+
+function fixLongFilename(path) {
+    const parts = path.split('/images/');
+    const newFileName = parts[1].split('wikipedia_commons_thumb')[1];
+    const newPath = `/images/${newFileName}`;
+    fs.renameSync(`public${path}`, `public${newPath}`);
+    return newPath;
+}
+
 /**
  * Checks the "notes" folder and updates countries.json
  */
@@ -296,6 +305,8 @@ function prepareFromNotes() {
                 countryData.thumbnailSource = `https://commons.wikimedia.org/wiki/File:${filePage}`;
             }
             thumb = relativeThumbPath;
+        } else if ( thumb.length > 220 && thumb.indexOf('/images/') === 0 ) {
+            countryData.thumbnail = fixLongFilename( thumb );
         }
         const folder = `notes/country/${ c }`;
         if ( !fs.existsSync( folder ) ) {
@@ -330,6 +341,7 @@ const destinationCoordinates = {};
  * Updates the public country JSON with information collected in prepareFromNotes
  */
 function updateCountries() {
+    let allAirports = [];
     Object.keys(json).forEach((c) => {
         const countryDataPath = `public/data/country/${c}.json`;
         const country = JSON.parse( fs.readFileSync( countryDataPath ).toString() );
@@ -337,6 +349,9 @@ function updateCountries() {
         if ( !country.places ) {
             country.places = {};
         }
+        const airports = json[c].airports;
+        // check if airports are featured in another countries airports
+        allAirports = allAirports.concat(airports);
 
         const destinations = json[c].destinations || [];
         Object.keys(country.places).forEach((key) => {
@@ -371,6 +386,10 @@ function updateCountries() {
         json[c].snippets = snippetTotal;
         fs.writeFileSync( countryDataPath, JSON.stringify( country, null, "\t"))
     } );
+    console.log(
+        'Duplicate airports',
+        allAirports.filter((a, i) => allAirports.indexOf(a) !== i)
+    );
 }
 
 /**
