@@ -8,6 +8,7 @@ import { Readable } from 'stream';
 import { finished } from 'stream/promises';
 
 let allSrcs  = [];
+const MAX_FILENAME_LENGTH = 190;
 
 // Make a tmp folder if absent
 if ( !fs.existsSync( 'tmp_public' ) ) {
@@ -275,8 +276,7 @@ function isAbsoluteUrl( url ) {
 
 function fixLongFilename(path) {
     const parts = path.split('/images/');
-    const newFileName = parts[1].split('wikipedia_commons_thumb')[1];
-    const newPath = `/images/${newFileName}`;
+    const newPath = `/images/${parts[1].slice( -MAX_FILENAME_LENGTH )}`;
     fs.renameSync(`public${path}`, `public${newPath}`);
     return newPath;
 }
@@ -305,7 +305,7 @@ function prepareFromNotes() {
                 countryData.thumbnailSource = `https://commons.wikimedia.org/wiki/File:${filePage}`;
             }
             thumb = relativeThumbPath;
-        } else if ( thumb.length > 220 && thumb.indexOf('/images/') === 0 ) {
+        } else if ( thumb.length > MAX_FILENAME_LENGTH && thumb.indexOf('/images/') === 0 ) {
             countryData.thumbnail = fixLongFilename( thumb );
         }
         const folder = `notes/country/${ c }`;

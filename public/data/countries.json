@@ -1619,7 +1619,7 @@
 	"Brunei": {
 		"zoom": 6,
 		"seen": 26,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_52_JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI_jpg_440px-JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg",
+		"thumbnail": "/images/pload_wikimedia_org_wikipedia_commons_thumb_5_52_JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI_jpg_440px-JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg",
 		"lat": 4.48059,
 		"lon": 114.74533,
 		"title": "Brunei",
@@ -1783,7 +1783,7 @@
 		"updated": "2025-03-16T01:25:56.131Z"
 	},
 	"Burundi": {
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a5_Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4)_jpg_440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4).jpg",
+		"thumbnail": "/images/dia_org_wikipedia_commons_thumb_a_a5_Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4)_jpg_440px-Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4).jpg",
 		"lat": -3.5,
 		"lon": 30,
 		"title": "Burundi",
@@ -3672,9 +3672,9 @@
 			],
 			"currency": "USD"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Overhead_Manatuto_11_Oct_09.jpg",
-		"updated": "2025-03-16T01:41:36.638Z"
+		"updated": "2025-03-29T23:05:09.114Z"
 	},
 	"Ecuador": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_33_EC_Cotopaxi_NRouteISlope_2012_jpg_440px-EC_Cotopaxi_NRouteISlope_2012.jpg",
@@ -5130,7 +5130,7 @@
 	"Guatemala": {
 		"zoom": 5,
 		"seen": 33,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fd_Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder_jpg_440px-Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg",
+		"thumbnail": "/images/wikimedia_org_wikipedia_commons_thumb_f_fd_Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder_jpg_440px-Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg",
 		"lat": 15.5333,
 		"lon": -90.5,
 		"title": "Guatemala",
@@ -7542,7 +7542,7 @@
 	},
 	"North Macedonia": {
 		"zoom": 7,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e7_Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19_jpg_2560px-Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19.jpg",
+		"thumbnail": "/images/ia_org_wikipedia_commons_thumb_e_e7_Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19_jpg_2560px-Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19.jpg",
 		"lat": 41.65,
 		"lon": 21.72,
 		"title": "North Macedonia",
@@ -9280,7 +9280,7 @@
 	},
 	"Nicaragua": {
 		"seen": 42,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8c_Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5)_jpg_440px-Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5).jpg",
+		"thumbnail": "/images/a_org_wikipedia_commons_thumb_8_8c_Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5)_jpg_440px-Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5).jpg",
 		"lat": 13,
 		"lon": -85,
 		"title": "Nicaragua",
@@ -9961,7 +9961,7 @@
 	},
 	"Peru": {
 		"seen": 44,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_80_023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852)_jpg_440px-023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg",
+		"thumbnail": "/images/pload_wikimedia_org_wikipedia_commons_thumb_8_80_023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852)_jpg_440px-023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg",
 		"lat": -9.4,
 		"lon": -76,
 		"title": "Peru",
@@ -10358,7 +10358,7 @@
 	},
 	"Portugal": {
 		"seen": 30,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bd_Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86)_JPG_1280px-Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86).JPG",
+		"thumbnail": "/images/_wikimedia_org_wikipedia_commons_thumb_b_bd_Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86)_JPG_1280px-Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86).JPG",
 		"lat": 38.7,
 		"lon": -9.183333,
 		"title": "Portugal",
@@ -11350,7 +11350,7 @@
 		"seen": 21,
 		"seenL": 1,
 		"citylike": true,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_1f_Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426_jpg_440px-Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg",
+		"thumbnail": "/images/oad_wikimedia_org_wikipedia_commons_thumb_1_1f_Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426_jpg_440px-Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg",
 		"lat": 1.29,
 		"lon": 103.82,
 		"title": "Singapore",
@@ -11972,7 +11972,7 @@
 	"Spain": {
 		"seen": 2,
 		"seenL": 21,
-		"thumbnail": "/images/_9_94_Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO_jpg_2880px-Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO.jpg",
+		"thumbnail": "/images/de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO_jpg_2880px-Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO.jpg",
 		"lat": 40.4,
 		"lon": -3,
 		"title": "Spain",

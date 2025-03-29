@@ -1,6 +1,17 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"id": "1",
+			"text": "In February 2024 I moved from New Zealand to Dili, the capital of Timor-Leste. I was there with my partner volunteering at local NGOs through Volunteer Service Abroad, a New Zealand organisation th… <small>[image from Jonty travels...]</small>",
+			"src": "https://i0.wp.com/jontynz.com/wp-content/uploads/2024/02/HKUV0767.jpg?resize=1200%2C880&ssl=1",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "First impressions of Timor-Leste",
+			"url": "https://jontynz.com/2024/03/01/first-impressions-of-timor-leste/amp/"
+		}
+	],
 	"places": {
 		"Dili": {
 			"lat": -8.55861111,
