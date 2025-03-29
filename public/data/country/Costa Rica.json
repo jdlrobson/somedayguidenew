@@ -66,6 +66,16 @@
 			"embed": false,
 			"title": "Crested quetzal",
 			"url": "https://en.wikipedia.org/wiki/Crested_quetzal"
+		},
+		{
+			"id": "8",
+			"text": "Catarata del Toro is one of Costa Rica's most gorgeous waterfalls. Get tips for visiting with our updated guide. <small>[image from Two Weeks in Costa Rica]</small>",
+			"src": "https://www.twoweeksincostarica.com/wp-content/uploads/2015/04/Catarata-del-Toro.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Catarata del Toro: A Hidden Gem in Costa Rica - Two Weeks in Costa Rica",
+			"url": "https://www.twoweeksincostarica.com/catarata-del-toro/"
 		}
 	],
 	"places": {

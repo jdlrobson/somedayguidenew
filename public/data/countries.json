@@ -180,7 +180,7 @@
 		"updated": "2025-03-15T18:37:31.422Z"
 	},
 	"Andorra": {
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_57_Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01_JPG_2560px-Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01.JPG",
+		"thumbnail": "/images/_5_57_Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01_JPG_2560px-Iglesia_de_San_Miguel_de_Engolasters,_Engolasters,_Andorra,_2013-12-30,_DD_01.JPG",
 		"lat": 42.5,
 		"lon": 1.5167,
 		"title": "Andorra",
@@ -459,7 +459,7 @@
 	},
 	"Armenia": {
 		"zoom": 6,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_9d_At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide_JPG_500px-At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG",
+		"thumbnail": "/images/_9_9d_At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide_JPG_500px-At_tsitsernakaberd_-_commemorating_96th_year_anniversary_of_the_Armenian_Genocide.JPG",
 		"lat": 40.1833,
 		"lon": 44.5167,
 		"title": "Armenia",
@@ -2860,10 +2860,10 @@
 			],
 			"currency": "CRC"
 		},
-		"snippets": 7,
+		"snippets": 8,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cartago%2C_costa_rica_-_panoramio.jpg",
-		"updated": "2025-03-16T01:34:01.555Z"
+		"updated": "2025-03-29T22:56:15.806Z"
 	},
 	"Côte d'Ivoire": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_34_Rond-point_Liberté_Adjamé_jpg_440px-Rond-point_Liberté_Adjamé.jpg",
@@ -4718,7 +4718,7 @@
 	"Georgia": {
 		"seen": 56,
 		"seenL": 23,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e6_Rustaveli_National_Theater_in_Georgia_(Europe),_built_19th_century_in_Rococo_style_jpg_600px-Rustaveli_National_Theater_in_Georgia_(Europe),_built_19th_century_in_Rococo_style.jpg",
+		"thumbnail": "/images/_e_e6_Rustaveli_National_Theater_in_Georgia_(Europe),_built_19th_century_in_Rococo_style_jpg_600px-Rustaveli_National_Theater_in_Georgia_(Europe),_built_19th_century_in_Rococo_style.jpg",
 		"lat": 42.3,
 		"lon": 43.6,
 		"title": "Georgia",
@@ -7000,7 +7000,7 @@
 	},
 	"Latvia": {
 		"zoom": 5,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0d_Mežs_2010_gada_28_augustā,_Tomes_pagasts,_Ķeguma_novads,_Latvia_-_panoramio_jpg_440px-Mežs_2010_gada_28_augustā,_Tomes_pagasts,_Ķeguma_novads,_Latvia_-_panoramio.jpg",
+		"thumbnail": "/images/_0_0d_Mežs_2010_gada_28_augustā,_Tomes_pagasts,_Ķeguma_novads,_Latvia_-_panoramio_jpg_440px-Mežs_2010_gada_28_augustā,_Tomes_pagasts,_Ķeguma_novads,_Latvia_-_panoramio.jpg",
 		"lat": 57,
 		"lon": 25,
 		"title": "Latvia",
@@ -11972,7 +11972,7 @@
 	"Spain": {
 		"seen": 2,
 		"seenL": 21,
-		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_94_Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO_jpg_2880px-Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO.jpg",
+		"thumbnail": "/images/_9_94_Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO_jpg_2880px-Alcázar_de_Segovia,_situado_en_la_Ciudad_vieja_de_Segovia__Patrimonio_Mundial_por_la_UNESCO.jpg",
 		"lat": 40.4,
 		"lon": -3,
 		"title": "Spain",
