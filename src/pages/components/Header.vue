@@ -87,13 +87,13 @@ const center = props.center || [ 0, 0 ];
 }
 .page-header h1 {
     font-weight: 700;
-    font-size: 1.9em;
+    font-size: 1.3em;
     font-family: sans-serif;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     margin: 2px 0 0;
-    padding-top: 4px;
+    padding: 4px 90px;
     text-transform: uppercase;
 }
 .page-header img.mapBtn {
