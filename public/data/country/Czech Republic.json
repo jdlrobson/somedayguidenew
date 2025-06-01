@@ -26,6 +26,16 @@
 			"embed": true
 		},
 		{
+			"id": "12",
+			"text": "Characteristics of the trail ",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Mutěnice Wine Trail",
+			"url": "https://www.vinazmoravyvinazcech.cz/en/news/4936488-mutenice-wine-trail"
+		},
+		{
 			"id": "2",
 			"src": "https://www.instagram.com/p/BxiSICPghrU",
 			"source": "",
@@ -783,15 +793,11 @@
 			"lat": 50.75,
 			"lon": 15.583333
 		},
-		"Litomysl": {},
 		"Mutenice Wine Region": {},
 		"Nové Město na Moravě": {
 			"lat": 49.56174,
 			"lon": 16.07411
 		},
-		"Mutěnice Wine Region": {
-			"lat": 48.90388,
-			"lon": 17.02881
-		}
+		"Litomyšl": {}
 	}
 }

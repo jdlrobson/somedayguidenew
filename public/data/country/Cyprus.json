@@ -10,6 +10,16 @@
 			"embed": false,
 			"title": "This Spectacular Salt Lake Was Once Part of an Ancient International Harbor",
 			"url": "https://www.atlasobscura.com/places/larnaca-salt-lake"
+		},
+		{
+			"id": "2",
+			"text": "The Akamas Peninsula National Park lies on the west coast of Cyprus, a truly pictorial part of the island.",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Akamas Peninsula National Park",
+			"url": "https://chooseyourcyprus.com/akamas-peninsula-national-park/"
 		}
 	],
 	"places": {
@@ -329,11 +339,10 @@
 			"lat": 34.9833,
 			"lon": 34
 		},
-		"Akamas Peninsula": {},
 		"Lefkara": {
 			"lat": 34.8667,
 			"lon": 33.3
 		},
-		"Kyrenia district": {}
+		"Kyrenia": {}
 	}
 }

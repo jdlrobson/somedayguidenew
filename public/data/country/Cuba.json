@@ -70,6 +70,26 @@
 			"embed": false,
 			"title": "Sancti Spíritus",
 			"url": "https://en.wikipedia.org/wiki/Sancti_Sp%C3%ADritus"
+		},
+		{
+			"id": "8",
+			"text": "Explore La Güira National Park in Cuba. Its amazing history with Ernesto Che Guevara and the breathtaking landscapes. Plan your visit today! <small>[image from Global National Parks]</small>",
+			"src": "https://www.globalnationalparks.com/wp-content/uploads/la-guira-national-park.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "La Güira National Park in Cuba: Refuge of Che Guevara",
+			"url": "https://www.globalnationalparks.com/cuba/la-guira/"
+		},
+		{
+			"id": "9",
+			"text": "<small>[from en.wikipedia.org]:</small> Varadero, also referred to as Playa Azul, is a resort town in the province of Matanzas, Cuba, and one of the largest resort areas in the Caribbean. Varadero Beach is rated one of the world's best beaches in TripAdvisor's Traveler's Choice Awards since 2019, ranking at number 9 as of January 2024. Common activities include fishing and excursions to Matanzas, Cárdenas, and the Península de Zapata.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Varadero_Cuba_%2840975990711%29.jpg/330px-Varadero_Cuba_%2840975990711%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Varadero",
+			"url": "https://en.wikipedia.org/wiki/Varadero"
 		}
 	],
 	"places": {
@@ -647,8 +667,6 @@
 			"lat": 21.82,
 			"lon": -84.4937
 		},
-		"Parque Nacional La Güira": {},
-		"Varadero Beach": {},
 		"Varadero": {
 			"lat": 23.139444,
 			"lon": -81.286111

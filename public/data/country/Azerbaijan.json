@@ -20,6 +20,16 @@
 			"embed": false,
 			"title": "Shaki, Azerbaijan",
 			"url": "https://en.wikipedia.org/wiki/Shaki,_Azerbaijan"
+		},
+		{
+			"id": "3",
+			"text": "<small>[from en.wikipedia.org]:</small> Khanegah on the Alinja River – is a tomb dated to between the 13th and 15th centuries and is located in the Khanegah village of Julfa District, Azerbaijan. The tomb is on the Alinja River.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%C6%8Flinc%C9%99%C3%A7ay_xan%C9%99gah%C4%B1_Nax%C3%A7%C4%B1van.jpg/330px-%C6%8Flinc%C9%99%C3%A7ay_xan%C9%99gah%C4%B1_Nax%C3%A7%C4%B1van.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Khanegah tomb",
+			"url": "https://en.wikipedia.org/wiki/Khanegah_tomb"
 		}
 	],
 	"places": {
@@ -959,8 +969,6 @@
 			"lat": 40.63027778,
 			"lon": 48.64138889
 		},
-		"Nakhchivan": {},
-		"Shemakha": {},
 		"Sumqayit": {
 			"lat": 40.5897222,
 			"lon": 49.6125
@@ -973,12 +981,10 @@
 			"lat": 41.762222,
 			"lon": 48.697778
 		},
-		"Nij": {},
 		"Göygöl": {
 			"lat": 40.5873,
 			"lon": 46.3201
 		},
-		"Shamkir": {},
 		"Naftalan": {
 			"lat": 40.505833,
 			"lon": 46.819167
@@ -986,6 +992,8 @@
 		"Baku Region": {
 			"lat": 40.4931,
 			"lon": 49.3
-		}
+		},
+		"Nij, Azerbaijan": {},
+		"Shamkir (city)": {}
 	}
 }

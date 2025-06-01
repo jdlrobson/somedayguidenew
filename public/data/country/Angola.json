@@ -20,6 +20,26 @@
 			"embed": false,
 			"title": "Field Trip: Saturday June 4th and 5th",
 			"url": "https://angolafieldgroup.com/2011/05/14/field-trip-saturday-june-4th-and-5th/"
+		},
+		{
+			"id": "3",
+			"text": "Explore Floresta do Mayombe: A National Forest Rich in Biodiversity and Natural Beauty in Angola. <small>[image from evendo.com]</small>",
+			"src": "https://media.evendo.com/locations-resized/AttractionImages/1920x466/384ffbcf-afdf-4ccf-b919-c9c50c60d2d9",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Discover the Lush Beauty of Floresta do Mayombe",
+			"url": "https://evendo.com/locations/angola/cabinda-exclave/attraction/floresta-do-mayombe"
+		},
+		{
+			"id": "4",
+			"text": "<small>[from en.wikipedia.org]:</small> The Black Rocks at Pungo Andongo are a set of extensive monolithic rock formations in Angola. Millions of years old, they stand out for their size in relation to the savanna landscape of the region. It is subdivided into Western, South, North and Southeast subsystems. The formation is an extension of the Cacuso Plateau.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Black_Stones_Pungo_Adongo.JPG/330px-Black_Stones_Pungo_Adongo.JPG",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Black Rocks at Pungo Andongo",
+			"url": "https://en.wikipedia.org/wiki/Black_Rocks_at_Pungo_Andongo"
 		}
 	],
 	"places": {
@@ -491,14 +511,11 @@
 			"lat": -6.26777778,
 			"lon": 14.24805556
 		},
-		"Malanj": {},
 		"Menongue": {},
-		"Namibe": {},
 		"Cangandala National Park": {
 			"lat": -9.8,
 			"lon": 16.75
 		},
-		"Floresta do Maiombe": {},
 		"Great Escarpment (Angola)": {
 			"lat": -14.9114,
 			"lon": 13.2819
@@ -515,6 +532,7 @@
 			"lat": -8.96376,
 			"lon": 13.05176
 		},
-		"Pungo Andongo": {}
+		"Malanje": {},
+		"Moçâmedes": {}
 	}
 }

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Varadero_Cuba_%2840975990711%29.jpg/330px-Varadero_Cuba_%2840975990711%29.jpg
+Varadero
+https://en.wikipedia.org/wiki/Varadero
+<small>[from en.wikipedia.org]:</small> Varadero, also referred to as Playa Azul, is a resort town in the province of Matanzas, Cuba, and one of the largest resort areas in the Caribbean. Varadero Beach is rated one of the world's best beaches in TripAdvisor's Traveler's Choice Awards since 2019, ranking at number 9 as of January 2024. Common activities include fishing and excursions to Matanzas, Cárdenas, and the Península de Zapata.
+<location lat="23.13944444" lon="-81.28611111"></location>

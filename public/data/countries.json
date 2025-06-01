@@ -250,16 +250,14 @@
 			"Huambo",
 			"Lobito",
 			"M'banza-Kongo",
-			"Malanj",
+			"Malanje",
 			"Menongue",
-			"Namibe",
+			"Moçâmedes",
 			"Cangandala National Park",
-			"Floresta do Maiombe",
 			"Great Escarpment (Angola)",
 			"Iona National Park",
 			"Kissama National Park",
-			"Mussulo Island",
-			"Pungo Andongo"
+			"Mussulo Island"
 		],
 		"wb": "Q916",
 		"neighbors": [
@@ -276,10 +274,10 @@
 				"Portuguese"
 			]
 		},
-		"snippets": 2,
+		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Namibia_Ruacana_Falls.jpg",
-		"updated": "2025-03-15T18:47:53.881Z"
+		"updated": "2025-06-01T18:03:54.777Z"
 	},
 	"Antigua and Barbuda": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8a_Hafen_von_St_John's_jpg_440px-Hafen_von_St_John's.jpg",
@@ -692,10 +690,9 @@
 			"Baku",
 			"Ganja",
 			"Lankaran",
-			"Nakhchivan",
 			"Qabala",
 			"Sheki",
-			"Shemakha",
+			"Shamakhi",
 			"Sumqayit",
 			"Qobustan",
 			"Göygöl National Park",
@@ -705,12 +702,11 @@
 			"Quba",
 			"Lahich",
 			"Qax",
-			"Nij",
+			"Nij, Azerbaijan",
 			"Göygöl",
-			"Shamkir",
+			"Shamkir (city)",
 			"Naftalan",
-			"Baku Region",
-			"Shamakhi"
+			"Baku Region"
 		],
 		"wb": "Q227",
 		"neighbors": [
@@ -727,9 +723,9 @@
 			],
 			"currency": "AZN"
 		},
-		"snippets": 2,
+		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG",
-		"updated": "2025-03-15T18:34:21.341Z"
+		"updated": "2025-06-01T18:03:54.778Z"
 	},
 	"Bahamas": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_Junkanoo_Valleyboys_NewYrs_parade_jpg_440px-Junkanoo_Valleyboys_NewYrs_parade.jpg",
@@ -2488,7 +2484,7 @@
 			],
 			"currency": "CNY"
 		},
-		"snippets": 45,
+		"snippets": 48,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG",
 		"updated": "2025-06-01T17:58:45.385Z"
@@ -3136,8 +3132,6 @@
 			"Isla de la Juventud",
 			"Jardines del Rey",
 			"Maria la Gorda",
-			"Parque Nacional La Güira",
-			"Varadero Beach",
 			"Viñales",
 			"Varadero"
 		],
@@ -3158,7 +3152,7 @@
 		"snippets": 8,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG",
-		"updated": "2025-03-16T01:25:56.137Z"
+		"updated": "2025-06-01T18:07:44.747Z"
 	},
 	"Cyprus": {
 		"seen": 8,
@@ -3232,9 +3226,8 @@
 			"Larnaca",
 			"Limassol",
 			"Paphos",
-			"Akamas Peninsula",
 			"Lefkara",
-			"Kyrenia district"
+			"Kyrenia"
 		],
 		"wb": "Q229",
 		"neighbors": [
@@ -3250,10 +3243,10 @@
 				"Greek"
 			]
 		},
-		"snippets": 1,
+		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG",
-		"updated": "2025-03-16T01:25:56.137Z"
+		"updated": "2025-06-01T18:07:40.094Z"
 	},
 	"Czech Republic": {
 		"zoom": 5,
@@ -3311,11 +3304,10 @@
 			"Bohemian Paradise",
 			"Karlštejn",
 			"Giant Mountains National Park",
-			"Litomysl",
+			"Litomyšl",
 			"Mariánské Lázně",
 			"Mutenice Wine Region",
-			"Nové Město na Moravě",
-			"Mutěnice Wine Region"
+			"Nové Město na Moravě"
 		],
 		"blogs": [
 			688,
@@ -3338,9 +3330,9 @@
 			],
 			"currency": "CZK"
 		},
-		"snippets": 15,
+		"snippets": 16,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_downtown_2..jpg",
-		"updated": "2025-03-16T01:32:43.299Z"
+		"updated": "2025-06-01T18:06:01.024Z"
 	},
 	"Denmark": {
 		"seen": 23,
@@ -3651,7 +3643,7 @@
 			"Baucau",
 			"Ermera",
 			"Gleno",
-			"Liquica",
+			"Liquiçá",
 			"Lospalos",
 			"Maliana",
 			"Suai",
