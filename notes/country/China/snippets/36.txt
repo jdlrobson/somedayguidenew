@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Leshan_giant_buddha.jpg/330px-Leshan_giant_buddha.jpg
+Leshan Giant Buddha
+https://en.wikipedia.org/wiki/Leshan_Giant_Buddha
+<small>[from en.wikipedia.org]:</small> The Leshan Giant Buddha is a 71-meter (233 ft) tall stone statue, built between 713 and 803. It is carved out of a cliff face of Cretaceous red bed sandstones that lies at the confluence of the Min River and Dadu River in the southern part of Sichuan Province in China, near the city of Leshan. The stone sculpture faces Mount Emei, with the rivers flowing below its feet. It is the largest and tallest stone Buddha statue in the world and it is by far the tallest pre-modern statue in the world. It is over 4 kilometers (2.5 mi) from the Wuyou Temple.
+<location lat="29.54472222" lon="103.77333333"></location>
