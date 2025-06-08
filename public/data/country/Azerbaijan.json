@@ -993,7 +993,13 @@
 			"lat": 40.4931,
 			"lon": 49.3
 		},
-		"Nij, Azerbaijan": {},
-		"Shamkir (city)": {}
+		"Nij, Azerbaijan": {
+			"lat": 40.945,
+			"lon": 47.66916667
+		},
+		"Shamkir (city)": {
+			"lat": 40.82972222,
+			"lon": 46.01888889
+		}
 	}
 }

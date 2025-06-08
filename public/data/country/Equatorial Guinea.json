@@ -158,12 +158,27 @@
 			"lat": 1.85,
 			"lon": 9.75
 		},
-		"Acalayong": {},
+		"Acalayong": {
+			"lat": 1.083,
+			"lon": 9.667
+		},
 		"Ebebiyin": {},
-		"Evinayong": {},
+		"Evinayong": {
+			"lat": 1.45,
+			"lon": 10.56666667
+		},
 		"Luba": {},
-		"Mbini": {},
-		"Mongomo": {},
-		"Monte Alén National Park": {}
+		"Mbini": {
+			"lat": 1.58333333,
+			"lon": 9.61666667
+		},
+		"Mongomo": {
+			"lat": 1.62870556,
+			"lon": 11.31683333
+		},
+		"Monte Alén National Park": {
+			"lat": 1.4786,
+			"lon": 10.1319
+		}
 	}
 }

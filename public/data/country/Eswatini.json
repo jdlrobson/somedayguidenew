@@ -158,14 +158,32 @@
 			"lat": -26.48333333,
 			"lon": 31.36666667
 		},
-		"Lobamba": {},
+		"Lobamba": {
+			"lat": -26.416667,
+			"lon": 31.166667
+		},
 		"Big Bend (Eswatini)": {},
 		"Nhlangano": {},
-		"Siteki": {},
-		"Mkhaya Game Reserve": {},
-		"Hlane Royal National Park": {},
-		"Malolotja Nature Reserve": {},
-		"Mantenga Nature Reserve": {},
+		"Siteki": {
+			"lat": -26.45,
+			"lon": 31.95
+		},
+		"Mkhaya Game Reserve": {
+			"lat": -26.625,
+			"lon": 31.7375
+		},
+		"Hlane Royal National Park": {
+			"lat": -26.25,
+			"lon": 31.88
+		},
+		"Malolotja Nature Reserve": {
+			"lat": -26.098,
+			"lon": 31.099
+		},
+		"Mantenga Nature Reserve": {
+			"lat": -26.41272,
+			"lon": 31.132292
+		},
 		"Mlilwane Game Reserve": {}
 	}
 }

@@ -40,6 +40,26 @@
 			"embed": false,
 			"title": "The Ultimate Guide To Red Sea Snorkeling: Saudi, Egypt, Jordan and Israel - Adventure Travel Family",
 			"url": "https://adventuretravelfamily.com/you-havent-been-snorkeling-until-youve-been-in-the-red-sea/"
+		},
+		{
+			"id": "5",
+			"text": "<small>[from en.wikipedia.org]:</small> The pyramid of Djoser, sometimes called the Step Pyramid of Djoser or Step Pyramid of Horus Netjerikhet, is an archaeological site in the Saqqara necropolis, Egypt, northwest of the ruins of Memphis. It is the first Egyptian pyramid to be built. The 6-tier, 4-sided structure is the earliest colossal stone building in Egypt. It was built in the 27th century BC during the Third Dynasty for the burial of Pharaoh Djoser. The pyramid is the central feature of a vast mortuary complex in an enormous courtyard surrounded by ceremonial structures and decoration.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/330px-Saqqara_pyramid_ver_2.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Pyramid of Djoser",
+			"url": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser"
+		},
+		{
+			"id": "6",
+			"text": "<small>[from en.wikipedia.org]:</small> The Valley of the Kings, also known as the Valley of the Gates of the Kings, is an area in Egypt where, for a period of nearly 500 years from the Eighteenth Dynasty to the Twentieth Dynasty, rock-cut tombs were excavated for pharaohs and powerful nobles under the New Kingdom of ancient Egypt.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Valley of the Kings",
+			"url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
 		}
 	],
 	"places": {
@@ -745,84 +765,6 @@
 			"lat": 29.1833,
 			"lon": 25.55
 		},
-		"Sharm el-Sheikh": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 0.5,
-					"high": 22,
-					"low": 13
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 0.2,
-					"high": 22,
-					"low": 14
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 1.2,
-					"high": 25,
-					"low": 16
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 0.2,
-					"high": 30,
-					"low": 20
-				},
-				{
-					"heading": "May",
-					"precipitation": 0.5,
-					"high": 34,
-					"low": 24
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 0,
-					"high": 37,
-					"low": 27
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 38,
-					"low": 27
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 38,
-					"low": 28
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 0,
-					"high": 35,
-					"low": 27
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 0.8,
-					"high": 32,
-					"low": 23
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 3.3,
-					"high": 27,
-					"low": 19
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 0.5,
-					"high": 23,
-					"low": 15
-				}
-			],
-			"lat": 27.912222,
-			"lon": 34.329722
-		},
 		"Marsa Matruh": {
 			"climate": [
 				{
@@ -901,18 +843,29 @@
 			"lat": 31.35,
 			"lon": 27.25
 		},
-		"Sharm el Sheikh": {},
-		"El Quseir": {},
-		"Karnak": {},
-		"Memphis (Egypt)": {},
-		"Saqqara": {},
-		"St. Katherine": {},
-		"Taba Heights": {},
-		"Valley of the Kings": {},
-		"Israel": {},
-		"Libya": {},
-		"Sudan": {},
-		"Bi'r Tawil": {},
-		"Mount_Sinai": {}
+		"Karnak": {
+			"lat": 25.71833333,
+			"lon": 32.65833333
+		},
+		"El Qoseir": {
+			"lat": 26.10388889,
+			"lon": 34.28111111
+		},
+		"Memphis, Egypt": {
+			"lat": 29.84472222,
+			"lon": 31.25083333
+		},
+		"Saint Catherine, Egypt": {
+			"lat": 28.564377,
+			"lon": 33.95243
+		},
+		"Taba, Egypt": {
+			"lat": 29.49166667,
+			"lon": 34.89444444
+		},
+		"Sharm El Sheikh": {
+			"lat": 27.915,
+			"lon": 34.3275
+		}
 	}
 }

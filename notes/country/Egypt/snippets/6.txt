@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg
+Valley of the Kings
+https://en.wikipedia.org/wiki/Valley_of_the_Kings
+<small>[from en.wikipedia.org]:</small> The Valley of the Kings, also known as the Valley of the Gates of the Kings, is an area in Egypt where, for a period of nearly 500 years from the Eighteenth Dynasty to the Twentieth Dynasty, rock-cut tombs were excavated for pharaohs and powerful nobles under the New Kingdom of ancient Egypt.
+<location lat="25.74083333" lon="32.60222222"></location>

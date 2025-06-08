@@ -277,7 +277,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Namibia_Ruacana_Falls.jpg",
-		"updated": "2025-06-01T18:03:54.777Z"
+		"updated": "2025-06-08T17:23:46.730Z"
 	},
 	"Antigua and Barbuda": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8a_Hafen_von_St_John's_jpg_440px-Hafen_von_St_John's.jpg",
@@ -725,7 +725,7 @@
 		},
 		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG",
-		"updated": "2025-06-01T18:03:54.778Z"
+		"updated": "2025-06-08T17:23:46.734Z"
 	},
 	"Bahamas": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bf_Junkanoo_Valleyboys_NewYrs_parade_jpg_440px-Junkanoo_Valleyboys_NewYrs_parade.jpg",
@@ -2881,7 +2881,7 @@
 			"Yamoussoukro",
 			"Grand-Bassam",
 			"Taï National Park",
-			"Comoe National Park"
+			"Comoé National Park"
 		],
 		"wb": "Q1008",
 		"neighbors": [
@@ -3149,7 +3149,7 @@
 			],
 			"currency": "CUP"
 		},
-		"snippets": 8,
+		"snippets": 10,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Statue_du_Che_%C3%A0_Santa_Clara%2C_Cuba.JPG",
 		"updated": "2025-06-01T18:07:44.747Z"
@@ -3246,7 +3246,7 @@
 		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cyprus_Ledra_Street_checkpoint_IMG_6675.JPG",
-		"updated": "2025-06-01T18:07:40.094Z"
+		"updated": "2025-06-08T17:23:46.749Z"
 	},
 	"Czech Republic": {
 		"zoom": 5,
@@ -3332,7 +3332,7 @@
 		},
 		"snippets": 16,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_downtown_2..jpg",
-		"updated": "2025-06-01T18:06:01.024Z"
+		"updated": "2025-06-08T17:23:46.749Z"
 	},
 	"Denmark": {
 		"seen": 23,
@@ -3666,7 +3666,7 @@
 		},
 		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Overhead_Manatuto_11_Oct_09.jpg",
-		"updated": "2025-03-29T23:05:09.114Z"
+		"updated": "2025-06-08T17:23:46.750Z"
 	},
 	"Ecuador": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_33_EC_Cotopaxi_NRouteISlope_2012_jpg_440px-EC_Cotopaxi_NRouteISlope_2012.jpg",
@@ -3705,20 +3705,19 @@
 			"Guamote",
 			"Guaranda",
 			"Mindo",
-			"Montanita",
+			"Montañita",
 			"Puerto López",
 			"Puyo",
-			"Quilotoa Loop",
 			"Salinas (Ecuador)",
 			"Tena",
 			"Vilcabamba",
 			"Cuyabeno Wildlife Reserve",
 			"Cotopaxi",
-			"Parque Nacional Cajas",
+			"El Cajas National Park",
 			"Podocarpus National Park",
 			"Sangay National Park",
-			"Yasuni National Park",
-			"Coca (Ecuador)",
+			"Yasuní National Park",
+			"Puerto Francisco de Orellana",
 			"Nuevo Rocafuerte"
 		],
 		"wb": "Q736",
@@ -3736,10 +3735,10 @@
 				"Shuar"
 			]
 		},
-		"snippets": 3,
+		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:EC_Cotopaxi_NRouteISlope_2012.jpg",
-		"updated": "2025-03-16T01:41:44.037Z"
+		"updated": "2025-06-08T17:33:03.852Z"
 	},
 	"Egypt": {
 		"seen": 24,
@@ -3801,23 +3800,15 @@
 			"Hurghada",
 			"Luxor",
 			"Port Said",
-			"Sharm el Sheikh",
-			"El Quseir",
+			"El Qoseir",
 			"Abu Simbel",
 			"Dahab",
 			"Karnak",
-			"Memphis (Egypt)",
-			"Saqqara",
+			"Memphis, Egypt",
 			"Siwa",
-			"St. Katherine",
-			"Taba Heights",
-			"Valley of the Kings",
-			"Israel",
-			"Libya",
-			"Sudan",
-			"Bi'r Tawil",
-			"Sharm el-Sheikh",
-			"Mount_Sinai",
+			"Saint Catherine, Egypt",
+			"Taba, Egypt",
+			"Sharm El Sheikh",
 			"Marsa Matruh"
 		],
 		"wb": "Q79",
@@ -3834,10 +3825,10 @@
 			],
 			"currency": "EGP"
 		},
-		"snippets": 5,
+		"snippets": 7,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg",
-		"updated": "2025-03-15T17:57:14.093Z"
+		"updated": "2025-06-08T17:33:03.852Z"
 	},
 	"El Salvador": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_ab_Sanandrezpyramid_jpg_600px-Sanandrezpyramid.jpg",
@@ -3906,7 +3897,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sanandrezpyramid.jpg",
-		"updated": "2025-03-15T17:57:14.093Z"
+		"updated": "2025-06-08T17:32:45.097Z"
 	},
 	"Equatorial Guinea": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0d_Santa_Isabel_Malabo_20131224_140204_jpg_440px-Santa_Isabel_Malabo_20131224_140204.jpg",
@@ -3947,7 +3938,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Santa_Isabel_Malabo_20131224_140204.jpg",
-		"updated": "2025-03-15T17:57:17.412Z"
+		"updated": "2025-06-08T17:32:45.098Z"
 	},
 	"Eritrea": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_45_Asmara_street_jpg_600px-Asmara_street.jpg",
@@ -3989,7 +3980,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Asmara_street.jpg",
-		"updated": "2025-03-15T17:57:17.413Z"
+		"updated": "2025-06-08T17:32:45.098Z"
 	},
 	"Estonia": {
 		"zoom": 5,
@@ -4117,7 +4108,7 @@
 		},
 		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg",
-		"updated": "2025-03-15T17:57:17.413Z"
+		"updated": "2025-06-08T17:34:11.012Z"
 	},
 	"Eswatini": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_b_bc_De_kok_aan_het_werk,_maispuree_(pap)_op_het_menu_vanavond_(6336544806).jpg",
@@ -4164,7 +4155,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:De_kok_aan_het_werk%2C_maispuree_%28pap%29_op_het_menu_vanavond_%286336544806%29.jpg",
-		"updated": "2025-03-15T17:33:09.425Z"
+		"updated": "2025-06-08T17:34:11.013Z"
 	},
 	"Ethiopia": {
 		"thumbnail": "/images/kipedia_commons_thumb_3_34_Musée_national_d'Ethiopie-Trône_de_Hailé_Sélassié_jpg_440px-Musée_national_d'Ethiopie-Trône_de_Hailé_Sélassié.jpg",

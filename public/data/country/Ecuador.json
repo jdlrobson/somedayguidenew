@@ -30,6 +30,16 @@
 			"embed": false,
 			"title": "Category:Galápagos Islands - Wikimedia Commons",
 			"url": "https://commons.wikimedia.org/wiki/Category:Gal%C3%A1pagos_Islands"
+		},
+		{
+			"id": "4",
+			"text": "From volcanic crater lakes to unspoilt indigenous villages, this 35 kilometre hike provides an insight into Andean nature and culture... <small>[image from Much Better Adventures Magazine]</small>",
+			"src": "https://www.muchbetteradventures.com/magazine/content/images/2024/01/quilotoa-crater-lake-1.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "The 35km Hike Through the Remote Ecuadorian Andes",
+			"url": "https://www.muchbetteradventures.com/magazine/quilotoa-loop-guide/"
 		}
 	],
 	"places": {
@@ -541,7 +551,6 @@
 			"lat": -0.0333,
 			"lon": -78.8
 		},
-		"Montanita": {},
 		"Puerto López": {
 			"lat": -1.56666667,
 			"lon": -80.81666667
@@ -550,7 +559,6 @@
 			"lat": -1.494,
 			"lon": -77.997
 		},
-		"Quilotoa Loop": {},
 		"Tena": {
 			"lat": -0.989,
 			"lon": -77.8159
@@ -567,7 +575,6 @@
 			"lat": -0.68055556,
 			"lon": -78.43777778
 		},
-		"Parque Nacional Cajas": {},
 		"Podocarpus National Park": {
 			"lat": -4.28333333,
 			"lon": -79
@@ -576,11 +583,25 @@
 			"lat": -1.83333333,
 			"lon": -78.33333333
 		},
-		"Yasuni National Park": {},
-		"Coca (Ecuador)": {},
 		"Nuevo Rocafuerte": {
 			"lat": -0.93,
 			"lon": -75.4
+		},
+		"Montañita": {
+			"lat": -1.8333,
+			"lon": -80.75
+		},
+		"El Cajas National Park": {
+			"lat": -2.84611111,
+			"lon": -79.22027778
+		},
+		"Yasuní National Park": {
+			"lat": -1.08333333,
+			"lon": -75.91666667
+		},
+		"Puerto Francisco de Orellana": {
+			"lat": -0.4625,
+			"lon": -76.98416667
 		}
 	}
 }

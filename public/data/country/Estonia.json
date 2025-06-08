@@ -731,17 +731,53 @@
 			"lat": 58.13,
 			"lon": 23.99
 		},
-		"Rakvere": {},
-		"Haapsalu": {},
-		"Lahemaa National Park": {},
-		"Soomaa National Park": {},
-		"Vilsandi National Park": {},
-		"Karula National Park": {},
-		"South Estonia": {},
-		"Otepää": {},
-		"Saaremaa": {},
-		"Muhu": {},
-		"Ruhnu": {},
-		"Vormsi": {}
+		"Rakvere": {
+			"lat": 59.35,
+			"lon": 26.35
+		},
+		"Haapsalu": {
+			"lat": 58.9394,
+			"lon": 23.5408
+		},
+		"Lahemaa National Park": {
+			"lat": 59.5711,
+			"lon": 25.8003
+		},
+		"Soomaa National Park": {
+			"lat": 58.4408,
+			"lon": 25.1056
+		},
+		"Vilsandi National Park": {
+			"lat": 58.35599,
+			"lon": 21.93489
+		},
+		"Karula National Park": {
+			"lat": 57.7144,
+			"lon": 26.4867
+		},
+		"South Estonia": {
+			"lat": 58.13592,
+			"lon": 26.43311
+		},
+		"Otepää": {
+			"lat": 58.05,
+			"lon": 26.5
+		},
+		"Saaremaa": {
+			"lat": 58.33,
+			"lon": 22.65
+		},
+		"Muhu": {
+			"lat": 58.6,
+			"lon": 23.25
+		},
+		"Ruhnu": {
+			"lat": 57.8,
+			"lon": 23.25
+		},
+		"Vormsi": {
+			"lat": 59,
+			"lon": 23.2167
+		}
 	}
 }

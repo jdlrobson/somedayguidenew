@@ -158,12 +158,30 @@
 			"lat": 13.9833333,
 			"lon": -89.5333333
 		},
-		"La Libertad": {},
-		"San Francisco Gotera": {},
-		"San Miguel (El Salvador)": {},
-		"Santa Tecla": {},
-		"Suchitoto": {},
-		"El Pital": {},
+		"La Libertad": {
+			"lat": 13.483,
+			"lon": -89.32
+		},
+		"San Francisco Gotera": {
+			"lat": 13.7,
+			"lon": -88.1
+		},
+		"San Miguel (El Salvador)": {
+			"lat": 13.4667,
+			"lon": -88.1833
+		},
+		"Santa Tecla": {
+			"lat": 13.6742,
+			"lon": -89.2899
+		},
+		"Suchitoto": {
+			"lat": 13.9333,
+			"lon": -89.0333
+		},
+		"El Pital": {
+			"lat": 14.38,
+			"lon": -89.12
+		},
 		"Parque Nacional Cerro Verde": {},
 		"Parque Nacional El Imposible": {}
 	}

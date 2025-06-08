@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/330px-Saqqara_pyramid_ver_2.jpg
+Pyramid of Djoser
+https://en.wikipedia.org/wiki/Pyramid_of_Djoser
+<small>[from en.wikipedia.org]:</small> The pyramid of Djoser, sometimes called the Step Pyramid of Djoser or Step Pyramid of Horus Netjerikhet, is an archaeological site in the Saqqara necropolis, Egypt, northwest of the ruins of Memphis. It is the first Egyptian pyramid to be built. The 6-tier, 4-sided structure is the earliest colossal stone building in Egypt. It was built in the 27th century BC during the Third Dynasty for the burial of Pharaoh Djoser. The pyramid is the central feature of a vast mortuary complex in an enormous courtyard surrounded by ceremonial structures and decoration.
+<location lat="29.87111111" lon="31.21666667"></location>

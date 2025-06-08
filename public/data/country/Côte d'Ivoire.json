@@ -415,7 +415,10 @@
 			"lat": 5.75,
 			"lon": -7.12
 		},
-		"Comoe National Park": {},
-		"San-Pédro, Ivory Coast": {}
+		"San-Pédro, Ivory Coast": {
+			"lat": 4.75,
+			"lon": -6.633333
+		},
+		"Comoé National Park": {}
 	}
 }

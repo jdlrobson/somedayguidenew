@@ -314,10 +314,22 @@
 			"lat": 16.6667,
 			"lon": 38.4667
 		},
-		"Teseney": {},
-		"Assab": {},
-		"Dahlak Archipelago": {},
-		"Debre Bizen": {},
+		"Teseney": {
+			"lat": 15.11,
+			"lon": 36.6575
+		},
+		"Assab": {
+			"lat": 13.01666667,
+			"lon": 42.73333333
+		},
+		"Dahlak Archipelago": {
+			"lat": 15.83333333,
+			"lon": 40.2
+		},
+		"Debre Bizen": {
+			"lat": 15.33333333,
+			"lon": 39.08333333
+		},
 		"Debre Sina": {},
 		"Matara (Eritrea)": {}
 	}
