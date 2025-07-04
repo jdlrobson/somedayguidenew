@@ -80,21 +80,60 @@
 			"lat": 13.45805556,
 			"lon": -16.57861111
 		},
-		"Basse Santa Su": {},
-		"Bintang": {},
-		"Brikama": {},
-		"Brufut": {},
-		"Gunjur": {},
-		"Janjanbureh": {},
-		"Juffureh": {},
+		"Basse Santa Su": {
+			"lat": 13.31666667,
+			"lon": -14.21666667
+		},
+		"Bintang": {
+			"lat": 13.25,
+			"lon": -16.2167
+		},
+		"Brikama": {
+			"lat": 13.27,
+			"lon": -16.65
+		},
+		"Brufut": {
+			"lat": 13.3833,
+			"lon": -16.75
+		},
+		"Gunjur": {
+			"lat": 13.17577,
+			"lon": -16.75913
+		},
+		"Janjanbureh": {
+			"lat": 13.53413056,
+			"lon": -14.76615278
+		},
+		"Juffureh": {
+			"lat": 13.338611,
+			"lon": -16.3825
+		},
 		"Kartong": {},
-		"Serekunda": {},
-		"Tanji": {},
-		"Yundum": {},
-		"Abuko Nature Reserve": {},
+		"Serekunda": {
+			"lat": 13.439,
+			"lon": -16.6766
+		},
+		"Tanji": {
+			"lat": 13.35,
+			"lon": -16.7833
+		},
+		"Yundum": {
+			"lat": 13.3339,
+			"lon": -16.6692
+		},
+		"Abuko Nature Reserve": {
+			"lat": 13.39583333,
+			"lon": -16.64555556
+		},
 		"Bao Bolon Wetland Reserve": {},
-		"Kunta Kinteh Island": {},
+		"Kunta Kinteh Island": {
+			"lat": 13.31713,
+			"lon": -16.36165
+		},
 		"Makasutu Cultural Forest": {},
-		"Senegal": {}
+		"Senegal": {
+			"lat": 14.6667,
+			"lon": -14.5167
+		}
 	}
 }

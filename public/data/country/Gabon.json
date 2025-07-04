@@ -80,17 +80,53 @@
 			"lat": 0.39027778,
 			"lon": 9.45416667
 		},
-		"Franceville": {},
-		"Gamba": {},
-		"Mayumba": {},
-		"Port-Gentil": {},
-		"Akanda National Park": {},
-		"Batéké Plateau National Park": {},
-		"Crystal Mountains National Park": {},
-		"Ivindo National Park": {},
-		"Loango National Park": {},
-		"Lopé National Park": {},
-		"Mayumba National Park": {},
-		"Minkebe National Park": {}
+		"Franceville": {
+			"lat": -1.6333,
+			"lon": 13.5833
+		},
+		"Gamba": {
+			"lat": -2.725,
+			"lon": 10.01666667
+		},
+		"Mayumba": {
+			"lat": -3.41666667,
+			"lon": 10.65
+		},
+		"Port-Gentil": {
+			"lat": -0.716667,
+			"lon": 8.783333
+		},
+		"Akanda National Park": {
+			"lat": 0.61666667,
+			"lon": 9.55
+		},
+		"Batéké Plateau National Park": {
+			"lat": -2.188,
+			"lon": 14.02
+		},
+		"Crystal Mountains National Park": {
+			"lat": 0.805,
+			"lon": 10.16
+		},
+		"Ivindo National Park": {
+			"lat": 0.12,
+			"lon": 12.65
+		},
+		"Loango National Park": {
+			"lat": -2.166667,
+			"lon": 9.566667
+		},
+		"Lopé National Park": {
+			"lat": -0.5253,
+			"lon": 11.5428
+		},
+		"Mayumba National Park": {
+			"lat": -3.8,
+			"lon": 11.0125
+		},
+		"Minkébé National Park": {
+			"lat": 1.67977222,
+			"lon": 12.75950278
+		}
 	}
 }

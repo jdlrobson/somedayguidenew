@@ -159,15 +159,39 @@
 			"lon": -9.3
 		},
 		"Beyla": {},
-		"Dalaba": {},
-		"Faranah": {},
-		"Forécariah": {},
-		"Kindia": {},
-		"Labé": {},
-		"Mamou": {},
+		"Dalaba": {
+			"lat": 10.691667,
+			"lon": -12.25
+		},
+		"Faranah": {
+			"lat": 10.03333333,
+			"lon": -10.73333333
+		},
+		"Forécariah": {
+			"lat": 9.43333333,
+			"lon": -13.08333333
+		},
+		"Kindia": {
+			"lat": 10.049722,
+			"lon": -12.854167
+		},
+		"Labé": {
+			"lat": 11.3167,
+			"lon": -12.2833
+		},
+		"Mamou": {
+			"lat": 10.38333333,
+			"lon": -12.08333333
+		},
 		"Fouta Djalon": {},
-		"Loos Islands": {},
+		"Loos Islands": {
+			"lat": 9.4769,
+			"lon": -13.7855
+		},
 		"National Park of the Niokolo-Badiar": {},
-		"National Park of the Upper Niger": {}
+		"National Park of the Upper Niger": {
+			"lat": 10.5,
+			"lon": -10.2
+		}
 	}
 }

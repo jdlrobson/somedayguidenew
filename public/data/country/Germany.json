@@ -1444,20 +1444,29 @@
 			"lat": 47.98777778,
 			"lon": 10.18111111
 		},
-		"Baltic Sea Coast (Germany)": {},
-		"Bavarian Alps": {},
-		"East Frisian Islands": {},
-		"Franconian Switzerland": {},
-		"France": {
-			"lat": 47,
-			"lon": 2
+		"Baltic Sea Coast (Germany)": {
+			"lat": 54.12,
+			"lon": 12.14
 		},
-		"Belgium": {},
-		"Austria": {},
-		"Cruising the Baltic Sea": {},
-		"Heppenheim": {},
-		"Bensheim": {},
-		"Schwetzingen": {},
-		"Lübeck": {}
+		"Bavarian Alps": {
+			"lat": 47.64,
+			"lon": 11.77
+		},
+		"East Frisian Islands": {
+			"lat": 53.7333,
+			"lon": 7.4167
+		},
+		"Bensheim": {
+			"lat": 49.6667,
+			"lon": 8.6167
+		},
+		"Schwetzingen": {
+			"lat": 49.3833,
+			"lon": 8.5667
+		},
+		"Lübeck": {
+			"lat": 53.869722,
+			"lon": 10.686389
+		}
 	}
 }

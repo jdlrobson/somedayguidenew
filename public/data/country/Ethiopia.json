@@ -40,6 +40,16 @@
 			"embed": false,
 			"title": "The ever-changing scenery of northern Ethiopia",
 			"url": "https://www.happydaystravelblog.com/the-ever-changing-scenery-of-northern-ethiopia/"
+		},
+		{
+			"id": "5",
+			"text": "The most interesting relic of Gorgora’s former days as a short-lived capital is the attractive Debre Sina church. Built in 1608 by Emperor Susenyos’ son…",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Church of Debre Sina | Attractions - Lonely Planet",
+			"url": "https://www.lonelyplanet.com/ethiopia/gorgora/attractions/church-of-debre-sina/a/poi-sig/1423744/1337186"
 		}
 	],
 	"places": {
@@ -745,13 +755,37 @@
 			"lat": 14.2417,
 			"lon": 40.3
 		},
-		"Adama": {},
-		"Lalibela": {},
-		"Abijatta Shalla Lakes National Park": {},
-		"Awash National Park": {},
-		"Mago National Park": {},
-		"Omo National Park": {},
-		"Sodere": {},
-		"Konso": {}
+		"Adama": {
+			"lat": 8.55,
+			"lon": 39.26666667
+		},
+		"Lalibela": {
+			"lat": 12.0333,
+			"lon": 39.0333
+		},
+		"Abijatta Shalla Lakes National Park": {
+			"lat": 7.5,
+			"lon": 38.5
+		},
+		"Awash National Park": {
+			"lat": 9,
+			"lon": 40
+		},
+		"Mago National Park": {
+			"lat": 5.6667,
+			"lon": 36.1667
+		},
+		"Omo National Park": {
+			"lat": 6,
+			"lon": 35.8333
+		},
+		"Sodere": {
+			"lat": 8.4,
+			"lon": 39.3833
+		},
+		"Konso": {
+			"lat": 5.25,
+			"lon": 37.4833
+		}
 	}
 }

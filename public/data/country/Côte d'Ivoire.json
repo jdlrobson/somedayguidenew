@@ -419,6 +419,9 @@
 			"lat": 4.75,
 			"lon": -6.633333
 		},
-		"Comoé National Park": {}
+		"Comoé National Park": {
+			"lat": 9.13,
+			"lon": -3.71
+		}
 	}
 }

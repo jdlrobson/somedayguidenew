@@ -559,12 +559,30 @@
 			"lat": 5.66666667,
 			"lon": 0
 		},
-		"Obuasi": {},
-		"Sekondi-Takoradi": {},
-		"Boti Falls": {},
-		"Kakum National Park": {},
-		"Mole National Park": {},
-		"Paga": {},
+		"Obuasi": {
+			"lat": 6.2,
+			"lon": -1.68333333
+		},
+		"Sekondi-Takoradi": {
+			"lat": 4.916667,
+			"lon": -1.766667
+		},
+		"Boti Falls": {
+			"lat": 6.19295,
+			"lon": -0.21875
+		},
+		"Kakum National Park": {
+			"lat": 5.4167,
+			"lon": -1.3167
+		},
+		"Mole National Park": {
+			"lat": 9.7,
+			"lon": -1.8333
+		},
+		"Paga": {
+			"lat": 10.992222,
+			"lon": -1.113333
+		},
 		"Shai Hills Reserve": {},
 		"Wli Falls": {}
 	}

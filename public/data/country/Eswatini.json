@@ -162,8 +162,10 @@
 			"lat": -26.416667,
 			"lon": 31.166667
 		},
-		"Big Bend (Eswatini)": {},
-		"Nhlangano": {},
+		"Nhlangano": {
+			"lat": -27.116667,
+			"lon": 31.2
+		},
 		"Siteki": {
 			"lat": -26.45,
 			"lon": 31.95
@@ -184,6 +186,13 @@
 			"lat": -26.41272,
 			"lon": 31.132292
 		},
-		"Mlilwane Game Reserve": {}
+		"Big Bend, Eswatini": {
+			"lat": -26.81666667,
+			"lon": 31.93333333
+		},
+		"Mlilwane Wildlife Sanctuary": {
+			"lat": -26.497827,
+			"lon": 31.185724
+		}
 	}
 }

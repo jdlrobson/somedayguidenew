@@ -56,6 +56,16 @@
 			"embed": false,
 			"title": "Arusha National Park",
 			"url": "https://en.wikipedia.org/wiki/Arusha_National_Park"
+		},
+		{
+			"id": "7",
+			"text": "Nyakazu Break – Explore Nyakazu Break, a spectacular nature break off the coast of Japan, perfect for both adventure and relaxation. <small>[image from Awe-Inspiring Places]</small>",
+			"src": "https://awe-inspiringplaces.com/wp-content/uploads/2024/01/Nyakazu-Break.jpeg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Nyakazu Break",
+			"url": "https://awe-inspiringplaces.com/nyakazu-break/"
 		}
 	],
 	"places": {

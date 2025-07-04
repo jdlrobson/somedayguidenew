@@ -84,112 +84,13 @@
 		}
 	],
 	"places": {
-		"Grenada (island)": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"high": 28.3,
-					"low": 23.8,
-					"precipitation": 47.75
-				},
-				{
-					"heading": "Feb",
-					"high": 28.8,
-					"low": 23.8,
-					"precipitation": 44.45
-				},
-				{
-					"heading": "Mar",
-					"high": 29.4,
-					"low": 24.4,
-					"precipitation": 24.38
-				},
-				{
-					"heading": "Apr",
-					"high": 30,
-					"low": 25.5,
-					"precipitation": 16.26
-				},
-				{
-					"heading": "May",
-					"high": 30,
-					"low": 26.6,
-					"precipitation": 55.37
-				},
-				{
-					"heading": "Jun",
-					"high": 29.4,
-					"low": 25.5,
-					"precipitation": 143.76
-				},
-				{
-					"heading": "Jul",
-					"high": 28.8,
-					"low": 25.5,
-					"precipitation": 228.34
-				},
-				{
-					"heading": "Aug",
-					"high": 29.4,
-					"low": 25.5,
-					"precipitation": 293.12
-				},
-				{
-					"heading": "Sep",
-					"high": 30,
-					"low": 25.5,
-					"precipitation": 273.3
-				},
-				{
-					"heading": "Oct",
-					"high": 29.4,
-					"low": 25.5,
-					"precipitation": 181.86
-				},
-				{
-					"heading": "Nov",
-					"high": 28.8,
-					"low": 25,
-					"precipitation": 87.38
-				},
-				{
-					"heading": "Dec",
-					"high": 28.8,
-					"low": 24.4,
-					"precipitation": 54.61
-				}
-			],
-			"lat": 12.128611,
-			"lon": -61.686944
+		"Hillsborough, Carriacou": {
+			"lat": 12.48333333,
+			"lon": -61.46666667
 		},
-		"Carriacou": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": null,
-					"high": null,
-					"low": null
-				},
-				{
-					"heading": "Feb",
-					"precipitation": null,
-					"high": null,
-					"low": null
-				},
-				{
-					"heading": "Mar",
-					"precipitation": null,
-					"high": null,
-					"low": null
-				}
-			],
-			"lat": 12.46666667,
-			"lon": -61.45
-		},
-		"Hillsborough (Grenada)": {},
-		"Petit Martinique": {},
-		"Grand Anse Bay": {},
-		"Sauteurs": {},
-		"Grenville": {}
+		"Petite Martinique": {
+			"lat": 12.518,
+			"lon": -61.385
+		}
 	}
 }

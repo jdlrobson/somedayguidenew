@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/330px-Mont-Saint-Michel_vu_du_ciel.jpg
+Mont-Saint-Michel
+https://en.wikipedia.org/wiki/Mont-Saint-Michel
+<small>[from en.wikipedia.org]:</small> Mont-Saint-Michel is a tidal island and mainland commune in Normandy, France.
+<location lat="48.636" lon="-1.511"></location>

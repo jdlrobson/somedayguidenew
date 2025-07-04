@@ -1383,11 +1383,29 @@
 			"lat": 39.21044,
 			"lon": 23.91483
 		},
-		"Chersonissos": {},
-		"Ithaca (Greece)": {},
-		"Meteora": {},
-		"Mount Athos": {},
-		"Hydra": {},
-		"Peloponnese": {}
+		"Chersonissos": {
+			"lat": 35.31666667,
+			"lon": 25.39
+		},
+		"Ithaca (Greece)": {
+			"lat": 38.3667,
+			"lon": 20.7167
+		},
+		"Meteora": {
+			"lat": 39.714167,
+			"lon": 21.631111
+		},
+		"Mount Athos": {
+			"lat": 40.15722222,
+			"lon": 24.32638889
+		},
+		"Hydra": {
+			"lat": 37.35,
+			"lon": 23.46666667
+		},
+		"Peloponnese": {
+			"lat": 37.349722,
+			"lon": 22.352222
+		}
 	}
 }

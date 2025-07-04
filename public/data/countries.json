@@ -1797,7 +1797,6 @@
 			"Ngozi",
 			"Bururi Forest Natural Reserve",
 			"Kibira National Park",
-			"Nyakazu Break and the Karera Falls",
 			"Rusizi Natural Reserve",
 			"Ruvubu National Park",
 			"Rwihinda Lake Natural Reserve",
@@ -1819,10 +1818,10 @@
 			],
 			"currency": "BIF"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg",
-		"updated": "2025-03-15T18:41:09.726Z"
+		"updated": "2025-07-04T05:27:29.618Z"
 	},
 	"Cambodia": {
 		"zoom": 5,
@@ -1935,6 +1934,7 @@
 	"Canada": {
 		"zoom": 2,
 		"seen": 40,
+		"seenL": 38,
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_dd_False_Creek_morning_jpg_600px-False_Creek_morning.jpg",
 		"lat": 60,
 		"lon": -110,
@@ -2901,7 +2901,7 @@
 		"snippets": 1,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg",
-		"updated": "2025-03-16T01:23:28.280Z"
+		"updated": "2025-06-08T17:36:50.391Z"
 	},
 	"Croatia": {
 		"seen": 38,
@@ -3306,7 +3306,6 @@
 			"Giant Mountains National Park",
 			"Litomyšl",
 			"Mariánské Lázně",
-			"Mutenice Wine Region",
 			"Nové Město na Moravě"
 		],
 		"blogs": [
@@ -3332,7 +3331,7 @@
 		},
 		"snippets": 16,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_downtown_2..jpg",
-		"updated": "2025-06-08T17:23:46.749Z"
+		"updated": "2025-07-04T05:29:24.236Z"
 	},
 	"Denmark": {
 		"seen": 23,
@@ -3913,9 +3912,8 @@
 			"Malabo",
 			"Acalayong",
 			"Bata",
-			"Ebebiyin",
+			"Ebibeyin",
 			"Evinayong",
-			"Luba",
 			"Mbini",
 			"Mongomo",
 			"Monte Alén National Park"
@@ -3938,7 +3936,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Santa_Isabel_Malabo_20131224_140204.jpg",
-		"updated": "2025-06-08T17:32:45.098Z"
+		"updated": "2025-07-04T05:22:44.003Z"
 	},
 	"Eritrea": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_45_Asmara_street_jpg_600px-Asmara_street.jpg",
@@ -3958,9 +3956,7 @@
 			"Assab",
 			"Nakfa",
 			"Dahlak Archipelago",
-			"Debre Bizen",
-			"Debre Sina",
-			"Matara (Eritrea)"
+			"Debre Bizen"
 		],
 		"wb": "Q986",
 		"neighbors": [
@@ -3977,10 +3973,10 @@
 			],
 			"currency": "ERN"
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Asmara_street.jpg",
-		"updated": "2025-06-08T17:32:45.098Z"
+		"updated": "2025-07-04T05:22:10.040Z"
 	},
 	"Estonia": {
 		"zoom": 5,
@@ -4129,14 +4125,14 @@
 			"Mbabane",
 			"Lobamba",
 			"Manzini",
-			"Big Bend (Eswatini)",
+			"Big Bend, Eswatini",
 			"Nhlangano",
 			"Siteki",
 			"Mkhaya Game Reserve",
 			"Hlane Royal National Park",
 			"Malolotja Nature Reserve",
 			"Mantenga Nature Reserve",
-			"Mlilwane Game Reserve"
+			"Mlilwane Wildlife Sanctuary"
 		],
 		"wb": "Q1050",
 		"neighbors": [
@@ -4155,7 +4151,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:De_kok_aan_het_werk%2C_maispuree_%28pap%29_op_het_menu_vanavond_%286336544806%29.jpg",
-		"updated": "2025-06-08T17:34:11.013Z"
+		"updated": "2025-07-04T05:22:44.004Z"
 	},
 	"Ethiopia": {
 		"thumbnail": "/images/kipedia_commons_thumb_3_34_Musée_national_d'Ethiopie-Trône_de_Hailé_Sélassié_jpg_440px-Musée_national_d'Ethiopie-Trône_de_Hailé_Sélassié.jpg",
@@ -4208,10 +4204,10 @@
 				"Amharic"
 			]
 		},
-		"snippets": 5,
+		"snippets": 6,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_d%27Ethiopie-Tr%C3%B4ne_de_Hail%C3%A9_S%C3%A9lassi%C3%A9.jpg",
-		"updated": "2025-03-15T17:57:17.413Z"
+		"updated": "2025-07-04T05:22:10.040Z"
 	},
 	"Fiji": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_d3_Denarau_Island_in_Fiji,_2013_jpg_480px-Denarau_Island_in_Fiji,_2013.jpg",
@@ -4230,7 +4226,6 @@
 			"Nadi",
 			"Nausori",
 			"Taveuni",
-			"Nananu-i-Ra Island",
 			"Ovalau",
 			"Nananu-i-Ra"
 		],
@@ -4253,7 +4248,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Denarau_Island_in_Fiji%2C_2013.jpg",
-		"updated": "2025-03-15T17:33:09.426Z"
+		"updated": "2025-07-04T05:22:07.328Z"
 	},
 	"Finland": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_7f_Koli_hill_view_jpg_440px-Koli_hill_view.jpg",
@@ -4366,7 +4361,6 @@
 			"Koli National Park",
 			"Lemmenjoki National Park",
 			"Nuuksio National Park",
-			"Finnish National Parks",
 			"Kilpisjärvi",
 			"Vyborg",
 			"Petrozavodsk",
@@ -4395,7 +4389,7 @@
 		"snippets": 6,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg",
-		"updated": "2025-03-16T01:33:38.669Z"
+		"updated": "2025-07-04T05:22:07.329Z"
 	},
 	"France": {
 		"zoom": 5,
@@ -4553,7 +4547,6 @@
 			"French Riviera",
 			"Loire Valley",
 			"Luberon",
-			"Mont Saint Michel",
 			"Saint-Tropez",
 			"Annecy",
 			"Èze",
@@ -4597,9 +4590,9 @@
 				"French"
 			]
 		},
-		"snippets": 17,
+		"snippets": 18,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg",
-		"updated": "2025-03-15T17:33:09.426Z"
+		"updated": "2025-07-04T05:22:10.041Z"
 	},
 	"Gabon": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_72_Rainforest_Gabon_jpg_440px-Rainforest_Gabon.jpg",
@@ -4626,7 +4619,7 @@
 			"Loango National Park",
 			"Lopé National Park",
 			"Mayumba National Park",
-			"Minkebe National Park"
+			"Minkébé National Park"
 		],
 		"wb": "Q1000",
 		"neighbors": [
@@ -4645,7 +4638,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rainforest_Gabon.jpg",
-		"updated": "2025-03-15T17:33:09.427Z"
+		"updated": "2025-07-04T05:27:29.631Z"
 	},
 	"Gambia": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_4_49_Gambia_111_from_KG_jpg_580px-Gambia_111_from_KG.jpg",
@@ -4696,7 +4689,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gambia_111_from_KG.jpg",
-		"updated": "2025-03-15T17:33:09.427Z"
+		"updated": "2025-07-04T05:22:44.006Z"
 	},
 	"Georgia": {
 		"seen": 56,
@@ -4785,7 +4778,7 @@
 		"snippets": 12,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rustaveli_National_Theater_in_Georgia_%28Europe%29%2C_built_19th_century_in_Rococo_style.jpg",
-		"updated": "2025-03-15T17:57:17.415Z"
+		"updated": "2025-07-04T05:22:44.007Z"
 	},
 	"Germany": {
 		"zoom": 5,
@@ -4851,14 +4844,8 @@
 			"Baltic Sea Coast (Germany)",
 			"Bavarian Alps",
 			"East Frisian Islands",
-			"Franconian Switzerland",
 			"North Frisian Islands",
-			"France",
-			"Belgium",
-			"Austria",
-			"Cruising the Baltic Sea",
 			"Weinheim",
-			"Heppenheim",
 			"Bensheim",
 			"Schwetzingen",
 			"Augsburg",
@@ -4892,7 +4879,7 @@
 		},
 		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberger_Burg_im_Herbst_2013.jpg",
-		"updated": "2025-03-16T01:17:24.184Z"
+		"updated": "2025-07-04T05:23:55.726Z"
 	},
 	"Ghana": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_cf_Ghana_footbridge1_jpg_440px-Ghana_footbridge1.jpg",
@@ -4948,7 +4935,7 @@
 		"snippets": 1,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ghana_footbridge1.jpg",
-		"updated": "2025-03-15T17:57:17.416Z"
+		"updated": "2025-07-04T05:24:33.807Z"
 	},
 	"Greece": {
 		"seen": 34,
@@ -5057,7 +5044,7 @@
 		"snippets": 17,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg",
-		"updated": "2025-03-15T18:04:58.621Z"
+		"updated": "2025-07-04T05:24:33.808Z"
 	},
 	"Grenada": {
 		"seen": 60,
@@ -5077,13 +5064,8 @@
 			}
 		],
 		"destinations": [
-			"Grenada (island)",
-			"Carriacou",
-			"Hillsborough (Grenada)",
-			"Petit Martinique",
-			"Grand Anse Bay",
-			"Sauteurs",
-			"Grenville"
+			"Hillsborough, Carriacou",
+			"Petite Martinique"
 		],
 		"wb": "Q769",
 		"neighbors": [
@@ -5108,7 +5090,7 @@
 		"snippets": 10,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:The_Colors_of_Grenada_-_panoramio.jpg",
-		"updated": "2025-03-15T17:57:20.245Z"
+		"updated": "2025-07-04T05:29:35.766Z"
 	},
 	"Guatemala": {
 		"zoom": 5,
@@ -5203,7 +5185,7 @@
 		},
 		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Maja_Ruins_in_the_jungle_of_Tikal_-_panoramio_-_Frans-Banja_Mulder.jpg",
-		"updated": "2025-03-15T17:33:09.429Z"
+		"updated": "2025-07-04T05:27:29.634Z"
 	},
 	"Guinea": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e6_Fouta_Djallon_(14582291826)_jpg_440px-Fouta_Djallon_(14582291826).jpg",
@@ -5248,7 +5230,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fouta_Djallon_%2814582291826%29.jpg",
-		"updated": "2025-03-15T17:33:09.429Z"
+		"updated": "2025-07-04T05:29:35.767Z"
 	},
 	"Guinea-Bissau": {
 		"thumbnail": "/images/org_wikipedia_commons_thumb_f_f1_Paesaggio_savana_con_termitai_in_Guinea-Bissau_JPG_440px-Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
@@ -5289,7 +5271,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
-		"updated": "2025-03-15T17:33:09.429Z"
+		"updated": "2025-07-04T05:29:35.768Z"
 	},
 	"Guyana": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_98_Georgetown_street,_Guyana_jpg_440px-Georgetown_street,_Guyana.jpg",
@@ -12619,10 +12601,10 @@
 				"English"
 			]
 		},
-		"snippets": 6,
+		"snippets": 7,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2253_%287500941860%29.jpg",
-		"updated": "2025-03-15T18:08:29.502Z"
+		"updated": "2025-07-04T05:27:29.688Z"
 	},
 	"Thailand": {
 		"zoom": 4,

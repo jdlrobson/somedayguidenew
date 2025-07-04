@@ -833,19 +833,45 @@
 			"lat": 61.78333333,
 			"lon": 34.33333333
 		},
-		"Rauma": {},
-		"Savonlinna": {},
-		"Koli National Park": {},
-		"Lemmenjoki National Park": {},
-		"Nuuksio National Park": {},
-		"Finnish National Parks": {},
+		"Rauma": {
+			"lat": 61.1333,
+			"lon": 21.5
+		},
+		"Savonlinna": {
+			"lat": 61.8667,
+			"lon": 28.8833
+		},
+		"Koli National Park": {
+			"lat": 63.122,
+			"lon": 29.77
+		},
+		"Lemmenjoki National Park": {
+			"lat": 68.5,
+			"lon": 25.5
+		},
+		"Nuuksio National Park": {
+			"lat": 60.3075,
+			"lon": 24.499167
+		},
 		"Sweden": {
 			"lat": 63,
 			"lon": 18
 		},
-		"Estonia": {},
-		"Norway": {},
-		"Levi": {},
-		"Pallas-Yllästunturi National Park": {}
+		"Estonia": {
+			"lat": 59,
+			"lon": 26
+		},
+		"Norway": {
+			"lat": 65,
+			"lon": 11
+		},
+		"Levi": {
+			"lat": 67.805,
+			"lon": 24.802
+		},
+		"Pallas-Yllästunturi National Park": {
+			"lat": 68.1589,
+			"lon": 24.0403
+		}
 	}
 }

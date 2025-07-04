@@ -433,15 +433,39 @@
 			"lat": 17.22194444,
 			"lon": -89.62361111
 		},
-		"Flores (Guatemala)": {},
-		"Melchor de Mencos": {},
-		"Puerto Barrios": {},
-		"Puerto San José": {},
-		"Sayaxché": {},
-		"Semuc Champey": {},
-		"Monterrico": {},
+		"Flores (Guatemala)": {
+			"lat": 16.93,
+			"lon": -89.8833
+		},
+		"Melchor de Mencos": {
+			"lat": 17.0667,
+			"lon": -89.15
+		},
+		"Puerto Barrios": {
+			"lat": 15.73,
+			"lon": -88.6
+		},
+		"Puerto San José": {
+			"lat": 13.9333,
+			"lon": -90.8167
+		},
+		"Sayaxché": {
+			"lat": 16.5167,
+			"lon": -90.1833
+		},
+		"Semuc Champey": {
+			"lat": 15.5333,
+			"lon": -89.9611
+		},
+		"Monterrico": {
+			"lat": 13.8936,
+			"lon": -90.4819
+		},
 		"El Peru": {},
-		"Iximche": {},
+		"Iximche": {
+			"lat": 14.7358,
+			"lon": -90.9962
+		},
 		"Nakúm": {},
 		"Yaxhá": {}
 	}

@@ -66,6 +66,16 @@
 			"url": "https://en.wikipedia.org/wiki/%C3%88ze"
 		},
 		{
+			"id": "17",
+			"text": "<small>[from en.wikipedia.org]:</small> Mont-Saint-Michel is a tidal island and mainland commune in Normandy, France.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/330px-Mont-Saint-Michel_vu_du_ciel.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Mont-Saint-Michel",
+			"url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel"
+		},
+		{
 			"id": "2",
 			"src": "https://www.instagram.com/p/BxT51jpDMqT",
 			"source": "",
@@ -1815,19 +1825,57 @@
 			"lat": 43.83333333,
 			"lon": 7.16666667
 		},
-		"Camargue": {},
-		"Disneyland Paris": {},
-		"Luberon": {},
-		"Mont Saint Michel": {},
-		"Èze": {},
-		"Bayeux": {},
-		"Cherbourg": {},
-		"Honfleur": {},
-		"Giverny": {},
-		"Centre-Val de Loire": {},
-		"Hauts-de-France": {},
-		"Pays de la Loire": {},
-		"Normandy": {},
-		"Réunion": {}
+		"Camargue": {
+			"lat": 43.53,
+			"lon": 4.5
+		},
+		"Disneyland Paris": {
+			"lat": 48.868719,
+			"lon": 2.7818
+		},
+		"Luberon": {
+			"lat": 43.79611111,
+			"lon": 5.22388889
+		},
+		"Èze": {
+			"lat": 43.7286,
+			"lon": 7.3617
+		},
+		"Bayeux": {
+			"lat": 49.2794,
+			"lon": -0.7028
+		},
+		"Cherbourg": {
+			"lat": 49.63,
+			"lon": -1.62
+		},
+		"Honfleur": {
+			"lat": 49.4194,
+			"lon": 0.2325
+		},
+		"Giverny": {
+			"lat": 49.0833,
+			"lon": 1.5333
+		},
+		"Centre-Val de Loire": {
+			"lat": 47.5,
+			"lon": 1.75
+		},
+		"Hauts-de-France": {
+			"lat": 49.9206,
+			"lon": 2.703
+		},
+		"Pays de la Loire": {
+			"lat": 47.4666667,
+			"lon": -0.8333333
+		},
+		"Normandy": {
+			"lat": 49.2,
+			"lon": 0.0167
+		},
+		"Réunion": {
+			"lat": -21.114444,
+			"lon": 55.5325
+		}
 	}
 }

@@ -711,18 +711,51 @@
 			"lat": 42.6575,
 			"lon": 44.64527778
 		},
-		"Mtskheta": {},
-		"Sighnaghi": {},
-		"Telavi": {},
-		"Northwestern Georgia": {},
-		"Bakuriani": {},
-		"Georgian Military Highway": {},
-		"Kakheti": {},
-		"Kazbegi": {},
+		"Mtskheta": {
+			"lat": 41.85,
+			"lon": 44.7167
+		},
+		"Sighnaghi": {
+			"lat": 41.616667,
+			"lon": 45.916667
+		},
+		"Telavi": {
+			"lat": 41.917,
+			"lon": 45.483
+		},
+		"Northwestern Georgia": {
+			"lat": 42.55,
+			"lon": 42.12
+		},
+		"Bakuriani": {
+			"lat": 41.75,
+			"lon": 43.53333333
+		},
+		"Georgian Military Highway": {
+			"lat": 42.578872,
+			"lon": 44.524727
+		},
+		"Kakheti": {
+			"lat": 41.75,
+			"lon": 45.716666
+		},
+		"Kazbegi": {
+			"lat": 42.6575,
+			"lon": 44.645278
+		},
 		"David Gareja Monastery Complex": {},
-		"Pasanauri": {},
+		"Pasanauri": {
+			"lat": 42.34638889,
+			"lon": 44.69277778
+		},
 		"Shatili": {},
-		"Mazeri": {},
-		"Vardzia": {}
+		"Mazeri": {
+			"lat": 43.0723,
+			"lon": 42.6096
+		},
+		"Vardzia": {
+			"lat": 41.38,
+			"lon": 43.26
+		}
 	}
 }
