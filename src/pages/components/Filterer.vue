@@ -152,13 +152,13 @@ const filterByName = ( ev ) => {
             </span>
         </p>
         <p>
-            <label>filter by</label>
+            <label>filter by</label>&nbsp;
             <select @change="changeFilter">
                 <option value="none">all</option>
                 <option value="seen">seen</option>
                 <option value="dream">dream</option>
-            </select>
-            <label>sort by</label>
+            </select>&nbsp;
+            <label>sort by</label>&nbsp;
             <select @change="changeSort">
                 <option value="updated">updated</option>
                 <option value="name">name</option>
