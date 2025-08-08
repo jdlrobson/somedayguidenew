@@ -3,18 +3,13 @@ import { ref, defineProps } from 'vue';
 import { useRoute } from 'vue-router';
 import Header from './components/Header.vue';
 import Postit from './components/Postit.vue';
+import Filterer from './components/Filterer.vue';
 import InspirationBoard from './components/InspirationBoard.vue';
 import countryData from '../../public/data/countries.json';
 import regions from '../../public/data/regions.json';
 const route = useRoute();
 const regionName = route.params.region;
-import Note from './components/Note.vue';
 const regionInfo = regions[regionName] || {};
-const props = defineProps({
-  currentSearch: String,
-  currentFilter: String,
-  currentSort: String
-});
 
 const ALL_COUNTRIES_IN_REGION = Object.keys( countryData ).map( ( title ) => {
     return Object.assign( {
@@ -25,6 +20,7 @@ const ALL_COUNTRIES_IN_REGION = Object.keys( countryData ).map( ( title ) => {
 const countries = ref(
     ALL_COUNTRIES_IN_REGION
 );
+
 const desc = ref(
     regionInfo.description || 'No note about this region of the world'
 );
@@ -35,18 +31,24 @@ const percentage = Math.floor(
             .filter((c)=>c.seenL !== undefined || c.seen !== undefined ).length /
         countries.value.length
     )
-)
+);
+
+const filterChange = ( newCountries ) => {
+    countries.value = newCountries;
+};
+
 </script>
 <template>
     <div class="page-home">
         <Header :hero="`your scrapbook for exploring the world`">
         </Header>
         <article>
-            <note :isSmall="true">
+            <Filterer @filterChange="filterChange"
+                :countries="ALL_COUNTRIES_IN_REGION"
+            >
+                <p>Jon and Linzy have visited {{ percentage }}% of this region.</p>
                 <p>{{ desc }}</p>
-                <p>{{ percentage }}%</p>
-                <p>Explore other parts of <RouterLink to="/">the world</RouterLink>.</p>
-            </note>
+            </Filterer>
             <InspirationBoard>
                 <Postit v-for="(c, i) in countries"
                     :title="c.title" :thumbnail="c.thumbnail"
