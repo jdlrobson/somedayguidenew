@@ -4,6 +4,9 @@ import Header from './components/Header.vue';
 import Postit from './components/Postit.vue';
 import InspirationBoard from './components/InspirationBoard.vue';
 import countryData from '../../public/data/countries.json';
+import regionData from '../../public/data/regions.json';
+
+const regionNames = ref( Object.keys(regionData) ); 
 import Note from './components/Note.vue';
 
 const props = defineProps({
@@ -126,6 +129,11 @@ if ( location.hash === '#search' ) {
                 <p>Where in the world shall we dream about today?</p>
                 <p>
                     <a href="#search">search</a> {{  countries.length }} / {{ ALL_COUNTRIES.length }} countries
+                </p>
+                <p>or explore a region:
+                    <span v-for="(region, i) in regionNames">
+                        <router-link :to="`/region/${region}`">{{ region }}</router-link>&nbsp;
+                    </span>
                 </p>
                 <p>
                     <label>filter by</label>
