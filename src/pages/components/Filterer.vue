@@ -1,5 +1,5 @@
 <script setup>
-import { ref, defineProps, defineEmits } from 'vue';
+import { ref, defineProps, defineEmits, nextTick } from 'vue';
 import Note from './Note.vue';
 import regionData from '../../../public/data/regions.json';
 const regionNames = ref( Object.keys(regionData) ); 
@@ -104,13 +104,47 @@ const changeSort = ( ev ) => {
     sortBy(ev.target.value);
 };
 
+const isSearchEnabled = ref( false );
+
+const searchInput = ref( null );
+
+const activateSearch = () => {
+    isSearchEnabled.value = true;
+    nextTick( () => {
+        searchInput.value.focus();
+    } );
+};
+
+const deactivateSearch = () => {
+    isSearchEnabled.value = false;
+    currentSearch.value = '';
+    applyFilter();
+};
+
+const filterByName = ( ev ) => {
+    currentSearch.value = ev.target.value.toLowerCase();
+    applyFilter();
+}
+
 </script>
 <template>
     <note :isSmall="true">
         <slot />
         <p>Where in the world shall we dream about today?</p>
         <p>
-            <a href="#search">search</a> {{  countries.length }} / {{ ALL_COUNTRIES.length }} countries
+            <button v-if="!isSearchEnabled"
+                @click="activateSearch" class="searchLink">search</button> {{  countries.length }} / {{ ALL_COUNTRIES.length }} countries
+        </p>
+        <p v-if="isSearchEnabled">
+            <div class="searchBox">
+            <input
+                ref="searchInput"
+                name="search" id="search" class="search"
+                placeholder="Type a country name to filter the post-its"
+                @input="filterByName">
+                <button @click="deactivateSearch">⨂</button>
+            </div>
+            
         </p>
         <p>or explore a region:
             <span v-for="(region, i) in regionNames">
@@ -135,3 +169,23 @@ const changeSort = ( ev ) => {
         </p>
     </note>
 </template>
+
+<style scoped>
+.searchBox {
+    position: relative;
+}
+.searchBox input {
+    height: 40px;
+    margin: 10px 0;
+    width: 100%;
+}
+.searchBox button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: transparent;
+    display: flex;
+    align-items: center;
+}
+</style>
