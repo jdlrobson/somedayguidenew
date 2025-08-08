@@ -267,16 +267,46 @@
 			"lat": 3.3833,
 			"lon": -59.8
 		},
-		"Bartica": {},
-		"New Amsterdam (Guyana)": {},
-		"Linden (Guyana)": {},
-		"Parika": {},
-		"Port Kaituma": {},
-		"Kaieteur National Park": {},
+		"Bartica": {
+			"lat": 6.4,
+			"lon": -58.616667
+		},
+		"New Amsterdam (Guyana)": {
+			"lat": 6.25,
+			"lon": -57.516667
+		},
+		"Linden (Guyana)": {
+			"lat": 6,
+			"lon": -58.3
+		},
+		"Parika": {
+			"lat": 6.8588,
+			"lon": -58.4252
+		},
+		"Port Kaituma": {
+			"lat": 7.72611111,
+			"lon": -59.88416667
+		},
+		"Kaieteur National Park": {
+			"lat": 5.216667,
+			"lon": -59.416667
+		},
 		"Al": {},
-		"Brazil": {},
-		"Suriname": {},
-		"Trinidad": {},
-		"Venezuela": {}
+		"Brazil": {
+			"lat": -14,
+			"lon": -53
+		},
+		"Suriname": {
+			"lat": 4,
+			"lon": -56
+		},
+		"Trinidad": {
+			"lat": 10.46055556,
+			"lon": -61.44861111
+		},
+		"Venezuela": {
+			"lat": 8,
+			"lon": -67
+		}
 	}
 }

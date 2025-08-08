@@ -1,4 +1,5 @@
 import json from './public/data/countries.json' assert { type: "json" };
+import regionjson from './public/data/regions.json' assert { type: "json" };
 import update from './update.json' assert { type: "json" };
 import { JSDOM } from 'jsdom';
 import fs from 'fs';

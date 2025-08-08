@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/La_chute_de_karera_nyakayi_1_%C3%A0_Rutana.jpg/330px-La_chute_de_karera_nyakayi_1_%C3%A0_Rutana.jpg
+Karera waterfalls
+https://en.wikipedia.org/wiki/Karera_waterfalls
+<small>[from en.wikipedia.org]:</small> The Chutes de la Karera are a spectacular series of waterfalls in southeastern Burundi. They are located to the south of Rutana. The falls occupy over 142 hectares, being made up of six branches divided on three landings.
+<location lat="-3.83" lon="30.08"></location>

@@ -522,7 +522,10 @@
 		"Atlantic Coast (Uruguay)": {},
 		"Flores (Uruguay)": {},
 		"Argentina": {},
-		"Brazil": {},
+		"Brazil": {
+			"lat": -14,
+			"lon": -53
+		},
 		"Rio Grande do Sul": {},
 		"Paraguay": {},
 		"Central Interior (Uruguay)": {}

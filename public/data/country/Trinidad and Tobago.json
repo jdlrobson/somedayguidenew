@@ -401,6 +401,9 @@
 		"San Fernando": {},
 		"Maracas Valley": {},
 		"Tobago": {},
-		"Trinidad": {}
+		"Trinidad": {
+			"lat": 10.46055556,
+			"lon": -61.44861111
+		}
 	}
 }

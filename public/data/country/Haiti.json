@@ -80,15 +80,36 @@
 			"lat": 18.59416667,
 			"lon": -72.30722222
 		},
-		"Cap-Haïtien": {},
-		"Gonaïves": {},
-		"Jacmel": {},
-		"Jérémie": {},
-		"Les Cayes": {},
+		"Cap-Haïtien": {
+			"lat": 19.75,
+			"lon": -72.2
+		},
+		"Gonaïves": {
+			"lat": 19.44555556,
+			"lon": -72.68833333
+		},
+		"Jacmel": {
+			"lat": 18.235278,
+			"lon": -72.536667
+		},
+		"Jérémie": {
+			"lat": 18.64722222,
+			"lon": -74.11388889
+		},
+		"Les Cayes": {
+			"lat": 18.2,
+			"lon": -73.75
+		},
 		"Petionville": {},
 		"Port-de-Paix": {},
-		"Port-Salut": {},
+		"Port-Salut": {
+			"lat": 18.0939083,
+			"lon": -73.9256944
+		},
 		"Labadie": {},
-		"Pétion-Ville": {}
+		"Pétion-Ville": {
+			"lat": 18.5167,
+			"lon": -72.2833
+		}
 	}
 }
