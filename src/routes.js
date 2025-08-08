@@ -2,6 +2,7 @@
 import Home from './pages/Home.vue';
 import Country from './pages/Country.vue';
 import About from './pages/About.vue';
+import PageNotFound from './pages/PageNotFound.vue';
 
 export default [
     {
@@ -16,4 +17,8 @@ export default [
         path: '/country/:country',
         component: Country
     },
+    {
+        path: '/:catchAll(.*)',
+        component: PageNotFound
+    }
 ]

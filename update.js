@@ -337,6 +337,28 @@ function prepareFromNotes() {
     } );
 }
 
+/**
+ * @param {string} region
+ * @return {string} of note for region
+ */
+function readRegionNote( region ) {
+    try {
+        return fs.readFileSync(`notes/regions/${region}/note.txt`).toString();
+    } catch ( e ) {
+        return '';
+    }
+}
+
+function prepareRegionsFromNotes() {
+    Object.keys(regionjson).forEach((region) => {
+        const countries = regionjson[region].countries;
+        regionjson[region] = {
+            countries,
+            description: readRegionNote( region )
+        };
+    } );
+    fs.writeFileSync(`public/data/regions.json`, JSON.stringify( regionjson, null, "\t") );
+}
 const destinationCoordinates = {};
 /**
  * Updates the public country JSON with information collected in prepareFromNotes
@@ -510,6 +532,7 @@ function updateCountriesAndSave() {
  */
 function localUpdates() {
     prepareFromNotes();
+    prepareRegionsFromNotes();
     Promise.all( pendingRequests ).then( () => {
         updateCountriesAndSave();
     }, () => {
