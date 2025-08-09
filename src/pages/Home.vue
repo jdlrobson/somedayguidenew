@@ -1,12 +1,10 @@
 <script setup>
-import { ref, defineProps } from 'vue'
+import { ref } from 'vue'
 import Header from './components/Header.vue';
 import Postit from './components/Postit.vue';
 import InspirationBoard from './components/InspirationBoard.vue';
 import countryData from '../../public/data/countries.json';
-import regionData from '../../public/data/regions.json';
 import Filterer from './components/Filterer.vue';
-import Note from './components/Note.vue';
 
 const ALL_COUNTRIES = Object.keys( countryData ).map( ( title ) => {
     return Object.assign( {
@@ -25,7 +23,7 @@ const filterChange = ( newCountries ) => {
 </script>
 <template>
     <div class="page-home">
-        <Header :hero="`your scrapbook for exploring the world`">
+        <Header :hero="`your scrapbook for exploring the world`" :zoom="0.1">
         </Header>
         <article>
             <Filterer @filterChange="filterChange"

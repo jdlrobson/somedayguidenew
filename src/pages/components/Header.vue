@@ -1,23 +1,36 @@
 <script setup>
 import "leaflet/dist/leaflet.css";
 import { ref } from 'vue'
+import { getCountriesInRegion } from '../../utils';
 import Map from './Map.vue'
 const props = defineProps({
   title: String,
   hero: String,
   zoom: Number,
-  center: Array
+  center: Array,
+  region: String
 });
 import countryData from '../../../public/data/countries.json';
 const title = props.title || 'the world';
-const places = Object.keys( countryData ).map( ( c ) => {
+const places = Object.values(
+  props.region ? getCountriesInRegion( props.region ) : countryData
+).map( ( country ) => {
+  const c = country.title;
   return { path: `/country/${c}`, coordinates: [ countryData[c].lat, countryData[c].lon ] }
 } );
 const mapActive = ref( false );
 const toggleMap = () => {
   mapActive.value = !mapActive.value;
 }
-const center = props.center || [ 0, 0 ];
+const calculateAveragePosition = ( places ) => {
+  const lat = places.reduce((accumulator, place) => accumulator + place.coordinates[0], 0);
+  const lon = places.reduce((accumulator, place) => accumulator + place.coordinates[1], 0);
+  return [
+    lat / places.length,
+    lon / places.length
+  ];
+}
+const center = props.center || calculateAveragePosition( places );
 </script>
 
 <template>

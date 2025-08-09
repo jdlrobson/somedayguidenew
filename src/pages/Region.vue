@@ -5,17 +5,14 @@ import Header from './components/Header.vue';
 import Postit from './components/Postit.vue';
 import Filterer from './components/Filterer.vue';
 import InspirationBoard from './components/InspirationBoard.vue';
-import countryData from '../../public/data/countries.json';
 import regions from '../../public/data/regions.json';
 const route = useRoute();
 const regionName = route.params.region;
 const regionInfo = regions[regionName] || {};
 
-const ALL_COUNTRIES_IN_REGION = Object.keys( countryData ).map( ( title ) => {
-    return Object.assign( {
-        href: `/country/${ title }`
-    }, countryData[ title ] );
-}).filter((c) => regionInfo.countries.includes(c.title))
+import { getCountriesInRegion } from '../utils';
+
+const ALL_COUNTRIES_IN_REGION = getCountriesInRegion( regionName );
 
 const countries = ref(
     ALL_COUNTRIES_IN_REGION
@@ -40,7 +37,9 @@ const filterChange = ( newCountries ) => {
 </script>
 <template>
     <div class="page-home">
-        <Header :hero="`your scrapbook for exploring the world`">
+        <Header
+            :title="regionName"
+            :hero="`your scrapbook for exploring the world`" :region="regionName" :zoom="regionInfo.zoom">
         </Header>
         <article>
             <Filterer @filterChange="filterChange"
