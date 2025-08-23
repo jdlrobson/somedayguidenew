@@ -5,6 +5,9 @@ Qom
 Shiraz
 Tabriz
 Yazd
+Mashhad
+Hamadan
+Zahedan
 Alamut
 Kish Island
 Qeshm Island
@@ -12,6 +15,3 @@ Pasargad
 Persepolis
 Shush (Iran)
 Qeshm
-Mashhad
-Hamadan
-Zahedan

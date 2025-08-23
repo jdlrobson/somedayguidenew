@@ -4,6 +4,7 @@ Ilha de Mozambique
 Inhambane
 Nampula
 Pemba
+Bazaruto Archipelago National Park
 Bazaruto Archipelago
 Cahora Bassa
 Gorongosa National Park
@@ -13,4 +14,3 @@ Quirimbas Islands
 Tofo Beach
 Vilanculos
 Northern Mozambique
-Bazaruto Archipelago National Park

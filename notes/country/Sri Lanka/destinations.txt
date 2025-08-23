@@ -1,5 +1,4 @@
 Sri Jayawardenapura Kotte
-Anuradhapura
 Batticaloa
 Colombo
 Galle
@@ -7,9 +6,3 @@ Jaffna
 Kandy
 Negombo
 Nuwara Eliya
-Arugam Bay
-Dambulla
-Horton Plains
-Mirissa
-Unawatuna
-Yala National Park

@@ -22,12 +22,12 @@
 			"Kandahar",
 			"Kunduz",
 			"Mazar-i-Sharif",
+			"Band-e Amir National Park",
 			"Bagram",
 			"Balkh",
 			"Khyber Pass",
 			"Panjshir Valley",
-			"Gardez",
-			"Band-e Amir National Park"
+			"Gardez"
 		],
 		"wb": "Q889",
 		"neighbors": [
@@ -250,14 +250,14 @@
 			"Huambo",
 			"Lobito",
 			"M'banza-Kongo",
-			"Malanje",
 			"Menongue",
-			"Moçâmedes",
 			"Cangandala National Park",
 			"Great Escarpment (Angola)",
 			"Iona National Park",
 			"Kissama National Park",
-			"Mussulo Island"
+			"Mussulo Island",
+			"Malanje",
+			"Moçâmedes"
 		],
 		"wb": "Q916",
 		"neighbors": [
@@ -430,9 +430,9 @@
 			"Mendoza",
 			"La Plata",
 			"Salta",
+			"San Carlos de Bariloche",
 			"El Calafate",
-			"Nahuel Huapi National Park",
-			"San Carlos de Bariloche"
+			"Nahuel Huapi National Park"
 		],
 		"wb": "Q414",
 		"neighbors": [
@@ -554,13 +554,13 @@
 			"Melbourne",
 			"Perth",
 			"Sydney",
+			"Uluṟu-Kata Tjuṯa National Park",
+			"Watarrka National Park",
+			"Kuranda",
 			"Blue Mountains",
 			"Dandenong Ranges",
 			"Great Ocean Road",
-			"Kakadu National Park",
-			"Uluṟu-Kata Tjuṯa National Park",
-			"Watarrka National Park",
-			"Kuranda"
+			"Kakadu National Park"
 		],
 		"wb": "Q408",
 		"neighbors": [
@@ -629,12 +629,12 @@
 			"Villach",
 			"Kaprun",
 			"Pinswang",
-			"Salzkammergut",
-			"Thermenland",
 			"Zell am See",
 			"Hallstatt",
 			"Vöcklabruck",
-			"Bad Aussee"
+			"Bad Aussee",
+			"Salzkammergut",
+			"Thermenland"
 		],
 		"wb": "Q40",
 		"neighbors": [
@@ -692,21 +692,21 @@
 			"Lankaran",
 			"Qabala",
 			"Sheki",
-			"Shamakhi",
-			"Sumqayit",
 			"Qobustan",
 			"Göygöl National Park",
-			"Sheki Region",
 			"Khinalug",
-			"Nabran",
 			"Quba",
 			"Lahich",
 			"Qax",
-			"Nij, Azerbaijan",
+			"Shamakhi",
+			"Sumqayit",
+			"Sheki Region",
+			"Nabran",
 			"Göygöl",
-			"Shamkir (city)",
 			"Naftalan",
-			"Baku Region"
+			"Baku Region",
+			"Nij, Azerbaijan",
+			"Shamkir (city)"
 		],
 		"wb": "Q227",
 		"neighbors": [
@@ -751,24 +751,29 @@
 		"destinations": [
 			"New Providence",
 			"Nassau",
-			"Grand Bahama",
 			"Abacos",
-			"Eleuthera",
 			"Andros (Bahamas)",
 			"Exuma",
+			"Mayaguana",
+			"Grand Bahama",
+			"Eleuthera",
 			"Long Island (Bahamas)",
 			"Cat Island",
 			"Berry Islands",
 			"San Salvador Island",
 			"Rum Cay",
 			"Inagua",
-			"Mayaguana",
 			"Freeport (Bahamas)",
 			"Matthew Town",
 			"Alice Town"
 		],
 		"wb": "Q778",
-		"neighbors": [],
+		"neighbors": [
+			"Cuba",
+			"United States of America",
+			"Haiti",
+			"Dominican Republic"
+		],
 		"commons": "Bahamas",
 		"info": {
 			"tel": "+1242",
@@ -807,13 +812,13 @@
 		],
 		"destinations": [
 			"Manama",
+			"Muharraq",
+			"Hawar Islands",
 			"Hamad Town",
 			"Isa Town",
-			"Muharraq",
 			"Riffa",
 			"Sitrah",
-			"Juffair",
-			"Hawar Islands"
+			"Juffair"
 		],
 		"wb": "Q398",
 		"neighbors": [
@@ -890,13 +895,13 @@
 			"Dhaka",
 			"Barisal",
 			"Chittagong",
-			"Jessore",
 			"Khulna",
 			"Mymensingh",
 			"Rajshahi",
 			"Rangpur (Bangladesh)",
 			"Sylhet",
 			"Cox's Bazar",
+			"Jessore",
 			"Bagerhat",
 			"Somapura Mahavihara",
 			"Saint Martins Island",
@@ -1012,15 +1017,15 @@
 			}
 		],
 		"destinations": [
-			"Minsk",
 			"Brest (Belarus)",
-			"Polotsk",
 			"Gomel",
 			"Grodno",
 			"Mogilev",
 			"Nesvizh",
 			"Vitebsk",
 			"Belovezhskaya Pushcha National Park",
+			"Minsk",
+			"Polotsk",
 			"Mir"
 		],
 		"wb": "Q184",
@@ -1122,15 +1127,15 @@
 			"Liège",
 			"Mechelen",
 			"Mons",
-			"Namur",
 			"Kraainem",
+			"Spa (Belgium)",
+			"Ypres",
+			"Poperinge",
+			"Namur",
 			"Tervuren",
 			"Grimbergen",
 			"Dinant",
 			"Pajottenland",
-			"Spa (Belgium)",
-			"Ypres",
-			"Poperinge",
 			"Flemish Brabant",
 			"Luxembourg (Belgium)"
 		],
@@ -1193,17 +1198,17 @@
 			"Belmopan",
 			"Belize City",
 			"Corozal Town",
-			"Crooked Tree",
 			"Dangriga",
-			"Hopkins",
 			"Orange Walk Town",
 			"Punta Gorda",
 			"San Ignacio",
+			"Tobacco Caye",
+			"Stann Creek",
+			"Crooked Tree",
 			"Ambergris Caye",
 			"Caye Caulker",
-			"Tobacco Caye",
 			"Placencia",
-			"Stann Creek"
+			"Hopkins"
 		],
 		"wb": "Q242",
 		"neighbors": [
@@ -1236,13 +1241,13 @@
 			"Porto-Novo",
 			"Abomey",
 			"Cotonou",
-			"Grand-Popo",
-			"Kétou",
 			"Parakou",
+			"Pendjari National Park",
+			"Kétou",
 			"Malanville",
 			"Natitingou",
 			"Tanguiéta",
-			"Pendjari National Park"
+			"Grand-Popo"
 		],
 		"wb": "Q962",
 		"neighbors": [
@@ -1284,13 +1289,13 @@
 		"destinations": [
 			"Thimphu",
 			"Jakar",
+			"Phuentsholing",
+			"Trongsa",
 			"Mongar",
 			"Paro",
 			"Punakha",
-			"Phuentsholing",
 			"Samdrup Jongkhar",
 			"Trashigang",
-			"Trongsa",
 			"Jigme Dorji National Park",
 			"Jigme Singye Wangchuck National Park",
 			"Royal Manas National Park",
@@ -1347,21 +1352,21 @@
 			}
 		],
 		"destinations": [
-			"La Paz",
 			"Cochabamba",
-			"Oruro",
 			"Potosí",
-			"Quime",
 			"Santa Cruz (city, Bolivia)",
-			"Sorata",
 			"Sucre",
-			"Tarija",
 			"Chacaltaya",
 			"Isla del Sol",
-			"Madidi National Park",
 			"Noel Kempff Mercado National Park",
-			"Sajama National Park",
 			"Salar de Uyuni",
+			"La Paz",
+			"Oruro",
+			"Quime",
+			"Sorata",
+			"Tarija",
+			"Madidi National Park",
+			"Sajama National Park",
 			"Tiwanaku"
 		],
 		"wb": "Q750",
@@ -1409,12 +1414,12 @@
 		"destinations": [
 			"Sarajevo",
 			"Banja Luka",
-			"Bihać",
-			"Jajce",
 			"Mostar",
 			"Neum",
 			"Tuzla",
 			"Teslic",
+			"Bihać",
+			"Jajce",
 			"Zenica",
 			"Kozara",
 			"Međugorje"
@@ -1464,17 +1469,17 @@
 		],
 		"destinations": [
 			"Gaborone",
+			"Kasane",
+			"Maun",
+			"Okavango Delta",
+			"Chobe National Park",
 			"Francistown",
 			"Ghanzi",
 			"Gweta",
 			"Kanye",
-			"Kasane",
-			"Maun",
 			"Nata",
 			"Tsabong",
-			"Okavango Delta",
 			"Central Kalahari Game Reserve",
-			"Chobe National Park",
 			"Nxai Pan National Park",
 			"Northern Tuli Game Reserve"
 		],
@@ -1571,17 +1576,17 @@
 			"Amazonas (Brazil)",
 			"Chapada Diamantina National Park",
 			"Fernando de Noronha",
-			"Ilha Grande",
 			"Iguaçu Falls",
-			"Lençóis Maranhenses",
 			"Brasília",
 			"Alto Paraíso de Goiás",
-			"Cavalcante",
 			"Belém",
 			"Natal",
-			"Salinópolis",
 			"Santarém (Brazil)",
 			"São Luís",
+			"Ilha Grande",
+			"Lençóis Maranhenses",
+			"Cavalcante",
+			"Salinópolis",
 			"Alcântara",
 			"Tabatinga"
 		],
@@ -1705,16 +1710,16 @@
 			"Sofia",
 			"Burgas",
 			"Gabrovo",
-			"Pleven",
 			"Plovdiv",
 			"Ruse",
 			"Varna",
 			"Veliko Tarnovo",
+			"Rhodope Mountains",
+			"Pleven",
 			"Sliven",
 			"Dragoman Marsh",
 			"Nature Park Bulgarka",
-			"Pirin National Park",
-			"Rhodope Mountains"
+			"Pirin National Park"
 		],
 		"wb": "Q219",
 		"neighbors": [
@@ -1794,13 +1799,9 @@
 			"Cibitoke",
 			"Gitega",
 			"Muyinga",
-			"Ngozi",
 			"Bururi Forest Natural Reserve",
 			"Kibira National Park",
-			"Rusizi Natural Reserve",
-			"Ruvubu National Park",
-			"Rwihinda Lake Natural Reserve",
-			"Vyanda Forest Natural Reserve"
+			"Ruvubu National Park"
 		],
 		"wb": "Q967",
 		"neighbors": [
@@ -1821,7 +1822,7 @@
 		"snippets": 1,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_%284%29.jpg",
-		"updated": "2025-07-04T05:27:29.618Z"
+		"updated": "2025-08-23T04:25:50.530Z"
 	},
 	"Cambodia": {
 		"zoom": 5,
@@ -1841,15 +1842,15 @@
 			"Phnom Penh",
 			"Banlung",
 			"Battambang",
+			"Siem Reap",
+			"Sihanoukville",
+			"Kampong Cham",
 			"Kampot",
 			"Koh Kong",
 			"Kampong Thom city",
 			"Kratie",
-			"Siem Reap",
-			"Sihanoukville",
 			"Angkor Archaeological Park",
 			"Bokor National Park",
-			"Kampong Cham",
 			"Kep",
 			"Poipet",
 			"Tonle Sap Lake",
@@ -1894,19 +1895,18 @@
 		],
 		"destinations": [
 			"Yaoundé",
+			"Douala",
+			"Limbe",
+			"Ngaoundéré",
 			"Bafoussam",
 			"Bamenda",
 			"Buea",
-			"Douala",
 			"Garoua",
-			"Limbe",
-			"Ngaoundéré",
 			"Korup National Park",
 			"Mount Cameroon",
 			"Ngoketunjia",
 			"Waza National Park",
-			"Bafia",
-			"Ngaoundéré"
+			"Bafia"
 		],
 		"wb": "Q1009",
 		"neighbors": [
@@ -1929,7 +1929,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Yaound%C3%A9_Cath%C3%A9drale.jpg",
-		"updated": "2025-03-15T18:42:13.154Z"
+		"updated": "2025-08-23T04:25:50.531Z"
 	},
 	"Canada": {
 		"zoom": 2,
@@ -2052,23 +2052,23 @@
 			"Ottawa",
 			"Calgary",
 			"Montreal",
-			"Quebec City",
 			"Toronto",
 			"Vancouver",
 			"Winnipeg",
 			"Cape Breton Island",
+			"Pictou",
+			"Edmonton",
+			"Quebec City",
 			"Algonquin Provincial Park",
 			"Halifax",
 			"Nova Scotia",
 			"Dartmouth (Nova Scotia)",
 			"Guysborough",
-			"Pictou",
 			"Sydney (Nova Scotia)",
 			"Kejimkujik National Park",
 			"Newfoundland and Labrador",
 			"Bruce Peninsula",
 			"Ontario",
-			"Edmonton",
 			"Clarenville",
 			"Churchill",
 			"Haines Junction"
@@ -2140,8 +2140,8 @@
 		"links": [],
 		"destinations": [
 			"Bangui",
-			"Bambari",
 			"Bangassou",
+			"Bambari",
 			"Birao",
 			"Bouar",
 			"Kaga-Bandoro",
@@ -2182,10 +2182,10 @@
 		],
 		"links": [],
 		"destinations": [
-			"N'Djamena",
 			"Moundou",
 			"Abéché",
-			"Faya"
+			"Faya",
+			"N'Djamena"
 		],
 		"wb": "Q657",
 		"neighbors": [
@@ -2249,22 +2249,22 @@
 			"Santiago",
 			"Concepción",
 			"Iquique",
-			"La Serena",
 			"Punta Arenas",
 			"San Pedro de Atacama",
 			"Valdivia",
 			"Valparaíso",
-			"Viña del Mar",
 			"Chiloé Island",
 			"Laguna San Rafael National Park",
+			"Viña del Mar",
+			"Juan Fernández Islands",
+			"La Serena",
 			"Lauca National Park",
 			"Pichilemu",
 			"Robinson Crusoe Island",
 			"Torres del Paine National Park",
-			"Valle de la Luna",
 			"Villarrica",
 			"Northern Chile",
-			"Juan Fernández Islands"
+			"Valle de la Luna"
 		],
 		"wb": "Q298",
 		"neighbors": [
@@ -2412,13 +2412,9 @@
 			"Nanjing",
 			"Shanghai",
 			"Xi'an",
-			"Great Wall of China",
-			"Hainan",
 			"Leshan",
-			"Qomolangma",
 			"Tibet",
 			"Turpan",
-			"Yungang Grottoes",
 			"Dali",
 			"Kunming",
 			"Shangrila",
@@ -2426,13 +2422,10 @@
 			"Zhuhai",
 			"Shenzhen",
 			"Chuxiong",
-			"Yunnan",
-			"Heijing",
 			"Yuanmou",
 			"Lijiang",
 			"Deqin",
 			"Jinghong",
-			"Ruili",
 			"Yuxi",
 			"Dongguan",
 			"Qingyuan",
@@ -2442,6 +2435,13 @@
 			"Zhanjiang",
 			"Kaiping",
 			"Xiamen",
+			"Great Wall of China",
+			"Hainan",
+			"Qomolangma",
+			"Yungang Grottoes",
+			"Yunnan",
+			"Heijing",
+			"Ruili",
 			"Ürümqi",
 			"Erlian"
 		],
@@ -2574,22 +2574,22 @@
 		],
 		"destinations": [
 			"Bogotá",
-			"Barranquilla",
 			"Cali",
 			"Cartagena (Colombia)",
 			"Manizales",
 			"Medellín",
 			"Pereira",
 			"Santa Marta",
-			"Amacayacu National Park",
 			"Zipaquirá",
-			"Ciudad Perdida",
 			"Islas del Rosario",
-			"Isla Gorgona",
-			"Los Nevados National Park",
 			"Providencia",
 			"San Agustin",
 			"Popayán",
+			"Barranquilla",
+			"Amacayacu National Park",
+			"Ciudad Perdida",
+			"Isla Gorgona",
+			"Los Nevados National Park",
 			"Leticia"
 		],
 		"wb": "Q739",
@@ -2626,11 +2626,11 @@
 		"links": [],
 		"destinations": [
 			"Grand Comore",
-			"Moheli",
 			"Anjouan",
+			"Moroni (Comoros)",
+			"Moheli",
 			"Mayotte",
 			"France",
-			"Moroni (Comoros)",
 			"Domoni",
 			"Fomboni",
 			"Nioumachoua",
@@ -2674,14 +2674,14 @@
 		"links": [],
 		"destinations": [
 			"Kinshasa",
-			"Bukavu",
 			"Goma",
-			"Kananga",
 			"Kisangani",
-			"Kindu",
 			"Lubumbashi",
-			"Matadi",
 			"Mbandaka",
+			"Bukavu",
+			"Kananga",
+			"Kindu",
+			"Matadi",
 			"Virunga National Park",
 			"Garamba National Park",
 			"Salonga National Park",
@@ -2729,15 +2729,14 @@
 		"links": [],
 		"destinations": [
 			"Brazzaville",
-			"Djambala",
 			"Dolisie",
+			"Nouabalé-Ndoki National Park",
+			"Pointe-Noire",
+			"Djambala",
 			"Mossendjo",
 			"Owando",
-			"Pointe-Noire",
 			"Ile Mbamou",
-			"Nouabalé-Ndoki National Park",
-			"Lesio Louna Gorilla Reserve",
-			"Pointe-Noire"
+			"Lesio Louna Gorilla Reserve"
 		],
 		"wb": "Q971",
 		"neighbors": [
@@ -2758,7 +2757,7 @@
 		"snippets": 6,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alima_-_Congo.JPG",
-		"updated": "2025-08-23T03:54:58.205Z"
+		"updated": "2025-08-23T04:25:50.561Z"
 	},
 	"Cook Islands": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_26_Rarotonga_Airport_Tower_jpg_440px-Rarotonga_Airport_Tower.jpg",
@@ -2771,12 +2770,12 @@
 		],
 		"links": [],
 		"destinations": [
+			"Atiu",
 			"Aitutaki",
 			"Rarotonga",
 			"Palmerston Island",
 			"Mauke",
-			"Mangaia",
-			"Atiu"
+			"Mangaia"
 		],
 		"wb": "Q26988",
 		"neighbors": [
@@ -2821,17 +2820,17 @@
 			"Jacó",
 			"Heredia",
 			"Liberia (Costa Rica)",
-			"Puerto Limón",
 			"Quesada",
-			"La Fortuna, San Carlos",
+			"Manuel Antonio National Park",
+			"Tortuguero",
+			"Cartago (Costa Rica)",
+			"Puerto Limón",
 			"Cahuita National Park",
 			"Chirripo National Park",
 			"Cocos Island National Park",
 			"Corcovado National Park",
-			"Manuel Antonio National Park",
-			"Tortuguero",
 			"La Fortuna",
-			"Cartago (Costa Rica)"
+			"La Fortuna, San Carlos"
 		],
 		"wb": "Q800",
 		"neighbors": [
@@ -2864,13 +2863,13 @@
 		"destinations": [
 			"Abidjan",
 			"Korhogo",
-			"Aboisso",
 			"Bouaké",
-			"Dabou",
-			"San-Pédro, Ivory Coast",
 			"Yamoussoukro",
 			"Grand-Bassam",
+			"Aboisso",
+			"Dabou",
 			"Taï National Park",
+			"San-Pédro, Ivory Coast",
 			"Comoé National Park"
 		],
 		"wb": "Q1008",
@@ -3054,15 +3053,15 @@
 			"Osijek",
 			"Rijeka",
 			"Zadar",
-			"Krka National Park",
 			"Cres",
 			"Hvar",
 			"Brač",
+			"Poreč",
+			"Krka National Park",
 			"Krk",
 			"Solta",
 			"Makarska",
-			"Žumberak",
-			"Poreč"
+			"Žumberak"
 		],
 		"wb": "Q224",
 		"neighbors": [
@@ -3110,19 +3109,19 @@
 		],
 		"destinations": [
 			"Havana",
-			"Baracoa",
 			"Camagüey",
 			"Cienfuegos",
-			"Matanzas",
-			"Pinar del Rio",
 			"Santa Clara (Cuba)",
 			"Santiago de Cuba",
 			"Trinidad (Cuba)",
+			"Viñales",
+			"Baracoa",
+			"Matanzas",
+			"Pinar del Rio",
 			"Cayo Largo",
 			"Isla de la Juventud",
 			"Jardines del Rey",
 			"Maria la Gorda",
-			"Viñales",
 			"Varadero"
 		],
 		"wb": "Q241",
@@ -3212,10 +3211,10 @@
 		],
 		"destinations": [
 			"Nicosia",
-			"Ayia Napa",
 			"Larnaca",
 			"Limassol",
 			"Paphos",
+			"Ayia Napa",
 			"Lefkara",
 			"Kyrenia"
 		],
@@ -3287,16 +3286,16 @@
 			"České Budějovice",
 			"Český Krumlov",
 			"Karlovy Vary",
-			"Kutná Hora",
-			"Olomouc",
 			"Ostrava",
 			"Pilsen",
-			"Bohemian Paradise",
 			"Karlštejn",
-			"Giant Mountains National Park",
-			"Litomyšl",
 			"Mariánské Lázně",
-			"Nové Město na Moravě"
+			"Kutná Hora",
+			"Olomouc",
+			"Bohemian Paradise",
+			"Giant Mountains National Park",
+			"Nové Město na Moravě",
+			"Litomyšl"
 		],
 		"blogs": [
 			688,
@@ -3426,10 +3425,11 @@
 			"Esbjerg",
 			"Nykøbing Falster",
 			"Odense",
-			"Roskilde",
 			"Skagen",
-			"Sønderborg",
 			"Anholt",
+			"Varberg",
+			"Roskilde",
+			"Sønderborg",
 			"Ertholmene",
 			"Femø",
 			"Fanø",
@@ -3442,17 +3442,16 @@
 			"Greenland",
 			"Hanstholm",
 			"Jutland",
-			"Tórshavn",
 			"Seyðisfjörður",
 			"Longyearbyen",
 			"Svalbard",
 			"Sweden",
 			"Frederikshavn",
 			"Grenaa",
-			"Varberg",
 			"Hirtshals",
 			"Stevns",
-			"Grenå"
+			"Grenå",
+			"Tórshavn"
 		],
 		"wb": "Q35",
 		"neighbors": [
@@ -3579,15 +3578,14 @@
 		],
 		"destinations": [
 			"Santo Domingo",
-			"Higüey",
-			"Juan Dolio",
 			"Puerto Plata",
 			"Punta Cana",
-			"San Pedro de Macoris",
-			"Samaná (town)",
 			"Santiago de los Caballeros",
-			"Rio San Juan",
 			"La Romana",
+			"Higüey",
+			"Juan Dolio",
+			"San Pedro de Macoris",
+			"Rio San Juan",
 			"Bayahibe",
 			"Bonao",
 			"Cabarete",
@@ -3596,7 +3594,8 @@
 			"Las Galeras",
 			"Miches",
 			"Playa Bonita",
-			"Sosúa"
+			"Sosúa",
+			"Samaná (town)"
 		],
 		"wb": "Q786",
 		"neighbors": [
@@ -3632,12 +3631,12 @@
 			"Baucau",
 			"Ermera",
 			"Gleno",
-			"Liquiçá",
 			"Lospalos",
 			"Maliana",
 			"Suai",
 			"Flores (Indonesia)",
-			"West Timor"
+			"West Timor",
+			"Liquiçá"
 		],
 		"wb": "Q574",
 		"neighbors": [
@@ -3680,34 +3679,34 @@
 		],
 		"destinations": [
 			"Quito",
-			"Ambato",
 			"Baños",
 			"Cuenca (Ecuador)",
 			"Guayaquil",
+			"Esmeraldas",
+			"Salinas (Ecuador)",
+			"Ambato",
 			"Ibarra",
 			"Loja",
 			"Otavalo",
 			"Riobamba",
 			"Baeza (Ecuador)",
 			"Canoa",
-			"Esmeraldas",
 			"Guamote",
 			"Guaranda",
 			"Mindo",
-			"Montañita",
 			"Puerto López",
 			"Puyo",
-			"Salinas (Ecuador)",
 			"Tena",
 			"Vilcabamba",
 			"Cuyabeno Wildlife Reserve",
 			"Cotopaxi",
-			"El Cajas National Park",
 			"Podocarpus National Park",
 			"Sangay National Park",
+			"Nuevo Rocafuerte",
+			"Montañita",
+			"El Cajas National Park",
 			"Yasuní National Park",
-			"Puerto Francisco de Orellana",
-			"Nuevo Rocafuerte"
+			"Puerto Francisco de Orellana"
 		],
 		"wb": "Q736",
 		"neighbors": [
@@ -3789,16 +3788,16 @@
 			"Hurghada",
 			"Luxor",
 			"Port Said",
-			"El Qoseir",
 			"Abu Simbel",
 			"Dahab",
-			"Karnak",
-			"Memphis, Egypt",
 			"Siwa",
+			"Marsa Matruh",
+			"Karnak",
+			"El Qoseir",
+			"Memphis, Egypt",
 			"Saint Catherine, Egypt",
 			"Taba, Egypt",
-			"Sharm El Sheikh",
-			"Marsa Matruh"
+			"Sharm El Sheikh"
 		],
 		"wb": "Q79",
 		"neighbors": [
@@ -3860,9 +3859,9 @@
 		],
 		"destinations": [
 			"San Salvador",
+			"Santa Ana (El Salvador)",
 			"La Libertad",
 			"San Francisco Gotera",
-			"Santa Ana (El Salvador)",
 			"San Miguel (El Salvador)",
 			"Santa Tecla",
 			"Suchitoto",
@@ -3898,13 +3897,13 @@
 		"links": [],
 		"destinations": [
 			"Malabo",
-			"Acalayong",
 			"Bata",
-			"Ebibeyin",
+			"Acalayong",
 			"Evinayong",
 			"Mbini",
 			"Mongomo",
-			"Monte Alén National Park"
+			"Monte Alén National Park",
+			"Ebibeyin"
 		],
 		"wb": "Q983",
 		"neighbors": [
@@ -3940,9 +3939,9 @@
 			"Asmara",
 			"Keren",
 			"Massawa",
+			"Nakfa",
 			"Teseney",
 			"Assab",
-			"Nakfa",
 			"Dahlak Archipelago",
 			"Debre Bizen"
 		],
@@ -4058,11 +4057,13 @@
 			"Tartu",
 			"Narva",
 			"Pärnu",
-			"Rakvere",
-			"Haapsalu",
 			"Viljandi",
 			"Kuressaare",
 			"Valga",
+			"Hiiumaa",
+			"Kihnu",
+			"Rakvere",
+			"Haapsalu",
 			"Lahemaa National Park",
 			"Soomaa National Park",
 			"Vilsandi National Park",
@@ -4070,8 +4071,6 @@
 			"South Estonia",
 			"Otepää",
 			"Saaremaa",
-			"Hiiumaa",
-			"Kihnu",
 			"Muhu",
 			"Ruhnu",
 			"Vormsi"
@@ -4111,15 +4110,15 @@
 		],
 		"destinations": [
 			"Mbabane",
-			"Lobamba",
 			"Manzini",
-			"Big Bend, Eswatini",
+			"Lobamba",
 			"Nhlangano",
 			"Siteki",
 			"Mkhaya Game Reserve",
 			"Hlane Royal National Park",
 			"Malolotja Nature Reserve",
 			"Mantenga Nature Reserve",
+			"Big Bend, Eswatini",
 			"Mlilwane Wildlife Sanctuary"
 		],
 		"wb": "Q1050",
@@ -4159,22 +4158,22 @@
 		],
 		"destinations": [
 			"Addis Ababa",
-			"Adama",
 			"Axum",
 			"Bahir Dar",
 			"Dire Dawa",
 			"Gondar",
 			"Harar",
-			"Lalibela",
 			"Mekele",
+			"Simien National Park",
+			"Danakil Depression",
+			"Adama",
+			"Lalibela",
 			"Abijatta Shalla Lakes National Park",
 			"Awash National Park",
 			"Mago National Park",
 			"Omo National Park",
-			"Simien National Park",
 			"Sodere",
-			"Konso",
-			"Danakil Depression"
+			"Konso"
 		],
 		"wb": "Q115",
 		"neighbors": [
@@ -4210,12 +4209,12 @@
 		"destinations": [
 			"Suva",
 			"Lautoka",
-			"Levuka",
 			"Nadi",
-			"Nausori",
 			"Taveuni",
-			"Ovalau",
-			"Nananu-i-Ra"
+			"Nananu-i-Ra",
+			"Levuka",
+			"Nausori",
+			"Ovalau"
 		],
 		"wb": "Q712",
 		"neighbors": [
@@ -4340,18 +4339,18 @@
 			"Helsinki",
 			"Jyväskylä",
 			"Oulu",
-			"Rauma",
 			"Rovaniemi",
-			"Savonlinna",
 			"Tampere",
 			"Turku",
 			"Vaasa",
-			"Koli National Park",
-			"Lemmenjoki National Park",
-			"Nuuksio National Park",
 			"Kilpisjärvi",
 			"Vyborg",
 			"Petrozavodsk",
+			"Rauma",
+			"Savonlinna",
+			"Koli National Park",
+			"Lemmenjoki National Park",
+			"Nuuksio National Park",
 			"Sweden",
 			"Estonia",
 			"Norway",
@@ -4530,31 +4529,31 @@
 			"Nantes",
 			"Strasbourg",
 			"Toulouse",
-			"Camargue",
-			"Disneyland Paris",
 			"French Riviera",
 			"Loire Valley",
-			"Luberon",
 			"Saint-Tropez",
 			"Annecy",
-			"Èze",
 			"Rouen",
-			"Bayeux",
 			"Caen",
-			"Cherbourg",
 			"Dieppe",
-			"Honfleur",
 			"Le Havre",
-			"Giverny",
-			"Centre-Val de Loire",
-			"Hauts-de-France",
-			"Pays de la Loire",
-			"Normandy",
 			"Montpellier",
 			"Aix-en-Provence",
 			"Nîmes",
 			"Avignon",
 			"Alpes-Maritimes",
+			"Camargue",
+			"Disneyland Paris",
+			"Luberon",
+			"Èze",
+			"Bayeux",
+			"Cherbourg",
+			"Honfleur",
+			"Giverny",
+			"Centre-Val de Loire",
+			"Hauts-de-France",
+			"Pays de la Loire",
+			"Normandy",
 			"Réunion"
 		],
 		"wb": "Q142",
@@ -4652,14 +4651,11 @@
 			"Gunjur",
 			"Janjanbureh",
 			"Juffureh",
-			"Kartong",
 			"Serekunda",
 			"Tanji",
 			"Yundum",
 			"Abuko Nature Reserve",
-			"Bao Bolon Wetland Reserve",
 			"Kunta Kinteh Island",
-			"Makasutu Cultural Forest",
 			"Senegal"
 		],
 		"wb": "Q1005",
@@ -4677,7 +4673,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gambia_111_from_KG.jpg",
-		"updated": "2025-07-04T05:22:44.006Z"
+		"updated": "2025-08-23T04:25:50.574Z"
 	},
 	"Georgia": {
 		"seen": 56,
@@ -4731,6 +4727,8 @@
 			"Borjomi",
 			"Gori",
 			"Kutaisi",
+			"Ochamchire",
+			"Stepantsminda",
 			"Mtskheta",
 			"Sighnaghi",
 			"Telavi",
@@ -4739,13 +4737,9 @@
 			"Georgian Military Highway",
 			"Kakheti",
 			"Kazbegi",
-			"David Gareja Monastery Complex",
 			"Pasanauri",
-			"Shatili",
 			"Mazeri",
-			"Vardzia",
-			"Ochamchire",
-			"Stepantsminda"
+			"Vardzia"
 		],
 		"wb": "Q230",
 		"neighbors": [
@@ -4766,7 +4760,7 @@
 		"snippets": 12,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Rustaveli_National_Theater_in_Georgia_%28Europe%29%2C_built_19th_century_in_Rococo_style.jpg",
-		"updated": "2025-07-04T05:22:44.007Z"
+		"updated": "2025-08-23T04:25:50.575Z"
 	},
 	"Germany": {
 		"zoom": 5,
@@ -4829,21 +4823,21 @@
 			"Hamburg",
 			"Munich",
 			"Nuremberg",
-			"Baltic Sea Coast (Germany)",
-			"Bavarian Alps",
-			"East Frisian Islands",
 			"North Frisian Islands",
 			"Weinheim",
-			"Bensheim",
-			"Schwetzingen",
 			"Augsburg",
 			"Bamberg",
-			"Lübeck",
 			"Ulm",
 			"Stuttgart",
 			"Bayreuth",
 			"Leipzig",
-			"Memmingen"
+			"Memmingen",
+			"Baltic Sea Coast (Germany)",
+			"Bavarian Alps",
+			"East Frisian Islands",
+			"Bensheim",
+			"Schwetzingen",
+			"Lübeck"
 		],
 		"wb": "Q183",
 		"neighbors": [
@@ -4895,11 +4889,11 @@
 			"Cape Coast",
 			"Koforidua",
 			"Kumasi",
-			"Obuasi",
-			"Sekondi-Takoradi",
 			"Sunyani",
 			"Tamale",
 			"Tema",
+			"Obuasi",
+			"Sekondi-Takoradi",
 			"Boti Falls",
 			"Kakum National Park",
 			"Mole National Park",
@@ -4988,25 +4982,25 @@
 			"Athens",
 			"Thessaloniki",
 			"Chania",
-			"Chersonissos",
 			"Heraklion",
 			"Patras",
 			"Larissa",
 			"Rhodes (city)",
 			"Volos",
 			"Corfu",
-			"Ithaca (Greece)",
-			"Meteora",
-			"Mount Athos",
 			"Mykonos",
 			"Olympia (Greece)",
 			"Rhodes",
 			"Santorini",
-			"Hydra",
 			"Attica",
-			"Peloponnese",
 			"Spetses",
-			"Alonissos"
+			"Alonissos",
+			"Chersonissos",
+			"Ithaca (Greece)",
+			"Meteora",
+			"Mount Athos",
+			"Hydra",
+			"Peloponnese"
 		],
 		"blogs": [
 			1019
@@ -5139,16 +5133,16 @@
 		"destinations": [
 			"Guatemala City",
 			"Antigua Guatemala",
+			"Panajachel",
+			"Quetzaltenango",
+			"Tikal",
 			"Flores (Guatemala)",
 			"Melchor de Mencos",
-			"Panajachel",
 			"Puerto Barrios",
 			"Puerto San José",
-			"Quetzaltenango",
 			"Sayaxché",
 			"Semuc Champey",
 			"Monterrico",
-			"Tikal",
 			"Iximche"
 		],
 		"wb": "Q774",
@@ -5182,17 +5176,14 @@
 		"links": [],
 		"destinations": [
 			"Conakry",
-			"Beyla",
+			"Kankan",
 			"Dalaba",
 			"Faranah",
 			"Forécariah",
-			"Kankan",
 			"Kindia",
 			"Labé",
 			"Mamou",
-			"Fouta Djalon",
 			"Loos Islands",
-			"National Park of the Niokolo-Badiar",
 			"National Park of the Upper Niger"
 		],
 		"wb": "Q1006",
@@ -5213,7 +5204,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fouta_Djallon_%2814582291826%29.jpg",
-		"updated": "2025-07-04T05:29:35.767Z"
+		"updated": "2025-08-23T04:25:50.578Z"
 	},
 	"Guinea-Bissau": {
 		"thumbnail": "/images/org_wikipedia_commons_thumb_f_f1_Paesaggio_savana_con_termitai_in_Guinea-Bissau_JPG_440px-Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
@@ -5268,10 +5259,10 @@
 		"links": [],
 		"destinations": [
 			"Georgetown (Guyana)",
-			"Bartica",
 			"Mabaruma",
-			"New Amsterdam (Guyana)",
 			"Lethem",
+			"Bartica",
+			"New Amsterdam (Guyana)",
 			"Linden (Guyana)",
 			"Parika",
 			"Port Kaituma",
@@ -5362,16 +5353,16 @@
 		"destinations": [
 			"Tegucigalpa",
 			"La Ceiba",
+			"Gracias",
+			"San Pedro Sula",
+			"Lake Yojoa",
 			"El Progreso",
 			"Comayagua",
-			"Gracias",
 			"Puerto Cortes",
-			"San Pedro Sula",
 			"Santa Rosa de Copán",
 			"Tela",
 			"Bay Islands",
-			"Copán Ruinas",
-			"Lake Yojoa"
+			"Copán Ruinas"
 		],
 		"wb": "Q783",
 		"neighbors": [
@@ -5486,11 +5477,11 @@
 			"Budapest",
 			"Debrecen",
 			"Győr",
-			"Kecskemét",
 			"Miskolc",
 			"Nyíregyháza",
 			"Pécs",
 			"Szeged",
+			"Kecskemét",
 			"Székesfehérvár",
 			"Hortobágy",
 			"Aggtelek"
@@ -5700,43 +5691,40 @@
 			"Hyderabad",
 			"Jaipur",
 			"Kochi",
-			"Kolkata",
 			"Mumbai",
 			"Varanasi",
-			"Bodh Gaya",
-			"Ajanta",
 			"Amritsar",
-			"Hampi",
-			"Khajuraho",
-			"Konark",
 			"Madurai",
 			"Agra",
-			"Indian national parks and wildlife sanctuaries",
-			"Indian zoos and botanical gardens",
-			"Natural wonders of India",
-			"Sacred sites of the Indian sub-continent",
-			"UNESCO World Heritage List (India)",
-			"UNESCO World Heritage List",
 			"Aurangabad",
 			"Paithan",
-			"Khuldabad",
 			"Goa",
 			"Panaji",
-			"Mapusa",
 			"Margao",
-			"Old Goa",
-			"Vasco da Gama",
-			"Shiroda",
 			"Gokarna",
 			"Ratnagiri",
 			"Kalimpong",
 			"Kurseong",
-			"Mirik",
 			"Sikkim",
 			"Siliguri",
-			"Tirumala",
 			"Tirupati",
-			"Tiruchirappalli"
+			"Tiruchirappalli",
+			"Kolkata",
+			"Bodh Gaya",
+			"Hampi",
+			"Khajuraho",
+			"Konark",
+			"Indian national parks and wildlife sanctuaries",
+			"Indian zoos and botanical gardens",
+			"Natural wonders of India",
+			"UNESCO World Heritage List (India)",
+			"Khuldabad",
+			"Mapusa",
+			"Old Goa",
+			"Vasco da Gama",
+			"Shiroda",
+			"Mirik",
+			"Tirumala"
 		],
 		"wb": "Q668",
 		"neighbors": [
@@ -5757,7 +5745,7 @@
 		},
 		"snippets": 13,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Varanasikedarghat.JPG",
-		"updated": "2025-08-23T04:07:27.175Z"
+		"updated": "2025-08-23T04:25:50.581Z"
 	},
 	"Indonesia": {
 		"zoom": 3,
@@ -5808,15 +5796,15 @@
 			"Jakarta",
 			"Bandung",
 			"Banjarmasin",
-			"Jayapura",
-			"Kuta",
 			"Makassar",
 			"Medan",
 			"Surabaya",
 			"Yogyakarta",
-			"Borobudur",
 			"Bromo-Tengger-Semeru National Park",
 			"Bunaken",
+			"Jayapura",
+			"Kuta",
+			"Borobudur",
 			"Kerinci Seblat National Park",
 			"Komodo National Park",
 			"Lombok",
@@ -5904,16 +5892,16 @@
 			"Shiraz",
 			"Tabriz",
 			"Yazd",
+			"Mashhad",
+			"Hamadan",
+			"Zahedan",
 			"Alamut",
 			"Kish Island",
 			"Qeshm Island",
 			"Pasargad",
 			"Persepolis",
 			"Shush (Iran)",
-			"Qeshm",
-			"Mashhad",
-			"Hamadan",
-			"Zahedan"
+			"Qeshm"
 		],
 		"wb": "Q794",
 		"neighbors": [
@@ -5967,18 +5955,18 @@
 			"Ar Rutba",
 			"Basra",
 			"Erbil",
-			"Fallujah",
 			"Karbala",
 			"Kirkuk",
 			"Mosul",
+			"Hatra",
+			"Dahuk",
+			"Sulemania",
+			"Fallujah",
 			"Assur",
 			"Babylon",
 			"Ctesiphon",
-			"Hatra",
 			"Ur",
-			"Salman Pak",
-			"Dahuk",
-			"Sulemania"
+			"Salman Pak"
 		],
 		"wb": "Q796",
 		"neighbors": [
@@ -6125,12 +6113,12 @@
 			"Dublin",
 			"Cork",
 			"Galway",
-			"Killarney",
 			"Kilkenny",
 			"Letterkenny",
 			"Limerick",
 			"Sligo",
 			"Waterford",
+			"Killarney",
 			"Aran Islands",
 			"Cliffs of Moher",
 			"Connemara",
@@ -6327,10 +6315,8 @@
 			"Turin",
 			"Venice",
 			"Lake Como",
-			"Lake Garda",
 			"Grado",
 			"Trieste",
-			"Sicily",
 			"Palermo",
 			"Agrigento",
 			"Catania",
@@ -6351,7 +6337,9 @@
 			"Scicli",
 			"Verona",
 			"Rimini",
-			"Pennabilli"
+			"Pennabilli",
+			"Lake Garda",
+			"Sicily"
 		],
 		"wb": "Q38",
 		"neighbors": [
@@ -6391,19 +6379,13 @@
 			"Kingston (Jamaica)",
 			"Montego Bay",
 			"Negril",
+			"Blue Mountains (Jamaica)",
 			"Portmore",
 			"Ocho Rios",
 			"Port Antonio",
 			"Morant Bay",
-			"Black River",
 			"Falmouth (Jamaica)",
 			"Port Maria",
-			"Mandeville",
-			"Green Island (Jamaica)",
-			"Blue Mountains (Jamaica)",
-			"Cave Valley",
-			"Nassau Valley (Jamaica)",
-			"Manchester (Jamaica)",
 			"Great Goat Island"
 		],
 		"wb": "Q766",
@@ -6423,7 +6405,7 @@
 		"snippets": 2,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sunny_lodge_walderston_jamaica.jpg",
-		"updated": "2025-08-23T04:07:27.185Z"
+		"updated": "2025-08-23T04:25:50.585Z"
 	},
 	"Japan": {
 		"@seen": "February 2008",
@@ -6487,11 +6469,8 @@
 			"Osaka",
 			"Sapporo",
 			"Sendai",
-			"Miyajima",
 			"Mount Fuji",
 			"Sado Island",
-			"Shiretoko National Park",
-			"Yaeyama Islands",
 			"Yakushima",
 			"Shari",
 			"Wakkanai",
@@ -6499,7 +6478,10 @@
 			"Takamatsu",
 			"Matsuyama",
 			"Ōkunoshima",
-			"Tottori"
+			"Tottori",
+			"Miyajima",
+			"Shiretoko National Park",
+			"Yaeyama Islands"
 		],
 		"wb": "Q17",
 		"neighbors": [
@@ -6545,15 +6527,15 @@
 		"destinations": [
 			"Amman",
 			"Aqaba",
-			"Irbid",
 			"Jerash",
 			"Kerak",
 			"Madaba",
-			"Zarqa",
 			"Ajlun",
+			"Petra",
+			"Irbid",
+			"Zarqa",
 			"Azraq",
 			"Dana Nature Reserve",
-			"Petra",
 			"Umm Qais",
 			"Wadi Rum",
 			"Salt"
@@ -6607,18 +6589,17 @@
 		"destinations": [
 			"Astana",
 			"Almaty",
-			"Aktobe",
 			"Atyrau",
 			"Pavlodar",
 			"Semey",
 			"Shymkent",
 			"Turkestan",
 			"Ust-Kamenogorsk",
-			"Aksu-Zhabagly",
 			"Baikonur",
+			"Aktobe",
+			"Aksu-Zhabagly",
 			"Karkaraly National Park",
-			"Talgar",
-			"Zailiysky Alatau"
+			"Talgar"
 		],
 		"wb": "Q232",
 		"neighbors": [
@@ -6638,7 +6619,7 @@
 		},
 		"snippets": 0,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Altay_2.jpg",
-		"updated": "2025-08-23T04:17:13.779Z"
+		"updated": "2025-08-23T04:25:50.587Z"
 	},
 	"Kenya": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_09_Mt_Kenya_landscape_jpg_440px-Mt_Kenya_landscape.jpg",
@@ -6665,29 +6646,29 @@
 		"destinations": [
 			"Meru",
 			"Malindi",
-			"Mtwapa",
-			"Tsavo West National Park",
-			"Tsavo East National Park",
 			"Lamu",
 			"Kisumu",
-			"Maasai Mara National Reserve",
 			"Kakamega Rainforest",
 			"Mombasa",
 			"Nairobi",
-			"Amboseli National Park",
-			"Lake Nakuru National Park",
 			"Nakuru",
-			"Nairobi National Park",
 			"Garissa",
 			"Lodwar",
-			"Aberdare National Park",
-			"Sibiloi National Park",
 			"Embu",
 			"Nanyuki",
-			"Shimba Hills National Reserve",
 			"Voi",
 			"Lake Naivasha",
-			"Nyeri"
+			"Nyeri",
+			"Mtwapa",
+			"Tsavo West National Park",
+			"Tsavo East National Park",
+			"Maasai Mara National Reserve",
+			"Amboseli National Park",
+			"Lake Nakuru National Park",
+			"Nairobi National Park",
+			"Aberdare National Park",
+			"Sibiloi National Park",
+			"Shimba Hills National Reserve"
 		],
 		"wb": "Q114",
 		"neighbors": [
@@ -6724,10 +6705,10 @@
 		"links": [],
 		"destinations": [
 			"Tarawa",
+			"Nauru",
 			"Federated States of Micronesia",
 			"Fiji",
 			"Marshall Islands",
-			"Nauru",
 			"Solomon Islands"
 		],
 		"wb": "Q710",
@@ -6759,15 +6740,9 @@
 		"destinations": [
 			"Kuwait City",
 			"Jahra",
-			"Ahmadi",
 			"Hawalli",
-			"Farwaniya",
-			"Mubarak al-Kabeer",
 			"Shuwaikh",
-			"Dajeej",
 			"Salmiya",
-			"Rai",
-			"UAE",
 			"Qatar",
 			"Bahrain",
 			"Iran",
@@ -6790,7 +6765,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Q8desert.jpg",
-		"updated": "2025-08-23T04:07:27.187Z"
+		"updated": "2025-08-23T04:25:50.588Z"
 	},
 	"Kyrgyzstan": {
 		"zoom": 5,
@@ -6825,13 +6800,13 @@
 		],
 		"destinations": [
 			"Bishkek",
-			"Balykchy",
-			"Jalal-Abad",
 			"Karakol",
-			"Kochkor",
 			"Naryn",
 			"Osh",
 			"Talas",
+			"Balykchy",
+			"Jalal-Abad",
+			"Kochkor",
 			"Tokmok",
 			"Issyk Kul and the Tian Shan",
 			"Bishkek and the Northwest"
@@ -6873,18 +6848,18 @@
 		"destinations": [
 			"Vientiane",
 			"Houayxay",
-			"Luang Namtha",
 			"Luang Prabang",
 			"Muang Xay",
-			"Pakbeng",
 			"Pakse",
 			"Savannakhet",
 			"Thakhek",
+			"Vang Vieng",
+			"Luang Namtha",
+			"Pakbeng",
 			"Bolaven Plateau",
 			"Champasak",
 			"Nong Khiaw",
 			"Si Phan Don",
-			"Vang Vieng",
 			"Vieng Xai"
 		],
 		"wb": "Q819",
@@ -7005,12 +6980,12 @@
 		],
 		"destinations": [
 			"Riga",
+			"Daugavpils",
+			"Liepāja",
 			"Sigulda",
 			"Cēsis",
 			"Jūrmala",
-			"Daugavpils",
 			"Ventspils",
-			"Liepāja",
 			"Kuldīga",
 			"Madona",
 			"Riga region",
@@ -7050,17 +7025,17 @@
 		"destinations": [
 			"Beirut",
 			"Baalbek",
+			"Sidon",
+			"Tripoli (Lebanon)",
+			"Zahle",
+			"Deir el Qamar",
+			"North Lebanon",
 			"Byblos",
 			"Jezzine",
 			"Jounieh",
-			"Sidon",
-			"Tripoli (Lebanon)",
 			"Tyre",
-			"Zahle",
 			"Jeita",
-			"Kadisha Valley",
-			"Deir el Qamar",
-			"North Lebanon"
+			"Kadisha Valley"
 		],
 		"wb": "Q822",
 		"neighbors": [
@@ -7098,6 +7073,7 @@
 		],
 		"destinations": [
 			"Maseru",
+			"Sehlabathebe National Park",
 			"Hlotse",
 			"Mafeteng",
 			"Mohale's Hoek",
@@ -7107,10 +7083,7 @@
 			"Teyateyaneng",
 			"Thaba-Tseka",
 			"Oxbow (Lesotho)",
-			"Sehlabathebe National Park",
 			"Ts'ehlanyane National Park",
-			"Katse",
-			"Malealea",
 			"Morija",
 			"Semonkong",
 			"Thaba Bosiu",
@@ -7132,7 +7105,7 @@
 		"snippets": 0,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lesotho_snow_-_panoramio.jpg",
-		"updated": "2025-08-23T04:07:27.189Z"
+		"updated": "2025-08-23T04:25:50.590Z"
 	},
 	"Liberia": {
 		"thumbnail": "/images/ad_wikimedia_org_wikipedia_commons_thumb_0_0b_Downtown_Monrovia_3348917715_67a2002529_jpg_2560px-Downtown_Monrovia_3348917715_67a2002529.jpg",
@@ -7152,13 +7125,9 @@
 		"destinations": [
 			"Monrovia",
 			"Robertsport",
-			"Greenville (Liberia)",
 			"Harper",
-			"Paynesville (Liberia)",
 			"Sapo National Park",
-			"Providence Island",
-			"Lake Piso",
-			"Atlantic Coastal Beaches"
+			"Lake Piso"
 		],
 		"wb": "Q1014",
 		"neighbors": [
@@ -7176,7 +7145,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Downtown_Monrovia_3348917715_67a2002529.jpg",
-		"updated": "2025-08-23T04:07:27.196Z"
+		"updated": "2025-08-23T04:25:50.590Z"
 	},
 	"Libya": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_5b_Sabratha_-_Forumsgelände_02_jpg_440px-Sabratha_-_Forumsgelände_02.jpg",
@@ -7195,14 +7164,14 @@
 			"Tripoli",
 			"Benghazi",
 			"Ghadamis",
+			"Misrata",
+			"Ghat (Libya)",
 			"Sabha",
 			"Shahhat",
 			"Surt",
 			"Tobruk",
 			"Zuwara",
-			"Misrata",
-			"Gaberoun",
-			"Ghat (Libya)"
+			"Gaberoun"
 		],
 		"wb": "Q1016",
 		"neighbors": [
@@ -7239,9 +7208,9 @@
 		"links": [],
 		"destinations": [
 			"Vaduz",
+			"Schaan",
 			"Balzers",
 			"Malbun",
-			"Schaan",
 			"Triesen",
 			"Triesenberg",
 			"Ruggell",
@@ -7329,17 +7298,16 @@
 		],
 		"destinations": [
 			"Vilnius",
-			"Jonava",
 			"Kaunas",
 			"Klaipėda",
-			"Panevėžys",
 			"Šiauliai",
+			"Jonava",
+			"Panevėžys",
 			"Trakai",
 			"Aukštaitija National Park",
 			"Curonian Spit",
 			"Dzūkija National Park",
 			"Kernavė",
-			"Purnuskes",
 			"Žemaičių Kalvarija",
 			"Dzūkija"
 		],
@@ -7360,7 +7328,7 @@
 		},
 		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Merkin%C4%97001.JPG",
-		"updated": "2025-08-23T04:07:27.197Z"
+		"updated": "2025-08-23T04:25:50.591Z"
 	},
 	"Luxembourg": {
 		"thumbnail": "/images/b_3_3f_Musee_Nationale_d'Histoire_Militaire,_Diekirch_(5271045504)_jpg_440px-Musee_Nationale_d'Histoire_Militaire,_Diekirch_(5271045504).jpg",
@@ -7471,16 +7439,15 @@
 		"destinations": [
 			"Skopje",
 			"Bitola",
-			"Kratovo",
 			"Kruševo",
 			"Ohrid",
 			"Prilep",
 			"Strumica",
+			"Mavrovo National Park",
+			"Kratovo",
 			"Veles",
 			"Galičica National Park",
-			"Mavrovo National Park",
 			"Pelister National Park",
-			"Prespa (Macedonia)",
 			"Vevčani",
 			"Elšani",
 			"Resen"
@@ -7504,7 +7471,7 @@
 		},
 		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iglesia_San_Juan_Kaneo%2C_Ohrid%2C_Macedonia_del_Norte%2C_2014-04-17%2C_DD_19.jpg",
-		"updated": "2025-08-23T04:07:27.198Z"
+		"updated": "2025-08-23T04:25:50.591Z"
 	},
 	"Madagascar": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_ff_Katta_család_jpg_500px-Katta_család.jpg",
@@ -7529,9 +7496,10 @@
 		],
 		"destinations": [
 			"Antananarivo",
+			"Antsirabe",
+			"Nosy Be",
 			"Ambalavao",
 			"Ambositra",
-			"Antsirabe",
 			"Fianarantsoa",
 			"Ihosy",
 			"Morondava",
@@ -7540,10 +7508,8 @@
 			"Anakao",
 			"Andasibe-Mantadia National Park",
 			"Andringitra National Park",
-			"Ile aux Nattes",
 			"Isalo National Park",
 			"Masoala National Park",
-			"Nosy Be",
 			"Ranomafana National Park"
 		],
 		"wb": "Q1019",
@@ -7564,7 +7530,7 @@
 		"snippets": 5,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Katta_csal%C3%A1d.jpg",
-		"updated": "2025-08-23T04:19:05.818Z"
+		"updated": "2025-08-23T04:25:50.592Z"
 	},
 	"Malawi": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a6_Liwonde_NP_crocodiles_jpg_440px-Liwonde_NP_crocodiles.jpg",
@@ -7590,17 +7556,16 @@
 			"Lilongwe",
 			"Blantyre",
 			"Karonga",
+			"Nkhata Bay",
+			"Zomba",
+			"Liwonde National Park",
 			"Mangochi",
 			"Monkey Bay",
-			"Nkhata Bay",
 			"Nkhotakota",
-			"Zomba",
 			"Cape Maclear",
 			"Mua",
 			"Zomba Plateau",
 			"Lake Malawi National Park",
-			"Liwonde National Park",
-			"Majete Wildlife Park",
 			"Nyika National Park",
 			"Ntchisi Forest Reserve",
 			"Tanzania",
@@ -7625,7 +7590,7 @@
 		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Liwonde_NP_crocodiles.jpg",
-		"updated": "2025-08-23T04:08:52.493Z"
+		"updated": "2025-08-23T04:25:50.592Z"
 	},
 	"Malaysia": {
 		"zoom": 4,
@@ -7754,14 +7719,12 @@
 			}
 		],
 		"destinations": [
-			"Male",
-			"Seenu",
+			"Malé",
 			"Kuredu",
 			"Mathiveri",
 			"Rasdhoo",
 			"Thoddoo",
-			"Ukulhas",
-			"Malé"
+			"Ukulhas"
 		],
 		"wb": "Q826",
 		"neighbors": [
@@ -7779,7 +7742,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Male-total.jpg",
-		"updated": "2025-08-23T04:08:52.501Z"
+		"updated": "2025-08-23T04:25:50.593Z"
 	},
 	"Mali": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_51_Timbuktu_street_scene_jpg_440px-Timbuktu_street_scene.jpg",
@@ -7799,15 +7762,15 @@
 		"destinations": [
 			"Bamako",
 			"Gao",
-			"Kayes",
 			"Kidal",
 			"Mopti",
+			"Timbuktu",
+			"Sikasso (city)",
+			"Kayes",
 			"Ségou",
 			"Sikasso",
-			"Timbuktu",
 			"Adrar des Ifoghas",
-			"Djenné",
-			"Sikasso (city)"
+			"Djenné"
 		],
 		"wb": "Q912",
 		"neighbors": [
@@ -7857,6 +7820,8 @@
 		],
 		"destinations": [
 			"Valletta",
+			"Victoria (Malta)",
+			"Malta Island",
 			"Cottonera",
 			"Marsaxlokk",
 			"Mdina",
@@ -7864,12 +7829,9 @@
 			"Rabat (Malta)",
 			"St. Julian's",
 			"Sliema",
-			"Victoria (Malta)",
 			"Żejtun",
-			"Hagar Qim and Mnajdra",
 			"Mellieħa",
-			"Golden Bay (Malta)",
-			"Malta Island"
+			"Golden Bay (Malta)"
 		],
 		"wb": "Q233",
 		"neighbors": [
@@ -7887,7 +7849,7 @@
 		"snippets": 3,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg",
-		"updated": "2025-08-23T04:08:52.502Z"
+		"updated": "2025-08-23T04:25:50.594Z"
 	},
 	"Marshall Islands": {
 		"thumbnail": "/images/a_org_wikipedia_commons_thumb_e_ec_Air_Marshall_Islands_Dash_8-100_(V7-0210)_(2)_jpg_440px-Air_Marshall_Islands_Dash_8-100_(V7-0210)_(2).jpg",
@@ -7991,10 +7953,12 @@
 		],
 		"destinations": [
 			"Port Louis",
+			"Vacoas-Phoenix",
+			"Rodrigues",
+			"Mahebourg",
 			"Beau Bassin-Rose Hill",
 			"Curepipe",
 			"Quatre Bornes",
-			"Vacoas-Phoenix",
 			"Blue Bay",
 			"Centre de Flacq",
 			"Chamarel",
@@ -8006,11 +7970,7 @@
 			"Tamarin (Mauritius)",
 			"Triolet",
 			"Trou d'Eau Douce",
-			"Agaléga",
-			"Rodrigues",
-			"Le Morne",
-			"Macchabée - Bel Ombre Nature Preserve",
-			"Mahebourg"
+			"Agaléga"
 		],
 		"wb": "Q1027",
 		"neighbors": [
@@ -8030,7 +7990,7 @@
 		"snippets": 1,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chamarel_Falls_Mauritius_2.JPG",
-		"updated": "2025-08-23T04:17:22.859Z"
+		"updated": "2025-08-23T04:25:50.594Z"
 	},
 	"Mexico": {
 		"zoom": 4,
@@ -8291,22 +8251,22 @@
 			"San Luis Potosi",
 			"Taxco",
 			"Tijuana",
-			"Copper Canyon",
-			"Chiapas",
 			"Puerto Peñasco",
-			"Ek Balam",
-			"El Tajín",
-			"Palenque",
 			"Tulum",
 			"Guanajuato",
 			"Chetumal",
-			"Guatemala",
-			"United States",
 			"Puerto Morelos",
 			"Valladolid (Mexico)",
 			"Playa del Carmen",
 			"Cozumel",
-			"Mérida, Yucatán"
+			"Mérida, Yucatán",
+			"Copper Canyon",
+			"Chiapas",
+			"Ek Balam",
+			"El Tajín",
+			"Palenque",
+			"Guatemala",
+			"United States"
 		],
 		"wb": "Q96",
 		"neighbors": [
@@ -8342,7 +8302,6 @@
 		"destinations": [
 			"Palikir",
 			"Kolonia",
-			"Lele",
 			"Weno",
 			"Kapingamarangi"
 		],
@@ -8359,7 +8318,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Pink_anemonefish_BWP.jpg",
-		"updated": "2025-08-23T04:17:22.860Z"
+		"updated": "2025-08-23T04:25:50.597Z"
 	},
 	"Moldova": {
 		"zoom": 6,
@@ -8382,16 +8341,11 @@
 			}
 		],
 		"destinations": [
-			"Chişinău",
-			"Bălţi",
 			"Soroca",
 			"Ungheni",
 			"Comrat",
 			"Cahul",
-			"Orhei",
-			"Gagauzia",
-			"Chișinău",
-			"Rîbnița"
+			"Chișinău"
 		],
 		"wb": "Q217",
 		"neighbors": [
@@ -8410,7 +8364,7 @@
 		},
 		"snippets": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Chisinau_Airport_KIV.jpg",
-		"updated": "2025-03-15T17:33:09.441Z"
+		"updated": "2025-08-23T04:25:50.597Z"
 	},
 	"Monaco": {
 		"citylike": true,
@@ -8453,11 +8407,9 @@
 			}
 		],
 		"destinations": [
-			"Cote d'Azur",
-			"Saint Tropez",
 			"Alpes-Maritimes",
-			"Italy",
-			"Monaco"
+			"Monaco",
+			"Italy"
 		],
 		"wb": "Q235",
 		"neighbors": [
@@ -8474,7 +8426,7 @@
 		"snippets": 0,
 		"zoom": 13,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Monaco_at_dusk.jpg",
-		"updated": "2025-08-23T04:17:22.860Z"
+		"updated": "2025-08-23T04:25:50.597Z"
 	},
 	"Mongolia": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_bc_USMC-100903-M-1294R-001_jpg_600px-USMC-100903-M-1294R-001.jpg",
@@ -8488,25 +8440,23 @@
 		"links": [],
 		"destinations": [
 			"Ulaanbaatar",
-			"Choibalsan",
 			"Erdenet",
 			"Hovd",
 			"Mörön",
 			"Ölgii",
-			"Öndörkhaan",
 			"Tsetserleg",
-			"Khognokhan mountain specially protected territory",
+			"Ulan Ude",
+			"Zamyn-Üüd",
+			"Dalanzadgad",
+			"Choibalsan",
+			"Öndörkhaan",
 			"Altai Tavan Bogd National Park",
 			"Gun-Galuut Nature Reserve",
 			"Gorkhi-Terelj National Park",
 			"Khustain Nuruu National Park",
 			"Gobi Gurvan Saikhan National Park",
 			"Erlian",
-			"Jining (Inner Mongolia)",
-			"Zamiin-Uud",
-			"Ulan Ude",
-			"Zamyn-Üüd",
-			"Dalanzadgad"
+			"Jining (Inner Mongolia)"
 		],
 		"wb": "Q711",
 		"neighbors": [
@@ -8523,7 +8473,7 @@
 		"snippets": 14,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg",
-		"updated": "2025-08-23T04:08:52.504Z"
+		"updated": "2025-08-23T04:25:50.599Z"
 	},
 	"Montenegro": {
 		"seen": 59,
@@ -8542,18 +8492,17 @@
 			"Podgorica",
 			"Bar",
 			"Budva",
-			"Kotor",
-			"Nikšić",
-			"Tivat",
 			"Žabljak",
 			"Ulcinj",
 			"Bečići",
+			"Kotor",
+			"Nikšić",
+			"Tivat",
 			"Biogradska Gora National Park",
 			"Durmitor National Park",
 			"Lovćen National Park",
 			"Mount Ostrog",
 			"Perast",
-			"Prokletije National Park",
 			"Skadar Lake National Park",
 			"Sveti Stefan"
 		],
@@ -8585,7 +8534,7 @@
 		"snippets": 15,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Budva6.jpg",
-		"updated": "2025-08-23T04:08:52.504Z"
+		"updated": "2025-08-23T04:25:50.600Z"
 	},
 	"Morocco": {
 		"seen": 49,
@@ -8643,15 +8592,14 @@
 			"Meknes",
 			"Ouarzazate",
 			"Tangier",
-			"Tetouan",
-			"Chefchaouen",
 			"Essaouira",
+			"Tinerhir",
+			"Tétouan",
+			"Moulay Idriss",
+			"Chefchaouen",
 			"Merzouga",
 			"M'Hamid",
-			"Tinerhir",
-			"Volubilis",
-			"Tétouan",
-			"Moulay Idriss"
+			"Volubilis"
 		],
 		"wb": "Q1028",
 		"neighbors": [
@@ -8671,7 +8619,7 @@
 		"snippets": 9,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Souk%2C_Marrakech_%282242326899%29.jpg",
-		"updated": "2025-08-23T04:08:52.512Z"
+		"updated": "2025-08-23T04:25:50.600Z"
 	},
 	"Mozambique": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_f0_Fortaleza_de_São_Sebastião-01_jpg_440px-Fortaleza_de_São_Sebastião-01.jpg",
@@ -8696,6 +8644,7 @@
 			"Inhambane",
 			"Nampula",
 			"Pemba",
+			"Bazaruto Archipelago National Park",
 			"Bazaruto Archipelago",
 			"Cahora Bassa",
 			"Gorongosa National Park",
@@ -8704,8 +8653,7 @@
 			"Quirimbas Islands",
 			"Tofo Beach",
 			"Vilanculos",
-			"Northern Mozambique",
-			"Bazaruto Archipelago National Park"
+			"Northern Mozambique"
 		],
 		"wb": "Q1029",
 		"neighbors": [
@@ -8748,23 +8696,23 @@
 		"destinations": [
 			"Naypyidaw",
 			"Bago (Myanmar)",
-			"Kawthaung",
 			"Mandalay",
 			"Mawlamyine",
 			"Pyin U Lwin",
 			"Taunggyi",
-			"Twante",
 			"Yangon",
 			"Bagan",
 			"Inle Lake",
-			"Kengtung",
-			"Kyaiktiyo",
 			"Mount Popa",
 			"Mrauk U",
 			"Ngapali",
-			"Ngwe Saung",
 			"Pyay",
-			"Pathein"
+			"Pathein",
+			"Kawthaung",
+			"Twante",
+			"Kengtung",
+			"Kyaiktiyo",
+			"Ngwe Saung"
 		],
 		"wb": "Q836",
 		"neighbors": [
@@ -8811,24 +8759,11 @@
 		],
 		"destinations": [
 			"Windhoek",
-			"Gobabis",
-			"Katima Mulilo",
 			"Keetmanshoop",
 			"Lüderitz",
-			"Mariental",
-			"Opuwo",
-			"Rundu",
 			"Swakopmund",
-			"Brandberg",
 			"Etosha National Park",
-			"Fish River Canyon Park",
-			"Kaokoland",
-			"Skeleton Coast National Park",
-			"Sossusvlei",
-			"Waterberg Plateau Park",
-			"South Africa",
-			"Botswana",
-			"Angola"
+			"Sossusvlei"
 		],
 		"wb": "Q1030",
 		"neighbors": [
@@ -8848,7 +8783,7 @@
 		"snippets": 5,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Robbenkolonie_Sklelettk%C3%BCste_anagoria.JPG",
-		"updated": "2025-03-15T17:33:09.443Z"
+		"updated": "2025-08-23T04:25:50.601Z"
 	},
 	"Nauru": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_50_Nauru(07)_jpg_600px-Nauru(07).jpg",
@@ -8901,20 +8836,19 @@
 		"links": [],
 		"destinations": [
 			"Kathmandu",
-			"Bhaktapur",
 			"Biratnagar",
-			"Birgunj",
-			"Bharatpur (Nepal)",
 			"Janakpur",
 			"Namche Bazaar",
+			"Pokhara",
+			"Bhaktapur",
+			"Birgunj",
+			"Bharatpur (Nepal)",
 			"Nepalgunj",
 			"Patan",
-			"Pokhara",
 			"Chitwan National Park",
 			"Daman (Nepal)",
 			"Khumbu",
 			"Nagarkot",
-			"Parping",
 			"Tangting",
 			"Pharping"
 		],
@@ -8933,7 +8867,7 @@
 		"snippets": 9,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kathmandu_Valley.jpg",
-		"updated": "2025-08-23T04:08:52.514Z"
+		"updated": "2025-08-23T04:25:50.602Z"
 	},
 	"Netherlands": {
 		"seen": 9,
@@ -9006,25 +8940,24 @@
 		],
 		"destinations": [
 			"Amsterdam",
-			"Delft",
 			"Groningen",
 			"The Hague",
-			"Leiden",
 			"Maastricht",
 			"Nijmegen",
 			"Rotterdam",
 			"Utrecht",
+			"Texel",
+			"Haarlem",
+			"Eindhoven",
+			"Delft",
+			"Leiden",
 			"Efteling",
 			"Lisse",
 			"Kinderdijk",
-			"Schokland",
 			"South Limburg",
-			"Texel",
 			"Zaanse Schans",
 			"Zaanstreek-Waterland",
-			"Noordoostpolder",
-			"Haarlem",
-			"Eindhoven"
+			"Noordoostpolder"
 		],
 		"wb": "Q55",
 		"neighbors": [
@@ -9045,7 +8978,7 @@
 		"snippets": 6,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kinderdijk11.JPG",
-		"updated": "2025-08-23T04:08:52.514Z"
+		"updated": "2025-08-23T04:25:50.602Z"
 	},
 	"New Zealand": {
 		"zoom": 4,
@@ -9150,14 +9083,13 @@
 			"Nelson (New Zealand)",
 			"Queenstown (New Zealand)",
 			"Rotorua",
-			"Abel Tasman National Park",
 			"Aoraki / Mount Cook National Park",
-			"Coromandel Peninsula",
-			"Marlborough (New Zealand)",
 			"Milford Sound",
 			"Taupō",
-			"Tongariro National Park",
-			"Westland National Park"
+			"Abel Tasman National Park",
+			"Coromandel Peninsula",
+			"Marlborough (New Zealand)",
+			"Tongariro National Park"
 		],
 		"wb": "Q664",
 		"neighbors": [
@@ -9175,7 +9107,7 @@
 		},
 		"snippets": 9,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WellingtonPanorama.jpg",
-		"updated": "2025-08-23T04:17:13.796Z"
+		"updated": "2025-08-23T04:25:50.603Z"
 	},
 	"Nicaragua": {
 		"seen": 42,
@@ -9205,17 +9137,15 @@
 		],
 		"destinations": [
 			"Managua",
+			"Bluefields",
+			"San Juan del Sur",
 			"León (Nicaragua)",
 			"Granada (Nicaragua)",
 			"Estelí",
 			"Matagalpa",
 			"Jinotega",
-			"Bluefields",
-			"San Juan del Sur",
 			"Isla de Ometepe",
 			"Laguna de Apoyo",
-			"Pueblos Blancos",
-			"Volcan Masaya",
 			"Volcan Cosigüina",
 			"Somoto",
 			"Big Corn Island",
@@ -9240,7 +9170,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Col_Universitaria%2C_Le%C3%B3n%2C_Nicaragua_-_panoramio_-_Juan_Jos%C3%A9_Mendoza_%285%29.jpg",
-		"updated": "2025-08-23T04:08:52.515Z"
+		"updated": "2025-08-23T04:25:50.603Z"
 	},
 	"Niger": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_23_Elephants_bath_park_w_Niger_2006_jpg_440px-Elephants_bath_park_w_Niger_2006.jpg",
@@ -9263,7 +9193,6 @@
 			"Zinder",
 			"W National Park",
 			"Koure",
-			"Balleyara Market",
 			"Bilma"
 		],
 		"wb": "Q1032",
@@ -9287,7 +9216,7 @@
 		"snippets": 0,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Elephants_bath_park_w_Niger_2006.jpg",
-		"updated": "2025-08-23T04:19:05.825Z"
+		"updated": "2025-08-23T04:25:50.604Z"
 	},
 	"Nigeria": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8f_Pitakwa_jpg_440px-Pitakwa.jpg",
@@ -9314,20 +9243,17 @@
 		"destinations": [
 			"Abuja",
 			"Benin City",
-			"Calabar",
-			"Enugu",
-			"Ibadan",
 			"Kano",
 			"Lagos",
 			"Osogbo",
+			"Calabar",
+			"Enugu",
+			"Ibadan",
 			"Port Harcourt",
 			"Kainji National Park",
-			"Yankari National Park",
-			"Cross River",
 			"Niger",
 			"Cameroon",
-			"Benin",
-			"Southwest Nigeria"
+			"Benin"
 		],
 		"wb": "Q1033",
 		"neighbors": [
@@ -9348,7 +9274,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Pitakwa.jpg",
-		"updated": "2025-08-23T04:08:52.516Z"
+		"updated": "2025-08-23T04:25:50.604Z"
 	},
 	"North Korea": {
 		"thumbnail": "/images/oad_wikimedia_org_wikipedia_commons_thumb_c_c2_Party_Foundation_Monument_(10875731074)_jpg_440px-Party_Foundation_Monument_(10875731074).jpg",
@@ -9477,17 +9403,16 @@
 			"Bergen",
 			"Bodø",
 			"Drammen",
-			"Fredrikstad",
 			"Kristiansand",
 			"Stavanger",
 			"Tromsø",
 			"Trondheim",
-			"Atlanterhavsveien",
+			"Lofoten",
+			"Nordkapp",
+			"Fredrikstad",
 			"Hardangervidda",
 			"Jostedalsbreen",
 			"Jotunheimen",
-			"Lofoten",
-			"Nordkapp",
 			"Sognefjorden"
 		],
 		"wb": "Q20",
@@ -9511,7 +9436,7 @@
 		"snippets": 10,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Atlanterhavsvegen4.jpg",
-		"updated": "2025-08-23T04:08:52.516Z"
+		"updated": "2025-08-23T04:25:50.605Z"
 	},
 	"Oman": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_ae_Land_of_Frankincense-118844_jpg_440px-Land_of_Frankincense-118844.jpg",
@@ -9537,16 +9462,15 @@
 		"destinations": [
 			"Muscat",
 			"Bahla",
-			"Buraimi",
-			"Ibra",
-			"Matrah",
 			"Nizwa",
 			"Salalah",
 			"Sohar",
 			"Sur",
+			"Masirah Island",
+			"Buraimi",
+			"Ibra",
 			"Hajar Mountains",
 			"Madha",
-			"Masirah Island",
 			"Musandam Peninsula"
 		],
 		"wb": "Q842",
@@ -9566,7 +9490,7 @@
 		"snippets": 8,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Land_of_Frankincense-118844.jpg",
-		"updated": "2025-08-23T04:08:52.517Z"
+		"updated": "2025-08-23T04:25:50.605Z"
 	},
 	"Pakistan": {
 		"zoom": 4,
@@ -9612,14 +9536,14 @@
 			"Muzaffarabad",
 			"Peshawar",
 			"Quetta",
-			"Sialkot",
 			"Murree",
+			"Swat",
+			"Rabwah",
+			"Sialkot",
 			"Mohenjo-daro",
 			"Taxila",
 			"Changa Manga",
-			"Nankana Sahib",
-			"Swat",
-			"Rabwah"
+			"Nankana Sahib"
 		],
 		"wb": "Q843",
 		"neighbors": [
@@ -9704,16 +9628,15 @@
 		],
 		"destinations": [
 			"Panama City",
-			"Balboa",
 			"Boquete",
-			"Boca Chica",
 			"Colon (Panama)",
 			"David (Panama)",
+			"Balboa",
+			"Boca Chica",
 			"Gamboa",
 			"Portobelo",
 			"Coiba National Marine Park",
 			"La Amistad International Park",
-			"Parque Nacional Marino Golfo de Chiriquí",
 			"El Valle",
 			"Pearl Islands",
 			"San Blas Islands",
@@ -9736,7 +9659,7 @@
 		"snippets": 24,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lock_-_panoramio_-_---%3DXEON%3D---_%281%29.jpg",
-		"updated": "2025-08-23T04:08:52.518Z"
+		"updated": "2025-08-23T04:25:50.607Z"
 	},
 	"Papua New Guinea": {
 		"zoom": 3,
@@ -9751,21 +9674,20 @@
 		"links": [],
 		"destinations": [
 			"Port Moresby",
-			"Alotau",
 			"Goroka",
-			"Lae",
-			"Madang (town)",
 			"Mount Hagen",
 			"Rabaul",
 			"Vanimo",
 			"Wewak",
+			"Madang",
+			"Alotau",
+			"Lae",
 			"Louisiade Archipelago",
 			"Trobriand Islands",
 			"Tufi",
 			"Indonesia",
 			"Australia",
-			"Solomon Islands",
-			"Madang"
+			"Solomon Islands"
 		],
 		"wb": "Q691",
 		"neighbors": [
@@ -9785,7 +9707,7 @@
 		},
 		"snippets": 9,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Port_Moresby_Town_Mschlauch.JPG",
-		"updated": "2025-08-23T04:08:52.518Z"
+		"updated": "2025-08-23T04:25:50.607Z"
 	},
 	"Paraguay": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a0_General_view_-_Trinidad_(Paraguay)_JPG_440px-General_view_-_Trinidad_(Paraguay).JPG",
@@ -9830,10 +9752,10 @@
 			"Concepción (Paraguay)",
 			"Encarnación",
 			"Filadelfia",
+			"San Bernardino (Paraguay)",
 			"Pilar",
 			"Villeta",
 			"New Australia",
-			"San Bernardino (Paraguay)",
 			"Trinidad (Paraguay)"
 		],
 		"wb": "Q733",
@@ -9967,25 +9889,23 @@
 		"destinations": [
 			"Lima",
 			"Arequipa",
-			"Ayacucho",
 			"Cajamarca",
-			"Chiclayo",
 			"Cuzco",
 			"Iquitos",
 			"Puno",
 			"Trujillo (Peru)",
-			"Huascarán National Park",
 			"Lake Titicaca",
 			"Machu Picchu",
 			"Manú National Park",
 			"Nazca",
-			"Paracas",
-			"Río Abiseo National Park",
-			"Máncora",
-			"Rio Abiseo National Park",
-			"Rio_Abiseo_National_Park",
 			"Tarapoto",
-			"Pucallpa"
+			"Pucallpa",
+			"Ayacucho",
+			"Chiclayo",
+			"Huascarán National Park",
+			"Paracas",
+			"Máncora",
+			"Rio Abiseo National Park"
 		],
 		"wb": "Q419",
 		"neighbors": [
@@ -10008,7 +9928,7 @@
 		"snippets": 20,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_%2815181518852%29.jpg",
-		"updated": "2025-08-23T04:19:05.835Z"
+		"updated": "2025-08-23T04:25:50.609Z"
 	},
 	"Philippines": {
 		"zoom": 4,
@@ -10053,11 +9973,30 @@
 			"Vigan",
 			"Zamboanga City",
 			"Banaue",
-			"Batangas",
 			"Boracay",
 			"Donsol",
-			"Puerto Galera",
 			"Tagaytay",
+			"Brooke's Point",
+			"Busuanga, Palawan",
+			"Quezon (Palawan)",
+			"Narra",
+			"Caramoan",
+			"Roxas (Palawan)",
+			"San Vicente",
+			"Taytay (Palawan)",
+			"Coron",
+			"El Nido",
+			"Subic",
+			"Sorsogon City",
+			"Naga",
+			"Legazpi",
+			"Muntinlupa",
+			"Dumaguete",
+			"Angeles",
+			"Quezon City",
+			"Manila",
+			"Batangas",
+			"Puerto Galera",
 			"Port Barton",
 			"San Jose (Palawan)",
 			"Calaguas Islands",
@@ -10068,43 +10007,23 @@
 			"Bicol",
 			"Corregidor Island",
 			"Samar Island",
-			"Brooke's Point",
-			"Busuanga, Palawan",
 			"Calabarzon",
-			"Quezon (Palawan)",
-			"Narra",
-			"Caramoan",
 			"Carmen (Bohol)",
-			"Roxas (Palawan)",
-			"San Vicente",
-			"Taytay (Palawan)",
 			"Anda",
 			"Oslob",
 			"Loboc",
-			"Coron",
-			"El Nido",
-			"Subic",
-			"Sorsogon City",
 			"Taal",
-			"Naga",
 			"Leyte",
 			"Navotas",
 			"Camarines Sur",
-			"Legazpi",
-			"Muntinlupa",
-			"Dumaguete",
 			"Masbate",
-			"San Juan (Philippines)",
 			"Camiguin",
-			"Angeles",
 			"Antipolo",
 			"Bataan",
 			"Palawan",
 			"Siquijor",
 			"Caloocan",
-			"Bohol",
-			"Quezon City",
-			"Manila"
+			"Bohol"
 		],
 		"wb": "Q928",
 		"neighbors": [
@@ -10124,7 +10043,7 @@
 		},
 		"snippets": 21,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Island_lagoon_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg",
-		"updated": "2025-08-23T04:08:52.520Z"
+		"updated": "2025-08-23T04:25:50.610Z"
 	},
 	"Poland": {
 		"zoom": 5,
@@ -10215,13 +10134,11 @@
 			"Poznań",
 			"Szczecin",
 			"Wrocław",
-			"Auschwitz",
 			"Białowieża National Park",
 			"Bory Tucholskie National Park",
 			"Kalwaria Zebrzydowska",
 			"Karkonosze National Park",
 			"Malbork",
-			"Słowiński National Park",
 			"Wieliczka",
 			"Wielkopolski National Park",
 			"Slowinski National Park",
@@ -10251,7 +10168,7 @@
 		},
 		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_Principal%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_01.jpg",
-		"updated": "2025-08-23T04:08:52.520Z"
+		"updated": "2025-08-23T04:25:50.610Z"
 	},
 	"Portugal": {
 		"seen": 30,
@@ -10304,23 +10221,22 @@
 		"destinations": [
 			"Lisbon",
 			"Aveiro",
-			"Braga",
 			"Coimbra",
 			"Évora",
 			"Funchal",
 			"Guimarães",
 			"Porto",
 			"Viana do Castelo",
+			"Azores",
+			"Machico",
+			"Braga",
 			"Fátima",
 			"Nazaré",
-			"Côa Valley",
 			"Óbidos",
 			"Peneda-Gerês National Park",
 			"Serra da Estrela",
 			"Sintra",
-			"Pinhel",
-			"Azores",
-			"Machico"
+			"Pinhel"
 		],
 		"wb": "Q45",
 		"neighbors": [
@@ -10338,7 +10254,7 @@
 		"snippets": 13,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Praia_da_Marinha_%282012-09-27%29%2C_by_Klugschnacker_in_Wikipedia_%2886%29.JPG",
-		"updated": "2025-08-23T04:08:52.520Z"
+		"updated": "2025-08-23T04:25:50.611Z"
 	},
 	"Qatar": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_f_fb_Fort_Zubara,_Qatar_(2371639734)_jpg_440px-Fort_Zubara,_Qatar_(2371639734).jpg",
@@ -10467,22 +10383,21 @@
 			"Iași",
 			"Sibiu",
 			"Sighișoara",
-			"Suceava",
 			"Timișoara",
-			"Hunedoara (city)",
 			"Sinaia",
 			"Predeal",
+			"Saschiz",
+			"Mamaia",
+			"Suceava",
+			"Hunedoara (city)",
 			"Poiana Brașov",
 			"Băile Herculane",
-			"Transylvanian Alps",
 			"Biertan",
 			"Câlnic",
 			"Dârjiu",
 			"Prejmer",
-			"Saschiz",
 			"Viscri",
 			"Transylvania",
-			"Mamaia",
 			"Turda"
 		],
 		"wb": "Q218",
@@ -10504,7 +10419,7 @@
 		},
 		"snippets": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg",
-		"updated": "2025-08-23T04:08:52.521Z"
+		"updated": "2025-08-23T04:25:50.612Z"
 	},
 	"Russia": {
 		"zoom": 1,
@@ -10600,23 +10515,20 @@
 			"Vladivostok",
 			"Volgograd",
 			"Yekaterinburg",
-			"Dombai",
-			"Golden Ring",
 			"Kamchatka",
 			"Kizhi",
-			"Komi Virgin Forests",
-			"Lake Baikal",
-			"Solovetsky Islands",
-			"Caucasian Dolmens",
 			"Yuzhno-Sakhalinsk",
 			"Alexandrovsk-Sakhalinsky",
 			"Kholmsk",
-			"Korsakov",
 			"Nogliki",
 			"Okha",
-			"Altai Krai",
 			"Omsk",
 			"Novosibirsk",
+			"Golden Ring",
+			"Lake Baikal",
+			"Solovetsky Islands",
+			"Korsakov",
+			"Altai Krai",
 			"Sviyazhsk"
 		],
 		"wb": "Q159",
@@ -10681,7 +10593,7 @@
 		},
 		"snippets": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Winter_Palace_Panorama_4.jpg",
-		"updated": "2025-08-23T04:08:52.522Z"
+		"updated": "2025-08-23T04:25:50.612Z"
 	},
 	"Rwanda": {
 		"thumbnail": "/images/pload_wikimedia_org_wikipedia_commons_thumb_4_49_Ballet_national_du_Rwanda-Tambours_(6)_jpg_440px-Ballet_national_du_Rwanda-Tambours_(6).jpg",
@@ -10696,13 +10608,9 @@
 		"destinations": [
 			"Kigali",
 			"Byumba",
-			"Rusizi",
-			"Rubavu",
-			"Huye",
 			"Kibungo",
 			"Kibuye",
-			"Muhanga",
-			"Musanze"
+			"Muhanga"
 		],
 		"wb": "Q1037",
 		"neighbors": [
@@ -10724,7 +10632,7 @@
 		"snippets": 2,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ballet_national_du_Rwanda-Tambours_%286%29.jpg",
-		"updated": "2025-08-23T04:08:52.522Z"
+		"updated": "2025-08-23T04:25:50.612Z"
 	},
 	"Saint Kitts and Nevis": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_ce_Saint_Kitts_02_jpg_700px-Saint_Kitts_02.jpg",
@@ -10749,8 +10657,6 @@
 			"Basseterre",
 			"Cayon",
 			"Dieppe Bay Town",
-			"Gingerland",
-			"Newcastle (Saint Kitts and Nevis)",
 			"Old Road Town",
 			"Sandy Point Town"
 		],
@@ -10771,7 +10677,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Saint_Kitts_02.jpg",
-		"updated": "2025-08-23T04:08:52.522Z"
+		"updated": "2025-08-23T04:25:50.612Z"
 	},
 	"Saint Lucia": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_ae_Kreuzf-Hafen-st-lucia_jpg_440px-Kreuzf-Hafen-st-lucia.jpg",
@@ -10831,8 +10737,7 @@
 		"destinations": [
 			"Kingstown",
 			"Barrouallie",
-			"Chateaubelair",
-			"Georgetown (Saint Vincent)"
+			"Chateaubelair"
 		],
 		"wb": "Q757",
 		"neighbors": [
@@ -10849,7 +10754,7 @@
 		"snippets": 0,
 		"zoom": 8,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg",
-		"updated": "2025-08-23T04:08:52.522Z"
+		"updated": "2025-08-23T04:25:50.613Z"
 	},
 	"Samoa": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_6_69_Samoa_upolu.jpg",
@@ -11042,13 +10947,12 @@
 		"destinations": [
 			"Dakar",
 			"Saint-Louis",
-			"Thiès",
 			"Kaolack",
+			"Touba",
+			"Thiès",
 			"Ziguinchor",
 			"Tambacounda",
-			"Touba",
-			"Kafountine",
-			"Kedougou"
+			"Kafountine"
 		],
 		"wb": "Q1041",
 		"neighbors": [
@@ -11072,7 +10976,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:River_gambia_Niokolokoba_National_Park.gif",
-		"updated": "2025-08-23T04:08:52.524Z"
+		"updated": "2025-08-23T04:25:50.614Z"
 	},
 	"Serbia": {
 		"zoom": 6,
@@ -11112,16 +11016,14 @@
 			"Kraljevo",
 			"Niš",
 			"Novi Sad",
-			"Požarevac",
-			"Subotica",
 			"Sremska Mitrovica",
-			"Vršac",
-			"Đerdap National Park",
 			"Kopaonik National Park",
 			"Palić",
-			"Soko Banja",
-			"Tara National Park",
 			"Zlatibor",
+			"Požarevac",
+			"Subotica",
+			"Vršac",
+			"Đerdap National Park",
 			"Prokletije",
 			"Sokobanja"
 		],
@@ -11153,7 +11055,7 @@
 		},
 		"snippets": 14,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Subotica%2C_radnice.jpg",
-		"updated": "2025-08-23T04:08:52.524Z"
+		"updated": "2025-08-23T04:25:50.615Z"
 	},
 	"Seychelles": {
 		"thumbnail": "/images/media_org_wikipedia_commons_thumb_0_07_LA_DIGUE,_SEYCHELLES,_2015_-_panoramio_(24)_jpg_440px-LA_DIGUE,_SEYCHELLES,_2015_-_panoramio_(24).jpg",
@@ -11177,7 +11079,6 @@
 		"destinations": [
 			"Victoria (Seychelles)",
 			"Beau Vallon",
-			"Takamaka (Seychelles)",
 			"Comoros"
 		],
 		"wb": "Q1042",
@@ -11197,7 +11098,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:LA_DIGUE%2C_SEYCHELLES%2C_2015_-_panoramio_%2824%29.jpg",
-		"updated": "2025-08-23T04:08:52.524Z"
+		"updated": "2025-08-23T04:25:50.615Z"
 	},
 	"Sierra Leone": {
 		"thumbnail": "/images/mmons_thumb_4_42_Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio_jpg_440px-Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg",
@@ -11210,17 +11111,7 @@
 		],
 		"links": [],
 		"destinations": [
-			"Freetown",
-			"Bo",
-			"Bonthe",
-			"Kabala",
-			"Kailahun",
-			"Kenema",
-			"Koidu",
-			"Makeni",
-			"Magburaka",
-			"Port Loko",
-			"Banana Islands"
+			"Freetown"
 		],
 		"wb": "Q1044",
 		"neighbors": [
@@ -11237,7 +11128,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg",
-		"updated": "2025-03-15T17:33:09.450Z"
+		"updated": "2025-08-23T04:25:50.615Z"
 	},
 	"Singapore": {
 		"seen": 21,
@@ -11388,25 +11279,11 @@
 			"Košice",
 			"Nitra",
 			"Poprad",
-			"Rajecke Teplice",
 			"Trenčín",
 			"Trnava",
 			"Žilina",
-			"Slovak Paradise National Park",
-			"High Tatras",
-			"Vlkolínec",
-			"Slovak Karst",
 			"Levoča",
-			"Bojnice",
-			"Piešťany",
-			"Spiš",
-			"Bardejov",
-			"Slovak Karst National Park",
-			"Ruzomberok",
-			"Western Tatras",
-			"Terchová",
-			"Liptovska Mara",
-			"Great Fatra"
+			"Piešťany"
 		],
 		"wb": "Q214",
 		"neighbors": [
@@ -11426,7 +11303,7 @@
 		},
 		"snippets": 1,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Levice_Castle.jpg",
-		"updated": "2025-03-15T17:33:09.451Z"
+		"updated": "2025-08-23T04:25:50.616Z"
 	},
 	"Slovenia": {
 		"@seen": "December 2007",
@@ -11473,17 +11350,11 @@
 		],
 		"destinations": [
 			"Ljubljana",
-			"Bled",
 			"Celje",
 			"Koper",
 			"Maribor",
-			"Nova Gorica",
-			"Piran",
 			"Postojna",
-			"Ptuj",
-			"Divača",
-			"Triglav National Park",
-			"Soča Valley"
+			"Divača"
 		],
 		"wb": "Q215",
 		"neighbors": [
@@ -11505,7 +11376,7 @@
 		"snippets": 5,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Celje_starowka.jpg",
-		"updated": "2025-03-15T18:24:24.800Z"
+		"updated": "2025-08-23T04:25:50.617Z"
 	},
 	"Solomon Islands": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a8_Fenualoa_lagoon_2-4_jpg_600px-Fenualoa_lagoon_2-4.jpg",
@@ -11658,22 +11529,10 @@
 			"Bloemfontein",
 			"Durban",
 			"Johannesburg",
-			"Kimberley (South Africa)",
 			"Polokwane",
 			"Port Elizabeth",
 			"Upington",
 			"Kruger National Park",
-			"Hluhluwe-iMfolozi Park",
-			"Addo Elephant National Park",
-			"Marakele National Park",
-			"Cradle of Humankind",
-			"Robben Island",
-			"Ukhahlamba Drakensberg Park",
-			"Vredefort",
-			"Western Cape",
-			"North-West (South Africa)",
-			"Northern Cape",
-			"North West Province",
 			"Kimberley (Northern Cape)"
 		],
 		"wb": "Q258",
@@ -11706,7 +11565,7 @@
 		"snippets": 7,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG",
-		"updated": "2025-03-15T18:07:19.994Z"
+		"updated": "2025-08-23T04:25:50.618Z"
 	},
 	"South Korea": {
 		"seen": 51,
@@ -11783,9 +11642,7 @@
 			"Jeonju",
 			"Andong",
 			"Ansan",
-			"Boseong",
 			"Yeosu",
-			"Jindo",
 			"Ulleungdo",
 			"Pyeongchang",
 			"South Jeolla",
@@ -11807,7 +11664,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Korea-Daegu-Palgongsan-01.jpg",
-		"updated": "2025-03-15T18:07:19.994Z"
+		"updated": "2025-08-23T04:25:50.618Z"
 	},
 	"South Sudan": {
 		"thumbnail": "/images/b_3_32_Cattle_of_the_Dinka_people,_Juba,_South_Sudan_-_20101230-06_jpg_440px-Cattle_of_the_Dinka_people,_Juba,_South_Sudan_-_20101230-06.jpg",
@@ -11826,18 +11683,7 @@
 			}
 		],
 		"destinations": [
-			"Juba",
-			"Aweil",
-			"Bentiu",
-			"Malakal",
-			"Nimule",
-			"Rumbek",
-			"Yambio",
-			"Yei",
-			"Bandinglio National Park",
-			"Boma National Park",
-			"Southern National Park",
-			"Nimule National Park"
+			"Juba"
 		],
 		"wb": "Q958",
 		"neighbors": [
@@ -11859,7 +11705,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cattle_of_the_Dinka_people%2C_Juba%2C_South_Sudan_-_20101230-06.jpg",
-		"updated": "2025-03-15T17:33:09.452Z"
+		"updated": "2025-08-23T04:25:50.618Z"
 	},
 	"Spain": {
 		"seen": 2,
@@ -11960,16 +11806,12 @@
 			"Seville",
 			"Valencia",
 			"Zaragoza",
-			"Costa Brava",
-			"Costa del Sol",
 			"Galicia",
 			"Gran Canaria",
 			"Ibiza",
-			"La Rioja (Spain)",
 			"Mallorca",
 			"Sierra Nevada (Spain)",
 			"Tenerife",
-			"Valladolid",
 			"Cádiz",
 			"Girona",
 			"Valladolid (Spain)"
@@ -11997,7 +11839,7 @@
 		"snippets": 10,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_de_Segovia%2C_situado_en_la_Ciudad_vieja_de_Segovia._Patrimonio_Mundial_por_la_UNESCO.jpg",
-		"updated": "2025-03-15T18:07:23.618Z"
+		"updated": "2025-08-23T04:25:50.619Z"
 	},
 	"Sri Lanka": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_22_Morning_mist_in_Sinharaja_JPG_440px-Morning_mist_in_Sinharaja.JPG",
@@ -12014,20 +11856,13 @@
 		"links": [],
 		"destinations": [
 			"Sri Jayawardenapura Kotte",
-			"Anuradhapura",
 			"Batticaloa",
 			"Colombo",
 			"Galle",
 			"Jaffna",
 			"Kandy",
 			"Negombo",
-			"Nuwara Eliya",
-			"Arugam Bay",
-			"Dambulla",
-			"Horton Plains",
-			"Mirissa",
-			"Unawatuna",
-			"Yala National Park"
+			"Nuwara Eliya"
 		],
 		"wb": "Q854",
 		"neighbors": [
@@ -12046,7 +11881,7 @@
 		"snippets": 9,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Morning_mist_in_Sinharaja.JPG",
-		"updated": "2025-03-15T18:07:23.619Z"
+		"updated": "2025-08-23T04:25:50.619Z"
 	},
 	"Sudan": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_0_0a_Albarkal_Mountain_,_Northern_sudan,_JPG_440px-Albarkal_Mountain_,_Northern_sudan,.JPG",
@@ -12066,12 +11901,8 @@
 		],
 		"destinations": [
 			"Khartoum",
-			"Al Ubayyid",
-			"Gedaref",
 			"Kassala",
-			"Nyala",
 			"Port Sudan",
-			"Jebel Barkal",
 			"Merowe"
 		],
 		"wb": "Q1049",
@@ -12099,7 +11930,7 @@
 		"snippets": 4,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Albarkal_Mountain_%2C_Northern_sudan%2C.JPG",
-		"updated": "2025-03-15T18:07:23.619Z"
+		"updated": "2025-08-23T04:25:50.620Z"
 	},
 	"Suriname": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_c_c1_Upper-Suriname_river_(33496731746)_jpg_2880px-Upper-Suriname_river_(33496731746).jpg",
@@ -12112,10 +11943,7 @@
 		],
 		"links": [],
 		"destinations": [
-			"Paramaribo",
-			"East Coast (Suriname)",
-			"Surinamese Rainforest",
-			"West Coast (Suriname)"
+			"Paramaribo"
 		],
 		"wb": "Q730",
 		"neighbors": [
@@ -12134,7 +11962,7 @@
 		"snippets": 4,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Upper-Suriname_river_%2833496731746%29.jpg",
-		"updated": "2025-08-08T00:18:44.276Z"
+		"updated": "2025-08-23T04:25:50.620Z"
 	},
 	"Sweden": {
 		"seen": 20,
@@ -12228,20 +12056,12 @@
 		"destinations": [
 			"Stockholm",
 			"Gothenburg",
-			"Karlskrona",
 			"Linköping",
 			"Lund",
 			"Malmö",
 			"Umeå",
 			"Uppsala",
 			"Visby",
-			"Bergslagen",
-			"Ekerö",
-			"High Coast",
-			"Kiruna Municipality",
-			"Laponia",
-			"Stockholm archipelago",
-			"Åre",
 			"Öland"
 		],
 		"wb": "Q34",
@@ -12266,7 +12086,7 @@
 		"snippets": 3,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ice_Hotel_Church_Jukkasj%C3%A4rvi.jpg",
-		"updated": "2025-03-15T17:33:09.453Z"
+		"updated": "2025-08-23T04:25:50.621Z"
 	},
 	"Switzerland": {
 		"@seen": "January 2008",
@@ -12319,13 +12139,9 @@
 			"Lausanne",
 			"Lucerne",
 			"Lugano",
-			"St. Gallen",
 			"Zurich",
 			"Davos",
-			"Grindelwald",
-			"Lavaux",
 			"St. Moritz",
-			"Swiss Alps Jungfrau-Aletsch",
 			"Zermatt",
 			"Saint Gallen"
 		],
@@ -12352,7 +12168,7 @@
 		"snippets": 5,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:5297_-_Wengernalp_-_Wengernalpbahn.JPG",
-		"updated": "2025-03-15T18:08:29.501Z"
+		"updated": "2025-08-23T04:25:50.621Z"
 	},
 	"Syria": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_c_c7_Old_Damascus_8.jpg",
@@ -12380,15 +12196,9 @@
 			"Damascus",
 			"Aleppo",
 			"Deir-az-Zur",
-			"Hama",
 			"Homs",
 			"Latakia",
-			"Tartous",
-			"Bosra",
-			"Der Mar Musa",
-			"Palmyra",
-			"Saladin's Castle",
-			"Salamieh"
+			"Bosra"
 		],
 		"wb": "Q858",
 		"neighbors": [
@@ -12409,7 +12219,7 @@
 		"snippets": 11,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Old_Damascus_8.jpg",
-		"updated": "2025-03-15T18:08:29.501Z"
+		"updated": "2025-08-23T04:25:50.622Z"
 	},
 	"Tajikistan": {
 		"zoom": 5,
@@ -12427,16 +12237,7 @@
 		"links": [],
 		"destinations": [
 			"Dushanbe",
-			"Isfara",
-			"Istarawshan",
-			"Khorugh",
 			"Khujand",
-			"Konibodom",
-			"Kulob",
-			"Qurghonteppa",
-			"Tursunzoda",
-			"Penjikent",
-			"Zeravshan",
 			"Panjakent"
 		],
 		"wb": "Q863",
@@ -12455,7 +12256,7 @@
 		},
 		"snippets": 0,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Iskander-kul%2C_Tajikistan.JPG",
-		"updated": "2025-03-15T17:33:09.454Z"
+		"updated": "2025-08-23T04:25:50.622Z"
 	},
 	"Tanzania": {
 		"thumbnail": "/images/oad_wikimedia_org_wikipedia_commons_thumb_5_52_Ngorongoro_2012_05_29_2253_(7500941860)_jpg_440px-Ngorongoro_2012_05_29_2253_(7500941860).jpg",
@@ -12482,30 +12283,11 @@
 			"Arusha",
 			"Dar es Salaam",
 			"Kigoma",
-			"Mbeya",
 			"Morogoro",
-			"Moshi",
-			"Mtwara",
 			"Mwanza",
-			"Arusha National Park",
-			"Mikumi National Park",
-			"Mount Kilimanjaro",
-			"Ngorongoro Conservation Area",
-			"Ruaha National Park",
-			"Serengeti National Park",
 			"Stone Town",
-			"Tarangire National Park",
-			"Udzungwa Mountains National Park",
-			"Manyara National park",
-			"Madagascar",
 			"Tanga",
-			"Jambiani",
-			"Kendwa",
-			"Matemwe",
-			"Nungwi",
-			"Paje",
-			"Pemba Island",
-			"Zanzibar"
+			"Pemba Island"
 		],
 		"wb": "Q924",
 		"neighbors": [
@@ -12530,7 +12312,7 @@
 		"snippets": 7,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2253_%287500941860%29.jpg",
-		"updated": "2025-07-04T05:27:29.688Z"
+		"updated": "2025-08-23T04:25:50.623Z"
 	},
 	"Thailand": {
 		"zoom": 4,
@@ -12583,29 +12365,17 @@
 			"Kanchanaburi",
 			"Nakhon Ratchasima",
 			"Pattaya",
-			"Sukhothai",
 			"Surat Thani",
 			"Khao Sok National Park",
-			"Khao Yai National Park",
 			"Ko Chang",
-			"Ko Lipe",
-			"Ko Pha Ngan",
-			"Ko Samet",
 			"Ko Samui",
-			"Krabi Province",
 			"Phuket",
-			"Malaysia",
-			"Burma",
-			"Cambodia",
+			"Singapore",
+			"Ko Pha-ngan",
 			"Laos",
 			"Vietnam",
-			"China",
-			"Singapore",
 			"Indonesia",
-			"Japan",
-			"Australia",
-			"Ko Pha-ngan",
-			"Mu Ko Surin National Park"
+			"Australia"
 		],
 		"wb": "Q869",
 		"neighbors": [
@@ -12624,7 +12394,7 @@
 		},
 		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WatRajnadda_Garland.JPG",
-		"updated": "2025-08-23T04:08:52.537Z"
+		"updated": "2025-08-23T04:25:50.623Z"
 	},
 	"Togo": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_8_8d_Lomé-Monument_de_l'Indépendance_jpg_440px-Lomé-Monument_de_l'Indépendance.jpg",
@@ -12638,14 +12408,7 @@
 		"links": [],
 		"destinations": [
 			"Lomé",
-			"Aneho",
-			"Atakpame",
-			"Badou",
-			"Dapaong",
-			"Kara",
-			"Kpalime",
-			"Sokode",
-			"Aného"
+			"Kpalime"
 		],
 		"wb": "Q945",
 		"neighbors": [
@@ -12664,7 +12427,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lom%C3%A9-Monument_de_l%27Ind%C3%A9pendance.jpg",
-		"updated": "2025-03-15T18:10:33.531Z"
+		"updated": "2025-08-23T04:25:50.623Z"
 	},
 	"Tonga": {
 		"thumbnail": "/images/_commons_thumb_3_39_Northern_end_of_Onetahuti_Beach_towards_Tonga_Island_jpg_2560px-Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg",
@@ -12682,10 +12445,7 @@
 			}
 		],
 		"destinations": [
-			"Vava'u",
-			"Niuas",
-			"Tongatapu",
-			"Ha'apai"
+			"Vava'u"
 		],
 		"wb": "Q678",
 		"neighbors": [],
@@ -12701,7 +12461,7 @@
 		"snippets": 0,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Northern_end_of_Onetahuti_Beach_towards_Tonga_Island.jpg",
-		"updated": "2025-03-15T18:10:33.531Z"
+		"updated": "2025-08-23T04:25:50.624Z"
 	},
 	"Trinidad and Tobago": {
 		"seen": 57,
@@ -12726,16 +12486,10 @@
 			}
 		],
 		"destinations": [
-			"Port-of-Spain",
-			"Arima",
 			"Chaguanas",
-			"Chaguaramas",
 			"Point Fortin",
-			"San Fernando",
 			"Scarborough (Trinidad and Tobago)",
 			"Port of Spain",
-			"Maracas Valley",
-			"Tobago",
 			"Trinidad"
 		],
 		"wb": "Q754",
@@ -12753,7 +12507,7 @@
 		"snippets": 12,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Paria_Arch.JPG",
-		"updated": "2025-08-08T00:01:15.257Z"
+		"updated": "2025-08-23T04:25:50.624Z"
 	},
 	"Tunisia": {
 		"seen": 7,
@@ -12785,21 +12539,12 @@
 			"Tunis",
 			"Gabes",
 			"Kairouan",
-			"El Kef",
 			"Mahdia",
 			"Monastir",
 			"Sfax",
 			"Sousse",
-			"Tozeur",
-			"Carthage",
 			"Djerba",
-			"Dougga",
-			"El Jem",
-			"Jebil National Park",
-			"Matmata",
-			"Metlaoui",
-			"Sufetula",
-			"Tataouine"
+			"Matmata"
 		],
 		"wb": "Q948",
 		"neighbors": [
@@ -12817,7 +12562,7 @@
 		"snippets": 6,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Ribat%2C_Sousse%2C_Tunisia.JPG",
-		"updated": "2025-03-15T18:10:37.458Z"
+		"updated": "2025-08-23T04:25:50.625Z"
 	},
 	"Turkey": {
 		"seen": 5,
@@ -12898,18 +12643,12 @@
 			"Konya",
 			"Trabzon",
 			"Urfa",
-			"Ani",
 			"Gallipoli",
-			"Kahta",
 			"Ölüdeniz",
-			"Pamukkale",
 			"Uludağ",
 			"Bursa",
-			"Faralya",
 			"Dalyan",
-			"Kabak",
-			"Marmaris",
-			"Pamphylia"
+			"Marmaris"
 		],
 		"wb": "Q43",
 		"neighbors": [
@@ -12932,7 +12671,7 @@
 		"snippets": 7,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:%C3%96l%C3%BCdeniz_on_the_Turquoise_Coast%2C_Turkey.jpg",
-		"updated": "2025-03-15T18:10:37.459Z"
+		"updated": "2025-08-23T04:25:50.625Z"
 	},
 	"Turkmenistan": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_1_1d_Central_Asia_100_jpg_580px-Central_Asia_100.jpg",
@@ -12955,23 +12694,7 @@
 		],
 		"destinations": [
 			"Ashgabat",
-			"Balkanabat",
-			"Daşoguz",
-			"Mary",
-			"Türkmenabat",
-			"Turkmenbashi",
-			"Karakum",
-			"Altin Depe",
-			"Anau",
-			"Gonur Depe",
-			"Namazga Depe",
-			"Dekhistan",
-			"Geok-tepe",
-			"Konye Urgench",
-			"Turkmenabad",
-			"Kugitang Nature Reserve",
-			"Caspian Sea",
-			"Uzbekistan"
+			"Konye Urgench"
 		],
 		"wb": "Q874",
 		"neighbors": [
@@ -12991,7 +12714,7 @@
 		"snippets": 0,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Central_Asia_100.jpg",
-		"updated": "2025-03-15T18:10:37.459Z"
+		"updated": "2025-08-23T04:25:50.625Z"
 	},
 	"Tuvalu": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b3_Funafuti_Plage_w_jpg_2560px-Funafuti_Plage_w.jpg",
@@ -13053,22 +12776,10 @@
 			"Kampala",
 			"Arua",
 			"Entebbe",
-			"Jinja",
-			"Fort Portal",
 			"Gulu",
-			"Mbarara",
-			"Kabale",
 			"Kisoro",
-			"Ajai Game Reserve",
 			"Bwindi Impenetrable National Park",
-			"Kidepo Valley National Park",
-			"Murchison Falls National Park",
-			"Queen Elizabeth National Park",
-			"Kibale Forest National Park",
-			"Rwenzori National Park",
-			"Ssese Islands",
-			"Rwenzori Mountains National Park",
-			"Mount Elgon National Park"
+			"Queen Elizabeth National Park"
 		],
 		"wb": "Q1036",
 		"neighbors": [
@@ -13091,7 +12802,7 @@
 		"snippets": 4,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lions_in_tree_uganda_Queen_eliznp.jpg",
-		"updated": "2025-03-15T17:33:09.456Z"
+		"updated": "2025-08-23T04:25:50.626Z"
 	},
 	"Ukraine": {
 		"zoom": 4,
@@ -13150,11 +12861,9 @@
 			"Chernivtsi",
 			"Dnipro",
 			"Donetsk",
-			"Kamianets-Podilskyi",
 			"Kharkiv",
 			"Lviv",
 			"Odesa",
-			"Carpathians",
 			"Chernobyl",
 			"Uman"
 		],
@@ -13178,7 +12887,7 @@
 		},
 		"snippets": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Czarnohora.jpg",
-		"updated": "2025-03-15T18:23:18.140Z"
+		"updated": "2025-08-23T04:25:50.626Z"
 	},
 	"United Arab Emirates": {
 		"seenL": 7,
@@ -13200,12 +12909,7 @@
 			"Dubai",
 			"Sharjah",
 			"Ajman",
-			"Umm Al Quwain",
-			"Ras Al Khaimah",
-			"Fujairah",
 			"Al Ain",
-			"Hatta",
-			"Khor Fakkan",
 			"Ruwais",
 			"Umm al Quwain",
 			"Ras Al Khaimah"
@@ -13226,7 +12930,7 @@
 		"snippets": 3,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Hotel_-_panoramio_%2824%29.jpg",
-		"updated": "2025-03-15T18:24:24.855Z"
+		"updated": "2025-08-23T04:25:50.637Z"
 	},
 	"United Kingdom": {
 		"zoom": 4,
@@ -13276,29 +12980,16 @@
 			}
 		],
 		"destinations": [
-			"Penzance",
-			"Oxford",
-			"Selby",
 			"Skye",
 			"Poole",
-			"Chertsey",
 			"Royal Tunbridge Wells",
 			"Harrogate",
 			"Hampshire",
-			"Isle of Wight",
-			"Isle of Man",
 			"Tristan da Cunha",
 			"Rochester (England)",
-			"Banbury",
-			"Abingdon",
 			"Inverness",
 			"Lewes",
-			"York",
-			"Newcastle upon Tyne",
-			"Dorchester",
 			"Maidstone",
-			"Outer Hebrides",
-			"Dorset",
 			"Kingston upon Hull",
 			"Dover (England)",
 			"Canterbury (England)",
@@ -13334,7 +13025,7 @@
 		},
 		"snippets": 15,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Edinburgh._View_from_Calton_Hill.jpg",
-		"updated": "2025-03-29T23:25:48.117Z"
+		"updated": "2025-08-23T04:25:50.638Z"
 	},
 	"United States of America": {
 		"zoom": 3,
@@ -13596,11 +13287,9 @@
 			"San Diego",
 			"Seattle",
 			"Las Vegas",
-			"Zion National Park",
 			"Atlanta",
 			"Savannah",
 			"Honolulu",
-			"Kailua",
 			"Reno",
 			"Portland, Oregon",
 			"Santa Fe (New Mexico)",
@@ -13608,6 +13297,7 @@
 			"Anchorage",
 			"Tucson",
 			"Philadelphia",
+			"Minneapolis",
 			"Indianapolis",
 			"Charlotte",
 			"Oklahoma City",
@@ -13616,14 +13306,11 @@
 			"Phoenix",
 			"Austin",
 			"Asheville",
-			"San Antonio",
-			"Salt Lake City",
+			"Hot Springs (Arkansas)",
 			"Little Rock",
 			"Memphis",
 			"Nashville",
-			"St. Louis",
-			"Minneapolis",
-			"Hot Springs (Arkansas)"
+			"St. Louis"
 		],
 		"wb": "Q30",
 		"neighbors": [
@@ -13649,7 +13336,7 @@
 		},
 		"snippets": 49,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG",
-		"updated": "2025-03-16T01:50:40.893Z"
+		"updated": "2025-08-23T04:25:50.642Z"
 	},
 	"Uruguay": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b9_Uruguay_(5886752274)_jpg_2560px-Uruguay_(5886752274).jpg",
@@ -13692,24 +13379,10 @@
 			"Montevideo",
 			"Punta del Este",
 			"Colonia",
-			"Piriapolis",
 			"Rivera",
-			"La Paloma",
-			"Paysandu",
 			"Salto",
-			"Barra de Valizas",
-			"Cabo Polonio",
-			"Punta del Diablo",
-			"Santa Teresa National Park",
-			"Quebrada de los Cuervos",
-			"Atlantic Coast (Uruguay)",
-			"Flores (Uruguay)",
-			"Argentina",
-			"Brazil",
-			"Rio Grande do Sul",
-			"Paraguay",
-			"Central Interior (Uruguay)",
-			"Paysandú"
+			"Paysandú",
+			"Brazil"
 		],
 		"wb": "Q77",
 		"neighbors": [
@@ -13727,7 +13400,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Uruguay_%285886752274%29.jpg",
-		"updated": "2025-08-08T00:01:15.316Z"
+		"updated": "2025-08-23T04:25:50.642Z"
 	},
 	"Uzbekistan": {
 		"zoom": 5,
@@ -13758,15 +13431,9 @@
 		"destinations": [
 			"Tashkent",
 			"Andijan",
-			"Bukhara",
-			"Khiva",
-			"Namangan",
 			"Nukus",
 			"Samarkand",
-			"Shakhrisabz",
-			"Termez",
-			"Aral Sea",
-			"Shakhrizabz"
+			"Termez"
 		],
 		"wb": "Q265",
 		"neighbors": [
@@ -13786,7 +13453,7 @@
 		},
 		"snippets": 0,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Kalon-Ensemble_Buchara.jpg",
-		"updated": "2025-03-15T17:33:09.460Z"
+		"updated": "2025-08-23T04:25:50.642Z"
 	},
 	"Vanuatu": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_56_Malakula_funeral_masks_jpg_440px-Malakula_funeral_masks.jpg",
@@ -13849,21 +13516,10 @@
 		"destinations": [
 			"Caracas",
 			"Coro",
-			"Ciudad Bolivar",
-			"Ciudad Guayana",
 			"Maracaibo",
-			"Maracay",
-			"Mérida (Venezuela)",
-			"Puerto La Cruz (Venezuela)",
 			"San Cristóbal (Venezuela)",
-			"Canaima National Park",
-			"Choroní",
-			"Los Roques",
 			"Margarita Island",
 			"Mochima National Park",
-			"Morrocoy National Park",
-			"Los Llanos (Venezuela)",
-			"Orinoco Delta",
 			"Mérida (city, Venezuela)"
 		],
 		"wb": "Q717",
@@ -13891,7 +13547,7 @@
 		"snippets": 2,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Salto_Angel_desde_la_curiara.jpg",
-		"updated": "2025-03-15T18:10:39.929Z"
+		"updated": "2025-08-23T04:25:50.643Z"
 	},
 	"Vietnam": {
 		"zoom": 4,
@@ -13942,18 +13598,11 @@
 			"Hue",
 			"Nha Trang",
 			"Vinh",
-			"Con Dao",
-			"Cu Chi",
-			"Cuc Phuong National Park",
 			"Kon Tum",
 			"Sa Pa",
-			"Tam Coc",
-			"Tay Ninh",
-			"Phong Nha-Ke Bang",
 			"Tây Ninh",
 			"Phu Quoc",
-			"Rach Gia",
-			"Ha Tien"
+			"Rach Gia"
 		],
 		"blogs": [
 			582,
@@ -13974,7 +13623,7 @@
 		},
 		"snippets": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Son-Tra-Peninsula_Da-Nang_Vietnam_Linh-Ung-Pagoda-01.jpg",
-		"updated": "2025-03-15T18:26:20.242Z"
+		"updated": "2025-08-23T04:25:50.643Z"
 	},
 	"Yemen": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_31_Shaharah_bridge_jpg_440px-Shaharah_bridge.jpg",
@@ -13992,15 +13641,9 @@
 		"destinations": [
 			"Sana'a",
 			"Aden",
-			"Al Hudayda",
 			"Mukalla",
-			"Dhamar",
-			"Ibb",
-			"Kawkaban",
-			"Mokha",
 			"Shibam",
-			"Ta'izz",
-			"Haraz Mountains"
+			"Ta'izz"
 		],
 		"wb": "Q805",
 		"neighbors": [
@@ -14018,7 +13661,7 @@
 		"snippets": 0,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Shaharah_bridge.jpg",
-		"updated": "2025-03-15T18:26:20.242Z"
+		"updated": "2025-08-23T04:25:50.643Z"
 	},
 	"Zambia": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_9_95_Mfuwe_Downtown_JPG_480px-Mfuwe_Downtown.JPG",
@@ -14048,21 +13691,8 @@
 		],
 		"destinations": [
 			"Lusaka",
-			"Chingola",
 			"Chipata",
-			"Kabwe",
-			"Kasama",
-			"Kitwe",
-			"Livingstone",
-			"Ndola",
-			"Mongu",
-			"Blue Lagoon National Park",
-			"Kafue National Park",
-			"Lochinvar National Park",
-			"Lower Zambezi National Park",
-			"North Luangwa National Park",
-			"Nsumbu National Park",
-			"West Lunga National Park"
+			"Livingstone"
 		],
 		"wb": "Q953",
 		"neighbors": [
@@ -14086,7 +13716,7 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mfuwe_Downtown.JPG",
-		"updated": "2025-03-15T18:10:39.930Z"
+		"updated": "2025-08-23T04:25:50.644Z"
 	},
 	"Zimbabwe": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_c_c1_Lion-hwange.jpg",
@@ -14112,16 +13742,8 @@
 		"destinations": [
 			"Harare",
 			"Bulawayo",
-			"Chimanimani",
-			"Gweru",
 			"Kariba",
-			"Masvingo",
-			"Mutare",
 			"Victoria Falls",
-			"Gonarezhou National Park",
-			"Matobo National Park",
-			"Mutoroshanga Ethel Mine",
-			"Chinhoyi Caves",
 			"Mozambique"
 		],
 		"wb": "Q954",
@@ -14156,6 +13778,6 @@
 		"snippets": 4,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Lion-hwange.jpg",
-		"updated": "2025-08-23T04:08:52.542Z"
+		"updated": "2025-08-23T04:25:50.644Z"
 	}
 }

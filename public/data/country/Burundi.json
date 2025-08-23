@@ -107,7 +107,6 @@
 			"lat": -2.85,
 			"lon": 30.33333333
 		},
-		"Ngozi": {},
 		"Bururi Forest Natural Reserve": {
 			"lat": -3.938889,
 			"lon": 29.597222
@@ -116,12 +115,9 @@
 			"lat": -2.914664,
 			"lon": 29.433611
 		},
-		"Rusizi Natural Reserve": {},
 		"Ruvubu National Park": {
 			"lat": -3.111,
 			"lon": 30.373
-		},
-		"Rwihinda Lake Natural Reserve": {},
-		"Vyanda Forest Natural Reserve": {}
+		}
 	}
 }

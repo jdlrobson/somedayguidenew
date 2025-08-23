@@ -10,16 +10,16 @@ São Paulo
 Amazonas (Brazil)
 Chapada Diamantina National Park
 Fernando de Noronha
-Ilha Grande
 Iguaçu Falls
-Lençóis Maranhenses
 Brasília
 Alto Paraíso de Goiás
-Cavalcante
 Belém
 Natal
-Salinópolis
 Santarém (Brazil)
 São Luís
+Ilha Grande
+Lençóis Maranhenses
+Cavalcante
+Salinópolis
 Alcântara
 Tabatinga

@@ -1,7 +1,8 @@
 Antananarivo
+Antsirabe
+Nosy Be
 Ambalavao
 Ambositra
-Antsirabe
 Fianarantsoa
 Ihosy
 Morondava
@@ -10,8 +11,6 @@ Toliara
 Anakao
 Andasibe-Mantadia National Park
 Andringitra National Park
-Ile aux Nattes
 Isalo National Park
 Masoala National Park
-Nosy Be
 Ranomafana National Park

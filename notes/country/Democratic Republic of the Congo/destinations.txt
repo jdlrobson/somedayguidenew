@@ -1,12 +1,12 @@
 Kinshasa
-Bukavu
 Goma
-Kananga
 Kisangani
-Kindu
 Lubumbashi
-Matadi
 Mbandaka
+Bukavu
+Kananga
+Kindu
+Matadi
 Virunga National Park
 Garamba National Park
 Salonga National Park

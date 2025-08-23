@@ -8,10 +8,8 @@ Pisa
 Turin
 Venice
 Lake Como
-Lake Garda
 Grado
 Trieste
-Sicily
 Palermo
 Agrigento
 Catania
@@ -33,3 +31,5 @@ Scicli
 Verona
 Rimini
 Pennabilli
+Lake Garda
+Sicily

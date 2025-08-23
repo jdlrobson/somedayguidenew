@@ -1,11 +1,11 @@
 Bishkek
-Balykchy
-Jalal-Abad
 Karakol
-Kochkor
 Naryn
 Osh
 Talas
+Balykchy
+Jalal-Abad
+Kochkor
 Tokmok
 Issyk Kul and the Tian Shan
 Bishkek and the Northwest

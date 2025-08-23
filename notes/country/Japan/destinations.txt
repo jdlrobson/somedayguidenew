@@ -7,11 +7,8 @@ Nara
 Osaka
 Sapporo
 Sendai
-Miyajima
 Mount Fuji
 Sado Island
-Shiretoko National Park
-Yaeyama Islands
 Yakushima
 Shari
 Wakkanai
@@ -20,3 +17,6 @@ Takamatsu
 Matsuyama
 Ōkunoshima
 Tottori
+Miyajima
+Shiretoko National Park
+Yaeyama Islands

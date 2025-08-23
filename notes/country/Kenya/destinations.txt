@@ -1,25 +1,25 @@
 Meru
 Malindi
-Mtwapa
-Tsavo West National Park
-Tsavo East National Park
 Lamu
 Kisumu
-Maasai Mara National Reserve
 Kakamega Rainforest
 Mombasa
 Nairobi
-Amboseli National Park
-Lake Nakuru National Park
 Nakuru
-Nairobi National Park
 Garissa
 Lodwar
-Aberdare National Park
-Sibiloi National Park
 Embu
 Nanyuki
-Shimba Hills National Reserve
 Voi
 Lake Naivasha
 Nyeri
+Mtwapa
+Tsavo West National Park
+Tsavo East National Park
+Maasai Mara National Reserve
+Amboseli National Park
+Lake Nakuru National Park
+Nairobi National Park
+Aberdare National Park
+Sibiloi National Park
+Shimba Hills National Reserve

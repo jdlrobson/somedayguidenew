@@ -6,11 +6,30 @@ Tagbilaran
 Vigan
 Zamboanga City
 Banaue
-Batangas
 Boracay
 Donsol
-Puerto Galera
 Tagaytay
+Brooke's Point
+Busuanga, Palawan
+Quezon (Palawan)
+Narra
+Caramoan
+Roxas (Palawan)
+San Vicente
+Taytay (Palawan)
+Coron
+El Nido
+Subic
+Sorsogon City
+Naga
+Legazpi
+Muntinlupa
+Dumaguete
+Angeles
+Quezon City
+Manila
+Batangas
+Puerto Galera
 Port Barton
 San Jose (Palawan)
 Calaguas Islands
@@ -21,40 +40,20 @@ Panglao Island
 Bicol
 Corregidor Island
 Samar Island
-Brooke's Point
-Busuanga, Palawan
 Calabarzon
-Quezon (Palawan)
-Narra
-Caramoan
 Carmen (Bohol)
-Roxas (Palawan)
-San Vicente
-Taytay (Palawan)
 Anda
 Oslob
 Loboc
-Coron
-El Nido
-Subic
-Sorsogon City
 Taal
-Naga
 Leyte
 Navotas
 Camarines Sur
-Legazpi
-Muntinlupa
-Dumaguete
 Masbate
-San Juan (Philippines)
 Camiguin
-Angeles
 Antipolo
 Bataan
 Palawan
 Siquijor
 Caloocan
 Bohol
-Quezon City
-Manila

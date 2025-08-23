@@ -4,6 +4,8 @@ Batumi
 Borjomi
 Gori
 Kutaisi
+Ochamchire
+Stepantsminda
 Mtskheta
 Sighnaghi
 Telavi
@@ -12,10 +14,6 @@ Bakuriani
 Georgian Military Highway
 Kakheti
 Kazbegi
-David Gareja Monastery Complex
 Pasanauri
-Shatili
 Mazeri
 Vardzia
-Ochamchire
-Stepantsminda

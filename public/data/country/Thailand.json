@@ -1137,15 +1137,6 @@
 			"lat": 9.73,
 			"lon": 100.04
 		},
-		"Sukhothai": {},
-		"Khao Yai National Park": {},
-		"Ko Lipe": {},
-		"Ko Pha Ngan": {},
-		"Ko Samet": {},
-		"Krabi Province": {},
-		"Malaysia": {},
-		"Burma": {},
-		"Cambodia": {},
 		"Laos": {
 			"lat": 18.2,
 			"lon": 104
@@ -1154,16 +1145,13 @@
 			"lat": 16,
 			"lon": 108
 		},
-		"China": {},
 		"Indonesia": {
 			"lat": -2,
 			"lon": 118
 		},
-		"Japan": {},
 		"Australia": {
 			"lat": -28,
 			"lon": 137
-		},
-		"Mu Ko Surin National Park": {}
+		}
 	}
 }

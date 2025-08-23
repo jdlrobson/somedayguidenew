@@ -7,18 +7,18 @@ Frankfurt
 Hamburg
 Munich
 Nuremberg
-Baltic Sea Coast (Germany)
-Bavarian Alps
-East Frisian Islands
 North Frisian Islands
 Weinheim
-Bensheim
-Schwetzingen
 Augsburg
 Bamberg
-Lübeck
 Ulm
 Stuttgart
 Bayreuth
 Leipzig
 Memmingen
+Baltic Sea Coast (Germany)
+Bavarian Alps
+East Frisian Islands
+Bensheim
+Schwetzingen
+Lübeck

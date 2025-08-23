@@ -2,11 +2,13 @@ Tallinn
 Tartu
 Narva
 Pärnu
-Rakvere
-Haapsalu
 Viljandi
 Kuressaare
 Valga
+Hiiumaa
+Kihnu
+Rakvere
+Haapsalu
 Lahemaa National Park
 Soomaa National Park
 Vilsandi National Park
@@ -14,8 +16,6 @@ Karula National Park
 South Estonia
 Otepää
 Saaremaa
-Hiiumaa
-Kihnu
 Muhu
 Ruhnu
 Vormsi

@@ -7,21 +7,18 @@ Sochi
 Vladivostok
 Volgograd
 Yekaterinburg
-Dombai
-Golden Ring
 Kamchatka
 Kizhi
-Komi Virgin Forests
-Lake Baikal
-Solovetsky Islands
-Caucasian Dolmens
 Yuzhno-Sakhalinsk
 Alexandrovsk-Sakhalinsky
 Kholmsk
-Korsakov
 Nogliki
 Okha
-Altai Krai
 Omsk
 Novosibirsk
+Golden Ring
+Lake Baikal
+Solovetsky Islands
+Korsakov
+Altai Krai
 Sviyazhsk

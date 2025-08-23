@@ -9,11 +9,9 @@ San Francisco
 San Diego
 Seattle
 Las Vegas
-Zion National Park
 Atlanta
 Savannah
 Honolulu
-Kailua
 Reno
 Portland, Oregon
 Santa Fe (New Mexico)
@@ -21,6 +19,7 @@ Denver
 Anchorage
 Tucson
 Philadelphia
+Minneapolis
 Indianapolis
 Charlotte
 Oklahoma City
@@ -29,11 +28,8 @@ Houston
 Phoenix
 Austin
 Asheville
-San Antonio
-Salt Lake City
+Hot Springs (Arkansas)
 Little Rock
 Memphis
 Nashville
 St. Louis
-Minneapolis
-Hot Springs (Arkansas)

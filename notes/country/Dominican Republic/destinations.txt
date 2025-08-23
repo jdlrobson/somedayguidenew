@@ -1,13 +1,12 @@
 Santo Domingo
-Higüey
-Juan Dolio
 Puerto Plata
 Punta Cana
-San Pedro de Macoris
-Samaná (town)
 Santiago de los Caballeros
-Rio San Juan
 La Romana
+Higüey
+Juan Dolio
+San Pedro de Macoris
+Rio San Juan
 Bayahibe
 Bonao
 Cabarete
@@ -17,3 +16,4 @@ Las Galeras
 Miches
 Playa Bonita
 Sosúa
+Samaná (town)

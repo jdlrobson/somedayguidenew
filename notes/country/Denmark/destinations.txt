@@ -4,10 +4,11 @@ Aarhus
 Esbjerg
 Nykøbing Falster
 Odense
-Roskilde
 Skagen
-Sønderborg
 Anholt
+Varberg
+Roskilde
+Sønderborg
 Ertholmene
 Femø
 Fanø
@@ -20,14 +21,13 @@ Faroe Islands
 Greenland
 Hanstholm
 Jutland
-Tórshavn
 Seyðisfjörður
 Longyearbyen
 Svalbard
 Sweden
 Frederikshavn
 Grenaa
-Varberg
 Hirtshals
 Stevns
 Grenå
+Tórshavn

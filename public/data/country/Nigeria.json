@@ -412,8 +412,6 @@
 			"lat": 10.3684,
 			"lon": 4.55472
 		},
-		"Yankari National Park": {},
-		"Cross River": {},
 		"Niger": {
 			"lat": 17,
 			"lon": 10
@@ -425,7 +423,6 @@
 		"Benin": {
 			"lat": 8.8,
 			"lon": 2.2
-		},
-		"Southwest Nigeria": {}
+		}
 	}
 }

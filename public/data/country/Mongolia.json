@@ -829,7 +829,6 @@
 			"lat": 47.32333333,
 			"lon": 110.66111111
 		},
-		"Khognokhan mountain specially protected territory": {},
 		"Altai Tavan Bogd National Park": {
 			"lat": 48.49,
 			"lon": 88.87
@@ -857,7 +856,6 @@
 		"Jining (Inner Mongolia)": {
 			"lat": 41.03,
 			"lon": 113.1
-		},
-		"Zamiin-Uud": {}
+		}
 	}
 }

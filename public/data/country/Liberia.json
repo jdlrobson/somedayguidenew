@@ -158,21 +158,17 @@
 			"lat": 6.75,
 			"lon": -11.36666667
 		},
-		"Greenville (Liberia)": {},
 		"Harper": {
 			"lat": 4.3667,
 			"lon": -7.7167
 		},
-		"Paynesville (Liberia)": {},
 		"Sapo National Park": {
 			"lat": 5.4764,
 			"lon": -8.5508
 		},
-		"Providence Island": {},
 		"Lake Piso": {
 			"lat": 6.73527778,
 			"lon": -11.25111111
-		},
-		"Atlantic Coastal Beaches": {}
+		}
 	}
 }

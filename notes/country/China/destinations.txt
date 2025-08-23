@@ -7,13 +7,9 @@ Harbin
 Nanjing
 Shanghai
 Xi'an
-Great Wall of China
-Hainan
 Leshan
-Qomolangma
 Tibet
 Turpan
-Yungang Grottoes
 Dali
 Kunming
 Shangrila
@@ -21,13 +17,10 @@ Hong Kong
 Zhuhai
 Shenzhen
 Chuxiong
-Yunnan
-Heijing
 Yuanmou
 Lijiang
 Deqin
 Jinghong
-Ruili
 Yuxi
 Dongguan
 Qingyuan
@@ -37,5 +30,12 @@ Zhongshan
 Zhanjiang
 Kaiping
 Xiamen
+Great Wall of China
+Hainan
+Qomolangma
+Yungang Grottoes
+Yunnan
+Heijing
+Ruili
 Ürümqi
 Erlian
