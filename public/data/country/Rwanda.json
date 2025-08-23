@@ -101,13 +101,25 @@
 			"lat": -1.94388889,
 			"lon": 30.05944444
 		},
-		"Byumba": {},
+		"Byumba": {
+			"lat": -1.57611111,
+			"lon": 30.0675
+		},
 		"Rusizi": {},
 		"Rubavu": {},
 		"Huye": {},
-		"Kibungo": {},
-		"Kibuye": {},
-		"Muhanga": {},
+		"Kibungo": {
+			"lat": -2.16091,
+			"lon": 30.54374
+		},
+		"Kibuye": {
+			"lat": -2.05,
+			"lon": 29.35
+		},
+		"Muhanga": {
+			"lat": -2.078333,
+			"lon": 29.758056
+		},
 		"Musanze": {}
 	}
 }

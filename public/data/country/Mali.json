@@ -470,10 +470,25 @@
 			"lat": 11.3167,
 			"lon": -5.6667
 		},
-		"Kayes": {},
-		"Ségou": {},
-		"Sikasso": {},
-		"Adrar des Ifoghas": {},
-		"Djenné": {}
+		"Kayes": {
+			"lat": 14.45,
+			"lon": -11.43333333
+		},
+		"Ségou": {
+			"lat": 13.45,
+			"lon": -6.2667
+		},
+		"Sikasso": {
+			"lat": 11.31666667,
+			"lon": -5.66666667
+		},
+		"Adrar des Ifoghas": {
+			"lat": 19.1167,
+			"lon": 1.75
+		},
+		"Djenné": {
+			"lat": 13.905556,
+			"lon": -4.555
+		}
 	}
 }

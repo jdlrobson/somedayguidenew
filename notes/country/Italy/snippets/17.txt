@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_135-138_PAN.jpg/330px-Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_135-138_PAN.jpg
+Herculaneum
+https://en.wikipedia.org/wiki/Herculaneum
+<small>[from en.wikipedia.org]:</small> Herculaneum is an ancient Roman town located in the modern-day comune of Ercolano, Campania, Italy. Herculaneum was buried under a massive pyroclastic flow in the eruption of Mount Vesuvius in 79 AD.
+<location lat="40.806" lon="14.3482"></location>

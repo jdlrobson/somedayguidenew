@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg/330px-Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg
+Manarola
+https://en.wikipedia.org/wiki/Manarola
+<small>[from en.wikipedia.org]:</small> Manarola is a small town, a frazione of the comune (municipality) of Riomaggiore, in the province of La Spezia, Liguria, Northern Italy. It is the second-smallest of the famous Cinque Terre towns frequented by tourists, with a population of 353.
+<location lat="44.1" lon="9.75"></location>

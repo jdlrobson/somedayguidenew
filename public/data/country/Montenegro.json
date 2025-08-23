@@ -584,16 +584,46 @@
 			"lat": 42.2839,
 			"lon": 18.8692
 		},
-		"Kotor": {},
-		"Nikšić": {},
-		"Tivat": {},
-		"Biogradska Gora National Park": {},
-		"Durmitor National Park": {},
-		"Lovćen National Park": {},
-		"Mount Ostrog": {},
-		"Perast": {},
+		"Kotor": {
+			"lat": 42.43,
+			"lon": 18.77
+		},
+		"Nikšić": {
+			"lat": 42.78,
+			"lon": 18.94
+		},
+		"Tivat": {
+			"lat": 42.43,
+			"lon": 18.7
+		},
+		"Biogradska Gora National Park": {
+			"lat": 42.8771,
+			"lon": 19.63634
+		},
+		"Durmitor National Park": {
+			"lat": 43.139,
+			"lon": 19.212
+		},
+		"Lovćen National Park": {
+			"lat": 42.3667,
+			"lon": 18.8667
+		},
+		"Mount Ostrog": {
+			"lat": 42.675,
+			"lon": 19.0292
+		},
+		"Perast": {
+			"lat": 42.486944,
+			"lon": 18.699167
+		},
 		"Prokletije National Park": {},
-		"Skadar Lake National Park": {},
-		"Sveti Stefan": {}
+		"Skadar Lake National Park": {
+			"lat": 42.24,
+			"lon": 19.2097
+		},
+		"Sveti Stefan": {
+			"lat": 42.255,
+			"lon": 18.89611111
+		}
 	}
 }

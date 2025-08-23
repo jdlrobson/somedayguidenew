@@ -885,14 +885,38 @@
 			"lat": 32.7,
 			"lon": -16.7667
 		},
-		"Braga": {},
-		"Fátima": {},
-		"Nazaré": {},
+		"Braga": {
+			"lat": 41.544167,
+			"lon": -8.421944
+		},
+		"Fátima": {
+			"lat": 39.6255524,
+			"lon": -8.66592014
+		},
+		"Nazaré": {
+			"lat": 39.598893,
+			"lon": -9.070383
+		},
 		"Côa Valley": {},
-		"Óbidos": {},
-		"Peneda-Gerês National Park": {},
-		"Serra da Estrela": {},
-		"Sintra": {},
-		"Pinhel": {}
+		"Óbidos": {
+			"lat": 39.35,
+			"lon": -9.15
+		},
+		"Peneda-Gerês National Park": {
+			"lat": 41.7167,
+			"lon": -8.15
+		},
+		"Serra da Estrela": {
+			"lat": 40.32186667,
+			"lon": -7.61296667
+		},
+		"Sintra": {
+			"lat": 38.79736111,
+			"lon": -9.39041667
+		},
+		"Pinhel": {
+			"lat": 40.78333333,
+			"lon": -7.06666667
+		}
 	}
 }

@@ -1563,12 +1563,33 @@
 			"lat": 20.96666667,
 			"lon": -89.61666667
 		},
-		"Copper Canyon": {},
-		"Chiapas": {},
-		"Ek Balam": {},
-		"El Tajín": {},
-		"Palenque": {},
-		"Guatemala": {},
-		"United States": {}
+		"Copper Canyon": {
+			"lat": 27.516111,
+			"lon": -107.765833
+		},
+		"Chiapas": {
+			"lat": 16.41,
+			"lon": -92.408611
+		},
+		"Ek Balam": {
+			"lat": 20.8911,
+			"lon": -88.1363
+		},
+		"El Tajín": {
+			"lat": 20.44805833,
+			"lon": -97.37824167
+		},
+		"Palenque": {
+			"lat": 17.483978,
+			"lon": -92.046328
+		},
+		"Guatemala": {
+			"lat": 15.5333,
+			"lon": -90.5
+		},
+		"United States": {
+			"lat": 40,
+			"lon": -100
+		}
 	}
 }

@@ -1,0 +1,5 @@
+null
+Odzala-Kokoua National Park
+https://en.wikipedia.org/wiki/Odzala-Kokoua_National_Park
+<small>[from en.wikipedia.org]:</small> Odzala-Kokoua National Park is a national park in the Republic of the Congo. The park was first protected in 1935, declared a biosphere reserve in 1977, and granted official designation by presidential decree in 2001. Odzala-Kokoua has approximately 100 mammal species, and one of the continent's most diverse primate populations. The nonprofit conservation organization African Parks began managing the park in collaboration with the Ministry of Forest Economy, Sustainable Development and Environment of the Republic of the Congo in 2010.
+<location lat="0.8" lon="14.9"></location>

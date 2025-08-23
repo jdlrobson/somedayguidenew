@@ -101,15 +101,45 @@
 			"lat": 49.611667,
 			"lon": 6.13
 		},
-		"Clervaux": {},
-		"Diekirch": {},
-		"Echternach": {},
-		"Ettelbruck": {},
-		"Esch-sur-Alzette": {},
-		"Mondorf-les-Bains": {},
-		"Vianden": {},
-		"Esch-sur-Sûre": {},
-		"Schengen": {},
-		"Land of the Red Rocks": {}
+		"Clervaux": {
+			"lat": 50.05,
+			"lon": 6.033333
+		},
+		"Diekirch": {
+			"lat": 49.868,
+			"lon": 6.1567
+		},
+		"Echternach": {
+			"lat": 49.8117,
+			"lon": 6.4217
+		},
+		"Ettelbruck": {
+			"lat": 49.84685,
+			"lon": 6.10061
+		},
+		"Esch-sur-Alzette": {
+			"lat": 49.4969,
+			"lon": 5.9806
+		},
+		"Mondorf-les-Bains": {
+			"lat": 49.5073,
+			"lon": 6.2828
+		},
+		"Vianden": {
+			"lat": 49.9333,
+			"lon": 6.2167
+		},
+		"Esch-sur-Sûre": {
+			"lat": 49.9112,
+			"lon": 5.935
+		},
+		"Schengen": {
+			"lat": 49.466667,
+			"lon": 6.366667
+		},
+		"Land of the Red Rocks": {
+			"lat": 49.51,
+			"lon": 5.993
+		}
 	}
 }

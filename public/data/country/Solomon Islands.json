@@ -2,6 +2,9 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Guadalcanal": {}
+		"Guadalcanal": {
+			"lat": 9.59,
+			"lon": 160.235
+		}
 	}
 }

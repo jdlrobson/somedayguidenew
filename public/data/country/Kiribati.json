@@ -158,9 +158,21 @@
 			"lat": -0.52805556,
 			"lon": 166.93694444
 		},
-		"Federated States of Micronesia": {},
-		"Fiji": {},
-		"Marshall Islands": {},
-		"Solomon Islands": {}
+		"Federated States of Micronesia": {
+			"lat": 6.9167,
+			"lon": 158.1833
+		},
+		"Fiji": {
+			"lat": -18,
+			"lon": 178
+		},
+		"Marshall Islands": {
+			"lat": 8.92849,
+			"lon": 168.93677
+		},
+		"Solomon Islands": {
+			"lat": -9.467,
+			"lon": 159.817
+		}
 	}
 }

@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/330px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg
+Amalfi Coast
+https://en.wikipedia.org/wiki/Amalfi_Coast
+<small>[from en.wikipedia.org]:</small> The Amalfi Coast is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.
+<location lat="40.65" lon="14.6"></location>

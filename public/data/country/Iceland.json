@@ -511,19 +511,53 @@
 			"lat": 66.05,
 			"lon": -17.31666667
 		},
-		"Ísafjörður": {},
-		"Selfoss": {},
-		"Stykkishólmur": {},
-		"Þingvellir National Park": {},
-		"Vatnajökull National Park": {},
-		"Snæfellsjökull National Park": {},
-		"Blue Lagoon": {},
-		"Mývatn": {},
-		"Gullfoss": {},
-		"Geysir": {},
-		"Landmannalaugar": {},
-		"Þórsmörk": {},
-		"Upcountry Árnessýsla": {},
-		"Southwest Iceland": {}
+		"Ísafjörður": {
+			"lat": 66.07256,
+			"lon": -23.11927
+		},
+		"Selfoss": {
+			"lat": 63.93575,
+			"lon": -21.00286
+		},
+		"Stykkishólmur": {
+			"lat": 65.0833,
+			"lon": -22.7333
+		},
+		"Þingvellir National Park": {
+			"lat": 64.2581,
+			"lon": -21.125
+		},
+		"Vatnajökull National Park": {
+			"lat": 64.5,
+			"lon": -17
+		},
+		"Snæfellsjökull National Park": {
+			"lat": 64.8,
+			"lon": -23.7833
+		},
+		"Blue Lagoon": {
+			"lat": 63.87973,
+			"lon": -22.44374
+		},
+		"Mývatn": {
+			"lat": 65.6,
+			"lon": -17
+		},
+		"Gullfoss": {
+			"lat": 64.32611111,
+			"lon": -20.12111111
+		},
+		"Geysir": {
+			"lat": 64.3137,
+			"lon": -20.2995
+		},
+		"Landmannalaugar": {
+			"lat": 63.927,
+			"lon": -19.027
+		},
+		"Upcountry Árnessýsla": {
+			"lat": 64.198,
+			"lon": -20.359
+		}
 	}
 }

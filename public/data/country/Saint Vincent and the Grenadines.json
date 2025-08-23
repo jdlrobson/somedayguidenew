@@ -2,9 +2,18 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Kingstown": {},
-		"Barrouallie": {},
-		"Chateaubelair": {},
+		"Kingstown": {
+			"lat": 13.1667,
+			"lon": -61.2333
+		},
+		"Barrouallie": {
+			"lat": 13.23583333,
+			"lon": -61.27194444
+		},
+		"Chateaubelair": {
+			"lat": 13.28833333,
+			"lon": -61.24027778
+		},
 		"Georgetown (Saint Vincent)": {}
 	}
 }

@@ -287,19 +287,58 @@
 			"lat": -13.315,
 			"lon": 48.2675
 		},
-		"Ambalavao": {},
-		"Ambositra": {},
-		"Fianarantsoa": {},
-		"Ihosy": {},
-		"Morondava": {},
-		"Taolagnaro": {},
-		"Toliara": {},
-		"Anakao": {},
-		"Andasibe-Mantadia National Park": {},
-		"Andringitra National Park": {},
+		"Ambalavao": {
+			"lat": -21.84,
+			"lon": 46.94
+		},
+		"Ambositra": {
+			"lat": -20.5167,
+			"lon": 47.25
+		},
+		"Fianarantsoa": {
+			"lat": -21.45361,
+			"lon": 47.08583
+		},
+		"Ihosy": {
+			"lat": -22.40361,
+			"lon": 46.12583
+		},
+		"Morondava": {
+			"lat": -20.284722,
+			"lon": 44.3175
+		},
+		"Taolagnaro": {
+			"lat": -25.03,
+			"lon": 46.98
+		},
+		"Toliara": {
+			"lat": -23.35,
+			"lon": 43.6667
+		},
+		"Anakao": {
+			"lat": -23.6667,
+			"lon": 43.65
+		},
+		"Andasibe-Mantadia National Park": {
+			"lat": -18.83,
+			"lon": 48.45
+		},
+		"Andringitra National Park": {
+			"lat": -22.112778,
+			"lon": 46.923056
+		},
 		"Ile aux Nattes": {},
-		"Isalo National Park": {},
-		"Masoala National Park": {},
-		"Ranomafana National Park": {}
+		"Isalo National Park": {
+			"lat": -22.558333,
+			"lon": 45.4
+		},
+		"Masoala National Park": {
+			"lat": -15.515,
+			"lon": 50.162
+		},
+		"Ranomafana National Park": {
+			"lat": -21.216667,
+			"lon": 47.416667
+		}
 	}
 }

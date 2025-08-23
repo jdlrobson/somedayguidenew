@@ -628,11 +628,26 @@
 			"lat": 20.47111111,
 			"lon": 58.81527778
 		},
-		"Buraimi": {},
-		"Ibra": {},
+		"Buraimi": {
+			"lat": 24.25,
+			"lon": 55.75
+		},
+		"Ibra": {
+			"lat": 22.6833,
+			"lon": 58.55
+		},
 		"Matrah": {},
-		"Hajar Mountains": {},
-		"Madha": {},
-		"Musandam Peninsula": {}
+		"Hajar Mountains": {
+			"lat": 23.18,
+			"lon": 57.53
+		},
+		"Madha": {
+			"lat": 25.28444444,
+			"lon": 56.33305556
+		},
+		"Musandam Peninsula": {
+			"lat": 25.95365,
+			"lon": 56.27262
+		}
 	}
 }

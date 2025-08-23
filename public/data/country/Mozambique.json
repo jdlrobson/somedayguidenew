@@ -548,14 +548,41 @@
 			"lat": -21.6333333,
 			"lon": 35.5
 		},
-		"Bazaruto Archipelago": {},
-		"Cahora Bassa": {},
-		"Gorongosa National Park": {},
-		"Limpopo National Park": {},
-		"Ponta d'Ouro": {},
-		"Quirimbas Islands": {},
-		"Tofo Beach": {},
-		"Vilanculos": {},
-		"Northern Mozambique": {}
+		"Bazaruto Archipelago": {
+			"lat": -21.75,
+			"lon": 35.45
+		},
+		"Cahora Bassa": {
+			"lat": -15.66666667,
+			"lon": 31.83333333
+		},
+		"Gorongosa National Park": {
+			"lat": -18.766,
+			"lon": 34.5
+		},
+		"Limpopo National Park": {
+			"lat": -23.86666667,
+			"lon": 32.13333333
+		},
+		"Ponta d'Ouro": {
+			"lat": -26.849,
+			"lon": 32.888
+		},
+		"Quirimbas Islands": {
+			"lat": -12.14666667,
+			"lon": 40.5725
+		},
+		"Tofo Beach": {
+			"lat": -23.8556,
+			"lon": 35.5333
+		},
+		"Vilanculos": {
+			"lat": -22,
+			"lon": 35.3166667
+		},
+		"Northern Mozambique": {
+			"lat": -14.75,
+			"lon": 37.85
+		}
 	}
 }

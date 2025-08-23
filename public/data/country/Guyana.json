@@ -40,6 +40,16 @@
 			"embed": false,
 			"title": "Guyana Birding on a Budget Tour",
 			"url": "https://wilderness-explorers.com/trip/guyana-birding-on-a-budget-tour/"
+		},
+		{
+			"id": "5",
+			"text": "<small>[from en.wikipedia.org]:</small> ",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20191123_Guyana_0228_Kyk_Over_Al_Island_sRGB_%2849295897097%29.jpg/330px-20191123_Guyana_0228_Kyk_Over_Al_Island_sRGB_%2849295897097%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Fort Kyk-Over-Al",
+			"url": "https://en.wikipedia.org/wiki/Fort_Kyk-Over-Al"
 		}
 	],
 	"places": {
@@ -300,23 +310,6 @@
 		"Kaieteur National Park": {
 			"lat": 5.216667,
 			"lon": -59.416667
-		},
-		"Al": {},
-		"Brazil": {
-			"lat": -14,
-			"lon": -53
-		},
-		"Suriname": {
-			"lat": 4,
-			"lon": -56
-		},
-		"Trinidad": {
-			"lat": 10.46055556,
-			"lon": -61.44861111
-		},
-		"Venezuela": {
-			"lat": 8,
-			"lon": -67
 		}
 	}
 }

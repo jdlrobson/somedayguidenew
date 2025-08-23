@@ -746,15 +746,42 @@
 			"lon": 17.0325
 		},
 		"Auschwitz": {},
-		"Białowieża National Park": {},
-		"Bory Tucholskie National Park": {},
-		"Kalwaria Zebrzydowska": {},
-		"Karkonosze National Park": {},
-		"Malbork": {},
+		"Białowieża National Park": {
+			"lat": 52.6667,
+			"lon": 23.8333
+		},
+		"Bory Tucholskie National Park": {
+			"lat": 53.8225,
+			"lon": 17.914444
+		},
+		"Kalwaria Zebrzydowska": {
+			"lat": 49.8667,
+			"lon": 19.6833
+		},
+		"Karkonosze National Park": {
+			"lat": 50.7667,
+			"lon": 15.65
+		},
+		"Malbork": {
+			"lat": 54.0333333,
+			"lon": 19.05
+		},
 		"Słowiński National Park": {},
-		"Wieliczka": {},
-		"Wielkopolski National Park": {},
-		"Slowinski National Park": {},
-		"Łeba": {}
+		"Wieliczka": {
+			"lat": 49.989444,
+			"lon": 20.066111
+		},
+		"Wielkopolski National Park": {
+			"lat": 52.2702,
+			"lon": 16.79289
+		},
+		"Slowinski National Park": {
+			"lat": 54.7032,
+			"lon": 17.3069
+		},
+		"Łeba": {
+			"lat": 54.7833333,
+			"lon": 17.55
+		}
 	}
 }

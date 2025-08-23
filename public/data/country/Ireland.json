@@ -643,19 +643,57 @@
 			"lat": 52.25666667,
 			"lon": -7.12916667
 		},
-		"Killarney": {},
-		"Aran Islands": {},
-		"Brú Na Bóinne": {},
-		"Cliffs of Moher": {},
-		"Connemara": {},
-		"County Donegal": {},
-		"Dingle Peninsula": {},
-		"Glendalough": {},
-		"Kinsale": {},
-		"Ring of Kerry": {},
-		"Skellig Michael": {},
-		"West Cork": {},
-		"County Cork": {},
-		"Burren": {}
+		"Killarney": {
+			"lat": 52.05,
+			"lon": -9.5167
+		},
+		"Aran Islands": {
+			"lat": 53.117,
+			"lon": -9.7
+		},
+		"Cliffs of Moher": {
+			"lat": 52.97175056,
+			"lon": -9.42633389
+		},
+		"Connemara": {
+			"lat": 53.5,
+			"lon": -9.75
+		},
+		"County Donegal": {
+			"lat": 54.917,
+			"lon": -8
+		},
+		"Dingle Peninsula": {
+			"lat": 52.19333333,
+			"lon": -10.08388889
+		},
+		"Glendalough": {
+			"lat": 53.010278,
+			"lon": -6.3275
+		},
+		"Kinsale": {
+			"lat": 51.707,
+			"lon": -8.53
+		},
+		"Ring of Kerry": {
+			"lat": 51.94888889,
+			"lon": -9.9175
+		},
+		"Skellig Michael": {
+			"lat": 51.77111111,
+			"lon": -10.54055556
+		},
+		"West Cork": {
+			"lat": 51.6884,
+			"lon": -9.1434
+		},
+		"County Cork": {
+			"lat": 51.9667,
+			"lon": -8.5833
+		},
+		"Burren": {
+			"lat": 53.05,
+			"lon": -9.1
+		}
 	}
 }

@@ -1990,24 +1990,72 @@
 			"lat": 10.79048,
 			"lon": 78.70467
 		},
-		"Kolkata": {},
-		"Bodh Gaya": {},
+		"Kolkata": {
+			"lat": 22.5726723,
+			"lon": 88.3638815
+		},
+		"Bodh Gaya": {
+			"lat": 24.695102,
+			"lon": 84.991275
+		},
 		"Ajanta": {},
-		"Hampi": {},
-		"Khajuraho": {},
-		"Konark": {},
-		"Indian national parks and wildlife sanctuaries": {},
-		"Indian zoos and botanical gardens": {},
-		"Natural wonders of India": {},
+		"Hampi": {
+			"lat": 15.335,
+			"lon": 76.462
+		},
+		"Khajuraho": {
+			"lat": 24.85,
+			"lon": 79.93333333
+		},
+		"Konark": {
+			"lat": 19.9,
+			"lon": 86.12
+		},
+		"Indian national parks and wildlife sanctuaries": {
+			"lat": 22,
+			"lon": 77
+		},
+		"Indian zoos and botanical gardens": {
+			"lat": 22,
+			"lon": 77
+		},
+		"Natural wonders of India": {
+			"lat": 21.534,
+			"lon": 78.046
+		},
 		"Sacred sites of the Indian sub-continent": {},
-		"UNESCO World Heritage List (India)": {},
+		"UNESCO World Heritage List (India)": {
+			"lat": 21.534,
+			"lon": 78.046
+		},
 		"UNESCO World Heritage List": {},
-		"Khuldabad": {},
-		"Mapusa": {},
-		"Old Goa": {},
-		"Vasco da Gama": {},
-		"Shiroda": {},
-		"Mirik": {},
-		"Tirumala": {}
+		"Khuldabad": {
+			"lat": 20.00952,
+			"lon": 75.1888
+		},
+		"Mapusa": {
+			"lat": 15.6,
+			"lon": 73.82
+		},
+		"Old Goa": {
+			"lat": 15.5024,
+			"lon": 73.9117
+		},
+		"Vasco da Gama": {
+			"lat": 15.4,
+			"lon": 73.8333
+		},
+		"Shiroda": {
+			"lat": 15.7756,
+			"lon": 73.6626
+		},
+		"Mirik": {
+			"lat": 26.887,
+			"lon": 88.187
+		},
+		"Tirumala": {
+			"lat": 13.680916,
+			"lon": 79.3506
+		}
 	}
 }

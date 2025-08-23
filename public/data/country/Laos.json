@@ -601,12 +601,33 @@
 			"lat": 18.92666667,
 			"lon": 102.44944444
 		},
-		"Luang Namtha": {},
-		"Pakbeng": {},
-		"Bolaven Plateau": {},
-		"Champasak": {},
-		"Nong Khiaw": {},
-		"Si Phan Don": {},
-		"Vieng Xai": {}
+		"Luang Namtha": {
+			"lat": 20.95,
+			"lon": 101.4
+		},
+		"Pakbeng": {
+			"lat": 19.85,
+			"lon": 101.55
+		},
+		"Bolaven Plateau": {
+			"lat": 15,
+			"lon": 106
+		},
+		"Champasak": {
+			"lat": 14.8833,
+			"lon": 105.8667
+		},
+		"Nong Khiaw": {
+			"lat": 20.5713,
+			"lon": 102.611
+		},
+		"Si Phan Don": {
+			"lat": 14.047,
+			"lon": 105.8327
+		},
+		"Vieng Xai": {
+			"lat": 20.4053,
+			"lon": 104.2264
+		}
 	}
 }

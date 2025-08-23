@@ -265,20 +265,59 @@
 			"lat": 11.25,
 			"lon": -85.86666667
 		},
-		"León (Nicaragua)": {},
-		"Granada (Nicaragua)": {},
-		"Estelí": {},
-		"Matagalpa": {},
-		"Jinotega": {},
-		"Isla de Ometepe": {},
-		"Laguna de Apoyo": {},
+		"León (Nicaragua)": {
+			"lat": 12.433,
+			"lon": -86.886
+		},
+		"Granada (Nicaragua)": {
+			"lat": 11.9333,
+			"lon": -85.95
+		},
+		"Estelí": {
+			"lat": 13.08333333,
+			"lon": -86.35
+		},
+		"Matagalpa": {
+			"lat": 12.91666667,
+			"lon": -85.91666667
+		},
+		"Jinotega": {
+			"lat": 13.16666667,
+			"lon": -86
+		},
+		"Isla de Ometepe": {
+			"lat": 11.5,
+			"lon": -85.5833333
+		},
+		"Laguna de Apoyo": {
+			"lat": 11.922,
+			"lon": -86.029
+		},
 		"Pueblos Blancos": {},
 		"Volcan Masaya": {},
-		"Volcan Cosigüina": {},
-		"Somoto": {},
-		"Big Corn Island": {},
-		"El Castillo": {},
-		"Solentiname Islands": {},
-		"Esteli": {}
+		"Volcan Cosigüina": {
+			"lat": 12.984,
+			"lon": -87.571
+		},
+		"Somoto": {
+			"lat": 13.4833,
+			"lon": -86.5833
+		},
+		"Big Corn Island": {
+			"lat": 12.16667,
+			"lon": -83.03333
+		},
+		"El Castillo": {
+			"lat": 11.033333,
+			"lon": -84.466667
+		},
+		"Solentiname Islands": {
+			"lat": 11.2,
+			"lon": -85.03333333
+		},
+		"Esteli": {
+			"lat": 13.083333,
+			"lon": -86.35
+		}
 	}
 }

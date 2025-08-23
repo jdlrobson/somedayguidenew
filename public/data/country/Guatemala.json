@@ -40,6 +40,36 @@
 			"embed": false,
 			"title": "A Trip To Chichicastenango | Guatemala's Explosively Colorful Market — The Truth Traveller",
 			"url": "https://www.thetruthtraveller.com/blog/2023/04/14/2023-4-7-a-trip-to-chichicastenango-guatemalas-explosively-colorful-market"
+		},
+		{
+			"id": "5",
+			"text": "<small>[from en.wikipedia.org]:</small> Yaxha is a Mesoamerican archaeological site in the northeast of the Petén Basin in modern-day Guatemala. As a ceremonial centre of the pre-Columbian Maya civilization, Yaxha was the third largest city in the region and experienced its maximum power during the Early Classic period. The city was located on a ridge overlooking Lake Yaxha. The name of the city derives from the Mayan for \"blue-green water\"; it is a notable survival of a Classic period place-name into the modern day. The Yaxha kingdom is estimated to have covered an area of 237 square kilometres (92 sq mi) and to have had a peak population of 42,000 in the Late Classic period of Mesoamerican chronology.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/YaxhaNorthAcropolis.jpg/330px-YaxhaNorthAcropolis.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Yaxha",
+			"url": "https://en.wikipedia.org/wiki/Yaxha"
+		},
+		{
+			"id": "6",
+			"text": "<small>[from en.wikipedia.org]:</small> The Cultural Triangle Yaxha-Nakum-Naranjo National Park is a multidisciplinary project involving archaeologists, architects, restaurateurs, and biologists. It is situated in Petén, Guatemala. The project does not only work in one archaeological site, but in a region of 1,200 square kilometres (460 sq mi) including three gigantic sites and 14 sub-centers – the most populated area of the Classic period of the Maya civilization.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yaxhatemplo216.jpg/330px-Yaxhatemplo216.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Cultural Triangle Yaxha-Nakum-Naranjo National Park",
+			"url": "https://en.wikipedia.org/wiki/Cultural_Triangle_Yaxha-Nakum-Naranjo_National_Park"
+		},
+		{
+			"id": "7",
+			"text": "<small>[from en.wikipedia.org]:</small> El Perú, is a pre-Columbian Maya archeological site occupied during the Preclassic and Classic cultural chronology periods. The site was the capital of a Maya city-state and is located near the banks of the San Pedro River in the Department of Petén of northern Guatemala. El Perú is 60 km (37 mi) west of Tikal.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Waka_altar.jpg/330px-Waka_altar.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "El Perú (Maya site)",
+			"url": "https://en.wikipedia.org/wiki/El_Per%C3%BA_(Maya_site)"
 		}
 	],
 	"places": {
@@ -461,12 +491,9 @@
 			"lat": 13.8936,
 			"lon": -90.4819
 		},
-		"El Peru": {},
 		"Iximche": {
 			"lat": 14.7358,
 			"lon": -90.9962
-		},
-		"Nakúm": {},
-		"Yaxhá": {}
+		}
 	}
 }

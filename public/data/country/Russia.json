@@ -1404,13 +1404,31 @@
 			"lon": 82.95
 		},
 		"Dombai": {},
-		"Golden Ring": {},
+		"Golden Ring": {
+			"lat": 56.8,
+			"lon": 39.79
+		},
 		"Komi Virgin Forests": {},
-		"Lake Baikal": {},
-		"Solovetsky Islands": {},
+		"Lake Baikal": {
+			"lat": 53.5,
+			"lon": 108
+		},
+		"Solovetsky Islands": {
+			"lat": 65.02444445,
+			"lon": 35.71055557
+		},
 		"Caucasian Dolmens": {},
-		"Korsakov": {},
-		"Altai Krai": {},
-		"Sviyazhsk": {}
+		"Korsakov": {
+			"lat": 46.6333,
+			"lon": 142.7667
+		},
+		"Altai Krai": {
+			"lat": 52.7667,
+			"lon": 82.6167
+		},
+		"Sviyazhsk": {
+			"lat": 55.77222222,
+			"lon": 48.65972222
+		}
 	}
 }

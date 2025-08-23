@@ -111,7 +111,6 @@
 		"description": "The best continent in the world?"
 	},
 	"Carribean": {
-		"zoom": 4,
 		"countries": [
 			"Antigua and Barbuda",
 			"Bahamas",
@@ -184,7 +183,6 @@
 		"description": "Home."
 	},
 	"Middle East": {
-		"zoom": 3,
 		"countries": [
 			"Bahrain",
 			"Cyprus",
@@ -206,7 +204,6 @@
 		"description": ""
 	},
 	"Central America": {
-		"zoom": 5,
 		"countries": [
 			"Belize",
 			"Costa Rica",

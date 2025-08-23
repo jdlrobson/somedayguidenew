@@ -169,13 +169,37 @@
 			"lat": 47.16666667,
 			"lon": 9.50972222
 		},
-		"Balzers": {},
-		"Malbun": {},
-		"Triesen": {},
-		"Triesenberg": {},
-		"Ruggell": {},
-		"Bendern": {},
-		"Nendeln": {},
-		"Schellenberg": {}
+		"Balzers": {
+			"lat": 47.065,
+			"lon": 9.5
+		},
+		"Malbun": {
+			"lat": 47.102,
+			"lon": 9.608
+		},
+		"Triesen": {
+			"lat": 47.1,
+			"lon": 9.53333333
+		},
+		"Triesenberg": {
+			"lat": 47.11805556,
+			"lon": 9.54333333
+		},
+		"Ruggell": {
+			"lat": 47.24333333,
+			"lon": 9.53
+		},
+		"Bendern": {
+			"lat": 47.21666667,
+			"lon": 9.5
+		},
+		"Nendeln": {
+			"lat": 47.2,
+			"lon": 9.55
+		},
+		"Schellenberg": {
+			"lat": 47.23360556,
+			"lon": 9.54805833
+		}
 	}
 }

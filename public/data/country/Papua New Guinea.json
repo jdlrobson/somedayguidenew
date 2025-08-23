@@ -614,14 +614,38 @@
 			"lat": -5.21666667,
 			"lon": 145.8
 		},
-		"Alotau": {},
-		"Lae": {},
+		"Alotau": {
+			"lat": -10.31666667,
+			"lon": 150.43333333
+		},
+		"Lae": {
+			"lat": -6.725833,
+			"lon": 146.991944
+		},
 		"Madang (town)": {},
-		"Louisiade Archipelago": {},
-		"Trobriand Islands": {},
-		"Tufi": {},
-		"Indonesia": {},
-		"Australia": {},
-		"Solomon Islands": {}
+		"Louisiade Archipelago": {
+			"lat": -11.2,
+			"lon": 153
+		},
+		"Trobriand Islands": {
+			"lat": -8.6667,
+			"lon": 150.9167
+		},
+		"Tufi": {
+			"lat": -9.0833,
+			"lon": 149.3167
+		},
+		"Indonesia": {
+			"lat": -2,
+			"lon": 118
+		},
+		"Australia": {
+			"lat": -28,
+			"lon": 137
+		},
+		"Solomon Islands": {
+			"lat": -9.467,
+			"lon": 159.817
+		}
 	}
 }

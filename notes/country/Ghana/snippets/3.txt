@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Shai_Hills_Resource_Reserve.jpg/330px-Shai_Hills_Resource_Reserve.jpg
+Shai Hills Resource Reserve
+https://en.wikipedia.org/wiki/Shai_Hills_Resource_Reserve
+<small>[from en.wikipedia.org]:</small> Shai Hills Resource Reserve is a resource reserve located in Doryumu in the Shai Osudoku District all in the Greater Accra Region of southern Ghana. It lies along the Tema-Akosombo Highway some 57 km from Accra.
+<location lat="5.9094" lon="0.0653"></location>

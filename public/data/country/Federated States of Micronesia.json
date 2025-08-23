@@ -2,10 +2,22 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Palikir": {},
-		"Kolonia": {},
+		"Palikir": {
+			"lat": 6.91722222,
+			"lon": 158.15888889
+		},
+		"Kolonia": {
+			"lat": 6.963889,
+			"lon": 158.208056
+		},
 		"Lele": {},
-		"Weno": {},
-		"Kapingamarangi": {}
+		"Weno": {
+			"lat": 7.44166667,
+			"lon": 151.85833333
+		},
+		"Kapingamarangi": {
+			"lat": 1.06666667,
+			"lon": 154.78333333
+		}
 	}
 }

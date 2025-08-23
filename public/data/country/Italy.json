@@ -38,6 +38,56 @@
 			"url": "https://margieinitaly.com/2024/09/treviso-italy-is-it-worth-visiting/"
 		},
 		{
+			"id": "13",
+			"text": "<small>[from en.wikipedia.org]:</small> The Amalfi Coast is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/330px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Amalfi Coast",
+			"url": "https://en.wikipedia.org/wiki/Amalfi_Coast"
+		},
+		{
+			"id": "14",
+			"text": "<small>[from en.wikipedia.org]:</small> Capri is an island located in the Tyrrhenian Sea off the Sorrento Peninsula, on the south side of the Gulf of Naples in the Campania region of Italy. A popular resort destination since the time of the Roman Republic, its natural beauty, historic sites, and upscale tourism have made it famous worldwide.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Capri_in_Cartolina_-_Vista_da_Termini_%28Massa_Lubrense%29.jpg/330px-Capri_in_Cartolina_-_Vista_da_Termini_%28Massa_Lubrense%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Capri",
+			"url": "https://en.wikipedia.org/wiki/Capri"
+		},
+		{
+			"id": "16",
+			"text": "<small>[from en.wikipedia.org]:</small> Manarola is a small town, a frazione of the comune (municipality) of Riomaggiore, in the province of La Spezia, Liguria, Northern Italy. It is the second-smallest of the famous Cinque Terre towns frequented by tourists, with a population of 353.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg/330px-Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Manarola",
+			"url": "https://en.wikipedia.org/wiki/Manarola"
+		},
+		{
+			"id": "17",
+			"text": "<small>[from en.wikipedia.org]:</small> Herculaneum is an ancient Roman town located in the modern-day comune of Ercolano, Campania, Italy. Herculaneum was buried under a massive pyroclastic flow in the eruption of Mount Vesuvius in 79 AD.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_135-138_PAN.jpg/330px-Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_135-138_PAN.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Herculaneum",
+			"url": "https://en.wikipedia.org/wiki/Herculaneum"
+		},
+		{
+			"id": "18",
+			"text": "<small>[from en.wikipedia.org]:</small> Mount Vesuvius is a somma–stratovolcano located on the Gulf of Naples in Campania, Italy, about 9 km (5.6 mi) east of Naples and a short distance from the shore. It is one of several volcanoes forming the Campanian volcanic arc. Vesuvius consists of a large cone partially encircled by the steep rim of a summit caldera, resulting from the collapse of an earlier, much higher structure.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Il_cratere_del_Vulcano_-_panoramio.jpg/330px-Il_cratere_del_Vulcano_-_panoramio.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Mount Vesuvius",
+			"url": "https://en.wikipedia.org/wiki/Mount_Vesuvius"
+		},
+		{
 			"id": "2",
 			"src": "https://www.instagram.com/p/n8QSa4M2KI/",
 			"source": "",
@@ -2658,15 +2708,13 @@
 			"lat": 43.817041,
 			"lon": 12.265092
 		},
-		"Amalfi Coast": {},
-		"Capri": {},
-		"Cinque Terre": {},
-		"Alps": {},
-		"Lake Garda": {},
-		"Pompeii": {},
-		"Herculaneum": {},
-		"Taormina": {},
-		"Vesuvius": {},
-		"Sicily": {}
+		"Lake Garda": {
+			"lat": 45.633333,
+			"lon": 10.666667
+		},
+		"Sicily": {
+			"lat": 37.5,
+			"lon": 14
+		}
 	}
 }

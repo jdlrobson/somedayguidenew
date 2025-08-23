@@ -1223,16 +1223,45 @@
 			"lat": -0.41666667,
 			"lon": 36.95
 		},
-		"Mtwapa": {},
-		"Tsavo West National Park": {},
-		"Tsavo East National Park": {},
-		"Maasai Mara National Reserve": {},
-		"Amboseli National Park": {},
-		"Lake Nakuru National Park": {},
-		"Nairobi National Park": {},
-		"Aberdare National Park": {},
-		"Sibiloi National Park": {},
-		"Shimba Hills National Reserve": {},
-		"Maasai Mara National Park": {}
+		"Mtwapa": {
+			"lat": -3.9497,
+			"lon": 39.7448
+		},
+		"Tsavo West National Park": {
+			"lat": -3.3167,
+			"lon": 38.1333
+		},
+		"Tsavo East National Park": {
+			"lat": -2.77861111,
+			"lon": 38.77166667
+		},
+		"Maasai Mara National Reserve": {
+			"lat": -1.49,
+			"lon": 35.143889
+		},
+		"Amboseli National Park": {
+			"lat": -2.6414,
+			"lon": 37.2481
+		},
+		"Lake Nakuru National Park": {
+			"lat": -0.3667,
+			"lon": 36.0833
+		},
+		"Nairobi National Park": {
+			"lat": -1.37333333,
+			"lon": 36.85888889
+		},
+		"Aberdare National Park": {
+			"lat": -0.38,
+			"lon": 36.699167
+		},
+		"Sibiloi National Park": {
+			"lat": 3.960556,
+			"lon": 36.3425
+		},
+		"Shimba Hills National Reserve": {
+			"lat": -4.27418,
+			"lon": 39.3956
+		}
 	}
 }

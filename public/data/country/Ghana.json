@@ -10,6 +10,26 @@
 			"embed": false,
 			"title": "A Brief History of Fabrics in Ghana",
 			"url": "https://albiongould.com/a-brief-history-of-fabrics-in-ghana/"
+		},
+		{
+			"id": "2",
+			"text": "<small>[from en.wikipedia.org]:</small> Wli Waterfalls is the highest waterfall in Ghana and the tallest in West Africa. It has a lower and an upper fall.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wli_Lower_Fall-4.jpg/330px-Wli_Lower_Fall-4.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Wli waterfalls",
+			"url": "https://en.wikipedia.org/wiki/Wli_waterfalls"
+		},
+		{
+			"id": "3",
+			"text": "<small>[from en.wikipedia.org]:</small> Shai Hills Resource Reserve is a resource reserve located in Doryumu in the Shai Osudoku District all in the Greater Accra Region of southern Ghana. It lies along the Tema-Akosombo Highway some 57 km from Accra.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Shai_Hills_Resource_Reserve.jpg/330px-Shai_Hills_Resource_Reserve.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Shai Hills Resource Reserve",
+			"url": "https://en.wikipedia.org/wiki/Shai_Hills_Resource_Reserve"
 		}
 	],
 	"places": {
@@ -582,8 +602,6 @@
 		"Paga": {
 			"lat": 10.992222,
 			"lon": -1.113333
-		},
-		"Shai Hills Reserve": {},
-		"Wli Falls": {}
+		}
 	}
 }

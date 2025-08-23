@@ -488,18 +488,54 @@
 			"lat": -14.83333333,
 			"lon": 35.33333333
 		},
-		"Mangochi": {},
-		"Monkey Bay": {},
-		"Nkhotakota": {},
-		"Cape Maclear": {},
-		"Mua": {},
-		"Zomba Plateau": {},
-		"Lake Malawi National Park": {},
+		"Mangochi": {
+			"lat": -14.47222222,
+			"lon": 35.26388889
+		},
+		"Monkey Bay": {
+			"lat": -14.06666667,
+			"lon": 34.91666667
+		},
+		"Nkhotakota": {
+			"lat": -12.9167,
+			"lon": 34.3
+		},
+		"Cape Maclear": {
+			"lat": -14.0167,
+			"lon": 34.85
+		},
+		"Mua": {
+			"lat": -14.2836,
+			"lon": 34.5108
+		},
+		"Zomba Plateau": {
+			"lat": -15.3272,
+			"lon": 35.3208
+		},
+		"Lake Malawi National Park": {
+			"lat": -14.047,
+			"lon": 34.878
+		},
 		"Majete Wildlife Park": {},
-		"Nyika National Park": {},
-		"Ntchisi Forest Reserve": {},
-		"Tanzania": {},
-		"Mozambique": {},
-		"South Luangwa National Park": {}
+		"Nyika National Park": {
+			"lat": -10.66666667,
+			"lon": 33.83333333
+		},
+		"Ntchisi Forest Reserve": {
+			"lat": -13.3261,
+			"lon": 34.0403
+		},
+		"Tanzania": {
+			"lat": -6.307,
+			"lon": 34.854
+		},
+		"Mozambique": {
+			"lat": -19,
+			"lon": 35
+		},
+		"South Luangwa National Park": {
+			"lat": -13,
+			"lon": 31.5
+		}
 	}
 }

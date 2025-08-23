@@ -821,15 +821,42 @@
 			"lat": 51.43333333,
 			"lon": 5.48333333
 		},
-		"Delft": {},
-		"Leiden": {},
-		"Efteling": {},
-		"Lisse": {},
-		"Kinderdijk": {},
+		"Delft": {
+			"lat": 52,
+			"lon": 4.36667
+		},
+		"Leiden": {
+			"lat": 52.15966,
+			"lon": 4.48259
+		},
+		"Efteling": {
+			"lat": 51.6536,
+			"lon": 5.04699
+		},
+		"Lisse": {
+			"lat": 52.25,
+			"lon": 4.55
+		},
+		"Kinderdijk": {
+			"lat": 51.88372,
+			"lon": 4.64262
+		},
 		"Schokland": {},
-		"South Limburg": {},
-		"Zaanse Schans": {},
-		"Zaanstreek-Waterland": {},
-		"Noordoostpolder": {}
+		"South Limburg": {
+			"lat": 50.91256,
+			"lon": 5.87563
+		},
+		"Zaanse Schans": {
+			"lat": 52.473889,
+			"lon": 4.816389
+		},
+		"Zaanstreek-Waterland": {
+			"lat": 52.47316,
+			"lon": 4.91501
+		},
+		"Noordoostpolder": {
+			"lat": 52.7,
+			"lon": 5.75
+		}
 	}
 }

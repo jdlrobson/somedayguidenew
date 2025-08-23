@@ -65,9 +65,21 @@
 			"lat": 14.01083333,
 			"lon": -60.98944444
 		},
-		"Vieux Fort": {},
-		"Soufriere": {},
-		"Gros Islet": {},
-		"Marigot Bay": {}
+		"Vieux Fort": {
+			"lat": 13.768,
+			"lon": -60.956
+		},
+		"Soufriere": {
+			"lat": 13.8569,
+			"lon": -61.0556
+		},
+		"Gros Islet": {
+			"lat": 14.0667,
+			"lon": -60.9333
+		},
+		"Marigot Bay": {
+			"lat": 13.966179,
+			"lon": -61.024032
+		}
 	}
 }

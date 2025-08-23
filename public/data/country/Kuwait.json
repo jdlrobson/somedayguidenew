@@ -80,19 +80,43 @@
 			"lat": 29.36972222,
 			"lon": 47.97833333
 		},
-		"Jahra": {},
+		"Jahra": {
+			"lat": 29.35,
+			"lon": 47.683333
+		},
 		"Ahmadi": {},
-		"Hawalli": {},
+		"Hawalli": {
+			"lat": 29.3333,
+			"lon": 48.0333
+		},
 		"Farwaniya": {},
 		"Mubarak al-Kabeer": {},
-		"Shuwaikh": {},
+		"Shuwaikh": {
+			"lat": 29.355,
+			"lon": 47.95583333
+		},
 		"Dajeej": {},
-		"Salmiya": {},
+		"Salmiya": {
+			"lat": 29.33333333,
+			"lon": 48.08333333
+		},
 		"Rai": {},
 		"UAE": {},
-		"Qatar": {},
-		"Bahrain": {},
-		"Iran": {},
-		"Oman": {}
+		"Qatar": {
+			"lat": 25.3,
+			"lon": 51.5167
+		},
+		"Bahrain": {
+			"lat": 26.0675,
+			"lon": 50.5511
+		},
+		"Iran": {
+			"lat": 32,
+			"lon": 53
+		},
+		"Oman": {
+			"lat": 21.5,
+			"lon": 55
+		}
 	}
 }

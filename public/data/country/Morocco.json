@@ -1012,9 +1012,21 @@
 			"lon": -5.527222
 		},
 		"Tetouan": {},
-		"Chefchaouen": {},
-		"Merzouga": {},
-		"M'Hamid": {},
-		"Volubilis": {}
+		"Chefchaouen": {
+			"lat": 35.171389,
+			"lon": -5.269722
+		},
+		"Merzouga": {
+			"lat": 31.09917,
+			"lon": -4.01167
+		},
+		"M'Hamid": {
+			"lat": 29.8222,
+			"lon": -5.7208
+		},
+		"Volubilis": {
+			"lat": 34.07111111,
+			"lon": -5.55361111
+		}
 	}
 }

@@ -584,9 +584,21 @@
 			"lat": 46.255,
 			"lon": 20.145
 		},
-		"Kecskemét": {},
-		"Székesfehérvár": {},
-		"Hortobágy": {},
-		"Aggtelek": {}
+		"Kecskemét": {
+			"lat": 46.9061,
+			"lon": 19.6897
+		},
+		"Székesfehérvár": {
+			"lat": 47.2,
+			"lon": 18.417
+		},
+		"Hortobágy": {
+			"lat": 47.5833,
+			"lon": 21.1667
+		},
+		"Aggtelek": {
+			"lat": 48.46666,
+			"lon": 20.50165
+		}
 	}
 }

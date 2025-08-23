@@ -881,10 +881,25 @@
 			"lat": 31.75277778,
 			"lon": 72.92222222
 		},
-		"Sialkot": {},
-		"Mohenjo-daro": {},
-		"Taxila": {},
-		"Changa Manga": {},
-		"Nankana Sahib": {}
+		"Sialkot": {
+			"lat": 32.497222,
+			"lon": 74.536111
+		},
+		"Mohenjo-daro": {
+			"lat": 27.3292,
+			"lon": 68.1389
+		},
+		"Taxila": {
+			"lat": 33.74875,
+			"lon": 72.81292
+		},
+		"Changa Manga": {
+			"lat": 31.0833,
+			"lon": 73.9667
+		},
+		"Nankana Sahib": {
+			"lat": 31.45,
+			"lon": 73.7
+		}
 	}
 }

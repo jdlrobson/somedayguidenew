@@ -480,17 +480,50 @@
 			"lat": 28.20833333,
 			"lon": 83.98888889
 		},
-		"Bhaktapur": {},
-		"Birgunj": {},
-		"Bharatpur (Nepal)": {},
-		"Nepalgunj": {},
-		"Patan": {},
-		"Chitwan National Park": {},
-		"Daman (Nepal)": {},
-		"Khumbu": {},
-		"Nagarkot": {},
+		"Bhaktapur": {
+			"lat": 27.67,
+			"lon": 85.43
+		},
+		"Birgunj": {
+			"lat": 27,
+			"lon": 84.8667
+		},
+		"Bharatpur (Nepal)": {
+			"lat": 27.68,
+			"lon": 84.43
+		},
+		"Nepalgunj": {
+			"lat": 28.05,
+			"lon": 81.6167
+		},
+		"Patan": {
+			"lat": 27.67,
+			"lon": 85.32
+		},
+		"Chitwan National Park": {
+			"lat": 27.5,
+			"lon": 84.333333
+		},
+		"Daman (Nepal)": {
+			"lat": 27.61,
+			"lon": 85.09
+		},
+		"Khumbu": {
+			"lat": 27.8167,
+			"lon": 86.7167
+		},
+		"Nagarkot": {
+			"lat": 27.71871,
+			"lon": 85.51859
+		},
 		"Parping": {},
-		"Tangting": {},
-		"Pharping": {}
+		"Tangting": {
+			"lat": 28.3308,
+			"lon": 84.11
+		},
+		"Pharping": {
+			"lat": 27.6126,
+			"lon": 85.2647
+		}
 	}
 }

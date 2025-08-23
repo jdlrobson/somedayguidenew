@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/YaxhaNorthAcropolis.jpg/330px-YaxhaNorthAcropolis.jpg
+Yaxha
+https://en.wikipedia.org/wiki/Yaxha
+<small>[from en.wikipedia.org]:</small> Yaxha is a Mesoamerican archaeological site in the northeast of the Petén Basin in modern-day Guatemala. As a ceremonial centre of the pre-Columbian Maya civilization, Yaxha was the third largest city in the region and experienced its maximum power during the Early Classic period. The city was located on a ridge overlooking Lake Yaxha. The name of the city derives from the Mayan for "blue-green water"; it is a notable survival of a Classic period place-name into the modern day. The Yaxha kingdom is estimated to have covered an area of 237 square kilometres (92 sq mi) and to have had a peak population of 42,000 in the Late Classic period of Mesoamerican chronology.
+<location lat="17.0775" lon="-89.4025"></location>

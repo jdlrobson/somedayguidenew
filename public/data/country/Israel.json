@@ -899,84 +899,6 @@
 			"lat": 30.61277778,
 			"lon": 34.80388889
 		},
-		"Dead Sea (Israel and the West Bank)": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 7.8,
-					"high": 21,
-					"low": 13
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 9,
-					"high": 22,
-					"low": 14
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 7.6,
-					"high": 25,
-					"low": 17
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 4.3,
-					"high": 30,
-					"low": 21
-				},
-				{
-					"heading": "May",
-					"precipitation": 0.2,
-					"high": 34,
-					"low": 25
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 0,
-					"high": 38,
-					"low": 28
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 40,
-					"low": 30
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 39,
-					"low": 30
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 0,
-					"high": 37,
-					"low": 28
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 1.2,
-					"high": 32,
-					"low": 25
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 3.5,
-					"high": 27,
-					"low": 19
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 8.3,
-					"high": 22,
-					"low": 14
-				}
-			],
-			"lat": 31.561,
-			"lon": 35.4435
-		},
 		"Acre, Israel": {
 			"climate": [
 				{
@@ -1054,19 +976,6 @@
 			],
 			"lat": 32.92777778,
 			"lon": 35.08166667
-		},
-		"Jerusalem/Old City": {},
-		"Sea of Galilee region": {},
-		"Dead Sea (Israel)": {},
-		"Jezreel Valley": {},
-		"Masada": {},
-		"Sde Boker": {},
-		"Beth Shean Valley": {},
-		"Lower Galilee": {},
-		"Golan Heights": {},
-		"Rosh Haniqra": {},
-		"Mount Hermon": {},
-		"Carmel Range": {},
-		"Beit Shean Valley": {}
+		}
 	}
 }

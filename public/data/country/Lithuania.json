@@ -355,15 +355,42 @@
 			"lat": 55.93333333,
 			"lon": 23.31666667
 		},
-		"Jonava": {},
-		"Panevėžys": {},
-		"Trakai": {},
-		"Aukštaitija National Park": {},
-		"Curonian Spit": {},
-		"Dzūkija National Park": {},
-		"Kernavė": {},
+		"Jonava": {
+			"lat": 55.072222,
+			"lon": 24.280556
+		},
+		"Panevėžys": {
+			"lat": 55.7333,
+			"lon": 24.35
+		},
+		"Trakai": {
+			"lat": 54.633,
+			"lon": 24.933
+		},
+		"Aukštaitija National Park": {
+			"lat": 55.362,
+			"lon": 26.018
+		},
+		"Curonian Spit": {
+			"lat": 55.2744,
+			"lon": 20.9708
+		},
+		"Dzūkija National Park": {
+			"lat": 54.08194444,
+			"lon": 24.37666667
+		},
+		"Kernavė": {
+			"lat": 54.88333333,
+			"lon": 24.85
+		},
 		"Purnuskes": {},
-		"Žemaičių Kalvarija": {},
-		"Dzūkija": {}
+		"Žemaičių Kalvarija": {
+			"lat": 56.1167,
+			"lon": 22.0167
+		},
+		"Dzūkija": {
+			"lat": 54.54021,
+			"lon": 24.74121
+		}
 	}
 }

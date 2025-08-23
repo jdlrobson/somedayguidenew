@@ -464,9 +464,9 @@ function pullLocationFromProjects( lackingLonLat ) {
 
 function pullLocations() {
     const promises = [];
-    Object.keys(json).forEach((countryName) => {
+    Object.keys(json).sort(()=>Math.random() < -0.5 ? -1 : 1 ).forEach((countryName) => {
         // Limit requests at a time.
-        if ( promises.length > 10 ) {
+        if ( promises.length > 30 ) {
             return;
         }
         const countryDataPath = `public/data/country/${countryName}.json`;

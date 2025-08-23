@@ -12,6 +12,26 @@
 			"url": "https://en.wikipedia.org/wiki/Lesio_Louna_Reserve"
 		},
 		{
+			"id": "2",
+			"text": "<small>[from en.wikipedia.org]:</small> The Conkouati-Douli National Park is a UNESCO-recognised coastal national park in the Republic of the Congo. The park's main activities include community outreach, biological research and tourism development. It was established by the Presidential Decree No. 99-136 on 14 August 1999.",
+			"src": "null",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Conkouati-Douli National Park",
+			"url": "https://en.wikipedia.org/wiki/Conkouati-Douli_National_Park"
+		},
+		{
+			"id": "3",
+			"text": "<small>[from en.wikipedia.org]:</small> The Léfini Faunal Reserve is a protected area in the south of the Republic of the Congo. It was established on 26 November 1951.",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lefini_River_%2825583791878%29.jpg/330px-Lefini_River_%2825583791878%29.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Léfini Faunal Reserve",
+			"url": "https://en.wikipedia.org/wiki/L%C3%A9fini_Faunal_Reserve"
+		},
+		{
 			"id": "4",
 			"text": "Join my personal journey through Odzala-Kokoua National Park in the Congo – rainforest treks, gorilla encounters, and wild celebrations. <small>[image from Rhino Africa Blog]</small>",
 			"src": "https://rhin-blog-production.s3.eu-west-1.amazonaws.com/wp-content/uploads/2024/11/unnamed-17.jpg",
@@ -20,6 +40,25 @@
 			"embed": false,
 			"title": "My Odzala-Kokoua National Park Adventure | Rhino Africa Blog",
 			"url": "https://blog.rhinoafrica.com/2024/11/19/wild-heart-of-the-congo-my-odzala-kokoua-national-park-adventure/"
+		},
+		{
+			"id": "6",
+			"text": "<small>[from en.wikipedia.org]:</small> Odzala-Kokoua National Park is a national park in the Republic of the Congo. The park was first protected in 1935, declared a biosphere reserve in 1977, and granted official designation by presidential decree in 2001. Odzala-Kokoua has approximately 100 mammal species, and one of the continent's most diverse primate populations. The nonprofit conservation organization African Parks began managing the park in collaboration with the Ministry of Forest Economy, Sustainable Development and Environment of the Republic of the Congo in 2010.",
+			"src": "null",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Odzala-Kokoua National Park",
+			"url": "https://en.wikipedia.org/wiki/Odzala-Kokoua_National_Park"
+		},
+		{
+			"id": "7",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Reddit - The heart of the internet",
+			"url": "https://www.reddit.com/r/AIDKE/comments/1i1b8se/meet_the_goliath_tigerfish_hydrocynus_goliath_the/"
 		}
 	],
 	"places": {
@@ -335,7 +374,6 @@
 			"lat": -4.78888889,
 			"lon": 11.86527778
 		},
-		"Abala-Ndolo": {},
 		"Djambala": {
 			"lat": -2.55,
 			"lon": 14.75
@@ -344,21 +382,14 @@
 			"lat": -2.95,
 			"lon": 12.733333
 		},
-		"Ouésso": {},
 		"Owando": {
 			"lat": -0.48333333,
 			"lon": 15.9
 		},
-		"Pointe-Noire (Republic of the Congo)": {},
-		"Conkouati Reserve": {},
 		"Ile Mbamou": {
 			"lat": -4.2227,
 			"lon": 15.406
 		},
-		"Lefini Reserve": {},
-		"Mount Fouari National Reserve": {},
-		"Odzala National Park": {},
-		"Tiger Fish Congo Camp": {},
 		"Lesio Louna Gorilla Reserve": {
 			"lat": -2,
 			"lon": 15

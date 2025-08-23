@@ -80,8 +80,14 @@
 			"lat": -4.6308,
 			"lon": 55.4619
 		},
-		"Beau Vallon": {},
+		"Beau Vallon": {
+			"lat": -4.6,
+			"lon": 55.4167
+		},
 		"Takamaka (Seychelles)": {},
-		"Comoros": {}
+		"Comoros": {
+			"lat": -11.93,
+			"lon": 43.86
+		}
 	}
 }

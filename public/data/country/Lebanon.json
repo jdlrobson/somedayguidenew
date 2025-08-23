@@ -569,11 +569,29 @@
 			"lat": 34.433,
 			"lon": 35.85
 		},
-		"Byblos": {},
-		"Jezzine": {},
-		"Jounieh": {},
-		"Tyre": {},
-		"Jeita": {},
-		"Kadisha Valley": {}
+		"Byblos": {
+			"lat": 34.12,
+			"lon": 35.65
+		},
+		"Jezzine": {
+			"lat": 33.533333,
+			"lon": 35.583333
+		},
+		"Jounieh": {
+			"lat": 33.969722,
+			"lon": 35.615556
+		},
+		"Tyre": {
+			"lat": 33.270833,
+			"lon": 35.196111
+		},
+		"Jeita": {
+			"lat": 33.95,
+			"lon": 35.64
+		},
+		"Kadisha Valley": {
+			"lat": 34.25,
+			"lon": 35.95
+		}
 	}
 }

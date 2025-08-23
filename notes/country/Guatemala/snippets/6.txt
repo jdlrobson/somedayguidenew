@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yaxhatemplo216.jpg/330px-Yaxhatemplo216.jpg
+Cultural Triangle Yaxha-Nakum-Naranjo National Park
+https://en.wikipedia.org/wiki/Cultural_Triangle_Yaxha-Nakum-Naranjo_National_Park
+<small>[from en.wikipedia.org]:</small> The Cultural Triangle Yaxha-Nakum-Naranjo National Park is a multidisciplinary project involving archaeologists, architects, restaurateurs, and biologists. It is situated in Petén, Guatemala. The project does not only work in one archaeological site, but in a region of 1,200 square kilometres (460 sq mi) including three gigantic sites and 14 sub-centers – the most populated area of the Classic period of the Maya civilization.
+<location lat="17.115" lon="-89.384"></location>

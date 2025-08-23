@@ -818,13 +818,31 @@
 			"lat": 43.64833333,
 			"lon": 19.67916667
 		},
-		"Požarevac": {},
-		"Subotica": {},
-		"Vršac": {},
-		"Đerdap National Park": {},
+		"Požarevac": {
+			"lat": 44.62,
+			"lon": 21.18972222
+		},
+		"Subotica": {
+			"lat": 46.0983333,
+			"lon": 19.67
+		},
+		"Vršac": {
+			"lat": 45.1167,
+			"lon": 21.3
+		},
+		"Đerdap National Park": {
+			"lat": 44.43333333,
+			"lon": 22.1
+		},
 		"Soko Banja": {},
 		"Tara National Park": {},
-		"Prokletije": {},
-		"Sokobanja": {}
+		"Prokletije": {
+			"lat": 42.441667,
+			"lon": 19.8125
+		},
+		"Sokobanja": {
+			"lat": 43.63944444,
+			"lon": 21.86944444
+		}
 	}
 }

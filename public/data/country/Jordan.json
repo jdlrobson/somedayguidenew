@@ -579,14 +579,33 @@
 			"lat": 30.3333,
 			"lon": 35.4333
 		},
-		"Irbid": {},
-		"Zarqa": {},
-		"Azraq": {},
-		"Dana Nature Reserve": {},
-		"Dead Sea (Jordan)": {},
-		"Desert Castles": {},
-		"Umm Qais": {},
-		"Wadi Rum": {},
-		"Salt": {}
+		"Irbid": {
+			"lat": 32.55,
+			"lon": 35.85
+		},
+		"Zarqa": {
+			"lat": 32.083333,
+			"lon": 36.1
+		},
+		"Azraq": {
+			"lat": 31.83,
+			"lon": 36.81
+		},
+		"Dana Nature Reserve": {
+			"lat": 30.6836,
+			"lon": 35.6169
+		},
+		"Umm Qais": {
+			"lat": 32.65,
+			"lon": 35.683333
+		},
+		"Wadi Rum": {
+			"lat": 29.5765,
+			"lon": 35.419928
+		},
+		"Salt": {
+			"lat": 32.033333,
+			"lon": 35.733333
+		}
 	}
 }

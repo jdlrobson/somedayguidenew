@@ -243,8 +243,8 @@
 					"low": 14
 				}
 			],
-			"lat": -36.84916667,
-			"lon": 174.76527778
+			"lat": -36.84,
+			"lon": 174.77
 		},
 		"Christchurch": {
 			"climate": [
@@ -1026,11 +1026,22 @@
 			"lat": -38.6875,
 			"lon": 176.0694
 		},
-		"Abel Tasman National Park": {},
-		"Coromandel Peninsula": {},
-		"Marlborough (New Zealand)": {},
-		"Tongariro National Park": {},
-		"Westland National Park": {},
-		"Tokelau": {}
+		"Abel Tasman National Park": {
+			"lat": -40.833333,
+			"lon": 172.9
+		},
+		"Coromandel Peninsula": {
+			"lat": -36.9,
+			"lon": 175.58
+		},
+		"Marlborough (New Zealand)": {
+			"lat": -41.7,
+			"lon": 173.6
+		},
+		"Tongariro National Park": {
+			"lat": -39.2,
+			"lon": 175.5833
+		},
+		"Westland National Park": {}
 	}
 }

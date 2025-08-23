@@ -314,7 +314,13 @@
 			"lat": 20.93333333,
 			"lon": -17.03333333
 		},
-		"Tichit": {},
-		"Banc d'Arguin National Park": {}
+		"Tichit": {
+			"lat": 18.4333,
+			"lon": -9.5
+		},
+		"Banc d'Arguin National Park": {
+			"lat": 20.47,
+			"lon": -16.32
+		}
 	}
 }

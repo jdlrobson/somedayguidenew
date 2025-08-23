@@ -413,12 +413,29 @@
 			"lat": 42.516667,
 			"lon": 72.233333
 		},
-		"Balykchy": {},
-		"Jalal-Abad": {},
-		"Kochkor": {},
-		"Tokmok": {},
-		"Kul Ukuk": {},
-		"Issyk Kul and the Tian Shan": {},
-		"Bishkek and the Northwest": {}
+		"Balykchy": {
+			"lat": 42.4667,
+			"lon": 76.1833
+		},
+		"Jalal-Abad": {
+			"lat": 40.933333,
+			"lon": 73
+		},
+		"Kochkor": {
+			"lat": 42.23,
+			"lon": 75.75
+		},
+		"Tokmok": {
+			"lat": 42.83333333,
+			"lon": 75.28333333
+		},
+		"Issyk Kul and the Tian Shan": {
+			"lat": 41.66,
+			"lon": 76.96
+		},
+		"Bishkek and the Northwest": {
+			"lat": 42.745,
+			"lon": 74.285
+		}
 	}
 }

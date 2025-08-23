@@ -559,13 +559,34 @@
 			"lat": 41.68333333,
 			"lon": 20.7
 		},
-		"Kratovo": {},
-		"Veles": {},
-		"Galičica National Park": {},
-		"Pelister National Park": {},
+		"Kratovo": {
+			"lat": 42.06666667,
+			"lon": 22.18333333
+		},
+		"Veles": {
+			"lat": 41.71527778,
+			"lon": 21.77527778
+		},
+		"Galičica National Park": {
+			"lat": 40.9417,
+			"lon": 20.8064
+		},
+		"Pelister National Park": {
+			"lat": 41,
+			"lon": 21.24
+		},
 		"Prespa (Macedonia)": {},
-		"Vevčani": {},
-		"Elšani": {},
-		"Resen": {}
+		"Vevčani": {
+			"lat": 41.24027778,
+			"lon": 20.59305556
+		},
+		"Elšani": {
+			"lat": 41.0253,
+			"lon": 20.8136
+		},
+		"Resen": {
+			"lat": 41.08888889,
+			"lon": 21.01222222
+		}
 	}
 }

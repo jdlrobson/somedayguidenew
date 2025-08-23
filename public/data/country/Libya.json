@@ -433,12 +433,29 @@
 			"lat": 24.95,
 			"lon": 10.316667
 		},
-		"Sabha": {},
-		"Shahhat": {},
-		"Surt": {},
-		"Tobruk": {},
-		"Zuwara": {},
-		"Gaberoun": {},
-		"UNESCO World Heritage Site": {}
+		"Sabha": {
+			"lat": 27.0389,
+			"lon": 14.4264
+		},
+		"Shahhat": {
+			"lat": 32.827778,
+			"lon": 21.862222
+		},
+		"Surt": {
+			"lat": 31.2,
+			"lon": 16.6
+		},
+		"Tobruk": {
+			"lat": 32.076111,
+			"lon": 23.961389
+		},
+		"Zuwara": {
+			"lat": 32.933333,
+			"lon": 12.083333
+		},
+		"Gaberoun": {
+			"lat": 26.80305556,
+			"lon": 13.53527778
+		}
 	}
 }

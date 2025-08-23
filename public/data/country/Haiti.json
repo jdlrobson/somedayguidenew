@@ -100,13 +100,14 @@
 			"lat": 18.2,
 			"lon": -73.75
 		},
-		"Petionville": {},
-		"Port-de-Paix": {},
+		"Port-de-Paix": {
+			"lat": 19.95,
+			"lon": -72.833333
+		},
 		"Port-Salut": {
 			"lat": 18.0939083,
 			"lon": -73.9256944
 		},
-		"Labadie": {},
 		"Pétion-Ville": {
 			"lat": 18.5167,
 			"lon": -72.2833

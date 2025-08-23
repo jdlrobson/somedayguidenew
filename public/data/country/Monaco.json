@@ -160,6 +160,9 @@
 		},
 		"Cote d'Azur": {},
 		"Saint Tropez": {},
-		"Italy": {}
+		"Italy": {
+			"lat": 42.5,
+			"lon": 12.5
+		}
 	}
 }

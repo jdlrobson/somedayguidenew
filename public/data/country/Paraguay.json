@@ -548,9 +548,21 @@
 			"lat": -25.310556,
 			"lon": -57.296111
 		},
-		"Pilar": {},
-		"Villeta": {},
-		"New Australia": {},
-		"Trinidad (Paraguay)": {}
+		"Pilar": {
+			"lat": -26.87,
+			"lon": -58.3
+		},
+		"Villeta": {
+			"lat": -25.505931,
+			"lon": -57.569643
+		},
+		"New Australia": {
+			"lat": -25.40669,
+			"lon": -56.55075
+		},
+		"Trinidad (Paraguay)": {
+			"lat": -27.12,
+			"lon": -55.78
+		}
 	}
 }

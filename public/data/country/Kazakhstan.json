@@ -704,10 +704,22 @@
 			"lat": 45.61666667,
 			"lon": 63.31666667
 		},
-		"Aktobe": {},
-		"Aksu-Zhabagly": {},
-		"Karkaraly National Park": {},
-		"Talgar": {},
+		"Aktobe": {
+			"lat": 50.26666667,
+			"lon": 57.21666667
+		},
+		"Aksu-Zhabagly": {
+			"lat": 42.37894444,
+			"lon": 70.60972222
+		},
+		"Karkaraly National Park": {
+			"lat": 49.4167,
+			"lon": 75.4167
+		},
+		"Talgar": {
+			"lat": 43.3,
+			"lon": 77.23333333
+		},
 		"Zailiysky Alatau": {}
 	}
 }

@@ -1,0 +1,6 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20191123_Guyana_0228_Kyk_Over_Al_Island_sRGB_%2849295897097%29.jpg/330px-20191123_Guyana_0228_Kyk_Over_Al_Island_sRGB_%2849295897097%29.jpg
+Fort Kyk-Over-Al
+https://en.wikipedia.org/wiki/Fort_Kyk-Over-Al
+<small>[from en.wikipedia.org]:</small> 
+Fort Kyk-Over-Al was a Dutch fort in the colony of Essequibo, in what is now Guyana. It was constructed in 1616 at the intersection of the Essequibo, Cuyuni and Mazaruni rivers. It once served as the centre for the Dutch administration of the county, but now only ruins are left. The name Kyk-Over-Al derives from the Dutch for "See over all", a reference to the commanding view of the river from the fort.
+<location lat="6.38333333" lon="-58.68333333"></location>

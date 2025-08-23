@@ -1175,10 +1175,25 @@
 			"lat": 16.78416667,
 			"lon": 94.73333333
 		},
-		"Kawthaung": {},
-		"Twante": {},
-		"Kengtung": {},
-		"Kyaiktiyo": {},
-		"Ngwe Saung": {}
+		"Kawthaung": {
+			"lat": 9.9833,
+			"lon": 98.55
+		},
+		"Twante": {
+			"lat": 16.7167,
+			"lon": 95.9333
+		},
+		"Kengtung": {
+			"lat": 21.2833,
+			"lon": 99.6
+		},
+		"Kyaiktiyo": {
+			"lat": 17.483583,
+			"lon": 97.098428
+		},
+		"Ngwe Saung": {
+			"lat": 16.8583,
+			"lon": 94.3917
+		}
 	}
 }

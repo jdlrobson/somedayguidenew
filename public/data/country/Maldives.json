@@ -82,10 +82,25 @@
 		},
 		"Male": {},
 		"Seenu": {},
-		"Kuredu": {},
-		"Mathiveri": {},
-		"Rasdhoo": {},
-		"Thoddoo": {},
-		"Ukulhas": {}
+		"Kuredu": {
+			"lat": 5.333889,
+			"lon": 73.463889
+		},
+		"Mathiveri": {
+			"lat": 4.190278,
+			"lon": 72.747222
+		},
+		"Rasdhoo": {
+			"lat": 4.262778,
+			"lon": 72.991389
+		},
+		"Thoddoo": {
+			"lat": 4.436944,
+			"lon": 72.959444
+		},
+		"Ukulhas": {
+			"lat": 4.21,
+			"lon": 72.86
+		}
 	}
 }

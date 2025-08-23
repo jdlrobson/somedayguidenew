@@ -158,15 +158,42 @@
 			"lat": 16.97222222,
 			"lon": 7.99083333
 		},
-		"Ayorou": {},
-		"Diffa": {},
-		"Dosso": {},
-		"Maradi": {},
-		"Tahoua": {},
-		"Zinder": {},
-		"W National Park": {},
-		"Koure": {},
+		"Ayorou": {
+			"lat": 14.735,
+			"lon": 0.92
+		},
+		"Diffa": {
+			"lat": 13.316667,
+			"lon": 12.616667
+		},
+		"Dosso": {
+			"lat": 13.05,
+			"lon": 3.2
+		},
+		"Maradi": {
+			"lat": 13.483333,
+			"lon": 7.1
+		},
+		"Tahoua": {
+			"lat": 14.89027778,
+			"lon": 5.26416667
+		},
+		"Zinder": {
+			"lat": 13.805278,
+			"lon": 8.988333
+		},
+		"W National Park": {
+			"lat": 12,
+			"lon": 2.5
+		},
+		"Koure": {
+			"lat": 13.3106,
+			"lon": 2.576
+		},
 		"Balleyara Market": {},
-		"Bilma": {}
+		"Bilma": {
+			"lat": 18.68333333,
+			"lon": 12.91666667
+		}
 	}
 }

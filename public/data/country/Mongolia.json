@@ -821,19 +821,43 @@
 			"lat": 43.57,
 			"lon": 104.42583333
 		},
-		"Choibalsan": {},
-		"Öndörkhaan": {},
+		"Choibalsan": {
+			"lat": 48.08032,
+			"lon": 114.52754
+		},
+		"Öndörkhaan": {
+			"lat": 47.32333333,
+			"lon": 110.66111111
+		},
 		"Khognokhan mountain specially protected territory": {},
-		"Altai Tavan Bogd National Park": {},
-		"Gun-Galuut Nature Reserve": {},
-		"Gorkhi-Terelj National Park": {},
-		"Khustain Nuruu National Park": {},
-		"Gobi Gurvan Saikhan National Park": {},
+		"Altai Tavan Bogd National Park": {
+			"lat": 48.49,
+			"lon": 88.87
+		},
+		"Gun-Galuut Nature Reserve": {
+			"lat": 47.541,
+			"lon": 108.343
+		},
+		"Gorkhi-Terelj National Park": {
+			"lat": 47.91404,
+			"lon": 107.43599
+		},
+		"Khustain Nuruu National Park": {
+			"lat": 47.7,
+			"lon": 105.9
+		},
+		"Gobi Gurvan Saikhan National Park": {
+			"lat": 43.802729,
+			"lon": 101.589663
+		},
 		"Erlian": {
 			"lat": 43.648,
 			"lon": 111.973
 		},
-		"Jining (Inner Mongolia)": {},
+		"Jining (Inner Mongolia)": {
+			"lat": 41.03,
+			"lon": 113.1
+		},
 		"Zamiin-Uud": {}
 	}
 }

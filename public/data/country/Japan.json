@@ -1642,8 +1642,17 @@
 			"lat": 35.5,
 			"lon": 134.2333
 		},
-		"Miyajima": {},
-		"Shiretoko National Park": {},
-		"Yaeyama Islands": {}
+		"Miyajima": {
+			"lat": 34.27555556,
+			"lon": 132.30777778
+		},
+		"Shiretoko National Park": {
+			"lat": 44.1,
+			"lon": 145.1833
+		},
+		"Yaeyama Islands": {
+			"lat": 24.363056,
+			"lon": 123.746389
+		}
 	}
 }

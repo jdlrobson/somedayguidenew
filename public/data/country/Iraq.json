@@ -782,13 +782,29 @@
 			"lat": 35.55,
 			"lon": 45.433333
 		},
-		"Dahuk (city)": {},
-		"Fallujah": {},
-		"Sulaimaniyah": {},
-		"Assur": {},
-		"Babylon": {},
-		"Ctesiphon": {},
-		"Ur": {},
-		"Salman Pak": {}
+		"Fallujah": {
+			"lat": 33.35,
+			"lon": 43.783333
+		},
+		"Assur": {
+			"lat": 35.456667,
+			"lon": 43.2625
+		},
+		"Babylon": {
+			"lat": 32.536389,
+			"lon": 44.420833
+		},
+		"Ctesiphon": {
+			"lat": 33.093611,
+			"lon": 44.580833
+		},
+		"Ur": {
+			"lat": 30.9616529,
+			"lon": 46.1051259
+		},
+		"Salman Pak": {
+			"lat": 33.1,
+			"lon": 44.58333333
+		}
 	}
 }

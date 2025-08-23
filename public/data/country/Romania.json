@@ -979,17 +979,50 @@
 			"lat": 44.24638889,
 			"lon": 28.62277778
 		},
-		"Suceava": {},
-		"Hunedoara (city)": {},
-		"Poiana Brașov": {},
-		"Băile Herculane": {},
+		"Suceava": {
+			"lat": 47.651389,
+			"lon": 26.255556
+		},
+		"Hunedoara (city)": {
+			"lat": 45.758,
+			"lon": 22.907
+		},
+		"Poiana Brașov": {
+			"lat": 45.5955,
+			"lon": 25.554
+		},
+		"Băile Herculane": {
+			"lat": 44.8833,
+			"lon": 22.4167
+		},
 		"Transylvanian Alps": {},
-		"Biertan": {},
-		"Câlnic": {},
-		"Dârjiu": {},
-		"Prejmer": {},
-		"Viscri": {},
-		"Transylvania": {},
-		"Turda": {}
+		"Biertan": {
+			"lat": 46.1359,
+			"lon": 24.5209
+		},
+		"Câlnic": {
+			"lat": 45.887,
+			"lon": 23.6575
+		},
+		"Dârjiu": {
+			"lat": 46.2008,
+			"lon": 25.199
+		},
+		"Prejmer": {
+			"lat": 45.7198,
+			"lon": 25.7722
+		},
+		"Viscri": {
+			"lat": 46.05,
+			"lon": 25.0833
+		},
+		"Transylvania": {
+			"lat": 46.77,
+			"lon": 23.58
+		},
+		"Turda": {
+			"lat": 46.5333,
+			"lon": 23.8667
+		}
 	}
 }

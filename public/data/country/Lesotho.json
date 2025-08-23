@@ -158,21 +158,63 @@
 			"lat": -29.899,
 			"lon": 29.121
 		},
-		"Hlotse": {},
-		"Mafeteng": {},
-		"Mohale's Hoek": {},
-		"Mokhotlong": {},
-		"Qacha's Nek": {},
-		"Quthing": {},
-		"Teyateyaneng": {},
-		"Thaba-Tseka": {},
-		"Oxbow (Lesotho)": {},
-		"Ts'ehlanyane National Park": {},
+		"Hlotse": {
+			"lat": -28.87336111,
+			"lon": 28.04158333
+		},
+		"Mafeteng": {
+			"lat": -29.8167,
+			"lon": 27.25
+		},
+		"Mohale's Hoek": {
+			"lat": -30.15,
+			"lon": 27.4833
+		},
+		"Mokhotlong": {
+			"lat": -29.2833,
+			"lon": 29.0667
+		},
+		"Qacha's Nek": {
+			"lat": -30.11666667,
+			"lon": 28.68333333
+		},
+		"Quthing": {
+			"lat": -30.4,
+			"lon": 27.7
+		},
+		"Teyateyaneng": {
+			"lat": -29.15,
+			"lon": 27.75
+		},
+		"Thaba-Tseka": {
+			"lat": -29.5167,
+			"lon": 28.6
+		},
+		"Oxbow (Lesotho)": {
+			"lat": -28.7708,
+			"lon": 28.6397
+		},
+		"Ts'ehlanyane National Park": {
+			"lat": -29,
+			"lon": 28.4167
+		},
 		"Katse": {},
 		"Malealea": {},
-		"Morija": {},
-		"Semonkong": {},
-		"Thaba Bosiu": {},
-		"Ukhahlamba Drakensberg": {}
+		"Morija": {
+			"lat": -29.6333,
+			"lon": 27.5
+		},
+		"Semonkong": {
+			"lat": -29.8433,
+			"lon": 28.050372
+		},
+		"Thaba Bosiu": {
+			"lat": -29.35,
+			"lon": 27.6667
+		},
+		"Ukhahlamba Drakensberg": {
+			"lat": -29.65,
+			"lon": 29.283333
+		}
 	}
 }

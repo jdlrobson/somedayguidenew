@@ -1,6 +1,17 @@
 {
 	"note": "<p>n/a</p>\n",
-	"snippets": [],
+	"snippets": [
+		{
+			"id": "1",
+			"text": "<small>[from en.wikipedia.org]:</small> The Dzanga-Sangha Special Reserve is a protected reserve of southwestern Central African Republic. It was established in 1990 and covers 6,865.54 km2 (2,650.80 sq mi). It is one of several areas within the Dzanga-Sangha Complex of Protected Areas (DSCPA), each within its own protective status and along with Lobéké National Park in Cameroon and Nouabalé-Ndoki National Park in Republic of Congo, it is part of the Sangha Trinational Landscape. Other areas within the DSCPA include the Dzanga Ndoki National Park which has two sectors, the 495 km2 (191 sq mi) Dzanga park and the 725 km2 (280 sq mi) Ndoki park. A conference of the Ministers of Forests of Central African Forest Commission (COMIFAC) had resolved to establish within the Congo Basin, the Sangha River Tri-national Protected area (STN) encompassing these three parks. The forest special reserve is operated by the Central African Forest Commission (COMIFAC).",
+			"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dzanga.jpg/330px-Dzanga.jpg",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Dzanga-Sangha Special Reserve",
+			"url": "https://en.wikipedia.org/wiki/Dzanga-Sangha_Special_Reserve"
+		}
+	],
 	"places": {
 		"Bangui": {
 			"climate": [
@@ -170,7 +181,6 @@
 			"lat": 5.95,
 			"lon": 15.6
 		},
-		"Bria": {},
 		"Kaga-Bandoro": {
 			"lat": 7,
 			"lon": 19.18333333
@@ -179,14 +189,9 @@
 			"lat": 3.8833,
 			"lon": 18
 		},
-		"Dzanga Sangha National Reserve": {},
 		"Manovo-Gounda St. Floris National Park": {
 			"lat": 9,
 			"lon": 21.5
-		},
-		"Central African Republic": {
-			"lat": 6.7,
-			"lon": 20.9
 		}
 	}
 }

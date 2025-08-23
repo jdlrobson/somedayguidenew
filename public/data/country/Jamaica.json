@@ -332,18 +332,39 @@
 			"lat": 18.1,
 			"lon": -76.66666667
 		},
-		"Portmore": {},
-		"Ocho Rios": {},
-		"Port Antonio": {},
-		"Morant Bay": {},
+		"Portmore": {
+			"lat": 17.966667,
+			"lon": -76.866667
+		},
+		"Ocho Rios": {
+			"lat": 18.416667,
+			"lon": -77.116667
+		},
+		"Port Antonio": {
+			"lat": 18.175701,
+			"lon": -76.450253
+		},
+		"Morant Bay": {
+			"lat": 17.8819,
+			"lon": -76.4074
+		},
 		"Black River": {},
-		"Falmouth (Jamaica)": {},
-		"Port Maria": {},
+		"Falmouth (Jamaica)": {
+			"lat": 18.48972222,
+			"lon": -77.66055556
+		},
+		"Port Maria": {
+			"lat": 18.3702474,
+			"lon": -76.8903065
+		},
 		"Mandeville": {},
 		"Green Island (Jamaica)": {},
 		"Cave Valley": {},
 		"Nassau Valley (Jamaica)": {},
 		"Manchester (Jamaica)": {},
-		"Great Goat Island": {}
+		"Great Goat Island": {
+			"lat": 17.867,
+			"lon": -77.05
+		}
 	}
 }

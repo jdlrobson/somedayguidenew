@@ -357,6 +357,9 @@
 		"Matobo National Park": {},
 		"Mutoroshanga Ethel Mine": {},
 		"Chinhoyi Caves": {},
-		"Mozambique": {}
+		"Mozambique": {
+			"lat": -19,
+			"lon": 35
+		}
 	}
 }

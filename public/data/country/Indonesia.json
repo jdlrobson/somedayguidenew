@@ -902,15 +902,45 @@
 			"lat": 1.61666667,
 			"lon": 124.75
 		},
-		"Jayapura": {},
-		"Kuta": {},
-		"Borobudur": {},
-		"Kerinci Seblat National Park": {},
-		"Komodo National Park": {},
-		"Lombok": {},
-		"Tana Toraja": {},
-		"Bintan": {},
-		"Batam": {},
-		"Bali": {}
+		"Jayapura": {
+			"lat": -2.533,
+			"lon": 140.717
+		},
+		"Kuta": {
+			"lat": -8.7333,
+			"lon": 115.1667
+		},
+		"Borobudur": {
+			"lat": -7.6,
+			"lon": 110.2
+		},
+		"Kerinci Seblat National Park": {
+			"lat": -2.4167,
+			"lon": 101.4833
+		},
+		"Komodo National Park": {
+			"lat": -8.54,
+			"lon": 119.48
+		},
+		"Lombok": {
+			"lat": -8.565,
+			"lon": 116.351
+		},
+		"Tana Toraja": {
+			"lat": -3,
+			"lon": 120
+		},
+		"Bintan": {
+			"lat": 1,
+			"lon": 104.5
+		},
+		"Batam": {
+			"lat": 1.0833,
+			"lon": 104.0333
+		},
+		"Bali": {
+			"lat": -8.43,
+			"lon": 115.167
+		}
 	}
 }

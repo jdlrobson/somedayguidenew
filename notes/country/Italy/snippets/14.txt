@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Capri_in_Cartolina_-_Vista_da_Termini_%28Massa_Lubrense%29.jpg/330px-Capri_in_Cartolina_-_Vista_da_Termini_%28Massa_Lubrense%29.jpg
+Capri
+https://en.wikipedia.org/wiki/Capri
+<small>[from en.wikipedia.org]:</small> Capri is an island located in the Tyrrhenian Sea off the Sorrento Peninsula, on the south side of the Gulf of Naples in the Campania region of Italy. A popular resort destination since the time of the Roman Republic, its natural beauty, historic sites, and upscale tourism have made it famous worldwide.
+<location lat="40.55" lon="14.23333333"></location>

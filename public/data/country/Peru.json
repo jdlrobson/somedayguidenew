@@ -1162,13 +1162,31 @@
 			"lat": -8.38333333,
 			"lon": -74.55
 		},
-		"Ayacucho": {},
-		"Chiclayo": {},
-		"Huascarán National Park": {},
-		"Paracas": {},
+		"Ayacucho": {
+			"lat": -13.16305556,
+			"lon": -74.22444444
+		},
+		"Chiclayo": {
+			"lat": -6.762961,
+			"lon": -79.836614
+		},
+		"Huascarán National Park": {
+			"lat": -9.24,
+			"lon": -77.484
+		},
+		"Paracas": {
+			"lat": -14.1,
+			"lon": -76.2
+		},
 		"Río Abiseo National Park": {},
-		"Máncora": {},
-		"Rio Abiseo National Park": {},
+		"Máncora": {
+			"lat": -4.1,
+			"lon": -81.05
+		},
+		"Rio Abiseo National Park": {
+			"lat": -7.92,
+			"lon": -77.28
+		},
 		"Rio_Abiseo_National_Park": {}
 	}
 }

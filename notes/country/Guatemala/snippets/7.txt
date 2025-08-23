@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Waka_altar.jpg/330px-Waka_altar.jpg
+El Perú (Maya site)
+https://en.wikipedia.org/wiki/El_Per%C3%BA_(Maya_site)
+<small>[from en.wikipedia.org]:</small> El Perú, is a pre-Columbian Maya archeological site occupied during the Preclassic and Classic cultural chronology periods. The site was the capital of a Maya city-state and is located near the banks of the San Pedro River in the Department of Petén of northern Guatemala. El Perú is 60 km (37 mi) west of Tikal.
+<location lat="17.2783" lon="-90.3806"></location>

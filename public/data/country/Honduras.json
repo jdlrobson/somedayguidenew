@@ -433,12 +433,33 @@
 			"lat": 14.867,
 			"lon": -87.983
 		},
-		"El Progreso": {},
-		"Comayagua": {},
-		"Puerto Cortes": {},
-		"Santa Rosa de Copán": {},
-		"Tela": {},
-		"Bay Islands": {},
-		"Copán Ruinas": {}
+		"El Progreso": {
+			"lat": 15.4,
+			"lon": -87.8
+		},
+		"Comayagua": {
+			"lat": 14.46,
+			"lon": -87.65
+		},
+		"Puerto Cortes": {
+			"lat": 15.8833,
+			"lon": -87.95
+		},
+		"Santa Rosa de Copán": {
+			"lat": 14.7667,
+			"lon": -88.7833
+		},
+		"Tela": {
+			"lat": 15.7833,
+			"lon": -87.4667
+		},
+		"Bay Islands": {
+			"lat": 16.37,
+			"lon": -86.41
+		},
+		"Copán Ruinas": {
+			"lat": 14.83333333,
+			"lon": -89.15
+		}
 	}
 }

@@ -1155,9 +1155,15 @@
 			"lon": 108
 		},
 		"China": {},
-		"Indonesia": {},
+		"Indonesia": {
+			"lat": -2,
+			"lon": 118
+		},
 		"Japan": {},
-		"Australia": {},
+		"Australia": {
+			"lat": -28,
+			"lon": 137
+		},
 		"Mu Ko Surin National Park": {}
 	}
 }

@@ -2,12 +2,27 @@
 	"note": "<p>n/a</p>\n",
 	"snippets": [],
 	"places": {
-		"Basseterre": {},
-		"Cayon": {},
-		"Dieppe Bay Town": {},
+		"Basseterre": {
+			"lat": 17.3,
+			"lon": -62.7333
+		},
+		"Cayon": {
+			"lat": 17.35,
+			"lon": -62.73333333
+		},
+		"Dieppe Bay Town": {
+			"lat": 17.41666667,
+			"lon": -62.81666667
+		},
 		"Gingerland": {},
 		"Newcastle (Saint Kitts and Nevis)": {},
-		"Old Road Town": {},
-		"Sandy Point Town": {}
+		"Old Road Town": {
+			"lat": 17.31666667,
+			"lon": -62.8
+		},
+		"Sandy Point Town": {
+			"lat": 17.35,
+			"lon": -62.83333333
+		}
 	}
 }

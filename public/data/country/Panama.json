@@ -486,17 +486,50 @@
 			"lat": 8.433333,
 			"lon": -82.433333
 		},
-		"Balboa": {},
-		"Boca Chica": {},
-		"Gamboa": {},
-		"Portobelo": {},
-		"Coiba National Marine Park": {},
-		"La Amistad International Park": {},
+		"Balboa": {
+			"lat": 8.95,
+			"lon": -79.5667
+		},
+		"Boca Chica": {
+			"lat": 8.2167,
+			"lon": -82.2167
+		},
+		"Gamboa": {
+			"lat": 9.1206,
+			"lon": -79.7006
+		},
+		"Portobelo": {
+			"lat": 9.55403,
+			"lon": -79.65483
+		},
+		"Coiba National Marine Park": {
+			"lat": 7.46,
+			"lon": -81.78
+		},
+		"La Amistad International Park": {
+			"lat": 9.407083,
+			"lon": -82.938806
+		},
 		"Parque Nacional Marino Golfo de Chiriquí": {},
-		"El Valle": {},
-		"Pearl Islands": {},
-		"San Blas Islands": {},
-		"Taboga": {},
-		"Bastimentos": {}
+		"El Valle": {
+			"lat": 8.6008,
+			"lon": -80.1303
+		},
+		"Pearl Islands": {
+			"lat": 8.3333,
+			"lon": -79.1167
+		},
+		"San Blas Islands": {
+			"lat": 9.57,
+			"lon": -78.82
+		},
+		"Taboga": {
+			"lat": 8.7833,
+			"lon": -79.55
+		},
+		"Bastimentos": {
+			"lat": 9.35,
+			"lon": -82.2
+		}
 	}
 }

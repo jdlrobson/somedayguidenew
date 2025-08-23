@@ -277,13 +277,37 @@
 			"lat": 56.51166667,
 			"lon": 21.01388889
 		},
-		"Sigulda": {},
-		"Cēsis": {},
-		"Jūrmala": {},
-		"Ventspils": {},
-		"Kuldīga": {},
-		"Madona": {},
-		"Riga region": {},
-		"Kurzeme": {}
+		"Sigulda": {
+			"lat": 57.15,
+			"lon": 24.8667
+		},
+		"Cēsis": {
+			"lat": 57.3167,
+			"lon": 25.2667
+		},
+		"Jūrmala": {
+			"lat": 56.9667,
+			"lon": 23.75
+		},
+		"Ventspils": {
+			"lat": 57.3894,
+			"lon": 21.5605
+		},
+		"Kuldīga": {
+			"lat": 56.9667,
+			"lon": 21.9833
+		},
+		"Madona": {
+			"lat": 56.85,
+			"lon": 26.2167
+		},
+		"Riga region": {
+			"lat": 57.04671,
+			"lon": 24.37866
+		},
+		"Kurzeme": {
+			"lat": 56.921,
+			"lon": 21.61011
+		}
 	}
 }

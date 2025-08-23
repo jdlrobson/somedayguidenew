@@ -266,16 +266,46 @@
 			"lat": 35.88333,
 			"lon": 14.45
 		},
-		"Cottonera": {},
-		"Marsaxlokk": {},
-		"Mdina": {},
-		"Mosta": {},
-		"Rabat (Malta)": {},
-		"St. Julian's": {},
-		"Sliema": {},
-		"Żejtun": {},
+		"Cottonera": {
+			"lat": 35.876944,
+			"lon": 14.521944
+		},
+		"Marsaxlokk": {
+			"lat": 35.8417,
+			"lon": 14.5447
+		},
+		"Mdina": {
+			"lat": 35.8858,
+			"lon": 14.4031
+		},
+		"Mosta": {
+			"lat": 35.9142,
+			"lon": 14.4228
+		},
+		"Rabat (Malta)": {
+			"lat": 35.881667,
+			"lon": 14.398889
+		},
+		"St. Julian's": {
+			"lat": 35.918611,
+			"lon": 14.49
+		},
+		"Sliema": {
+			"lat": 35.912222,
+			"lon": 14.504167
+		},
+		"Żejtun": {
+			"lat": 35.858628,
+			"lon": 14.533143
+		},
 		"Hagar Qim and Mnajdra": {},
-		"Mellieħa": {},
-		"Golden Bay (Malta)": {}
+		"Mellieħa": {
+			"lat": 35.95,
+			"lon": 14.3666667
+		},
+		"Golden Bay (Malta)": {
+			"lat": 35.934,
+			"lon": 14.343
+		}
 	}
 }

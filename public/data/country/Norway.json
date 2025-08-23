@@ -859,11 +859,26 @@
 			"lat": 71.1725,
 			"lon": 25.794444
 		},
-		"Fredrikstad": {},
+		"Fredrikstad": {
+			"lat": 59.2053,
+			"lon": 10.95
+		},
 		"Atlanterhavsveien": {},
-		"Hardangervidda": {},
-		"Jostedalsbreen": {},
-		"Jotunheimen": {},
-		"Sognefjorden": {}
+		"Hardangervidda": {
+			"lat": 60.05,
+			"lon": 7.4167
+		},
+		"Jostedalsbreen": {
+			"lat": 61.683,
+			"lon": 6.924167
+		},
+		"Jotunheimen": {
+			"lat": 61.52859,
+			"lon": 8.40729
+		},
+		"Sognefjorden": {
+			"lat": 61.136111,
+			"lon": 6.191667
+		}
 	}
 }

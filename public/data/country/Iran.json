@@ -803,14 +803,33 @@
 			"lat": 29.5025,
 			"lon": 60.85583333
 		},
-		"Hamedan": {},
-		"Mashad": {},
-		"Alamut": {},
-		"Kish Island": {},
-		"Qeshm Island": {},
-		"Pasargad": {},
-		"Persepolis": {},
-		"Shush (Iran)": {},
-		"Qeshm": {}
+		"Alamut": {
+			"lat": 36.44472222,
+			"lon": 50.58638889
+		},
+		"Kish Island": {
+			"lat": 26.5333,
+			"lon": 53.9667
+		},
+		"Qeshm Island": {
+			"lat": 26.69527778,
+			"lon": 55.61833333
+		},
+		"Pasargad": {
+			"lat": 30.2,
+			"lon": 53.179444
+		},
+		"Persepolis": {
+			"lat": 29.934444,
+			"lon": 52.891389
+		},
+		"Shush (Iran)": {
+			"lat": 32.194,
+			"lon": 48.244
+		},
+		"Qeshm": {
+			"lat": 26.695278,
+			"lon": 55.618333
+		}
 	}
 }

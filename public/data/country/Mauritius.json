@@ -301,21 +301,66 @@
 			"lat": -20.4,
 			"lon": 57.7
 		},
-		"Beau Bassin-Rose Hill": {},
-		"Curepipe": {},
-		"Quatre Bornes": {},
-		"Blue Bay": {},
-		"Centre de Flacq": {},
-		"Chamarel": {},
-		"Grand Bay": {},
-		"Flic en Flac": {},
-		"Mahébourg": {},
-		"Pamplemousses": {},
-		"Souillac": {},
-		"Tamarin (Mauritius)": {},
-		"Triolet": {},
-		"Trou d'Eau Douce": {},
-		"Agaléga": {},
+		"Beau Bassin-Rose Hill": {
+			"lat": -20.23980556,
+			"lon": 57.47169444
+		},
+		"Curepipe": {
+			"lat": -20.3188,
+			"lon": 57.5263
+		},
+		"Quatre Bornes": {
+			"lat": -20.265,
+			"lon": 57.479
+		},
+		"Blue Bay": {
+			"lat": -20.441,
+			"lon": 57.7191
+		},
+		"Centre de Flacq": {
+			"lat": -20.2002,
+			"lon": 57.71765833
+		},
+		"Chamarel": {
+			"lat": -20.4167,
+			"lon": 57.3833
+		},
+		"Grand Bay": {
+			"lat": -20.018394,
+			"lon": 57.580172
+		},
+		"Flic en Flac": {
+			"lat": -20.282,
+			"lon": 57.37
+		},
+		"Mahébourg": {
+			"lat": -20.4,
+			"lon": 57.7
+		},
+		"Pamplemousses": {
+			"lat": -20.111,
+			"lon": 57.575
+		},
+		"Souillac": {
+			"lat": -20.5167,
+			"lon": 57.5167
+		},
+		"Tamarin (Mauritius)": {
+			"lat": -20.3356,
+			"lon": 57.3724
+		},
+		"Triolet": {
+			"lat": -20.05,
+			"lon": 57.55
+		},
+		"Trou d'Eau Douce": {
+			"lat": -20.2323,
+			"lon": 57.8035
+		},
+		"Agaléga": {
+			"lat": -10.415,
+			"lon": 56.635
+		},
 		"Le Morne": {},
 		"Macchabée - Bel Ombre Nature Preserve": {}
 	}

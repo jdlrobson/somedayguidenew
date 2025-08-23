@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lefini_River_%2825583791878%29.jpg/330px-Lefini_River_%2825583791878%29.jpg
+Léfini Faunal Reserve
+https://en.wikipedia.org/wiki/L%C3%A9fini_Faunal_Reserve
+<small>[from en.wikipedia.org]:</small> The Léfini Faunal Reserve is a protected area in the south of the Republic of the Congo. It was established on 26 November 1951.
+<location lat="-2.92" lon="15.35"></location>

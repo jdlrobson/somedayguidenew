@@ -1,0 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mirador_Reserva_Natural_El_Imposible.JPG/330px-Mirador_Reserva_Natural_El_Imposible.JPG
+El Imposible National Park
+https://en.wikipedia.org/wiki/El_Imposible_National_Park
+<small>[from en.wikipedia.org]:</small> El Imposible National Park is a tropical forest and a national park in El Salvador. It was established on 1 January 1989 and covers an area of 38.20 square kilometres. It literally means "The Impossible National Park" in English. It has an altitude of between 250 and 1,425 metres. El Imposible was named for the perilous gorge which used to claim the lives of farmers and pack mules transporting coffee to the Pacific port. El Imposible sits in the Apaneca Ilamatepec Mountain Range between 300m and 1450m above sea level, and includes eight rivers which feed the watershed for Barra de Santiago and the mangrove forests along the coast.
+<location lat="13.84166667" lon="-89.9575"></location>
