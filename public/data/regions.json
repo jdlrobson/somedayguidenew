@@ -126,7 +126,7 @@
 			"Saint Vincent and the Grenadines",
 			"Trinidad and Tobago"
 		],
-		"description": ""
+		"description": "Rum and beach days.\n"
 	},
 	"Europe": {
 		"countries": [
@@ -180,7 +180,7 @@
 			"United Kingdom",
 			"Vatican City"
 		],
-		"description": "Home."
+		"description": "Original Home."
 	},
 	"Middle East": {
 		"countries": [
@@ -201,7 +201,7 @@
 			"United Arab Emirates",
 			"Yemen"
 		],
-		"description": ""
+		"description": "Another day.\n"
 	},
 	"Central America": {
 		"countries": [
@@ -213,7 +213,7 @@
 			"Nicaragua",
 			"Panama"
 		],
-		"description": ""
+		"description": "Bird wonderland.\n"
 	},
 	"North America": {
 		"countries": [
@@ -221,7 +221,7 @@
 			"Mexico",
 			"United States of America"
 		],
-		"description": ""
+		"description": "New Home."
 	},
 	"South America": {
 		"countries": [
@@ -238,7 +238,7 @@
 			"Uruguay",
 			"Venezuela"
 		],
-		"description": ""
+		"description": "Not enough days.\n"
 	},
 	"Oceania": {
 		"countries": [
@@ -257,6 +257,6 @@
 			"Tuvalu",
 			"Vanuatu"
 		],
-		"description": ""
+		"description": "Someday."
 	}
 }
