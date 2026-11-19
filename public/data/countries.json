@@ -2093,6 +2093,8 @@
 	},
 	"Cape Verde": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a2_Casal_na_Praia_de_Leste_jpg_440px-Casal_na_Praia_de_Leste.jpg",
+		"seen": 64,
+		"seenL": 40,
 		"lat": 15.916667,
 		"lon": -24.083333,
 		"title": "Cape Verde",
@@ -2799,6 +2801,7 @@
 	},
 	"Costa Rica": {
 		"seen": 41,
+		"seenL": 39,
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a1_Cartago,_costa_rica_-_panoramio_jpg_440px-Cartago,_costa_rica_-_panoramio.jpg",
 		"lat": 9.9333,
 		"lon": -84.0833,
