@@ -1,6 +1,6 @@
-import json from './public/data/countries.json' assert { type: "json" };
-import regionjson from './public/data/regions.json' assert { type: "json" };
-import update from './update.json' assert { type: "json" };
+import json from './public/data/countries.json' with { type: "json" };
+import regionjson from './public/data/regions.json' with { type: "json" };
+import update from './update.json' with { type: "json" };
 import { JSDOM } from 'jsdom';
 import fs from 'fs';
 import { parse } from 'marked';
