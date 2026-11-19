@@ -6,12 +6,13 @@ const countryName = route.params.country;
 import Header from './components/Header.vue';
 import Note from './components/Note.vue';
 import countryData from '../../public/data/countries.json';
-import Face from './components/Face.vue';
+import WhosBeen from './components/WhosBeen.vue';
 import StoryBoard from './components/StoryBoard.vue';
 import ImageCircle from './components/ImageCircle.vue';
 import Postit from './components/Postit.vue';
 import InspirationBoard from './components/InspirationBoard.vue';
 import Climate from './components/Climate.vue';
+import SnipLink from './components/SnipLink.vue';
 import Map from './components/Map.vue';
 import EmbedInstagram from './components/EmbedInstagram.vue';
 import EmbedYoutube from './components/EmbedYoutube.vue';
@@ -25,7 +26,6 @@ const center = ref( [
     country.value.lon
 ] );
 const zoom = ref( country.value.zoom );
-const getOpacity = ( seen ) => seen ? '' : 'opacity: 0.5'
 const editUrl = `https://github.com/jdlrobson/somedayguidenew/edit/main/notes/country/${countryName}/note.txt`;
 const addSnippetUrl = `https://github.com/jdlrobson/somedayguidenew/new/main/notes/country/${countryName}/snippets`;
 const editDestinationsUrl = `https://github.com/jdlrobson/somedayguidenew/edit/main/notes/country/${countryName}/destinations.txt`
@@ -83,13 +83,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                 <RouterLink to="/#search">find another country</RouterLink>
             </note>
             <StoryBoard>
-                <note>
-                    <h2>Who's been?</h2>
-                    <div class="face-lineup">
-                        <face :style="getOpacity(country.seenL)" name="linz">#{{ country.seenL || '??' }}</face>
-                        <face :style="getOpacity(country.seen) "name="jon">#{{ country.seen || '??' }}</face>
-                    </div>
-                </note>
+                <WhosBeen :seen="country.seen" :seenL="country.seenL"></WhosBeen>
                 <note>
                     <Map v-if="mapReady"
                         :places="destinationCoordinates"
@@ -147,9 +141,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     </div>
                 </Postit>
             </InspirationBoard>
-            <a target="_blank" :href="addSnippetUrl" class="snipLink">
-                ✂ Add snippet
-            </a>
+            <SnipLink :href="addSnippetUrl"></SnipLink>
             <InspirationBoard>
                 <Postit v-for="(d, i) in Object.keys(places)"
                     :title="d"
@@ -164,12 +156,6 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
 </template>
 
 <style scoped>
-.page-country .face-lineup {
-    display: flex;
-    column-gap: 8px;
-    flex-flow: row;
-    flex-wrap: wrap;
-}
 .embed {
     display: flex;
     align-items: center;
@@ -190,16 +176,6 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
     flex-flow: row;
     flex-wrap: wrap;
     justify-content: space-between;
-}
-.snipLink {
-    background: black;
-    display: inline-block;
-    padding: 8px;
-    color: white;
-    margin: 10px 0 0;
-    justify-content: end;
-    justify-self: end;
-    display: flex;
 }
 .editLink {
     position: absolute;
