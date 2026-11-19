@@ -543,6 +543,10 @@ function localUpdates() {
 const now = new Date();
 const hrsSinceLastUpdate = update.lastUpdated ?
     ( now - new Date( update.lastUpdated ) ) / ( 1000 * 60 * 60 ) : 2;
-pendingRequests.push( remoteUpdates( hrsSinceLastUpdate ) );
+
+const arg = process.argv[2];
+if ( arg !== '--local-only' ) {
+   pendingRequests.push( remoteUpdates( hrsSinceLastUpdate ) );
+}
 
 localUpdates();

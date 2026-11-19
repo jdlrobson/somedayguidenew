@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "update": "node update.js",
+    "update:local": "node update.js --local",
     "start": "npm run update && vite",
     "build": "vite build && cp _redirects dist/",
     "preview": "vite preview"
