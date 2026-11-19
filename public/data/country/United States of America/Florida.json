@@ -1,0 +1,86 @@
+{
+	"note": "<p>In Miami, go drink a Cafe Cubano in Little Havana and enjoy the simple life. </p>\n",
+	"seenL": 0,
+	"seen": 0,
+	"snippets": [],
+	"places": {
+		"Miami": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 50.8,
+					"high": 24.4,
+					"low": 15.6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 53.3,
+					"high": 25,
+					"low": 16.1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 61,
+					"high": 26.7,
+					"low": 17.8
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 76.2,
+					"high": 28.3,
+					"low": 20
+				},
+				{
+					"heading": "May",
+					"precipitation": 149.9,
+					"high": 30,
+					"low": 22.2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 223.5,
+					"high": 31.1,
+					"low": 23.9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 152.4,
+					"high": 31.7,
+					"low": 24.4
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 198.1,
+					"high": 32.2,
+					"low": 24.4
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 215.9,
+					"high": 31.1,
+					"low": 24.4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 177.8,
+					"high": 29.4,
+					"low": 22.2
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 78.7,
+					"high": 26.7,
+					"low": 18.9
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 45.7,
+					"high": 25,
+					"low": 16.1
+				}
+			],
+			"lat": 25.76666667,
+			"lon": -80.2
+		}
+	}
+}

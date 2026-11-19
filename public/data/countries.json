@@ -13282,21 +13282,14 @@
 			"Washington, D.C.",
 			"Boston",
 			"Chicago",
-			"Los Angeles",
-			"Miami",
 			"New Orleans",
 			"New York City",
-			"San Francisco",
-			"San Diego",
 			"Seattle",
 			"Las Vegas",
-			"Atlanta",
 			"Savannah",
 			"Honolulu",
 			"Reno",
-			"Portland, Oregon",
 			"Santa Fe (New Mexico)",
-			"Denver",
 			"Anchorage",
 			"Tucson",
 			"Philadelphia",
@@ -13337,9 +13330,9 @@
 				"American English"
 			]
 		},
-		"snippets": 49,
+		"snippets": 52,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG",
-		"updated": "2025-08-23T04:25:50.642Z"
+		"updated": "2026-11-19T21:23:46.661Z"
 	},
 	"Uruguay": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b9_Uruguay_(5886752274)_jpg_2560px-Uruguay_(5886752274).jpg",

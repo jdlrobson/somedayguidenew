@@ -1,5 +1,5 @@
 {
-	"note": "<p>You may not be able to take a train to Cincinnati but you can stay in <a href=\"https://www.choochoo.com/\">a train station</a> in Chattanooga. There is some nice hiking nearby in particular the &#39;&#39;&#39;Audobon Acres Hiking Trail&#39;&#39;&#39;. In Miami, go drink a Cafe Cubano in Little Havana and enjoy the simple life. \nAtlanta is a city of logos of corporate America: See if you can spot logos for CNN, the olympics,coca cola, Mercede benz, mcdonalds, Wendy&#39;s and more..</p>\n",
+	"note": "<p>In 2012 Jon moved to the United States and in 2016 Linzy joined him. This home is much bigger than the tiny homes we are used to.</p>\n",
 	"snippets": [
 		{
 			"id": "1",
@@ -40,41 +40,11 @@
 			"url": "https://www.sierrahotsprings.org"
 		},
 		{
-			"id": "1372",
-			"text": "Back in school, we learnt that temperature drops 6°C every 1,000m and a metre is about three feet. Manitou Springs is at an elevation of 6,412ft and Pike Peak's elevation is 14,110ft – that's 7,698ft more. I did some rough calculations in my head 7,500 / 3 = 2,500m. 2.5 x 6°C = 15°C drop",
-			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_6811.jpg?h=200&crop=1",
-			"source": "",
-			"type": "url",
-			"embed": false,
-			"title": "Pikes Peak was rail impossible in the snow",
-			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1372"
-		},
-		{
 			"id": "14",
 			"src": "https://www.instagram.com/p/qLA5Jrs2Pe",
 			"source": "",
 			"type": "instagram",
 			"embed": true
-		},
-		{
-			"id": "1417",
-			"text": "The Pikes Peak cog railway adventure was fun despite getting stuck in the snow and not reaching the summit. It was also interesting to learn that we can see Kansas and New Mexico from Pikes Peak, sometimes even Utah and Arizona. Unca Don and Patsy Rose are like family to me, which makes Colorado my",
-			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_6856.jpg?h=200&crop=1",
-			"source": "",
-			"type": "url",
-			"embed": false,
-			"title": "What is it like to live around Colorado?",
-			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1417"
-		},
-		{
-			"id": "1454",
-			"text": "Breakfast is the most important meal of the day and in San Francisco the turnover of restaurants is pretty depressing. Luckily there are several long running establishments scattered around the city where you can always depend on for a good meal – and for good reason! Several of the choices here are recognised in the",
-			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/12/20191208_123314.jpg?h=200&crop=1",
-			"source": "",
-			"type": "url",
-			"embed": false,
-			"title": "Where to eat an honest breakfast in San Francisco",
-			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1454"
 		},
 		{
 			"id": "15",
@@ -585,162 +555,6 @@
 			"lat": 41.88194444,
 			"lon": -87.62777778
 		},
-		"Los Angeles": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 96.5,
-					"high": 20,
-					"low": 4.4
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 111.8,
-					"high": 21.1,
-					"low": 5
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 91.4,
-					"high": 22.2,
-					"low": 5.6
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 22.9,
-					"high": 25.6,
-					"low": 7.2
-				},
-				{
-					"heading": "May",
-					"precipitation": 7.6,
-					"high": 27.2,
-					"low": 9.4
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 2.5,
-					"high": 31.7,
-					"low": 11.7
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 35,
-					"low": 13.9
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 5.1,
-					"high": 35.6,
-					"low": 14.4
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 5.1,
-					"high": 33.3,
-					"low": 12.8
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 15.2,
-					"high": 28.9,
-					"low": 9.4
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 33,
-					"high": 23.9,
-					"low": 5.6
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 61,
-					"high": 20.6,
-					"low": 3.3
-				}
-			],
-			"lat": 34.05,
-			"lon": -118.25
-		},
-		"Miami": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 50.8,
-					"high": 24.4,
-					"low": 15.6
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 53.3,
-					"high": 25,
-					"low": 16.1
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 61,
-					"high": 26.7,
-					"low": 17.8
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 76.2,
-					"high": 28.3,
-					"low": 20
-				},
-				{
-					"heading": "May",
-					"precipitation": 149.9,
-					"high": 30,
-					"low": 22.2
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 223.5,
-					"high": 31.1,
-					"low": 23.9
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 152.4,
-					"high": 31.7,
-					"low": 24.4
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 198.1,
-					"high": 32.2,
-					"low": 24.4
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 215.9,
-					"high": 31.1,
-					"low": 24.4
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 177.8,
-					"high": 29.4,
-					"low": 22.2
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 78.7,
-					"high": 26.7,
-					"low": 18.9
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 45.7,
-					"high": 25,
-					"low": 16.1
-				}
-			],
-			"lat": 25.76666667,
-			"lon": -80.2
-		},
 		"New Orleans": {
 			"climate": [
 				{
@@ -897,150 +711,6 @@
 			"lat": 40.71277778,
 			"lon": -74.00611111
 		},
-		"San Francisco": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 104.1,
-					"high": 13.3,
-					"low": 7.8
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 88.9,
-					"high": 15.6,
-					"low": 8.9
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 73.7,
-					"high": 16.1,
-					"low": 9.4
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 38.1,
-					"high": 17.2,
-					"low": 10
-				},
-				{
-					"heading": "May",
-					"precipitation": 12.7,
-					"high": 17.8,
-					"low": 10.6
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 5.1,
-					"high": 18.9,
-					"low": 11.7
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 0,
-					"high": 18.9,
-					"low": 12.2
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 0,
-					"high": 18.9,
-					"low": 12.2
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 5.1,
-					"high": 21.1,
-					"low": 13.3
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 27.9,
-					"high": 20.6,
-					"low": 12.8
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 66,
-					"high": 17.8,
-					"low": 10.6
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 99.1,
-					"high": 13.9,
-					"low": 8.3
-				}
-			],
-			"lat": 37.78333333,
-			"lon": -122.41666667
-		},
-		"San Diego": {
-			"climate": [
-				{
-					"high": 18.4,
-					"low": 9.4,
-					"precipitation": 50.3
-				},
-				{
-					"high": 18.3,
-					"low": 10.4,
-					"precipitation": 57.7
-				},
-				{
-					"high": 18.7,
-					"low": 11.8,
-					"precipitation": 46
-				},
-				{
-					"high": 19.7,
-					"low": 13.3,
-					"precipitation": 19.8
-				},
-				{
-					"high": 20.3,
-					"low": 15.2,
-					"precipitation": 3
-				},
-				{
-					"high": 21.6,
-					"low": 16.7,
-					"precipitation": 1.8
-				},
-				{
-					"high": 23.7,
-					"low": 18.6,
-					"precipitation": 0.8
-				},
-				{
-					"high": 24.7,
-					"low": 19.3,
-					"precipitation": 0.5
-				},
-				{
-					"high": 24.4,
-					"low": 18.4,
-					"precipitation": 3.8
-				},
-				{
-					"high": 22.7,
-					"low": 15.9,
-					"precipitation": 14.5
-				},
-				{
-					"high": 20.6,
-					"low": 12,
-					"precipitation": 25.7
-				},
-				{
-					"high": 18.2,
-					"low": 9.1,
-					"precipitation": 38.9
-				}
-			],
-			"lat": 32.715,
-			"lon": -117.1625
-		},
 		"Seattle": {
 			"climate": [
 				{
@@ -1196,84 +866,6 @@
 			],
 			"lat": 36.16722222,
 			"lon": -115.14861111
-		},
-		"Atlanta": {
-			"climate": [
-				{
-					"heading": "Jan",
-					"precipitation": 127,
-					"high": 11.1,
-					"low": 0.6
-				},
-				{
-					"heading": "Feb",
-					"precipitation": 119.4,
-					"high": 13.9,
-					"low": 2.8
-				},
-				{
-					"heading": "Mar",
-					"precipitation": 137.2,
-					"high": 18.3,
-					"low": 6.7
-				},
-				{
-					"heading": "Apr",
-					"precipitation": 91.4,
-					"high": 22.8,
-					"low": 10
-				},
-				{
-					"heading": "May",
-					"precipitation": 101.6,
-					"high": 26.7,
-					"low": 15
-				},
-				{
-					"heading": "Jun",
-					"precipitation": 91.4,
-					"high": 30.6,
-					"low": 19.4
-				},
-				{
-					"heading": "Jul",
-					"precipitation": 129.5,
-					"high": 31.7,
-					"low": 21.7
-				},
-				{
-					"heading": "Aug",
-					"precipitation": 94,
-					"high": 31.1,
-					"low": 21.1
-				},
-				{
-					"heading": "Sep",
-					"precipitation": 104.1,
-					"high": 27.8,
-					"low": 17.8
-				},
-				{
-					"heading": "Oct",
-					"precipitation": 78.7,
-					"high": 22.8,
-					"low": 11.7
-				},
-				{
-					"heading": "Nov",
-					"precipitation": 104.1,
-					"high": 17.2,
-					"low": 6.7
-				},
-				{
-					"heading": "Dec",
-					"precipitation": 96.5,
-					"high": 12.8,
-					"low": 2.2
-				}
-			],
-			"lat": 33.74888889,
-			"lon": -84.39
 		},
 		"Savannah": {
 			"climate": [
@@ -1461,60 +1053,6 @@
 			"lat": 39.52748,
 			"lon": -119.81346
 		},
-		"Portland, Oregon": {
-			"climate": [
-				{
-					"high": 8.3,
-					"low": 2.1
-				},
-				{
-					"high": 10.7,
-					"low": 2.4
-				},
-				{
-					"high": 13.7,
-					"low": 4.2
-				},
-				{
-					"high": 16.3,
-					"low": 6.2
-				},
-				{
-					"high": 20,
-					"low": 9.2
-				},
-				{
-					"high": 23.1,
-					"low": 12
-				},
-				{
-					"high": 27,
-					"low": 14.3
-				},
-				{
-					"high": 27.3,
-					"low": 14.4
-				},
-				{
-					"high": 24.3,
-					"low": 11.7
-				},
-				{
-					"high": 17.7,
-					"low": 7.8
-				},
-				{
-					"high": 11.6,
-					"low": 4.7
-				},
-				{
-					"high": 7.6,
-					"low": 1.8
-				}
-			],
-			"lat": 45.52,
-			"lon": -122.68194444
-		},
 		"Santa Fe (New Mexico)": {
 			"climate": [
 				{
@@ -1568,60 +1106,6 @@
 			],
 			"lat": 35.6916,
 			"lon": -105.93738
-		},
-		"Denver": {
-			"climate": [
-				{
-					"high": 6.7,
-					"low": -8.1
-				},
-				{
-					"high": 7.9,
-					"low": -7.3
-				},
-				{
-					"high": 12.4,
-					"low": -3.1
-				},
-				{
-					"high": 16.4,
-					"low": 0.7
-				},
-				{
-					"high": 21.9,
-					"low": 5.9
-				},
-				{
-					"high": 28,
-					"low": 11.3
-				},
-				{
-					"high": 31.9,
-					"low": 14.9
-				},
-				{
-					"high": 30.7,
-					"low": 14.4
-				},
-				{
-					"high": 25.8,
-					"low": 9.1
-				},
-				{
-					"high": 18.5,
-					"low": 2.6
-				},
-				{
-					"high": 11.2,
-					"low": -4.2
-				},
-				{
-					"high": 6,
-					"low": -8.3
-				}
-			],
-			"lat": 39.7392,
-			"lon": -104.9849
 		},
 		"Anchorage": {
 			"climate": [
@@ -2803,5 +2287,27 @@
 			"lat": 38.62722222,
 			"lon": -90.19777778
 		}
-	}
+	},
+	"regions": [
+		{
+			"name": "California",
+			"snippets": 1
+		},
+		{
+			"name": "Colorado",
+			"snippets": 2
+		},
+		{
+			"name": "Florida",
+			"snippets": 1
+		},
+		{
+			"name": "Georgia",
+			"snippets": 1
+		},
+		{
+			"name": "Oregon",
+			"snippets": 0
+		}
+	]
 }

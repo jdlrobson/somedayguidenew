@@ -1,0 +1,83 @@
+{
+	"note": "n/a",
+	"seenL": 0,
+	"seen": 0,
+	"snippets": [
+		{
+			"id": "1372",
+			"text": "Back in school, we learnt that temperature drops 6°C every 1,000m and a metre is about three feet. Manitou Springs is at an elevation of 6,412ft and Pike Peak's elevation is 14,110ft – that's 7,698ft more. I did some rough calculations in my head 7,500 / 3 = 2,500m. 2.5 x 6°C = 15°C drop",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_6811.jpg?h=200&crop=1",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Pikes Peak was rail impossible in the snow",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1372"
+		},
+		{
+			"id": "1417",
+			"text": "The Pikes Peak cog railway adventure was fun despite getting stuck in the snow and not reaching the summit. It was also interesting to learn that we can see Kansas and New Mexico from Pikes Peak, sometimes even Utah and Arizona. Unca Don and Patsy Rose are like family to me, which makes Colorado my",
+			"src": "https://somedaywewillseetheworld.files.wordpress.com/2019/11/img_6856.jpg?h=200&crop=1",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "What is it like to live around Colorado?",
+			"url": "https://somedaywewillseetheworld.wordpress.com/?p=1417"
+		}
+	],
+	"places": {
+		"Denver": {
+			"climate": [
+				{
+					"high": 6.7,
+					"low": -8.1
+				},
+				{
+					"high": 7.9,
+					"low": -7.3
+				},
+				{
+					"high": 12.4,
+					"low": -3.1
+				},
+				{
+					"high": 16.4,
+					"low": 0.7
+				},
+				{
+					"high": 21.9,
+					"low": 5.9
+				},
+				{
+					"high": 28,
+					"low": 11.3
+				},
+				{
+					"high": 31.9,
+					"low": 14.9
+				},
+				{
+					"high": 30.7,
+					"low": 14.4
+				},
+				{
+					"high": 25.8,
+					"low": 9.1
+				},
+				{
+					"high": 18.5,
+					"low": 2.6
+				},
+				{
+					"high": 11.2,
+					"low": -4.2
+				},
+				{
+					"high": 6,
+					"low": -8.3
+				}
+			],
+			"lat": 39.7392,
+			"lon": -104.9849
+		}
+	}
+}

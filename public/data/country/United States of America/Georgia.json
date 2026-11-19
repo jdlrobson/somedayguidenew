@@ -1,0 +1,86 @@
+{
+	"note": "<p>Atlanta is a city of logos of corporate America: See if you can spot logos for CNN, the olympics,coca cola, Mercede benz, mcdonalds, Wendy&#39;s and more..</p>\n",
+	"seenL": 0,
+	"seen": 0,
+	"snippets": [],
+	"places": {
+		"Atlanta": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 127,
+					"high": 11.1,
+					"low": 0.6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 119.4,
+					"high": 13.9,
+					"low": 2.8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 137.2,
+					"high": 18.3,
+					"low": 6.7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 91.4,
+					"high": 22.8,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 101.6,
+					"high": 26.7,
+					"low": 15
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 91.4,
+					"high": 30.6,
+					"low": 19.4
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 129.5,
+					"high": 31.7,
+					"low": 21.7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 94,
+					"high": 31.1,
+					"low": 21.1
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 104.1,
+					"high": 27.8,
+					"low": 17.8
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 78.7,
+					"high": 22.8,
+					"low": 11.7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 104.1,
+					"high": 17.2,
+					"low": 6.7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 96.5,
+					"high": 12.8,
+					"low": 2.2
+				}
+			],
+			"lat": 33.74888889,
+			"lon": -84.39
+		}
+	}
+}
