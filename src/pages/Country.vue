@@ -16,6 +16,8 @@ import SnipLink from './components/SnipLink.vue';
 import Map from './components/Map.vue';
 import EmbedInstagram from './components/EmbedInstagram.vue';
 import EmbedYoutube from './components/EmbedYoutube.vue';
+import NoteToSelf from './components/NoteToSelf.vue';
+import EditLink from './components/EditLink.vue';
 
 const countries = ref( countryData );
 const country = ref(
@@ -71,7 +73,6 @@ onMounted(() => {
 })
 
 const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
-const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
 </script>
 <template>
     <div class="page-country">
@@ -88,7 +89,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                     <Map v-if="mapReady"
                         :places="destinationCoordinates"
                         :center="[ country.lat, country.lon ]" :zoom="country.zoom || 8"></Map>
-                    <a :href="editDestinationsUrl" class="editLink">edit</a>
+                    <EditLink :href="editDestinationsUrl"></EditLink>
                 </note>
                 <note>
                     <h2>Nearby countries</h2>
@@ -108,18 +109,7 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
                         </span>
                     </p>
                 </note>
-                <note>
-                    <h2>Note to self</h2>
-                    <div v-if="note">
-                        <div v-html="note"></div>
-                        <a :href="editUrl" class="editLink">edit</a>
-                        <p>
-                            More information on <a :href="wikivoyage" target="_blank">Wikivoyage</a>.
-                        </p>
-                    </div>
-                    <div v-else class="loading">
-                    </div>
-                </note>
+                <NoteToSelf :note="note" :href="editUrl" :wikivoyage="true" :title="wikivoyageTitle"></NoteToSelf>
             </StoryBoard>
             <InspirationBoard>
                  <Postit v-for="(s, i) in snippets" @click="loadInstagram"
@@ -160,15 +150,6 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
     display: flex;
     align-items: center;
 }
-.loading {
-    background-image: url(./components/bball.png);
-    background-image: url(/src/pages/components/bball.png);
-    background-size: 100px 100px;
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-position: left center;
-}
 .country-lineup {
     justify-content: space-between;
     display: flex;
@@ -176,12 +157,5 @@ const wikivoyage = `https://en.wikivoyage.org/wiki/${wikivoyageTitle}`;
     flex-flow: row;
     flex-wrap: wrap;
     justify-content: space-between;
-}
-.editLink {
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    color: gray;
-    z-index: 2000;
 }
 </style>
