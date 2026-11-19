@@ -93,7 +93,7 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
                             :href="`/country/${countryName}/${region.name}`"
                             size="small"
                             :src="region.thumbnail">
-                            {{ region.name }}
+                            {{ region.name }} ({{ region.snippets }})
                         </ImageCircle>
                     </div>
                 </note>
