@@ -10,6 +10,8 @@ import { finished } from 'stream/promises';
 
 let allSrcs  = [];
 const MAX_FILENAME_LENGTH = 140;
+const SNIPPETS_DIR = 'snippets';
+const DESTINATIONS_FILENAME = 'destinations.txt';
 
 // Make a tmp folder if absent
 if ( !fs.existsSync( 'tmp_public' ) ) {
@@ -179,7 +181,7 @@ function transformSnippet( filePath ) {
 /**
  * Saves a snippet for a given country
  *
- * @param {string} snippetPath to a file in notes/country/snippets/1.txt
+ * @param {string} snippetPath to a file in notes/country/${SNIPPETS_DIR}/1.txt
  * @param {string} title of the snippet
  * @param {string} url of the snippet
  * @param {string} [imageSrc] of the snippet
@@ -202,6 +204,7 @@ ${coordString}`
  */
 const countryNotes = {};
 const countrySnippets = {};
+const countryRegions = {};
 
 /**
  * Prepares the site using snippets for a given country
@@ -210,6 +213,9 @@ const countrySnippets = {};
  * @return {array}
  */
 function prepareFromSnippets( snippetDir ) {
+    if ( !fs.existsSync( snippetDir ) ) {
+        return [];
+    }
     const files = fs.readdirSync( snippetDir );
     const snippets = [];
     // reset
@@ -283,6 +289,68 @@ function fixLongFilename(path) {
 }
 
 /**
+ * @param {string} path of file
+ * @return {string|null}
+ */
+function filePathToString( path ) {
+    if ( fs.existsSync( path ) ) {
+        return fs.readFileSync( path ).toString();
+    } else {
+        return null;
+    }
+}
+
+/**
+ * @param {string} notePath a file (usually note.txt)
+ * @return {string} n/a if path doesn't exist.
+ */
+function filePathToMarkDown( notePath ) {
+    const note = filePathToString( notePath );
+    if ( note ) {
+        return parse( note );
+    } else {
+        return 'n/a';
+    }
+}
+
+/**
+ * @param {string} region name of region to prepare for
+ * @param {string} country name of country it belongs to
+ * @return {Object}
+ */
+function prepareCountryRegionFromNotes( region, country ) {
+    const regionPath = `notes/country/${country}/${region}`;
+    const publicCountryRegionPath = `public/data/country/${country}/${region}.json`;
+    let countryRegionJson = {};
+    if ( fs.existsSync( publicCountryRegionPath ) ) {
+        const jsonString = fs.readFileSync( publicCountryRegionPath ).toString();
+        countryRegionJson = JSON.parse( jsonString );
+    }
+    if ( !countryRegionJson.seenL ) {
+        countryRegionJson.seenL = 0;
+    }
+    if ( !countryRegionJson.seen ) {
+        countryRegionJson.seen = 0;
+    }
+    if ( !countryRegionJson.places ) {
+        countryRegionJson.places = {};
+    }
+    // load destinations
+    (
+        filePathToString( `${regionPath}/destinations.txt` ) || ''
+    ).split( "\n" ).forEach( ( place ) => {
+        if ( place && !countryRegionJson.places[place] ) {
+            countryRegionJson.places[place] = {};
+        }
+    } );
+
+    countryRegionJson.snippets = prepareFromSnippets( `${regionPath}/${SNIPPETS_DIR}` );
+    countryRegionJson.note = filePathToMarkDown( `${regionPath}/note.txt` );
+    fs.writeFileSync( publicCountryRegionPath, JSON.stringify( countryRegionJson, null, "\t" ) );
+    return countryRegionJson;
+}
+
+/**
  * Checks the "notes" folder and updates countries.json
  */
 function prepareFromNotes() {
@@ -314,19 +382,30 @@ function prepareFromNotes() {
             fs.mkdirSync( folder );
         }
 
-        const snippetDir = `${folder}/snippets`;
+        const snippetDir = `${folder}/${SNIPPETS_DIR}`;
         if ( !fs.existsSync( snippetDir ) ) {
             fs.mkdirSync( snippetDir );
         }
-        countrySnippets[c] = prepareFromSnippets( snippetDir );
-        const notePath = `notes/country/${ c }/note.txt`;
-        if ( fs.existsSync( notePath ) ) {
-            const note = fs.readFileSync( notePath ).toString();
-            countryNotes[c] = parse( note );
-        } else {
-            countryNotes[c] = 'n/a';
+        const paths = fs.readdirSync( folder );
+        countryRegions[ c ] = [];
+        for (const path of paths) {
+            const filePath = `${folder}/${path}`;
+            const stats = fs.statSync(filePath);
+            if (!stats.isFile()) {
+                if ( path === SNIPPETS_DIR ) {
+                    countrySnippets[c] = prepareFromSnippets( filePath );
+                } else {
+                    const regionJson = prepareCountryRegionFromNotes( path, c );
+                    const noteCount = regionJson.note.includes('n/a') ? 0 : 1;
+                    countryRegions[ c ].push( {
+                        name: path,
+                        snippets: regionJson.snippets.length + noteCount
+                    } );
+                }
+            }
         }
-        const destinationsPath = `notes/country/${ c }/destinations.txt`;
+        countryNotes[c] = filePathToMarkDown( `notes/country/${ c }/note.txt` );
+        const destinationsPath = `notes/country/${ c }/${DESTINATIONS_FILENAME}`;
         if ( fs.existsSync( destinationsPath ) ) {
             const destinations = fs.readFileSync( destinationsPath ).toString().trim().split("\n")
             if ( json[c].destinations.length !== destinations.length ) {
@@ -360,6 +439,42 @@ function prepareRegionsFromNotes() {
     fs.writeFileSync(`public/data/regions.json`, JSON.stringify( regionjson, null, "\t") );
 }
 const destinationCoordinates = {};
+
+function writeJsonToFile( path, json ) {
+    fs.writeFileSync(path, JSON.stringify( json, null, "\t") );
+}
+
+function getPathAsJson( path ) {
+    if ( fs.existsSync( path ) ) {
+        return JSON.parse( fs.readFileSync( path ) );
+    } else {
+        return {};
+    }
+
+}
+
+/**
+ * Scans regions for an orphaned city and updates it if found.
+ *
+ * @param {string} countryName 
+ * @param {string} region 
+ * @param {string} city 
+ * @param {Object} place 
+ * @return {boolean} was it successful?
+ */
+function updateRegionWithPlace( countryName, region, city, place ) {
+    let success = false;
+    const path = `public/data/country/${countryName}/${region}.json`;
+    const regionData = getPathAsJson( path );
+    const regionCities = Object.keys( regionData.places || {} );
+    if ( regionCities.includes( city ) ) {
+        console.log( `Moving ${ city } from ${countryName} to ${ region }`);
+        regionData.places[ city ] = place;
+        writeJsonToFile( path, regionData );
+        success = true;
+    }
+    return success;
+}
 /**
  * Updates the public country JSON with information collected in prepareFromNotes
  */
@@ -377,9 +492,22 @@ function updateCountries() {
         allAirports = allAirports.concat(airports);
 
         const destinations = json[c].destinations || [];
+        if ( countryRegions[ c ] ) {
+            country.regions = countryRegions[ c ];
+        }
+        if ( !country.regions.length ) {
+            delete country.regions;
+        }
         Object.keys(country.places).forEach((key) => {
             if ( !destinations.includes(key) ) {
-                console.log(`${key} is an unknown destination (deleting)`);
+                const place = country.places[key];
+                let success = false;
+                country.regions.forEach( ( region ) => {
+                    success = success || updateRegionWithPlace( c, region, key, place );
+                } );
+                if ( !success ) {
+                    console.log(`${key} is an unknown destination (deleting)`);
+                }
                 delete country.places[key];
             }
             const coord = destinationCoordinates[key];
@@ -397,7 +525,8 @@ function updateCountries() {
             }
         } );
         const hasNote = !countryNotes[c].includes('n/a');   
-        let snippetTotal = country.snippets.length;
+        const countryRegionSnippetsCount = ( country.regions || [] ).reduce( ( acc, region ) => acc + region.snippets, 0 );
+        let snippetTotal = country.snippets.length + countryRegionSnippetsCount;
         if ( hasNote ) {
             snippetTotal++;
         }
@@ -439,7 +568,7 @@ function importBlogs() {
                     if ( json[country] ) {
                         console.log(`Found blog ${id} for ${country}`);
                         saveSnippet(
-                           `notes/country/${country}/snippets/${id}.txt`,
+                           `notes/country/${country}/${SNIPPETS_DIR}/${id}.txt`,
                             cleanup(blog.title),
                             blog.URL,
                             blog.featured_image,
