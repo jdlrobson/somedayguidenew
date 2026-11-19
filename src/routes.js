@@ -4,6 +4,7 @@ import Country from './pages/Country.vue';
 import Region from './pages/Region.vue';
 import About from './pages/About.vue';
 import PageNotFound from './pages/PageNotFound.vue';
+import CountryRegion from './pages/CountryRegion.vue';
 
 export default [
     {
@@ -13,6 +14,10 @@ export default [
     {
         path: '/about',
         component: About
+    },
+    {
+        path: '/country/:country/:region',
+        component: CountryRegion
     },
     {
         path: '/country/:country',

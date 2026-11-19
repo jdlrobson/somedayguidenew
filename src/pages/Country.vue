@@ -34,7 +34,7 @@ const editDestinationsUrl = `https://github.com/jdlrobson/somedayguidenew/edit/m
 const places = ref( {} );
 const snippets = ref( [] );
 const note = ref( '' );
-
+const regions = ref( [] );
 const destinationCoordinates = ref( [] );
 const loadInstagram = () => {
     if (window.instgrm) window.instgrm.Embeds.process();
@@ -54,6 +54,7 @@ makeHero();
 onMounted(() => {
     fetch(`/data/country/${countryName}.json`).then((r) => r.json())
         .then(( country ) => {
+            regions.value = country.regions || [];
             note.value = country.note;
             places.value = country.places;
             const placeKeys = Object.keys(country.places);
@@ -85,6 +86,17 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
             </note>
             <StoryBoard>
                 <WhosBeen :seen="country.seen" :seenL="country.seenL"></WhosBeen>
+                <note v-if="regions.length">
+                    <h2>Regions</h2>
+                    <div class="country-lineup">
+                        <ImageCircle v-for="region in regions"
+                            :href="`/country/${countryName}/${region.name}`"
+                            size="small"
+                            :src="region.thumbnail">
+                            {{ region.name }}
+                        </ImageCircle>
+                    </div>
+                </note>
                 <note>
                     <Map v-if="mapReady"
                         :places="destinationCoordinates"
