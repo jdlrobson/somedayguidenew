@@ -3,11 +3,13 @@ import { computed } from 'vue'
 import Thumbtack from './Thumbtack.vue';
 
 const props = defineProps({
+    isWide: false,
     isSmall: true,
-  paper: String
+    paper: String
 })
 const noteClass = computed( () => {
     return {
+        noteWide: props.isWide,
         noteSmall: props.isSmall,
         note: true,
         noteChart: props.paper === 'chart'
@@ -23,6 +25,9 @@ const noteClass = computed( () => {
 </template>
 
 <style>
+:root {
+    --note-width: 350px;
+}
 section.note {
     background: white;
     padding: 16px 10px 32px;
@@ -30,6 +35,10 @@ section.note {
     width: 100%;
     text-align: left;
     margin: auto;
+    max-width: var( --note-width );
+}
+section.note.noteWide {
+    max-width: calc( var( --note-width ) * 3 )
 }
 @media screen and ( min-width: 500px ) {
     section.note {
