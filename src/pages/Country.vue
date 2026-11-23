@@ -86,17 +86,6 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
             </note>
             <StoryBoard>
                 <WhosBeen :seen="country.seen" :seenL="country.seenL"></WhosBeen>
-                <note v-if="regions.length">
-                    <h2>Regions</h2>
-                    <div class="country-lineup">
-                        <ImageCircle v-for="region in regions"
-                            :href="`/country/${countryName}/${region.name}`"
-                            size="small"
-                            :src="region.thumbnail">
-                            {{ region.name }} ({{ region.snippets }})
-                        </ImageCircle>
-                    </div>
-                </note>
                 <note>
                     <Map v-if="mapReady"
                         :places="destinationCoordinates"
@@ -151,6 +140,12 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
                     <climate v-if="places[d] && places[d].climate" :climate="places[d].climate">
                     </climate>
                     <div v-else>No climate information available.</div>
+                </Postit>
+                <Postit v-for="region in regions"
+                    :title="`${ region.name } (${region.snippets})`"
+                    :href="`/country/${countryName}/${region.name}`"
+                    :thumbnail="region.thumbnail"
+                >
                 </Postit>
             </InspirationBoard>
         </article>
