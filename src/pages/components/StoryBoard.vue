@@ -37,10 +37,6 @@ if ( props.scrolling ) {
     min-width: calc(100% - 30px);
 }
 
-.story-board-wrap .note {
-    max-width: 350px;
-}
-
 .story-board .note {
     flex-grow: 1;
     display: flex;

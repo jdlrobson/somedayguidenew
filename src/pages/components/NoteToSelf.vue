@@ -1,7 +1,9 @@
 <script setup>
+import { computed } from 'vue';
 import EditLink from './EditLink.vue';
 import Note from './Note.vue';
 const props = defineProps({
+    isWide: false,
     note: '',
     href: '',
     wikivoyage: false,
@@ -10,7 +12,7 @@ const props = defineProps({
 const wikivoyage = props.title ? `https://en.wikivoyage.org/wiki/${props.title}` : '';
 </script>
 <template>
-    <note>
+    <note :is-wide="isWide">
         <h2>Note to self</h2>
         <div v-if="note">
             <div v-html="note"></div>

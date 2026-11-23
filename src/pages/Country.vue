@@ -81,7 +81,7 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
         <Header :title="countryName" :center="center" :zoom="zoom"
             :hero="hero"></Header>
         <article>
-            <note>
+            <note :is-wide="true">
                 <p>From <a :href="`https://en.wikipedia.org/wiki/${countryName}`">Wikipedia</a>: {{ country.description }}</p>
                 <RouterLink to="/#search">find another country</RouterLink>
             </note>
@@ -111,7 +111,7 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
                         </span>
                     </p>
                 </note>
-                <NoteToSelf :note="note" :href="editUrl" :wikivoyage="true" :title="wikivoyageTitle"></NoteToSelf>
+                <NoteToSelf :is-wide="true" :note="note" :href="editUrl" :wikivoyage="true" :title="wikivoyageTitle"></NoteToSelf>
             </StoryBoard>
             <InspirationBoard>
                  <Postit v-for="(s, i) in snippets" @click="loadInstagram"

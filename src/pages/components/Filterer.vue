@@ -128,7 +128,7 @@ const filterByName = ( ev ) => {
 
 </script>
 <template>
-    <note :isSmall="true">
+    <note :is-wide="true">
         <slot />
         <p>Where in the world shall we dream about today?</p>
         <p>
