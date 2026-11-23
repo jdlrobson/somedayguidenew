@@ -71,6 +71,7 @@
 			"China",
 			"Cyprus",
 			"Georgia",
+			"East Timor",
 			"India",
 			"Indonesia",
 			"Iran",
@@ -100,7 +101,6 @@
 			"Syria",
 			"Tajikistan",
 			"Thailand",
-			"Timor-Leste",
 			"Turkey",
 			"Turkmenistan",
 			"United Arab Emirates",
@@ -109,6 +109,20 @@
 			"Yemen"
 		],
 		"description": "The best continent in the world?"
+	},
+	"South East Asia": {
+		"countries": [
+			"Brunei",
+			"Cambodia",
+			"Indonesia",
+			"Laos",
+			"Malaysia",
+			"Philippines",
+			"Singapore",
+			"Thailand",
+			"East Timor",
+			"Vietnam"
+		]
 	},
 	"Carribean": {
 		"thumbnail": "/images/d_wikimedia_org_wikipedia_commons_thumb_2_2d_ABC_Highway_at_BET_Hill,_Barbados_(2000)_jpg_440px-ABC_Highway_at_BET_Hill,_Barbados_(2000).jpg",
