@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 const props = defineProps({
   climate: Array
 });
@@ -17,7 +17,7 @@ const setMonth = ( ev ) => {
         <h3 class="climate__heading">Average temperatures</h3>
         <input type="range" min="0" max="11"
             @change="setMonth"
-            title="Slide to change months" class="climate__select" value="1">
+            title="Slide to change months" class="climate__select" :value="activeMonth">
         <div v-for="(c, i) in climate" :class="activeMonth === i ? 'month monthActive' : 'month'">
             <h4>{{ c.heading }}</h4>
             <span class="climate__high">{{  c.high }}<sup>°C</sup></span>
