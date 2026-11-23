@@ -6,6 +6,7 @@ const countryName = route.params.country;
 import Header from './components/Header.vue';
 import Note from './components/Note.vue';
 import countryData from '../../public/data/countries.json';
+import regionsData from '../../public/data/regions.json';
 import WhosBeen from './components/WhosBeen.vue';
 import StoryBoard from './components/StoryBoard.vue';
 import ImageCircle from './components/ImageCircle.vue';
@@ -93,12 +94,12 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
                     <EditLink :href="editDestinationsUrl"></EditLink>
                 </note>
                 <note>
-                    <h2>Nearby countries</h2>
+                    <h2>Nearby</h2>
                     <div class="country-lineup">
-                        <ImageCircle v-for="n in country.neighbors.filter((n) => countries[n])"
-                            :href="`/country/${n}`"
+                        <ImageCircle v-for="n in country.neighbors"
+                            :href="countries[n] ? `/country/${n}` : `/region/${n}`"
                             size="small"
-                            :src="countries[n].thumbnail">
+                            :src="countries[n] ? countries[n].thumbnail : regionsData[n].thumbnail">
                             {{ n }}
                         </ImageCircle>
                     </div>
