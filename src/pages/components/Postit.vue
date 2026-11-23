@@ -6,6 +6,7 @@ import LinkLogo from './LinkLogo.vue';
 const props = defineProps({
   embed: Boolean,
   big: Boolean,
+  linkTitle: Boolean,
   title: String,
   thumbnail: String,
   thumbnailSource: String,
@@ -20,6 +21,7 @@ const className = {
   postitImage: hasImage,
   postitNoImage: !hasImage,
   postitLarge: props.big,
+  postitLinkTitle: props.linkTitle,
   postitEmbedInstagram: props.embed && ( props.thumbnail || '' ).includes( 'instagram.com') ,
   postitWithNote: props.text
 };
@@ -91,7 +93,10 @@ const thumbnailSourceName = ref( source ? getThumbSource() : '' );
   bottom: 10px;
   z-index: 3;
 }
-
+.postitLinkTitle .postit-link {
+  bottom: auto;
+  height: 50px;
+}
 .postit h2 + *:last-child {
   display: flex;
   margin-top: 50px;

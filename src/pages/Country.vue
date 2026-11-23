@@ -144,7 +144,9 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
                 <Postit v-for="region in regions"
                     :title="`${ region.name } (${region.snippets})`"
                     :href="`/country/${countryName}/${region.name}`"
+                    :link-title="true"
                     :thumbnail="region.thumbnail"
+                    :embed="true"
                 >
                     <climate v-if="region.climate" :climate="region.climate">
                     </climate>
