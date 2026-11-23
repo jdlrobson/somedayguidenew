@@ -1,5 +1,5 @@
 <script setup>
-import { ref } from 'vue'
+import { ref } from 'vue';
 const props = defineProps({
   climate: Array
 });
@@ -11,13 +11,36 @@ const activeMonth = ref(d.getMonth());
 const setMonth = ( ev ) => {
     activeMonth.value = parseInt( ev.target.value, 10 );
 };
-const climate = ref(
-    props.climate.map( ( c, i ) =>
-        Object.assign( c, {
-            heading: MONTHS[i]
-        } )
-    )
+const climateC = props.climate.map( ( c, i ) =>
+    Object.assign( c, {
+        heading: MONTHS[i]
+    } )
 );
+
+const fromMmToInches = ( val ) => val ? ( val * 0.0393700787402 ).toFixed( 2 ) : val;
+const fromCelciusToFahrenheit = ( val ) => val ? ( ( ( 9 * val ) / 5 ) + 32 ).toFixed( 1 ) : val;
+
+const climateF = climateC.map(
+    ( c ) => ( {
+        heading: c.heading,
+        high: fromCelciusToFahrenheit( c.high ),
+        low: fromCelciusToFahrenheit( c.low ),
+        precipitation: fromMmToInches( c.precipitation )
+    } )
+);
+const isCelcius = ref( !localStorage.getItem( 'units-imperial' ) );
+
+const climate = ref( climateC );
+const switchUnits = () => {
+    isCelcius.value = !isCelcius.value;
+    if ( isCelcius.value ) {
+        localStorage.removeItem( 'units-imperial' );
+        climate.value = climateC;
+    } else {
+        localStorage.setItem( 'units-imperial', '1' );
+        climate.value = climateF;
+    }
+};
 </script>
 
 <template>
@@ -26,9 +49,9 @@ const climate = ref(
         <input type="range" min="0" max="11"
             @change="setMonth"
             title="Slide to change months" class="climate__select" :value="activeMonth">
-        <div v-for="(c, i) in climate" :class="activeMonth === i ? 'month monthActive' : 'month'">
+        <div v-for="(c, i) in climate" :class="activeMonth === i ? 'month monthActive' : 'month'" :data-metric="isCelcius">
             <h4>{{ c.heading }}</h4>
-            <span class="climate__high">{{  c.high }}<sup>°C</sup></span>
+            <span class="climate__high">{{  c.high }}<sup @click="switchUnits">°{{ isCelcius ? 'C' : 'F' }}</sup></span>
             <span class="climate__low">{{ c.low }}</span>
             <div>Precipitation: {{ c.precipitation }} mm</div>
         </div>
