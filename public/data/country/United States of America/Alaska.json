@@ -1,0 +1,147 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"Anchorage": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": -5,
+					"low": -12
+				},
+				{
+					"heading": "Feb",
+					"high": -3,
+					"low": -10
+				},
+				{
+					"heading": "Mar",
+					"high": 1,
+					"low": -7
+				},
+				{
+					"heading": "Apr",
+					"high": 7,
+					"low": 2
+				},
+				{
+					"heading": "May",
+					"high": 13,
+					"low": 4
+				},
+				{
+					"heading": "Jun",
+					"high": 17,
+					"low": 9
+				},
+				{
+					"heading": "Jul",
+					"high": 18,
+					"low": 11
+				},
+				{
+					"heading": "Aug",
+					"high": 18,
+					"low": 10
+				},
+				{
+					"heading": "Sep",
+					"high": 13,
+					"low": 6
+				},
+				{
+					"heading": "Oct",
+					"high": 4,
+					"low": -2
+				},
+				{
+					"heading": "Nov",
+					"high": -2,
+					"low": -8
+				},
+				{
+					"heading": "Dec",
+					"high": -4,
+					"low": -11
+				}
+			],
+			"lat": 61.222638,
+			"lon": -149.885083
+		}
+	},
+	"snippets": [
+		{
+			"id": "14",
+			"src": "https://www.instagram.com/p/qLA5Jrs2Pe",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Inuits in Alaska"
+		},
+		{
+			"id": "15",
+			"src": "https://www.instagram.com/p/qI3ozlM2DK",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Alaskan Narnia"
+		},
+		{
+			"id": "16",
+			"src": "https://www.instagram.com/p/qI3axhM2Cz",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Toothbrushing with a view"
+		},
+		{
+			"id": "21",
+			"src": "https://www.instagram.com/p/qF3DE0M2JD",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Yoga in Homer"
+		},
+		{
+			"id": "24",
+			"src": "https://www.instagram.com/p/qELjqfM2NJ",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Night walk in Homer"
+		},
+		{
+			"id": "25",
+			"src": "https://www.instagram.com/p/qDZG-qM2MU",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "July 4th in Homer"
+		},
+		{
+			"id": "26",
+			"src": "https://www.instagram.com/p/qDX_CGs2KD",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Homemade Salmon in Alaskan"
+		},
+		{
+			"id": "33",
+			"src": "https://www.instagram.com/p/C8kM_OavK5r/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Chicken wrangling in Homer"
+		},
+		{
+			"id": "39",
+			"src": "https://www.instagram.com/p/qCNhqUM2PA",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Midnight sunset (Anchorage)"
+		}
+	],
+	"note": "n/a"
+}

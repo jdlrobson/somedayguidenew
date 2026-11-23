@@ -2,7 +2,32 @@
 	"note": "<p>Atlanta is a city of logos of corporate America: See if you can spot logos for CNN, the olympics,coca cola, Mercede benz, mcdonalds, Wendy&#39;s and more..</p>\n",
 	"seenL": 0,
 	"seen": 1,
-	"snippets": [],
+	"snippets": [
+		{
+			"id": "10",
+			"src": "https://www.instagram.com/p/B5JUGxlgfrr",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Jellyfish in Atlanta"
+		},
+		{
+			"id": "11",
+			"src": "https://www.instagram.com/p/B5KyJgpA02q/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Capitalism in Atlanta"
+		},
+		{
+			"id": "12",
+			"src": "https://www.instagram.com/p/B5N0iblgUYG/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "The Atlanta Aquarium (essay)"
+		}
+	],
 	"places": {
 		"Atlanta": {
 			"climate": [
@@ -81,6 +106,60 @@
 			],
 			"lat": 33.74888889,
 			"lon": -84.39
+		},
+		"Savannah": {
+			"climate": [
+				{
+					"high": 15.8,
+					"low": 3.7
+				},
+				{
+					"high": 17.9,
+					"low": 5.4
+				},
+				{
+					"high": 21.6,
+					"low": 8.7
+				},
+				{
+					"high": 25.3,
+					"low": 12
+				},
+				{
+					"high": 29.2,
+					"low": 16.7
+				},
+				{
+					"high": 32.2,
+					"low": 21
+				},
+				{
+					"high": 33.6,
+					"low": 22.7
+				},
+				{
+					"high": 32.6,
+					"low": 22.4
+				},
+				{
+					"high": 30,
+					"low": 19.9
+				},
+				{
+					"high": 25.8,
+					"low": 14.2
+				},
+				{
+					"high": 21.4,
+					"low": 8.8
+				},
+				{
+					"high": 16.9,
+					"low": 4.9
+				}
+			],
+			"lat": 32.08097,
+			"lon": -81.09077
 		}
 	}
 }

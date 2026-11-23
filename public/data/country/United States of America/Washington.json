@@ -1,0 +1,103 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"Seattle": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 129.5,
+					"high": 8.3,
+					"low": 2.2
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 94,
+					"high": 9.4,
+					"low": 3.3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 83.8,
+					"high": 11.7,
+					"low": 4.4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 55.9,
+					"high": 14.4,
+					"low": 6.1
+				},
+				{
+					"heading": "May",
+					"precipitation": 43.2,
+					"high": 17.8,
+					"low": 8.9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 35.6,
+					"high": 20.6,
+					"low": 11.7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 17.8,
+					"high": 23.3,
+					"low": 13.3
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 22.9,
+					"high": 24.4,
+					"low": 13.3
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 40.6,
+					"high": 20,
+					"low": 11.7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 76.2,
+					"high": 15.6,
+					"low": 8.9
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 129.5,
+					"high": 10.6,
+					"low": 5.6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 137.2,
+					"high": 7.2,
+					"low": 3.3
+				}
+			],
+			"lat": 47.60388889,
+			"lon": -122.33
+		}
+	},
+	"snippets": [
+		{
+			"id": "3",
+			"src": "https://www.instagram.com/p/UWnUgEs2Iq",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Coffee in Seattle"
+		},
+		{
+			"id": "35",
+			"src": "https://www.instagram.com/p/43FZZQM2NH",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Fremont - center of universe"
+		}
+	],
+	"note": "n/a"
+}

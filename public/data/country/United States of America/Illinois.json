@@ -1,0 +1,119 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"Chicago": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 43.2,
+					"high": -1.7,
+					"low": -10.6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 35.6,
+					"high": 1.1,
+					"low": -7.8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 68.6,
+					"high": 7.2,
+					"low": -2.2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 91.4,
+					"high": 14.4,
+					"low": 3.9
+				},
+				{
+					"heading": "May",
+					"precipitation": 81.3,
+					"high": 21.1,
+					"low": 8.9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 96.5,
+					"high": 26.7,
+					"low": 13.9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 91.4,
+					"high": 28.9,
+					"low": 17.2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 104.1,
+					"high": 27.8,
+					"low": 16.7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 88.9,
+					"high": 23.9,
+					"low": 12.2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 66,
+					"high": 17.2,
+					"low": 5.6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 73.7,
+					"high": 8.9,
+					"low": -0.6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 55.9,
+					"high": 1.7,
+					"low": -6.7
+				}
+			],
+			"lat": 41.88194444,
+			"lon": -87.62777778
+		}
+	},
+	"snippets": [
+		{
+			"id": "36",
+			"src": "https://www.instagram.com/p/aB-tcpM2GY",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Bueller's Day Off"
+		},
+		{
+			"id": "4",
+			"src": "https://www.instagram.com/p/aBC2rVM2GR",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Art in Chicago"
+		},
+		{
+			"id": "5",
+			"src": "https://www.instagram.com/p/aCD4dZM2O9",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Tall buildings in Chicago."
+		},
+		{
+			"id": "8",
+			"src": "https://www.instagram.com/p/aBKGNQM2PN",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Rabbit in downtown Chicago."
+		}
+	],
+	"note": "n/a"
+}

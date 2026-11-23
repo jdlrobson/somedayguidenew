@@ -1,0 +1,164 @@
+{
+	"seenL": 0,
+	"seen": 0,
+	"places": {
+		"Asheville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 66,
+					"high": 8.3,
+					"low": -2.2
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 78.7,
+					"high": 10,
+					"low": -1.1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 101.6,
+					"high": 13.9,
+					"low": 1.7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 83.8,
+					"high": 20,
+					"low": 7.2
+				},
+				{
+					"heading": "May",
+					"precipitation": 73.7,
+					"high": 24.4,
+					"low": 11.7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 88.9,
+					"high": 27.8,
+					"low": 15.6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 86.4,
+					"high": 29.4,
+					"low": 17.2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 101.6,
+					"high": 28.3,
+					"low": 16.7
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 78.7,
+					"high": 25,
+					"low": 13.3
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 68.6,
+					"high": 20,
+					"low": 7.2
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 66,
+					"high": 13.9,
+					"low": 1.7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 68.6,
+					"high": 8.9,
+					"low": -1.7
+				}
+			],
+			"lat": 35.58,
+			"lon": -82.555833
+		},
+		"Charlotte": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 101.6,
+					"high": 10.6,
+					"low": 0
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 91.4,
+					"high": 13.3,
+					"low": 1.1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 111.8,
+					"high": 17.8,
+					"low": 5.6
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 76.2,
+					"high": 22.8,
+					"low": 9.4
+				},
+				{
+					"heading": "May",
+					"precipitation": 94,
+					"high": 26.7,
+					"low": 14.4
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 86.4,
+					"high": 30.6,
+					"low": 18.9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 96.5,
+					"high": 32.2,
+					"low": 21.7
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 94,
+					"high": 31.1,
+					"low": 20.6
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 96.5,
+					"high": 27.8,
+					"low": 17.2
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 94,
+					"high": 22.8,
+					"low": 10.6
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 86.4,
+					"high": 17.2,
+					"low": 5.6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 81.3,
+					"high": 12.2,
+					"low": 1.7
+				}
+			],
+			"lat": 35.226944,
+			"lon": -80.843333
+		}
+	},
+	"snippets": [],
+	"note": "n/a"
+}

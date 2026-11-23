@@ -1,0 +1,251 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"Dallas": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 48.3,
+					"high": 12.2,
+					"low": 1.1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 55.9,
+					"high": 15.6,
+					"low": 3.3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 66,
+					"high": 20,
+					"low": 7.2
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 96.5,
+					"high": 24.4,
+					"low": 12.8
+				},
+				{
+					"heading": "May",
+					"precipitation": 127,
+					"high": 28.3,
+					"low": 17.2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 73.7,
+					"high": 33.3,
+					"low": 21.7
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 55.9,
+					"high": 35.6,
+					"low": 23.9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 50.8,
+					"high": 35.6,
+					"low": 23.3
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 76.2,
+					"high": 31.1,
+					"low": 19.4
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 88.9,
+					"high": 26.1,
+					"low": 13.3
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 55.9,
+					"high": 18.9,
+					"low": 7.2
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 48.3,
+					"high": 14.4,
+					"low": 2.8
+				}
+			],
+			"lat": 32.77916667,
+			"lon": -96.80888889
+		},
+		"Houston": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 86.4,
+					"high": 17.2,
+					"low": 6.1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 55.9,
+					"high": 18.9,
+					"low": 8.3
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 86.4,
+					"high": 22.8,
+					"low": 11.7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 83.8,
+					"high": 26.7,
+					"low": 15
+				},
+				{
+					"heading": "May",
+					"precipitation": 129.5,
+					"high": 30,
+					"low": 20
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 149.9,
+					"high": 32.8,
+					"low": 23.3
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 96.5,
+					"high": 34.4,
+					"low": 23.9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 96.5,
+					"high": 35,
+					"low": 23.9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 104.1,
+					"high": 32.2,
+					"low": 21.1
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 144.8,
+					"high": 27.8,
+					"low": 16.1
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 109.2,
+					"high": 22.8,
+					"low": 11.1
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 94,
+					"high": 17.8,
+					"low": 7.2
+				}
+			],
+			"lat": 29.76277778,
+			"lon": -95.38305556
+		},
+		"Austin": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 45.7,
+					"high": 15.6,
+					"low": 3.9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 61,
+					"high": 17.8,
+					"low": 6.1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 48.3,
+					"high": 22.2,
+					"low": 10
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 73.7,
+					"high": 26.1,
+					"low": 14.4
+				},
+				{
+					"heading": "May",
+					"precipitation": 114.3,
+					"high": 29.4,
+					"low": 18.3
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 86.4,
+					"high": 32.8,
+					"low": 22.2
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 45.7,
+					"high": 35,
+					"low": 23.3
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 53.3,
+					"high": 35.6,
+					"low": 23.3
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 83.8,
+					"high": 32.2,
+					"low": 20.6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 88.9,
+					"high": 27.2,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 53.3,
+					"high": 21.1,
+					"low": 9.4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 58.4,
+					"high": 17.2,
+					"low": 5.6
+				}
+			],
+			"lat": 30.26767,
+			"lon": -97.74296
+		}
+	},
+	"snippets": [
+		{
+			"id": "40",
+			"src": "https://www.instagram.com/reel/DDp7vyhSl4g/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Meow Wolf Houston"
+		}
+	],
+	"note": "n/a"
+}

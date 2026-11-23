@@ -2,7 +2,24 @@
 	"note": "<p>In Miami, go drink a Cafe Cubano in Little Havana and enjoy the simple life. </p>\n",
 	"seenL": 0,
 	"seen": 1,
-	"snippets": [],
+	"snippets": [
+		{
+			"id": "1",
+			"src": "https://www.instagram.com/p/ymejrls2OL/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Little Havana"
+		},
+		{
+			"id": "2",
+			"src": "https://www.instagram.com/p/ymkXXes2HK/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Rain in Miami"
+		}
+	],
 	"places": {
 		"Miami": {
 			"climate": [

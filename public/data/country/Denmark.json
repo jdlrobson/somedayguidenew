@@ -57,6 +57,14 @@
 			"embed": false,
 			"title": "Stevns Klint",
 			"url": "https://en.wikipedia.org/wiki/Stevns_Klint"
+		},
+		{
+			"id": "7",
+			"src": "https://www.instagram.com/p/C_AYYkvAaMy/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Wes Anderson in Copenhagen"
 		}
 	],
 	"places": {

@@ -1,0 +1,86 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"New York City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 104.1,
+					"high": 3.3,
+					"low": -3.3
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 78.7,
+					"high": 5,
+					"low": -2.2
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 111.8,
+					"high": 10,
+					"low": 1.7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 109.2,
+					"high": 16.1,
+					"low": 6.7
+				},
+				{
+					"heading": "May",
+					"precipitation": 119.4,
+					"high": 21.7,
+					"low": 12.2
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 96.5,
+					"high": 26.1,
+					"low": 17.2
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 116.8,
+					"high": 28.9,
+					"low": 20.6
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 106.7,
+					"high": 27.8,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 106.7,
+					"high": 23.9,
+					"low": 15.6
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 96.5,
+					"high": 17.8,
+					"low": 10
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 111.8,
+					"high": 11.7,
+					"low": 5
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 99.1,
+					"high": 6.1,
+					"low": 0
+				}
+			],
+			"lat": 40.71277778,
+			"lon": -74.00611111
+		}
+	},
+	"snippets": [],
+	"note": "n/a"
+}

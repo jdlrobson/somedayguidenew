@@ -450,10 +450,10 @@
 				"Spanish"
 			]
 		},
-		"snippets": 10,
+		"snippets": 11,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:El_Faro_de_C%C3%B3rdoba.jpg",
-		"updated": "2025-03-15T18:40:56.314Z"
+		"updated": "2026-11-23T12:12:14.127Z"
 	},
 	"Armenia": {
 		"zoom": 6,
@@ -2087,9 +2087,9 @@
 			],
 			"currency": "CAD"
 		},
-		"snippets": 17,
+		"snippets": 18,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:False_Creek_morning.jpg",
-		"updated": "2025-03-16T01:35:44.948Z"
+		"updated": "2026-11-23T12:12:14.134Z"
 	},
 	"Cape Verde": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_a_a2_Casal_na_Praia_de_Leste_jpg_440px-Casal_na_Praia_de_Leste.jpg",
@@ -2756,10 +2756,10 @@
 			],
 			"currency": "XAF"
 		},
-		"snippets": 6,
+		"snippets": 7,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Alima_-_Congo.JPG",
-		"updated": "2025-08-23T04:25:50.561Z"
+		"updated": "2026-11-23T11:50:47.639Z"
 	},
 	"Cook Islands": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_2_26_Rarotonga_Airport_Tower_jpg_440px-Rarotonga_Airport_Tower.jpg",
@@ -2848,10 +2848,10 @@
 			],
 			"currency": "CRC"
 		},
-		"snippets": 8,
+		"snippets": 10,
 		"zoom": 6,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Cartago%2C_costa_rica_-_panoramio.jpg",
-		"updated": "2025-03-29T22:56:15.806Z"
+		"updated": "2026-11-23T12:20:56.157Z"
 	},
 	"Côte d'Ivoire": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_3_34_Rond-point_Liberté_Adjamé_jpg_440px-Rond-point_Liberté_Adjamé.jpg",
@@ -3471,10 +3471,10 @@
 			],
 			"currency": "DKK"
 		},
-		"snippets": 7,
+		"snippets": 8,
 		"zoom": 5,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg",
-		"updated": "2025-03-16T01:41:34.872Z"
+		"updated": "2026-11-23T12:12:14.139Z"
 	},
 	"Djibouti": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_d_dc_Lake_Assal_3-Djibouti_jpg_440px-Lake_Assal_3-Djibouti.jpg",
@@ -6362,10 +6362,10 @@
 				"Italian"
 			]
 		},
-		"snippets": 18,
+		"snippets": 20,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts%2C_Rome%2C_Italy.jpg",
-		"updated": "2025-08-23T04:08:51.950Z"
+		"updated": "2026-11-23T12:12:14.147Z"
 	},
 	"Jamaica": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_7_76_Sunny_lodge_walderston_jamaica_jpg_440px-Sunny_lodge_walderston_jamaica.jpg",
@@ -13279,34 +13279,7 @@
 			}
 		],
 		"destinations": [
-			"Washington, D.C.",
-			"Boston",
-			"Chicago",
-			"New Orleans",
-			"New York City",
-			"Seattle",
-			"Las Vegas",
-			"Savannah",
-			"Honolulu",
-			"Reno",
-			"Santa Fe (New Mexico)",
-			"Anchorage",
-			"Tucson",
-			"Philadelphia",
-			"Minneapolis",
-			"Indianapolis",
-			"Charlotte",
-			"Oklahoma City",
-			"Dallas",
-			"Houston",
-			"Phoenix",
-			"Austin",
-			"Asheville",
-			"Hot Springs (Arkansas)",
-			"Little Rock",
-			"Memphis",
-			"Nashville",
-			"St. Louis"
+			"Washington, D.C."
 		],
 		"wb": "Q30",
 		"neighbors": [
@@ -13330,9 +13303,9 @@
 				"American English"
 			]
 		},
-		"snippets": 52,
+		"snippets": 53,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG",
-		"updated": "2026-11-19T21:23:46.661Z"
+		"updated": "2026-11-23T12:33:40.643Z"
 	},
 	"Uruguay": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_b_b9_Uruguay_(5886752274)_jpg_2560px-Uruguay_(5886752274).jpg",

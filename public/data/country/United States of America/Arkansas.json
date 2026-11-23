@@ -1,0 +1,90 @@
+{
+	"seenL": 0,
+	"seen": 0,
+	"places": {
+		"Hot Springs (Arkansas)": {
+			"lat": 34.50361,
+			"lon": -93.05528
+		},
+		"Little Rock": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 91.4,
+					"high": 10.6,
+					"low": -0.6
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 94,
+					"high": 12.8,
+					"low": 1.7
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 119.4,
+					"high": 17.8,
+					"low": 6.1
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 129.5,
+					"high": 22.8,
+					"low": 10.6
+				},
+				{
+					"heading": "May",
+					"precipitation": 124.5,
+					"high": 27.2,
+					"low": 16.1
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 94,
+					"high": 31.7,
+					"low": 20.6
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 83.8,
+					"high": 33.9,
+					"low": 22.8
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 66,
+					"high": 33.9,
+					"low": 22.2
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 81.3,
+					"high": 30,
+					"low": 18.3
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 124.5,
+					"high": 23.9,
+					"low": 11.7
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 134.6,
+					"high": 17.2,
+					"low": 5.6
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 127,
+					"high": 11.1,
+					"low": 1.1
+				}
+			],
+			"lat": 34.736111,
+			"lon": -92.331111
+		}
+	},
+	"snippets": [],
+	"note": "n/a"
+}

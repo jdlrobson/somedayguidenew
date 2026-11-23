@@ -88,11 +88,27 @@
 			"url": "https://en.wikipedia.org/wiki/Mount_Vesuvius"
 		},
 		{
+			"id": "19",
+			"src": "https://www.instagram.com/p/DPHhHwLiAKs/?img_index=1",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Indian Weddings in Italy"
+		},
+		{
 			"id": "2",
 			"src": "https://www.instagram.com/p/n8QSa4M2KI/",
 			"source": "",
 			"type": "instagram",
 			"embed": true
+		},
+		{
+			"id": "20",
+			"src": "https://www.instagram.com/p/DO8KiLPCNNb/?img_index=1",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Meandering canals in Venice"
 		},
 		{
 			"id": "3",

@@ -1,0 +1,173 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"Reno": {
+			"climate": [
+				{
+					"high": 7.6,
+					"low": -3.7
+				},
+				{
+					"high": 10.6,
+					"low": -1.7
+				},
+				{
+					"high": 14.4,
+					"low": 0.8
+				},
+				{
+					"high": 17.7,
+					"low": 3.2
+				},
+				{
+					"high": 23.1,
+					"low": 7.5
+				},
+				{
+					"high": 28.5,
+					"low": 11.1
+				},
+				{
+					"high": 33.4,
+					"low": 14.3
+				},
+				{
+					"high": 32.6,
+					"low": 13.2
+				},
+				{
+					"high": 27.8,
+					"low": 9.2
+				},
+				{
+					"high": 20.7,
+					"low": 3.8
+				},
+				{
+					"high": 12.8,
+					"low": -0.8
+				},
+				{
+					"high": 7.6,
+					"low": -3.9
+				}
+			],
+			"lat": 39.52748,
+			"lon": -119.81346
+		},
+		"Las Vegas": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 12.7,
+					"high": 14.4,
+					"low": 3.9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 20.3,
+					"high": 17.2,
+					"low": 6.1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 10.2,
+					"high": 21.1,
+					"low": 9.4
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 5.1,
+					"high": 25.6,
+					"low": 13.3
+				},
+				{
+					"heading": "May",
+					"precipitation": 2.5,
+					"high": 31.7,
+					"low": 18.9
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 2.5,
+					"high": 37.2,
+					"low": 23.9
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 10.2,
+					"high": 40,
+					"low": 27.2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 7.6,
+					"high": 38.9,
+					"low": 26.1
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 7.6,
+					"high": 34.4,
+					"low": 21.7
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 7.6,
+					"high": 27.2,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 10.2,
+					"high": 18.9,
+					"low": 8.3
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 12.7,
+					"high": 13.9,
+					"low": 3.9
+				}
+			],
+			"lat": 36.16722222,
+			"lon": -115.14861111
+		}
+	},
+	"snippets": [
+		{
+			"id": "38",
+			"src": "https://www.instagram.com/p/7Qjh5Zs2Hl",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Nevada train ride"
+		},
+		{
+			"id": "46",
+			"src": "https://www.instagram.com/p/CQ9YfBILYnL/?img_index=1",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Burning Man in Reno"
+		},
+		{
+			"id": "54",
+			"src": "https://www.instagram.com/p/eFZDGzM2Mr",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "The Phoenix of Black Rock City"
+		},
+		{
+			"id": "55",
+			"src": "https://www.instagram.com/p/d97KjqM2B9",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Trash fence in Burning Man"
+		}
+	],
+	"note": "n/a"
+}

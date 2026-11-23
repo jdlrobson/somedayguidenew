@@ -1,0 +1,135 @@
+{
+	"seenL": 1,
+	"seen": 1,
+	"places": {
+		"Honolulu": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 58.4,
+					"high": 26.7,
+					"low": 18.9
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 50.8,
+					"high": 26.7,
+					"low": 18.9
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 50.8,
+					"high": 27.2,
+					"low": 20
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 15.2,
+					"high": 28.3,
+					"low": 20.6
+				},
+				{
+					"heading": "May",
+					"precipitation": 15.2,
+					"high": 29.4,
+					"low": 21.7
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 7.6,
+					"high": 30.6,
+					"low": 22.8
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 12.7,
+					"high": 31.1,
+					"low": 23.9
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 15.2,
+					"high": 31.7,
+					"low": 23.9
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 17.8,
+					"high": 31.7,
+					"low": 23.3
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 45.7,
+					"high": 30.6,
+					"low": 22.8
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 61,
+					"high": 28.9,
+					"low": 21.7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 81.3,
+					"high": 27.2,
+					"low": 20
+				}
+			],
+			"lat": 21.30694444,
+			"lon": -157.85833333
+		}
+	},
+	"snippets": [
+		{
+			"id": "1",
+			"src": "https://www.instagram.com/p/DRXmusGEmhc/?img_index=1",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Walk up albatrosses on golf courses in Kauai"
+		},
+		{
+			"id": "37",
+			"src": "https://www.instagram.com/p/_tLhY8s2GF",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Xmas in Hawaii"
+		},
+		{
+			"id": "41",
+			"src": "https://www.instagram.com/p/C0xqg1nLQBR/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Big Island Beach time"
+		},
+		{
+			"id": "51",
+			"src": "https://www.instagram.com/p/Caye_HzLqe0/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Black Sands in Hawaii"
+		},
+		{
+			"id": "52",
+			"src": "https://www.instagram.com/p/_xbG27s2Bg/",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Windy days in Oahu"
+		},
+		{
+			"id": "53",
+			"src": "https://www.instagram.com/p/_uTU3-s2Kf",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Xmas rainbows in Honolulu"
+		}
+	],
+	"note": "n/a"
+}

@@ -1,0 +1,169 @@
+{
+	"seenL": 0,
+	"seen": 1,
+	"places": {
+		"Nashville": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"high": 8.3,
+					"low": -2.2
+				},
+				{
+					"heading": "Feb",
+					"high": 11.1,
+					"low": 0
+				},
+				{
+					"heading": "Mar",
+					"high": 16.1,
+					"low": 3.9
+				},
+				{
+					"heading": "Apr",
+					"high": 21.7,
+					"low": 8.9
+				},
+				{
+					"heading": "May",
+					"high": 25.6,
+					"low": 13.9
+				},
+				{
+					"heading": "Jun",
+					"high": 30,
+					"low": 18.3
+				},
+				{
+					"heading": "Jul",
+					"high": 31.7,
+					"low": 21.1
+				},
+				{
+					"heading": "Aug",
+					"high": 31.7,
+					"low": 20
+				},
+				{
+					"heading": "Sep",
+					"high": 27.8,
+					"low": 16.1
+				},
+				{
+					"heading": "Oct",
+					"high": 22.2,
+					"low": 9.4
+				},
+				{
+					"heading": "Nov",
+					"high": 15.6,
+					"low": 3.9
+				},
+				{
+					"heading": "Dec",
+					"high": 10,
+					"low": -0.6
+				}
+			],
+			"lat": 36.16223,
+			"lon": -86.77434
+		},
+		"Memphis": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 132,
+					"high": 9,
+					"low": 1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 125,
+					"high": 12,
+					"low": 0
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 141,
+					"high": 20,
+					"low": 7
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 167,
+					"high": 28,
+					"low": 10
+				},
+				{
+					"heading": "May",
+					"precipitation": 166,
+					"high": 30,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 154,
+					"high": 34,
+					"low": 23
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 112,
+					"high": 33,
+					"low": 24
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 74,
+					"high": 33,
+					"low": 23
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 139,
+					"high": 31,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 124,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 100,
+					"high": 19,
+					"low": 7
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 131,
+					"high": 9,
+					"low": 3
+				}
+			],
+			"lat": 35.14944,
+			"lon": -90.04889
+		}
+	},
+	"snippets": [
+		{
+			"id": "31",
+			"src": "https://www.instagram.com/p/B5S2eQ5AUt4",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "All aboard the Chattanooga Choo Choo"
+		},
+		{
+			"id": "32",
+			"src": "https://www.instagram.com/p/B5Q7-7sgVQR",
+			"source": "",
+			"type": "instagram",
+			"embed": true,
+			"title": "Hiking in the Woods in Tennessee"
+		}
+	],
+	"note": "<p>You may not be able to take a train to Cincinnati but you can stay in <a href=\"https://www.choochoo.com/\">a train station</a> in Chattanooga. There is some nice hiking nearby in particular the &#39;&#39;&#39;Audobon Acres Hiking Trail&#39;&#39;&#39;.</p>\n"
+}

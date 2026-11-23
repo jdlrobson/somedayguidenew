@@ -1,0 +1,86 @@
+{
+	"seenL": 0,
+	"seen": 0,
+	"places": {
+		"Oklahoma City": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 40,
+					"high": 8,
+					"low": -1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 56,
+					"high": 13,
+					"low": -1
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 96,
+					"high": 20,
+					"low": 5
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 148,
+					"high": 29,
+					"low": 11
+				},
+				{
+					"heading": "May",
+					"precipitation": 171,
+					"high": 31,
+					"low": 17
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 144,
+					"high": 34,
+					"low": 21
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 133,
+					"high": 34,
+					"low": 25
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 59,
+					"high": 35,
+					"low": 25
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 86,
+					"high": 29,
+					"low": 18
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 73,
+					"high": 25,
+					"low": 12
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 60,
+					"high": 18,
+					"low": 8
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 37,
+					"high": 9,
+					"low": -2
+				}
+			],
+			"lat": 35.46861111,
+			"lon": -97.52138889
+		}
+	},
+	"snippets": [],
+	"note": "n/a"
+}

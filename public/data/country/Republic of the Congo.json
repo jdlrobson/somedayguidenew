@@ -4,7 +4,7 @@
 		{
 			"id": "1",
 			"text": "<small>[from en.wikipedia.org]:</small> The Lesio-Louna Reserve is found in the Republic of the Congo. It was established on 28 December 1993. This site is 440.00 km2.",
-			"src": "null",
+			"src": "",
 			"source": "",
 			"type": "url",
 			"embed": false,
@@ -14,7 +14,7 @@
 		{
 			"id": "2",
 			"text": "<small>[from en.wikipedia.org]:</small> The Conkouati-Douli National Park is a UNESCO-recognised coastal national park in the Republic of the Congo. The park's main activities include community outreach, biological research and tourism development. It was established by the Presidential Decree No. 99-136 on 14 August 1999.",
-			"src": "null",
+			"src": "",
 			"source": "",
 			"type": "url",
 			"embed": false,
@@ -42,9 +42,18 @@
 			"url": "https://blog.rhinoafrica.com/2024/11/19/wild-heart-of-the-congo-my-odzala-kokoua-national-park-adventure/"
 		},
 		{
+			"id": "5",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Réserve du Mont Fouari",
+			"url": "https://fr.wikipedia.org/wiki/R%C3%A9serve_du_Mont_Fouari"
+		},
+		{
 			"id": "6",
 			"text": "<small>[from en.wikipedia.org]:</small> Odzala-Kokoua National Park is a national park in the Republic of the Congo. The park was first protected in 1935, declared a biosphere reserve in 1977, and granted official designation by presidential decree in 2001. Odzala-Kokoua has approximately 100 mammal species, and one of the continent's most diverse primate populations. The nonprofit conservation organization African Parks began managing the park in collaboration with the Ministry of Forest Economy, Sustainable Development and Environment of the Republic of the Congo in 2010.",
-			"src": "null",
+			"src": "",
 			"source": "",
 			"type": "url",
 			"embed": false,
@@ -53,11 +62,11 @@
 		},
 		{
 			"id": "7",
-			"src": "",
+			"src": "https://preview.redd.it/meet-the-goliath-tigerfish-hydrocynus-goliath-the-apex-v0-6b49k8l9uzce1.jpg?width=693&format=pjpg&auto=webp&s=dd2055a21dccd0c6e2bf42f7c4c90cc21ad0fdd1",
 			"source": "",
 			"type": "url",
 			"embed": false,
-			"title": "Reddit - The heart of the internet",
+			"title": "Reddit - Meet the Goliath Tigerfish",
 			"url": "https://www.reddit.com/r/AIDKE/comments/1i1b8se/meet_the_goliath_tigerfish_hydrocynus_goliath_the/"
 		}
 	],

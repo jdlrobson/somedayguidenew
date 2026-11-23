@@ -1,0 +1,86 @@
+{
+	"seenL": 0,
+	"seen": 0,
+	"places": {
+		"Minneapolis": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 248.9,
+					"high": -17.8,
+					"low": -6.1
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 213.4,
+					"high": -17.8,
+					"low": -2.8
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 271.8,
+					"high": -17.2,
+					"low": 3.9
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 71.1,
+					"high": -16.7,
+					"low": 13.3
+				},
+				{
+					"heading": "May",
+					"precipitation": 2.5,
+					"high": -16.1,
+					"low": 20.6
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 104.1,
+					"high": 25.6,
+					"low": 14.4
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 94,
+					"high": 28.3,
+					"low": 17.2
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 91.4,
+					"high": 27.2,
+					"low": 16.1
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 68.6,
+					"high": 21.7,
+					"low": 10
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 12.7,
+					"high": -17.2,
+					"low": 15
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 200.7,
+					"high": -17.2,
+					"low": 4.4
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 236.2,
+					"high": -17.2,
+					"low": -3.3
+				}
+			],
+			"lat": 44.98194444,
+			"lon": -93.26916667
+		}
+	},
+	"snippets": [],
+	"note": "n/a"
+}

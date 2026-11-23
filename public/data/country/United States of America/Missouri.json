@@ -1,0 +1,86 @@
+{
+	"seenL": 0,
+	"seen": 0,
+	"places": {
+		"St. Louis": {
+			"climate": [
+				{
+					"heading": "Jan",
+					"precipitation": 5.6,
+					"high": 2,
+					"low": 40
+				},
+				{
+					"heading": "Feb",
+					"precipitation": 4.3,
+					"high": 2,
+					"low": 45
+				},
+				{
+					"heading": "Mar",
+					"precipitation": 2.3,
+					"high": 3,
+					"low": 56
+				},
+				{
+					"heading": "Apr",
+					"precipitation": 0.4,
+					"high": 3,
+					"low": 67
+				},
+				{
+					"heading": "May",
+					"precipitation": 0,
+					"high": 4,
+					"low": 76
+				},
+				{
+					"heading": "Jun",
+					"precipitation": 0,
+					"high": 4,
+					"low": 85
+				},
+				{
+					"heading": "Jul",
+					"precipitation": 0,
+					"high": 4,
+					"low": 89
+				},
+				{
+					"heading": "Aug",
+					"precipitation": 0,
+					"high": 3,
+					"low": 88
+				},
+				{
+					"heading": "Sep",
+					"precipitation": 0,
+					"high": 3,
+					"low": 80
+				},
+				{
+					"heading": "Oct",
+					"precipitation": 0,
+					"high": 3,
+					"low": 69
+				},
+				{
+					"heading": "Nov",
+					"precipitation": 0.7,
+					"high": 3,
+					"low": 56
+				},
+				{
+					"heading": "Dec",
+					"precipitation": 4.4,
+					"high": 2,
+					"low": 43
+				}
+			],
+			"lat": 38.62722222,
+			"lon": -90.19777778
+		}
+	},
+	"snippets": [],
+	"note": "n/a"
+}
