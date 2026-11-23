@@ -45,7 +45,9 @@ const importClimateWikivoyage = ( data, usesImperial = false ) => {
         return Array.from( tableRow[0].querySelectorAll( 'td' ) )
             .filter((col) => !!col.querySelector( 'div[style]' ))
             .map( ( col ) => {
-                const data = Array.from(col.querySelectorAll( 'div > div' )).map((d) => d.textContent).filter((d) => d.trim());
+                const data = Array.from(col.querySelectorAll( 'div > div' )).map((d) => d.textContent).filter((d) => d.trim()).map(
+                    (s) => s.replace(/[−]/, '-')
+                );
                 const low = parseFloat( data[3], 10 );
                 const high = parseFloat( data[2], 10 );
                 const precipitation = parseFloat( data[1], 10 );

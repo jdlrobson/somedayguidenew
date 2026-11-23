@@ -6700,7 +6700,12 @@
 		],
 		"links": [],
 		"destinations": [
-			"Tarawa"
+			"Tarawa",
+			"Nauru",
+			"Federated States of Micronesia",
+			"Fiji",
+			"Marshall Islands",
+			"Solomon Islands"
 		],
 		"wb": "Q710",
 		"neighbors": [
@@ -6722,7 +6727,7 @@
 		"snippets": 0,
 		"zoom": 4,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:KiribatiPresidential_Residence.jpg",
-		"updated": "2025-08-23T04:07:27.187Z"
+		"updated": "2026-11-23T17:30:42.100Z"
 	},
 	"Kuwait": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_5_54_Q8desert_jpg_440px-Q8desert.jpg",
@@ -13323,7 +13328,7 @@
 				"English"
 			]
 		},
-		"snippets": 0,
+		"snippets": 1,
 		"zoom": 7,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Malakula_funeral_masks.jpg",
 		"updated": "2025-08-23T04:17:13.820Z"

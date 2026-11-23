@@ -1,4 +1,5 @@
 import SLC from './fixtures/SLC.json';
+import Utqiagvik from './fixtures/Utqiagvik.json';
 import ArizonaCities from './fixtures/ArizonaCities.json';
 import CaliCities from './fixtures/CaliforniaCities.json';
 
@@ -113,6 +114,17 @@ describe( 'calculateRegionClimate', () => {
             importClimateWikivoyage(SLC, true),
         ).toStrictEqual(
             expected
+        );
+    } );
+    test( 'it can handle weird characters', () => {
+        expect(
+            importClimateWikivoyage(Utqiagvik, true)[0]
+        ).toStrictEqual(
+            {
+                high: -20.6,
+                low: -27.8,
+                precipitation: 2.5
+            }
         );
     } );
 } );

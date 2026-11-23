@@ -91,64 +91,76 @@
 			"name": "Alaska",
 			"climate": [
 				{
-					"heading": "Jan",
-					"high": -5,
-					"low": -12
+					"precipitation": 35.6,
+					"low": -27.8,
+					"high": 3.9,
+					"heading": "Jan"
 				},
 				{
-					"heading": "Feb",
-					"high": -3,
-					"low": -10
+					"precipitation": 33,
+					"low": -27.8,
+					"high": 7.2,
+					"heading": "Feb"
 				},
 				{
-					"heading": "Mar",
-					"high": 1,
-					"low": -7
+					"precipitation": 45.7,
+					"low": -27.2,
+					"high": 12.8,
+					"heading": "Mar"
 				},
 				{
-					"heading": "Apr",
-					"high": 7,
-					"low": 2
+					"precipitation": 55.9,
+					"low": -19.4,
+					"high": 16.7,
+					"heading": "Apr"
 				},
 				{
-					"heading": "May",
-					"high": 13,
-					"low": 4
+					"precipitation": 45.7,
+					"low": -7.2,
+					"high": 22.8,
+					"heading": "May"
 				},
 				{
-					"heading": "Jun",
-					"high": 17,
-					"low": 9
+					"precipitation": 25.4,
+					"low": -0.6,
+					"high": 28.9,
+					"heading": "Jun"
 				},
 				{
-					"heading": "Jul",
-					"high": 18,
-					"low": 11
+					"precipitation": 25.4,
+					"low": 2.2,
+					"high": 34.4,
+					"heading": "Jul"
 				},
 				{
-					"heading": "Aug",
-					"high": 18,
-					"low": 10
+					"precipitation": 27.9,
+					"low": 1.7,
+					"high": 33.3,
+					"heading": "Aug"
 				},
 				{
-					"heading": "Sep",
-					"high": 13,
-					"low": 6
+					"precipitation": 27.9,
+					"low": -1.1,
+					"high": 27.2,
+					"heading": "Sep"
 				},
 				{
-					"heading": "Oct",
-					"high": 4,
-					"low": -2
+					"precipitation": 33,
+					"low": -8.3,
+					"high": 18.9,
+					"heading": "Oct"
 				},
 				{
-					"heading": "Nov",
-					"high": -2,
-					"low": -8
+					"precipitation": 33,
+					"low": -17.8,
+					"high": 10.6,
+					"heading": "Nov"
 				},
 				{
-					"heading": "Dec",
-					"high": -4,
-					"low": -11
+					"precipitation": 35.6,
+					"low": -24.4,
+					"high": 3.9,
+					"heading": "Dec"
 				}
 			],
 			"snippets": 9
