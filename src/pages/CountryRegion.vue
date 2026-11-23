@@ -30,6 +30,7 @@ const addSnippetUrl = `https://github.com/jdlrobson/somedayguidenew/new/main/not
 const editDestinationsUrl = `https://github.com/jdlrobson/somedayguidenew/edit/main/notes/country/${countryName}/${regionName}/destinations.txt`
 const places = ref( {} );
 const snippets = ref( [] );
+const airports = ref( [] );
 const note = ref( '' );
 const currentRegion = ref( {
     seenL: 0,
@@ -55,6 +56,7 @@ onMounted(() => {
     fetch(`/data/country/${countryName}/${regionName}.json`).then((r) => r.json())
         .then(( region ) => {
             currentRegion.value = region;
+            airports.value = region.airports;
             note.value = region.note;
             places.value = region.places;
             const placeKeys = Object.keys(region.places);
@@ -90,6 +92,15 @@ const countryUrl = `/country/${countryName}`;
                         :places="destinationCoordinates"
                         :center="[ country.lat, country.lon ]" :zoom="country.zoom || 8"></Map>
                     <a :href="editDestinationsUrl" class="editLink">edit</a>
+                </note>
+                <note v-if="airports.length">
+                    <strong>Airports: </strong>
+                    <p>
+                        <span v-for="a in airports">
+                            <a target="_blank"
+                            :href="`https://www.flightaware.com/live/airport/${ a }`">{{ a }}</a>&nbsp;
+                        </span>
+                    </p>
                 </note>
                 <NoteToSelf :note="note" :url="editUrl"></NoteToSelf>
             </StoryBoard>
