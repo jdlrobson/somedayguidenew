@@ -82,5 +82,12 @@
 		}
 	},
 	"snippets": [],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"AVP",
+		"ERI",
+		"MDT",
+		"PHL",
+		"PIT"
+	]
 }

@@ -82,5 +82,14 @@
 		}
 	},
 	"snippets": [],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"ALB",
+		"BUF",
+		"IAG",
+		"JFK",
+		"ROC",
+		"SWF",
+		"SYR"
+	]
 }

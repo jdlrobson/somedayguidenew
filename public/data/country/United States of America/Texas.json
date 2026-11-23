@@ -247,5 +247,16 @@
 			"title": "Meow Wolf Houston"
 		}
 	],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"AUS",
+		"BRO",
+		"CRP",
+		"DFW",
+		"ELP",
+		"IAH",
+		"LBB",
+		"MAF",
+		"SAT"
+	]
 }

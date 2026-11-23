@@ -115,5 +115,9 @@
 			"title": "Rabbit in downtown Chicago."
 		}
 	],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"MDW",
+		"RFD"
+	]
 }

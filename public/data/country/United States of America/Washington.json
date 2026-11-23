@@ -99,5 +99,10 @@
 			"title": "Fremont - center of universe"
 		}
 	],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"BLI",
+		"GEG",
+		"PAE"
+	]
 }

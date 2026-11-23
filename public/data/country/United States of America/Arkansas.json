@@ -1,6 +1,9 @@
 {
 	"seenL": 0,
 	"seen": 0,
+	"airports": [
+		"LIT"
+	],
 	"places": {
 		"Hot Springs (Arkansas)": {
 			"lat": 34.50361,

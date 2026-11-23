@@ -91,5 +91,8 @@
 			"title": "Banksy in New Orleans"
 		}
 	],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"MSY"
+	]
 }

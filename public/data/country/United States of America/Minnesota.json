@@ -82,5 +82,12 @@
 		}
 	},
 	"snippets": [],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"BDE",
+		"DLH",
+		"INL",
+		"MSP",
+		"RST"
+	]
 }

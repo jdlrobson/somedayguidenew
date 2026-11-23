@@ -58,5 +58,8 @@
 	},
 	"seen": 1,
 	"seenL": 1,
-	"snippets": []
+	"snippets": [],
+	"airports": [
+		"PDX"
+	]
 }

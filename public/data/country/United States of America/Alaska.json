@@ -1,6 +1,12 @@
 {
 	"seenL": 1,
 	"seen": 1,
+	"airports": [
+		"ANC",
+		"FAI",
+		"JNU",
+		"KTN"
+	],
 	"places": {
 		"Anchorage": {
 			"climate": [

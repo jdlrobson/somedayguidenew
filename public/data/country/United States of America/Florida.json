@@ -99,5 +99,24 @@
 			"lat": 25.76666667,
 			"lon": -80.2
 		}
-	}
+	},
+	"airports": [
+		"ECP",
+		"EYW",
+		"FLL",
+		"ISM",
+		"JAX",
+		"LAL",
+		"MCO",
+		"MIA",
+		"MLB",
+		"PBI",
+		"PIE",
+		"PNS",
+		"RSW",
+		"SFB",
+		"SRQ",
+		"TLH",
+		"TPA"
+	]
 }

@@ -160,5 +160,11 @@
 		}
 	},
 	"snippets": [],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"CLT",
+		"GSO",
+		"ILM",
+		"RDU"
+	]
 }

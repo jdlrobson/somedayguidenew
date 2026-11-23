@@ -2,6 +2,10 @@
 	"seenL": 0,
 	"seen": 0,
 	"places": {},
+	"airports": [
+		"BHM",
+		"HSV"
+	],
 	"snippets": [],
 	"note": "n/a"
 }

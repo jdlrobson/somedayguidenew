@@ -165,5 +165,10 @@
 			"title": "Hiking in the Woods in Tennessee"
 		}
 	],
-	"note": "<p>You may not be able to take a train to Cincinnati but you can stay in <a href=\"https://www.choochoo.com/\">a train station</a> in Chattanooga. There is some nice hiking nearby in particular the &#39;&#39;&#39;Audobon Acres Hiking Trail&#39;&#39;&#39;.</p>\n"
+	"note": "<p>You may not be able to take a train to Cincinnati but you can stay in <a href=\"https://www.choochoo.com/\">a train station</a> in Chattanooga. There is some nice hiking nearby in particular the &#39;&#39;&#39;Audobon Acres Hiking Trail&#39;&#39;&#39;.</p>\n",
+	"airports": [
+		"BNA",
+		"MEM",
+		"TYS"
+	]
 }

@@ -75,5 +75,8 @@
 			"title": "Meow Wolf in Santa Fe"
 		}
 	],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"ABQ"
+	]
 }

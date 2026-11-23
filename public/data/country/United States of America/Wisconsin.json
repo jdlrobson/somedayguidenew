@@ -3,5 +3,13 @@
 	"seen": 0,
 	"places": {},
 	"snippets": [],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"ATW",
+		"GRB",
+		"MKE",
+		"MSN",
+		"RAC",
+		"SBM"
+	]
 }

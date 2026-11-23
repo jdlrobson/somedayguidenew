@@ -3,5 +3,8 @@
 	"seen": 1,
 	"places": {},
 	"snippets": [],
-	"note": "n/a"
+	"note": "n/a",
+	"airports": [
+		"BOI"
+	]
 }

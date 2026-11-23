@@ -2,6 +2,20 @@
 	"note": "n/a",
 	"seenL": 1,
 	"seen": 1,
+	"airports": [
+		"CXL",
+		"FAT",
+		"LAX",
+		"OAK",
+		"ONT",
+		"PSP",
+		"SAN",
+		"SBD",
+		"SFO",
+		"SJC",
+		"SMF",
+		"SNA"
+	],
 	"snippets": [
 		{
 			"id": "13",
