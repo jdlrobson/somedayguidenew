@@ -4,12 +4,20 @@ const props = defineProps({
   climate: Array
 });
 
+const MONTHS = [ 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec' ];
 const d = new Date()
 const activeMonth = ref(d.getMonth());
 
 const setMonth = ( ev ) => {
     activeMonth.value = parseInt( ev.target.value, 10 );
 };
+const climate = ref(
+    props.climate.map( ( c, i ) =>
+        Object.assign( c, {
+            heading: MONTHS[i]
+        } )
+    )
+);
 </script>
 
 <template>
