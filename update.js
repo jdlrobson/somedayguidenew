@@ -301,6 +301,15 @@ function filePathToString( path ) {
 }
 
 /**
+ * @param {string} path of file
+ * @return {Object}
+ */
+function filePathToJSON( path ) {
+    const string = filePathToString( path );
+    return string === null ? {} : JSON.parse( string );
+}
+
+/**
  * @param {string} notePath a file (usually note.txt)
  * @return {string} n/a if path doesn't exist.
  */
@@ -321,11 +330,7 @@ function filePathToMarkDown( notePath ) {
 function prepareCountryRegionFromNotes( region, country ) {
     const regionPath = `notes/country/${country}/${region}`;
     const publicCountryRegionPath = `public/data/country/${country}/${region}.json`;
-    let countryRegionJson = {};
-    if ( fs.existsSync( publicCountryRegionPath ) ) {
-        const jsonString = fs.readFileSync( publicCountryRegionPath ).toString();
-        countryRegionJson = JSON.parse( jsonString );
-    }
+    const countryRegionJson = filePathToJSON( publicCountryRegionPath );
     if ( !countryRegionJson.seenL ) {
         countryRegionJson.seenL = 0;
     }
@@ -444,15 +449,6 @@ function writeJsonToFile( path, json ) {
     fs.writeFileSync(path, JSON.stringify( json, null, "\t") );
 }
 
-function getPathAsJson( path ) {
-    if ( fs.existsSync( path ) ) {
-        return JSON.parse( fs.readFileSync( path ) );
-    } else {
-        return {};
-    }
-
-}
-
 /**
  * Scans regions for an orphaned city and updates it if found.
  *
@@ -465,7 +461,7 @@ function getPathAsJson( path ) {
 function updateRegionWithPlace( countryName, region, city, place ) {
     let success = false;
     const path = `public/data/country/${countryName}/${region}.json`;
-    const regionData = getPathAsJson( path );
+    const regionData = filePathToJSON( path );
     const regionCities = Object.keys( regionData.places || {} );
     if ( regionCities.includes( city ) ) {
         console.log( `Moving ${ city } from ${countryName} to ${ region }`);
@@ -482,7 +478,7 @@ function updateCountries() {
     let allAirports = [];
     Object.keys(json).forEach((c) => {
         const countryDataPath = `public/data/country/${c}.json`;
-        const country = JSON.parse( fs.readFileSync( countryDataPath ).toString() );
+        const country = filePathToJSON( countryDataPath );
         country.note = countryNotes[c];
         if ( !country.places ) {
             country.places = {};
@@ -599,7 +595,7 @@ function pullLocations() {
             return;
         }
         const countryDataPath = `public/data/country/${countryName}.json`;
-        const country = JSON.parse( fs.readFileSync(countryDataPath).toString() );
+        const country = filePathToJSON( countryDataPath );
         const places = Object.keys( country.places );
         const lackingLonLat = places.filter((p) => !country.places[p].lat);
         // no need to pull for this country if already known.
