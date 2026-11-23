@@ -500,7 +500,7 @@ function updateCountries() {
             if ( !destinations.includes(key) ) {
                 const place = country.places[key];
                 let success = false;
-                country.regions.forEach( ( region ) => {
+                ( country.regions || [] ).forEach( ( region ) => {
                     success = success || updateRegionWithPlace( c, region, key, place );
                 } );
                 if ( !success ) {
