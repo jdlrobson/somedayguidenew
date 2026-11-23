@@ -146,6 +146,8 @@ const wikivoyageTitle = country.value.wikivoyageTitle || country.value.title;
                     :href="`/country/${countryName}/${region.name}`"
                     :thumbnail="region.thumbnail"
                 >
+                    <climate v-if="region.climate" :climate="region.climate">
+                    </climate>
                 </Postit>
             </InspirationBoard>
         </article>
