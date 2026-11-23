@@ -7,6 +7,7 @@ import { parse } from 'marked';
 import sharp from 'sharp';
 import { Readable } from 'stream';
 import { finished } from 'stream/promises';
+import { calculateRegionClimate } from './build-src/climate.js';
 
 let allSrcs  = [];
 const MAX_FILENAME_LENGTH = 140;
@@ -404,6 +405,7 @@ function prepareFromNotes() {
                     const noteCount = regionJson.note.includes('n/a') ? 0 : 1;
                     countryRegions[ c ].push( {
                         name: path,
+                        climate: calculateRegionClimate( Object.values( regionJson.places ) ),
                         snippets: regionJson.snippets.length + noteCount
                     } );
                 }
