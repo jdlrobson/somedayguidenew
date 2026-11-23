@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "test:unit": "vitest run",
     "update": "node update.js",
     "update:local": "node update.js --local",
     "start": "npm run update && vite",
