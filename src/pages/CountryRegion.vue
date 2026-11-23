@@ -82,7 +82,7 @@ const countryUrl = `/country/${countryName}`;
         <Header :title="regionName" :center="center" :zoom="zoom"
             :hero="hero"></Header>
         <article>
-            <note>
+            <note :is-wide="true">
                 Noteworthy places in {{ regionName }}, <RouterLink :to="countryUrl">{{ countryName }}</RouterLink> that we've been or bookmarked for later.
             </note>
             <StoryBoard>
@@ -102,7 +102,7 @@ const countryUrl = `/country/${countryName}`;
                         </span>
                     </p>
                 </note>
-                <NoteToSelf :note="note" :url="editUrl"></NoteToSelf>
+                <NoteToSelf :is-wide="true" :note="note" :url="editUrl"></NoteToSelf>
             </StoryBoard>
             <InspirationBoard>
                  <Postit v-for="(s, i) in snippets" @click="loadInstagram"
