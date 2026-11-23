@@ -2437,10 +2437,8 @@
 			"Zhanjiang",
 			"Kaiping",
 			"Xiamen",
-			"Great Wall of China",
 			"Hainan",
 			"Qomolangma",
-			"Yungang Grottoes",
 			"Yunnan",
 			"Heijing",
 			"Ruili",
@@ -2481,10 +2479,10 @@
 			],
 			"currency": "CNY"
 		},
-		"snippets": 48,
+		"snippets": 49,
 		"zoom": 3,
 		"thumbnailSource": "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG",
-		"updated": "2025-06-01T17:58:45.385Z"
+		"updated": "2026-11-23T18:34:42.011Z"
 	},
 	"Colombia": {
 		"thumbnail": "/images/upload_wikimedia_org_wikipedia_commons_thumb_e_e0_Nevado_del_Ruiz_Valle_de_los_muertos_JPG_440px-Nevado_del_Ruiz_Valle_de_los_muertos.JPG",

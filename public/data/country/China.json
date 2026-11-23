@@ -341,6 +341,15 @@
 			"url": "https://www.myfavouritelens.com/luohan-temple-chongqing/"
 		},
 		{
+			"id": "39",
+			"src": "",
+			"source": "",
+			"type": "url",
+			"embed": false,
+			"title": "Yungang Grottoes",
+			"url": "https://jdlrobson.com"
+		},
+		{
 			"id": "4",
 			"src": "https://www.instagram.com/p/BdWY_scA3iu",
 			"source": "",
@@ -2890,10 +2899,6 @@
 			"lat": 24.4796,
 			"lon": 118.0889
 		},
-		"Great Wall of China": {
-			"lat": 40.67693,
-			"lon": 117.23193
-		},
 		"Hainan": {
 			"lat": 19.2,
 			"lon": 109.7
@@ -2901,10 +2906,6 @@
 		"Qomolangma": {
 			"lat": 28.180981,
 			"lon": 86.802979
-		},
-		"Yungang Grottoes": {
-			"lat": 40.1105,
-			"lon": 113.1259
 		},
 		"Yunnan": {
 			"lat": 25,
